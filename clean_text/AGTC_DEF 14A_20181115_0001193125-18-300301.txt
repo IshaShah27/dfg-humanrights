@@ -1,0 +1,635 @@
+UNITED STATES 
+SECURITIES AND EXCHANGE COMMISSION 
+Washington, D.C. 20549 
+SCHEDULE 14A 
+Proxy Statement Pursuant to Section 14(a) of the 
+Securities Exchange Act of 1934 
+Filed by the Registrant  ☒                            Filed by a Party other than the Registrant  ☐ 
+Check the appropriate box: 
+[BEGIN TABLE]
+ ☐   Preliminary Proxy Statement 
+ ☐   Confidential, for Use of the Commission Only (as permitted by Rule 14a-6(e)(2)) 
+ ☒   Definitive Proxy Statement 
+ ☐   Definitive Additional Materials 
+ ☐   Soliciting Material Pursuant to §240.14a-12 
+[END TABLE]
+APPLIED GENETIC TECHNOLOGIES CORPORATION 
+(Name of Registrant as Specified In Its Charter) 
+Not Applicable 
+(Name of Person(s) Filing Proxy Statement, if other than the Registrant) 
+Payment of Filing Fee (Check the appropriate box): 
+[BEGIN TABLE]
+ ☒   No fee required. 
+ ☐   Fee computed on table below per Exchange Act Rules 14a-6(i)(1) and 0-11. 
+    (1)    Title of each class of securities to which transaction applies:       
+    (1)    Title of each class of securities to which transaction applies:       
+    (1)    Title of each class of securities to which transaction applies:       
+    (2)    Aggregate number of securities to which transaction applies:         
+    (2)    Aggregate number of securities to which transaction applies:         
+    (2)    Aggregate number of securities to which transaction applies:         
+    (3)    Per unit price or other underlying value of transaction computed pursuant to Exchange Act  Rule 0-11 (set forth the amount on which the filing fee is calculated and state how it was determined):       
+    (3)    Per unit price or other underlying value of transaction computed pursuant to Exchange Act  Rule 0-11 (set forth the amount on which the filing fee is calculated and state how it was determined):       
+    (3)    Per unit price or other underlying value of transaction computed pursuant to Exchange Act  Rule 0-11 (set forth the amount on which the filing fee is calculated and state how it was determined):       
+    (4)    Proposed maximum aggregate value of transaction:         
+    (4)    Proposed maximum aggregate value of transaction:         
+    (4)    Proposed maximum aggregate value of transaction:         
+    (5)    Total fee paid:         
+    (5)    Total fee paid:         
+    (5)    Total fee paid:         
+ ☐   Fee paid previously with preliminary materials. 
+ ☐   Check box if any part of the fee is offset as provided by Exchange Act Rule 0-11(a)(2) and identify the filing for which the offsetting fee was paid previously.  Identify the previous filing by registration statement number, or the Form or Schedule and the date of its filing. 
+    (1)    Amount Previously Paid:         
+    (1)    Amount Previously Paid:         
+    (1)    Amount Previously Paid:         
+    (2)    Form, Schedule or Registration Statement No.:         
+    (2)    Form, Schedule or Registration Statement No.:         
+    (2)    Form, Schedule or Registration Statement No.:         
+    (3)    Filing Party:         
+    (3)    Filing Party:         
+    (3)    Filing Party:         
+    (4)    Date Filed:         
+    (4)    Date Filed:         
+    (4)    Date Filed:         
+[END TABLE]
+APPLIED GENETIC TECHNOLOGIES CORPORATION 
+14193 NW 119th Terrace 
+Alachua, Florida 32615 
+NOTICE OF 2019 ANNUAL MEETING OF STOCKHOLDERS 
+Dear Stockholder: 
+We invite you to attend our 2019 Annual Meeting of Stockholders, which is being held as follows: 
+[BEGIN TABLE]
+     Date:     November 15, 2018 
+     Time:     2:00 p.m., Eastern time 
+     Location:     Applied Genetic Technologies Corporation One Kendall Square, 1400W Cambridge, MA 02139 
+     Location:     Applied Genetic Technologies Corporation One Kendall Square, 1400W Cambridge, MA 02139 
+[END TABLE]
+At the meeting, we will ask our stockholders to: 
+[BEGIN TABLE]
+• re-elect as our Class II directors Scott Koenig and Ivana  Magovcevic-Liebisch, each to serve for a three-year term ending at our 2022 annual meeting of stockholders;  
+[END TABLE]
+[BEGIN TABLE]
+• ratify the appointment of Ernst & Young LLP as our independent registered public accounting firm for  fiscal year 2019; and  
+[END TABLE]
+[BEGIN TABLE]
+• consider any other business properly presented at the meeting.  
+[END TABLE]
+You may vote on these matters in person, by proxy or via the internet or telephone. Whether or not you plan to attend the meeting, we ask that you promptly complete and return the enclosed proxy card in the enclosed addressed, postage-paid envelope or vote via the internet or telephone, so that your shares will be represented and voted at the meeting in accordance with your wishes. If you attend the meeting, you may withdraw your proxy or internet or telephone vote and vote your shares in person. Only stockholders of record at the close of business on October 15, 2018 may vote at the meeting. 
+By order of the Board of Directors, 
+Hemmie Chang 
+Secretary 
+October 16, 2018 
+***************** 
+IMPORTANT NOTICE REGARDING THE AVAILABILITY OF PROXY MATERIALS FOR THE 
+ANNUAL MEETING OF STOCKHOLDERS TO BE HELD ON NOVEMBER 15, 2018 
+This proxy statement and our fiscal year 2018 Annual Report to Stockholders are also available for viewing, printing and downloading at www.edocumentview.com/AGTC. 
+i 
+TABLE OF CONTENTS 
+[BEGIN TABLE]
+ INFORMATION ABOUT THE MEETING      1   
+ The Meeting      1   
+ This Proxy Solicitation      1   
+ Who May Vote      1   
+ How to Vote      1   
+ Shares Held by Brokers or Nominees      2   
+ Quorum Required to Transact Business      3   
+ Multiple Stockholders Sharing the Same Address      3   
+ PROPOSAL 1: ELECTION OF DIRECTORS      4   
+ PROPOSAL 2:   RATIFICATION OF APPOINTMENT OF INDEPENDENT REGISTERED PUBLIC ACCOUNTING FIRM      8   
+ INFORMATION ABOUT OUR BOARD OF DIRECTORS AND  MANAGEMENT      9   
+ Board Composition      9   
+ Board Role in Risk Oversight      9   
+ Board Committees      10   
+ Compensation Committee Interlocks and Insider Participation      11   
+ Code of Business Conduct and Ethics; Corporate Governance  Guidelines      11   
+ Meetings of the Board of Directors      11   
+ Policy Regarding Board Attendance      11   
+ Director Candidates and Selection Process      11   
+ Communications with our Board of Directors      12   
+ Director Compensation      12   
+ Our Management      14   
+ EXECUTIVE COMPENSATION      16   
+ Executive Summary      16   
+ Summary Compensation Table for Fiscal Year 2018      16   
+ Narrative Disclosure to Summary Compensation Table      17   
+ Outstanding Equity Awards at Year End      18   
+ Severance and Change in Control Arrangements      18   
+ INFORMATION ABOUT COMMON STOCK OWNERSHIP      20   
+ Stock Owned by Directors, Executive Officers and Greater-Than-5 percent Stockholders      20   
+ Policy Regarding Hedging      21   
+ Section 16(a) Beneficial Ownership Reporting  Compliance      21   
+ CERTAIN RELATIONSHIPS AND RELATED PARTY TRANSACTIONS      22   
+ Indemnification of Officers and Directors      22   
+ Policies and Procedures for Related Person Transactions      22   
+ Agreements with Our Stockholders      22   
+ INFORMATION ABOUT OUR AUDIT COMMITTEE AND INDEPENDENT REGISTERED PUBLIC ACCOUNTING  FIRM      24   
+ Audit Committee Report      24   
+ Our Independent Registered Public Accounting Firm      24   
+ Fees for Professional Services      25   
+ Pre-Approval Policies and Procedures        25   
+ Whistleblower Procedures      25   
+ OTHER MATTERS      26   
+ Other Business      26   
+ Stockholder Proposals for Next Annual Meeting      26   
+[END TABLE]
+ii 
+INFORMATION ABOUT THE MEETING 
+The Meeting 
+The 2019 Annual Meeting of Stockholders of Applied Genetic Technologies Corporation will be held at 2:00 p.m., Eastern time, on Thursday, November 15, 2018 at our offices at One Kendall Square, 1400W, Cambridge MA 02139. At the meeting, stockholders of record on the record date for the meeting who are present or represented by proxy will have the opportunity to vote on the following matters: 
+[BEGIN TABLE]
+• the re-election of Scott Koenig and Ivana Magovcevic-Liebisch as our  Class II directors, to serve for a three-year term ending at our 2022 annual meeting of stockholders;  
+[END TABLE]
+[BEGIN TABLE]
+• the ratification of the appointment of Ernst & Young LLP as our independent registered public accounting  firm for our fiscal year ending on June 30, 2019; and  
+[END TABLE]
+[BEGIN TABLE]
+• any other business properly presented at the meeting.  
+[END TABLE]
+This Proxy Solicitation 
+We have sent you this proxy statement and the enclosed proxy card because our board of directors is soliciting your proxy to vote at the meeting (including any adjournment or postponement of the meeting). 
+[BEGIN TABLE]
+• This proxy statement summarizes information about the proposals to be considered at the meeting and other  information you may find useful in determining how to vote.  
+[END TABLE]
+[BEGIN TABLE]
+• The proxy card is the means by which you actually authorize another person to vote your shares at the  meeting in accordance with your instructions.  
+[END TABLE]
+We will pay the cost of soliciting proxies. Our directors, officers and employees may solicit proxies in person, by telephone or by other means. We will reimburse brokers and other nominee holders of shares for expenses they incur in forwarding proxy materials to the beneficial owners of those shares. We do not plan to retain the services of a proxy solicitation firm to assist us in this solicitation. 
+We will mail this proxy statement and the enclosed proxy card to stockholders for the first time on or about October 16, 2018. In this mailing, we will include a copy of our fiscal year 2018 Annual Report to Stockholders, which includes our Annual Report on Form 10-K for the year ended June 30, 2018 (excluding exhibits), as filed with the Securities and Exchange Commission. 
+Who May Vote 
+Holders of record of our common stock at the close of business on October 15, 2018 are entitled to one vote per share of common stock on each proposal properly brought before the annual meeting. 
+A list of stockholders entitled to vote will be available at the annual meeting. In addition, you may contact our Chief Financial Officer, William A. Sullivan, at our offices located at One Kendall Square, 1400W, Cambridge MA 02139, to make arrangements to review a copy of the stockholder list at those offices, between the hours of 9:00 a.m. and 5:00 p.m., Eastern time, on any business day from November  5, 2018 to the time of the annual meeting. 
+How to Vote 
+You are entitled to one vote at the meeting for each share of common stock registered in your name at the close of business on October 15, 2018, the record date for the meeting. You may vote your shares at the meeting   in person, by proxy or via the internet or the toll-free number (for residents of the United States and Canada) listed on your proxy card. 
+[BEGIN TABLE]
+• To vote in person, you must attend the meeting, and then complete and submit the ballot provided at the  meeting.  
+[END TABLE]
+[BEGIN TABLE]
+• To vote by proxy, you must complete and return the enclosed proxy card. Your proxy card will be valid only  if you sign, date and return it before the meeting. By completing and returning the proxy card, you will direct the persons named on the proxy card to vote your shares at the meeting in the manner you specify. If you complete all of the proxy card  except the voting instructions, then the designated persons will vote your shares FOR the re-election of each of Drs. Koenig and Magovcevic-Liebisch as a Class II director and FOR the ratification of our  independent registered public accounting firm. If any other business properly comes before the meeting, then the designated persons will have the discretion to vote in any manner they deem appropriate.  
+[END TABLE]
+[BEGIN TABLE]
+• To vote via the internet, you must access the website for internet voting at www.envisionreports.com/AGTC.  Please have the enclosed proxy card handy when you access the website and follow the on-screen instructions. Internet voting facilities for shareholders of record will be available 24 hours a day until 12:00  a.m. (Central time) on November 15, 2018. If you vote via the internet, you do not have to return your proxy card via mail.  
+[END TABLE]
+[BEGIN TABLE]
+• To vote via telephone, use any touch-tone telephone and call 1-800-652-VOTE (8683) to transmit your voting instructions up until 12:00 a.m. (Central time) on November 15, 2018. Please have the enclosed proxy card handy  when you call and then follow the instructions. If you vote via telephone, you do not have to return your proxy card via mail.  
+[END TABLE]
+If you vote by proxy or via the internet or telephone, you may revoke your vote at any time before it is exercised by taking one of the following actions: 
+[BEGIN TABLE]
+• sending written notice to our Secretary at our address set forth on the notice of meeting appearing on the cover  of this proxy statement;  
+[END TABLE]
+[BEGIN TABLE]
+• voting again by proxy or via the internet or telephone on a later date; or  
+[END TABLE]
+[BEGIN TABLE]
+• attending the meeting, notifying our Secretary that you are present, and then voting in person.   
+[END TABLE]
+Shares Held by Brokers or Nominees 
+If the shares you own are held in "street name" by a brokerage firm, your brokerage firm, as the record holder of your shares, is required to vote your shares according to your instructions. In order to vote your shares, you will need to follow the directions your brokerage firm provides you. Many brokers also offer the option of providing voting instructions to them over the internet or by telephone, directions for which would be provided by your brokerage firm on your vote instruction form. 
+Under stock exchange rules applicable to most brokerage firms, if you do not give instructions to your broker, it is permitted to vote any shares it holds for your account in its discretion with respect to "routine" proposals, but it is not allowed to vote your shares with respect to certain non-routine proposals. Proposal 1, regarding the election of directors is a "non-routine" proposal. If you do not instruct your broker how to vote with respect to Proposal 1, your broker will not vote on it and your shares will be recorded as "broker non-votes" and will not affect the outcome of the vote on Proposal 1. "Broker non-votes" are shares that are held in "street name" by a bank or brokerage firm that indicates on its proxy that, while voting in its discretion on one matter, it does not have or did not exercise discretionary authority to vote on another matter. 
+Proposal 2, the ratification of Ernst & Young LLP as our independent registered public accounting firm, is considered to be a routine item under the applicable rules and your broker will be able to vote on that item even if it does not receive instructions from you, so long as it holds your shares in its name.  If a broker or nominee holds shares of our common stock in "street name" for your account, then this proxy statement may have been forwarded to you with a voting instruction card, which allows you to instruct the broker or nominee how to vote your shares on the proposals described herein. To vote by proxy or to instruct your broker how to vote, you should follow the directions provided with the voting instruction card. In order to have your vote counted on Proposal 1, you must either provide timely voting instructions to your broker or obtain a properly executed proxy from the broker or other record holder of the shares that authorizes you to act on behalf of the record holder with respect to the shares held for your account. 
+Quorum Required to Transact Business 
+At the close of business on October 15, 2018, a total of 18,133,993 shares of our common stock were outstanding. Our by-laws require that a majority of the outstanding shares of our common stock be represented, in person or by proxy, at the meeting in order to constitute the quorum we need to transact business at the meeting. We will count abstentions and broker non-votes as shares represented at the meeting in determining whether a quorum exists. 
+Multiple Stockholders Sharing the Same Address 
+If you and other residents at your mailing address own shares of common stock through a broker or other nominee, you may have elected to receive only one copy of this proxy statement and our fiscal year 2018 Annual Report. If you and other residents at your mailing address own shares of common stock in your own names, you may have received only one copy of this proxy statement and our fiscal year 2018 Annual Report, unless you provided our transfer agent with contrary instructions. 
+This practice, known as "householding," is designed to reduce our printing and postage costs. You may promptly obtain an additional copy of this proxy statement, enclosed proxy card and our fiscal year 2018 Annual Report by sending a written request to Applied Genetic Technologies Corporation, attention William A. Sullivan, One Kendall Square, 1400W, Cambridge MA 02139, or by calling Mr. Sullivan at (617) 843-5728. If you hold your shares through a broker or other nominee and wish to discontinue householding or to change your householding election, you may do so by contacting your broker or by calling (800) 542-1061 or writing to Broadridge Financial Solutions, 51 Mercedes Way, Edgewood, NY 11717. If you hold shares in your own name and wish to discontinue householding or change your householding election, you may do so by calling (877) 373-6374 or writing to Computershare Investor Services at P.O. Box. 43078, Providence, RI 02940-3078. PROPOSAL 1: ELECTION OF DIRECTORS 
+The first proposal on the agenda for the meeting is the re-election of Scott Koenig, M.D., Ph.D. and Ivana Magovcevic-Liebisch, Ph.D., to serve as Class II directors. 
+Our board of directors is divided into three classes: 
+[BEGIN TABLE]
+• Anne VanLent and William Aliski are Class I directors whose terms end at our annual meeting in 2021;   
+[END TABLE]
+[BEGIN TABLE]
+• Drs. Koenig and Magovcevic-Liebisch are Class II directors whose terms end at our annual meeting in 2019;  and  
+[END TABLE]
+[BEGIN TABLE]
+• Susan B. Washer, Ed Hurwitz and James Rosen are Class III directors whose terms end at our annual meeting in  2020.  
+[END TABLE]
+At each annual meeting of stockholders, a class of directors is elected for a three-year term to succeed the directors of the same class whose terms are then expiring. The term of each Class II director elected at our 2019 Annual Meeting of stockholders will begin at the meeting and end at our 2022 Annual Meeting of stockholders, or, if later, when the director's successor has been elected and has qualified. 
+The following table sets forth certain information as of October 1, 2018, regarding our Class II directors, each of whom has been nominated for re-election, and each other director who will continue in office following the 2019 Annual Meeting. 
+[BEGIN TABLE]
+ Name    Age       Position(s) 
+ Scott Koenig, M.D., Ph.D. (2)(3)      66      Chairman of the Board of Directors 
+ Ivana Magovcevic-Liebisch, Ph.D. (1)(2)      51      Director 
+ Susan B. Washer      57      President, Chief Executive Officer and Director 
+ William Aliski, MPA (3)      71      Director 
+ Ed Hurwitz (1)       54      Director 
+ James Rosen (2)      49      Director 
+ Anne VanLent (1)      70      Director 
+[END TABLE]
+[BEGIN TABLE]
+(1)  Member of the Audit Committee.  
+[END TABLE]
+[BEGIN TABLE]
+(2)  Member of the Compensation Committee.  
+[END TABLE]
+[BEGIN TABLE]
+(3)  Member of the Nominating and Corporate Governance Committee.  
+[END TABLE]
+Class II Director Nominees 
+Scott Koenig, M.D., Ph.D. has served as a member of our board of directors since April 2002 and as chairman of our board of directors since April 2004. Dr. Koenig has served as the President and Chief Executive Officer and a director of MacroGenics, Inc., a publicly traded biopharmaceutical company, since September 2001 and was one of its co-founders. Prior to joining MacroGenics, Dr. Koenig served as Senior Vice President of Research at MedImmune Inc., a biopharmaceutical company, where he participated in the selection and maturation of its product pipeline. From 1984 to 1990, he worked in the Laboratory of Immunoregulation at the National Institute of Allergy and Infectious Diseases at the National Institutes of Health, or NIH, where he investigated the immune response to retroviruses and studied the pathogenesis of AIDS. Dr. Koenig currently serves on the board of directors of each of GlycoMimetics, Inc. (GLYC), The International Biomedical Research Alliance, and the Biotechnology Innovation Organization (BIO). Dr. Koenig received his A.B. and Ph.D. from Cornell University and his M.D. from the University of Texas Health Science Center in Houston. He completed his residency in Internal Medicine at the Hospital of the University of Pennsylvania, and is Board certified in   Internal Medicine and Allergy and Immunology. We believe that Dr. Koenig's education and professional background in science and medicine, his experience as Chief Executive Officer of MacroGenics and as a scientist and senior executive at other life science companies and research organizations and his service as a director of other biopharmaceutical companies, medical institutions and industry groups qualify him to serve as a member of our board of directors. 
+Ivana Magovcevic-Liebisch has served as a member of our board of directors since June 2014. Dr. Magovcevic-Liebisch has served as Executive Vice President, Chief Business Officer for Ipsen since March 2018. Prior to her current position, Dr. Magovcevic-Liebisch served as Senior Vice President, Head of Global Business Development for Teva Pharmaceutical Industries Ltd., or Teva. Prior to joining Teva, Dr. Magovcevic-Liebisch held several senior positions within Dyax Corp., or Dyax, from April 2001 through March 2013, most recently serving as Executive Vice President and Chief Operating Officer. Prior to joining Dyax, Dr. Magovcevic-Liebisch was Director of Intellectual Property and Patent Counsel for Transkaryotic Therapies, Inc. from November 1999 until March 2001. Dr. Magovcevic-Liebisch received her J.D. from Suffolk University Law School and her Ph.D. in genetics from Harvard University. We believe that Dr. Magovcevic-Liebisch's extensive experience in biopharmaceutical business development and operations qualify her to serve as a member of our board of directors. 
+Susan B. Washer has served as our President and Chief Executive Officer since March 2002 and as a member of our board of directors since November 2003. Prior to becoming our President and Chief Executive Officer, Ms. Washer served as our Chief Operating Officer from October 2001 to March 2002. From August 1996 to October 2001, Ms. Washer was President and Chief Executive Officer of Scenic Productions Inc., a specialty construction firm providing sculpting, painting and construction services to the entertainment industry. From June 1994 to August 1996, Ms. Washer served as the Founding Executive Director and then Business Advisor for the North Florida Technology Innovation Center, a public-private organization financing and providing services to entrepreneurial companies licensing technology from Florida universities. From October 1983 to June 1994, Ms. Washer served in various research and pharmaceutical management positions with Abbott Laboratories and Eli Lilly and Company. Ms. Washer has also served on the board of Histogenics Corporation since April 2018. Ms. Washer received a B.S. in biochemistry from Michigan State University and an M.B.A. from the University of Florida. We believe that Ms. Washer's education and professional background in science and business management, her years of experience in the pharmaceutical and biotechnology industries, her service as a senior executive of entrepreneurial companies and her extensive knowledge of our company and its business qualify her to serve as a member of our board of directors. 
+William Aliski, MPA has served as a member of our board of directors since September 2018. Mr. Aliski has served as a commercial consultant for early-stage orphan disease companies, including Ra Pharmaceuticals, Inc., from October 2016 to March 2017, and from March 2018 to present time, Clementia Pharmaceuticals, Inc., from December 2015 to January 2017, OxThera, from January 2015 through April 2015, Prosensa during 2014, Adimab LLC from November 2013 until December 2013, NPS Pharmaceuticals from April 2013 through December 2014, Fidelity Biosciences from August 2012 until December 2012 and Enobia Pharma from September 2011 until March 2012. Before that, Mr. Aliski served as Senior Vice President and Chief Commercial Officer of FoldRx Pharmaceuticals, a rare disease company that is now a wholly-owned subsidiary of Pfizer Inc., from June 2009 until March 2011, as Director of Simon Kucher Partners, a global consulting firm, from January 2008 until June 2009, and as General Manager of BioMarin Europe at BioMarin Pharmaceuticals Inc. from December 2005 until January 2008. Mr. Aliski also has served on the board of directors of Ultragenyx Pharmaceutical Inc. since January 2011. Mr. Aliski received a B.S. in Economics and a Master of Social Planning from Boston College and an M.P.A. from the Kennedy School of Government at Harvard University. We believe that Mr. Aliski's extensive experience in the life sciences industry, membership on various boards of directors, and his leadership and management experience qualify him to serve as a member of our board of directors. 
+Ed Hurwitz has served as a member of our board of directors since November 2012. Mr. Hurwitz is a Managing Director of MPM Capital, a healthcare venture capital firm, and a Managing Director of Precision   Bioventures, LLC, a consulting and investment advisory firm founded by Mr. Hurwitz. He was a director at Alta Partners from 2002 through December 2014, and served as a consultant to Alta Partners during 2013 and 2014. Mr. Hurwitz currently serves as Chairman of the board of directors of ViewPoint Therapeutics, a privately-held, biotechnology company, and as a member of the board of directors of MacroGenics, Inc. Prior to joining Alta, Mr. Hurwitz served as Senior Vice President and CFO of Affymetrix from 1997 to 2002. From 1994 to 1997, Mr. Hurwitz was a biotechnology research analyst for Robertson Stephens & Company, and from 1992 to 1994, was a biotechnology research analyst for Smith Barney Shearson. From 1990 to 1992, he practiced commercial law at Cooley Godward LLP. Mr. Hurwitz earned a J.D. and M.B.A. from the University of California, Berkeley's Boalt School of Law and Haas School of Business, respectively. He also holds a B.A. in Molecular Biology from Cornell University. We believe that Mr. Hurwitz's education and professional background in science, business management and law, his work as a lawyer, research analyst and senior executive in the biotechnology industry and his experience as a director of other public and private biotechnology companies qualify him to serve as a member of our board of directors. 
+James Rosen has served as a member of our board of directors since March 2010; he is currently President & CEO of Artizan Biosciences. Artizan Biosciences is engaging in early-stage immunobiology research and development for the treatment of unmet medical needs. From February 2015 through August 2016, Mr. Rosen served as Deputy Director, Venture Investing at the Bill & Melinda Gates Foundation. Prior to that, Mr. Rosen was a partner at Intersouth Partners, a venture capital firm, from January 2007 to December 2014. Prior to joining Intersouth, he spent 15 years in clinical, research and financial positions in the health care and biotechnology sectors, including serving as an equity research analyst at Brean Murray & Co., from 2000 to 2003, covering biopharmaceuticals, genomics, generics, drug delivery and medical device companies. Mr. Rosen holds a B.A. from Duke University, an M.B.A. from the University of North Carolina-Chapel Hill's Kenan-Flagler School of Business and an M.S.P.H. from the University of North Carolina School of Public Health. We believe that Mr. Rosen's education and professional background in science, business management and finance and his operational experience as a scientist and executive in the healthcare and biotechnology industries and as a venture capitalist concentrating on those industries, qualify him to serve as a member of our board of directors. 
+Anne VanLent has served as a member of our board of directors and chair of the audit committee since August 2016. Ms. VanLent is President of AMV Advisors, providing corporate strategy and financial consulting services to emerging growth life sciences companies. Ms. VanLent had been Executive Vice President and Chief Financial Officer of Barrier Therapeutics, Inc., a publicly traded pharmaceutical company that developed and marketed prescription dermatology products, from May 2002 through April 2008. From July 1997 to October 2001, she was the Executive Vice President—Portfolio Management for Sarnoff Corporation, a multidisciplinary research and development firm. From 1985 to 1993, she served as Senior Vice President and Chief Financial Officer of The Liposome Company, Inc., a publicly-traded biopharmaceutical company. Ms. VanLent currently serves as chair of the Audit Committee and member of the Compensation Committee of Vaxart, Inc., as a result of its merger in February 2018 with Avigen Therapeutics, Inc., each a Nasdaq-listed pharmaceuticals company, where she served as lead director chair of the Audit Committee, and member of the Nominating and Governance Committee. From April 2011 to December 2017 she served as a director, chair of the Audit Committee, and chair of the Nominating and Governance Committee of Ocera Therapeutics, Inc. (formerly Tranzyme Pharma, Inc.). From April 2013 through June 2017 she served as a director, member of the Audit Committee (serving as Chair from April 2013 through 2016, and member of the Compliance Committee of Novelion Pharmaceuticals, Inc. (previously Aegerion Pharmaceuticals, Inc.). From July 2013 to May 2016, Ms. VanLent served as a director, chair of the Audit Committee, and member of the Compensation Committee of Onconova Therapeutics, Inc., a Nasdaq-listed pharmaceuticals company; and as a director of Integra Life Sciences Holdings, Inc., a Nasdaq-listed medical device company, where she served as chair of the Audit Committee from 2006 to 2012. Ms. VanLent received a B.A. degree in Physics from Mount Holyoke College. Our Board of Directors believes that Ms. VanLent's qualifications to sit on our Board of Directors include her extensive leadership and finance experience, and her extensive experience serving as a board member, audit committee member and audit committee chair of public companies in the life sciences industry.  If for any reason any of the nominees becomes unavailable for election, the persons designated in the proxy card may vote the shares represented by proxy for the election of a substitute nominated by the Board of Directors. Each nominee has consented to serve as a director if elected, and we currently have no reason to believe that any of them will be unable to serve. 
+The two nominees receiving the greatest number of votes cast will be elected as Class II directors. Brokers may not vote shares they hold for you in the election of Directors, unless they receive timely voting instructions from you. We will not count votes withheld or broker non-votes as having been cast for the election of a director. 
+OUR BOARD OF DIRECTORS RECOMMENDS THAT YOU VOTE FOR THE RE-ELECTION OF DRS. KOENIG AND MAGOVCEVIC-LIEBISCH AS CLASS II DIRECTORS.  PROPOSAL 2: RATIFICATION OF APPOINTMENT OF INDEPENDENT 
+REGISTERED PUBLIC ACCOUNTING FIRM 
+Our audit committee has selected Ernst & Young LLP as our independent registered public accounting firm for the fiscal year ended June 30, 2019 and has further directed that management submit the selection of its independent registered public accounting firm for ratification by the stockholders at the annual meeting. 
+Prior to the engagement of Ernst & Young LLP, RSM US LLP had been our independent registered public accounting firm for the years ended June 30, 2017 and 2016. In December 2017, our audit committee approved the dismissal of RSM US LLP and appointed Ernst & Young LLP as our independent registered public accounting firm for the fiscal year ended June 30, 2018. RSM US LLP's audit reports on our consolidated financial statements as of and for the fiscal years ended June 30, 2017 and 2016 did not contain any adverse opinion or a disclaimer of opinion, nor were they qualified or modified as to uncertainty, audit scope or accounting principles. During our two most recent fiscal years ended June 30, 2017 and 2016 and during the period from July 1, 2017 through December 20, 2017, we did not have any disagreement with RSM on any matter of accounting principles or practices, financial statement disclosure or auditing scope or procedures, which disagreements, if not resolved to RSM's satisfaction, would have caused RSM to make reference to the subject matter of disagreement in their reports on our consolidated financial statements. In addition, during such periods, there were no "reportable events" as that term is defined in Item 304(a)(1)(v) of Regulation S-K, except as set forth in this paragraph. As disclosed in our Quarterly Report on Form 10-Q for the quarter ended September 30, 2017, our Annual Report on Form 10-K for the fiscal year ended June 30, 2017, as amended, and our Annual Report on Form 10-K for the fiscal year ended June 30, 2016, as amended, we identified material weaknesses in our internal control over financial reporting related to the design and operation of our closing and financial reporting processes. Specifically, the material weaknesses were due to the fact that we did not have the appropriate resources with the appropriate level of experience and technical expertise to oversee our closing and financial reporting processes. RSM US LLP's letter to the SEC stating its agreement with the statements in this paragraph was filed as an exhibit to our Current Report on Form 8-K filed on December 21, 2017. 
+During the years ended June 30, 2017 and 2016 and the subsequent interim period through December 19, 2017, neither we nor anyone acting on our behalf consulted with Ernst & Young LLP regarding either: (i) the application of accounting principles to a specified transaction, either completed or proposed, or the type of audit opinion that might be rendered on our financial statements, and neither a written report nor oral advice was provided to us that Ernst & Young LLP concluded was an important factor considered by us in reaching a decision as to the accounting, auditing or financial reporting issue or (ii) any matter that was either the subject of a disagreement (as that term is defined in Item 304(a)(1)(iv) of Regulation S-K and the related instructions to Item 304 of Regulation S-K) or a reportable event (as that term is defined in Item 304(a)(1)(v) of Regulation S-K). 
+Although stockholder approval of the selection of Ernst & Young LLP as our independent registered public accounting firm for the year ending June 30, 2019 is not required by law or our bylaws or other governing documents, our board of directors and audit committee believe that it is advisable and a matter of good corporate practice to give stockholders an opportunity to ratify this selection. If this proposal is not approved at the annual meeting, our board of directors will reconsider its selection of Ernst & Young LLP. Even if the selection is ratified, the audit committee in its discretion may direct the appointment of a different independent registered public accounting firm at any time during the year if they determine that such a change would be in the best interests of our company and our stockholders. 
+Representatives of Ernst & Young LLP are not expected to be present at the annual meeting. 
+In order to pass, this proposal must receive a majority of the votes cast with respect to this matter. We will not count abstentions or broker non-votes as votes cast. 
+OUR BOARD OF DIRECTORS RECOMMENDS THAT YOU VOTE FOR THE PROPOSAL TO RATIFY THE APPOINTMENT OF ERNST & YOUNG LLP AS OUR INDEPENDENT REGISTERED PUBLIC ACCOUNTING FIRM FOR FISCAL YEAR 2019.  INFORMATION ABOUT OUR BOARD OF DIRECTORS AND MANAGEMENT 
+Board Composition 
+Our board of directors currently consists of seven members, each of whom hold office until their successors have been elected and qualified or until the earlier of their resignation or removal. Our amended and restated certificate of incorporation and amended and restated bylaws provide that the authorized number of directors may be changed only by resolution of the board of directors. Our amended and restated certificate of incorporation, and amended and restated bylaws also provide that our directors may be removed only for cause by the affirmative vote of the holders of at least 75 percent of the votes that all our stockholders would be entitled to cast in an annual election of directors, and that any vacancy on our board of directors, including a vacancy resulting from an enlargement of our board of directors, may be filled only by vote of a majority of our directors then in office. 
+In accordance with the terms of our certificate of incorporation and bylaws, our board of directors is divided into three classes, Class I, Class II and Class III, with members of each class serving staggered three-year terms, divided as follows: 
+[BEGIN TABLE]
+• the Class I directors are Mr. Aliski and Ms. VanLent, whose terms will expire at the annual  meeting of stockholders to be held in fiscal year 2021;  
+[END TABLE]
+[BEGIN TABLE]
+• the Class II directors are Dr. Koenig and Dr. Magovcevic-Liebisch, whose terms will expire at the  2019 Annual Meeting; and  
+[END TABLE]
+[BEGIN TABLE]
+• the Class III directors are Ms. Washer, Mr. Hurwitz and Mr. Rosen, whose terms will expire at  the annual meeting of stockholders to be held in fiscal year 2020.  
+[END TABLE]
+Upon the expiration of the term of a class of directors, directors in that class will be eligible to be elected for a new three-year term at the annual meeting of stockholders in the year in which their term expires. 
+Based upon information requested from and provided by each director concerning his or her background, employment and affiliations, including family relationships, our board of directors has determined that each of our directors, with the exception of Ms. Washer, is an "independent director" as defined under Rule 5605(a)(2) of the Nasdaq Listing Rules. 
+Board Role in Risk Oversight 
+One of the key functions of our board of directors is informed oversight of our risk management process. Our Chief Executive Officer is responsible for setting the strategic direction for our company and the day to day leadership and performance of the company, while our Chairman, who is not an executive officer, sets the agenda for board meetings, facilitates communications between the board and the Chief Executive Officer and discussion among the independent directors and presides over meetings of the board and stockholders. Our independent directors meet in executive session on a regular basis, without management present, with our Chairman presiding. 
+Our board of directors does not have a standing risk management committee, but rather administers this oversight function directly through the board of directors as a whole, as well as through various standing committees of our board of directors that address risks inherent in their respective areas of oversight. In particular, our board of directors is responsible for monitoring and assessing strategic risk exposure and our audit committee has the responsibility to consider and discuss our major financial risk exposures and the steps our management has taken to monitor and control these exposures, including guidelines and policies to govern the process by which risk assessment and management is undertaken. The audit committee also monitors compliance with legal and regulatory requirements. Our nominating and corporate governance committee monitors the effectiveness of our corporate governance practices, including whether they are successful in preventing illegal or improper liability-creating conduct. Our compensation committee assesses and monitors whether any of our compensation policies and programs has the potential to encourage excessive risk-taking.  Board Committees 
+Our board of directors has established an audit committee, a compensation committee and a nominating and corporate governance committee. Each of these committees, which are the only standing committees of our board of directors, operates under a charter that has been approved by our board of directors. 
+Audit committee. The current members of our audit committee are Mr. Hurwitz, Dr. Magovcevic-Liebisch and Ms. VanLent (chair). Our board of directors has determined that each member of the audit committee satisfies the Nasdaq Stock Market independence standards and the independence standards of Rule 10A-3(b)(1) of the Securities Exchange Act. Each of the members of our audit committee meets the requirements for financial literacy under applicable rules and regulations of the SEC and the Nasdaq Stock Market. The board of directors has also determined that Ms. VanLent qualifies as an "audit committee financial expert," as defined by applicable rules of the Nasdaq Stock Market and the SEC. The audit committee assists our board of directors in its oversight of:  
+[BEGIN TABLE]
+• the integrity of our financial statements;  
+[END TABLE]
+[BEGIN TABLE]
+• our compliance with legal and regulatory requirements;  
+[END TABLE]
+[BEGIN TABLE]
+• the qualifications and independence of our independent registered public accounting firm; and   
+[END TABLE]
+[BEGIN TABLE]
+• the performance of our independent registered public accounting firm.  
+[END TABLE]
+The audit committee has direct responsibility for the appointment, compensation, retention and oversight of the work of our independent registered public accounting firm. The audit committee establishes and implements policies and procedures for the pre-approval of all audit services and all permissible non-audit services provided by our independent registered public accounting firm and reviews and approves any related party transactions entered into by us. The Audit Committee operates under a written charter that satisfies the applicable standards of the SEC and Nasdaq. A copy of the Audit Committee charter is available in the "Investors—Corporate Governance" section of the Company's website at www.agtc.com. 
+The audit committee met in person or by telephone 7 times during fiscal year 2018. 
+Compensation committee. The current members of our compensation committee are Dr. Koenig, Dr. Magovcevic-Liebisch (chair) and Mr. Rosen, each of whom is an independent director. The compensation committee: 
+[BEGIN TABLE]
+• approves the compensation and benefits of our executive officers;  
+[END TABLE]
+[BEGIN TABLE]
+• reviews and makes recommendations to the board of directors regarding benefit plans and programs for employee  compensation; and  
+[END TABLE]
+[BEGIN TABLE]
+• administers our equity compensation plans.  
+[END TABLE]
+The Compensation Committee operates under a written charter adopted by the Board, which is available in the "Investors—Corporate Governance" section of our website at www.agtc.com. 
+The compensation committee met in person or by telephone 5 times during fiscal year 2018. 
+Nominating and corporate governance committee. The members of our nominating and corporate governance committee are Mr. Aliski (chair) and Dr. Koenig, each of whom is an independent director. Dr. Guyer and Mr. Hurwitz served on the nominating and corporate governance committee until Dr. Guyer's resignation from the Board in December 2017. In January 2018, Dr. Koenig was appointed to such committee and served with Mr. Hurwitz until Mr. Aliski joined the Board in September 2018, at which time Mr. Hurwitz left the nominating and corporate governance committee and Mr. Aliski joined the committee. The nominating and corporate governance committee: 
+[BEGIN TABLE]
+• identifies individuals qualified to become board members;  
+[END TABLE]
+[BEGIN TABLE]
+• recommends to the board of directors nominations of persons to be elected to the board; and   
+[END TABLE]
+[BEGIN TABLE]
+• advises the board regarding appropriate corporate governance policies and assists the board in achieving them.   
+[END TABLE]
+The Nominating and Corporate Governance Committee operates pursuant to a written charter, which is available in the "Investors—Corporate Governance" section of our website at www.agtc.com. 
+The nominating and corporate governance committee met in person or by telephone 2 times during fiscal year 2018. 
+Compensation Committee Interlocks and Insider Participation 
+None of our executive officers serves, or in the past has served, as a member of the board of directors or compensation committee, or other committee serving an equivalent function, of any entity that has one or more executive officers who serve as members of our board of directors or our compensation committee. None of the members of our compensation committee is an officer or employee of our company, nor has any of them ever been an officer or employee of our company. 
+Code of Business Conduct and Ethics; Corporate Governance Guidelines 
+We have adopted a written code of business conduct and ethics that applies to our directors, executive officers and employees, as well as corporate governance guidelines. Copies of the code of business conduct and ethics and our corporate governance guidelines are posted on the Corporate Governance section of our website, which is located at www.agtc.com. If we make any substantive amendments to, or grant any waivers from, the code of business conduct and ethics for any officer or director, we will disclose the nature of such amendment or waiver on our website. 
+Meetings of the Board of Directors 
+Our board of directors met in person or by telephone 6 times during fiscal year 2018. No director attended fewer than 75 percent of the aggregate number of meetings of the board of directors and of any committee of the Board on which he or she served, in each case held during the period in which he or she served as a director, in fiscal year 2018. 
+Policy Regarding Board Attendance 
+Our directors are expected to attend meetings of the board of directors and meetings of committees on which they serve. Our directors are expected to spend the time needed at each meeting and to meet as frequently as necessary to properly discharge their responsibilities. We encourage members of our board of directors to attend our annual meetings of stockholders, but we do not have a formal policy requiring them to do so. All of our directors then serving as directors attended our 2018 annual meeting of stockholders. 
+Director Candidates and Selection Process 
+Our nominating and corporate governance committee, in consultation with our board of directors, is responsible for identifying and reviewing candidates to fill open positions on the board, including positions arising as a result of the removal, resignation or retirement of any director, an increase in the size of the board or otherwise, and recommending to our full board candidates for nomination for election as directors. In recommending new directors, the committee will consider any requirements of applicable law or listing standards, a candidate's strength of character, judgment, business experience and specific area of expertise, diversity, factors relating to the composition of the board of directors (including its size and structure), and such   other factors as the committee deems to be appropriate. The goal of the committee is to assemble a board of directors that consists of individuals who bring a variety of complementary attributes and who, taken together, have the appropriate skills and experience to oversee our business. The committee is responsible for reviewing from time to time the appropriate skills and characteristics required of directors in the context of the current make-up of the board of directors, including such factors as business experience, diversity, and personal skills in technology, finance, marketing, sales, financial reporting and other areas that contribute to an effective board of directors. In 2018, the nominating and corporate governance committee approved the director nominees for election at the 2019 Annual Meeting. 
+The committee has not adopted any formal policy, guidelines or procedures regarding the diversity of our board of directors. Our priority in selection of board members is identification of members who will further the interests of our stockholders through an established record of professional accomplishment, the ability to contribute positively to the collaborative culture among board members, knowledge of our business and understanding of the competitive landscape. 
+Stockholders may recommend individuals to the nominating and corporate governance committee for consideration as potential director candidates by submitting their names, together with appropriate biographical information and background materials and a statement as to whether the stockholder or group of stockholders making the recommendation has beneficially owned more than 5 percent of our common stock for at least a year as of the date such recommendation is made, to our nominating and corporate governance committee, c/o Secretary at our offices located at One Kendall Square, 1400W, Cambridge MA 02139. Assuming that appropriate biographical and background material has been provided on a timely basis, the nominating and corporate governance committee will evaluate stockholder-recommended candidates by following substantially the same process, and applying substantially the same criteria, as it follows for candidates that it recommends. If the board of directors resolves to nominate a stockholder-recommended candidate and recommends his or her election, then his or her name will be included in our proxy card for the next annual meeting. Any recommendation of a potential director nominee should also include a statement signed by the proposed nominee expressing a willingness to serve as a director if elected. As part of this responsibility, the committee will be responsible for conducting, subject to applicable law, any and all inquiries into the background and qualifications of any candidate for election as a director and such candidate's compliance with the independence and other qualification requirements established by the committee or imposed by applicable law or listing standards. 
+Communications with our Board of Directors 
+Stockholders wishing to communicate with our board of directors should send correspondence to the attention of our Secretary, Hemmie Chang, at our offices located at One Kendall Square, 1400W, Cambridge MA 02139, and should include with the correspondence evidence that the sender of the communication is one of our stockholders. Satisfactory evidence would include, for example, contemporaneous correspondence from a brokerage firm indicating the identity of the stockholder and the number of shares held. Our Secretary will review all correspondence confirmed to be from stockholders and decide whether or not to forward the correspondence or a summary of the correspondence to the full board of directors or a committee thereof. Our Secretary will review all stockholder correspondence, but the decision to relay that correspondence to the full board or a committee will rest entirely within her discretion. Our board believes that this process will suffice to handle the relatively low volume of communications we have historically received from our stockholders. If the volume of communications increases such that this process becomes burdensome to our Secretary, our board of directors may elect to adopt more elaborate screening procedures. 
+Director Compensation 
+Our non-employee directors receive equity-based compensation and cash fees as follows: 
+[BEGIN TABLE]
+• each non-employee director receives an annual cash fee in the amount of  $40,000;  
+[END TABLE]
+[BEGIN TABLE]
+• our chairman receives an additional cash fee in the amount of $35,000;  
+[END TABLE]
+[BEGIN TABLE]
+• the chairperson of each of our board committees receives an additional annual cash fee as follows: audit  committee chair, $18,000; compensation committee chair, $12,000; and nominating and corporate governance committee chair, $8,000; and  
+[END TABLE]
+[BEGIN TABLE]
+• each other member of a board committee receives an additional annual cash fee as follows: audit committee,  $9,000; compensation committee, $6,000; and nominating and corporate governance committee, $4,000.  
+[END TABLE]
+The cash fees described above are paid quarterly in arrears. Non-employee directors are also reimbursed upon request for travel and other out-of-pocket expenses incurred in connection with their attendance at meetings of the board and of committees on which they serve. 
+Upon initial election to our board of directors, our non-employee directors are entitled to receive a non-qualified stock option, vesting in equal installments on each of the first three anniversaries of the date of grant, to purchase 25,000 shares of our common stock. In addition, each non-employee director remaining in office receives annually a non-qualified stock option, vesting on the first anniversary of the date of grant, to purchase 10,000 shares of our common stock. Each such initial or annual stock option is granted with an exercise price equal to the fair value of our common stock on the date of grant. 
+The following table sets forth information regarding compensation awarded to, earned by or paid to our non-employee directors who served during fiscal year 2018. We do not pay any compensation to our President and Chief Executive Officer in connection with her service on our board of directors. See "Executive Compensation" for a discussion of the compensation of Ms. Washer. 
+[BEGIN TABLE]
+ Name    Fees earned or paid in cash ($)(1)      Option awards ($)(2)      Total ($)   
+ Scott Koenig, M.D., Ph.D.    $ 75,000      $ —      $ 75,000   
+ David R. Guyer, M.D. (3)    $ 63,938      $ —      $ 63,938   
+ Ed Hurwitz    $ 46,250      $ —      $ 46,250   
+ Ivana Magovcevic-Liebisch, Ph.D.    $ 52,500      $ —      $ 52,500   
+ Arnold L. Oronsky, Ph.D. (4)    $ —        $ —      $ —     
+ James Rosen    $ 40,000      $ —      $ 40,000   
+ Anne VanLent    $ 50,000      $ —      $ 50,000   
+[END TABLE]
+[BEGIN TABLE]
+(1)  Represents amount earned or paid for service as a director during fiscal year 2018.  
+[END TABLE]
+[BEGIN TABLE]
+(2)  Represents the grant date fair value of option awards granted in fiscal year 2018 in accordance with ASC 718.  See Note 8 of the notes to our audited financial statements included in the Annual Report on Form 10-K for the fiscal year ended June 30, 2018 filed on September 11, 2018 for a discussion of the  relevant assumptions used in calculating these amounts.  
+[END TABLE]
+[BEGIN TABLE]
+(3)  Dr. Guyer resigned from our board of directors effective as of December 12, 2017.   
+[END TABLE]
+[BEGIN TABLE]
+(4)  Dr. Oronsky resigned from our board of directors effective as of August 14, 2017.   
+[END TABLE]
+ The table below shows the aggregate number of option awards held as of June 30, 2018 by each of our current non-employee directors who was serving as of that date. 
+[BEGIN TABLE]
+ Name    Number of Options Outstanding at June 30, 2018   
+ Scott Koenig, M.D., Ph.D.      85,993   
+ Ed Hurwitz      28,263   
+ Ivana Magovcevic-Liebisch, Ph.D.      28,263   
+ James Rosen      28,263   
+ Anne VanLent      24,000   
+[END TABLE]
+Our Management 
+The following table sets forth information with respect to our executive officers as of October 1, 2018: 
+[BEGIN TABLE]
+ Name    Age     Position 
+ Susan B. Washer    57    President, Chief Executive Officer and Director 
+ William A. Sullivan    47    Chief Financial Officer 
+ Matthew Feinsod, M.D.    48    Interim Chief Medical Officer 
+ Stephen W. Potter    62    Chief Business Officer 
+ Mark S. Shearman, Ph.D.    56    Chief Scientific Officer 
+[END TABLE]
+For biographical information concerning Susan B. Washer, see "Proposal 1—Election of Directors." 
+William A. Sullivan has served as our Chief Financial Officer since August 2017. Prior to joining AGTC, Mr. Sullivan worked at Merrimack Pharmaceuticals Inc. from November 2007 to April of 2017 where he held a number of positions of increasing responsibility including Controller, Vice President of Finance, Treasurer, Chief Financial Officer and Head of Finance. Mr. Sullivan began his career at Arthur Andersen LLP, where he obtained his certified public accountant license. Mr. Sullivan holds an M.B.A. and an M.S. in accounting from Northeastern University's Graduate School of Professional Accounting and a B.A. from Williams College. 
+Matthew Feinsod, M.D. has served as our interim Chief Medical Officer since September 2017. Dr. Feinsod, a board-certified ophthalmologist, joined AGTC in July 2014 and has played key roles in developing and implementing clinical and regulatory strategy, due diligence and licensing. Prior to joining AGTC, Dr. Feinsod co-founded and led Imagen Biotech, a venture-backed company dedicated to developing ophthalmology treatments for sight-threatening diseases, from 2011 to 2013. Prior to Imagen, Dr. Feinsod served in various roles including Senior Vice President of Strategy and Product Development at Eyetech Pharmaceuticals from 2003 to 2007, during which time he helped to develop and launch Macugen. Dr. Feinsod served as a medical officer in the ophthalmology division of the U.S. Food and Drug Administration (FDA) from 2002 to 2003. He holds a B.S. from the Wharton School of Business at the University of Pennsylvania and an M.D. from the George Washington University School of Medicine. 
+Stephen W. Potter has served as our Vice President and Chief Business Officer since January 2015. Prior to joining us, Mr. Potter was employed most recently by NeoStem, Inc., a developer of cell-based therapeutics, where he served as Executive Vice President from July 2013 to February 2015, and was a member of the Board of Directors from January 2013 to July 2013. Previously, Mr. Potter was Senior Vice President of Operations and Corporate Development for Osiris Therapeutics, Inc., from February 2011 to November 2012, where he was part of the senior leadership team that achieved approval of the first-ever stem cell drug therapy, Prochymal. He was also responsible for the launch and overall management of the Bio-Surgery business unit as well as operational oversight for multiple functional areas including manufacturing, human resources, IT, legal, and business   development. From 2006 through 2010, Mr. Potter served as Senior Vice President of Corporate and Business Development at Genzyme Corporation and as Vice President of Corporate and Business Development. While at Genzyme, he was the senior leader for its global corporate and business development team that provided strategic and transaction support, including support for many of Genzyme's gene and cell therapy opportunities. Mr. Potter has also held positions at DuPont Pharmaceuticals, E.I. Dupont de Nemours and Company, Inc., and Booz Allen & Hamilton. Mr. Potter earned a B.S. from University of Massachusetts and an MBA from Harvard Business School. 
+Mark S. Shearman, Ph.D. has served as our Chief Scientific Officer since June 1, 2015. From August 2009 until June 2015, Dr. Shearman served as Senior Vice President of Research & Early Development of EMD Serono, Inc., the U.S. and Canadian subsidiary of Merck KGaA. Prior his time at EMD Serono, Dr. Shearman was Executive Director of Merck & Co. Research Laboratories, Boston, from January 2006 to July 2009 and Senior Director at the Merck Sharp & Dohme Research Laboratories Neuroscience Research Centre, U.K. from January 2004 to December 2005. Dr. Shearman earned a B.Sc. from the University of Bristol, a Ph.D. from the University of Nottingham and conducted academic research at institutes in Japan and Germany.  EXECUTIVE COMPENSATION 
+Executive Summary 
+The compensation of our executive officers is determined by the compensation committee of our Board of Directors, and discussed by the committee throughout the year. Our formal annual compensation review process generally takes place during the first quarter of each fiscal year, after the results of the previous fiscal year are known. Annual variable compensation and discretionary cash bonuses for the completed fiscal year, if any, and long-term equity-based incentive compensation, if any, are awarded by the committee on a discretionary basis, generally during the first fiscal quarter, after a review of the previous fiscal year's results. 
+Our compensation committee is comprised entirely of non-employee directors, each of whom our Board of Directors has determined is independent within the meaning of the rules of the Nasdaq Stock Market. The members of the compensation committee have substantial managerial experience and wide contacts in the biotechnology and biopharmaceutical industries and in the broader healthcare industry, upon which they rely in making their determinations. The committee also takes into account publicly available information concerning the compensation practices of other companies in the biotechnology industry. This information is used by the committee informally and primarily for purposes of comparison to ascertain whether our compensation practices for our executive officers are broadly competitive. 
+Our Chief Executive Officer makes recommendations with regard to the compensation of our executive officers other than herself, which are reviewed by the compensation committee. Executive officers do not participate in the process of establishing their own annual compensation. 
+The committee does not have a formal benchmarking policy or a practice of establishing the amount of any element of our executive officers' compensation by reference to a fixed range of percentages or percentiles of the compensation of any peer or comparison group. As a result, the determinations made by the members of our compensation committee are guided to a significant degree by their collective judgment and experience. During fiscal year 2018, the committee retained a compensation consultant, Aon Consulting's Radford Surveys + Consulting, or Radford, to assist the committee in assessing the form and amount of compensation paid to our executives. 
+Our compensation committee has reviewed our compensation programs and believes that our compensation programs have not encouraged or rewarded excessive or inappropriate risk taking. 
+Summary Compensation Table for Fiscal Year 2018 
+The following table sets forth information regarding compensation earned by our President and Chief Executive Officer and our two next most highly paid executive officers who served during fiscal year 2018. We refer to these individuals as our named executive officers. 
+[BEGIN TABLE]
+ Name    Year      Salary ($)      Stock Awards ($)(1)      Option Awards ($)(2)      Non-equity incentive plan compensation ($)      Other ($)(3)      Total ($)   
+ Susan B. Washer      2018        501,610        —          353,543        200,000        8,415        1,063,568   
+ President and Chief Executive Officer      2017        487,000        —          853,391        149,996        8,161        1,498,548   
+ William A. Sullivan (4)      2018        306,515        —          486,720        120,000        7,378        920,613   
+ Chief Financial Officer                                           
+ Matthew Feinsod, M.D. (5)      2018        620,584        137,100        —          —          11,000        768,684   
+ Interim Chief Medical Officer                                           
+[END TABLE]
+[BEGIN TABLE]
+(1)  Represents the fair value of stock awards granted in fiscal year 2018 in accordance with Accounting Standards  Codification Topic 718, "Compensation—Stock Compensation" ("ASC 718"). See Note 8 of the notes to our financial statements included in the Company's Annual Report on Form 10-K for  fiscal year 2018 for a discussion of the relevant assumptions used in calculating these amounts.  
+[END TABLE]
+[BEGIN TABLE]
+(2)  Represents the grant date fair value of option awards granted in fiscal years 2017 and 2018 in accordance with  ASC 718. See Note 8 of the notes to our audited financial statements included in the Company's Annual Report on Form 10-K for fiscal year 2018 for a discussion of the relevant assumptions used in  calculating these amounts.  
+[END TABLE]
+[BEGIN TABLE]
+(3)  Consists of 401(k) matching contributions.  
+[END TABLE]
+[BEGIN TABLE]
+(4)  Mr. Sullivan was appointed Chief Financial Officer on August 7, 2017.  
+[END TABLE]
+[BEGIN TABLE]
+(5)  Dr. Feinsod was appointed Interim Chief Medical Officer on September 11, 2017. Of the $620,584  reported as Salary for Dr. Feinsod, $567,403 relates to his service as Interim Chief Medical Officer.  
+[END TABLE]
+Narrative Disclosure to Summary Compensation Table 
+We review compensation annually for all of our employees, including our executives. In setting executive base salaries and bonuses and granting equity incentive awards, we consider compensation for comparable positions in the market, the historical compensation levels of our executives, individual performance as compared to our expectations and objectives, our desire to motivate our employees to achieve short- and long-term results that are in the best interests of our stockholders, and a long-term commitment to our company. We do not target a specific competitive position or a specific mix of compensation among base salary, bonus or long-term incentives. 
+Our compensation committee reviews and discusses management's proposed compensation with the Chief Executive Officer for all executives other than our Chief Executive Officer. Based on those discussions and its discretion, the compensation committee then determines the compensation and benefits of our executive officers. 
+We have an at-will employment agreement with Ms. Washer, our President and Chief Executive Officer. We also have an at-will employment offer letter with Mr. Sullivan, our Chief Financial Officer and with Dr. Feinsod, our Interim Chief Medical Officer. For fiscal year 2018, the annual base salaries of Ms. Washer, Mr. Sullivan and Dr. Feinsod were $501,600, $340,000 and $700,000, respectively. In addition, Ms. Washer and Mr. Sullivan received bonuses for fiscal year 2018 of $200,000 and $120,000, respectively, based upon the achievement of certain corporate and individual performance goals as determined by the compensation committee. Under the terms of his offer letter, Dr. Feinsod is entitled to receive a monthly award of 2,000 shares of common stock beginning on January 11, 2018 and continuing until he ceases to serve as our Interim Chief Medical Officer. For fiscal year 2019, the annual base salaries of Ms. Washer and Mr. Sullivan were increased to $514,150 and $353,600, respectively, and Dr. Feinsod's annual base salary remained at $700,000. 
+In fiscal year 2018, our compensation committee engaged Radford to assist us with the identification of an appropriate peer group of companies for purposes of benchmarking the competitiveness of our executive compensation. Our compensation committee will evaluate the need for revisions to our executive compensation program to ensure that our program is competitive with the companies with which we compete for executive talent and that it is appropriate for a public company. 
+Retirement Savings 
+All of our full-time employees in the United States, including our named executive officers, are eligible to participate in our 401(k) plan. Pursuant to our 401(k) plan, employees may elect to reduce their current compensation by up to the statutorily prescribed annual limit (which is $18,500 in calendar 2018 and was $18,000 in calendar 2017), with additional salary deferrals not to exceed $6,000 available to those employees 50 years of age or older, and to have the amount of this reduction contributed to our 401(k) plan. The 401(k) plan permits us to make contributions up to the limits allowed by law on behalf of all eligible employees. Since July 1, 2017, we make matching contributions of 100% of the first 4% contributed by employees to our 401(k) plan.  Outstanding Equity Awards at Year End 
+The following table sets forth information regarding outstanding stock options held by our named executive officers as of June 30, 2018. 
+[BEGIN TABLE]
+ Name    Number of Securities Underlying Unexercised Options (#) exercisable     Number of Securities Underlying Unexercised Options (#) unexercisable      Option Exercise Price ($)      Option Expiration Date      Option Grant Date   
+ Susan B. Washer      19,541       —          3.50        9/18/2019        9/18/2009   
+ William A. Sullivan      —   (2)      135,000        5.00        8/7/2027        8/7/2017   
+ Matthew Feinsod, M.D.      22,500       —          16.00        7/31/2024        7/31/2014   
+[END TABLE]
+[BEGIN TABLE]
+(1)  This option becomes exercisable in equal monthly installments over four years from the date of grant.   
+[END TABLE]
+[BEGIN TABLE]
+(2)  This option becomes exercisable for 25% of the underlying shares on the first anniversary of the grant date, and  thereafter becomes exercisable for the remaining underlying shares in equal monthly installments over three years, resulting in the option being exercisable for 100% of the underlying shares on the fourth anniversary of the grant date.   
+[END TABLE]
+Severance and Change in Control Arrangements 
+Agreement with Ms. Washer 
+Under the terms of Ms. Washer's employment agreement, if we terminate Ms. Washer's employment without "cause" or if she terminates her employment with us for "good reason" prior to a change of control or during the 12-month period following a "change of control," in each case as those terms are defined in her employment agreement, she will be entitled to receive severance benefits, payable in a single lump sum, as follows: 
+[BEGIN TABLE]
+• An amount equal to the sum of (a) her then current annual base salary and (b) the product of her target  bonus in effect immediately prior to the date of termination multiplied by a fraction equal to the quotient of (i) the number of days elapsed as of the termination date during the year in which the termination occurs divided by (ii) 365.   
+[END TABLE]
+[BEGIN TABLE]
+• Ms. Washer will also be entitled to continue to participate in our benefits plans for a period of up to 12  months following the effective date of the termination of her employment on substantially the same terms as were in effect immediately prior to her termination.  
+[END TABLE]
+[BEGIN TABLE]
+• In addition, if Ms. Washer's employment is terminated by us without cause or by Ms. Washer during  the 12 months following a change of control for good reason, all unvested equity awards previously granted to her will become fully vested as of the date of the termination of her employment.  
+[END TABLE]
+[BEGIN TABLE]
+• In the event Ms. Washer terminates her employment for good reason other than during the 12-month period following a change of control, each unvested equity award previously granted to her will immediately vest with respect to 50% of the shares that are unvested as of the effective date of the  termination of her employment.  
+[END TABLE]
+[BEGIN TABLE]
+• To the extent that the vesting of any unvested awards held by Ms. Washer at the time of the termination of  her employment is contingent upon the attainment of any corporate or market performance condition  
+[END TABLE]
+[BEGIN TABLE]
+     that has not been satisfied as of that date, the condition will be deemed to have been satisfied as of the date of termination  
+[END TABLE]
+[BEGIN TABLE]
+• at the 100% level, in the case of a termination by us without cause or by Ms. Washer during the 12 months  following a change of control for good reason, or  
+[END TABLE]
+[BEGIN TABLE]
+• at the 50% level, in the case of a termination by Ms. Washer for good reason other than during the 12 months  following a change of control for good reason.  
+[END TABLE]
+Agreement with Dr. Feinsod 
+Dr. Feinsod is not entitled to any severance payments following a termination of his employment. 
+Agreement with Mr. Sullivan 
+Pursuant to the terms of the offer letter with Mr. Sullivan, under certain circumstances, we may be required to make severance payments to Mr. Sullivan following a termination of his employment. If, at any time following the date that is six months following the start of his employment with us, Mr. Sullivan's employment by us is terminated (i) by us without cause or (ii) by Mr. Sullivan for "good reason" (as defined in his offer letter), Mr. Sullivan will receive: 
+[BEGIN TABLE]
+• an amount equal to nine months of his then-current base salary and earned bonus, if the termination occurs prior  to the first anniversary of the commencement of his employment, or  
+[END TABLE]
+[BEGIN TABLE]
+• an amount equal to twelve months of his then-current base salary and earned bonus, if the termination occurs on  or after the first anniversary of the commencement of his employment.  
+[END TABLE]
+In addition, if there is a "change of control" (as defined in Mr. Sullivan's offer letter) and Mr. Sullivan is not offered the position of Chief Financial Officer at the acquiring company, then immediately upon the change of control his options will fully and immediately vest and become exercisable.  INFORMATION ABOUT COMMON STOCK OWNERSHIPi 
+Stock Owned by Directors, Executive Officers and Greater-Than-5 percent Stockholders 
+The following table sets forth certain information with respect to beneficial ownership of our common stock, as of October 1, 2018, by: 
+[BEGIN TABLE]
+• each person or entity, or group of affiliated persons or entities, known by us to beneficially own more than  5 percent of our common stock;  
+[END TABLE]
+[BEGIN TABLE]
+• each of our directors an named executive officers; and  
+[END TABLE]
+[BEGIN TABLE]
+• all of our executive officers and directors as a group.  
+[END TABLE]
+Beneficial ownership is determined in accordance with the rules of the SEC. In computing the number of shares beneficially owned by a person and the percentage ownership of that person, shares of common stock subject to options or warrants held by that person that are currently exercisable or exercisable within 60 days of October 1, 2018 are deemed outstanding, but are not deemed outstanding for computing the percentage ownership of any other person. To our knowledge, except as set forth in the footnotes to this table and subject to applicable community property laws, each person named in the table has sole voting and investment power with respect to the shares set forth opposite such person's name. Except as otherwise indicated, the address of each of the persons in this table is c/o Applied Genetic Technologies Corporation, 14193 NW 119th Terrace, Suite 10, Alachua, Florida 32615. 
+Each stockholder's percentage ownership is determined in accordance with Rule 13d-3 under the Exchange Act and is based on 18,130,463 shares of our common stock outstanding as of October 1, 2018. The number of outstanding shares beneficially owned by each stockholder below was obtained from the most recent publicly filed information, as applicable. Amounts under the heading "Right to Acquire" represent shares that may be acquired upon exercise of outstanding stock options or warrants exercisable within 60 days of October 1, 2018. 
+[BEGIN TABLE]
+ Name of Beneficial Owner    Shares Outstanding      Right to Acquire      Total      Percentage of Shares Outstanding   
+ Entities affiliated with InterWest Partners (1)      1,452,216        —          1,452,216        8.0%  
+ Biogen Inc. (2)      1,453,957        —          1,453,957        8.0%  
+ S.R. One, Limited (3)      1,410,247        —          1,436,448        7.8%  
+ Intersouth Partners VI, L.P. (4)      1,214,455        —          1,214,457        6.7%  
+ Susan B. Washer (5)      20,328        585,377        605,705        3.2%  
+ Matthew Feinsod, M.D.      42,699        22,500        65,199        *   
+ William A. Sullivan (6)      —          47,187        47,187        *   
+ William Aliski, MPA (7)      —          —          —          *   
+ Edward Hurwitz (8)(9)      27,472        28,263        55,735        *   
+ Scott Koenig, M.D., Ph.D. (10)      2,228        85,993        88,221        *   
+ Ivana Magovcevic-Liebisch, Ph.D. (11)      3,000        28,263        31,263        *   
+ James Rosen (12)      —          28,263        28,263        *   
+ Anne VanLent (13)      —          18,666        18,666        *   
+ All executive officers and directors (11 persons) (14)      100,127        1,227,321        1,327,448        6.9%  
+[END TABLE]
+[BEGIN TABLE]
+ *  Less than 1%  
+[END TABLE]
+[BEGIN TABLE]
+(1)  Based on information provided to the Company in May 2018 by InterWest Partners VIII, L.P., InterWest Investors  VIII, L.P., InterWest Investors Q VIII, L.P., InterWest Management Partners VIII, LLC, Harvey B. Cash, Philip T. Gianos, W. Stephen Holmes III, Gilbert H. Kliman and Arnold L. Oronsky. InterWest Management Partners VIII, LLC is the general partner  of InterWest Partners VIII, L.P., InterWest Investors VIII, L.P., InterWest Investors Q VIII, L.P., and has sole voting and investment control over the shares held by each of them. Harvey B. Cash, Philip T. Gianos, W. Stephen Holmes, Gilbert H.  Kliman and Arnold L. Oronsky, a member of our board of directors, are the managing directors of InterWest Management Partners VIII, LLC. Each of the managing directors share voting and dispositive power over the shares held by the entities  affiliated with InterWest Partners. The address for these entities is c/o InterWest Partners, 2710 Sand Hill Road, Suite 200, Menlo Park, California 94025.  
+[END TABLE]
+[BEGIN TABLE]
+(2)  This information is based on a Schedule 13G filed with the SEC on August 20, 2015 by Biogen Inc. and Biogen  MA Inc. The address of Biogen Inc. is 225 Binney Street, Cambridge MA 02142 and the address of Biogen MA Inc. is 250 Binney Street, Cambridge, MA 02142. Biogen Inc. and Biogen MA Inc. share voting and dispositive power with respect to all of the  shares of our common stock reported as beneficially owned by them.  
+[END TABLE]
+[BEGIN TABLE]
+(3)  Based on information provided to the Company in May 2018 by S.R. One, Limited. The address of S.R. One, Limited  is 161 Washington Street, Suite 500, Conshohocken, Pennsylvania 19428.  
+[END TABLE]
+[BEGIN TABLE]
+(4)  Based on information provided to the Company in May 2018 by Intersouth Partners VI, L.P., whose address is 102  City Hall Plaza, Suite 200, Durham, North Carolina 27701. Mitchell Mumma and Dennis Dougherty are the managing members of Intersouth Associates VI, LLC, the sole general partner of Intersouth Partners VI, L.P., and share the power to vote or direct  the voting of and to dispose or direct the disposition of the shares of our common stock held by Intersouth Partners VI, L.P.  
+[END TABLE]
+[BEGIN TABLE]
+(5)  Excludes 213,663 shares subject to outstanding stock options that are not exercisable within 60 days of the date  of the table.  
+[END TABLE]
+[BEGIN TABLE]
+(6)  Excludes 147,813 shares subject to outstanding stock options that are not exercisable within 60 days of the date  of the table.  
+[END TABLE]
+[BEGIN TABLE]
+(7)  Excludes 25,000 shares subject to outstanding stock options that are not exercisable within 60 days of the date  of the table.  
+[END TABLE]
+[BEGIN TABLE]
+(8)  Includes 1,800 shares held by the Hurwitz/Lichtenfeld Revocable Trust over which Mr. Hurwitz, as a trustee  and a beneficiary, may be deemed to exercise voting and investment control.  
+[END TABLE]
+[BEGIN TABLE]
+(9)  Excludes 10,000 shares subject to outstanding stock options that are not exercisable within 60 days of the date  of the table.  
+[END TABLE]
+[BEGIN TABLE]
+(10)  Excludes 10,000 shares subject to outstanding stock options that are not exercisable within 60 days of the date  of the table.  
+[END TABLE]
+[BEGIN TABLE]
+(11)  Excludes 10,000 shares subject to outstanding stock options that are not exercisable within 60 days of the date  of the table.  
+[END TABLE]
+[BEGIN TABLE]
+(12)  Excludes 10,000 shares subject to outstanding stock options that are not exercisable within 60 days of the date  of the table.  
+[END TABLE]
+[BEGIN TABLE]
+(13)  Excludes 15,334 shares subject to outstanding stock options that are not exercisable within 60 days of the date  of the table.  
+[END TABLE]
+[BEGIN TABLE]
+(14)  Excludes 772,050 shares subject to outstanding stock options that are not exercisable within 60 days of the date  of the table.  
+[END TABLE]
+Policy Regarding Hedging 
+We have adopted a policy that prohibits our officers, directors or employees from entering into any short sale of our securities, buying or selling publicly traded options on our common stock or hedging their positions in our securities, including through the use of instruments such as prepaid variable forwards, equity swaps, collars or exchange funds. 
+Section 16(a) Beneficial Ownership Reporting Compliance 
+Section 16(a) of the Securities Exchange Act of 1934 requires our directors and executive officers, and persons who beneficially own more than ten percent of a registered class of our equity securities, to file reports of ownership of, and transactions in, our securities with the Securities and Exchange Commission. These directors, executive officers and ten-percent stockholders are also required to furnish us with copies of all Section 16(a) forms they file. 
+Based solely on a review of the copies of such forms received by us, and on written representations from certain reporting persons, we believe that during fiscal year 2018 our directors, executive officers and ten-percent stockholders complied with all applicable Section 16(a) filing requirements, except that Dr. Feinsod filed late Form 4s with respect to the forfeiture of shares for tax purposes in connection with the granting or vesting of awards of our common stock on December 11, 2017 and February 9, 2018.   CERTAIN RELATIONSHIPS AND RELATED PARTY TRANSACTIONS 
+Indemnification of Officers and Directors 
+Our certificate of incorporation provides that we will indemnify our directors and officers to the fullest extent permitted by Delaware law. In addition, we have entered into indemnification agreements with each of our directors that are broader in scope than the specific indemnification provisions contained in the Delaware General Corporation Law. 
+Policies and Procedures for Related Person Transactions 
+We have adopted a written related-person transactions policy that sets forth our policies and procedures regarding the identification, review, consideration, approval and oversight of "related-person transactions." For purposes of our policy only, a "related-person transaction" is a past, present or future transaction, arrangement or relationship (or any series of similar transactions, arrangements or relationships) in which we and any "related person" are participants involving an amount that exceeds $120,000. 
+Transactions involving compensation for services provided to us by an employee, consultant or director are not considered related-person transactions under this policy. A "related person," as determined since the beginning of our last fiscal year, is any executive officer, director or a holder of more than five percent of our common stock, including any of their immediate family members and any entity owned or controlled by such persons. 
+The policy imposes an affirmative duty upon each director and executive officer to identify any transaction involving them, their affiliates or immediate family members that may be considered a related party transaction before such person engages in the transaction. Under the policy, where a transaction has been identified as a related-person transaction, management must present information regarding the proposed related-person transaction to our audit committee (or, where review by our audit committee would be inappropriate, to another independent body of our board of directors) for review. The presentation must include a description of, among other things, the material facts, the direct and indirect interests of the related persons, the benefits of the transaction to us and whether any alternative transactions are available. 
+Our audit committee is responsible for reviewing and approving in advance any related-person transactions. In determining whether to approve a related-person transaction, the audit committee will take into account, among other factors it deems appropriate, whether the related-person transaction is on terms no less favorable than terms generally available to an unaffiliated third-person under the same or similar circumstances and the extent of the related person's interest in the transaction. 
+Agreements with Our Stockholders 
+Biogen Collaboration and License Agreement 
+On July 1, 2015, we entered into a Collaboration and License Agreement, which we refer to as the collaboration agreement, with Biogen MA Inc., a wholly owned subsidiary of Biogen Inc. ("Biogen"), pursuant to which we and Biogen agreed to collaborate to develop, seek regulatory approval for and commercialize gene therapy products to treat X-linked juvenile retinoschisis ("XLRS"), X-linked retinitis pigmentosa ("XLRP") and discovery programs targeting three indications based on our adeno-associated virus vector technologies. The collaboration agreement became effective in August 2015. As of the date of this proxy, Biogen MA Inc. and Biogen Inc. together own more than five percent (5%) of our voting securities. 
+Under the collaboration agreement, we will be eligible to receive upfront payments, option exercise fees and milestone payments aggregating over $1 billion, including an upfront license fee of $94.0 million which we received on August 19, 2015 . During fiscal year 2017 we recorded other revenue of $1,052,000, primarily   comprised of reimbursable costs for post-funding development activities that we conducted pursuant to the terms of this collaboration agreement with Biogen. During fiscal year 2018, we earned and received a $2.5 million milestone payment from Biogen for the XLRP program and we recorded other revenue of $3,028,00 primarily comprised of reimbursable costs for post-funding development activities. In the event that Biogen exercises its option to obtain an exclusive commercial license for one or more discovery products that are designated as clinical candidates, we are eligible to receive an option exercise fee for each drug candidate. Under the collaboration agreement, we are eligible to receive development milestone payments upon the achievement of specified regulatory, clinical development and commercialization milestones of up to $472.5 million collectively for the two lead programs and, together with option exercise fees, up to $592.5 million across the discovery programs. Biogen also has the right to substitute up to two discovery programs, with a limited ability to reinstate such substituted programs within six months. In the event Biogen elects to reinstate such substituted programs, we are eligible to receive additional option exercise fees and potential development, regulatory and sales milestone payments. 
+Budgeted development expenses for the programs are funded by Biogen through an allocation of the upfront license fee described below, subject to cost sharing for budget overruns and additional clinical trials that may be required prior to a pivotal trial for each of the XLRS and XLRP programs. During our development of the XLRS and XLRP products, Biogen retains the right to step in and take over the remaining development activities under specified circumstances. When Biogen assumes development responsibility, budgeted development expenses are paid by Biogen, subject to cost sharing for additional development activities. For each of the XLRS and XLRP programs, we have an option to share in development costs and resulting profits as well as an option to co-promote the second product approved in the United States. The collaboration agreement also provides for discovery programs targeting three indications whereby we will conduct discovery, research and development activities for those additional drug candidates through the stage of clinical candidate designation, after which, Biogen may exercise an option to continue to develop, seek regulatory approval for and commercialize the designated clinical candidate. 
+Under the collaboration agreement, we granted Biogen an exclusive, royalty-bearing license, with the right to grant sublicenses, to use adeno-associated virus vector technology and other technology controlled by us for the purpose of researching, developing, manufacturing and commercializing licensed products developed under the agreement. We also granted Biogen a non-exclusive, worldwide, royalty-free, fully paid license, with the right to grant sublicenses, of our interest in other intellectual property developed pursuant to the collaboration agreement. Biogen agreed to pay royalties for each licensed product at tiered rates ranging from high single digit to mid-teen percentages of annual net sales of the XLRS or XLRP products and rates ranging from mid-single digit to low-teen percentages of annual net sales for the discovery products.  INFORMATION ABOUT OUR AUDIT COMMITTEE AND INDEPENDENT REGISTERED PUBLIC ACCOUNTING FIRM 
+Audit Committee Report 
+The primary role of our audit committee is to assist our Board of Directors in fulfilling its oversight responsibilities by reviewing the financial information proposed to be provided to stockholders and others, the adequacy of the system of internal control over financial reporting and disclosure controls and procedures established by management and the Board, and the audit process and the independent registered public accounting firm's qualifications, independence and performance. 
+Management is responsible for establishing and maintaining the company's system of internal controls and for preparation of the company's financial statements. Our independent registered public accounting firm is responsible for performing an audit of our consolidated financial statements in accordance with generally accepted auditing standards and issuing an opinion on the financial statements. The audit committee has met and held discussions with management and our independent registered public accounting firm, and has also met separately with our independent registered public accounting firm, without management present, to review the adequacy of our internal controls, financial reporting practices and audit process. 
+The audit committee has reviewed and discussed our audited consolidated financial statements for the year ended June 30, 2018 with management and the independent registered public accounting firm. As part of this review, the audit committee discussed with our independent registered public accounting firm the communications required by generally accepted auditing standards, including those described in the Public Company Accounting Oversight Board's Statement on Auditing Standards No. 16, "Communication with Audit Committees," as amended. 
+The audit committee has received from our independent registered public accounting firm a written statement describing all relationships between that firm and Applied Genetic Technologies Corporation that might bear on the registered public accounting firm's independence, consistent with Public Company Accounting Oversight Board Ethics and Independence Rule 3526, "Communication with Audit Committees Concerning Independence." The audit committee has discussed the written statement with the independent registered public accounting firm, and has considered whether the independent registered public accounting firm's provision of any consultation and other non-audit services to Applied Genetic Technologies Corporation is compatible with maintaining the registered public accounting firm's independence. 
+Based on the above-mentioned reviews and discussions with management and the independent registered public accounting firm, the audit committee recommended to the Board of Directors that Applied Genetic Technologies Corporation's audited financial statements be included in its Annual Report on Form 10-K for the year ended June 30, 2018, as filed with the Securities and Exchange Commission. 
+Anne VanLent, Chair
+Ed Hurwitz 
+Ivana Magovcevic-Liebisch 
+Our Independent Registered Public Accounting Firm 
+Ernst & Young LLP has been selected by the audit committee of the Board of Directors as the independent registered public accounting firm to audit our financial statements for the year ending June 30, 2019. We do not expect that representatives of Ernst & Young LLP will attend the meeting. RSM US LLP served as our registered public accounting firm for the fiscal years ended June 30, 2016 and 2017 and through December 19, 2017 during the fiscal year ending June 30, 2018.  Fees for Professional Services 
+The following is a summary of the fees for professional services rendered by Ernst & Young LLP, our independent registered public accounting firm, for fiscal year 2018. Prior to December 19, 2017, RSM US LLP was engaged as our independent registered public accounting firm and accordingly the fees reflected in the table below for fiscal year 2017 are the fees for professional services rendered by RSM US LLP. 
+[BEGIN TABLE]
+ Fee category    Fiscal year 2018      Fiscal year 2017   
+ Audit fees    $ 516,048      $ 218,486   
+ Audit-related fees      —          60,000  
+ Tax fees      27,000       —     
+ All other fees      —          9,036  
+ Total Fees    $ 543,048      $ 287,522   
+[END TABLE]
+Audit fees. Audit fees consist of fees and related expenses billed for professional services rendered for the audit of the financial statements and services that are normally provided by our independent registered public accounting firm in connection with statutory and regulatory filings or engagements and include fees for professional services rendered in connection with quarterly and annual reports. The audit fees for fiscal years 2018 and 2017 also include fees and related expenses associated with the issuance of consents by our independent registered public accounting firm to be named in our registration statements and to the use of their audit report in the registration statements. 
+Audit-related fees. Audit-related fees represent fees for assurance and related services performed by our independent registered public accounting firm that are reasonably related to the performance of the audit or review of our financial statements, including consultation on accounting standards or accounting for specific transactions. 
+Tax fees. Tax fees represent fees for professional services performed by our independent registered public accounting firm with respect to tax compliance, tax advice and tax planning and related expenses. The company engages a separate professional services firm for these services, including assistance with the preparation of federal, state, and foreign income tax returns. 
+All other fees. All other fees represent fees for products and services provided by our independent registered public accounting firm, other than those disclosed above. 
+Pre-Approval Policies and Procedures 
+Our audit committee's pre-approval policies or procedures do not allow our management to engage our independent registered public accounting firm to provide any specified services without specific audit committee pre-approval of the engagement for those services. All of the services provided by our independent registered public accounting firm during fiscal year 2018 were pre-approved. 
+Whistleblower Procedures 
+Our audit committee has adopted procedures for the treatment of complaints regarding accounting, internal accounting controls or auditing matters, including procedures for the confidential and anonymous submission by our Directors, officers and employees of concerns regarding questionable accounting, internal accounting controls or auditing matters. These procedures are set forth in our code of ethics. See "Information About Our Board of Directors and Management—Code of Business Conduct and Ethics; Corporate Governance Guidelines."  OTHER MATTERS 
+Other Business 
+Neither we nor our board of directors intends to propose any matters of business at the meeting other than the proposals described in this proxy statement. Neither we nor our board or directors know of any matters to be proposed by others at the meeting. 
+Stockholder Proposals for Next Annual Meeting 
+Stockholders who wish to present proposals pursuant to Rule 14a-8 promulgated under the Exchange Act for consideration at our next annual meeting of stockholders must submit the proposals in proper form to us at the address set forth on the first page of this proxy statement not later than June 18, 2019 in order for the proposals to be considered for inclusion in our proxy statement and form of proxy relating to our next annual meeting. However, if the date of our next annual meeting is changed by more than 30 days from the anniversary of our 2019 Annual Meeting, then the deadline to submit such stockholder proposals is a reasonable time before we begin to print and send our proxy materials. 
+Stockholder proposals intended to be presented at our next annual meeting submitted outside the processes of Rule 14a-8 or stockholder proposals to nominate a director candidate to be considered by the nominating and corporate governance committee must be received in writing by us no later than the close of business on August 16, 2019, nor earlier than July 18, 2018, together with all supporting documentation and information required by our by-laws; provided, however, that if our next annual meeting is advanced more than 30 days or delayed more than 60 days after the anniversary of our 2019 Annual Meeting, such notice must be received in writing by us no later than the close of business on the 90th day prior to such annual meeting or the 10th day following the day on which public announcement of the date is first made. Proxies solicited by us will confer discretionary voting authority with respect to these proposals, subject to SEC rules governing the exercise of this authority.  
+[BEGIN TABLE]
+     Electronic Voting Instructions 
+     Electronic Voting Instructions 
+     Available 24 hours a day, 7 days a  week! 
+     Available 24 hours a day, 7 days a  week! 
+     Instead of mailing your proxy, you may choose one of the  voting methods outlined below to vote your proxy. 
+     Instead of mailing your proxy, you may choose one of the  voting methods outlined below to vote your proxy. 
+     VALIDATION DETAILS ARE LOCATED BELOW IN THE TITLE  BAR. 
+     VALIDATION DETAILS ARE LOCATED BELOW IN THE TITLE  BAR. 
+     Proxies submitted by the Internet or telephone must be  received by 12:00 a.m., Central Time, on November 15, 2018. 
+     Proxies submitted by the Internet or telephone must be  received by 12:00 a.m., Central Time, on November 15, 2018. 
+             Vote by Internet 
+             Vote by Internet 
+       Go to  www.envisionreports.com/AGTC 
+       Go to  www.envisionreports.com/AGTC 
+              Or scan the  QR code with your smartphone 
+              Or scan the  QR code with your smartphone 
+              Follow the  steps outlined on the secure website 
+              Follow the  steps outlined on the secure website 
+            Vote by telephone 
+            Vote by telephone 
+            Call toll free 1-800-652-VOTE (8683) within the USA, US territories  & Canada on a touch tone telephone   Follow the instructions provided by the recorded  message 
+            Call toll free 1-800-652-VOTE (8683) within the USA, US territories  & Canada on a touch tone telephone   Follow the instructions provided by the recorded  message 
+ Using a black ink pen, mark your votes with an X as shown in this example. Please do not write outside the designated areas.   ☒       
+ Using a black ink pen, mark your votes with an X as shown in this example. Please do not write outside the designated areas.   ☒       
+[END TABLE]
+q IF YOU HAVE NOT VOTED VIA THE INTERNET OR TELEPHONE, FOLD ALONG THE PERFORATION, DETACH AND RETURN THE BOTTOM PORTION IN THE ENCLOSED ENVELOPE. q 
+[BEGIN TABLE]
+1.   Election of two Class II Directors to a three-year term:               + 
+1.   Election of two Class II Directors to a three-year term:               + 
+[END TABLE]
+[BEGIN TABLE]
+   Please sign exactly as name(s) appears hereon. Joint  owners should each sign. When signing as attorney, executor, administrator, corporate officer, trustee, guardian, or custodian, please give full title. 
+   Please sign exactly as name(s) appears hereon. Joint  owners should each sign. When signing as attorney, executor, administrator, corporate officer, trustee, guardian, or custodian, please give full title. 
+[END TABLE]
+q IF YOU HAVE NOT VOTED VIA THE INTERNET OR TELEPHONE, FOLD ALONG THE PERFORATION, DETACH AND RETURN THE BOTTOM PORTION IN THE ENCLOSED ENVELOPE. q 
+Proxy — Applied Genetic Technologies Corporation 
+Notice of 2019 Annual Meeting of Stockholders 
+Proxy Solicited by Board of Directors for Annual Meeting — November 15, 2018 
+Susan B. Washer and William A. Sullivan, or either of them, each with the power of substitution, are hereby authorized to represent and vote the shares of the undersigned, with all the powers which the undersigned would possess if personally present, at the Annual Meeting of Stockholders of Applied Genetic Technologies Corporation to be held on November 15, 2018 or at any postponement or adjournment thereof. 
+Shares represented by this proxy will be voted in the manner directed herein by the undersigned. If no such directions are indicated, the Proxies will have authority to vote FOR the nominees for election as Class II Directors and FOR Proposal 2. 
+In their discretion, the Proxies are authorized to vote upon such other business as may properly come before the meeting. 
+(Items to be voted appear on reverse side.) 
