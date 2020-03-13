@@ -83,7 +83,8 @@ def get_annual_filings_df():
     # full_company_index = pd.merge(full_company_index, sics, left_on="ticker", right_on="company_ticker", how='left')
     # full_company_index.drop(['company_ticker', 'company_name'], axis=1, inplace=True)
 
-    annual_filings = full_company_index[full_company_index.form_type.isin(['14-A'])]
+    annual_filings = full_company_index[full_company_index.form_type.isin(['DEF 14A'])]
+    # , 'DEFA14A', 'PRE 14A', 'DEFM14A'
     # annual_filings = annual_filings[annual_filings.primary_industry_id.notna()]
     logger.info(f'annual filings: {len(annual_filings)}')
     return annual_filings
