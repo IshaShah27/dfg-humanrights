@@ -1,0 +1,838 @@
+UNITED STATES SECURITIES AND EXCHANGE COMMISSION
+WASHINGTON, DC 20549
+Schedule 14A
+Proxy Statement pursuant to Section 14(a)
+of the Securities Exchange Act of 1934
+Filed by the Registrant ☒
+Filed by a Party other than the Registrant ☐
+Check the appropriate box:
+[BEGIN TABLE]
+ ☐  Preliminary Proxy Statement   ☐ Confidential for use of the Commission  
+ ☒  Definitive Proxy Statement   only (as permitted by Rule 14a-6(e)(2))  
+ ☐  Definitive Additional Materials    
+ ☐  Soliciting Material Pursuant to §240.14a-11(c) of §240.14a-12  
+[END TABLE]
+CUI Global, Inc.
+(Name of Registrant as Specified in its Charter)
+(Name of Person(s) Filing Proxy Statement if other than the Registrant)
+Not applicable
+Payment of Filing Fee (Check the appropriate box):
+[BEGIN TABLE]
+   ☒   No Fee Required  
+[END TABLE]
+[BEGIN TABLE]
+   ☐   Fee computed on table below per Exchange Act Rules 14a-6(i)(1) and 0-11.  
+[END TABLE]
+[BEGIN TABLE]
+   (1)   Title of each class of securities to which transaction applies:  
+   (2)   Aggregate number of securities to which transaction applies:  
+   (3)   Per unit price or other underlying value of transaction computed pursuant to Exchange Act Rule 0-11: (set forth the amount in which the filing fee is calculated and state how it was determined).  
+   (4)   Proposed maximum aggregate value of transaction:  
+   (5)   Total fee paid:  
+[END TABLE]
+[BEGIN TABLE]
+   ☐   Fee paid previously with preliminary materials.  
+[END TABLE]
+[BEGIN TABLE]
+   ☐   Check box if any part of the fee is offset as provided by Exchange Act Rule 0-(a)(2) and identify the filing for which the offsetting fee was paid previously. Identify the previous filing by registration statement number, or the Form or Schedule and the date of its filing.  
+[END TABLE]
+[BEGIN TABLE]
+   (1)   Amount Previously Paid:  
+   (2)   Form, Schedule or Registration Statement No.:  
+   (3)   Filing Party:  
+   (4)   Date Filed:  
+[END TABLE]
+20050 SW 112th Avenue
+Tualatin, Oregon 97062
+October 5, 2018
+Dear Stockholders:
+We are pleased to invite you to attend our 2018 Annual Meeting of Stockholders to be held at 9:00 am CST on Monday, December 3, 2018, at Orbital Gas Systems, North America, 1924 Aldine Western, Houston, Texas 77038. The board of directors has fixed the close of business on October 9, 2018 as the record date for determining Stockholders entitled to receive notice of, and to vote at, the 2018 Annual Meeting. We are also pleased to offer a live webcast of our 2018 Annual Meeting to allow you to view the meeting on the Investor Relations section of our web site at www.cuiglobal.com.
+Details of the business to be conducted are described in the Notice of Internet Availability of Proxy Materials you received in the mail and in this proxy statement. We have also provided with this proxy statement a copy of our 2017 Annual Report to Stockholders and our most recent quarterly report. We encourage you to read our reports that include our audited financial statements and provide information about our business and products.
+Besides the proxy statement and the 2017 Annual Report, you might also review our recent press releases, which demonstrate the exciting and successful year we have had in 2018. Among our many accomplishments:
+[BEGIN TABLE]
+• CUI Global Subsidiary CUI Inc. Receives First Order for ICE Block Data Center Power Utilization Solution Valued at $2.9 Million - CUI Inc. received an initial purchase order for 400 of its ICE Block units and additional ICE Switches valued at approximately $2.9 million for delivery in the first quarter of 2019. Intelligent Control of Energy® ("ICE") is Virtual Power Systems' ("VPS") proprietary software.  
+[END TABLE]
+[BEGIN TABLE]
+• CUI Global's Wholly-Owned Subsidiary, CUI Inc., Expands Agreement as the Exclusive Hardware Design Partner for Virtual Power Systems (VPS) - This amended partnership agreement extended CUI's exclusive relationship with VPS to 2024 from the original expiry date of 2019. The agreement also calls for an automatic renewal provision and enhanced protections around CUI's intellectual property as it relates to ICE Block and ICE Switch, the industry's first SDP ICE Compatible devices based on VPS's ICE software platform;  
+[END TABLE]
+[BEGIN TABLE]
+• CUI Global Subsidiary Orbital U.K. Awarded Contracts Totaling $4.58 Million to Enhance Fuel Gas Metering and Compressor Efficiency on U.K. Gas Transmission Network - This is an award of four contracts totaling approximately $4.58 million (£3.3 million GBP) by a tier 1 Engineering, Procurement, and Construction firm in the UK;  
+[END TABLE]
+[BEGIN TABLE]
+• CUI Global Subsidiary CUI Inc. and Master Electronics Enter into Global Distribution Agreement - This agreement allows us a partnership with one of the most respected electronic distribution companies in the World;  
+[END TABLE]
+[BEGIN TABLE]
+• CUI Global Secures New Certification for GasPT from UK Regulator - Orbital received new, broader certification of its proprietary GasPT analyzer and software from UK regulator, the Office of Gas and Electricity Markets (Ofgem).  Per the certification, the GasPT is now approved for "use at all Directed measurement points where the gas composition is known to be within the approval range of the instrument;"  
+[END TABLE]
+[BEGIN TABLE]
+• CUI Global Subsidiary Orbital U.K. Enters into Collaboration with Keele University for the Development of Technologies for Future Gas Networks - Orbital entered into a collaboration with Keele University in the United Kingdom to develop new technology suitable for future gas networks. Orbital has opened a satellite Research & Development facility at the Keele University Science and Innovation Park to work closely with the University's Smart Energy Network Demonstrator (SEND) project to develop new sensor technologies to support "green gas" monitoring and control;  
+[END TABLE]
+[BEGIN TABLE]
+• CUI Global Division Orbital Gas Systems Signs Framework Agreement with Cadent Gas - Orbital signed a Framework Agreement with Cadent Gas Limited, the UK's largest gas distribution network. The Agreement aligns with Cadent's long-term infrastructure plans to provide for its customers in a low carbon economy through, in part, the use of new sources of distributed gas, and particularly, biomethane;  
+[END TABLE]
+[BEGIN TABLE]
+• CUI Global Division Orbital Gas Systems Secures Multi-Year Service Agreement with Major UK Natural Gas Operator - Orbital was awarded an exclusive 2-year contract to provide routine maintenance, repair, and calibration for a major UK natural gas transmission company;  
+[END TABLE]
+[BEGIN TABLE]
+• CUI Global Subsidiary CUI Inc. and Virtual Power Systems' Software Defined Power Solutions (ICE Technology) Selected by SAP - CUI Inc. announced that the SAP® Co-Innovation Lab ("COIL") has selected Virtual Power Systems' ("VPS") proprietary Intelligent Control of Energy® ("ICE") Software Defined Power® ("SDP") infrastructure solutions following the successful completion of a 90-day proof of concept trial; and,  
+[END TABLE]
+[BEGIN TABLE]
+• CUI Global Subsidiary Orbital Gas Systems Signs Cooperation Agreement with SAMSON to Create Global Distribution Channel - Orbital signed a definitive Cooperation Agreement with SAMSON AKTIENGESELLSCHAFT ("SAMSON") for the global sales and distribution of the Company's proprietary GasPT®, VE Technology® and combined GasPTi analyzer. Under the terms of the Agreement, SAMSON will distribute the Company's solutions globally excluding North America and the U.K. and become its exclusive distributor. The document contains specific performance milestones, which SAMSON must achieve to become and then maintain "exclusivity."  
+[END TABLE]
+We have elected to provide access to our proxy materials over the internet under the Securities and Exchange Commission's "notice and access" rules. Our management is constantly focused on improving the ways people connect with information and believes that providing our proxy materials over the internet increases the ability of our stockholders to connect with the information they need, while reducing the environmental impact of our 2018 Annual Meeting. If you want more information about the 2018 Annual Meeting, please see the Questions and Answers section of the proxy statement under the heading General Information or visit the Meeting of Stockholders section of our Investor Relations website, www.cuiglobal.com.
+Your vote is important. Whether or not you plan to attend the 2018 Annual Meeting, we hope you will vote as soon as possible. You may vote over the internet and by telephone or, if you requested to receive printed proxy materials, by mailing a proxy card. Please review the instructions on each of your voting options described in the proxy statement and in the Notice you received in the mail.
+Thank you for your ongoing support of CUI Global. We look forward to seeing you at our 2018 Annual Meeting.
+Sincerely,
+William J. Clough
+President/Chief Executive Officer
+Annual Meeting of Stockholders
+To: The Stockholders of CUI Global, Inc.
+We will hold our 2018 Annual Meeting of Stockholders at 9:00 am CST on Monday, December 3, 2018, at Orbital Gas Systems, North America, 1924 Aldine Western, Houston, Texas 77038 (the "Annual Meeting") for the following purposes:
+[BEGIN TABLE]
+   1.   Election of five directors to hold office until the 2019 Annual Meeting of Stockholders or until their respective successors have been duly elected and qualified;  
+   2.   Ratification of the appointment of Perkins & Company, P.C. of the BDO Seidman Alliance as the Company's independent registered public accounting firm for the year ending December 31, 2018;  
+   3.   Advisory approval of the company's executive compensation (Say-on-Pay);  
+   4.   To transact such other business as may properly come before the Annual Meeting or any adjournments or postponements thereof.  
+[END TABLE]
+These items of business are more fully described in the proxy statement accompanying this notice. The board of directors has fixed the close of business on October 9, 2018 as the record date for the determination of stockholders entitled to receive notice of, and to vote at, the Annual Meeting of Stockholders. For a period of at least ten days prior to the Annual Meeting, a complete list of stockholders entitled to vote at the Annual Meeting will be open to examination by any stockholder during ordinary business hours at the offices of the company, 20050 SW 112th Avenue, Tualatin, Oregon 97062.
+Your vote is very important. All stockholders are cordially invited to attend the Annual Meeting. Whether or not you plan to attend the Annual Meeting, we encourage you to read this proxy statement and submit your proxy or voting instructions as soon as possible. For specific instructions on how to vote your shares, please refer to the instructions on the Notice of Internet Availability of Proxy Materials (the "Notice") you received in the mail, the section entitled General Information about the Annual Meeting beginning on page 1 of the proxy statement or, if you requested to receive printed proxy materials, your enclosed proxy card.
+To assure your representation at the Annual Meeting of Stockholders, we ask that you vote as promptly as possible. Your stock will be voted in accordance with the instructions you provide in your proxy. You may revoke your proxy at any time before it is voted by signing and returning a proxy bearing a later date for the same shares, by filing with the Secretary of the Company a written revocation bearing a later date or by attending and voting in person at the Annual Meeting.
+[BEGIN TABLE]
+         By Order of the Board of Directors      
+         /s/ Matthew M. McKenzie      
+         Corporate Secretary        
+[END TABLE]
+Tualatin, Oregon
+October 5, Proxy Statement
+Introduction
+This Proxy Statement is furnished in connection with the solicitation of proxies by the board of directors of CUI Global, Inc. (the "Company") for use at the Annual Meeting of Stockholders to be held at 9:00 am CST on Monday, December 3, 2018, at Orbital Gas Systems, North America, 1924 Aldine Western, Houston, Texas 77038 and for any postponements or adjournments thereof. Please vote your shares of CUI Global, Inc. common stock. Your vote at the Annual Meeting is important to us. Whether or not you plan to attend the Annual Meeting, we encourage you to read this proxy statement and submit your proxy or voting instructions as soon as possible. For specific instructions on how to vote your shares, please refer to the instructions on the Notice of Internet Availability of Proxy Materials (the "Notice") you received in the mail, the section entitled General Information about the Annual Meeting beginning below in this proxy statement or, if you requested to receive printed proxy materials, your enclosed proxy card. The Proxy Statement and the accompanying materials are being made available to the stockholders on or about October 14, 2018.
+[BEGIN TABLE]
+ WE URGE YOU TO VOTE AS SOON AS POSSIBLE, EVEN IF YOU ARE CURRENTLY INTENDING TO ATTEND THE MEETING.  THIS WILL NOT PREVENT YOU FROM VOTING IN PERSON, BUT WILL ASSURE THAT YOUR VOTE IS COUNTED IF YOU ARE UNABLE TO ATTEND THE MEETING.  IT IS IMPORTANT THAT YOUR SHARES ARE REPRESENTED AT THE MEETING IN PERSON OR BY PROXY; IF YOU DO NOT EXPECT TO ATTEND THE MEETING, PLEASE COMPLETE, DATE, SIGN AND RETURN THE PROXY CARD (WHICH WILL BE MADE AVAILABLE TO YOU SEPARATELY) OR PROVIDE VOTING INSTRUCTIONS BY TELEPHONE OR VIA THE INTERNET.  
+[END TABLE]
+General Information about the Annual Meeting
+Q: Why am I receiving these materials?
+A: Our board of directors has made these materials available to you on the internet or, upon your request, delivered printed proxy materials to you, in connection with the solicitation of proxies for use at the CUI Global Annual Meeting of Stockholders, which will take place at 9:00 am CST on Monday, December 3, 2018, at Orbital Gas Systems, North America, 1924 Aldine Western, Houston, Texas 77038. As a stockholder, you are invited to attend the Annual Meeting and you are requested to vote on the items of business described in this proxy statement.
+Q: What information is contained in this proxy statement?
+A: The information in this proxy statement relates to the proposals to be voted on at the Annual Meeting, the voting process, the compensation award process of our directors and most highly paid executive officers, corporate governance and information on our board of directors and certain other required information.
+Q: Why did I receive a notice in the mail regarding the internet availability of proxy materials instead of a full set of proxy materials?
+A: In accordance with rules adopted by the Securities and Exchange Commission (the "SEC"), we may furnish proxy materials, including this proxy statement and our 2017 Annual Report on Form 10-K, to our stockholders by providing access to such documents on the internet instead of mailing printed copies. Most stockholders will not receive printed copies of the proxy materials unless they request them. Instead, the Notice, which was mailed to most of our stockholders, will instruct you as to how you may access and review all the proxy materials on the internet. The Notice also instructs you as to how you may submit your proxy on the internet. If you would like to receive a paper or email copy of our proxy materials, you should follow the instructions in the Notice for requesting such materials.
+Q: I share an address with another stockholder and we received only one paper copy of the proxy materials. How may I obtain an additional copy of the proxy materials?
+A: We have adopted a procedure called "householding," which the SEC has approved. Under this procedure, we deliver a single copy of the Notice and, if applicable, the proxy materials and the Annual Report to Stockholders to multiple stockholders who share the same address unless we received contrary instructions from one or more of the stockholders. This procedure reduces environmental impact as well as our printing costs, mailing costs and fees. Stockholders who participate in householding will continue to be able to access and receive separate proxy cards. Upon written request, we will promptly deliver a separate copy of the Notice and, if applicable, the proxy materials and the Annual Report to Stockholders to any stockholder at a shared address to which we delivered a single copy of any of these documents. To receive a separate copy of the Notice and, if applicable, these proxy materials or the Annual Report to Stockholders, stockholders may telephone, write or email us as follows: (503) 612-2300; 20050 SW 112th Avenue, Tualatin, Oregon 97062; investors@cuiglobal.com.
+Stockholders who hold shares in street name (as described below) may contact their brokerage firm, bank, broker-dealer or other similar organization to request information about householding.
+Q: How do I get electronic access to the proxy materials?
+A: The Notice will provide you with instructions regarding how to:
+[BEGIN TABLE]
+• View our proxy materials for the Annual Meeting on our internet website, www.cuiglobal.com and  
+• Instruct us to send our future proxy materials to you electronically by email.  
+[END TABLE]
+Choosing to receive your future proxy materials by email will save us the cost of printing and mailing documents to you and will reduce the impact on the environment of printing and mailing these materials. If you choose to receive future proxy materials by email, you will receive an email next year with instructions containing a link to those materials and a link to the proxy voting site. Your election to receive proxy materials by email will remain in effect until you terminate it.
+Q: Is the Annual Meeting going to be webcast?
+A: For your convenience, we are pleased to offer a live webcast of our Annual Meeting on the Investor Relations section of our web site at www.cuiglobal.com.
+Q: Can I participate in the question-and-answer portion of the Annual Meeting without attending the Annual Meeting?
+A: No. The live webcast will be only visual and audio; there will be no opportunity to participate in the question-and-answer portion of the Annual Meeting unless you are present at the meeting.
+Q: What items of business will be voted on at the 2018 Annual Meeting?
+A: The items of business scheduled to be voted on at the Annual Meeting are:
+[BEGIN TABLE]
+• The election of five directors to hold office until the 2019 Annual Meeting of Stockholders or until their respective successors have been duly elected and qualified;  
+• Ratification of the appointment of Perkins & Company, P.C. of the BDO Seidman Alliance as the Company's independent registered public accounting firm for the year ending December 31, 2018;  
+• Advisory approval of the company's executive compensation (Say-on-Pay).  
+[END TABLE]
+We will also consider any other business that properly comes before the Annual Meeting.
+Q: How can I vote my shares in person at the Annual Meeting?
+A: Shares held in your name as the stockholder of record may be voted by you in person at the Annual Meeting. Shares held beneficially in street name may be voted by you in person at the Annual Meeting only if you obtain a legal proxy from the broker, bank, trustee or nominee that holds your shares giving you the right to vote the shares. Even if you plan to attend the Annual Meeting, we recommend that you also submit your proxy or voting instructions as described herein so that your vote will be counted if you later decide not to attend the meeting.
+Q: How shall I sign my name on the proxy card?
+A: The following general rules for signing proxy cards may be of assistance to you and avoid the time and expense to CUI Global in validating your vote if you fail to sign your proxy card properly.
+[BEGIN TABLE]
+• Individual Accounts: Sign your name exactly as it appears in the registration on the proxy card.  
+• Joint Accounts: Either party may sign, but the name of the party signing should conform exactly to a name shown in the registration on the proxy card.  
+• All Other Accounts: The capacity of the individual signing the proxy card should be indicated unless it is reflected in the form of registration.  
+[END TABLE]
+Q: How can I vote my shares without attending the Annual Meeting?
+A: Whether you hold shares directly as the stockholder of record or beneficially in street name, you may direct how your shares are voted without attending the Annual Meeting. If you are a stockholder of record, you may vote by proxy. You can vote by proxy over the internet by following the instructions provided in the Notice or, if you requested to receive printed proxy materials, you can also vote by mail or telephone pursuant to instructions provided on the proxy card. If you hold shares beneficially in street name, you may also vote by proxy over the internet by following the instructions provided in the Notice or, if you requested to receive printed proxy materials, you can also vote by telephone or mail by following the voting instruction card provided to you by your broker, bank, trustee or nominee.
+Q: May I change my vote?
+A: You may change your vote at any time prior to the taking of the vote at the Annual Meeting. If you are the stockholder of record, you may change your vote by: (1) granting a new proxy bearing a later date (which automatically revokes the earlier proxy) using any of the methods described above (and until the applicable deadline for each method), (2) providing a written notice of revocation to CUI Global's Corporate Secretary at CUI Global, Inc., 20050 SW 112th Avenue, Tualatin, Oregon 97062 prior to your shares being voted or (3) attending the Annual Meeting and voting in person. Attendance at the meeting will not cause your previously granted proxy to be revoked unless you specifically so request. For shares you hold beneficially in street name, you may change your vote by submitting new voting instructions to your broker, bank, trustee or nominee following the instructions they provided or, if you have obtained a legal proxy from your broker, bank, trustee or nominee giving you the right to vote your shares, by attending the Annual Meeting and voting in person.
+Q: Is my vote confidential?
+A: Proxy instructions, ballots and voting tabulations that identify individual stockholders are handled in a manner that protects your voting privacy. Your vote will not be disclosed either within CUI Global or to third parties, except: (1) as necessary to meet applicable legal requirements, (2) to allow for the tabulation of votes and certification of the votes and (3) to facilitate a successful proxy solicitation. Occasionally, stockholders provide on their proxy card written comments, which are then forwarded to CUI Global management.
+Q: How many shares must be present or represented to conduct business at the Annual Meeting?
+A: The presence at the Annual Meeting, in person or by proxy, of the holders of one third of the aggregate voting power of the common stock outstanding on the record date will constitute a quorum. Each share of common stock is entitled to one vote. As of the Record Date for this Annual Meeting, approximately 28,529,606 shares of common stock were outstanding and entitled to vote at the Annual Meeting. Both abstentions and broker non-votes (described below) are counted for the purpose of determining the presence of a quorum. Unless otherwise indicated, all references herein to percentages of outstanding shares of stock are based on such numbers of shares outstanding. Shares entitled to vote are referred to hereafter as "Voting Shares."
+Q: What shares can I vote?
+A: Each share of CUI Global common stock issued and outstanding as of the close of business on the Record Date for the Annual Meeting is entitled to be voted on all items being voted on at the Annual Meeting. You may vote all shares owned by you as of the Record Date, including: (1) shares held directly in your name as the stockholder of record and (2) shares held for you as the beneficial owner in street name through a broker, bank, trustee or other nominee.
+Q: How many votes am I entitled to per share?
+A: Each holder of shares of common stock is entitled to one vote for each share held as of the Record Date.
+Q: What is the Record Date?
+A: Record Date, in the context of voting at the Annual Meeting, is the date on which our stock ledger is closed for the purpose of determining which shareholders officially own voting shares in order to be entitled to vote at the Annual Meeting. The Record Date for the 2018 Annual Meeting of Shareholders is October 9, 2018.
+Q: How may I vote?
+A: Regarding the election of directors, you may vote "FOR" all or some of the nominees or your vote may be "WITHHELD" with respect to one or more of the nominees.
+Regarding:
+[BEGIN TABLE]
+• Ratification of the appointment of Perkins & Company, P.C. of the BDO Seidman Alliance as the Company's independent registered public accounting firm for the year ending December 31, 2018,  
+• Advisory approval of the company's executive compensation (Say-on-Pay),  
+[END TABLE]
+You may vote "FOR" or "AGAINST" or "ABSTAIN" on these proposals.
+Q: What vote is required to approve each item?
+A: Election of directors
+The affirmative vote "FOR" of a simple majority of the votes cast at the Annual Meeting is required for the election of each director, A properly executed proxy marked "WITHHOLD" with respect to the election of one or more directors will not be voted with respect to the director or directors indicated or the other items to be voted on; although, it will be counted for purposes of determining whether there is a quorum. Voting Shares represented by properly executed proxies for which no instruction is given will be voted "FOR" election of the nominee for director.
+A: Ratification of Perkins & Company, P.C. of the BDO Seidman Alliance as our independent registered public accounting firm.
+The affirmative vote "FOR" of a simple majority of the votes cast at the Annual Meeting is required for the ratification of the appointment of Perkins & Company, P.C. of the BDO Seidman Alliance as our independent registered public accounting firm. A properly executed proxy marked "ABSTAIN" regarding this issue will not be voted with respect to the item to be voted on; although, it will be counted for purposes of determining whether there is a quorum. Voting Shares represented by properly executed proxies for which no instruction is given will be voted "FOR" these issues.
+A: Advisory vote on the approval of the company's executive compensation (Say-on-Pay).
+While we intend to carefully consider the voting results of this proposal, in accord with the Dodd-Frank Wall Street Reform and Consumer Protection Act of 2010, the final vote is advisory in nature, therefore, not binding on us, our board or the Compensation Committee. Our executive compensation will be approved, on an advisory basis, if the votes cast by shareholders in favor of advisory approval exceed those votes cast in opposition of advisory approval.
+A properly executed proxy marked "ABSTAIN" regarding this issue will be counted for purposes of determining whether there is a quorum.
+Q: What is the effect of the proposal to ratify the Audit Committee's appointment of Perkins & Company, P.C. of the BDO Seidman Alliance as our independent registered public accounting firm?
+A: Selection of our independent registered public accounting firm is not required to be submitted to a vote of stockholders. The Sarbanes-Oxley Act of 2002 requires the Audit Committee of our board of directors to be directly responsible for the appointment, compensation and oversight of the audit work of the independent registered public accounting firm. However, the board of directors has elected to submit the selection of Perkins & Company, P.C. of the BDO Seidman Alliance as our independent registered public accounting firm to stockholders for ratification as a matter of corporate practice. If the stockholders fail to ratify the appointment, the Audit Committee will reconsider whether to retain Perkins & Company, P.C. of the BDO Seidman Alliance, and may retain that firm or another firm without resubmitting the matter to our stockholders. Even if the appointment is ratified, the Audit Committee may, at its discretion, appoint a different independent registered public accounting firm at any time during the year.
+Q: Is cumulative voting permitted for the election of directors?
+A: No. You may not cumulate your votes for the election of directors.
+Q: What is cumulative voting?
+A: A system of voting in which each voter is given as many votes as there are positions to be filled and allowed to cast those votes for one candidate or distribute them in any way among the candidates.
+Q: What happens if additional matters are presented at the Annual Meeting?
+A: Other than:
+[BEGIN TABLE]
+   1.   Election of five directors to hold office until the 2019 Annual Meeting of Stockholders or until their respective successors have been duly elected and qualified;  
+   2.   Ratification of the appointment of Perkins & Company, P.C. of the BDO Seidman Alliance as the Company's independent registered public accounting firm for the year ending December 31, 2018;  
+   3.   Advisory approval of the company's executive compensation (Say-on-Pay);  
+[END TABLE]
+As described in this proxy statement, we are not aware of any other business to be acted upon at the Annual Meeting. If you submit a signed proxy, the persons named as proxy will have the discretion to vote your shares on any additional matters properly presented for a vote at the meeting.
+Q: What is the difference between holding shares as a stockholder of record and as a beneficial owner?
+A: Many CUI Global stockholders hold their shares as a beneficial owner through a broker or other nominee rather than directly in their own name. As summarized below, there are some distinctions between shares held of record and those owned beneficially.
+Stockholder of Record
+If your shares are registered directly in your name with our transfer agent, Computershare Trust Company, N.A., you are considered, with respect to those shares, the stockholder of record, and the Notice was sent directly to you by CUI Global. As the stockholder of record, you have the right to grant your voting proxy directly to CUI Global or to vote in person at the Annual Meeting. If you requested to receive printed proxy materials, CUI Global has enclosed or sent a proxy card for you to use. You may also vote on the internet or by telephone, as described in the Notice and below under the heading "How can I vote my shares without attending the Annual Meeting?"
+Beneficial Owner
+If your shares are held in an account at a brokerage firm, bank, broker-dealer, trust or other similar organization, like most of our stockholders, you are considered the beneficial owner of shares held in street name, and the Notice was forwarded to you by that organization. As the beneficial owner, you have the right to direct your broker, bank, trustee or nominee how to vote your shares and you are also invited to attend the Annual Meeting.
+Since a beneficial owner is not the stockholder of record, you may not vote your shares in person at the Annual Meeting unless you obtain a "legal proxy" from the broker, bank, trustee or nominee that holds your shares giving you the right to vote the shares at the meeting. If you do not wish to vote in person or you will not be attending the Annual Meeting, you may vote by proxy. You may vote by proxy over the internet or by telephone, as described in the Notice and below under the heading "How can I vote my shares without attending the Annual Meeting?"
+If you hold your shares in "street name" through a broker or other nominee, your broker or nominee may not be permitted to exercise voting discretion with respect to some of the matters to be acted upon. Thus, if you do not give your broker or nominee specific instructions, your shares may not be voted on those matters and will not be counted in determining the number of shares necessary for approval. Shares represented by such "broker non-votes" will, however, be counted in determining whether there is a quorum.
+Q: Who will bear the cost of soliciting votes for the Annual Meeting?
+A: CUI Global will pay the entire cost of preparing, assembling, printing, mailing and distributing these proxy materials and soliciting votes. If you choose to access the proxy materials and/or vote over the internet, you are responsible for internet access charges you may incur. If you choose to vote by telephone, you are responsible for telephone charges you may incur. In addition to the mailing of these proxy materials, the solicitation of proxies or votes may be made in person, by telephone or by electronic communication by our directors, officers and employees, who will not receive any additional compensation for such solicitation activities.
+Q: Where can I find the voting results of the Annual Meeting?
+A: We intend to announce preliminary voting results at the Annual Meeting and to disclose the vote results on Form 8-K as well as on our website at www.cuiglobal.com as soon as possible after the Annual Meeting.
+Proposals to be Considered
+PROPOSAL I
+Election of Directors
+Issued and outstanding shares of our Common Stock are entitled to one vote per share for each Director for a one-year term or until his successor has been elected and qualified or his earlier resignation or removal. Cumulative voting is not permitted.
+Unless stated to be voted otherwise, each proxy will be voted for the election of the nominees named. The nominees have consented to serve as director if elected. If any nominee becomes unavailable for election before the Annual Meeting of Shareholders, the board of directors may name a substitute nominee and proxies will be voted for such substitute nominee unless an instruction to the contrary is written on the proxy card.
+Information about Director Nominees
+Board of Directors Independence
+The board of directors has determined that each of the director nominees standing for election has no relationship that, in the opinion of the board of directors, would interfere with the exercise of independent judgment in carrying out the responsibilities of a director. Additionally, several of the director nominees standing for election are "independent directors" as defined by Rule 5605(a)(2) of The NASDAQ Stock Market ("NASDAQ"). In determining the independence of our directors, the board of directors has adopted independence standards that mirror exactly the criteria specified by applicable laws and regulations of the SEC and the Rules of The NASDAQ Stock Market. In determining the independence of our directors, the board of directors considered all transactions in which CUI Global and any director had any interest, including those discussed below under Transactions with Related Persons, Promoters and Certain Control Persons.
+Following is a brief description of the business experiences, ages as of December 31, 2017 and positions and offices with the Company for each of the director nominees.
+William J. Clough, Esq., President/Chief Executive Officer, General Counsel, Director and Chairman of the Company's board of directors, Chief Executive Officer of the Company including its wholly owned subsidiaries, age 66 (Seat 1)
+Mr. Clough has served on the board of directors since 2006. Mr. Clough was reelected at the 2017 Annual Meeting of Shareholders to serve a one-year term.
+During his tenure, he has led several strategic initiatives, including the Company's acquisition of Orbital Gas Systems Limited and the Company's natural gas technology line; the opening of Orbital Gas Systems, North America, Inc.; the successful award by Snam Rete Gas of the ~€60,000,000 re-metering project to Orbital-UK; in addition, Mr. Clough steered the Company through its 2012, 2013, and 2017 equity raises and its listing on the Nasdaq Capital Market in 2012.
+Before joining the Company, Clough, an attorney, operated his own law firm for 14 years, with offices in Los Angeles, San Francisco and Honolulu. In that capacity, he successfully represented leading movie studios and media conglomerates.
+Mr. Clough received his Juris Doctorate, cum laude, from Hastings College of the Law in 1990. He obtained one of the largest ever non-wrongful death jury verdicts in Los Angeles County Superior Court in 2000 and successfully represented parties in multi-million dollar cases throughout the United States. Mr. Clough is certified to practice law in state and federal courts in California, Illinois, Hawaii, and before the United States Supreme Court. Mr. Clough worked as a police officer for 16 years at the local, state, and federal level including as a Federal Air Marshall flying in Southern Europe and the Middle East.
+C. Stephen Cochennet, Director. Age 61 (Seat 2)
+Mr. Cochennet was appointed to the CUI Global Board of Directors at its December 1, 2017 annual meeting to fill a director vacancy on the board of directors. Mr. Cochennet is an independent director within the meaning of Rule 5605(a)(2) of The NASDAQ Stock Market and, as such, will serve as the third independent director on the nominating committee along with Messrs. Rooney and Lambrecht. Mr. Cochennet shall hold office as an appointee until the 2018 Annual Meeting of Stockholders.
+C. Stephen Cochennet has served as CEO/President, of Kansas Resource Development Company, a private oil and gas exploration company since 2011. From 2011 through 2015 he was also the CEO and president of Guardian 8 Corporation. From 2005 to 2010 Mr. Cochennet was the Chairman, President, and Chief Executive Officer of EnerJex Resources, Inc., a publicly traded SEC registered Oil and Gas Company. Prior to joining EnerJex, Mr. Cochennet was President of CSC Group, LLC. in which he supported several Fortune 500 corporations, international companies, and natural gas/electric utilities, as well as various startup organizations. The services provided included strategic planning, capital formation, corporate development, executive networking and transaction structuring. From 1985 to 2002, he held several executive positions with UtiliCorp United Inc. (Aquila) in Kansas City, Missouri. His responsibilities included finance, administration, operations, human resources, corporate development, natural gas/energy marketing, and managing several new startup operations. Prior to his experience at Aquila Mr. Cochennet served 6 years with the Federal Reserve System managing problem and failed banking institutions primarily within the oil and gas markets.
+Mr. Cochennet graduated from the University of Nebraska with a B.A. in Finance and Economics.
+Sean P. Rooney, Director, age 46 (Seat 4)
+Mr. Rooney was elected to serve as a director at the 2008 Annual Meeting of Shareholders and continues to serve on the board of directors as an independent director within the meaning of Rule 5605(a)(2) of The NASDAQ Stock Market. Mr. Rooney was reelected at the 2017 Annual Meeting of Shareholders to serve a one-year term.
+Mr. Rooney is a veteran of the financial markets and has served on the board of CUI Global since 2008. He brings over 20 years of financial management experience to the board of directors. Mr. Rooney currently is a Financial Advisor at the Pinnacle Financial Group, which is part of LPL Financial, the largest independent broker dealer in the United States. Prior to working with LPL, Mr. Rooney served as Senior Director of Investments at Oppenheimer & Co., a full-service investment banking, securities and wealth management firm. He has also worked in similar capacity at Investec Ernst & Company, an international specialist bank headquartered in South Africa and the U.K. Mr. Rooney currently advises a clientele of high net worth investors, institutions and foundations. He is an active member of various industry and charitable organizations.
+Mr. Rooney graduated from C.W. Post University in 1993 with a Bachelor of Arts degree in Business Administration and holds Series 7 (General Securities Representative), Series 63 (Uniform Securities Law), Series 24 (General Securities Principal) and Series 65 (Uniform Investment Adviser) licenses.
+Paul D. White, Director and President of Orbital Gas Systems, Ltd., a wholly owned CUI Global subsidiary, age 56 (Seat 5)
+Mr. White was appointed in April 2014 as a director to fill a vacancy and continues to serve on the board of directors. Mr. White was reelected at the 2017 Annual Meeting of Shareholders to serve a one-year term.
+Mr. White is a graduate of Humboldt State University and brings to the CUI Global board over 25 years of upper-level business management skills. Prior to being appointed President of Orbital Gas Systems, Ltd., Mr. White served as Vice President of the Healthcare Division for North America of a global security company. His responsibilities included direct responsibility for profit and loss statements with approximately $120 million in revenues, along with management, control, and supervision of approximately 3,000 employees working at 44 Medical Centers & Hospitals and over 600 Medical Office Buildings throughout the United States. He previously served in the Office of the General Counsel and Risk Services, as an Environmental Risk Consultant with Sutter Health Support Services - Corporate Services. His key responsibilities included: formulating best practice solutions to minimize/eliminate existing and potential employee health & safety and security exposures as well as consultations of state, federal, and professional standards for Risk Control/Environmental Health & Safety programs such as OSHA, TJC, DHS, EPA, NFPA, and DOT.
+As a results-oriented business leader, Mr. White has skills in developing, managing and expanding business portfolios. Mr. White has senior management experience in contract management, public relations, program strategy and design and has been consistently recognized for effective financial management, leadership, integrity, team-building, and program management skills.
+Corey A. Lambrecht, Director, age 48 (Seat 6)
+Mr. Lambrecht was elected to serve as a director at the 2007 Annual Meeting of Shareholders and continues to serve on the board of directors as an independent director within the meaning of Rule 5605(a)(2) of The NASDAQ Stock Market. Mr. Lambrecht was reelected at the 2017 Annual Meeting of Shareholders to serve a one-year term.
+Mr. Lambrecht is a 20+ year public company executive with broad experience in strategic acquisitions, corporate turnarounds, new business development, pioneering consumer products, corporate licensing, and interactive technology services.  In addition, Mr. Lambrecht has held public company executive roles with responsibilities including day-to-day business operations, management, raising capital, board communication and investor relations.  Mr. Lambrecht holds a certificate as a Certified Director from the UCLA Anderson Graduate School of Management Accredited Directors program.
+Mr. Lambrecht is a director of ORHub, a SaaS company as well as a strategic consultant for American Rebel Holdings, Inc..  He served as Director of Sales for Leveraged Marketing Associates, the worldwide leader in licensed brand extension strategies.  While Executive Vice President for Smith & Wesson Holding Corporation, he was responsible for Smith & Wesson Licensing, Advanced Technologies and Interactive Marketing divisions.  Previously, Mr. Lambrecht served as an independent director of Guardian 8 Holdings.  He was the former President of A For Effort, an interactive database marketing company specializing in online content (advergaming) for clients such as the National Hockey League.  Mr. Lambrecht's prior experience also includes Pre-IPO founder for Premium Cigars International and VP Sales/Marketing for ProductExpress.com.
+All five directors are nominated for election to a one-year term on the Board of Directors
+Vote Required
+The election of each director nominee requires the affirmative vote "FOR" of a majority of the shares present in person or by proxy at the Annual Meeting.
+The Board of Directors recommends that Stockholders vote "FOR" election of the nominees for director named above.
+PROPOSAL II
+Ratification of the Appointment of
+Perkins & Company, P.C. of the BDO Seidman Alliance as the Company's
+Independent Registered Public Accounting Firm for the Year Ending December 31, 2018
+The Audit Committee has selected Perkins & Company, P.C. of the BDO Seidman Alliance to serve as independent registered public accounting firm for the fiscal year ending December 31, 2018. The board is submitting the appointment of independent registered public accounting firm to the shareholders for ratification at the Annual Meeting.
+Representatives of Perkins & Company, P.C. are expected to be available by teleconference at the Annual Meeting, will have the opportunity to make a statement if they desire to do so and are expected to be available to respond to appropriate questions.
+Shareholder ratification of the appointment of Perkins & Company, P.C. as the Company's independent registered public accounting firm is not required by the Company's Restated Articles of Incorporation, bylaws or otherwise; however, the board of directors is submitting the selection of Perkins & Company, P.C. to the shareholders for ratification as a matter of good corporate practice. If the shareholders fail to ratify the selection, the Audit Committee will review its future selection of an independent registered public accounting firm considering that vote result. Your ratification of the appointment of Perkins & Company, P.C. as our independent registered public accounting firm for the fiscal year ending December 31, 2018, does not preclude us from terminating our engagement of Perkins & Company, P.C. and retaining a new independent registered public accounting firm, if we determine that such an action would be in the best interests of the Company and its shareholders.
+Vote Required
+Ratification of the appointment of Perkins & Company, P.C. as the Company's independent registered public accounting firm for the fiscal year ending December 31, 2018 requires the affirmative vote of a majority of the shares present in person or by proxy at the Annual Meeting and voting for the proposal.
+The Board of Directors recommends a vote "FOR" the ratification of the appointment of Perkins & Company, P.C. as the independent registered public accounting firm of the Company for the fiscal year ending December 31, 2018.
+PROPOSAL III
+Advisory Approval of the Company's
+Executive Compensation
+(Say-on-Pay)
+The Dodd-Frank Wall Street Reform and Consumer Protection Act of 2010 (the "Dodd-Frank Act") and related SEC regulations require that, at least once every three years, we provide our stockholders with the opportunity to express their views on a non-binding, advisory basis, the compensation of our named executive officers as disclosed in this proxy statement. We first held this vote, which is often referred to as the Say-on-Pay vote, at our annual meeting of stockholders held in 2013. At such meeting, our stockholders voted to hold the frequency of our Say-on-Pay vote on an annual basis. Our board of directors agreed to support the stockholder decision; therefore, the Company will hold future non-binding advisory votes on the compensation of our named executive officers every year, at least until the next required vote of frequency of stockholder votes on the compensation of our named executive officers. Such Say-on-Frequency vote must occur no later than the annual or other meeting of shareholders held in the sixth calendar year after the immediately preceding Say-on-Frequency vote (2013 Annual Meeting of Shareholders). An issuer could hold a Say-on-Frequency vote more frequently than every six years if it elects to do so.
+The compensation of our named executive officers for the past three fiscal years is set forth in the Elements of Executive Compensation section. The Compensation Discussion and Analysis, or CD&A section, describes our executive compensation policies and practices and analyzes the compensation received by our named executive officers in fiscal year 2017. As described in the CD&A, our executive compensation philosophy is to reward performance and motivate collective achievement of strategic objectives that will contribute to our company's success. Our board of directors believes the compensation programs for our named executive officers effectively meet the primary objectives of attracting and retaining highly qualified executives, motivating our executives to achieve our business objectives, rewarding our executives appropriately for their individual and collective contributions and aligning our executives' interests with the long-term interests of our shareholders, and our board believes our programs are reasonable when compared to compensation at similar companies.
+The vote on this resolution is not intended to address any specific element of executive compensation. Instead, the vote relates to the executive compensation of our named executive officers, as set forth in this proxy statement pursuant to the rules of the SEC. This vote provides stockholders with the opportunity to endorse or not endorse the compensation of our named executive officers, but is advisory and not binding on our company or our board of directors.
+Accordingly, the board of directors believes the Company's executive compensation achieves these objectives, therefore, unanimously recommends that shareholders vote "for" the proposal.
+RESOLVED, that the stockholders of CUI Global, Inc. approve, on an advisory basis, the compensation of the Company's named executive officers as disclosed in the compensation tables and related material in the Proxy Statement for the 2018 Annual Meeting of stockholders.
+This vote will not be binding on the board of directors or the Compensation Committee and may not be construed as overruling a decision by the board or the Compensation Committee or create or imply any additional fiduciary duty on the board. It will also not affect any compensation paid or awarded to any executive. The approval or disapproval of this proposal by shareholders will not require the board of directors or the Compensation Committee to take any action regarding the Company's executive compensation practices. The final decision on the compensation and benefits of the Company's executive officers and on whether, and if so, how to address shareholder disapproval remains with the board and the Compensation Committee. Although the Say-on-Pay resolution is non-binding, the board of directors will review and consider the voting results when making future executive compensation decisions.
+Vote Required
+Our executive compensation will be approved, on an advisory basis, if the votes cast by shareholders in favor of advisory approval exceed those votes cast in opposition of the advisory approval.
+The Board of Directors recommends a vote "FOR" Advisory Approval of the Company's Executive Compensation (Say-on-Pay).
+Other Business
+Management does not presently know of any matter that may be presented for action at this Annual Meeting other than as set forth herein. However, if any other matters properly come before this Annual Meeting, it is the intention of the persons named in the proxies solicited by management to exercise their discretionary authority to vote the shares represented by all effective proxies on such matters in accordance with their best judgment.
+Directors and Executive Officers
+Our Bylaws permit the number of directors to be fixed by resolution of the board of directors, but to be no less than one. The board of directors has set the maximum number of members to no more than eight members. Directors are elected by a majority of the votes cast by the stockholders and serve a one-year term or until their successors have been elected and qualified or their earlier resignation or removal. Currently, we have five directors, three of whom are ''independent'' in accordance with applicable rules promulgated by the Securities and Exchange Commission and within the meaning of Rule 5605(a)(2) of The NASDAQ Stock Market.
+The board of directors has four standing committees: Audit Committee, Disclosure Committee, Compensation Committee and Nominating Committee, each of which has a written charter and/or statement of policy approved by our board. Our board currently appoints the members of each committee. Copies of the current committee charters and/or statement of policy for each committee are posted on our website at www.cuiglobal.com. With the exception of a single meeting, no incumbent director attended, either in person or electronically, fewer than 100% of the total number of meetings held by the committees on which such director served.
+The following are officers and directors of the Company with their ages as of December 31, 2017, and a list of the members of our four standing committees: Audit Committee, Compensation Committee, Disclosure Committee and Nominating Committee.
+[BEGIN TABLE]
+ Name   Age   Position  
+ William J. Clough   66   President/Chief Executive Officer, Director, Chairman and General Counsel  
+ Thomas A. Price (1) (2)   74   Director  
+ C. Stephen Cochennet (1)   61   Director  
+ Sean P. Rooney (1)   46   Director  
+ Paul D. White   56   Director, President of Orbital Gas Systems, Ltd  
+ Corey A. Lambrecht (1)   48   Director  
+ Daniel N. Ford   38   Chief Financial Officer and Chief Operating Officer - Energy Division  
+ Matthew M. McKenzie (4)   37   President, CUI, Inc., Corporate Secretary and Director  
+[END TABLE]
+Audit Committee:
+Sean P. Rooney, Chairman (1)
+Thomas A. Price, Committee Member (1) (2)
+Corey A. Lambrecht, Committee Member (1)
+C. Stephen Cochennet (1) (3)
+Compensation Committee
+Cory A. Lambrecht, Chairman (1)
+C. Stephen Cochennet, Committee Member (1)
+Disclosure Committee
+The Disclosure Committee consists of our Principal Officers, the individual or representative of the third-party firm primarily charged with investor/public relations, the Audit Committee Chairman and outside SEC counsel.
+Nominating Committee
+The Nominating Committee consists of the independent directors of the board of directors.
+(1) "Independent director" within the meaning of Rule 5605(a)(2) of The Nasdaq Capital Market.
+(2) Mr. Price retired from the board of directors effective July 1, 2018.
+(3) Mr. Cochennet was appointed to the Audit Committee effective July 1, 2018.
+(4) Mr. McKenzie stepped aside as Director, effective July 1, 2018, in order to maintain an independent director majority on the CUI Global, Inc. five-member board in accordance with applicable rules promulgated by the Securities and Exchange Commission and within the meaning of Rule 5605(a)(2) of the NASDAQ Stock Market. Mr. McKenzie will continue his service as president of CUI, Inc., a wholly owned subsidiary and as Corporate Secretary in which capacity he will attend board meetings as a nonvoting observer.
+Corporate Governance and Board of Directors Matters
+We are committed to maintaining the highest standards of business conduct and corporate governance, which we believe are essential to running our business efficiently, serving our stockholders well and maintaining our integrity in the marketplace. We have adopted a Corporate Code of Ethics and Business Conduct, including our Whistleblower Policy, for employees, directors and officers (including our principal executive officer and principal financial and accounting officer). We have also adopted the following governance guides: Charter of the Audit Committee, Charter of the Compensation Committee, Policy for Director Independence, Nominating Committee Charter, Whistleblower Policy, Disclosure Controls and Procedures and Corporate Social Responsibility Policy, all of which, in conjunction with our certificate of incorporation and bylaws, form the framework for our corporate governance. These corporate governance documents are available on the internet and our website at www.cuiglobal.com.
+Our Corporate Governance Practices
+We have always believed in strong and effective corporate governance procedures and practices. In that spirit, we have summarized several of our corporate governance practices below.
+The Board of Director's Role in Risk Oversight
+The board of directors and its committees have an important role in the Company's risk oversight, management and assessment process. The board regularly reviews with management, the Company's financial and business strategies, which include a discussion of relevant material risks as appropriate. The board discusses with the Company's outside general counsel, as appropriate, its risk oversight and assessment as well as any material risks to the Company. In addition, the board delegates risk management responsibilities to the Audit Committee and Compensation Committee, which are each comprised of only independent directors.
+The Audit Committee, as part of its charter, oversees the Company's risk oversight, management and assessment of the Company and oversees and assesses the risks associated with the corporate governance and ethics of the Company. Risk considerations are a material aspect of the Compensation Committee. The Compensation Committee is responsible for overseeing the management of risks relating to executive compensation. In addition, the Compensation Committee also, as appropriate, assesses the risks relating to the Company's overall compensation programs.
+While the Audit Committee and Compensation Committee oversee the management of the risk areas identified above, the entire board is regularly informed through committee reports about such risks. This enables the board and its committees to coordinate the risk management, assessment and oversight roles.
+Adopting Governance Guidelines
+Our board of directors has adopted a set of corporate governance guidelines to establish a framework within which it will conduct its business and to guide management in its running of our Company. The governance guidelines can be found on our website at www.cuiglobal.com and are summarized below.
+Providing Transparency
+We believe that it is important that stockholders understand our governance practices. To help ensure transparency of our practices, we have posted information regarding our corporate governance procedures on our website at www.cuiglobal.com.
+Communications with the Board of Directors
+Stockholders may communicate with the board of directors by writing to the Company at CUI Global, Inc., 20050 SW 112th Avenue, Tualatin, Oregon 97062 or phone (503) 612-2300. Stockholders who would like their submission directed to a member of the board may so specify and the communication will be forwarded as appropriate.
+Monitoring Board Effectiveness
+It is important that our board of directors and its committees are performing effectively and in the best interest of the Company and its stockholders. The board of directors and each committee are responsible for annually assessing their effectiveness in fulfilling their obligations.
+Conducting Formal Independent Director Sessions
+On a regular basis, many times at the conclusion of regularly scheduled board meeting, the independent directors are encouraged to meet privately, without our management or any non-independent directors.
+Hiring Outside Advisors
+The board and each of its committees may retain outside advisors and consultants of their choosing at company expense, without management's consent.
+Avoiding Conflicts of Interest
+We expect our directors, executives and employees to conduct themselves with the highest degree of integrity, ethics and honesty. Our credibility and reputation depend upon the good judgment, ethical standards and personal integrity of each director, executive and employee. To provide assurances to the Company and its stockholders, we have implemented standards of business conduct which provide clear conflict of interest guidelines to our employees and directors, as well as an explanation of reporting and investigatory procedures.
+Corporate Social Responsibility
+Our board adopted a companywide Corporate Social Responsibility Policy (CSR). As a responsible member of society, we believe that the long-term future of our business is best served by respecting the interests of our employees, customers, contractors, suppliers and the wider global community. We look for opportunities to reduce our impact on the environment and to contribute to the wellbeing of those less fortunate than ourselves. Our CSR policy sets out the principles we follow with a view to supporting our CSR ethos. Demonstrating our commitment to Corporate Social Responsibility is an objective toward which we aim to align our business values, purpose and strategy with the social and economic needs of our shareholders, while embedding responsible and ethical business policies and practices into everything we do.
+Accuracy of All Public Disclosure
+It is the Company's policy that all public disclosure made by the Company should be accurate, complete, and present fairly, in all material respects, the Company's financial condition and results of operations, and be made on a timely basis as required by applicable laws and securities exchange requirements. To oversee this policy, a Disclosure Committee Charter has been adopted by the Chief Executive Officer and Chief Financial Officer and ratified by our Audit Committee. A copy of this document is posted on our website at www.cuiglobal.com or a copy is available by making a written request to the Company at CUI Global, Inc., 20050 SW 112th Avenue, Tualatin, Oregon 97062, phone (503) 612-2300.
+Standards of Business Conduct
+The board of directors has adopted a Corporate Code of Ethics and Business Conduct, including our Whistleblower Policy, for all employees and directors, including the Company's principal executive and senior financial officers. The Code of Ethics and Business Conduct can be viewed on our website at www.cuiglobal.com.
+You can obtain a copy of these documents on our website at www.cuiglobal.com or by making a written request to the Company at CUI Global, Inc., 20050 SW 112th Avenue, Tualatin, Oregon 97062 or phone (503) 612-2300. We will disclose any amendments to the Code of Ethics and Business Conduct or waiver of a provision on our website at www.cuiglobal.com.
+Internal Auditor
+The board of directors adopted a Charter of Internal Audit that authorizes and outlines the function of an Internal Audit as an independent and objective assurance activity that is guided by a philosophy of adding value to improve the operations of CUI Global. A copy of this charter is posted on our website, www.cuiglobal.com. It is designed to assist CUI Global in accomplishing objectives by bringing a systematic and disciplined approach to evaluate and improve the design and operating effectiveness of CUI Global's governance, risk management, and internal control over financial reporting.
+Ensuring Independent Registered Public Accounting Firm Independence
+We have taken a number of steps to ensure the continued independence of our independent registered public accounting firm. That firm reports directly to the Audit Committee, which also has the ability to pre-approve or reject any non-audit services proposed to be conducted by our independent registered public accounting firm. For further information on independent registered public accounting firm independence see the section hereafter entitled Audit Committee.
+Whistleblower Policy
+In furtherance of our governance transparency and ethical standards, we adopted a comprehensive Whistleblower Policy that encourages employees to report to proper authorities incorrect financial reporting, unlawful activity, activities that are not in line with CUI Global Code of Ethics and Business Conduct or activities, which otherwise amount to serious improper conduct. Our Whistleblower Policy is posted on our website at www.cuiglobal.com.
+Committees of the Board and Meetings
+At December 31, 2017, our board of directors consisted of seven directors, four of whom were ''independent'' as defined in Rule 5605(a)(2) of The NASDAQ Stock Market. Effective July 1, 2018, Thomas A. Price, an independent director, retired from the board of directors and Matthew M. McKenzie stepped aside as director to maintain an independent director majority on the current five-member board in accordance with applicable rules promulgated by the Securities and Exchange Commission and within the meaning of Rule 5605(a)(2) of The NASDAQ Stock Market. Mr. McKenzie will continue his service as president of CUI, Inc., a wholly owned subsidiary and as Corporate Secretary, in which capacity he will attend board meetings as a nonvoting observer.
+Our board of directors has the following standing committees: Audit Committee, Nominating Committee, Compensation Committee and Disclosure Committee. Each of the committees operates under a written charter adopted by the board of directors. All committee charters are available on our website at www.cuiglobal.com.
+Audit Committee
+The Audit Committee is established pursuant to the Sarbanes-Oxley Act of 2002 for the purposes of overseeing the company's accounts and financial reporting processes and audits of its financial statements. The Audit Committee reviews the financial information that will be provided to the stockholders and others, the systems of internal controls established by management and the board and the independence and performance of the Company's audit process. The Audit Committee is directly responsible for, among other things, the appointment, compensation, retention and oversight of our independent registered public accounting firm, review of financial reporting, internal company processes of business/financial risk and applicable legal, ethical and regulatory requirements. During 2017, the Audit Committee held seven formal meetings.
+At December 31, 2017, the Audit Committee was comprised of Sean P. Rooney, Chairman, Thomas A. Price, Deputy Chairman, and Corey A. Lambrecht. Messrs. Rooney, Price and Lambrecht are independent in accordance with Rule 10A-3 under the Securities Exchange Act of 1934 and Rule 5605(a)(2) of The NASDAQ Stock Market as well as financial experts in compliance with the Sarbanes Oxley Act of 2002. Effective July 1, 2018, Mr. Price retired from the board and C. Stephen Cochennet was appointed to the Audit Committee as an independent member.
+Audit Committee Report
+THE FOLLOWING REPORT OF THE AUDIT COMMITTEE DOES NOT CONSTITUTE SOLICITING MATERIAL AND SHOULD NOT BE DEEMED FILED OR INCORPORATED BY REFERENCE INTO ANY OTHER COMPANY FILING UNDER THE SECURITIES ACT OF 1933 OR THE SECURITIES EXCHANGE ACT OF 1934, EXCEPT TO THE EXTENT THE COMPANY SPECIFICALLY INCORPORATES THIS REPORT BY REFERENCE THEREIN.
+Audit Committee Report
+The Audit Committee reviews the financial information that will be provided to the stockholders and others, the systems of internal controls established by management and the board and the independence and performance of the Company's audit process.
+The Audit Committee has:
+[BEGIN TABLE]
+• reviewed and discussed with management the audited consolidated financial statements included in the Company's Annual Report on Form 10-K and the most recent Quarterly Report on Form 10-Q;  
+• discussed with Perkins & Company, P.C., the Company's independent registered public accounting firm, the matters required to be discussed by General Auditing Standard 1301: Communications with Audit Committees as adopted by the Public Company Accounting Oversight Board; and  
+• received the written disclosures and letter from Perkins & Company, P.C. as required by applicable requirements of the Public Company Accounting Oversight Board regarding the independent accountant's communications with the Audit Committee concerning independence and has discussed with Perkins & Company, P.C. its independence from CUI Global.  
+[END TABLE]
+Based on these reviews and discussions, the Audit Committee has recommended that the audited consolidated financial statements be included in the Company's Annual Report on Form 10-K for the year ended December 31, 2017. The Audit Committee has also considered whether the amount and nature of non-audit services provided by Perkins & Company, P.C. is compatible with the auditor's independence and determined that it is compatible.
+Submitted by: Audit Committee by
+Sean P. Rooney
+Thomas A. Price
+Corey A. Lambrecht
+Nominating Committee
+The nominating committee consists of all of the members of the board of directors who are ''independent directors'' within the meaning of Rule 5605(a)(2) of The NASDAQ Stock Market. The nominating committee is responsible for the evaluation of nominees for election as director, the nomination of director candidates for election by the stockholders and evaluation of sitting directors.
+The board has developed a formal policy for the identification and evaluation of nominees, Charter of the Nominating Committee of the Board of Directors, which can be reviewed on our website at www.cuiglobal.com. In general, when the board determines that expansion of the board or replacement of a director is necessary or appropriate, the nominating committee will review, through candidate interviews with members of the board and management, through consultation with the candidate's associates and through other means, a candidate's honesty, integrity, reputation in and commitment to the community, judgment, personality and thinking style, willingness to invest in the Company, residence, willingness to devote the necessary time, potential conflicts of interest, independence, understanding of financial statements and issues, and the willingness and ability to engage in meaningful and constructive discussion regarding Company issues. The committee reviews any special expertise, for example, that qualifies a person as an audit committee financial expert, membership or influence in a geographic or business target market, or other relevant business experience. To date the Company has not paid any fee to any third party to identify or evaluate, or to assist it in identifying or evaluating, potential director candidates.
+The nominating committee considers director candidates nominated by stockholders during such times as the Company is actively considering obtaining new directors. Candidates recommended by stockholders will be evaluated based on the same criteria described above. Stockholders desiring to suggest a candidate for consideration should send a letter to the Company's secretary and include: (a) a statement that the writer is a shareholder (providing evidence if the person's shares are held in street name) and is proposing a candidate for consideration; (b) the name and contact information for the candidate; (c) a statement of the candidate's business and educational experience; (d) information regarding the candidate's qualifications to be director, including but not limited to an evaluation of the factors discussed above which the board would consider in evaluating a candidate; (e) information regarding any relationship or understanding between the proposing shareholder and the candidate; (f) information regarding potential conflicts of interest and (g) a statement that the candidate is willing to be considered and willing to serve as director if nominated and elected. Because of the small size of the Company and the limited need to seek additional directors, there is no assurance that all shareholder proposed candidates will be fully considered, that all candidates will be considered equally or that the proponent of any candidate or the proposed candidate will be contacted by the Company or the board and no undertaking to do so is implied by the willingness to consider candidates proposed by stockholders.
+Disclosure Committee
+We have formed a Disclosure Committee, which has been adopted by our CEO and CFO (''Principal Officers'') and ratified by our Audit Committee. The Disclosure Committee assists our Principal Officers in fulfilling their responsibility for oversight of the accuracy, completeness and timeliness of our public disclosures including, but not limited to our SEC filings, press releases, correspondence disseminated to security holders, presentations to analysts and release of financial information or earnings guidance to security holders or the investment community. The Disclosure Committee consists of our Principal Officers, the individual or representative of the firm primarily charged with investor/public relations, the Audit Committee Chairman and outside SEC counsel. Our CEO is Chairman of the committee. Our Senior Officers may replace or add new members from time to time. Our Senior Officers have the option to assume all the responsibilities of this committee or designate a committee member, who shall be a person with expertise in SEC and SRO rules and regulations with respect to disclosure, who shall have the power, acting together with our Senior Officers, to review and approve disclosure statements when time or other circumstances do not permit the full committee to meet. You may review the full text of our Disclosure Committee Charter on our website, www.cuiglobal.com, on the Investor Relations tab under the link labeled, Corporate Governance.
+Generally, the committee serves as a central point to which material information should be directed and a resource for people who have questions regarding materiality and the requirement to disclose. In discharging its duties, the committee has full access to all Company books, records, facilities and personnel, including the board of directors, Audit Committee, independent public accountants and outside counsel.
+Compensation Committee
+The Compensation Committee discharges the board's responsibilities relating to general compensation policies and practices and to compensation of our executives. In discharging its responsibilities, the Compensation Committee establishes principles and procedures to ensure to the board and the shareholders that the compensation practices of the Company are appropriately designed and implemented to attract, retain and reward high quality executives and are in accordance with all applicable legal and regulatory requirements. In this context, the Compensation Committee's authority, duties and responsibilities are:
+[BEGIN TABLE]
+• To annually review the Company's philosophy regarding executive compensation.  
+• To periodically review market and industry data to assess the Company's competitive position, and to retain any compensation consultant to be used to assist in the evaluation of directors' and executive officers' compensation.  
+• To establish and approve the Company goals and objectives, and associated measurement metrics relevant to compensation of the Company's executive officers.  
+• To establish and approve incentive levels and targets relevant to compensation of the executive officers.  
+• To annually review and make recommendations to the board to approve, for all principal executives and officers, the base and incentive compensation, taking into consideration the judgment and recommendation of the Chief Executive Officer for the compensation of the principal executives and officers.  
+• To separately review, determine and approve the Chief Executive Officer's applicable compensation levels based on the Committee's evaluation of the Chief Executive Officer's performance considering the Company's and the individual goals and objectives.  
+• To review for any related-party employee situations, to ensure appropriate controls are implemented surrounding compensation changes, bonuses and performance reviews of the related-party employee, and to participate in such controls as appropriate.  
+• To periodically review and make recommendations to the board with respect to the compensation of directors, including board and committee retainers, meeting fees, equity-based compensation and such other forms of compensation as the Compensation Committee may consider appropriate.  
+• To administer and annually review the Company's incentive compensation plans and equity-based plans.  
+• To review and make recommendations to the board regarding any executive employment agreements, any proposed severance arrangements or change in control and similar agreements/provisions, and any amendments, supplements or waivers to the foregoing agreements, and any perquisites, special or supplemental benefits.  
+• To review and discuss with management, the Compensation Discussion and Analysis (CD&A) and determine the Committee's recommendation for the CD&A's inclusion in the Company's annual report filed with the SEC on Form 10-K and proxy statement on Schedule 14A.  
+• The Committee may, in its sole discretion, retain or obtain the advice of a compensation consultant, legal counsel or other adviser.  
+• The Committee shall be directly responsible for the appointment, compensation and oversight of the work of any compensation consultant, legal counsel and other adviser retained by the Committee. The Company must provide for appropriate funding, as determined by the Committee, for payment of reasonable compensation to a compensation consultant, legal counsel or any other adviser retained by the Committee.  
+[END TABLE]
+[BEGIN TABLE]
+• The Committee may select, or receive advice from, a compensation consultant, legal counsel or other adviser to the Committee, other than in-house legal counsel, only after taking into consideration the following factors:  
+[END TABLE]
+[BEGIN TABLE]
+   (i)   the provision of other services to the Company by the person that employs the compensation consultant, legal counsel or other adviser;  
+   (ii)   the amount of fees received from the Company by the person that employs the compensation consultant, legal counsel or other adviser, as a percentage of the total revenue of the person that employs the compensation consultant, legal counsel or other adviser;  
+   (iii)   the policies and procedures of the person that employs the compensation consultant, legal counsel or other adviser that are designed to prevent conflicts of interest;  
+   (iv)   any business or personal relationship of the compensation consultant, legal counsel or other adviser with a member of the Committee;  
+   (v)   any stock of the Company owned by the compensation consultant, legal counsel or other adviser; and  
+   (vi)   any business or personal relationship of the compensation consultant, legal counsel, other adviser or the person employing the adviser with an executive officer of the Company.  
+• The Committee is not required to implement or act consistently with the advice or recommendations of the compensation consultant, legal counsel or other adviser to the Committee.  
+[END TABLE]
+Compensation Committee Members
+The Compensation Committee of the board of directors is appointed by the board of directors to discharge the board's responsibilities with respect to all forms of compensation of the Company's executive officers, to administer the Company's equity incentive plans and to produce an annual report on executive compensation for use in the Company's Form 10-K and the proxy statement on Schedule 14A. At December 31, 2017, the Compensation Committee consisted of two independent members of the board of directors, Messrs. Corey A. Lambrecht, and C. Stephen Cochennet, both of whom are ''independent directors'' within the meaning of Rule 5605(a) (2) of the NASDAQ Stock Market.
+Committee Meetings
+Our Compensation Committee meets formally and informally as often as necessary to perform its duties and responsibilities. The Compensation Committee held one formal meeting during fiscal 2017. On an as requested basis, our Compensation Committee receives and reviews materials prepared by management, consultants or committee members, in advance of each meeting. Depending on the agenda for the particular meeting, these materials may include, among other factors:
+[BEGIN TABLE]
+• minutes and materials from the previous meeting(s);  
+• reports on year-to-date Company financial performance versus budget;  
+• reports on progress and levels of performance of individual and Company performance objectives;  
+• reports on the Company's financial and stock performance versus a peer group of companies;  
+• reports from the Committee's compensation consultant regarding market and industry data relevant to executive officer compensation;  
+• reports and executive compensation summary worksheets, which sets forth for each executive officer: current total compensation and incentive compensation target percentages, current equity ownership holdings and general partner ownership interest and current and projected value of each and all such compensation elements, including distributions and dividends therefrom, over a five-year period.  
+[END TABLE]
+Compensation Committee Charter
+Our Compensation Committee Charter is posted on our website at www.cuiglobal.com.
+Compensation Committee Interlocks and Insider Participation
+None of the members of the Company's Compensation Committee is or has at any time during the last completed fiscal year been an officer or employee of the Company. None of the Company's executive officers has served as a member of the board of directors, or as a member of the compensation or similar committee, of any entity that has one or more executive officers who served on the Company's board of directors or Compensation Committee during the last completed fiscal year.
+Compensation Committee Report
+We have reviewed and discussed the Compensation Discussion and Analysis with management and based on our review and discussion with management, we have recommended to the board of directors that the Compensation Discussion and Analysis be included in the Company's Annual Report on Form 10-K for the year ended December 31, 2017 and the proxy statement on Schedule 14A for the 2018 Annual Meeting of Shareholders.
+[BEGIN TABLE]
+ Submitted by:   Compensation Committee by  
+   Corey A. Lambrecht, Chairman  
+   C. Stephen Cochennet  
+[END TABLE]
+Compensation Discussion and Analysis
+Executive Compensation
+General Philosophy
+Our compensation philosophy is based on the premise of attracting, retaining and motivating exceptional leaders, setting high goals, working toward the common objectives of meeting the expectations of customers and stockholders and rewarding outstanding performance. Following this philosophy, in determining executive compensation, we consider all relevant factors, such as the competition for talent, our desire to link pay with performance, the use of equity to align executive interests with those of our stockholders, individual contributions, teamwork and performance, each executive's total compensation package and internal pay equity. We strive to accomplish these objectives by compensating all employees with total compensation packages consisting of a combination of competitive base salary and incentive compensation.
+Pay for Performance
+At the core of our compensation philosophy is our strong belief that pay should be directly linked to performance. We believe in a pay for performance culture that places a significant portion of executive officer total compensation as contingent upon, or variable with, individual performance, Company performance and achievement of strategic goals including increasing shareholder value.
+The performance based compensation for our executives may be in the form of (i) annual cash incentives to promote achievement of, and accountability for, shorter term performance plans and strategic goals and (ii) equity grants, designed to align the long-term interests of our executive officers with those of our shareholders, by creating a strong and direct link between executive compensation and shareholder return over a multiple year performance cycle. Long-term incentive equity awards are typically granted in restricted stock or stock options. These awards generally vest over a two to four-year period. This opportunity for share ownership was to provide incentive and retain key employees and align their interests with our long-term strategic goals.
+Base Compensation to be Competitive within Industry
+A key component of an executive's total compensation base salary is designed to compensate executives commensurate with their respective level of experience, scope of responsibilities, sustained individual performance and future potential. The goal has been to provide for base salaries that are sufficiently competitive with other similar-sized companies, both regionally and nationally, to attract and retain talented leaders.
+Compensation Setting Process
+Management's Role in the Compensation Setting Process
+Management plays a significant role in the compensation-setting process. The most significant aspects of management's role are:
+[BEGIN TABLE]
+• assisting in establishing business performance goals and objectives;  
+• evaluating employee and Company performance;  
+• CEO recommending compensation levels and awards for executive officers;  
+• implementing the board approved compensation plans; and  
+• assistance in preparing agenda and materials for the Committee meetings.  
+[END TABLE]
+The Chief Executive Officer generally attends the Committee meetings; however, the Committee also regularly meets in executive session. The Chief Executive Officer makes recommendations with respect to financial and corporate goals and objectives and makes non-CEO executive compensation recommendations to the Compensation Committee based on Company performance, individual performance and the peer group compensation market analysis. The Compensation Committee considers and deliberates on this information and in turn makes recommendations to the board of directors, for the board's determination and approval of the executives' and other members of senior management's compensation, as necessary, including base compensation, short-term cash incentives and long-term equity incentives. For related party employee matters, appropriate personnel meet with the Compensation Committee to determine compensation and incentives and to review ongoing performance of the employee. The Chief Executive Officer's performance and compensation is reviewed, evaluated and established separately by the Compensation Committee and ratified and approved by the board of directors.
+Setting Compensation Levels
+To evaluate whether total compensation is competitive and provides appropriate rewards to attract and retain talented leaders, as discussed above, we may rely on analyses of peer companies performed by independent compensation consultants and on other industry and occupation specific survey data available. Our general benchmark is to establish both base salary and total compensation for the executive officers at or near the compensation of peer group data, recognizing that a significant portion of executive officer total compensation should be contingent upon, or variable with, achievement of individual and Company performance objectives and strategic goals, as well as being variable with stockholder value. Further, while the objective for base salary is at that of peer group data, executives' base salaries are designed to reward core competencies and contributions to the Company and may be increased above this general benchmark based on (i) the individual's increased contribution over the preceding year; (ii) the individual's increased responsibilities over the preceding year; and (iii) any increase in median competitive pay levels.
+Setting Performance Objectives
+The Company's business plans and strategic objectives are generally presented by management annually and as needed to the board of directors. The board engages in an active discussion concerning the financial targets, the appropriateness of the strategic objectives and the difficulty in achieving the same. In establishing the compensation plan, our Compensation Committee then utilizes the primary financial objectives from the adopted business plan and operating cash flow as the primary targets for determining the executive officers' short-term cash incentives and long-term equity incentive compensation. The Committee also establishes additional non-financial performance goals and objectives, the achievement of which is required for funding of a significant portion, approximately twenty five percent, of the executive officers' incentive compensation. In 2017, these non-financial performance goals and objectives included among other factors, the continued growth of the Orbital Gas Systems, North America operations; continued integration of CUI-Canada; continued expansion within the global natural gas market, expansion of distribution and direct customer relationships through CUI Inc.; continued product development and new product introductions including the ICE technology and various VE technology-based sample systems; and general and administrative management responsibilities. In addition, such factors as revenue growth; new product adoption; market penetration; M&A activities; and investment banking transactions were and are considered in setting compensation levels.
+Annual Evaluation
+The Chief Executive Officer recommends the actual incentive award amounts for all other executives based on actual Company performance relative to the targets set as well as on individual performance and recommends the executives' base salary levels. The Compensation Committee considers these recommendations generally following the end of each fiscal year in determining its recommendations to the board of directors for the final short-term cash incentive and long-term equity award amounts for each executive. Executive base salary levels are reviewed in accordance with their respective employment agreements. The actual incentive amounts awarded to each executive are ultimately subject to the discretion of the Compensation Committee and the board of directors.
+Voting Results on Executive Compensation (Say-on-Pay) Advisory Vote
+As required by Section 14A of the Exchange Act, under the Dodd–Frank Wall Street Reform and Consumer Protection Act, the Compensation Committee considers the prior year shareholder advisory vote on the compensation of the Named Executive Officers as appropriate for making compensation decisions. At the annual meeting of shareholders held December 1, 2017, more than 79% percent of the shareholders present and voting on the proposal approved, on an advisory basis, the compensation disclosed in the Company's proxy statement for the meeting filed with the Securities and Exchange Commission on October 5, 2017. As a result, the Compensation Committee concluded that the Company's shareholders were supportive of the Company's executive compensation philosophy, policies and programs and the Compensation Committee will continue to reach out to shareholders regarding compensation matters. The Compensation Committee determined to continue such philosophy, policies and programs, with such updates and modifications as appropriate for changing circumstances.
+Special Evaluation
+Additional equity-based awards may also be granted to executives, as well as other employees, upon commencement of employment, promotions, for special performance recognition or for retention purposes, based on the recommendation of the Chief Executive Officer or Chief Financial Officer. In determining whether to recommend additional grants to an executive, the Chief Executive Officer typically considers the individual's performance and any planned change in functional responsibility.
+Elements of Executive Compensation
+Total Compensation
+Total compensation for our executives consists of three elements: (i) base salary; (ii) incentive cash award based on achieving specific performance targets as measured by revenues, cash flow and other objectives and (iii) equity incentive award, which is also performance based and may be paid out over a future period in the form of stock, restricted stock or stock purchase options. Base salaries are the value upon which both the incentive compensation percentage targets are measured against. For evaluation and comparison of overall compensation of the executives and to assist it in making its compensation decisions, the Compensation Committee reviews an executive compensation summary, which sets forth for each executive: current compensation and current equity ownership holdings as well as the projected value of each and all such compensation elements, including distributions and dividends therefrom. Also included in the summary are comparative performance numbers, specific milestones, strategic objectives, and other elements used to measure each executive's individual performance.
+Base Salaries
+Base salaries are designed to compensate executives commensurate with their respective level of experience, scope of responsibilities and to reward sustained individual performance and future potential. The goal has been to provide for base salaries that are sufficiently competitive with other similar-sized companies, both regionally and nationally, to attract and retain talented leaders.
+Incentive Compensation
+Incentive compensation is intended to align compensation with business objectives and performance and enable the Company to attract, retain and reward high quality executive officers whose contributions are critical to both the short and long-term success of the Company. The executives' incentive awards are based upon three key performance metrics: (i) the Company's earnings before interest, taxes, depreciation and amortization (EBITDA); (ii) achievement of agreed-upon strategic and corporate performance goals; and/or (iii) existing Employment Agreement.
+The strategic and corporate performance goals are not intended to be a specific agreed-upon goal, but rather a general objective. Management and the board of directors discuss these factors and set objectives that are dynamic and change periodically. In setting these periodic goals, the board of directors discusses with management the nature of the objective and management's proposed method of achieving the goal. These goals change throughout the operational process because of changing dynamics such as economic conditions, current success of marketing, availability of materials, availability of funding and overall momentum toward achieving the goal.
+Incentive Plan Compensation
+Incentive awards are typically paid out in cash, restricted common stock or option awards. The incentive award targets for the executives are established at the beginning of the year, generally, as a percentage of their base salary and the actual awards are determined in the following year at a board of directors' meetings based on actual Company performance relative to established goals and objectives, as well as on evaluation of the executive's relevant departmental and individual performance during the past year. In many instances the award of restricted common stock and stock options vests over a multi-year term in equal periodic tranches. The award of restricted common stock purchased through options generally, although not in every instance, vests immediately upon exercise of the option and generally has a validity of up to ten years and a per share purchase price of no less than the fair market value of our common stock on the date of grant. The awards are intended to serve as a means of incentive compensation for performance.
+Retirement Plans
+Our wholly owned subsidiaries, CUI Inc. and Orbital Gas Systems, North America, Inc. maintain a 401(k) plan. The Company 401(k) retirement savings plan allows employees to contribute to the plan after they have completed 60 days of service and are 18 years of age. The Company matches the employee's contribution up to 6% of total compensation. Total employer contributions, net of forfeitures were $0.4 million, $0.4 million, and $0.4 million for 2017, 2016 and 2015, respectively.
+Our wholly owned subsidiary, Orbital Gas Systems Ltd., operates a defined contribution retirement benefit plan for employees who have been employed with the company at least 12 months and who chose to enroll in the plan. Orbital contributes to its plan the equivalent of 5% of the employee's salary and the employee has the option to contribute pre-tax earnings. Orbital made total employer contributions of $0.2 million, $0.3 million and $0.3 million during 2017, 2016 and 2015, respectively.
+Change in Control Agreements
+Our executives are awarded protection upon a change in control as specifically provided in their employment contracts. The Chief Executive Officer contract includes a provision for a two-year severance package upon termination. The Chief Financial Officer and Chief Operations Officer contracts include a provision for an eighteen-month severance package upon termination.
+Perquisites
+The Company does not provide for any perquisites or any other benefits for its senior executives that are not generally available to all employees.
+Employment Agreements
+During fiscal year 2017, four executive officers were employed under employment agreements. Those executive officers are:
+[BEGIN TABLE]
+• Chief Executive Officer and General Counsel;  
+• Chief Financial Officer of CUI Global, Inc. and Chief Operating Officer of the Energy Division;  
+• President of CUI Inc., and Chief Operating Officer of the Power and Electromechanical Division;  
+• President of Orbital Gas Systems Ltd.  
+[END TABLE]
+To see the material terms of each named executive officer's employment agreement, please see the footnotes to the Summary Compensation Table.
+Executive Salary and Bonus Performance Assessment Considerations
+Bonuses for certain executive officers and employees of CUI Global and subsidiaries are calculated based on historical financial and non-financial information and accomplishments based on an ongoing review and approval by the Compensation Committee and the Chief Executive Officer. Accordingly, the Company accrues bonuses through components calculated on prior data. This review also considers ongoing performance and incentives for those officers and employees to increase their performance. As such, bonuses calculated based on fiscal 2017 data are not necessarily earned or owed to the employees as of December 31, 2017, and there is no legal right by the employees to receive such bonuses upon either termination by the Company or voluntary termination, unless they have been approved based on the subsequent review of subjective items.
+The performance assessment considerations for William J. Clough, Esq. in his capacity as Chief Executive Off☒cer and General Counsel of CUI Global, Inc. and subsidiaries, include his successful management and implementation of acquisition and growth strategy, both domestically and internationally, that resulted in the March 2015 asset acquisition of Tectrol, Inc., a Canadian electronics company by CUI Inc. and the highly lucrative February 2016 purchase order from Europe's largest natural gas transmission company for our GasPT product. This purchase order culminates several years of Mr. Clough's personal effort. The Tectrol asset purchase entailed complex labor union negotiations and ongoing management support. Mr. Clough continues to expand new technology development, implementation, branding and sales by strategically expanding the VE Technology product recognition through adoption of mercury sampling and thermowells. As a primary initiator of the Company's growth strategy, he engineered the Company's launch of Orbital Gas Systems, North America, Inc. as a unified international GasPT and VE Technology sales headquarters. Mr. Clough continues to expand investor relations and strengthen investment banking relationships through regular investor meetings and conferences. As Corporate General Counsel, he is "hands on" in his management of corporate governance and legal issues, addressing employee concerns, providing personal direction and oversight of drafting fully revised and restated corporate bylaws and regularly communicating with the directors pertaining to various corporate matters as they arise.
+During 2017, Mr. Clough's employment contract was extended through December 31, 2018 and allows for performance and discretionary bonuses. During 2017, he earned a performance and discretionary cash bonus of one hundred percent (100%) of his annual base salary based on 2016 performance metrics.
+The performance assessment considerations for Daniel N. Ford, Chief Financial Officer of CUI Global, Inc. and subsidiaries and Chief Operating Officer of the Energy Division include his successful management of financial resources for CUI Global and subsidiaries including investments, corporate portfolio, cash and debt positions. Mr. Ford's daily duties include ongoing development and oversight of global banking relationships and overall financial performance oversight and management of the accounting staff of CUI Global, Inc. and all subsidiaries. In 2016, Mr. Ford added the responsibility of Chief Operating Officer for the Energy Division including direct management of the Division's leadership teams as well as coordinating ongoing activities, planning and initiatives to continue growth within this division on a global basis. Mr. Ford efficiently communicates with the board pertaining to company activities, audit results and findings, growth and acquisition strategy and investment tactics. Mr. Ford oversees SEC filing compliance, internal reporting matters, and works directly with internal and external audit and tax firms. As an integral part of this management, it is necessary that he continue to be up to date on all current accounting and SEC regulatory standards such as ICFR and SOX. Mr. Ford works closely with Mr. Clough regarding financial reporting, the Energy Division activities, investor management and investor relations activities. During 2017 Mr. Ford's employment contract was extended through December 31, 2018 and allows for performance and discretionary bonuses. During 2017, Mr. Ford's base pay was raised to $320 thousand per annum and he earned a performance and discretionary cash bonus of ninety percent (90%) of his annual base salary based on 2016 performance metrics.
+The performance assessment considerations for Matthew M. McKenzie, President of CUI Inc. are directed toward corporate operations for the Power and Electromechanical Division. Mr. McKenzie manages the daily operations of CUI Inc., CUI Japan, and CUI-Canada, Inc., the entity that received the assets purchased from Tectrol in March 2015. He continues to direct and manage the integration of CUI-Canada and has been instrumental in the acquisition and development of the ICE technology. Mr. McKenzie handles distributor contract procurement and contract management and oversight of key contracts with Digi-Key Electronics, Mouser Electronics, Future Electronics, Arrow Electronics and many others. Through Mr. McKenzie's efforts and oversight, CUI Inc.'s power and electromechanical product sales, bookings, deliveries and revenue continue to perform and are well set for future growth opportunities. The Power and Electromechanical Division that Mr. McKenzie manages requires his oversight of employees, hiring specialized technical individuals and applicable job descriptions. Mr. McKenzie successfully managed the construction of our research and development facility and implementation of our ICE product development project. During 2017 Mr. McKenzie's employment contract was extended through December 31, 2018 and allows for performance and discretionary bonuses. During 2017, he earned a performance and discretionary cash bonus of fifty percent (50%) of his annual base salary based on 2016 performance metrics.
+The performance assessment considerations for Paul D. White, President of Orbital Gas Systems, Limited, include his performance during the time from July 2017 until December 1, 2017 when Mr. White served in a consulting role as President of Orbital Gas Systems, Limited. In 2017, Mr. White went from serving as one of the Company's independent directors to serving as president of one of the Company's key subsidiaries, while continuing to serve on the board of directors. Mr. White works closely with Mr. Ford and Mr. Clough on Energy Division activities. During 2017, Mr. White entered into a three-year employment contract through December 2020 that allows for performance and discretionary bonuses. During 2017, Mr. White's initial base pay was set at $225 thousand, with increases to $250 thousand and $275 thousand in years 2 and 3, respectively. In addition, he earned a sign-on bonus of $30 thousand.
+Pay Ratio Disclosure Rule
+In August 2015, pursuant to a mandate of the Dodd-Frank Wall Street Reform and Consumer Protection Act (the "Dodd - Frank Act"), the Securities and Exchange Commission ("SEC") adopted a rule requiring annual disclosure of the ratio of the median employee's annual total compensation to the total annual compensation of the principal executive officer ("PEO").  The Company's PEO is Mr. William Clough.  The purpose of the new required disclosure is to provide a measure of the equitability of pay within the organization.  The Company believes its compensation philosophy and process yield an equitable result and is presenting such information in compliance with the required disclosure as follows:
+[BEGIN TABLE]
+ Median Employee total annual compensation    $ 46,397   
+ Mr. Clough ("PEO") total annual compensation    $ 1,066,676   
+ Ratio of PEO to Median Employee Compensation     23:1    
+[END TABLE]
+When determining the median employee, we included the following compensation in our calculations:
+[BEGIN TABLE]
+• Salary or wages  
+• Bonuses  
+• Stock awards  
+• Other compensation including health insurance benefits, disability insurance benefits, life insurance benefits and 401(k) match benefits provided by the Company but excluding health and pension benefits provided by certain governments.  
+[END TABLE]
+Mr. Clough's compensation can be reviewed in more detail in the Summary Compensation Table and includes the same benefits that were included in the calculation of the median employee's compensation.
+We elected to exclude our CUI-Japan sales office from the calculation due to there being less than 5% of the total number of employees there (4 employees). We elected to include 5 contract employees in determining the median employee.
+Full and part-time employee compensation for employees that were hired during the year was annualized based on the average compensation they received during the period they were employed. The number of employees was determined as of December 31, 2017 when there were 334 total employees (Excluding CUI-Japan and including 5 contract employees), 91 of which are considered US employees and 243 of which were considered non-US employees.
+Summary Compensation Table
+The following table sets forth the compensation paid and accrued to be paid by the Company for the fiscal years 2017, 2016 and 2015 to the Company's Named Executive Officers, which consisted of the Company's Chief Executive Officer, Chief Financial Officer, President of CUI Inc. and President of Orbital Gas Systems, Ltd.
+Summary Compensation Table
+[BEGIN TABLE]
+Name and Principal       Salary        Stock  Awards      Option  Awards  (9)     Non-   			equity   			Incentive  Plan  Compen- sation (10)          All Other  Compen- sation    Total 
+Name and Principal       Salary        Stock  Awards      Option  Awards  (9)     Non-   			equity   			Incentive  Plan  Compen- sation (10)          All Other  Compen- sation    Total 
+Name and Principal       Salary        Stock  Awards      Option  Awards  (9)     Non-   			equity   			Incentive  Plan  Compen- sation (10)          All Other  Compen- sation    Total 
+ Position     Year     ($)        ($)   ($)   ($)       ($)    ($)  
+ William J. Clough, CEO/     2017     538,135     (2)      —       —     497,672     (2)      30,869     1,066,676  
+ President/Counsel/     2016     517,438     (2)      —       —     575,751     (2)      24,801     1,117,990  
+Director (1)    2015     497,536     (2)      —       —     443,802     (2)      20,882     962,220  
+ Daniel N. Ford, CFO     2017     320,000     (4)      —       —     244,888     (4)      38,532     603,420  
+ COO - Energy Division (3)     2016     281,216     (4)      —       —     260,650     (4)      37,153     579,019  
+     2015     270,400     (4)      —       —     217,500     (4)      36,782     524,682  
+ Matthew M. McKenzie,     2017     292,465     (6)      —       —     107,105     (6)      37,848     437,418  
+ COO - PEM Division/President of CUI,     2016     281,216     (6)      —       —     225,117     (6)      36,508     542,841  
+Inc./Director (5)    2015     270,400     (6)      —       —     325,500     (6)      36,137     632,037  
+ Paul D. White,     2017     114,759     (8)      49,991       —     30,000     (8)      —     194,500  
+ President of Orbital Gas     2016     50,000     (8)      67,275       —     —     (8)      —     117,275  
+Systems, Ltd., Director (7)    2015     29,253     (8)      27,897       —     —     (8)      —     57,150  
+[END TABLE]
+Footnotes:
+[BEGIN TABLE]
+ 1.   Mr. Clough joined the Company on September 1, 2005. Effective September 13, 2007, Mr. Clough was appointed CEO/President of CUI Global and Chief Executive Officer of all wholly owned subsidiaries of the Company.  
+ 2.   Mr. Clough is employed under a multi-year employment contract with the Company, which was extended to run to and through December 31, 2018. Said contract provides, in relevant part, for an initial annual salary of $460 thousand, which became effective July 1, 2013 and includes bonus provisions for each calendar year up to one hundred twenty-five percent of base salary to be based on performance objectives, goals and milestones for each calendar year including revenue performance and entitles Mr. Clough to a two-year severance package and an annual 4% cost of living adjustment (2017 salary of $538 thousand). Bonuses are approved quarterly based on various performance-related factors and an evaluation of current performance and includes a discretionary bonus of up to twenty-five percent of salary based upon the reasonable judgment of the compensation committee. Employee has the ability to earn a larger bonus based on the performance criteria set forth and the reasonable judgment and discretion of the compensation committee. All such bonus payments shall be paid to Mr. Clough in equal monthly installments following the period in which the bonus is earned and shall be paid on the 15th day of each month. At December 31, 2017, 2016, and 2015, there was an accrual of $33 thousand, $29 thousand and $4 thousand, respectively, for compensation owed to Mr. Clough.  
+ 3.   Mr. Ford joined the Company May 15, 2008 and serves as Chief Financial Officer of CUI Global and subsidiaries, and Chief Operating Officer of the Energy Division.  
+[END TABLE]
+[BEGIN TABLE]
+ 4.   Mr. Ford is employed under a three-year employment contract with the Company, which was extended to December 31, 2018 and provides, in relevant part, for an initial annual salary of $250 thousand effective July 1, 2013 (2017 salary of $320 thousand), an annual 4% cost of living adjustment, an eighteen-month severance package and bonus provisions up to one hundred twenty-five percent of base salary to be based on performance objectives, goals and milestones for each calendar year including revenue performance. The bonus includes a discretionary bonus of up to twenty-five percent of salary based upon the reasonable judgment of the compensation committee. Employee has the ability to earn a larger bonus based on the performance criteria set forth and the reasonable judgment and discretion of the compensation committee. Bonuses are approved quarterly based on the above factors and an evaluation of current performance. All such bonus payments shall be paid to Mr. Ford in equal monthly installments following the period in which the bonus is earned and shall be paid on the 15th day of each month. At December 31, 2017, 2016 and 2015 there was an accrual of $22 thousand, $19 thousand and $18 thousand, respectively, for compensation owed to Mr. Ford.  
+ 5.   Mr. McKenzie joined the Company May 15, 2008 and serves as President of CUI Inc. and Chief Operating Officer of the Power and Electromechanical Division.  
+ 6.   Mr. McKenzie is employed under a three-year employment contract with the Company, which was extended to December 31, 2018 and provides, in relevant part, for an initial annual salary of $250 thousand effective July 1, 2013, an annual 4% cost of living adjustment (2017 salary of $292 thousand), an eighteen-month severance package and bonus provisions up to one hundred twenty-five percent of base salary to be based on performance objectives, goals, and milestones for each calendar year, including revenue performance in the Power and Electromechanical segment. The bonus includes a discretionary bonus of up to twenty-five percent of salary based upon the reasonable judgment of the compensation committee. Employee has the ability to earn a larger bonus based on the performance criteria set forth and the reasonable judgment and discretion of the compensation committee. Bonuses are approved quarterly based on the above factors and an evaluation of current performance. All such bonus payments shall be paid to Mr. McKenzie in equal monthly installments following the period in which the bonus is earned and shall be paid on the 15th day of each month. At December 31, 2017, 2016 and 2015 there was an accrual of $12 thousand, $5 thousand and $23 thousand, respectively, for compensation owed to Mr. McKenzie.  
+ 7.   Mr. White served as President of Orbital Gas Systems, Ltd. since July 2017, initially in a consulting role. Upon accepting the permanent role of President of Orbital Gas Systems, Ltd. effective December 1, 2017, Mr. White ceased to be independent as a director of the Company.  
+ 8.   Mr. White is employed under a three-year employment contract with the Company through December 1, 2020 and provides, in relevant part, for an initial annual salary of $225 thousand in year 1 along with a $30 thousand one-time signing bonus, and increases to $250 thousand and $275 thousand in years 2 and 3, respectively, a severance of the Executive's salary for the remainder of his severance term upon termination, bonus provisions to be based on performance objectives, goals, and milestones for each calendar year, including revenue performance at Orbital-UK. The bonus includes a discretionary bonus of up to twenty-five percent of salary based upon the reasonable judgment of the compensation committee. Employee has the ability to earn a larger bonus based on the performance criteria set forth and the reasonable judgment and discretion of the compensation committee. Bonuses are approved on an ongoing basis based on the above factors and an evaluation of current performance. All such bonus payments shall be paid to Mr. White following the period in which the bonus is earned. During 2017, Mr. White received $50 thousand of cash compensation and $50 thousand of stock awards for his services as an independent director. Further, during his time during the year ended December 31, 2017 serving as a consultant as interim President of Orbital Gas Systems, Limited, Mr. White received $46 thousand of compensation. At December 31, 2017, there was an accrual of $40 thousand for compensation owed to Mr. White. Mr. White's cash and equity compensation shown for 2016 and 2015 was payment for his services as an independent director of CUI Global, Inc for those years.  
+[END TABLE]
+[BEGIN TABLE]
+ 9.   As of December 31, 2017, William J. Clough, CEO/Director held 558,085 outstanding options, Daniel N. Ford, CFO held 137,794 outstanding options, Matthew M. McKenzie, COO/Director held 112,796 outstanding options, which includes shares owned by his spouse, and Paul D. White, President of Orbital-UK/Director held 7,500 options.  
+ 10.   All other compensation includes health care and 401(k) matching benefits.  
+[END TABLE]
+2017 Grants of Plan-Based Awards
+[BEGIN TABLE]
+             Estimated Future Payouts Under Non-Equity Incentive Plan Awards (1)    
+             Estimated Future Payouts Under Non-Equity Incentive Plan Awards (1)    
+             Estimated Future Payouts Under Non-Equity Incentive Plan Awards (1)    
+ Name     Grant Date       Threshold       Target       Maximum    
+             ($)       ($)       ($)    
+ William J. Clough      Non-equity award       —       269,068       672,669   
+ Daniel N. Ford        Non-equity award       —       160,000       400,000   
+ Matthew M. McKenzie        Non-equity award       —       146,233       365,581   
+ Paul D. White        Non-equity award       —       —       —   
+[END TABLE]
+(1) These columns show the possible payouts for each named executive officer under the Incentive Plan for 2017 based on the goals set in 2017. Additional information is included in the Compensation Discussion and Analysis, and detail regarding actual awards under the Incentive Plan is reported in the Summary Compensation Table.
+Outstanding Equity Awards at Fiscal Year-End
+The following table sets forth the outstanding equity awards at December 31, 2017 to each of the named executive officers:
+[BEGIN TABLE]
+ OUTSTANDING EQUITY AWARDS AT FISCAL YEAR END  
+ Name     Number of Securities Underlying Unexercised Options (#) Exercisable       Option Exercise Price ($)     Option Expiration  
+ Name     Number of Securities Underlying Unexercised Options (#) Exercisable       Option Exercise Price ($)     Option Expiration  
+ Name     Number of Securities Underlying Unexercised Options (#) Exercisable       Option Exercise Price ($)     Option Expiration  
+ Daniel N. Ford (1)      12,598       7.50    1/1/2019  
+ Matthew M. McKenzie (1)      15,100       7.50    1/1/2019  
+ Matthew M. McKenzie (1)      8,100       7.50    1/1/2019  
+ William J. Clough (2)      5,422       9.00    10/11/2020  
+ Daniel N. Ford (2)      12,598       9.00    10/11/2020  
+ Matthew M. McKenzie (2)      15,100       9.00    10/11/2020  
+ Matthew M. McKenzie (2)      3,300       9.00    10/11/2020  
+ William J. Clough (3)      19,363       4.56    4/16/2022  
+ William J. Clough (3)      3,300       4.56    4/16/2022  
+ Daniel N. Ford (3)      12,598       4.56    4/16/2022  
+ Matthew M. McKenzie (3)      15,100       4.56    4/16/2022  
+ Matthew M. McKenzie (3)      3,300       4.56    4/16/2022  
+ William J. Clough (4)      330,000       6.00    9/21/2022  
+ William J. Clough (5)      200,000       6.25    6/24/2023  
+ Daniel N. Ford (5)      100,000       6.25    6/24/2023  
+ Matthew M. McKenzie (5)      50,000       6.25    6/24/2023  
+ Paul D. White (6)      7,500       8.15    8/31/2024  
+[END TABLE]
+Footnotes:
+[BEGIN TABLE]
+ 1.   Effective January 1, 2009, Mr. Ford and Mr. McKenzie received fully vested bonus options to purchase 12,598, and 15,100 common shares, respectively, within ten years from date of issuance, at a price of $7.50 per share. Also effective January 1, 2009, for service as a director of the Company, Mr. McKenzie received an option to purchase 4,800 common shares, within ten years from date of issuance, at a price of $7.50, that vested over four years, 25% after the first year and in equal monthly installments over the balance of the four year term and an option to purchase 3,300 common shares, within ten years from date of issuance, at a price of $7.50 per share that vested one year after issuance.  
+ 2.   Effective October 11, 2010, Mr. Clough, Mr. Ford and Mr. McKenzie received bonus options to purchase 37,177 (5,422 remaining outstanding), 12,598 and 15,100 common shares, respectively, within ten years from date of issuance, at a price of $9.00 per share that vested over 4 years: 25% at year one and thereafter in equal monthly installments. Additionally, effective October 11, 2010, for service as a director of the Company, Mr. McKenzie received an option to purchase 3,300 common shares within ten years from date of issuance at a price of $9.00 per share that vested one year after issuance.  
+ 3.   Effective April 16, 2012, Mr. Clough, Mr. Ford and Mr. McKenzie received bonus options to purchase 37,177 (19,363 remaining outstanding), 12,598, and 15,100 common shares, respectively, within ten years from date of issuance, at a price of $4.56 per share that vested over 4 years: 25% at year one and thereafter in equal monthly installments. Additionally, effective April 16, 2012, for their service as directors of the Company, Mr. Clough and Mr. McKenzie each received an option to purchase 3,300 common shares, within ten years from date of issuance, at a price of $4.56 per share that vested one year after issuance.  
+ 4.   Effective September 21, 2012, under the terms of his contract extension, Mr. Clough received a bonus option to purchase 330,000 common shares, within ten years from date of issuance, at a price of $6.00 per share that vested in equal monthly installments over 4 years.  
+[END TABLE]
+[BEGIN TABLE]
+ 5.   Effective June 24, 2013, Mr. Clough, Mr. Ford and Mr. McKenzie received bonus options to purchase 200,000, 100,000 and 50,000 common shares, respectively, within ten years from date of issuance, at a price of $6.25 per share that vested one third per year over 3 years.  
+ 6.   Effective August 31, 2014, Mr. White received, for service as Director, an option to purchase 7,500 common shares within ten years from date of issuance at a price of $8.15 per share that vested one year after issuance.  
+[END TABLE]
+Director Compensation
+For 2017, each of our directors received the following compensation pursuant to our director compensation plan:
+Non-employee directors received annual compensation of $100,000.
+[BEGIN TABLE]
+• The $100,000 annual compensation for non-employee directors is issued in the form of $50,000 cash compensation and $50,000 common stock calculated by using the Nasdaq Stock Market closing price per share on the date of issuance.  
+• At the election of each director, all or any portion of the cash compensation may be converted to stock purchase options calculated by using the strike price of ten percent (10%) above the Nasdaq Stock Market closing price per share on the date of grant.  
+• At the election of each director, all or any portion of the cash compensation may be converted to stock calculated by using the Nasdaq Stock Market closing price per share on the date of conversion.  
+[END TABLE]
+The following table sets forth the compensation of the non-employee directors for the fiscal year ended December 31, 2017:
+[BEGIN TABLE]
+     Fees                       Non-Equity earned or                       Incentive Plan       Nonqualified Deferred       All Other earned or                       Incentive Plan       Nonqualified Deferred       All Other paid in Cash       Stock Awards       Option Awards       Compen- sation       Compensation Earnings       Compen- sation       Total paid in Cash       Stock Awards       Option Awards       Compen- sation       Compensation Earnings       Compen- sation       Total    
+ Name     ($)       ($)       ($)       ($)       ($)       ($)       ($)    
+ Corey A. Lambrecht, Director      50,009       49,991       —       —       —       —       100,000   
+ Thomas A. Price, Director      50,009       49,991       —       —       —       —       100,000   
+ Sean P. Rooney, Director      50,009       49,991       —       —       —       —       100,000   
+[END TABLE]
+Footnotes:
+(1) Mr. Cochennet was appointed to the Board of Directors in December 2017 and will receive director compensation beginning fiscal year 2018.
+Security Ownership of Certain Beneficial Owners and Management
+The following table sets forth certain information regarding beneficial ownership of our voting shares as of December 31, 2017, by: (i) each shareholder known by us to be the beneficial owner of 5% or more of the outstanding voting shares, (ii) each of our directors and executives and (iii) all directors and executive officers as a group. Except as otherwise indicated, we believe that the beneficial owners of the voting shares listed below, based on information furnished by such owners, have sole investment and voting power with respect to such shares, subject to community property laws where applicable. Shares of common stock issuable upon exercise of options and warrants that are currently exercisable or that will become exercisable within 60 days of December 31, 2017 have been included in the table.
+No shares of preferred stock are outstanding at the date of this report.
+Beneficial Interest Table
+[BEGIN TABLE]
+     Number of  Securities       Percentages of Shares Beneficially    
+     Number of  Securities       Percentages of Shares Beneficially    
+     Number of  Securities       Percentages of Shares Beneficially    
+ Name and Address of Beneficial Owner (1)     Owned       Owned (2)    
+ William J. Clough (3)      620,751       2.14%  
+ Daniel N. Ford (5)      189,848       *   
+ Corey A. Lambrecht (6)      58,119       *   
+ Matthew M. McKenzie (7)      123,263       *   
+ Thomas A. Price (8)      121,488       *   
+ Sean P. Rooney (9)      75,946       *   
+ Paul D. White (10)      50,727       *   
+ First Eagle Investment Management, LLC,                  
+ 1345 Avenue of the Americas, New York, NY 10105      3,755,542       13.22%  
+ Heartland Advisors, Inc.                  
+ 789 North Water Street, Milwaukee, WI 53202      2,407,523       8.48%  
+ Royce & Associates, LP                  
+ 745 Fifth Avenue, New York, NY 10151      1,621,107       5.71%  
+ Officers, Directors, Executives as Group      1,249,687       4.35%  
+[END TABLE]
+Footnotes:
+[BEGIN TABLE]
+ 1.   Except as otherwise indicated, the address of each beneficial owner is c/o CUI Global, Inc., 20050 SW 112th Avenue, Tualatin, Oregon 97062.  
+[END TABLE]
+[BEGIN TABLE]
+ 2.   Calculated on the basis of 28,406,856 shares of common stock issued and outstanding at December 31, 2017 except that shares of common stock underlying options exercisable within 60 days of the date hereof are deemed to be outstanding for purposes of calculating the beneficial ownership of securities of such holder of options and shares. A * denotes less than 1 percent beneficially owned.  
+[END TABLE]
+[BEGIN TABLE]
+ 3.   Mr. Clough's common stock includes vested options to purchase 558,085 common shares. Mr. Clough is a Director, Chairman and Chief Executive Officer/President of CUI Global, Inc.  
+[END TABLE]
+[BEGIN TABLE]
+ 4.   Mr. Cochennet was appointed to the board of directors in December 2017.  
+[END TABLE]
+[BEGIN TABLE]
+ 5.   Mr. Ford's shares include vested options to purchase 137,794 common shares. Mr. Ford is the Chief Financial Officer of CUI Global, Inc. and Chief Operating Officer for the Energy Division.  
+[END TABLE]
+[BEGIN TABLE]
+ 6.   Mr. Lambrecht's shares include vested options to purchase 24,700 common shares. Mr. Lambrecht is a Director.  
+[END TABLE]
+[BEGIN TABLE]
+ 7.   Mr. McKenzie's shares include vested options to purchase 112,796 common shares, which includes an option to purchase 2,796 common shares owned by his spouse. Mr. McKenzie is a Director and Chief Operating Officer of the Power and Electromechanical Segment and President of CUI Inc.  
+[END TABLE]
+[BEGIN TABLE]
+ 8.   Mr. Price's shares include vested options to purchase 24,700 common shares. Mr. Price is a Director.  
+[END TABLE]
+[BEGIN TABLE]
+ 9.   Mr. Rooney's shares include vested options to purchase 45,087 common shares. Mr. Rooney is a Director.  
+[END TABLE]
+[BEGIN TABLE]
+ 10.   Mr. White's shares include vested options to purchase 7,500 common shares. Mr. White is a Director and President of Orbital-UK.  
+[END TABLE]
+We relied upon Section 4(2) of the Securities Act of 1933 as the basis for an exemption from registration for the issuance of the above securities.
+Employee Equity Incentive Plans
+At December 31, 2017, the Company had outstanding the following equity compensation plan information:
+[BEGIN TABLE]
+     Number of securities to be issued upon exercise of outstanding options, warrants and rights       Weighted- average exercise price of outstanding options warrants and rights       Future issuance under equity compensation plans (excluding securities reflected in column (a)    
+     Number of securities to be issued upon exercise of outstanding options, warrants and rights       Weighted- average exercise price of outstanding options warrants and rights       Future issuance under equity compensation plans (excluding securities reflected in column (a)    
+     Number of securities to be issued upon exercise of outstanding options, warrants and rights       Weighted- average exercise price of outstanding options warrants and rights       Future issuance under equity compensation plans (excluding securities reflected in column (a)    
+     Number of securities to be issued upon exercise of outstanding options, warrants and rights       Weighted- average exercise price of outstanding options warrants and rights       Future issuance under equity compensation plans (excluding securities reflected in column (a)    
+     Number of securities to be issued upon exercise of outstanding options, warrants and rights       Weighted- average exercise price of outstanding options warrants and rights       Future issuance under equity compensation plans (excluding securities reflected in column (a)    
+     Number of securities to be issued upon exercise of outstanding options, warrants and rights       Weighted- average exercise price of outstanding options warrants and rights       Future issuance under equity compensation plans (excluding securities reflected in column (a)    
+     Number of securities to be issued upon exercise of outstanding options, warrants and rights       Weighted- average exercise price of outstanding options warrants and rights       Future issuance under equity compensation plans (excluding securities reflected in column (a)    
+     Number of securities to be issued upon exercise of outstanding options, warrants and rights       Weighted- average exercise price of outstanding options warrants and rights       Future issuance under equity compensation plans (excluding securities reflected in column (a)    
+     Number of securities to be issued upon exercise of outstanding options, warrants and rights       Weighted- average exercise price of outstanding options warrants and rights       Future issuance under equity compensation plans (excluding securities reflected in column (a)    
+ Plan Category     (a)       (b)       (c)    
+ Equity compensation plans not approved by security holders      927,265       6.35       201,361   
+[END TABLE]
+Equity Compensation Plans Approved by Shareholders
+On May 16, 2008 the Company's board of directors adopted the 2008 Equity Incentive Plan and authorized 1,500,000 shares of Common Stock to fund the Plan. At the 2008 Annual Meeting of Shareholders the Equity Incentive Plan was approved by the Company shareholders. At the 2009 Annual Meeting of Shareholders the shareholders approved an amendment to the 2008 Equity Incentive Plan to increase the number of common shares issuable under the plan from 1,500,000 to 3,000,000. These shares have been registered under Form S-8.
+The 2008 Equity Incentive Plan is intended to: (a) provide incentive to employees of the Company and its affiliates to stimulate their efforts toward the continued success of the Company and to operate and manage the business in a manner that will provide for the long-term growth and profitability of the Company; (b) encourage stock ownership by employees, directors and independent contractors by providing them with a means to acquire a proprietary interest in the Company by acquiring shares of stock or to receive compensation, which is based upon appreciation in the value of Stock; and (c) provide a means of obtaining and rewarding employees, directors, independent contractors and advisors.
+The 2008 Equity Incentive Plan provides for the issuance of incentive stock options (ISOs) and Non-Statutory Options (NSOs) to employees, directors and independent contractors of the Company. The Board shall determine the exercise price per share in the case of an ISO at the time an option is granted and such price shall be not less than the fair market value or 110% of fair market value in the case of a ten percent or greater stockholder. In the case of an NSO, the exercise price shall not be less than the fair market value of one share of stock on the date the option is granted. Unless otherwise determined by the Board, ISOs and NSOs granted under the both plans have a maximum duration of ten years.
+Equity Compensation Plans Not Approved by Shareholders
+In January 2009 the Company board of directors received and approved a written report and recommendations of the Compensation Committee, which included a detailed executive equity compensation report and market analysis and the recommendations of Compensia, Inc., a management consulting firm that provides executive compensation advisory services to compensation committees and senior management of knowledge-based companies. The Compensation Committee used the report and analysis as a basis for its formal written recommendation to the board. Pursuant to a board resolution the 2009 Equity Incentive Plan (Executive), a Non-Qualified Stock Option Plan, was created and funded with 4,200,000 shares of $0.001 par value common stock. The Compensation Committee was appointed as the Plan Administrator to manage the plan.
+On October 11, 2010, the board of directors authorized an additional 3,060,382 options under the 2009 Equity Incentive Plan (Executive) that were to be granted at post-reverse split quantities. On September 21, 2012, CUI Global authorized an additional 330,000 options under the 2009 Equity Incentive Plan (Executive).
+The 2009 Equity Incentive Plan (Executive) provides for the issuance of stock options to attract, retain and motivate executive and management employees and directors and to encourage these individuals to acquire an equity interest in the Company, to make monetary payments to certain management employees and directors based upon the value of the Company's stock and to provide these individuals with an incentive to maximize the success of the Company and further the interest of the shareholders. The 2009 Plan provides for the issuance of Incentive Non-Statutory Options. The Administrator of the plan is authorized to determine the exercise price per share at the time the option is granted, but the exercise price shall not be less than the fair market value on the date the option is granted. Stock options granted under the 2009 Plan have a maximum duration of ten years.
+The Company has outstanding at December 31, 2017, the following options issued under equity compensation plans not approved by security holders:
+[BEGIN TABLE]
+• During 2009, the Company issued under the 2009 Equity Incentive Plan (Executive) to officers and directors options to purchase restricted common stock at $7.50 per share as follows: 85,009 fully vested options, 28,800 options that vest over four years, 25% at the end of year one and thereafter in equal monthly installments; and 19,800 options that fully vested one year after the date of grant. Of these 2009 grants, 71,196 remain outstanding and fully vested at December 31, 2017.  
+• During 2010, the Company issued options to purchase restricted common stock at $9.00 per share to officers and directors as follows: 19,800 options that vest one year after the October 11, 2010 grant date and 82,213 options that vest over four years, 25% at one year after the grant date, thereafter in equally monthly installments. Of these 2010 grants, 54,621 remain outstanding and fully vested at December 31, 2017.  
+[END TABLE]
+[BEGIN TABLE]
+• During 2012, the Company granted options to purchase restricted common stock at $4.56 per share to officers and directors as follows: 19,800 options that vest one year after the April 16, 2012 grant date; 64,875 options that vest over four years, 25% at one year after the grant date, thereafter in equal monthly installments, and 330,000 options to purchase restricted common stock at $6.00 per share were granted to an officer that vest in equal monthly installments over the course of forty-eight consecutive months beginning September 2012. Of these 2012 grants, 393,561 remain outstanding and fully vested at December 31, 2017.  
+• During 2013, the Company issued 350,000 options to purchase restricted common stock at $6.25 per share to three officers as follows: one third that vest one year after the June 24, 2013 grant date, one third that vest two years after the grant date and the balance that vest three years after the grant date. At December 31, 2017, 350,000 of these 2013 granted options are outstanding and fully vested.  
+• During 2014, the Company issued options to purchase 10,000 shares of restricted common stock at a price of $6.92 per share to each board member who is not an employee of the Company. The options vested in twelve equal installments during 2014. The Company issued options to purchase 42,890 restricted shares of common stock at a price of $6.92 per share to two board members, who chose to receive a portion of their annual board compensation in the form of equity. The Company granted options to purchase 7,500 restricted shares of common stock at a price of $8.15 per share to each of the two newly elected directors that vested August 31, 2015. Of these 2014 options grants, 57,887 options are outstanding and fully vested at December 31, 2017.  
+[END TABLE]
+The description of the Company's capital stock does not purport to be complete and is subject to and qualified by its Articles of Incorporation, Bylaws, and amendments thereto and by the provisions of applicable Colorado law. The Company's transfer agent is Computershare Trust Company, Inc., 350 Indiana Street, Suite 800, Golden, Colorado 80401.
+Fees or controlled billings for services billed by the Company's principal accountant, Perkins & Company, P.C., were as follows:
+[BEGIN TABLE]
+     For the Years Ended December 31,    
+ (In thousands)     2017       2016    
+ Audit fees (1)    $ 669     $ 611   
+ Audit related fees      133       280   
+ Tax fees and other fees      141       70   
+ Total Fees    $ 943     $ 961   
+[END TABLE]
+[BEGIN TABLE]
+ (1)   Fees and expenses for professional services rendered in connection with the audit of the Company's financial statements and internal control over financial reporting and the reviews of the financial statements included in each of the Company's quarterly reports on Form 10-Q.  
+[END TABLE]
+In accordance with the requirements of the Sarbanes-Oxley Act of 2002 and the rules and regulations promulgated thereunder, the Audit Committee has adopted an informal approval policy that it believes will result in an effective and efficient procedure to pre-approve services performed by the independent registered public accounting firm.
+Section 16(A) Beneficial Ownership Reporting Compliance
+Section 16(a) of the Securities Exchange Act of 1934 requires our executive officers, directors and persons owning more than 10% of our common stock to file reports of ownership and reports of changes of ownership with the Securities and Exchange Commission. These reporting persons are required to furnish us with copies of all Section 16(a) forms that they file. We have made all officers and directors aware of their reporting obligations and have appointed an employee to oversee Section 16 compliance for future filings.
+Based solely upon a review of the copies of Section 16(a) reports that we have received from such persons or entities for transactions in our common stock and their common stock holdings for fiscal 2017 and the first two quarters of 2018, other than as heretofore noted and noted below, we believe that all reporting requirements under Section 16(a) were met in a timely manner. A director appointed December 1, 2017, filed a Form 3 on December 19, 2017 and a Form 4 on August 23, 2018 relating to an acquisition on July 17, 2018.
+Price Range of Our Common Stock
+The Company's common stock is traded on The NASDAQ Stock Market under the trading symbol "CUI". The following table sets forth the high and low sales prices of our common stock on The NASDAQ Stock Market during each quarter of the two most recent years.
+[BEGIN TABLE]
+ Quarter     High       Low      First Quarter    $ 3.28     $ 2.46   
+ Second Quarter      3.16       2.51   
+ Third Quarter      3.04       2.14     First Quarter    $ 6.90     $ 4.31   
+ Second Quarter      4.93       3.17   
+ Third Quarter      4.12       3.01   
+ Fourth Quarter      4.35       2.44     First Quarter    $ 9.42     $ 6.18   
+ Second Quarter      8.40       4.85   
+ Third Quarter      6.14       4.01   
+ Fourth Quarter      7.39       4.30   
+[END TABLE]
+On October 4, 2018, the last reported sale price of our common stock on The NASDAQ Stock Market was $2.20 per share. As of October 4, 2018, we had in excess of 4,000 beneficial holders of our common stock and in excess of 2,300 shareholders of record. The actual number of shareholders is greater than this number of record holders and includes shareholders who are beneficial owners, but whose shares are held in street name by brokers and other nominees.
+Stock Performance Graph
+The following graph compares the performance of our common stock to the performance of the NASDAQ Composite Index and the Russell 2000 Index. The Russell 2000 Index measures the performance of the small-cap segment of the U.S. equity markets. The comparisons in the chart below are provided in response to SEC disclosure requirements and are not intended to forecast or be indicative of future performance of our common stock. We issued 7,392,856 shares in October 2017, which increased the total number of shares outstanding by about 35% and this had a dilutive effect on the share price as reflected in the following graph.
+[BEGIN TABLE]
+     Period Ending  
+ Index     12/31/12 *     12/31/13     12/31/14     12/31/15     12/31/16     12/31/17  
+ CUI Global, Inc.     100.00       115.12       135.70       128.23       126.23       50.09    
+ NASDAQ Composite     100.00       140.12       160.78       171.97       187.22       242.71    
+ Russell 2000     100.00       138.82       145.62       139.19       168.85       193.58    
+[END TABLE]
+* Assumed $100 invested on 12/31/2012 in stock or index, including reinvestment of dividends. Fiscal year ended December 31.
+Source: SNL Financial LC, Charlottesville, VA ©2018
+Dividend Policy
+The Company has never paid cash dividends on its Common Stock and the Company does not expect to pay dividends in the foreseeable future.
+We currently expect to retain future earnings to finance the growth and development of our business. The timing, amount and form of future dividends, if any, will depend on, among other things, our future results of operations and cash flows; our general financial condition and future prospects; our capital requirements and surplus; contractual restrictions; the amount of distributions, if any, received by us from our subsidiaries; and other factors deemed relevant by our board of directors. Any future dividends on our common shares would be declared by and subject to the discretion of our board of directors.
+Transactions with Related Persons, Promoters and Certain Control Persons
+The Board of Directors is responsible for the review and approval of all related-party transactions. Although the Board does not have written policies and procedures with respect to the review of related-party transactions, we intend that any such transactions will be reviewed by the Board of Directors or one of its committees, which will consider all relevant facts and circumstances and will consider, among other factors:
+[BEGIN TABLE]
+• the material terms of the transaction;  
+• the nature of the relationship between the Company and the related party;  
+• the significance of the transaction to the Company; and  
+• whether or not the transaction would be likely to impair (or create the appearance of impairing) the judgment of a director or executive officer to act in the best interest of the Company.  
+[END TABLE]
+Except as set forth herein, no related party of the Company, including, but not limited to, any director, officer, nominee for director, immediate family member of a director or officer, immediate family member of any nominee for director, security holder that beneficially owns, directly or indirectly, shares carrying more than 5% of the voting rights attached to its outstanding shares, or immediate family member of any such security holder, since the beginning of fiscal year 2017, has any material interest, direct or indirect, in any transaction or in any presently proposed transaction with the Company where the amount involved exceeds $120,000 which has or will materially affect the Company.
+Chief Executive Officer and Chairman of the Board of Directors, William J. Clough's son, Nicholas J. Clough, serves as President at Orbital Gas Systems, North America, Inc., a wholly owned subsidiary of the Company. Additional Information on Nicholas Clough's compensation is included in Note 13 Related-party Transactions, to the Consolidated Financial Statements under Part II, Item 8, ''Financial Statements and Supplementary Data.''
+IED and Other Affiliates Related Matters
+Effective May 16, 2008 the Company formed a wholly owned subsidiary into which CUI Inc., an Oregon corporation, merged all of its assets. The funding for this acquisition was provided by a bank note, a seller's note and a convertible seller's note. Matthew McKenzie, COO and Daniel Ford, CFO each were partial owners in CUI Inc. prior to the acquisition and they each, along with James McKenzie are shareholders in International Electronic Devices, Inc. (IED). The convertible seller's note was satisfied in 2010 and the bank note was satisfied in 2012. The remaining seller's note is described below:
+[BEGIN TABLE]
+• The $5.3 million note payable to International Electronic Devices, Inc. (IED) (the former CUI shareholders) is associated with the acquisition of CUI Inc. The promissory note is due May 15, 2020 and includes a 5% interest rate per annum, with interest payable monthly and the principal due as a balloon payment at maturity. The note contains a contingent conversion feature, such that in the event of default on the note the holder of the note can, at the holder's option, convert the note principal into common stock at $0.001 per share. As of December 31, 2017, the Company is in compliance with all terms of this promissory note and the conversion feature is not effective.  
+• During 2017, 2016, and 2015, $0.3 million, $0.3 million and $0.3 million, respectively, of interest payments were made in relation to the promissory note issued to IED.  
+[END TABLE]
+Legal Proceedings
+No director, officer or affiliate of CUI Global, Inc., any owner of record or beneficially of more than five percent of any class of voting securities of CUI Global, Inc. or any associate of any such director, officer, affiliate of CUI Global, Inc. or security holder is a party adverse to CUI Global, Inc. or any of its subsidiaries or has a material interest adverse to CUI Global, Inc. or any of its subsidiaries.
+Expenses of Issuance and Distribution
+The following table sets forth an estimate of the various expenses, which will be incurred in connection with the issuance and distribution of this proxy statement:
+[BEGIN TABLE]
+ Printing and Distribution Expenses    $ 1,000   
+ Legal Fees and Expenses    $ 5,000   
+ Accounting Fees and Expenses    $ 1,000   
+ Miscellaneous expenses    $ 1,000   
+ TOTAL    $ 8,000   
+[END TABLE]
+Where You Can Find Additional Information
+The Company will provide to each person to whom a proxy statement is delivered:
+[BEGIN TABLE]
+• a copy of any or all of the information that has been incorporated by reference in the proxy statement, but not delivered with the proxy statement;  
+• we will provide this information upon written or oral request;  
+• we will provide this information at no cost to the requester.  
+[END TABLE]
+Contact us at: CUI Global, Inc., 20050 SW 112th Avenue, Tualatin, Oregon 97062; phone us at (503) 612-2300; email us at investors@cuiglobal.com or view copies online at www.cuiglobal.com.
+You may read and copy all or any portion of the proxy statement or any other information, which we filed at the SEC's public reference rooms in Washington, D.C., New York City and Chicago, Illinois. The address for the SEC's public reference room in Washington, D.C. is U.S. Securities and Exchange Commission, 100 "F" Street, N.E., Washington, DC 20549. You may request copies of these documents, upon payment of a duplicating fee, by writing to the SEC. Please call the Securities and Exchange Commission at 1-800-SEC-0330 for further information on the operation of the public reference rooms. Our SEC filings are also available to you free of charge at the SEC's web site at http://www.sec.gov and our Company website at www.cuiglobal.com.
+Shareholder Proposals for the 2019 Annual Meeting of Stockholders
+Under the Security and Exchange Commission's proxy rules, shareholder proposals that meet certain conditions may be included in our proxy statement and form of proxy for a particular annual meeting. Stockholders may present proper proposals for inclusion in our proxy statement and for consideration at the next annual meeting of stockholders by submitting their proposals in writing to CUI Global's Corporate Secretary in a timely manner. For a stockholder proposal to be considered for inclusion in our proxy statement for our 2019 Annual Meeting of Stockholders, the Corporate Secretary of CUI Global must receive the written proposal at our principal executive offices no later than June 1, 2019; provided, however, that in the event that we hold our 2019 Annual Meeting of stockholders more than 30 days before or after the one-year anniversary date of the 2018 Annual Meeting, we will disclose the new deadline by which stockholders proposals must be received under Item 5 of our earliest possible Quarterly Report on Form 10-Q or, if impracticable, by any means reasonably calculated to inform stockholders. In addition, stockholder proposals must otherwise comply with the requirements of Rule 14a-8 of the Securities Exchange Act of 1934, as amended (the "Exchange Act") regarding the inclusion of stockholder proposals in company-sponsored proxy materials. Proposals should be addressed to:
+CUI Global, Inc.
+Attn: Corporate Secretary
+20050 SW 112th Avenue
+Tualatin, Oregon 97062
+Our receipt of any such proposal from a qualified shareholder in a timely manner will not guarantee its inclusion in our proxy materials or its presentation at the 2019 Annual Meeting because there are other requirements in the proxy rules.
+Annual Report
+A COPY OF OUR ANNUAL REPORT TO STOCKHOLDERS WHICH INCLUDES OUR ANNUAL REPORT ON FORM 10-K AND OUR MOST RECENT QUARTERLY FORM 10-Q AND THIS PROXY STATEMENT ARE AVAILABLE TO YOU ON THE INTERNET OR, UPON YOUR REQUEST, WILL BE PROMPTLY MAILED TO YOU, PROVIDED YOU ARE A STOCKHOLDER ENTITLED TO VOTE AT THE ANNUAL MEETING. THE NOTICE, WHICH WAS MAILED TO YOU, INSTRUCTS YOU AS TO HOW YOU MAY ACCESS AND REVIEW ALL OF THE PROXY MATERIALS ON THE INTERNET. IF YOU WOULD LIKE TO RECEIVE A PAPER OR EMAIL COPY OF OUR PROXY MATERIALS, YOU SHOULD FOLLOW THE INSTRUCTIONS FOR REQUESTING SUCH MATERIALS IN THE NOTICE.
+By Order of the Board of Directors
+Matthew M. McKenzie,
+Corporate Secretary
+Documents Incorporated by Reference
+The SEC allows us to incorporate by reference into this proxy statement the information that we file with the SEC in other documents. This means that we may disclose important information to you by referring to other documents that contain that information. The information may include documents filed after the date of this proxy statement which update and supersede the information you read in this proxy statement. We incorporate by reference the following documents listed below, except to the extent information in those documents is different from the information contained in this proxy statement, and all future documents filed with the SEC under Sections 13(a), 13(c), 14, or 15(d) of the Exchange Act. The Company filed with the Commission:
+[BEGIN TABLE]
+   (a)   Annual Report on Form 10-K for the fiscal year ended December 31, 2017 filed with the Commission March 14, 2018.  
+   (b)   A quarterly report on Form 10-Q for the second quarter of 2018 filed with the Commission August 6, 2018.  
+[END TABLE]
+Proxy Solicited on Behalf of the
+Board of Directors for the Annual Shareholder Meeting of the
+CUI Global, Inc. Stockholders
+The undersigned, revoking all previous proxies, appoints Matthew M. McKenzie, Corporate Secretary, attorney and proxy of the undersigned, with power of substitution, to represent the undersigned at the Annual Meeting of Stockholders of CUI Global, Inc. to be held at 9:00 am CST on Monday, December 3, 2018, at Orbital Gas Systems, North America, 1924 Aldine Western, Houston, Texas 77038 and for any adjournments and to vote all shares of Voting Stock of the Company, which the undersigned is entitled to vote on all matters coming before said meeting.
+[BEGIN TABLE]
+ ☒   Please mark your votes with an "X" as in this example.  
+[END TABLE]
+PROPOSAL I
+Election of Directors
+The board of directors recommends a vote FOR the following directors:
+Nominee: William J. Clough, Seat #1
+[BEGIN TABLE]
+  [   ]   FOR    [   ]   WITHHOLD  
+[END TABLE]
+Nominee: C. Stephen Cochennet, Seat # 2
+[BEGIN TABLE]
+  [   ]   FOR    [   ]   WITHHOLD  
+[END TABLE]
+Nominee: Sean P. Rooney, Seat #4
+[BEGIN TABLE]
+  [   ]   FOR    [   ]   WITHHOLD  
+[END TABLE]
+Nominee: Paul D. White, Seat #5
+[BEGIN TABLE]
+  [   ]   FOR    [   ]   WITHHOLD  
+[END TABLE]
+Nominee: Corey A. Lambrecht, Seat #6,
+[BEGIN TABLE]
+  [   ]   FOR    [   ]   WITHHOLD  
+[END TABLE]
+PROPOSAL II
+Ratification of the Appointment of
+Perkins & Company, P.C. of the BDO Seidman Alliance as the Company's
+Independent Registered Public Accounting Firm for the
+Year Ending December 31, 2018
+The board of directors recommends a vote FOR ratification of the appointment of Perkins & Company, P.C. of the BDO Seidman Alliance as the Company's independent registered public accounting firm for the year ending December 31, 2018.
+[BEGIN TABLE]
+ [   ]  FOR   [   ]  AGAINST   [   ] ABSTAIN  
+[END TABLE]
+PROPOSAL III
+Advisory Approval of the Company's
+Executive Compensation
+(Say-on-Pay)
+The board of directors recommends a vote FOR the advisory approval of the Company's executive compensation (Say-on-Pay).
+[BEGIN TABLE]
+ [   ]  FOR   [   ]  AGAINST   [   ]  ABSTAIN  
+[END TABLE]
+PLEASE SIGN, DATE AND RETURN THIS PROXY CARD USING THE ENCLOSED ENVELOPE. THIS PROXY WHEN PROPERLY EXECUTED WILL BE VOTED IN THE MANNER DIRECTED HEREIN BY THE UNDERSIGNED SHAREHOLDER. IF NO DIRECTION IS MADE, THIS PROXY WILL BE VOTED "FOR" THE PROPOSALS TO ELECT THE NOMINEE DIRECTORS, RATIFY THE APPOINTMENT OF PERKINS & COMPANY, P.C. OF THE BDO SEIDMAN ALLIANCE AS THE COMPANY'S INDEPENDENT REGISTERED PUBLIC ACCOUNTING FIRM FOR THE YEAR ENDING DECEMBER 31, 2018 AND ADVISORY APPROVAL OF THE COMPANY'S EXECUTIVE COMPENSATION (SAY-ON-PAY).
+[BEGIN TABLE]
+ Date   2018  
+ Signature  
+ Signature of joint holder, if any  
+[END TABLE]
+Please sign exactly as your name appears on your stock certificate or account. Executors, administrators, trustees, etc. should give full title as such. If the signer is a corporation, please sign full corporate name by a duly authorized officer. If a partnership, please sign in partnership name by authorized person.
+ 

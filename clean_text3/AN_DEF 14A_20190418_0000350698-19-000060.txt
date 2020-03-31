@@ -1,0 +1,962 @@
+
+UNITED STATES 
+SECURITIES AND EXCHANGE COMMISSION 
+WASHINGTON, D.C. 20549 
+SCHEDULE 14A
+(Rule 14a-101) 
+SCHEDULE 14A INFORMATION
+Proxy Statement Pursuant to Section 14(a) of the 
+Securities Exchange Act of 1934 
+Filed by the Registrant þ
+Filed by a Party other than the Registrant ¨
+Check the appropriate box: 
+¨    Preliminary Proxy Statement
+¨    Confidential, for Use of the Commission Only (as permitted by Rule 14a-6(e)(2))
+þ    Definitive Proxy Statement
+¨    Definitive Additional Materials
+¨    Soliciting Material under § 240.14a-12 
+AutoNation, Inc. 
+(Name of Registrant as Specified In Its Charter) 
+(Name of Person(s) Filing Proxy Statement, if Other Than the Registrant) 
+Payment of Filing Fee (Check the appropriate box):
+[BEGIN TABLE]
+þ No fee required. 
+¨ Fee computed on table below per Exchange Act Rules 14a-6(i)(1) and 0-11. 
+  (1) Title of each class of securities to which transaction applies:   
+  (2) Aggregate number of securities to which transaction applies: 
+  (3) Per unit price or other underlying value of transaction computed pursuant to Exchange Act Rule 0-11 (set forth the amount on which the filing fee is calculated and state how it was determined): 
+  (4) Proposed maximum aggregate value of transaction: 
+  (5) Total fee paid: 
+¨ Fee paid previously with preliminary materials. 
+¨ Check box if any part of the fee is offset as provided by Exchange Act Rule 0-11(a)(2) and identify the filing for which the offsetting fee was paid previously. Identify the previous filing by registration statement number, or the Form or Schedule and the date of its filing. 
+  (1) Amount Previously Paid: 
+  (2) Form, Schedule or Registration Statement No.: 
+  (3) Filing Party: 
+  (4) Date Filed: 
+[END TABLE]
+AUTONATION, INC.
+AutoNation Headquarters
+200 SW 1st Ave
+Fort Lauderdale, FL 33301
+NOTICE OF THE 2019 ANNUAL MEETING OF STOCKHOLDERS 
+To Stockholders of AutoNation, Inc.: 
+The 2019 Annual Meeting of Stockholders of AutoNation, Inc. will be held at AutoNation's Headquarters, located at 200 SW 1st Ave, Fort Lauderdale, Florida 33301, on Thursday, April 18, 2019, at 8:00 a.m. Eastern Time for the following purposes as more fully described in the proxy statement: 
+[BEGIN TABLE]
+(1) To elect the nine director nominees named in the proxy statement, each for a term expiring at the next Annual Meeting of Stockholders or until their successors are duly elected and qualified; 
+(2) To ratify the selection of KPMG LLP as our independent registered public accounting firm for 2019; 
+(3) To consider one stockholder proposal, if properly presented at the Annual Meeting; and 
+(4) To transact such other business as may properly come before the Annual Meeting or any adjournments or postponements of the Annual Meeting. 
+[END TABLE]
+Only stockholders of record as of the close of business on February 20, 2019, the record date, are entitled to receive notice of the Annual Meeting and to vote at the Annual Meeting or any adjournments or postponements of the Annual Meeting. 
+We cordially invite you to attend the Annual Meeting in person. Even if you plan to attend the Annual Meeting, we ask that you please cast your vote as soon as possible. You may revoke your proxy and reclaim your right to vote at any time prior to its use. The proxy statement includes information on what you will need to attend the Annual Meeting. 
+By Order of the Board of Directors, 
+C. Coleman Edmunds 
+Executive Vice President, General Counsel and Corporate Secretary
+March 6, 2019 
+TABLE OF CONTENTS
+[BEGIN TABLE]
+  Page 
+Internet Availability of Proxy Materials i 
+Proxy Statement 1 
+Information About the Annual Meeting 1 
+Board of Directors and Corporate Governance 3 
+Directors 3 
+Corporate Governance Guidelines and Codes of Ethics 5 
+Corporate Governance Highlights 5 
+Role of the Board and Board Structure 6 
+Board Committees 8 
+Director Independence 10 
+Director Selection Process 11 
+Certain Relationships and Related Party Transactions 11 
+Board Compensation 11 
+Stockholder Communications 14 
+Stockholder Proposals and Nominations for the 2019 Annual Meeting 14 
+Stock Ownership 15 
+Security Ownership of Certain Beneficial Owners 15 
+Security Ownership of Management 16 
+Section 16(a) Beneficial Ownership Reporting Compliance 17 
+Executive Compensation 18 
+Compensation Committee Report 18 
+Compensation Discussion and Analysis 19 
+Compensation Tables 26 
+Summary Compensation Table 26 
+Grants of Plan-Based Awards 28 
+Outstanding Equity Awards 29 
+Option Exercises and Stock Vested 32 
+Non-Qualified Deferred Compensation 32 
+Potential Payments Upon Termination or Change in Control 33 
+Pay Ratio 40 
+Audit Committee Report 41 
+Items To Be Voted On 43 
+Proposal 1: Election of Directors 43 
+Proposal 2: Ratification of the Selection of Our Independent Registered Public Accounting Firm 43 
+Proposal 3: Stockholder Proposal 45 
+Other Matters 46 
+Householding; Availability of Annual Report and Proxy Statement 46 
+Directions to the 2019 Annual Meeting of Stockholders of AutoNation, Inc. 46 
+[END TABLE]
+Table of Contents
+INTERNET AVAILABILITY OF PROXY MATERIALS
+In accordance with the rules of the Securities and Exchange Commission ("SEC"), we are furnishing our proxy materials, including this proxy statement and our annual report, to our stockholders primarily via the Internet. On March 6, 2019, we began mailing to most of our stockholders a Notice of Internet Availability of Proxy Materials (the "Notice") that contains instructions on how to access our proxy materials on the Internet. The Notice also contains instructions on how to vote via the Internet or by telephone. Other stockholders, in accordance with their prior requests, received an email with instructions on how to access our proxy materials and vote via the Internet, or have been mailed paper copies of our proxy materials and a proxy card or voting form. Stockholders may request to receive all future proxy materials in printed form by mail or electronically by email by following the instructions contained in the Notice.
+Important Notice Regarding the Availability of Proxy Materials for the Stockholder Meeting to be Held on April 18, 2019 
+Our 2018 Annual Report and this proxy statement are available at www.edocumentview.com/an.
+i
+Table of Contents
+AUTONATION, INC.
+AutoNation Headquarters
+200 SW 1st Ave
+Fort Lauderdale, FL 33301
+[BEGIN TABLE]
+PROXY STATEMENT 
+[END TABLE]
+This Proxy Statement contains information relating to the solicitation of proxies by the Board of Directors (the "Board") of AutoNation, Inc. ("AutoNation" or the "Company") for use at our 2019 Annual Meeting of Stockholders or any adjournment or postponement thereof. Our Annual Meeting will be held at AutoNation's Headquarters, located at 200 SW 1st Ave, Fort Lauderdale, Florida 33301, on Thursday, April 18, 2019, at 8:00 a.m. Eastern Time. 
+Only stockholders of record as of the close of business on February 20, 2019 (the "record date") are entitled to receive notice of the Annual Meeting and to vote at the Annual Meeting or any adjournments or postponements of the Annual Meeting. As of the record date, there were 90,058,836 shares of AutoNation common stock issued and outstanding and entitled to vote at the Annual Meeting. We made copies of this proxy statement available to our stockholders beginning on or about March 6, 2019.
+INFORMATION ABOUT THE ANNUAL MEETING
+[BEGIN TABLE]
+Proposal Matter Board Vote Recommendation 
+1 Election of Directors FOR EACH NOMINEE 
+2 Ratification of the Selection of KPMG LLP as Independent Auditor for 2019 FOR 
+3 Stockholder Proposal Regarding Independent Board Chairman AGAINST 
+[END TABLE]
+Voting Matters
+Quorum. The holders of at least 45,029,419 shares (a majority of shares outstanding on the record date) must be present in person or represented by proxy to conduct business at the Annual Meeting. Both abstentions and broker non-votes will be counted for the purpose of determining the presence of a quorum.
+Voting by Stockholders of Record. If you are a stockholder of record (your shares are registered directly in your name with our transfer agent), you may vote by proxy via the Internet by following the instructions provided in the Notice of Internet Availability of Proxy Materials. If you receive printed copies of the proxy materials by mail, you may also vote by proxy via the Internet, by telephone, or by mail by following the instructions provided on the proxy card. Stockholders of record who attend the Annual Meeting may vote in person by obtaining a ballot from the inspector of elections.
+Voting by Beneficial Owners. If you are a beneficial owner of shares (your shares are held in the name of a brokerage firm, bank, or other nominee), you may vote by proxy by following the instructions provided in the Notice of Internet Availability of Proxy Materials, vote instruction form, or other materials provided to you by the brokerage firm, bank, or other nominee that holds your shares. If you do not provide specific voting instructions to the nominee that holds your shares, such nominee will have the authority to vote your shares only with respect to the ratification of the selection of KPMG LLP as our independent registered public accounting firm (such proposal is considered a "routine" matter under NYSE rules), and your shares will not be voted and will be considered "broker non-votes" with respect to the other proposals (such proposals are considered "non-routine" matters under NYSE rules). To vote in person at the Annual Meeting, you must obtain a legal proxy from the brokerage firm, bank, or other nominee that holds your shares.  Table of Contents
+Changing Your Vote. You may revoke your proxy and change your vote at any time before the final vote at the Annual Meeting. You may vote again on a later date via the Internet or by telephone (only your latest Internet or telephone proxy submitted prior to the meeting will be counted), by signing and returning a new proxy card with a later date, or by attending the Annual Meeting and voting in person. Your attendance at the Annual Meeting will not automatically revoke your proxy unless you vote again at the Annual Meeting or specifically request in writing that your prior proxy be revoked.
+Votes Required to Adopt Proposals. Each share of our common stock outstanding on the record date is entitled to one vote on each of the nine director nominees and one vote on each other matter. To be elected, director nominees must receive a majority of the votes cast (the number of shares voted "for" a director nominee must exceed the number of votes cast "against" that nominee). Approval of each other matter on the agenda requires the affirmative vote of a majority of the shares of common stock present in person or represented by proxy and entitled to vote on the proposal. 
+Effect of Abstentions and Broker Non-Votes. For the election of directors, broker non-votes (shares held by brokers that do not have discretionary authority to vote on a proposal and have not received voting instructions from their clients) and abstentions will not be counted as having been voted. For Proposals 2 and 3, abstentions will be counted as present and entitled to vote and will have the same effect as negative votes. For Proposal 3, broker non-votes will not be counted as present and entitled to vote. Brokers will have discretionary authority to vote on Proposal 2 since it is considered a routine matter under NYSE rules. 
+Voting Instructions. If you complete and submit a proxy with voting instructions, the persons named as proxies will follow your instructions. If you are a stockholder of record and submit a proxy without voting instructions, or if your instructions are unclear, the persons named as proxies will vote as the Board recommends on each proposal. With respect to any other matters properly presented at the Annual Meeting, the persons named as proxies will vote as recommended by our Board of Directors, or if no recommendation is given, in their own discretion.
+Proxy Solicitation
+We will pay for the cost of soliciting proxies, and we have retained Innisfree M&A Incorporated to assist with the solicitation of proxies for an estimated fee of $15,000 plus reimbursement for expenses. Our directors, officers, and other employees, without additional compensation, may solicit proxies personally or in writing, by telephone, email, or otherwise. As is customary, we will reimburse brokerage firms, banks, and other nominees for forwarding our proxy materials to each beneficial owner of common stock held of record by them. 
+Attending the Annual Meeting
+You are entitled to attend the Annual Meeting only if you were an AutoNation stockholder as of the record date or you hold a valid proxy for the Annual Meeting. You may be asked to present valid photo identification and proof of stock ownership as of the record date to be admitted to the Annual Meeting. Directions to the Annual Meeting are provided under "Directions to the 2019 Annual Meeting of Stockholders of AutoNation, Inc." Table of Contents
+BOARD OF DIRECTORS AND CORPORATE GOVERNANCE
+Directors
+The Board has nominated the nine persons listed below to stand for election for a term expiring at the 2020 Annual Meeting of Stockholders or until their successors are duly elected and qualified. See "Items To Be Voted On - Proposal 1: Election of Directors." Tomago Collins, Kaveh Khosrowshahi, and Alison H. Rosenthal will not be seeking re-election to the Board at the Annual Meeting, when their current term is scheduled to expire. 
+Except for Thomas J. Baltimore, Jr., Steven L. Gerard, and Carl C. Liebert III, all of our director nominees were elected by our stockholders at our 2018 Annual Meeting of Stockholders. Rick L. Burdick, our Lead Independent Director and Chair of our Corporate Governance and Nominating Committee, suggested Messrs. Baltimore and Gerard as director nominees. The Board appointed Mr. Liebert as our Chief Executive Officer and President, and as a member of our Board, effective as of March 11, 2019. In accordance with the terms of his employment agreement with the Company, Mr. Jackson will become our Executive Chairman (including Chairman of the Board) until December 31, 2021, and he will no longer serve as our Chief Executive Officer and President, effective as of March 11, 2019.
+Our Board nominees consist of a diverse group of leaders. Many of them have experience serving as executive officers or on boards and board committees of major companies. Many of them also have extensive corporate finance and investment banking experience as well as a broad understanding of capital markets. 
+We have set forth below information regarding each person nominated to stand for election, including the specific experience, qualifications, attributes, or skills that led the Board to conclude that such person should serve as a director. Our Corporate Governance and Nominating Committee and the Board believe that the experience, qualifications, attributes, and skills of our Board nominees provide the Company with the ability to address the evolving needs of the Company and represent the best interests of our stockholders.
+Mike Jackson, age 70, has served as our Chief Executive Officer and Director since September 1999, as our Chairman of the Board since January 2003, and as our President since June 2017. He also served as our President from February 2015 until January 2017. From October 1998 until September 1999, Mr. Jackson served as Chief Executive Officer of Mercedes-Benz USA, LLC, a North American operating unit of DaimlerChrysler AG, a multinational automotive manufacturing company. From April 1997 until September 1999, Mr. Jackson also served as President of Mercedes-Benz USA. From July 1990 until March 1997, Mr. Jackson served in various capacities at Mercedes-Benz USA, including as Executive Vice President immediately prior to his appointment as President of Mercedes-Benz USA. Mr. Jackson was also the managing partner from March 1979 to July 1990 of Euro Motorcars of Bethesda, Maryland, a regional group that owned and operated 11 automotive dealership franchises, including Mercedes-Benz and other brands of automobiles. From January 2018 until December 2018, Mr. Jackson served as Chair, and from January 2015 until December 2017 as Deputy Chair, of the Board of Directors of the Federal Reserve Bank of Atlanta. He was appointed to the Board of Directors of the Federal Reserve Bank of Atlanta in January 2014, after having previously served on the Board of Directors of the Federal Reserve Bank of Atlanta's Miami Branch. Mr. Jackson's automotive experience and his broad knowledge of our Company and the automotive industry led the Board to conclude that he should serve as one of our directors.
+Thomas J. Baltimore, Jr., age 55, has been the Chairman, President and Chief Executive Officer of Park Hotels & Resorts, Inc., an NYSE-listed lodging real estate investment trust, since January 2017. Between May 2016 and January 2017, Mr. Baltimore was the President and Chief Executive Officer of the planned Hilton Real Estate Investment Trust. Previously, he was President and Chief Executive Officer of RLJ Lodging Trust, an NYSE-listed real estate investment company, from May 2011 to May 2016. He served as Co-Founder and President of RLJ Development, LLC, RLJ Lodging's predecessor company, from 2000 to May 2011. He served in various management positions with Hilton Hotels Corporation and Host Marriott Services between 1994 and 2000. Mr. Baltimore also serves as lead independent director of Prudential Financial, Inc. He previously served as a director of Duke Realty Corporation, RLJ Lodging Trust, and Integra Life Sciences. Mr. Baltimore's business operations, corporate governance, and real estate experience led the Board to conclude that he should serve as one of our directors.
+Rick L. Burdick, age 67, has served as one of our directors since May 1991 and as our Lead Independent Director since December 2018. Since 1988, Mr. Burdick has been a partner in Akin, Gump, Strauss, Hauer & Feld, L.L.P., a global full service law firm. Mr. Burdick is managing partner (international) and chair of the global energy practice of the firm. He also serves as Lead Director of CBIZ, Inc. (formerly, Century Business Services, Inc.), a provider of  Table of Contents outsourced business services to small and medium-sized companies in the United States. Mr. Burdick's experience as a senior partner at a large law firm advising large companies on a broad range of corporate transactions and on securities law and corporate governance matters led the Board to conclude that he should serve as one of our directors. 
+David B. Edelson, age 59, has served as one of our directors since July 2008. Mr. Edelson is Senior Vice President and Chief Financial Officer of Loews Corporation, a diversified holding company with subsidiaries in the property-casualty insurance, offshore drilling, natural gas transmission and storage, packaging, and lodging industries. He joined Loews as a Senior Vice President in May 2005 and became its Chief Financial Officer in May 2014. Prior to joining Loews, Mr. Edelson was Executive Vice President & Corporate Treasurer of JPMorgan Chase & Co. He was named Corporate Treasurer in April 2001 and promoted to Executive Vice President in February 2003. Mr. Edelson spent the first 15 years of his career as an investment banker, first with Goldman, Sachs & Co. and subsequently with JPMorgan Chase & Co. Mr. Edelson's experience as a senior executive officer of a large holding company owning a wide range of businesses, as well as his prior experience as an investment banker and corporate treasurer, led the Board to conclude that he should serve as one of our directors.
+Steven L. Gerard, age 73, served as the Chief Executive Officer of CBIZ, Inc., a provider of integrated business services and products, from October 2000 until his retirement in March 2016, and he continues to serve as the Chairman of its Board of Directors, a position he has held since October 2002. Mr. Gerard was Chairman and Chief Executive Officer of Great Point Capital, Inc., a provider of operational and advisory services, from 1997 to October 2000. From 1991 to 1997, he was Chairman and Chief Executive Officer of Triangle Wire & Cable, Inc. and its successor Ocean View Capital, Inc. Mr. Gerard's prior experience includes 16 years with Citibank, N.A. in various senior corporate finance and banking positions. Further, Mr. Gerard served 7 years with the American Stock Exchange, where he last served as Vice President of the Securities Division. Mr. Gerard also serves on the Board of Directors of Lennar Corporation and Las Vegas Sands Corp. He served as a director of Joy Global, Inc. from 2001 until 2017, when it was acquired by Komatsu Mining Corp. Mr. Gerard has been recognized as an NACD Board Leadership Fellow. Mr. Gerard's extensive executive experience and service as a director of other public companies led the Board to conclude that he should serve as one of our directors.
+Robert R. Grusky, age 61, has served as one of our directors since June 2006. In 2000, Mr. Grusky founded Hope Capital Management, LLC, an investment management firm for which he serves as Managing Member. He co-founded New Mountain Capital, LLC, a private and public equity investment management firm, in 2000 and was a Principal, Managing Director and Member of New Mountain Capital from 2000 to 2005 and has been a Senior Advisor since then. From 1998 to 2000, Mr. Grusky served as President of RSL Investments Corporation, the primary investment vehicle for the Hon. Ronald S. Lauder. Prior thereto, Mr. Grusky served in a variety of capacities at Goldman, Sachs & Co. in its Mergers & Acquisitions Department and Principal Investment Area. Mr. Grusky is a director of Strategic Education, Inc., an education services company. Mr. Grusky's board experience and experience in investment management, private equity, and investment banking led the Board to conclude that he should serve as one of our directors.
+Carl C. Liebert III, age 53, has been appointed as our Chief Executive Officer and President, and as a member of our Board, effective as of March 11, 2019. From August 2014 until February 2019, Mr. Liebert served as the Executive Vice President and Chief Operating Officer of United Services Automobile Association ("USAA"), a Fortune 100 financial services company with over 12.8 million members, where he was responsible for USAA's business operations functions, including USAA's Bank, Investment, Life, Property and Casualty, Real Estate Investment Companies, and member contact functions. His responsibilities included delivering an integrated digital experience through USAA's website, tablet, mobile devices, voice, and emerging channels. He joined USAA in May 2013 as President, USAA Capital Corporation. Prior to joining USAA, Mr. Liebert served as the President and Chief Executive Officer of 24-Hour Fitness, overseeing the operations of 415 fitness clubs across the United States and Asia. Mr. Liebert also served as an Executive Vice President for The Home Depot, where he oversaw the sales, strategy, execution, future supply chain, global sourcing strategy, and operations across more than 2,000 international stores, and 250,000 employees. Mr. Liebert also held leadership roles with General Electric and Circuit City. Mr. Liebert is a former U.S. Navy Officer. He graduated from the United States Naval Academy with a Bachelor of Science in Physical Science, and he obtained his MBA from Vanderbilt University, Owen Graduate School of Management. Mr. Liebert's senior executive, leadership, and operational experience, as well as his appointment as our Chief Executive Officer and President led the Board to conclude that he should serve as one of our directors. Table of Contents
+G. Mike Mikan, age 47, has served as one of our directors since March 2013. Since January 2019, Mr. Mikan has served as Vice Chairman and President of Bright Health, Inc., a consumer-focused health insurance and services business. Mr. Mikan served as Chairman and Chief Executive Officer of Shot-Rock Capital, LLC, a private investment capital group, from January 2015 until December 2018. From January 2013 until December 2014, he served as President of ESL Investments, Inc. Mr. Mikan served as the Interim Chief Executive Officer of Best Buy Co., Inc. from April 2012 until September 2012. From November 1998 through February 2012, he served in various executive positions at UnitedHealth Group Incorporated, including as Executive Vice President and Chief Financial Officer and as Chief Executive Officer of UnitedHealth's Optum subsidiary. Mr. Mikan serves as a director of Princeton Private Investments Access Fund and as a Trustee of Ellington Income Opportunities Fund.  Mr. Mikan's operational and public company leadership experience and his broad understanding of capital investment and allocation led the Board to conclude that he should serve as one of our directors.
+Jacqueline A. Travisano, Ed.D., age 49, has served as one of our directors since April 2018. Dr. Travisano is the Executive Vice President for Business and Finance and Chief Operating Officer of the University of Miami, a private research university. From 2011 to 2017, Dr. Travisano served as Executive Vice President and Chief Operating Officer of Nova Southeastern University. Dr. Travisano's senior executive and financial, accounting, and operational experience led the Board to conclude that she should serve as one of our directors.
+Corporate Governance Guidelines and Codes of Ethics 
+Our Board is committed to sound corporate governance principles and practices. Our Board's core principles of corporate governance are set forth in the AutoNation, Inc. Corporate Governance Guidelines (the "Guidelines"), which were adopted by the Board in March 2003 and most recently amended as of February 15, 2019. The Guidelines serve as a framework within which our Board conducts its operations. The Corporate Governance and Nominating Committee of our Board is charged with reviewing annually, or more frequently as appropriate, the Guidelines and recommending to our Board appropriate changes in light of applicable laws and regulations, the governance standards identified by leading governance authorities, and our Company's evolving needs. 
+In order to clearly set forth our commitment to conduct our operations in accordance with our high standards of business ethics and applicable laws and regulations, we have a company-wide Business Ethics Program, which includes a Code of Business Ethics applicable to all of our employees. We also maintain a 24-hour Alert-Line for employees to report any Company policy violations under our Business Ethics Program. In addition, our Board has adopted the Code of Ethics for Senior Officers and the Code of Business Ethics for the Board of Directors. These codes comply with NYSE listing standards. 
+A copy of the Guidelines and the codes referenced above are available on our corporate website at investors.autonation.com. You also may obtain a printed copy of the Guidelines and the codes referenced above by sending a written request to: Investor Relations, AutoNation, Inc., 200 SW 1st Ave, Fort Lauderdale, FL 33301. 
+Corporate Governance Highlights
+[BEGIN TABLE]
+• Independent Board Chairman. In February 2019, the Board amended our Guidelines to provide that, effective upon termination of Mr. Jackson's employment agreement, the general policy of the Board shall be that the Chairman of the Board should be an independent director. In addition, the Board has appointed Carl C. Liebert III to serve as our Chief Executive Officer and President and Mike Jackson to serve as our Executive Chairman (including Chairman of the Board) of the Board, effective as of March 11, 2019. Consistent with our Guidelines, the Board will continue to elect a Lead Independent Director until an independent Chairman of the Board is elected. See "Role of the Board and Board Structure" below. 
+• Proxy Access. Our bylaws permit a stockholder, or a group of up to 20 stockholders, who has owned 3% or more of our common stock for at least three years to nominate and include in our proxy materials director candidates representing up to the greater of two individuals or 20% of the Board, provided the stockholder(s) and the nominee(s) satisfy the requirements and conditions specified in our bylaws. See "Stockholder Proposals and Nominations for the 2020 Annual Meeting" below. 
+[END TABLE]
+ Table of Contents
+[BEGIN TABLE]
+• Majority Voting with Resignation Policy for Uncontested Director Elections. Our Guidelines provide that an incumbent director who fails to receive a majority vote in an uncontested election shall tender his or her written resignation to the Chairman of the Board for consideration by the Corporate Governance and Nominating Committee. 
+• Recoupment Policy. In February 2015, the Board adopted the AutoNation, Inc. Policy Regarding Recoupment of Certain Incentive Compensation. Under the policy, if a covered officer engages in fraud, intentional misconduct, or gross negligence, and as a result, we are required to restate our financial statements due to material noncompliance with any financial reporting requirement, then we may require reimbursement or forfeiture of all or a portion of any excess incentive compensation paid to or received by such officer, during the three-year period preceding the date on which we are required to prepare the restatement, that would not have been paid or received under the specific terms of the applicable incentive award had the financial results been originally reported as set forth in the restatement. See "Compensation Discussion and Analysis - Policy Regarding Recoupment of Certain Incentive Compensation" below. 
+• Stock Ownership Guidelines; Holding Requirement. Our non-employee directors and executive officers are subject to robust stock ownership guidelines. In January 2017, the Board amended our executive stock ownership guidelines to provide that a covered executive is expected to retain 50% of any shares of our common stock, net of applicable tax withholding and the payment of any exercise or purchase price (if applicable), he or she receives upon the vesting or settlement of any equity awards or the exercise of any employee stock options, until the applicable threshold under the guidelines is met. See "Board Compensation - Director Stock Ownership Guidelines" and "Compensation Discussion and Analysis - Executive Stock Ownership Guidelines" below. 
+[END TABLE]
+Role of the Board and Board Structure 
+Our business and affairs are managed under the direction of our Board, which is the Company's ultimate decision-making body, except with respect to those matters reserved to our stockholders. Our Board's mission is to maximize long-term stockholder value. Our Board establishes our overall corporate policies, selects and evaluates our senior management team, who is charged with the conduct of our business, and acts as an advisor and counselor to senior management. Our Board also oversees our business strategy and planning, as well as the performance of management in executing our business strategy, assessing and managing risks, and managing our day-to-day operations. Our Board reviews and approves the Company's long-term strategic plan developed by management. Our Board also reviews management's ongoing and long-term plans for capital allocation.
+Our Board's oversight of our business strategy and planning and management of our day-to-day operations includes a review of risks that could impact our goals, objectives, and financial condition. In addition, our Audit, Compensation, Corporate Governance and Nominating, Finance, and Technology committees assist the Board in overseeing our management of risk. Our Audit Committee reviews with management significant risks related to financial reporting and internal controls, as well as our process for assessing and managing risks. Our Compensation Committee reviews and approves our executive compensation program and also reviews the general compensation structure for our corporate and key field employees. Our Corporate Governance and Nominating Committee oversees our company-wide Business Ethics Program, which includes a Code of Business Ethics applicable to all of our employees. Our Finance Committee is responsible for reviewing and making recommendations to the Board with respect to our capital structure and our capital allocation strategy, as well as financial risk management strategies and policies. Our Technology Committee reviews with management our technology strategies and related risks. While our Board oversees our management of risk as outlined above, management is responsible for identifying and managing risks. 
+The positions of Chairman of the Board and Chief Executive Officer are both currently held by Mike Jackson. The Board believes that this leadership structure has worked well for several reasons, among them:
+[BEGIN TABLE]
+• Our Guidelines provide for the selection of a Lead Independent Director whenever the Chairman of the Board is not an independent director. 
+• We have a super-majority of independent directors and our Guidelines require that the Board include at least a majority of independent directors. Our independent directors meet in regularly scheduled executive sessions led by our Lead Independent Director without management present.  
+[END TABLE]
+ Table of Contents
+[BEGIN TABLE]
+• Our Board has five standing committees: Audit, Compensation, Corporate Governance and Nominating, Finance, and Technology. Each of the Board committees is comprised solely of independent directors and has a separate chair. Our committees also meet in regularly scheduled executive sessions without management present. 
+• Our Board is stockholder-oriented and focused on the best interests of our stockholders, a significant portion of our director's compensation is equity-based, and the Board has established strong director stock ownership guidelines requiring each non-employee director to hold shares of our common stock having a fair market value of not less than $750,000 as discussed below under "Board Compensation." 
+• Our Board has adopted strong and effective corporate governance policies and procedures to promote the effective and independent governance of the Company. See "Corporate Governance Guidelines and Codes of Ethics" and "Corporate Governance Highlights" above. 
+[END TABLE]
+We believe that the current leadership structure of the Board supports its risk oversight functions by providing independent leadership at the committee level, executive sessions of the independent directors, and ultimate oversight by the full Board.
+In February 2019, the Board amended our Guidelines to provide that, effective upon termination of Mr. Jackson's employment agreement, the general policy of the Board shall be that the Chairman of the Board should be an independent director. In addition, the Board has determined to separate the positions of Chief Executive Officer and Chairman of the Board. Effective as of March 11, 2019, Carl C. Liebert III will serve as our Chief Executive Officer and President, and Mike Jackson will serve as our Executive Chairman. 
+In December 2018, our Board elected Mr. Burdick to serve as our Lead Independent Director in accordance with our Guidelines. The Lead Independent Director's duties include:
+[BEGIN TABLE]
+• calling and presiding at executive sessions of the non-management directors and at meetings of the Board at which the Chairman is not present, and communicating feedback from such sessions and meetings to the Chairman and the Chief Executive Officer;  
+• serving as a liaison between the non-management directors, the Chairman and the Chief Executive Officer, and/or senior management (as applicable);  
+• reviewing and advising on Board meeting agendas, schedules, and materials;  
+• working with the Chairman and the Chief Executive Officer to approve the scope, quality, quantity, and timeliness of information sent to the Board;  
+• being available for communication with major stockholders, in coordination with the Chairman and the Chief Executive Officer; and  
+• performing such other duties as the Board may from time to time delegate.  
+[END TABLE]
+In performing the duties described above, the Lead Independent Director is expected to consult with the chairs of the appropriate Board committees and solicit their participation in order to avoid diluting the authority or responsibilities of such committee chairs. 
+Our Board held thirteen meetings and took no action by unanimous written consent during 2018. In 2018, each person serving as a director attended at least 75% of the total number of meetings of our Board and any Board committee on which he or she served (held during the period for which such person has been a director). Our independent directors held four executive sessions without management present during 2018. 
+Our directors are expected to attend our Annual Meeting of Stockholders. Any director who is unable to attend our Annual Meeting is expected to notify the Chairman of the Board in advance of the Annual Meeting. Each person then serving as a director (other than Karen C. Francis who did not stand for re-election) attended the 2018 Annual Meeting of Stockholders. Table of Contents
+Board Committees 
+Our Board has established five separately designated standing committees to assist the Board in discharging its responsibilities: the Audit Committee, the Compensation Committee, the Corporate Governance and Nominating Committee, the Finance Committee, and the Technology Committee. The charters for our Board committees are in compliance with applicable SEC rules and NYSE listing standards. These charters are available at investors.autonation.com. You may obtain a printed copy of any of these charters by sending a request to: Investor Relations, AutoNation, Inc., 200 SW 1st Ave, Fort Lauderdale, FL 33301. 
+The following table sets forth the current membership of each of our Board's committees:  
+[BEGIN TABLE]
+Name Audit Committee Compensation Committee Corporate Governance and Nominating CommitteeFinance CommitteeTechnology Committee 
+Name Audit Committee Compensation Committee Corporate Governance and Nominating CommitteeFinance CommitteeTechnology Committee 
+Rick L. Burdick*   ü Chair     
+Tomago Collins ü       ü 
+David B. Edelson ü     ü   
+Robert R. Grusky Chair         
+Kaveh Khosrowshahi       ü ü 
+G. Mike Mikan   Chair ü Chair   
+Alison H. Rosenthal     ü   Chair 
+Jacqueline A. Travisano ü       ü 
+[END TABLE]
+The Audit Committee primarily assists our Board in fulfilling its oversight responsibilities by reviewing our financial reporting and audit processes and our systems of internal control over financial reporting and disclosure controls. Among the Committee's core responsibilities are the following: (i) overseeing the integrity of our consolidated financial statements, for which management is responsible, and reviewing and approving the scope of the annual audit; (ii) selecting, retaining, compensating, overseeing, and evaluating our independent registered public accounting firm; (iii) reviewing the Company's critical accounting policies; (iv) reviewing the Company's quarterly and annual financial statements prior to the filing of such statements with the SEC; (v) preparing the Audit Committee report for inclusion in our proxy statement; and (vi) reviewing with management significant financial risks or exposures and assessing the steps management has taken to minimize, monitor, and control such risks or exposures. For a complete description of our Audit Committee's responsibilities, please refer to the Audit Committee's charter. 
+Our Board has determined that each Audit Committee member has the requisite independence and other qualifications for audit committee membership under SEC rules, NYSE listing standards, the Audit Committee's charter, and the independence standards set forth in the Guidelines (as discussed below under "Director Independence"). Our Board has also determined that each of Mr. Grusky and Mr. Edelson is an "audit committee financial expert" within the meaning of Item 407(d)(5) of Regulation S-K under the Securities Exchange Act of 1934, as amended (the "Exchange Act"). See "Directors" above for a description of the business experience of each of Mr. Grusky and Mr. Edelson. 
+The Audit Committee held six meetings and took no action by unanimous written consent during 2018. The Audit Committee Report for 2018, which contains a description of the Audit Committee's responsibilities and its recommendation with respect to our audited consolidated financial statements for the year ended December 31, 2018, is set forth below under "Audit Committee Report." 
+Compensation Committee 
+The Compensation Committee primarily assists our Board in fulfilling its compensation oversight responsibilities by, among other things: (i) reviewing our director compensation program and suggesting changes in director compensation to the Board, if appropriate; (ii) reviewing and approving the compensation of our CEO and other senior executive officers and setting annual and long-term performance goals for these individuals; (iii) reviewing and approving the compensation of all of our corporate officers; (iv) reviewing the Company's program for management  Table of Contents development and succession planning; (v) reviewing and approving performance-based compensation of executive officers, including incentive awards and stock-based awards; and (vi) administering our equity compensation plans. 
+Pursuant to the Compensation Committee's charter, the Compensation Committee may form subcommittees and may delegate to such subcommittees any or all power and authority of the Compensation Committee as the Compensation Committee deems appropriate, provided that no subcommittee may consist of fewer than two members, and provided further that the Compensation Committee may not delegate to a subcommittee any power or authority required by any applicable laws, regulations, or listing standards to be exercised by the Compensation Committee as a whole.
+ The Compensation Committee reviews executive compensation at its meetings throughout the year and sets executive compensation. The Compensation Committee also reviews director compensation annually and recommends to the full Board the compensation for non-employee directors. Our CEO reviews the performance of other named executive officers and makes recommendations, if any, to the Compensation Committee with respect to compensation adjustments for such officers. However, the Compensation Committee determines in its sole discretion whether to make any adjustments to the compensation paid to such executive officers. 
+Since 2013, the Compensation Committee has engaged Pearl Meyer ("PM"), an independent compensation consulting firm, to provide research and analysis and to make recommendations as to the form and amount of executive and director compensation. The Compensation Committee sought input from PM on executive and director compensation matters for 2018, including the design and competitive positioning of our executive and director compensation programs, our peer group, appropriate compensation levels, and evolving compensation trends. While the Compensation Committee considered input from PM, the Compensation Committee's decisions reflect many factors and considerations. 
+PM does not provide any other services to the Company or its subsidiaries. The Compensation Committee assessed the independence of PM pursuant to SEC and NYSE rules and concluded that no conflict of interest exists that would prevent PM from serving as an independent consultant to the Compensation Committee. The Compensation Committee reviews the appointment of its independent compensation consulting firm annually. As part of the review process, the Compensation Committee considers the independence of the firm in accordance with applicable SEC rules and NYSE listing standards.
+For more information on the responsibilities and activities of the Compensation Committee, including the Committee's processes for determining executive compensation, see "Executive Compensation" below, as well as the Compensation Committee's charter. 
+Our Board has determined that each Compensation Committee member has the requisite independence for Compensation Committee membership under NYSE listing standards and the independence standards set forth in the Guidelines. Our Board has also determined that each Compensation Committee member qualifies as a "non-employee director" within the meaning of Rule 16b-3 under the Exchange Act and as an "outside director" under Section 162(m) of the Code. The Compensation Committee held four meetings and took one action by unanimous written consent during 2018. 
+Corporate Governance and Nominating Committee 
+The Corporate Governance and Nominating Committee assists our Board in fulfilling its oversight responsibilities by performing the following duties: (i) reviewing annually, or more frequently as appropriate, the corporate governance principles and practices set forth in the Guidelines, in comparison to the governance standards identified by leading governance authorities and our evolving needs, and making recommendations to the Board with respect to any appropriate amendment to the Guidelines; (ii) considering and advising the Board with respect to other corporate governance issues; (iii) periodically reviewing our codes of ethics and conduct for directors, officers, and employees;  (iv) leading annual evaluations of Board and Board committee performance; (v) assessing periodically our Board's needs in terms of skills and qualifications and recommending to our Board candidates for nomination and election to our Board; (vi) reviewing Board candidates recommended by our stockholders; and (vii) recommending to our Board assignments to committees.  Table of Contents
+Our Board has determined that each Corporate Governance and Nominating Committee member is independent under NYSE listing standards and the independence standards set forth in the Guidelines. In 2018, the Corporate Governance and Nominating Committee held four meetings and took no action by unanimous written consent. 
+The Corporate Governance and Nominating Committee has a policy with regard to the consideration of director candidates recommended by stockholders. For information regarding this policy, refer to "Stockholder Communications - Stockholder Director Recommendations" below.
+Finance Committee
+The duties and responsibilities of the Finance Committee include reviewing and, where appropriate, making recommendations to the Board with respect to: (i) the Company's capital structure and any material changes thereto, including potential issuances of debt or equity securities; (ii) the Company's capital allocation strategy, processes and plans, including the Company's cost of capital; (iii) share repurchase programs and debt repurchases; (iv) financial risk management strategies and policies, including hedging and the use of derivatives; and (v) the Company's short-term investment policy.
+Our Board has determined that each Finance Committee member is independent under NYSE listing standards and the independence standards set forth in the Guidelines. In 2018, the Finance Committee held five meetings and took no action by unanimous written consent. 
+Technology Committee
+The duties and responsibilities of the Technology Committee include reviewing and, where appropriate, making recommendations to the Board with respect to: (i) the financial, strategic, and operational benefits of proposed technology-related projects, (ii) our technology strategies, including our existing capabilities, infrastructure, and systems, (iii) the quality and effectiveness of our technology security systems, and (iv) existing trends in information technology and new technologies, applications, and systems. 
+Our Board has determined that each Technology Committee member is independent under NYSE listing standards and the independence standards set forth in the Guidelines. The Technology Committee held five meetings and took no action by unanimous written consent during 2018.
+Director Independence 
+Under our Guidelines, our Board must consist of a substantial majority of directors who qualify as independent directors under the listing standards of the NYSE. To be considered independent: 
+[BEGIN TABLE]
+• our Board must affirmatively determine that a director has no material relationship with the Company (either directly or as a partner, stockholder, or officer of an organization that has a relationship with the Company); and 
+• a director must not have a disqualifying relationship, as set forth in the NYSE listing standards. 
+[END TABLE]
+To assist the Board in determining whether a director is independent, our Board has established director independence standards, which are part of our Guidelines available at investors.autonation.com. Under our director independence standards, none of our non-employee directors or director nominees has a material relationship with the Company that impairs his or her independence, and our Board has affirmatively determined that all of our directors and director nominees, except for Mr. Jackson, our current Chairman, Chief Executive Officer and President, and Mr. Liebert, who has been appointed as our Chief Executive Officer and President (effective as of March 11, 2019), are "independent" under our director independence standards and the listing standards of the NYSE. 
+In addition to our independence standards, the directors who serve on our Audit Committee each satisfy standards established by the SEC providing that to qualify as "independent" for the purposes of membership on that committee, members of audit committees may not:
+[BEGIN TABLE]
+• accept directly or indirectly any consulting, advisory, or other compensatory fee from the Company or any of its subsidiaries other than their director compensation, or  
+• be an affiliated person of the Company or any of its subsidiaries.  
+[END TABLE]
+ Table of Contents
+In accordance with the listing standards of the NYSE, in affirmatively determining the independence of each director who serves on our Compensation Committee, our Board also considered all factors specifically relevant to determining whether each such director has a relationship to the Company which is material to his or her ability to be independent from management in connection with the duties of a compensation committee member, including, but not limited to:
+[BEGIN TABLE]
+• the source of compensation of each such director, including any consulting, advisory, or other compensatory fee paid by the Company to him or her, and  
+• whether he or she is affiliated with the Company, a subsidiary of the Company, or an affiliate of a subsidiary of the Company. 
+[END TABLE]
+Director Selection Process 
+The Corporate Governance and Nominating Committee is responsible for identifying, evaluating, and recommending candidates to the Board for nomination and election to the Board. The Committee is also responsible for assessing the appropriate balance of skills and characteristics required of our Board members. The Committee considers candidates suggested by its members and other Board members, as well as management and stockholders. 
+ In accordance with the Guidelines, candidates, including candidates recommended by stockholders, are selected on the basis of, among other things, broad experience, financial expertise, wisdom, integrity, ability to make independent analytical inquiries, understanding of our business environment, the candidate's ownership interest in the Company, and willingness and ability to devote adequate time to Board duties, all in the context of assessing the needs of our Board at that point in time and with the objective of ensuring diversity in the background, experience, and viewpoints of our Board members. The Guidelines provide that the number of directors should permit diversity of experience without hindering effective discussion, diminishing individual accountability, or exceeding a number that can function efficiently as a body. 
+The Board periodically reviews the size of the Board to determine the size that will be most effective for the Company. In addition, the Board completes an annual self-evaluation, which includes a self-assessment questionnaire for each Board member. The self-assessment questionnaire addresses topics such as the structure of the Board, the skills and backgrounds of the current directors, the size of the Board, and the Board's committee structure. Each of the Audit, Compensation, Corporate Governance and Nominating, Finance, and Technology committees also completes an annual self-evaluation, which includes a self-assessment questionnaire tailored specifically for each committee. 
+Candidates recommended by our stockholders are considered on the same basis as if such candidates were recommended by one of our Board members or other persons. See "Stockholder Communications - Stockholder Director Recommendations" below. 
+Certain Relationships and Related Party Transactions
+Our Board has adopted a written policy which requires that transactions with related parties must be entered into in good faith on fair and reasonable terms that are no less favorable to us than those that would be available in a comparable transaction in arm's-length dealings with an unrelated third party. Our Board, by a vote of the disinterested directors, must approve all related party transactions valued over $500,000, while our Audit Committee must approve all related party transactions valued between $100,000 and $500,000 and review with management all other related party transactions. Under SEC rules, a related party is defined as any director, executive officer, nominee for director, or greater than 5% stockholder of the Company, and their immediate family members. Since the beginning of 2018, the Company has not participated in any related party transaction in which any related party had or will have a direct or indirect material interest.
+Board Compensation 
+Our non-employee director compensation program is designed to:  
+[BEGIN TABLE]
+• ensure alignment with long-term stockholder interests; 
+• ensure we can attract and retain outstanding directors who meet the criteria outlined under "Director Selection Process" above; and 
+• recognize the time commitments necessary to oversee the Company. 
+[END TABLE]
+ Table of Contents
+Summary 
+For 2018, our non-employee director compensation program consisted of the following:  
+[BEGIN TABLE]
+• annual Board retainer of $50,000 for each non-employee director; 
+• annual retainer of $25,000 for the Lead Independent Director; 
+• annual committee retainers of $20,000 for the Chair of the Audit Committee and $10,000 for the Chair of each of the Compensation, Corporate Governance and Nominating, Finance, and Technology Committees; 
+• annual award of restricted stock units based on a fixed dollar value of $250,000 as described further below; and 
+• expense reimbursement in connection with Board and committee meeting attendance. 
+[END TABLE]
+On January 2, 2018, each of our non-employee directors received a grant of 4,764 (calculated by dividing $250,000 by the closing price of our common stock on the grant date and rounding down to the nearest whole number) vested restricted stock units ("RSUs") under the AutoNation, Inc. 2014 Non-Employee Director Equity Plan (as amended, the "2014 Director Plan"), which was approved by our stockholders at our 2014 Annual Meeting of Stockholders. The RSUs will settle in shares of the Company's common stock on the first trading day of February in the third year following the date of grant, except to the extent a recipient elected to defer settlement of the RSUs beyond such date in accordance with the terms of the award and the 2014 Director Plan. Settlement of the RSUs will be accelerated in certain circumstances as provided in the terms of the award and the 2014 Director Plan, including in the event the recipient ceases to serve as a non-employee director of the Company. If the Company pays a dividend with respect to its common stock, each RSU award will be credited with a number of additional RSUs equal to (i) the aggregate amount or value of the dividends paid with respect to the number of shares subject to the award on the dividend record date divided by (ii) the fair market value per share on the payment date for such dividend. Any such additional RSUs will be subject to the same terms and conditions of the award, and the shares subject to such additional RSUs will be distributed only upon the distribution of the underlying shares with respect to which the dividend equivalents were granted. 
+Our non-employee directors became eligible to defer all or a portion of their annual and committee retainers under the AutoNation, Inc. Deferred Compensation Plan (the "DCP") beginning in January 2011. Please refer to "Executive Compensation - Compensation Tables - Non-Qualified Deferred Compensation in Fiscal 2018" for additional information regarding the DCP.
+2018 Director Compensation 
+The following table sets forth the compensation earned during 2018 by each non-employee director who served in 2018.
+[BEGIN TABLE]
+2018 DIRECTOR COMPENSATION 
+Name Fees Earned or Paid in Cash ($)Stock Awards ($)(1)Total ($)
+Name Fees Earned or Paid in Cash ($)Stock Awards ($)(1)Total ($)
+Rick L. Burdick 60,000 (2) 249,967   309,967   
+Tomago Collins 50,000   249,967   299,967   
+David B. Edelson 50,000 (2) 249,967   299,967   
+Karen C. Francis 16,667 (3) 249,967   266,634   
+Robert R. Grusky 70,000 (2) 249,967   319,967   
+Kaveh Khosrowshahi 50,000 (2) 249,967   299,967   
+Michael Larson 85,000   249,967   334,967   
+G. Mike Mikan 60,000   249,967   309,967   
+Alison H. Rosenthal 60,000 (2) 249,967   309,967   
+Jacqueline A. Travisano 37,500 (4) —   37,500   
+[END TABLE]
+ Table of Contents
+[BEGIN TABLE]
+(1) The amounts reported in this column reflect the grant date fair value of awards computed in accordance with FASB ASC Topic 718. On January 2, 2018, each non-employee director received a grant of 4,764 vested RSUs under the 2014 Director Plan. The grant date fair value of each RSU granted on January 2, 2018 was $52.47, the closing price per share of our common stock on such date. 
+(2) Amount deferred under the DCP.  
+(3) Ms. Francis did not stand for re-election to the Board at the 2018 Annual Meeting of Stockholders, and her Board retainer was pro-rated accordingly. 
+(4) Ms. Travisano joined the Board in April 2018, and her Board retainer was prorated accordingly. Since she was not serving as a director on January 2, 2018, Ms. Travisano was not eligible for an RSU award in 2018. 
+[END TABLE]
+Outstanding Equity Awards
+The following table sets forth information regarding the number of RSUs and the number of options held by each non-employee director who served in 2018, as of December 31, 2018:
+[BEGIN TABLE]
+  Name Aggregate Number of RSUs Held as of 12/31/2018Aggregate Number of Options Held as of 12/31/2018 
+  Name Aggregate Number of RSUs Held as of 12/31/2018Aggregate Number of Options Held as of 12/31/2018 
+  Rick L. Burdick 19,096   60,000   
+  Tomago Collins 19,096   —   
+  David B. Edelson 21,596   80,000   
+  Karen C. Francis —   —   
+  Robert R. Grusky 19,596   82,500   
+  Kaveh Khosrowshahi 14,096   —   
+  Michael Larson 14,096   110,000   
+  G. Mike Mikan 19,096   15,000   
+  Alison H. Rosenthal 21,596   55,000   
+  Jacqueline A. Travisano —   —   
+Name Number of  Shares HeldFair Market Value of Shares Held ($)(1)Progress Towards Stock Ownership Guidelines(2) 
+Name Number of  Shares HeldFair Market Value of Shares Held ($)(1)Progress Towards Stock Ownership Guidelines(2) 
+Rick L. Burdick 45,520   1,780,287   Achieved   
+Tomago Collins 26,030   1,018,033   Achieved   
+David B. Edelson 35,880   1,403,267   Achieved   
+Robert R. Grusky 39,611   1,549,186   Achieved   
+Kaveh Khosrowshahi 21,030   822,483   Achieved   
+G. Mike Mikan 35,530   1,389,578   Achieved   
+Alison H. Rosenthal 31,030   1,213,583   Achieved   
+Jacqueline A. Travisano 6,934   271,189   36% 
+(1)  The fair market value of the shares is based on the closing price of our common stock on February 20, 2019 ($39.11).  
+[END TABLE]
+ Table of Contents
+[BEGIN TABLE]
+(2) In the event that a director meets the threshold and subsequently the fair market value of such director's holdings falls below the threshold solely due to a decline in our stock price, such director shall be deemed to remain in compliance with the guidelines so long as such director does not sell or transfer any shares at any time the fair market value of his or her holdings is at or below the threshold. 
+[END TABLE]
+Stockholder Communications 
+Communications with the Company and the Board 
+Stockholders and interested parties may communicate with the Company through its Investor Relations Department by writing to Investor Relations, AutoNation, Inc., 200 SW 1st Ave, Fort Lauderdale, FL 33301. Stockholders and interested parties interested in communicating with our Board, any Board committee, any individual director, any group of directors (such as our independent directors), or our Lead Independent Director should send written correspondence to Board of Directors c/o Corporate Secretary, AutoNation, Inc., 200 SW 1st Ave, Fort Lauderdale, FL 33301. Additional information is available on our corporate website at investors.autonation.com. 
+Stockholder Director Recommendations
+The Corporate Governance and Nominating Committee has established a policy pursuant to which it considers director candidates recommended by our stockholders. All director candidates recommended by our stockholders are considered for selection to the Board on the same basis as if such candidates were recommended by one or more of our directors or other persons. To recommend a director candidate for consideration by our Corporate Governance and Nominating Committee, a stockholder must submit the recommendation in writing to our Corporate Secretary not later than 120 calendar days prior to the anniversary date of our proxy statement distributed to our stockholders in connection with our previous year's annual meeting of stockholders, and the recommendation must provide the following information: (i) the name of the stockholder making the recommendation; (ii) the name of the candidate; (iii) the candidate's resume or a listing of his or her qualifications to be a director; (iv) the proposed candidate's written consent to being named as a nominee and to serving as one of our directors if elected; and (v) a description of all relationships, arrangements, or understandings, if any, between the proposed candidate and the recommending stockholder and between the proposed candidate and us so that the candidate's independence may be assessed. The stockholder or the director candidate also must provide any additional information requested by our Corporate Governance and Nominating Committee to assist the Committee in appropriately evaluating the candidate.
+Stockholder Proposals and Nominations for the 2020 Annual Meeting
+Proposals for Inclusion in our Proxy Materials
+Under SEC rules, if a stockholder wishes to submit a proposal for inclusion in our Proxy Statement for the 2020 Annual Meeting of Stockholders, the proposal must be received by our Corporate Secretary not later than November 7, 2019. All proposals must comply with Rule 14a-8 under the Exchange Act.  
+Nominations for Inclusion in our Proxy Materials (Proxy Access)
+Under our proxy access bylaw, a stockholder (or a group of up to 20 stockholders) owning three percent or more of our common stock continuously for at least three years may nominate and include in our proxy statement candidates for up to 20% of our Board (rounded down, but not less than two). Nominations must comply with the requirements and conditions of our proxy access bylaw, including delivering proper notice to us not earlier than October 8, 2019 nor later than November 7, 2019. Detailed information for submitting proxy access nominations will be provided upon written request to the Corporate Secretary of AutoNation, Inc., 200 SW 1st Ave, Fort Lauderdale, FL 33301.
+Other Proposals and Nominations
+Any stockholder who wishes to make a nomination or introduce an item of business, other than as described above, must comply with the procedures set forth in our bylaws, including delivering proper notice to us not less than 90 days nor more than 120 days prior to the first anniversary of the preceding year's Annual Meeting, which means not earlier than December 20, 2019 nor later than January 19, 2020. Detailed information for submitting stockholder proposals or nominations, other than for inclusion in our proxy statement, will be provided upon written request to the Corporate Secretary of AutoNation, Inc., 200 SW 1st Ave, Fort Lauderdale, FL 33301. Table of Contents
+STOCK OWNERSHIP 
+SECURITY OWNERSHIP OF CERTAIN BENEFICIAL OWNERS 
+The following table sets forth certain information as of February 20, 2019 regarding beneficial owners of more than five percent of the outstanding shares of our common stock.
+[BEGIN TABLE]
+Name and Address of Beneficial Owner Number of Shares Beneficially Owned Percent of Class(1)
+Name and Address of Beneficial Owner Number of Shares Beneficially Owned Percent of Class(1)
+William H. Gates III One Microsoft Way, Redmond, WA 9805220,329,879 (2) 22.6% 
+ESL Investments, Inc. and related entities(3) 1170 Kane Concourse, Suite 200, Bay Harbor, FL 3315415,316,425 (4) 17.0% 
+The Vanguard Group 100 Vanguard Blvd., Malvern, PA 193555,366,372 (5) 6.0% 
+The Vanguard Group 100 Vanguard Blvd., Malvern, PA 193555,366,372 (5) 6.0% 
+BlackRock, Inc. 55 East 52nd Street, New York, NY 100555,318,363 (6) 5.9% 
+Victory Capital Management Inc. 4900 Tiedeman Rd. 4th Floor, Brooklyn, OH 441445,310,429 (7) 5.9% 
+Artisan Partners Limited Partnership and related entities(8) 875 East Wisconsin Avenue, Suite 800, Milwaukee, WI 532024,964,899 (9) 5.5% 
+(1) Based on 90,058,836 shares outstanding at February 20, 2019. 
+(2) Based on a Schedule 13D/A filed with the SEC on December 17, 2018, the number of shares beneficially owned by Mr. Gates as of February 20, 2019 includes 18,431,162 shares held by Cascade Investment, L.L.C. ("Cascade") and 1,898,717 shares held by the Bill & Melinda Gates Foundation Trust (the "Trust"). All shares of our common stock held by Cascade may be deemed to be beneficially owned by Mr. Gates as the sole member of Cascade, and all shares of our common stock beneficially owned by the Trust may be deemed to be beneficially owned by Mr. Gates as a co-trustee of the Trust. Mr. Gates has sole voting power with respect to 18,431,162 shares and shared voting power with respect to 1,898,717 shares. The address of Cascade is 2365 Carillon Point, Kirkland, WA 98033, and the address of the Trust is 500 Fifth Avenue North, Seattle, WA 98119. 
+(3) Includes ESL Partners, L.P. ("Partners"), RBS Partners, L.P. ("RBS"), ESL Investments, Inc. ("Investments"), The Lampert Foundation (the "Foundation"), and Edward S. Lampert. Partners, RBS, Investments, the Foundation, and Mr. Lampert are collectively referred to as the "ESL Entities." 
+(4) Based on a Schedule 13D/A filed with the SEC on December 11, 2017 and a Form 4 filed with SEC on May 9, 2018, the total number of AutoNation shares beneficially owned by the ESL Entities consists of 3,613,023 shares held by Partners, 212,821 shares held by the Foundation, and 11,490,581 shares held by Mr. Lampert. Each of Partners, RBS, and Investments has sole voting and dispositive power with respect to 3,613,023 shares and shared dispositive power with respect to 11,490,581 shares; the Foundation has sole voting and dispositive power with respect to 212,821 shares; and Mr. Lampert has sole voting power with respect to 15,316,425 shares, sole dispositive power with respect to 3,825,844 shares, and shared dispositive power with respect to 11,490,581 shares. 
+(5) Based on a Schedule 13G/A filed with the SEC on February 11, 2019, The Vanguard Group has sole voting power with respect to 27,625 shares, shared voting power with respect to 8,024 shares, sole dispositive power with respect to 5,336,199 shares, and shared dispositive power with respect to 30,173 shares. 
+(6) Based on a Schedule 13G filed with the SEC on February 4, 2019, BlackRock, Inc. has sole voting power with respect to 5,032,297 shares and sole dispositive power with respect to 5,318,363 shares. 
+(7) Based on a Schedule 13G filed with the SEC on February 1, 2019, Victory Capital Management Inc. has sole voting power with respect to 5,090,754 shares and sole dispositive power with respect to 5,310,429 shares. 
+(8) Includes Artisan Partners Limited Partnership ("APLP"), Artisan Investments GP LLC ("Artisan Investments"), Artisan Partners Holdings LP ("Artisan Holdings"), and Artisan Partners Asset Management Inc. ("APAM"). APLP, Artisan Investments, Artisan Holdings, and APAM are collectively referred to as the "Artisan Entities." 
+[END TABLE]
+ Table of Contents
+[BEGIN TABLE]
+(9) Based on a Schedule 13G/A filed with the SEC on February 7, 2019, each of the Artisan Entities has shared voting power with respect to 4,643,728 shares and shared dispositive power with respect to 4,964,899 shares.  
+[END TABLE]
+SECURITY OWNERSHIP OF MANAGEMENT
+The following table sets forth certain information as of February 20, 2019 regarding the amount of our common stock beneficially owned by (1) each of our directors and Board nominees, (2) each of our 2018 named executive officers, and (3) our directors and executive officers as a group. Beneficial ownership includes shares that may be acquired within 60 days of February 20, 2019 through the exercise of outstanding stock options (including, in the case of Mr. Jackson, who is retirement eligible under our equity compensation plans, currently unvested stock options that would accelerate in the event of his retirement, and, in the case of each non-employee director, currently unvested stock options that would accelerate in the event of termination of Board service and vested restricted stock units), as well as shares of restricted stock. Unless otherwise indicated and subject to applicable community property laws, each person listed in the table has sole voting and investment power with respect to the securities listed.
+[BEGIN TABLE]
+Name of Beneficial Owner Number of Shares of Common Stock Owned     Number of Shares Acquirable Within 60 daysShares of Common Stock Beneficially Owned 
+Name of Beneficial Owner Number of Shares of Common Stock Owned     Number of Shares Acquirable Within 60 daysShares of Common Stock Beneficially Owned 
+Number   Percent(1) 
+Mike Jackson 131,101   1,137,568 (2) 1,268,669   1.4% 
+Thomas J. Baltimore, Jr. —   —   —   *   
+Rick L. Burdick 23,749   81,771 (3) 105,520   *   
+Tomago Collins 5,000   21,030 (4) 26,030   *   
+David B. Edelson 7,350   108,530 (5) 115,880   *   
+Steven L. Gerard —   —   —   *   
+Robert R. Grusky 20,711   98,900 (6) 119,611   *   
+Kaveh Khosrowshahi 4,259   16,771 (4) 21,030   *   
+Carl C. Liebert III —   —   —   *   
+G. Mike Mikan 14,500   36,030 (7) 50,530   *   
+Alison H. Rosenthal 5,000   81,030 (8) 86,030   *   
+Jacqueline A. Travisano —   6,934 (4) 6,934   *   
+Cheryl Miller 10,744   204,766   215,510   *   
+Lance Iserman(9) 5,583   —   5,583   *   
+Dennis G. Berger(9) —   —   —   *   
+Thomas M. Conophy(9) 8,410   —   8,410   *   
+All directors and executive officers as a group (14 persons) 258,442   1,992,060   2,250,502   2.4% 
+* Less than 1%. 
+(1) Based on 90,058,836 shares outstanding at February 20, 2019. 
+(2) Includes 842,556 shares that may be acquired upon exercise of vested options and 295,012 shares underlying unvested options, since Mr. Jackson is eligible for retirement treatment under the Company's equity compensation plans. Mr. Jackson disclaims beneficial ownership of 123,314 shares underlying unvested options, which options he has agreed to transfer in the future pursuant to a transaction that will be exempt from Section 16 of the Exchange Act pursuant to Rule 16a-12 promulgated thereunder.   
+(3) Includes 21,771 vested restricted stock units. 
+(4) Represents vested restricted stock units. 
+(5) Includes 28,530 vested restricted stock units. 
+(6) Includes 18,900 vested restricted stock units. 
+(7) Includes 21,030 vested restricted stock units. 
+[END TABLE]
+ Table of Contents
+[BEGIN TABLE]
+(8) Includes 26,030 vested restricted stock units. 
+(9) Messrs. Iserman and Conophy left the Company effective as of January 7, 2019, and Mr. Berger left the Company effective as of January 31, 2019. We have no information regarding their common stock ownership as of February 20, 2019. Accordingly, information regarding number of shares of common stock owned is presented as of their separation date.  
+[END TABLE]
+SECTION 16(a) BENEFICIAL OWNERSHIP REPORTING COMPLIANCE 
+Section 16(a) of the Securities Exchange Act of 1934, as amended, requires that our directors, certain of our officers, and persons who beneficially own more than 10% of our stock file with the SEC initial reports of ownership and reports of changes in ownership of our stock and our other equity securities. Based solely on a review of the copies of such reports furnished to us during the year ended December 31, 2018, and written representations that no reports on Form 5 were required, our directors, executive officers, and greater than 10% beneficial owners complied with all such applicable filing requirements. Table of Contents
+EXECUTIVE COMPENSATION
+COMPENSATION COMMITTEE REPORT 
+The following statement made by our Compensation Committee does not constitute soliciting material and should not be deemed filed or incorporated by reference into any filing under the Securities Act of 1933, as amended, or the Securities Exchange Act of 1934, as amended, except to the extent that we specifically incorporate such statement by reference. 
+The Compensation Committee of the Company has reviewed and discussed with management the Compensation Discussion and Analysis required by Item 402(b) of Regulation S-K and, based on such review and discussion, the Compensation Committee recommended to the Board that the Compensation Discussion and Analysis be included in this Proxy Statement and incorporated by reference in the Company's Annual Report on Form 10-K for the fiscal year ended December 31, 2018. 
+Compensation Committee: 
+G. Mike Mikan, Chair
+Rick L. Burdick                                 Table of Contents
+COMPENSATION DISCUSSION AND ANALYSIS 
+Overview 
+Our compensation programs are administered by the Compensation Committee (referred to as the "Committee" in this section) of the Board. The Committee primarily assists our Board in fulfilling its compensation oversight responsibilities by, among other things: 
+[BEGIN TABLE]
+• reviewing our director compensation program and suggesting changes in director compensation to the Board, if appropriate;  
+• reviewing and approving the compensation of our CEO and other senior executive officers and setting annual and long-term performance goals for these individuals;  
+• reviewing and approving the compensation of all of our corporate officers;  
+• reviewing the Company's program for management development and succession planning;  
+• reviewing and approving performance-based compensation of executive officers, including incentive awards and stock-based awards; and  
+• administering our equity compensation plans.  
+[END TABLE]
+From January 1, 2018 through December 16, 2018, the Committee consisted of Messrs. Larson, Burdick, and Mikan, with Mr. Larson serving as Chair of the Committee. Since December 17, 2018, the Committee has consisted of Messrs. Burdick and Mikan, with Mr. Mikan serving as Chair of the Committee. 
+This section discusses the Company's compensation policies and programs as it relates to the following "named executive officers" whose compensation information is presented in the tables that follow:
+[BEGIN TABLE]
+Mike Jackson Chairman of the Board, Chief Executive Officer and President 
+Cheryl Miller Executive Vice President and Chief Financial Officer 
+Lance Iserman Former Executive Vice President, Sales and Chief Operating Officer 
+Dennis G. Berger Former Executive Vice President and Chief Human Resources Officer 
+Thomas M. Conophy Former Executive Vice President and Chief Technology Officer 
+[END TABLE]
+Messrs. Iserman and Conophy left the Company effective as of January 7, 2019. Mr. Berger joined the Company on March 31, 2018 and left the Company effective as of January 31, 2019. See "Potential Payments Upon Termination or Change in Control - Named Executive Officer Departures" for a description of the separation agreements we entered into with Messrs. Iserman, Berger, and Conophy in connection with their separations of employment.
+Compensation Philosophy and Objectives 
+The Committee's fundamental philosophy is to closely link executive compensation with the achievement of performance goals, which are reviewed by our Board, and to create an owner-oriented culture. The Committee's objectives in administering our compensation program for executive officers are to ensure that we are able to attract and retain highly-skilled executives and to provide a compensation program that incentivizes management to optimize business performance, deploy capital productively, and increase long-term stockholder value. The Committee also believes that overall compensation should be fair for the services rendered and that the compensation structure should be transparent, which is why the key components of executive compensation are limited to a base salary, an annual performance incentive award based solely on the achievement of a pre-established performance goal, and long-term incentive awards in the form of stock-based awards. The Committee strives to ensure executive compensation aligns management with the Company's annual and long-term plans and strategy.
+Setting Compensation Levels of Executive Officers 
+The Committee reviews executive compensation at its meetings throughout the year and sets executive compensation based primarily on our financial and operating performance and on executive management's performance in executing the Company's business strategy, optimizing the Company's business performance and productivity of its business operations, and increasing long-term stockholder value. The Committee also considers the scope of an  Table of Contents executive's duties and responsibilities and individual executive performance. Our CEO reviews the performance of other named executive officers and makes recommendations, if any, to the Committee with respect to compensation adjustments for such officers. However, the Committee determines in its sole discretion whether to make any adjustments to the compensation paid to such executive officers. 
+For 2018, as in prior years, a significant portion of each named executive officer's total compensation was allocated to compensation in the form of an annual performance-based incentive award and stock-based awards in order to provide incentives to create and maintain long-term stockholder value. The Committee also reviewed and considered total compensation in setting each element of compensation for our named executive officers. 
+The Role of the Compensation Consultant. Since 2013, the Committee has engaged PM, an independent compensation consulting firm, to provide research and analysis and to make recommendations as to the form and level of executive compensation. The Committee sought input from PM on executive compensation matters for 2018, including the design and competitive positioning of our executive compensation program, our peer group, appropriate compensation levels, and evolving compensation trends. See "Board of Directors and Corporate Governance - Board Committees - Compensation Committee" above for more information regarding the Committee's engagement of PM.
+The Role of Peer Companies and Benchmarking. As part of its review of executive compensation for 2018, the Committee reviewed the executive compensation arrangements at peer group companies. Our peer group includes comparable specialty retail companies based on specific financial measures, including, but not limited to, revenue, total assets, market capitalization, and net income. For purposes of 2018 executive compensation decisions, the Committee undertook a review of the peer group used for 2017 with the assistance of PM. The Committee determined, in consultation with PM, that, for 2018, Staples, Inc. should be removed from the peer group since it is no longer publicly-traded. For 2018, our peer group consisted of the following companies:  
+[BEGIN TABLE]
+AutoZone, Inc. GameStop Corp. Nordstrom, Inc. 
+Bed Bath & Beyond Inc. The Gap, Inc. Ross Stores, Inc. 
+Best Buy Co., Inc. Genuine Parts Company Tiffany & Co. 
+CarMax, Inc. Kohl's Corporation The TJX Companies, Inc. 
+Dollar General Corporation L Brands, Inc.   
+Dollar Tree, Inc. Macy's Inc.   
+[END TABLE]
+The Committee reviewed the executive compensation benchmark data, including a report prepared by PM containing its findings, data, and recommendations, in order to evaluate and confirm whether our executive compensation was within a reasonably competitive range and to set executive compensation for 2018. The Committee, however, did not set executive compensation at a specific target percentile within the peer group. The Committee focuses on providing compensation that is fair for the services rendered and reflects an executive's experience, performance, and scope of responsibilities, closely linking executive compensation with the achievement of Company performance goals, and creating an owner-oriented culture, where the interests of our executive officers are aligned with the long-term interests of our stockholders. 
+2018 Executive Compensation Elements 
+The key elements of our executive compensation program for the year ended December 31, 2018 were: 
+[BEGIN TABLE]
+• base salary; 
+• an annual incentive award; and 
+• long-term incentive compensation in the form of performance-based restricted stock units ("RSUs"). 
+[END TABLE]
+ Executive officers are also entitled to limited perquisites and other benefits as outlined below under "Perquisites and Other Benefits." The following is a summary of the considerations underlying each component of compensation paid to our named executive officers for 2018. 
+Base Salary 
+We provide our named executive officers and other officers with a base salary to compensate them for services rendered during the fiscal year. The Committee reviews and, as appropriate, adjusts the base salaries for our named  Table of Contents executive officers. The factors that the Committee considers in setting salaries include the scope of job responsibilities, individual contributions to our success, company-wide performance, and market compensation. 
+For 2018, the Committee, advised by PM and based on a review of the factors set forth above, adjusted the annual base salaries for each of our named executive officers other than Mr. Berger. Effective as of February 16, 2018, the annual base salary for Mr. Jackson, Ms. Miller, Mr. Iserman, and Mr. Conophy was $1,300,000, $700,000, $775,000, and $620,000, respectively. 
+Annual Incentive Awards 
+2018 Incentive Awards 
+A core component of our compensation program is the AutoNation Operating Performance incentive plan (the "AOP"), the annual incentive compensation program in which incentive award-eligible, corporate-level employees participate. The AOP is designed to incentivize management to continually improve our operating performance and to use capital to maximize returns. In February 2018, the Committee established a performance goal under the AOP for 2018 based upon a specified level of adjusted operating income per basic share, taking into consideration our 2017 financial results, planned capital investments, anticipated corporate transactions, macroeconomic factors, payout opportunities, and pay-for-performance alignment. 
+The following table sets forth the 2018 threshold, target, and maximum payout levels established under the AOP based on the adjusted operating income per basic share performance metric:
+[BEGIN TABLE]
+2018 Incentive Awards 
+Performance Payout 
+Threshold $7.52 50% 
+Target $8.36 100% 
+Maximum $10.03 200% 
+[END TABLE]
+In calculating the level of our performance under the AOP, certain adjustments are made to operating income per basic share to ensure that operating performance is fairly measured to incentivize management appropriately. For example, floorplan interest expense is charged against operating income to ensure management manages this expense. On a U.S. generally accepted accounting principles basis, floorplan interest expense is not included in operating income. Operating income per basic share is also adjusted for acquisitions and to reflect a capital charge for the repurchase of shares of our common stock. The capital charge is designed to encourage more productive uses of capital and to discourage less productive uses of capital. The Committee also has the authority to make, and from time to time makes, appropriate equitable adjustments to reflect the impact of unusual or infrequently occurring items.
+At the same time that the Committee established a performance goal under the AOP, the Committee established an incentive compensation program for 2018 under the AutoNation, Inc. 2017 Employee Equity and Incentive Plan (the "2017 Plan"), which was approved by our stockholders at our 2017 Annual Meeting of Stockholders, using the same performance goal established under the AOP, for each person then serving as an executive officer of the Company, including each of our named executive officers. The participants under the 2017 Plan for 2018 incentive award-purposes did not participate in the AOP.
+One hundred percent of the target incentive award for each participant in the AOP and the 2017 Plan was based upon achievement of the predetermined performance goal. Incentive awards under the AOP and the 2017 Plan were payable on a sliding scale based on the Company's actual achievement relative to the predetermined goal, with the possibility that awards earned may exceed or be less than the targeted payout level. The Committee had absolute "negative discretion" to eliminate or reduce the amount of any award under the AOP and the 2017 Plan. 
+In 2016, as part of its retention efforts with respect to Mr. Jackson, the Committee established a three-year deferred incentive compensation program for Mr. Jackson (referred to as the "Deferred Bonus Program"), which provided that a portion of the incentive compensation earned by Mr. Jackson (equal to the amount earned in respect of 33 1/3% of his base salary) for each of 2016, 2017, and 2018 would be paid to him on a deferred basis in February 2019 (without interest), subject to certain terms and conditions. Table of Contents
+The following table sets forth the 2018 threshold, target, and maximum awards, expressed as a percentage of salary, established by the Committee for each named executive officer under the 2017 Plan. 
+[BEGIN TABLE]
+Participant Threshold Target Maximum 
+Mike Jackson 100.00% 200% 400% 
+Cheryl Miller 35.00% 70% 140% 
+Lance Iserman 35.00% 70% 140% 
+Dennis G. Berger 35.00% 70% 140% 
+Thomas J. Conophy 35.00% 70% 140% 
+[END TABLE]
+Actual results for 2018 were above the threshold level of performance and below the performance target set by the Committee, and, as a result, the annual cash incentive payouts to our named executive officers (and all other eligible employees) were below target. Based on our financial performance against the performance target, incentive awards under the AOP and the 2017 Plan were paid at 75.5% of the targeted levels. The following table sets forth our performance under the AOP and the 2017 Plan for 2018:
+[BEGIN TABLE]
+2018 Performance Metric Target Attainment Payout 
+Adjusted Operating Income Per Basic Share $8.36 $7.95 75.5% 
+[END TABLE]
+Actual payouts to our named executive officers are shown in the table titled "Summary Compensation Table" below.  The portion of the 2016, 2017, and 2018 incentive compensation earned by Mr. Jackson that was subject to the Deferred Bonus Program (total of $1,110,375) was paid to Mr. Jackson during the first quarter of 2019.
+Long-Term Incentive Awards
+The Committee grants stock-based awards to our named executive officers in order to provide long-term incentives, which align the long-term interests of management with the long-term interests of our stockholders. The Committee believes that stock-based awards motivate our named executive officers to focus on optimizing our long-term business performance and stockholder value and create an owner-oriented culture. For 2018, the Committee administered our equity compensation plans and approved all stock-based awards under the 2017 Plan.  
+Stock-based awards are approved on an annual basis in amounts determined by the Committee, while carefully considering the cost to us and our stockholders, including common stock dilution. For 2018, the sum of all stock-based awards granted to AutoNation employees represented potential share issuances equal to approximately 0.7% of our outstanding shares of common stock, based on the number of shares of our common stock outstanding at the beginning of 2018.
+In January 2018, the Committee, advised by PM and based on a review of peer group and market data, approved the 2018 long-term incentive plan under the 2017 Plan, which included performance-based RSU awards (the "2018 RSU Awards"). The 2018 RSU Awards were granted to Messrs. Jackson, Iserman, and Conophy and Ms. Miller on March 1, 2018, and to Mr. Berger on April 2, 2018. 
+For 2018, each of our named executive officers received four awards of performance-based RSUs. Each award was granted subject to the achievement by the Company of not less than $400 million of "EBIT" (defined as gross profit, less selling, general, and administrative expenses, floorplan interest expense, and depreciation and amortization) for fiscal year 2018 (the "2018 Performance Goal"). 
+The first grant, representing approximately two-thirds of the total number of RSUs granted to each named executive officer in 2018, is subject only to the 2018 Performance Goal and a four-year vesting schedule pursuant to which 25% of the grant vests on each of the first four anniversaries of March 1, 2018. The second, third, and fourth grants (collectively, the "2018-2020 RSUs"), together representing approximately one-third of the total number of RSUs granted to each named executive officer in 2018, are each subject to a three-year performance period (fiscal years 2018-2020) based on an additional measure of earnings for the second grant (referred to as "EBITDA" below), a measure of return on invested capital for the third grant (referred to as "ROIC" below), and certain customer satisfaction indices for the fourth grant (referred to as "CSI" below). The second, third, and fourth grants represented 40%, 40%, and 20%, respectively, of the total number of 2018-2020 RSUs granted to our named executive officers in 2018. Table of Contents
+The 2018-2020 RSUs will cliff vest following the three-year performance period, with zero to 150% of the target number of shares vesting depending on the Company's performance relative to the applicable performance goal. Target levels of EBITDA, ROIC, and CSI were established by the Committee in February 2018 after consultation with PM and a review of the strategic plan for fiscal years 2018-2020. The Committee chose EBITDA as a performance measure because they believe that it is a strong indicator of overall financial performance and a key indicator used by industry analysts to evaluate operating performance and that it motivates our executives to drive company growth and profitability. The ROIC measure is intended to hold executives accountable for returns on capital investments. The CSI measure is intended to increase customer satisfaction and retention. The Committee believes that these performance measures appropriately align the interests of our executive officers with the interests of our stockholders, incentivize our executives to strive for continuously improving performance, and provide variable compensation based on performance achieved against pre-established goals. 
+In addition to the 2018 RSU Awards described above, in connection with his recruitment to the Company, Mr. Berger received an award of 22,021 restricted stock units on April 2, 2018, subject to a three-year vesting schedule pursuant to which one-third of the grant is scheduled to vest on each of the first three anniversaries of April 2, 2018.
+Perquisites and Other Benefits 
+Our compensation program for named executive officers also includes limited perquisites and other benefits, including participation in the Company's life and health insurance and similar benefit programs (including the AutoNation 401(k) Plan and the AutoNation, Inc. Deferred Compensation Plan) on the same general terms as other participants in these programs, participation in Company car programs entitling the executives to a demonstrator vehicle and/or a vehicle allowance, use of an on-site fitness facility, personal use of sporting or entertainment events, and occasional use of secretarial services with respect to personal matters. In addition, Mr. Jackson's employment agreement provides for personal use of corporate aircraft of up to 70 hours per year. 
+Employment Agreement with CEO 
+In September 2018, we entered into an amended employment agreement with Mike Jackson, pursuant to which Mr. Jackson will continue to serve as Chairman, Chief Executive Officer and President of the Company until March 11, 2019. The Committee believes that entering into the amended employment agreement with Mr. Jackson furthered our efforts to retain him and ensured a smooth transition in executive leadership. As disclosed in a Current Report on Form 8-K filed with the SEC on February 22, 2019, the Board appointed Carl C. Liebert III as our Chief Executive Officer and President, and as a member of our Board, effective as of March 11, 2019. In accordance with the terms of his employment agreement with the Company, Mr. Jackson will become our Executive Chairman until December 31, 2021, and he will no longer serve as our Chief Executive Officer and President, effective as of March 11, 2019. See "Summary Compensation Table" below for more information.
+Severance and Change in Control Policy and Agreements for Post-Termination Payments 
+We have a policy governing severance and change in control agreements with the Company's named executive officers, which is set forth in our Corporate Governance Guidelines. Generally, the policy provides that we will not enter into any severance agreements with senior executives that provide specified benefits in an amount exceeding 299% of the sum of such executive's base salary plus bonus unless such severance agreement has been submitted to a stockholder vote. Further, unless such severance agreement has been submitted to a stockholder vote, we will not enter into a severance agreement that provides for the payment of specified benefits to an executive triggered by (i) a change in control of our Company that is approved by stockholders but not completed, or (ii) a completed change in control of the Company in which the named executive officer remains employed in a substantially similar capacity by the successor entity. We have not entered into any change in control agreements with any of our named executive officers. 
+Our employment agreement with Mr. Jackson provides for payments or benefits to him at, following, or in connection with, termination under certain circumstances. We do not have employment agreements with the other named executive officers covered by this Proxy Statement. The 2017 Plan, which is our active equity compensation plan, provides for vesting of unvested awards if they are not continued, assumed, or substituted, or in the event a qualifying termination of employment occurs within 24 months, following a change in control. The AutoNation, Inc. 2008 Employee Equity and Incentive Plan provides for accelerated vesting of unvested awards in the event of a change in control. These provisions are designed to promote stability and continuity of senior management.  Table of Contents
+In April 2018, the Board adopted the AutoNation, Inc. Executive Severance Plan (the "Severance Plan") to help retain key employees and maintain a stable work environment by providing severance benefits to covered employees in the event of certain terminations of employment. Under the Severance Plan, in the event a covered employee is terminated without cause, or a covered employee terminates his or her employment for good reason, as long as such person (a) is not in material breach of any restrictive covenant agreement with the Company, (b) does not breach any such restrictive covenant agreement as if it had been in effect through the 18-month period following the applicable termination date, and (c) signs a waiver and release of claims, then such person will be entitled to receive:
+[BEGIN TABLE]
+• in equal installments over 18 months, 1.5 times the sum of such person's annual base salary and target annual bonus,  
+• in a lump sum at the same time bonuses are paid to active employees generally, an amount equal to such person's annual bonus as determined by the Committee, pro-rated for the number of days the person was employed during the calendar year through the applicable termination date, and 
+• a payment equal to the cost of health insurance coverage, grossed up for taxes, based on such person's then-current elections for an 18-month period. 
+[END TABLE]
+Each of our named executive officers, other than Mr. Jackson, was covered by the Severance Plan as of December 31, 2018. See also "Potential Payments Upon Termination or Change in Control" below.
+Policy Regarding Recoupment of Certain Incentive Compensation
+In February 2015, the Board adopted the AutoNation, Inc. Policy Regarding Recoupment of Certain Incentive Compensation (the "Recoupment Policy"). Under the Recoupment Policy, if an officer (as defined for purposes of Section 16 of the Securities Exchange Act of 1934, as amended) of the Company engages in fraud, intentional misconduct, or gross negligence, and as a result, we are required to restate our financial statements due to material noncompliance with any financial reporting requirement, then we may require reimbursement or forfeiture of all or a portion of any excess incentive compensation paid to or received by such officer, during the three-year period preceding the date on which we are required to prepare the restatement, that would not have been paid or received under the specific terms of the applicable incentive award had the financial results been originally reported as set forth in the restatement. Each of our named executive officers is covered by the Recoupment Policy. A copy of the Recoupment Policy is available at investors.autonation.com.
+Consideration of the Company's Stockholder Vote on Executive Compensation
+At both our 2011 and 2017 Annual Meetings of Stockholders, our stockholders voted, on an advisory basis, to approve a triennial holding of the advisory vote on executive compensation. In addition, at our 2011, 2014, and 2017 Annual Meetings of Stockholders, our executive compensation program was approved by our stockholders, on an advisory basis, by more than 96%, 98%, and 98% of the votes cast, respectively. The Committee believes that the positive outcomes of the "say-on-pay" votes demonstrate strong stockholder support for the compensation programs established by the Committee for our named executive officers, and accordingly, it has not changed its overall approach. 
+Tax Policies
+To maintain flexibility and the ability to pay competitive compensation, we do not require all compensation to be deductible.  Prior to 2018, Section 162(m) of the Code generally limited to $1.0 million the amount of non-performance-based remuneration that the Company could deduct in any calendar year for certain executive officers. We structured our annual incentive awards and long-term incentive awards with the intention of meeting the exception to this limitation for "performance-based" compensation, as defined in Section 162(m) of the Code, so that these amounts could be fully deductible for income tax purposes.
+ Effective January 1, 2018, the exemption from the Section 162(m) deduction limit for performance-based compensation has been repealed, such that compensation paid to our named executive officers in excess of $1.0 million will not be deductible unless it qualifies for transition relief applicable to certain arrangements in place as of November 2, 2017.  We will continue to maintain flexibility and the ability to pay competitive compensation by not requiring all compensation to be deductible. Table of Contents
+Executive Stock Ownership Guidelines 
+In order to further align the long-term interests of management and stockholders and to ensure an owner-oriented culture, the Board has established stock ownership guidelines for our Chief Executive Officer and President and each Executive Vice President. These guidelines provide that the Board expects that the person(s) holding the offices of Chief Executive Officer and/or President will hold shares of our common stock having a fair market value of not less than four times his or her annual base salary and that each Executive Vice President will hold shares of our common stock having a fair market value of not less than two times his or her annual base salary. In January 2017, the Board amended these guidelines to provide that a covered executive is expected to retain 50% of any shares of our common stock, net of applicable tax withholding and the payment of any exercise or purchase price (if applicable), he or she receives upon the vesting or settlement of any equity awards or the exercise of any employee stock options, until the applicable threshold under the guidelines is met. In addition, the amended guidelines provide that each covered executive is expected to satisfy the guidelines by the later of January 31, 2022 or five years after he or she became a covered executive.
+The following table sets forth information regarding the number and dollar value of shares held by each of our executive officers as of February 20, 2019, and lists the specific ownership requirements under the ownership guidelines. Each of our executive officers has satisfied such guidelines or has time remaining to do so.
+[BEGIN TABLE]
+EXECUTIVE STOCK OWNERSHIP GUIDELINES 
+Name Ownership as of February 20, 2019 Ownership Requirement   
+Number of    Shares(1) Dollar Value of     Shares(2) 
+Mike Jackson 131,101   $5,127,360 $5,200,000 (4 x Salary) 
+Cheryl Miller  10,744   $420,198 $1,550,000 (2 x Salary) 
+H. Scott Arnold 4,330   $169,346 $1,020,000 (2 x Salary) 
+James R. Bender —   —   $1,550,000 (2 x Salary) 
+Marc Cannon 14,962   $585,164 $1,360,000 (2 x Salary) 
+C. Coleman Edmunds 6,691   $261,685 $1,260,000 (2 x Salary) 
+(1) Includes common stock beneficially owned by each executive and excludes shares underlying stock options and unvested restricted stock. 
+(2) The value of the shares is based on the closing price of our common stock on February 20, 2019 ($39.11). 
+[END TABLE]
+Conclusion
+The Committee believes that our compensation programs appropriately reward executive performance and align the interests of our named executive officers and key employees with the long-term interests of our stockholders, while also enabling the Company to attract and retain talented executives. The Committee will continue to evolve and administer our compensation program in a manner that the Committee believes will be in the best interests of our Company and our stockholders.  Table of Contents
+COMPENSATION TABLES
+Summary Compensation Table 
+The following table provides information regarding compensation earned by each of our named executive officers for 2018, 2017, and 2016, except in the case of Messrs. Iserman and Berger who were not named executive officers in 2017 or 2016 as well as Mr. Conophy who was not a named executive officer in 2016. This table should be read in conjunction with the narrative descriptions and analysis under "Compensation Discussion and Analysis." 
+[BEGIN TABLE]
+SUMMARY COMPENSATION TABLE 
+Name and Principal PositionYear     Salary ($)Bonus   ($)  Stock Awards ($)(1)Option Awards ($)(1)Non-Equity Incentive Plan   Compensation ($)All Other Compensation ($)(2)Total ($)
+Name and Principal PositionYear     Salary ($)Bonus   ($)  Stock Awards ($)(1)Option Awards ($)(1)Non-Equity Incentive Plan   Compensation ($)All Other Compensation ($)(2)Total ($)
+Name and Principal PositionYear     Salary ($)Bonus   ($)  Stock Awards ($)(1)Option Awards ($)(1)Non-Equity Incentive Plan   Compensation ($)All Other Compensation ($)(2)Total ($)
+Mike Jackson Chairman of the Board, Chief Executive Officer and President2018 1,293,750   —   9,099,959   —   1,963,000 (3) 115,870 (4) 12,472,579   
+2017 1,250,000   —   8,128,579   —   2,675,000 (3) 133,365   12,186,944   
+2016 1,250,000   —   —   7,717,160 2,024,250 (3) 109,968   11,101,378   
+Cheryl Miller Executive Vice President and  Chief Financial Officer2018 693,750   —   1,849,989   —   369,950   32,843 (5) 2,946,532   
+2017 643,750   —   1,672,161   —   486,850   35,381   2,838,142   
+2016 596,875   —   —   1,557,924 340,074   43,811   2,538,684   
+Lance Iserman                                   Former Executive Vice President and Chief Operating Officer2018 771,875   —   1,099,955   —   409,588   406,671 (6) 2,688,089   
+Dennis G. Berger  Former Executive Vice President and Chief Human Resources Officer2018 376,894   —   1,749,966   —   264,250   286,398 (7) 2,677,508   
+Thomas M. Conophy Former Executive Vice President and  Chief Technology Officer 2018 617,500   —   1,499,971   —   327,670   271,935 (8) 2,717,076   
+2017 600,000     1,393,437   —   449,400   131,543   2,574,380   
+(1) The amounts reported reflect the aggregate grant date fair value of each award computed in accordance with FASB ASC Topic 718 for each year shown in the table. For additional information regarding the calculation of these amounts, see Note 13 of the Notes to Consolidated Financial Statements in our Annual Report on Form 10-K for the year ended December 31, 2018. 
+[END TABLE]
+Assuming the highest level of performance is achieved under the applicable performance conditions, the maximum possible value of the performance-based RSUs granted to our named executive officers in 2018 as of the grant date would be as follows:
+[BEGIN TABLE]
+Mr. Jackson Ms. Miller Mr. Iserman Mr. Berger Mr. Conophy 
+$10,616,544 $2,158,321 $1,283,224 $874,960 $1,749,949 
+(2) The amounts reported for personal usage by Mr. Jackson of corporate aircraft are calculated based on the aggregate incremental cost to the Company. Such incremental cost to the Company is calculated based on the direct operating costs to the Company, including fuel costs, crew fees and travel expenses, trip-related repairs and maintenance, landing fees, and other direct operating costs. The amounts reported for personal usage of cars are based on imputed income attributable to each named executive officer calculated in accordance with Treasury regulations, which amounts we believe are equal to or greater than our incremental costs of providing such usage. In addition to the perquisites and other benefits identified in the footnotes below, our named executive officers also are eligible to use our on-site fitness facility, and from time to time, use our tickets for sporting and entertainment events for personal purposes, and receive occasional secretarial support with respect to personal matters. These items do not represent incremental costs to the Company. 
+(3) Includes amounts that are subject to the terms of the Deferred Bonus Program established for Mr. Jackson. See "Compensation Discussion and Analysis - Annual Incentive Awards." 
+(4) Includes $48,344 for personal usage of corporate aircraft, $45,000 for a vehicle allowance, and $22,526 for group term life insurance premiums. 
+(5) Includes $25,703 for demonstrator vehicle usage.  
+[END TABLE]
+ Table of Contents
+[BEGIN TABLE]
+(6) Includes $369,774 for relocation reimbursement (including $145,506 for tax reimbursement) and $29,181 for demonstrator vehicle usage. 
+(7) Includes $273,016 for relocation reimbursement (including $101,971 for tax reimbursement), $9,384 for demonstrator vehicle usage, and $3,222 for a vehicle allowance. 
+(8) Includes $247,321 for relocation reimbursement (including $97,321 for tax reimbursement) and $15,600 for a vehicle allowance.  
+[END TABLE]
+Employment Agreement with Mr. Jackson. In September 2018, we entered into an amended employment agreement with Mr. Jackson, pursuant to which he will continue to serve as Chairman, Chief Executive Officer and President of the Company until March 11, 2019. As disclosed in a Current Report on Form 8-K filed with the SEC on February 22, 2019, the Board appointed Carl C. Liebert III as our Chief Executive Officer and President, and as a member of our Board, effective as of March 11, 2019. In accordance with the terms of his employment agreement with the Company, Mr. Jackson will become our Executive Chairman until December 31, 2021, and he will no longer serve as our Chief Executive Officer and President, effective as of March 11, 2019. 
+Mr. Jackson's amended employment agreement provides that, through December 31, 2020, his annual base salary will be $1.3 million and his target annual incentive award will be 200% of his annual base salary. From January 1, 2021 through December 31, 2021, his annual base salary will be $1.0 million, and his target annual incentive award will be 150% of his annual base salary. In addition, Mr. Jackson will be granted equity-based awards with an aggregate grant date fair value equal to $9.1 million, $5.0 million, and $3.0 million in 2019, 2020, and 2021, respectively. See "Potential Payments Upon Termination or Change in Control" for a description of certain provisions in his employment agreement that provide for payments or benefits to him at, following, or in connection with, termination under certain circumstances. The agreement also contains certain restrictive covenants and provides that Mr. Jackson is entitled to certain benefits during his employment, including limited personal use of our corporate aircraft.
+Employment Agreement with Mr. Liebert.  As disclosed in a Current Report on Form 8-K filed with the SEC on February 22, 2019, we entered into an employment agreement with Mr. Liebert on February 18, 2019, pursuant to which he will serve as our Chief Executive Officer and President. Under the employment agreement, the employment period will commence on March 11, 2019 and continue until March 10, 2022. 
+The employment agreement provides that Mr. Liebert's annual base salary will be $1,000,000, subject to annual review and adjustment by the Compensation Committee, provided that his annual base salary may not be reduced during the employment period. The employment agreement also provides that, during the employment period, Mr. Liebert will participate in the Company's annual bonus plan at such target award levels and upon such terms and conditions as may be established by the Compensation Committee, provided that the target award level will be no less than 150% of his then-current annual base salary. Mr. Liebert will be eligible to receive an annual grant of equity-based awards during the employment period at an appropriate level as determined by the Committee, with a grant date value of no less than $5,000,000. For 2019, Mr. Liebert will be granted, as soon as reasonably practicable following his commencement date, (i) RSUs subject to a four-year installment vesting schedule with an aggregate grant date fair value of $3,333,330 and (ii) RSUs subject to a three-year cliff vesting schedule with an aggregate grant date fair value of $1,666,670. In addition, as soon as reasonably practicable following the commencement date, Mr. Liebert will be granted, in the form of a sign-on award, RSUs subject to a three-year installment vesting schedule with an aggregate grant date fair value of $7,500,000 (the "Sign-On Award"). Mr. Liebert will be required to hold the shares of Company common stock issuable pursuant to the Sign-On Award until the date he is in compliance with the Company's Executive Stock Ownership Guidelines.
+If the Company terminates Mr. Liebert's employment without "cause" or if he resigns for "good reason" (in each case, as defined in his employment agreement), then, provided he is in compliance with all applicable restrictive covenants and he signs a mutually acceptable severance agreement, Mr. Liebert will be entitled to receive: (i) in equal installments over 18 months, 1.5 times the sum of his annual base salary and target annual bonus, and (ii) in a lump sum at the same time bonuses are paid to active employees generally, an amount equal to his annual bonus as determined by the Committee, pro-rated for the number of days he was employed during the calendar year through the applicable termination date.  Table of Contents
+Grants of Plan-Based Awards in Fiscal 2018 
+The following table sets forth certain information with respect to the non-equity incentive plan awards and the stock-based awards granted to our named executive officers in 2018. The material terms of these awards are described above in the sections titled "Annual Incentive Awards" and "Long-Term Incentive Awards" under "Compensation Discussion and Analysis."
+[BEGIN TABLE]
+GRANTS OF PLAN-BASED AWARDS IN FISCAL 2018 
+Name Award    Type   Grant    Date   Approval    Date   Estimated Future Payouts    Under Non-Equity Incentive    Plan Awards   Estimated Future Payouts    Under Equity Incentive    Plan Awards   All Other  Option  Awards:  Number  of  Securities  Underlying  Options  (#) Exercise    or Base    Price of    Option    Awards    ($/sh)   Grant Date Fair Value of Stock and Option Awards ($)(1)
+Name Award    Type   Grant    Date   Approval    Date   Estimated Future Payouts    Under Non-Equity Incentive    Plan Awards   Estimated Future Payouts    Under Equity Incentive    Plan Awards   All Other  Option  Awards:  Number  of  Securities  Underlying  Options  (#) Exercise    or Base    Price of    Option    Awards    ($/sh)   Grant Date Fair Value of Stock and Option Awards ($)(1)
+Name Award    Type   Grant    Date   Approval    Date   Estimated Future Payouts    Under Non-Equity Incentive    Plan Awards   Estimated Future Payouts    Under Equity Incentive    Plan Awards   All Other  Option  Awards:  Number  of  Securities  Underlying  Options  (#) Exercise    or Base    Price of    Option    Awards    ($/sh)   Grant Date Fair Value of Stock and Option Awards ($)(1)
+Name Award    Type   Grant    Date   Approval    Date   Estimated Future Payouts    Under Non-Equity Incentive    Plan Awards   Estimated Future Payouts    Under Equity Incentive    Plan Awards   All Other  Option  Awards:  Number  of  Securities  Underlying  Options  (#) Exercise    or Base    Price of    Option    Awards    ($/sh)   Grant Date Fair Value of Stock and Option Awards ($)(1)
+Threshold    ($)   Target    ($)   Maximum ($)Threshold    (#)    Target    (#)    Maximum (#)
+Threshold    ($)   Target    ($)   Maximum ($)Threshold    (#)    Target    (#)    Maximum (#)
+Mike Jackson PBRSU 3/1/2018 2/14/2018         123,406         6,066,639   
+  PBRSU-EBITDA 3/1/2018 2/14/2018       12,340   24,681   37,021       1,213,318   
+  PBRSU-ROIC 3/1/2018 2/14/2018       12,340   24,681   37,021       1,213,318   
+  PBRSU-CSI 3/1/2018 2/14/2018       6,170   12,341   18,511       606,684   
+  Annual Cash        1,300,000   2,600,000   5,200,000               
+Cheryl Miller PBRSU 3/1/2018 2/14/2018         25,088         1,233,326   
+  PBRSU-EBITDA 3/1/2018 2/14/2018       2,509   5,018   7,527       246,685   
+  PBRSU-ROIC 3/1/2018 2/14/2018       2,509   5,018   7,527       246,685   
+  PBRSU-CSI 3/1/2018 2/14/2018       1,254   2,508   3,762       123,293   
+  Annual Cash     245,000   490,000   980,000               
+Lance Iserman PBRSU 3/1/2018 2/14/2018         14,917         733,320   
+  PBRSU-EBITDA 3/1/2018 2/14/2018       1,491   2,983   4,474       146,644   
+  PBRSU-ROIC 3/1/2018 2/14/2018       1,491   2,983   4,474       146,644   
+  PBRSU-CSI 3/1/2018 2/14/2018       746   1,492   2,238       73,347   
+  Annual Cash        271,250   542,500   1,085,000               
+Dennis G. Berger RSU 4/2/2018 2/14/2018         22,021         999,974   
+  PBRSU 4/2/2018 2/14/2018         11,011         500,010   
+  PBRSU-EBITDA 4/2/2018 2/14/2018       1,101   2,202   3,303       99,993   
+  PBRSU-ROIC 4/2/2018 2/14/2018       1,101   2,202   3,303       99,993   
+  PBRSU-CSI 4/2/2018 2/14/2018       550   1,101   1,651       49,996   
+  Annual Cash     175,000   350,000   700,000               
+Thomas M. Conophy PBRSU 3/1/2018 2/14/2018         20,341         999,964   
+  PBRSU-EBITDA 3/1/2018 2/14/2018       2,034   4,068   6,102       199,983   
+  PBRSU-ROIC 3/1/2018 2/14/2018       2,034   4,068   6,102       199,983   
+  PBRSU-CSI 3/1/2018 2/14/2018       1,017   2,035   3,052       100,041   
+  Annual Cash     217,000   434,000   868,000               
+[END TABLE]
+ Table of Contents
+Outstanding Equity Awards at End of Fiscal 2018 
+The following table provides information concerning unexercised stock options and unvested restricted stock and restricted stock units held by our named executive officers as of December 31, 2018. 
+[BEGIN TABLE]
+OUTSTANDING EQUITY AWARDS AT END OF FISCAL 2018 
+    Option Awards(1) Stock Awards(1) 
+Name Grant Date Number of Securities Underlying Unexercised Options  (#) ExercisableNumber of Securities Underlying Unexercised Options  (#) UnexercisableOption Exercise Price  ($)Option Expiration DateNumber of Shares or Units of Stock That Have Not Vested  (#)Market Value of Shares or Units of Stock That Have Not Vested  ($)(2)Equity Incentive Plan Awards: Number of Unearned Shares, Units or Other Rights That Have Not Vested (#)Equity Incentive Plan Awards: Market or Payout Value of Unearned Shares, Units or Other Rights That Have Not Vested ($)(2)
+Name Grant Date Number of Securities Underlying Unexercised Options  (#) ExercisableNumber of Securities Underlying Unexercised Options  (#) UnexercisableOption Exercise Price  ($)Option Expiration DateNumber of Shares or Units of Stock That Have Not Vested  (#)Market Value of Shares or Units of Stock That Have Not Vested  ($)(2)Equity Incentive Plan Awards: Number of Unearned Shares, Units or Other Rights That Have Not Vested (#)Equity Incentive Plan Awards: Market or Payout Value of Unearned Shares, Units or Other Rights That Have Not Vested ($)(2)
+Name Grant Date Number of Securities Underlying Unexercised Options  (#) ExercisableNumber of Securities Underlying Unexercised Options  (#) UnexercisableOption Exercise Price  ($)Option Expiration DateNumber of Shares or Units of Stock That Have Not Vested  (#)Market Value of Shares or Units of Stock That Have Not Vested  ($)(2)Equity Incentive Plan Awards: Number of Unearned Shares, Units or Other Rights That Have Not Vested (#)Equity Incentive Plan Awards: Market or Payout Value of Unearned Shares, Units or Other Rights That Have Not Vested ($)(2)
+Name Grant Date Number of Securities Underlying Unexercised Options  (#) ExercisableNumber of Securities Underlying Unexercised Options  (#) UnexercisableOption Exercise Price  ($)Option Expiration DateNumber of Shares or Units of Stock That Have Not Vested  (#)Market Value of Shares or Units of Stock That Have Not Vested  ($)(2)Equity Incentive Plan Awards: Number of Unearned Shares, Units or Other Rights That Have Not Vested (#)Equity Incentive Plan Awards: Market or Payout Value of Unearned Shares, Units or Other Rights That Have Not Vested ($)(2)
+Mike Jackson(3) 12/1/2010 37,104   —   26.49   3/1/2020         
+  3/1/2011 32,231   —   32.50   3/1/2021         
+  6/1/2011 32,231   —   34.51   3/1/2021         
+  9/1/2011 32,231   —   40.37   3/1/2021         
+  12/1/2011 32,231   —   35.99   3/1/2021         
+  3/1/2012 29,294   —   34.09   3/1/2022         
+  6/1/2012 29,294   —   35.00   3/1/2022         
+  9/4/2012 29,294   —   41.16   3/1/2022         
+  12/3/2012 29,294   —   38.63   3/1/2022         
+  3/1/2013 25,316   —   43.45   3/1/2023         
+  6/3/2013 25,316   —   46.22   3/1/2023         
+  9/3/2013 25,316   —   47.25   3/1/2023         
+  12/2/2013 25,316   —   48.80   3/1/2023         
+  3/3/2014 47,731   —   52.65   3/3/2024         
+  6/2/2014 47,732   —   57.44   3/3/2024         
+  9/2/2014 47,732   —   54.04   3/3/2024         
+  12/1/2014 47,732   —   58.29   3/3/2024         
+  3/2/2015 35,798   20,503   62.60   3/2/2025         
+  6/1/2015 35,799   20,503   62.93   3/2/2025         
+  9/1/2015 35,799   20,503   58.08   3/2/2025         
+  12/1/2015 35,799   20,503   64.48   3/2/2025         
+  3/1/2016 123,966   213,000   52.53   3/1/2026         
+  4/19/2017(4)         —   —   93,864 (5) 3,350,945   
+  4/19/2017(4)         —   —   12,515 (6) 446,786   
+  4/19/2017(4)         —   —   12,515 (6) 446,786   
+  4/19/2017(4)         —   —   6,258 (6) 223,411   
+  3/1/2018         —   —   123,406 (7) 4,405,594   
+  3/1/2018         —   —   12,340 (6) 440,538   
+  3/1/2018         —   —   12,340 (6) 440,538   
+  3/1/2018         —   —   6,170 (6) 220,269   
+Cheryl Miller 3/1/2010 715   —   18.20   3/1/2020         
+  6/1/2010 715   —   19.64   3/1/2020         
+  9/1/2010 1,010   —   23.21   3/1/2020         
+  12/1/2010 1,010   —   26.49   3/1/2020         
+  3/1/2011 1,243   —   32.50   3/1/2021         
+  6/1/2011 1,243   —   34.51   3/1/2021         
+  9/1/2011 1,243   —   40.37   3/1/2021         
+  12/1/2011 1,243   —   35.99   3/1/2021         
+  3/1/2012 1,229   —   34.09   3/1/2022         
+  6/1/2012 1,229   —   35.00   3/1/2022         
+  9/4/2012 1,229   —   41.16   3/1/2022         
+OUTSTANDING EQUITY AWARDS AT END OF FISCAL 2018 
+    Option Awards(1) Stock Awards(1) 
+Name Grant Date Number of Securities Underlying Unexercised Options  (#) ExercisableNumber of Securities Underlying Unexercised Options  (#) UnexercisableOption Exercise Price  ($)Option Expiration DateNumber of Shares or Units of Stock That Have Not Vested  (#)Market Value of Shares or Units of Stock That Have Not Vested  ($)(2)Equity Incentive Plan Awards: Number of Unearned Shares, Units or Other Rights That Have Not Vested (#)Equity Incentive Plan Awards: Market or Payout Value of Unearned Shares, Units or Other Rights That Have Not Vested ($)(2)
+Name Grant Date Number of Securities Underlying Unexercised Options  (#) ExercisableNumber of Securities Underlying Unexercised Options  (#) UnexercisableOption Exercise Price  ($)Option Expiration DateNumber of Shares or Units of Stock That Have Not Vested  (#)Market Value of Shares or Units of Stock That Have Not Vested  ($)(2)Equity Incentive Plan Awards: Number of Unearned Shares, Units or Other Rights That Have Not Vested (#)Equity Incentive Plan Awards: Market or Payout Value of Unearned Shares, Units or Other Rights That Have Not Vested ($)(2)
+Name Grant Date Number of Securities Underlying Unexercised Options  (#) ExercisableNumber of Securities Underlying Unexercised Options  (#) UnexercisableOption Exercise Price  ($)Option Expiration DateNumber of Shares or Units of Stock That Have Not Vested  (#)Market Value of Shares or Units of Stock That Have Not Vested  ($)(2)Equity Incentive Plan Awards: Number of Unearned Shares, Units or Other Rights That Have Not Vested (#)Equity Incentive Plan Awards: Market or Payout Value of Unearned Shares, Units or Other Rights That Have Not Vested ($)(2)
+Name Grant Date Number of Securities Underlying Unexercised Options  (#) ExercisableNumber of Securities Underlying Unexercised Options  (#) UnexercisableOption Exercise Price  ($)Option Expiration DateNumber of Shares or Units of Stock That Have Not Vested  (#)Market Value of Shares or Units of Stock That Have Not Vested  ($)(2)Equity Incentive Plan Awards: Number of Unearned Shares, Units or Other Rights That Have Not Vested (#)Equity Incentive Plan Awards: Market or Payout Value of Unearned Shares, Units or Other Rights That Have Not Vested ($)(2)
+Cheryl Miller 12/3/2012 1,229   —   38.63   3/1/2022         
+(continued) 3/1/2013 1,150   —   43.45   3/1/2023         
+  6/3/2013 1,150   —   46.22   3/1/2023         
+  9/3/2013 1,150   —   47.25   3/1/2023         
+  12/2/2013 1,150   —   48.80   3/1/2023         
+  3/3/2014 51,207   —   52.65   3/3/2024         
+  6/2/2014 11,207   —   57.44   3/3/2024         
+  9/2/2014 11,207   —   54.04   3/3/2024         
+  12/1/2014 11,207   —   58.29   3/3/2024         
+  3/2/2015 9,375   3,125   62.60   3/2/2025         
+  6/1/2015 9,375   3,125   62.93   3/2/2025         
+  9/1/2015 9,375   3,125   58.08   3/2/2025         
+  12/1/2015 9,375   3,125   64.48   3/2/2025         
+  3/1/2016 43,000   43,000   52.53   3/1/2026         
+  4/19/2017(4)         —   —   19,309 (5) 689,331   
+  4/19/2017(4)         —   —   2,574 (6) 91,892   
+  4/19/2017(4)         —   —   2,574 (6) 91,892   
+  4/19/2017(4)         —   —   1,287 (6) 45,946   
+  3/1/2018         —   —   25,088 (7) 895,642   
+  3/1/2018         —   —   2,509 (6) 89,571   
+  3/1/2018         —   —   2,509 (6) 89,571   
+  3/1/2018         —   —   1,254 (6) 44,768   
+Lance Iserman 3/3/2014 1,419   —   52.65   3/3/2024         
+  6/2/2014 1,419   —   57.44   3/3/2024         
+  9/2/2014 1,419   —   54.04   3/3/2024         
+  12/1/2014 1,704   —   58.29   3/3/2024         
+  3/2/2015         568   20,278   —   —   
+  3/2/2015 1,278   426   62.60   3/2/2025         
+  6/1/2015 1,278   426   62.93   3/2/2025         
+  9/1/2015 1,278   426   58.08   3/2/2025         
+  12/1/2015 1,278   426   64.48   3/2/2025         
+  3/1/2016         1,136   40,555   —   —   
+  3/1/2016 3,408   3,408   52.53   3/1/2026         
+  4/19/2017(4)         —   —   4,526 (5) 161,578   
+  6/1/2017         —   —   4,879 (5) 174,180   
+  3/1/2018         —   —   14,917 (7) 532,537   
+  3/1/2018         —   —   1,491 (6) 53,229   
+  3/1/2018         —   —   1,491 (6) 53,229   
+  3/1/2018         —   —   746 (6) 26,632   
+Dennis G. Berger 4/2/2018         —   —   22,021 (8) 786,150   
+  4/2/2018         —   —   11,011 (7) 393,093   
+  4/2/2018         —   —   1,101 (6) 39,306   
+  4/2/2018         —   —   1,101 (6) 39,306   
+  4/2/2018         —   —   550 (6) 19,635   
+OUTSTANDING EQUITY AWARDS AT END OF FISCAL 2018 
+    Option Awards(1) Stock Awards(1) 
+Name Grant Date Number of Securities Underlying Unexercised Options  (#) ExercisableNumber of Securities Underlying Unexercised Options  (#) UnexercisableOption Exercise Price  ($)Option Expiration DateNumber of Shares or Units of Stock That Have Not Vested  (#)Market Value of Shares or Units of Stock That Have Not Vested  ($)(2)Equity Incentive Plan Awards: Number of Unearned Shares, Units or Other Rights That Have Not Vested (#)Equity Incentive Plan Awards: Market or Payout Value of Unearned Shares, Units or Other Rights That Have Not Vested ($)(2)
+Name Grant Date Number of Securities Underlying Unexercised Options  (#) ExercisableNumber of Securities Underlying Unexercised Options  (#) UnexercisableOption Exercise Price  ($)Option Expiration DateNumber of Shares or Units of Stock That Have Not Vested  (#)Market Value of Shares or Units of Stock That Have Not Vested  ($)(2)Equity Incentive Plan Awards: Number of Unearned Shares, Units or Other Rights That Have Not Vested (#)Equity Incentive Plan Awards: Market or Payout Value of Unearned Shares, Units or Other Rights That Have Not Vested ($)(2)
+Name Grant Date Number of Securities Underlying Unexercised Options  (#) ExercisableNumber of Securities Underlying Unexercised Options  (#) UnexercisableOption Exercise Price  ($)Option Expiration DateNumber of Shares or Units of Stock That Have Not Vested  (#)Market Value of Shares or Units of Stock That Have Not Vested  ($)(2)Equity Incentive Plan Awards: Number of Unearned Shares, Units or Other Rights That Have Not Vested (#)Equity Incentive Plan Awards: Market or Payout Value of Unearned Shares, Units or Other Rights That Have Not Vested ($)(2)
+Name Grant Date Number of Securities Underlying Unexercised Options  (#) ExercisableNumber of Securities Underlying Unexercised Options  (#) UnexercisableOption Exercise Price  ($)Option Expiration DateNumber of Shares or Units of Stock That Have Not Vested  (#)Market Value of Shares or Units of Stock That Have Not Vested  ($)(2)Equity Incentive Plan Awards: Number of Unearned Shares, Units or Other Rights That Have Not Vested (#)Equity Incentive Plan Awards: Market or Payout Value of Unearned Shares, Units or Other Rights That Have Not Vested ($)(2)
+Thomas M. Conophy 10/31/2016         2,500   89,250   —   —   
+  4/19/2017(4)         —   —   16,091 (5) 574,449   
+  4/19/2017(4)         —   —   2,145 (6) 76,577   
+  4/19/2017(4)         —   —   2,145 (6) 76,577   
+  4/19/2017(4)         —   —   1,072 (6) 38,270   
+  3/1/2018         —   —   20,341 (7) 726,174   
+  3/1/2018         —   —   2,034 (6) 72,614   
+  3/1/2018         —   —   2,034 (6) 72,614   
+  3/1/2018         —   —   1,017 (6) 36,307   
+(5) These restricted stock unit awards will vest in 25% annual increments on each of the first four anniversaries of March 1, 2017. 
+(6) These restricted stock unit awards are scheduled to cliff vest on the date that the achievement of the applicable performance goal is certified following the applicable three-year performance period. 
+(7) These restricted stock unit awards will vest in 25% annual increments on each of the first four anniversaries of March 1, 2018. 
+(8) These restricted stock unit awards will vest in 33% annual increments on each of the first three anniversaries of the grant date. 
+[END TABLE]
+ Table of Contents
+Option Exercises and Stock Vested in Fiscal 2018 
+The following table provides information concerning exercises of stock options and vesting of restricted stock and restricted stock units held by the named executive officers during 2018. 
+[BEGIN TABLE]
+OPTION EXERCISES AND STOCK VESTED IN FISCAL 2018 
+Name Option Awards Stock Awards 
+Number of Shares Acquired on Exercise (#)     Value Realized on Exercise ($)Number of Shares Acquired on Vesting (#)Value Realized on Vesting ($)
+Number of Shares Acquired on Exercise (#)     Value Realized on Exercise ($)Number of Shares Acquired on Vesting (#)Value Realized on Vesting ($)
+Number of Shares Acquired on Exercise (#)     Value Realized on Exercise ($)Number of Shares Acquired on Vesting (#)Value Realized on Vesting ($)
+Mike Jackson 144,318   3,517,888   31,287   1,538,069   
+Cheryl Miller 737   11,588   7,339   358,483   
+Lance Iserman —   —   4,744   230,558   
+Dennis G. Berger —   —   —   —   
+Thomas M. Conophy —   —   6,613   314,245   
+[END TABLE]
+Non-Qualified Deferred Compensation in Fiscal 2018 
+The AutoNation, Inc. Deferred Compensation Plan ("DCP") affords the named executive officers and certain other employees the opportunity to defer up to 75% of base salary and 90% of bonuses and/or commissions on a pre-tax basis. For 2018, we provided matching contributions for both the DCP and the AutoNation 401(k) Plan. Participants eligible for a matching contribution under the DCP were not eligible for the matching contribution in the AutoNation 401(k) Plan. 
+For 2018, we provided eligible participants under the DCP a matching contribution of 100% on the first $5,500 deferred. The 2018 matching contributions were credited by the Company as of January 2, 2019. One-third of the 2018 matching contributions vested as of January 2, 2019, and an additional one-third will vest in January 2020 and 2021, provided, however, that a participant's matching contribution will immediately vest in the event of the death of such participant while actively employed, the disability of such participant, or the attainment of age sixty with at least six years of service by such participant. Our non-employee directors are also eligible to defer all or a portion of their annual and committee retainers under the DCP. We do not provide matching contributions to non-employee directors that participate in the DCP.
+Earnings on deferrals are based on "deemed" investments in funds selected for inclusion in the DCP by us. Additionally, the DCP provides for payment of vested deferrals and earnings upon separation from service, death, and disability as well as upon specified payment dates selected by the participants. Participants may elect to receive payments upon specified in-service dates (in the form of a lump sum payment or up to five annual installments) or upon separation from service (in the form of a lump sum payment or up to 15 annual installments). The DCP is intended to meet the requirements of Section 409A of the Code and other relevant provisions thereunder and related Treasury regulations. 
+The following table sets forth the non-qualified deferred compensation activity for each named executive officer during 2018.  
+[BEGIN TABLE]
+NON-QUALIFIED DEFERRED COMPENSATION IN FISCAL 2018 
+Name Executive Contributions in Last Fiscal Year ($)AutoNation     Contributions in     Last Fiscal Year      ($)    Aggregate Earnings (Loss) in Last Fiscal  Year ($)(1)Aggregate     Withdrawals/     Distributions     ($)    Aggregate Balance at Last Fiscal Year-End ($)
+Name Executive Contributions in Last Fiscal Year ($)AutoNation     Contributions in     Last Fiscal Year      ($)    Aggregate Earnings (Loss) in Last Fiscal  Year ($)(1)Aggregate     Withdrawals/     Distributions     ($)    Aggregate Balance at Last Fiscal Year-End ($)
+Name Executive Contributions in Last Fiscal Year ($)AutoNation     Contributions in     Last Fiscal Year      ($)    Aggregate Earnings (Loss) in Last Fiscal  Year ($)(1)Aggregate     Withdrawals/     Distributions     ($)    Aggregate Balance at Last Fiscal Year-End ($)
+Name Executive Contributions in Last Fiscal Year ($)AutoNation     Contributions in     Last Fiscal Year      ($)    Aggregate Earnings (Loss) in Last Fiscal  Year ($)(1)Aggregate     Withdrawals/     Distributions     ($)    Aggregate Balance at Last Fiscal Year-End ($)
+Mike Jackson 327,167 (2) —   —   —   1,110,375 (3) 
+Cheryl Miller 69,583 (4) 5,500 (5) (16,855) —   241,687 (6) 
+Lance Iserman 182,545 (4) 5,500 (5) (80,745) —   1,112,110   
+Dennis G. Berger —   —   —   —   —   
+Thomas M. Conophy 85,000 (4) 5,500 (5) (11,934) —   146,283 (7) 
+(2) Amount reflects the portion of Mr. Jackson's non-equity incentive plan compensation for 2018 that was subject to the terms of the Deferred Bonus Program (included in the "Non-Equity Incentive Plan Compensation" column for  
+[END TABLE]
+ Table of Contents
+2018 in the "Summary Compensation Table"). See "Compensation Discussion and Analysis - Annual Incentive Awards" for additional information regarding the Deferred Bonus Program. Mr. Jackson did not participate in the DCP.
+[BEGIN TABLE]
+(3) Amount reflects the portions of the 2016, 2017, and 2018 non-equity incentive plan compensation earned by Mr. Jackson (and included in the "Non-Equity Incentive Plan Compensation" column of the "Summary Compensation Table" for 2016, 2017, and 2018, respectively) that was deferred under the Deferred Bonus Program. 
+(4) Amounts are included in the "Salary" column for 2018 in the "Summary Compensation Table," except for $35,000 for Ms. Miller, $66,920 for Mr. Iserman, and $25,000 for Mr. Conophy, which amounts are included in the "Non-Equity Incentive Plan Compensation" column for 2018 in the "Summary Compensation Table" for each of them.  
+(5) Amounts represent 2018 matching contributions under the DCP, which were credited by the Company as of January 2, 2019. 
+(6) $116,138 of this amount has been previously reported as compensation in the "Summary Compensation Table" for previous years. 
+(7) $62,700 of this amount had been previously reported as compensation in the "Summary Compensation Table" for 2017. 
+[END TABLE]
+POTENTIAL PAYMENTS UPON TERMINATION OR CHANGE IN CONTROL 
+The tables below reflect the amount of compensation that would have been payable to each of our named executive officers under any contract, agreement, plan, or arrangement with us that provides for any payment to such executive in the event of termination of such executive's employment or a change in control of the Company, in each case assuming the termination or change in control occurred effective as of December 31, 2018, the last business day of our last completed fiscal year. See "Named Executive Officer Departures" below for information regarding certain separation agreements we entered into with Messrs. Iserman, Berger, and Conophy in the first quarter of 2019. The amount of compensation payable to each named executive officer serving on December 31, 2018 upon "termination for cause," "voluntary termination" (or "voluntary termination for good reason" and "voluntary termination without good reason"), "death or disability," "retirement," "involuntary termination without cause," and "change in control," as applicable, is shown below. We have prepared the tables based on the assumptions set forth below under "General Assumptions," and the tables should be considered in conjunction with those assumptions and the disclosures below the tables.
+In April 2018, the Board adopted the AutoNation, Inc. Executive Severance Plan to help retain key employees and maintain a stable work environment by providing severance benefits to covered employees in the event of certain terminations of employment. Under the Severance Plan, in the event a covered employee is terminated without cause, or a covered employee terminates his or her employment for good reason, as long as such person (a) is not in material breach of any restrictive covenant agreement with the Company, (b) does not breach any such restrictive covenant agreement as if it had been in effect through the 18-month period following the applicable termination date, and (c) signs a waiver and release of claims, then such person will be entitled to receive:
+[BEGIN TABLE]
+• in equal installments over 18 months, 1.5 times the sum of such person's annual base salary and target annual bonus,  
+• in a lump sum at the same time bonuses are paid to active employees generally, an amount equal to such person's annual bonus as determined by the Committee, pro-rated for the number of days the person was employed during the calendar year through the applicable termination date, and 
+• a payment equal to the cost of health insurance coverage, grossed up for taxes, based on such person's then-current elections for an 18-month period. 
+[END TABLE]
+Each of our named executive officers, other than Mr. Jackson, was covered by the Severance Plan as of December 31, 2018. Table of Contents
+General Assumptions
+Stock-Based Awards 
+In certain cases upon a termination of employment, the vesting of unvested stock options and shares of restricted stock would be accelerated. In the event of a participant's death, the vesting of RSUs would be accelerated or would continue on a prorated basis, subject to the satisfaction of applicable performance goals. In certain cases upon a termination of employment (other than as a result of death), the vesting of RSUs would continue in full or on a prorated basis, subject to the satisfaction of applicable performance goals, following the termination of employment. 
+To determine the value of each unvested stock option that would accelerate in the applicable cases, we calculated the difference, if positive, between (1) the closing price per share of our common stock on December 31, 2018, which was $35.70, and (2) the exercise price of such stock option, and multiplied such difference by the number of shares underlying such stock option. Since vested stock options are already exercisable upon termination (except in the case of a termination for "cause"), no value is attributable in the tables to the extension of the exercise period for such vested options. All unvested stock options held by our named executive officers as of December 31, 2018 had a higher exercise price than the closing price per share of our common stock on such date. Accordingly, no value is shown for the acceleration of such unvested stock options in the tables below.
+To determine the market value of unvested shares of restricted stock and RSUs that would accelerate, and the market value of unvested RSUs that would continue to vest in the applicable cases, we multiplied (x) the number of unvested shares of restricted stock and RSUs that would accelerate or continue to vest by (y) $35.70. In addition, in the case of unvested RSUs that would continue to vest on a prorated basis subject to the satisfaction of applicable performance goals, we assumed that the target level of performance would be achieved.
+Change in Control 
+We have not entered into any change in control agreements with any of our named executive officers. Under the 2008 Plan, in the event of a "change in control" (as defined in the 2008 Plan and related agreements), all outstanding stock options held by a named executive officer shall become immediately exercisable in full and, unless waived in advance of such change in control by our Board, such executive shall have the right to require us to pay, in cancellation of options, an amount equal to the product of (i) the excess of (a) the fair market value per share of the stock over (b) the option price times (ii) the number of shares of stock specified by such executive in a written notice to us. In addition, in the event of a change in control, all unvested shares of restricted stock held by a named executive officer shall immediately vest. 
+Under the 2017 Plan, if an outstanding award is continued, assumed, or substituted in connection with a "change in control" (as defined in the 2017 Plan and related agreements), then, in the case of awards subject to performance goals: 
+[BEGIN TABLE]
+• the performance goals will be deemed to be achieved at the target level of performance, and the awards will vest in full at the end of the applicable performance period, subject to the participant's continued employment, and 
+• if within 24 months following such change in control, a participant's employment or service is terminated without cause or the participant resigns with good reason (as defined in the 2017 Plan and related agreements), all of the participant's outstanding equity awards that have not yet vested will immediately vest and become exercisable and all restrictions on such awards will immediately lapse. 
+[END TABLE]
+Under the 2017 Plan, if an outstanding award is not continued, assumed, or substituted in connection with a change in control, then such award will immediately vest and become exercisable and all restrictions on such awards will immediately lapse (if applicable, assuming achievement at the target level of performance goals).
+The following tables disclose the value of unvested stock options, shares of restricted stock, and restricted stock units held by our named executive officers that would have accelerated if a change in control had taken place on December 31, 2018, the last business day of 2018. To determine such value, we used the formula and assumptions described above under "Stock-Based Awards." With respect to awards granted under the 2017 Plan, we assumed that such awards were not continued, assumed, or substituted in connection with the change in control. Table of Contents
+Restrictive Covenant Agreements 
+Our named executive officers have entered into restrictive covenants and other obligations as contained in various stock-based award agreements, confidentiality, non-solicitation/no-hire and non-compete agreements, and other similar agreements with us in connection with employment or the grant of stock-based awards. Generally, these restrictive covenants provide a restriction of one year in which the named executive officer may not perform certain activities within specified geographic regions. The competitive activities include generally (i) participating or owning an interest in an entity engaged in the auto business (as defined in the applicable agreement) or any other business of the type and character engaged in by us, (ii) employing any person that was employed by us within the prior six months or seeking to induce any such person to leave his or her employment, (iii) soliciting any customer to patronize any business in competition with our business, or (iv) requesting or advising our customers or vendors to withdraw, curtail, or cancel their business with us. In certain cases, the receipt of post-termination payments by our named executive officers is conditioned upon their compliance with these restrictive covenants. In addition, if a named executive officer violates these restrictive covenants or other Company policy, (x) all vested and unvested employee stock options held by him or her would terminate immediately, and he or she would be required to pay to the Company an amount equal to the gain on any exercise of any stock option exercised by him or her during the preceding 12 months and (y) all unvested shares of restricted stock held by him or her would be immediately forfeited, and he or she would be required to pay to the Company an amount equal to the value of any restricted stock that vested during the preceding 12 months. The following tables assume that each of our named executive officers would have complied with these agreements.
+Receipt of Benefits 
+To the extent required in order to comply with Section 409A of the Code, certain payments that would otherwise be made during the six-month period immediately following the executive's termination of employment may instead be paid on the first business day after the date that is six months following the executive's "separation from service" within the meaning of Section 409A. 
+Description of Triggering Events 
+Termination for Cause
+Under the Severance Plan, termination for "cause" generally means that a covered employee has (i) breached his or her restrictive covenants set forth in any agreement with the Company, (ii) failed or refused to perform his or her assigned duties and responsibilities to the Company in any material respect, after notice and a reasonable opportunity to cure, (iii) willfully engaged in illegal conduct or gross misconduct in the performance of his or her duties to the Company, (iv) committed an act of fraud or dishonesty affecting the Company or committed an act constituting a felony, or (v) willfully violated any material Company policies in any material respect. 
+Under our employment agreement with Mr. Jackson, termination for "cause" generally means termination because of (i) the executive's breach of any of his covenants contained in the employment agreement, (ii) the executive's failure or refusal to perform the duties and responsibilities required to be performed by the executive under the terms of the employment agreement, (iii) the executive's willfully engaging in illegal conduct or gross misconduct in the performance of his duties hereunder (provided that no act or failure to act shall be deemed "willful" if done, or omitted to be done, in good faith and with the reasonable belief that such action or omission was in our best interest), (iv) the executive's commission of an act of fraud or dishonesty affecting us or the commission of an act constituting a felony, or (v) the executive's violation of our policies in any material respect. 
+Under our equity compensation plans, termination for "cause" generally means termination because of (i) the executive's conviction for commission of a felony or other crime, (ii) the commission by the executive of any act against us constituting willful misconduct, dishonesty, fraud, theft, or embezzlement, (iii) the executive's failure, inability, or refusal to perform any of the material services, duties, or responsibilities required of him by us or to materially comply with the policies or procedures established from time to time by us, for any reason other than his illness or physical or mental incapacity, (iv) the executive's dependence, as determined in good faith by us, on any addictive substance, including, but not limited to, alcohol or any illegal or narcotic drugs, (v) the destruction of or material damage to our property caused by the executive's willful or grossly negligent conduct, and (vi) the willful engaging by the executive in any other conduct which is demonstrably injurious to us or our subsidiaries, monetarily or otherwise.  Table of Contents
+Termination for Good Reason 
+Under the Severance Plan, "good reason" generally means the occurrence of (i) the assignment to a covered employee of any duties inconsistent with such employee's status or a substantial adverse alteration in the nature or status of such employee's responsibilities, (ii) a reduction by the Company in a covered employee's annual base salary, (iii) the relocation of a covered employee's principal place of employment by more than 50 miles, (iv) the failure by the Company to pay to a covered employee any portion of such employee's current compensation, or to pay to a covered employee any portion of an installment of deferred compensation under any deferred compensation program, or (v) the failure by the Company to continue in effect any compensation plan in which a covered employee participates which is material to such employee's total compensation, unless a comparable arrangement has been made with respect to such plan, or an adverse change in a covered employee's participation therein either in terms of the amount or timing of payment of benefits provided or the level of such employee's participation relative to other participants.
+Under our employment agreement with Mr. Jackson, "good reason" generally means the occurrence of (i) a material change by us in the executive's duties or responsibilities which would cause the executive's position to become of materially and substantially less responsibility and importance than those associated with his duties or responsibilities as of the date of the employment agreement, or (ii) a material breach of the employment agreement by us, which breach is not cured within ten days after written notice is received by us. 
+Retirement 
+Retirement (as defined in our equity compensation plans) generally means the named executive officer's termination of employment or other service from us or a subsidiary of ours after attainment of age 55 and completion of at least six years of service with us or a subsidiary of ours (disregarding any service with an entity prior to becoming a subsidiary or after ceasing to be a subsidiary). As of December 31, 2018, Mr. Jackson was, but Ms. Miller and Messrs. Iserman, Berger, and Conophy were not, retirement-eligible under our equity compensation plans.
+Mike Jackson 
+[BEGIN TABLE]
+  Termination for CauseVoluntary Termination for Good ReasonVoluntary Termination Without Good Reason Death or DisabilityRetirement Involuntary Termination Without CauseChange in Control 
+  Termination for CauseVoluntary Termination for Good ReasonVoluntary Termination Without Good Reason Death or DisabilityRetirement Involuntary Termination Without CauseChange in Control 
+  Termination for CauseVoluntary Termination for Good ReasonVoluntary Termination Without Good Reason Death or DisabilityRetirement Involuntary Termination Without CauseChange in Control 
+Cash Severance —   $10,300,000 —   —   —   $10,300,000 —   
+Equity Awards —   $17,100,000 —   —   —   $17,100,000 —   
+Deferred Bonus —   $1,110,375 —   $1,110,375 —   $1,110,375 —   
+Acceleration of Unvested RSUs —   $12,193,299 $9,980,114 $9,980,114 $9,980,114 $12,193,299 $12,193,299 
+Post-Separation Health and Welfare Benefits —   $21,041 —   —   —   $21,041 —   
+[END TABLE]
+ Table of Contents
+(ii) above would have been made by us at the same time as the annual bonuses were paid to other bonus-eligible employees (or at a later date, to the extent required to comply with Section 409A of the Code). Since the assumed date of termination is year-end, payment of the amount due under clause (ii) above (which was $1,963,000 for 2018, a portion of which was subject to the terms of the Deferred Bonus Program discussed below) is reflected under the "Non-Equity Incentive Plan Compensation" column in the "Summary Compensation Table," and not as "Cash Severance" in the table above. Mr. Jackson also would have been entitled to receive the remaining target equity awards set forth in his employment agreement that had not yet been granted as of the date of termination.
+In addition, in accordance with the terms of his employment agreement, unless he had elected retirement treatment under our equity compensation plans, (i) all vested stock options held by Mr. Jackson would have remained exercisable for the remainder of their initial ten-year term, and (ii) all unvested stock options or other stock-based awards held by him would have immediately vested, and such stock options or other stock-based awards carrying a right to exercise would have remained exercisable until the first anniversary of such termination.
+Mr. Jackson and his dependents also would have been entitled to continue to participate in our group health and welfare benefit plans for a period of 18 months following the termination at the same cost to Mr. Jackson as provided to him prior to termination. The table above reflects our estimated expense based on the applicable premiums as of January 1, 2019.
+The Deferred Bonus Program established for Mr. Jackson in 2016 provided that he is entitled to the amounts deferred thereunder in the event of his death or disability (as defined in Section 409A of the Code), if his employment is terminated without "cause" (as defined in his employment agreement), or if he terminates his employment for "good reason" (as defined in his employment agreement). See "Compensation Discussion and Analysis - Annual Incentive Awards." 
+Voluntary Termination Without Good Reason 
+If Mr. Jackson had terminated his employment with us without "good reason," he would not have been entitled to any payments triggered by the termination. Since Mr. Jackson is eligible for "retirement" (as defined in our equity compensation plans), he would have been entitled to the benefit described in the "Retirement" paragraph below.  
+Termination Due to Death or Disability 
+If Mr. Jackson's employment had terminated due to death or disability (as defined in our equity compensation plans), all options held by Mr. Jackson at the time of termination would have immediately vested and remained exercisable until the earlier of the expiration date of the option or the third anniversary of the date of termination. 
+With respect to RSUs granted under the 2017 Plan, if Mr. Jackson's employment had terminated due to death, the RSUs that were granted subject solely to a one-year performance goal would have immediately vested, and the RSUs that were granted subject to a three-year performance goal would have continued to vest on a pro-rated basis (with the payout level determined based on actual performance). If Mr. Jackson's employment had terminated due to disability, then he would have continued to vest in any RSUs that were granted subject solely to a one-year performance goal and in a pro-rated portion of any RSUs that were granted subject to a three-year performance goal (with the payout level determined based on actual performance), only if he fully complied with any non-compete, non-disparagement, confidentiality and other restrictive covenants set forth in any agreement entered into between him and the Company determined, notwithstanding the time periods set forth therein, as if all such restrictive covenants applied at all times while any such awards were outstanding.
+As noted above, if Mr. Jackson's employment had terminated due to death or disability, he would have been entitled to all amounts deferred under the Deferred Bonus Program established for Mr. Jackson in 2016.
+Retirement 
+If Mr. Jackson had retired, all stock options held by him at the time of termination would have immediately vested and remained exercisable until the earlier of the expiration date of the option or the third anniversary of the date of termination. In addition, he would have continued to vest in any RSUs that were granted subject solely to a one-year performance goal and in a pro-rated portion of any RSUs that were granted subject to a three-year performance goal (with the payout level determined based on actual performance), only if he fully complied with any non-compete, non- Table of Contents disparagement, confidentiality and other restrictive covenants set forth in any agreement entered into between him and the Company determined, notwithstanding the time periods set forth therein, as if all such restrictive covenants applied at all times while any such awards were outstanding.
+Involuntary Termination Without Cause 
+If we had terminated Mr. Jackson's employment without "cause," as long as he remained in compliance with the restrictive covenants and confidentiality provisions of his employment agreement and signed a reasonable and mutually acceptable severance agreement (including a release and a covenant of reasonable cooperation), he would have been entitled to receive the same payments and other benefits as described in the first paragraph under "Voluntary Termination for Good Reason" above. In addition, as noted above, if we had terminated Mr. Jackson's employment without "cause," he would have been entitled to all amounts deferred under the Deferred Bonus Program established for Mr. Jackson in 2016.
+Cheryl Miller
+[BEGIN TABLE]
+  Termination for CauseVoluntary Termination for Good ReasonVoluntary Termination Without Good Reason Death or DisabilityInvoluntary Termination Without CauseChange in Control 
+  Termination for CauseVoluntary Termination for Good ReasonVoluntary Termination Without Good Reason Death or DisabilityInvoluntary Termination Without CauseChange in Control 
+  Termination for CauseVoluntary Termination for Good ReasonVoluntary Termination Without Good Reason Death or DisabilityInvoluntary Termination Without CauseChange in Control 
+Cash Severance —   $1,817,856 —   —   $1,817,856 —   
+Acceleration of Unvested Shares of Restricted Stock and RSUs —   —   —   $2,040,624 —   $2,492,360 
+  Termination for CauseVoluntary Termination for Good ReasonVoluntary Termination Without Good Reason Death or DisabilityInvoluntary Termination Without CauseChange in Control 
+  Termination for CauseVoluntary Termination for Good ReasonVoluntary Termination Without Good Reason Death or DisabilityInvoluntary Termination Without CauseChange in Control 
+Cash Severance —   $2,023,006 —   —   $2,023,006 —   
+Acceleration of Unvested Shares of Restricted Stock and RSUs —   —   —   $1,017,878 —   $1,195,379 
+[END TABLE]
+Dennis G. Berger
+[BEGIN TABLE]
+  Termination for CauseVoluntary Termination for Good ReasonVoluntary Termination Without Good Reason Death or DisabilityInvoluntary Termination Without CauseChange in Control 
+  Termination for CauseVoluntary Termination for Good ReasonVoluntary Termination Without Good Reason Death or DisabilityInvoluntary Termination Without CauseChange in Control 
+  Termination for CauseVoluntary Termination for Good ReasonVoluntary Termination Without Good Reason Death or DisabilityInvoluntary Termination Without CauseChange in Control 
+Cash Severance —   $1,303,918 —   —   $1,303,918 —   
+Acceleration of Unvested Shares of Restricted Stock and RSUs —   —   —   $1,244,752 —   $1,375,771 
+  Termination for CauseVoluntary Termination for Good ReasonVoluntary Termination Without Good Reason Death or DisabilityInvoluntary Termination Without CauseChange in Control 
+  Termination for CauseVoluntary Termination for Good ReasonVoluntary Termination Without Good Reason Death or DisabilityInvoluntary Termination Without CauseChange in Control 
+Cash Severance —   $1,628,501 —   —   $1,628,501 —   
+Acceleration of Unvested Shares of Restricted Stock and RSUs —   —   —   $1,766,210 —   $2,135,931 
+[END TABLE]
+Messrs. Iserman and Conophy left the Company effective as of January 7, 2019, and Mr. Berger left the Company effective as of January 31, 2019. See "Named Executive Officer Departures" below for a description of the separation agreements we entered into with Messrs. Iserman, Berger, and Conophy in connection with their separations of employment. Table of Contents
+Termination for Cause 
+If we had terminated Ms. Miller's or Messrs. Iserman's, Berger's, or Conophy's employment for "cause," they would not have been entitled to any payments triggered by the termination, and all equity awards held by them on the date of termination would have been canceled.
+Voluntary Termination for Good Reason
+If Ms. Miller or Messrs. Iserman, Berger, or Conophy had voluntarily terminated their employment for "good reason," as long as (a) she or he was not in material breach of any restrictive covenant agreement with the Company, (b) she or he did not breach any such restrictive covenant agreement as if it had been in effect through the 18-month period following the applicable termination date, and (c) she or he signed a waiver and release of claims, then she or he would have been entitled to receive:
+[BEGIN TABLE]
+• in equal installments over 18 months, 1.5 times the sum of (i) her or his annual base salary and (ii) her or his target annual bonus,  
+• in a lump sum at the same time bonuses are paid to active employees generally, an amount equal to her or his annual bonus as determined by the Committee, pro-rated for the number of days she or he was employed during the calendar year through the termination date, and 
+• a payment equal to the cost of health insurance coverage, grossed up for taxes, based on such person's then-current elections for an 18-month period. 
+[END TABLE]
+Any options held by Ms. Miller or Messrs. Iserman, Berger, or Conophy, to the extent exercisable on the date of termination, would remain exercisable until the earlier of the expiration date of the options or 60 days following the date of termination, and any unvested equity awards held by her or him on the date of termination would be canceled. 
+Termination Due to Death or Disability 
+If Ms. Miller's or Messrs. Iserman's, Berger's, or Conophy's employment had terminated because of death or disability (as defined in our equity compensation plans), she or he would not have been entitled to any payments triggered by the termination. With respect to options and shares of restricted stock granted under the 2008 Plan, any unvested options and any unvested shares of restricted stock held by such executive would immediately vest, and all such options and all vested options held by such executive would remain exercisable until the earlier of the expiration date of the option or the third anniversary of the date of termination. 
+If Ms. Miller's or Messrs. Iserman's, Berger's, or Conophy's employment had terminated because of death, any RSUs that were granted subject solely to a one-year performance goal would immediately vest, and any RSUs that were granted subject to a three-year performance goal would continue to vest on a prorated basis (with the payout level determined based on actual performance). If Ms. Miller's or Messrs. Iserman's, Berger's, or Conophy's employment had terminated due to disability, then she or he would continue to vest in any RSUs that were granted subject solely to a one-year performance goal and in a prorated portion of any RSUs that were granted subject to a three-year performance goal (with the payout level determined based on actual performance), only if such executive fully complied with any non-compete, non-disparagement, confidentiality and other restrictive covenants set forth in any agreement entered into between him or her and the Company determined, notwithstanding the time periods set forth therein, as if all such restrictive covenants applied at all times while any such awards are outstanding.
+Involuntary Termination Without Cause 
+If we had terminated Ms. Miller's or Messrs. Iserman's, Berger's, or Conophy's employment without "cause," she or he would have been entitled to receive the same payments and other benefits as described under the section "Voluntary Termination for Good Reason" above. 
+Named Executive Officer Departures
+Lance Iserman
+On January 17, 2019, the Company entered into a Separation Agreement and General Release of All Claims with Mr. Iserman in connection with his separation from the Company effective as of January 7, 2019. Pursuant to the terms of his separation agreement, in consideration for, among other things, his compliance with certain restrictive covenants and all other existing agreements between him and the Company, the Company agreed to pay to Mr. Iserman (i) an initial  Table of Contents installment of $334,785 and 35 installments of $54,896 payable in accordance with the Company's normal payroll schedule, less applicable taxes and withholdings, and (ii) a payment equal to the cost of health insurance coverage, grossed up for taxes, for an 18-month period. In accordance with the terms of the Company's equity plans, all vested options held by Mr. Iserman at the time of his separation remained exercisable for 60 days following the date of his separation, and all unvested equity awards then held were canceled.
+Dennis G. Berger
+On January 31, 2019, the Company entered into a Separation Agreement and General Release of All Claims with Mr. Berger in connection with his separation from the Company effective as of January 31, 2019. Pursuant to the terms of his separation agreement, in consideration for, among other things, his compliance with certain restrictive covenants and all other existing agreements between him and the Company, the Company agreed to pay to Mr. Berger (i) an initial installment of $139,057 and 35 installments of $35,417 payable in accordance with the Company's normal payroll schedule, less applicable taxes and withholdings, and (ii) a payment equal to the cost of health insurance coverage, grossed up for taxes, for a 7-month period. Mr. Berger will participate in the Company's group health benefits programs until December 31, 2019. In addition, the Company agreed to treat Mr. Berger as "retirement" eligible solely with respect to the award of 22,021 restricted stock units granted to him on April 2, 2018.
+Thomas M. Conophy
+On January 17, 2019, the Company entered into a Separation Agreement and General Release of All Claims with Mr. Conophy in connection with his separation from the Company effective as of January 7, 2019. Pursuant to the terms of his separation agreement, in consideration for, among other things, his compliance with certain restrictive covenants and all other existing agreements between him and the Company, the Company agreed to pay to Mr. Conophy (i) an initial installment of $437,426 and 35 installments of $43,917 payable in accordance with the Company's normal payroll schedule, less applicable taxes and withholdings, and (ii) a payment equal to the cost of health insurance coverage, grossed up for taxes, for an 18-month period. In accordance with the terms of the Company's equity plans, all unvested equity awards held by Mr. Conophy at the time of his separation were canceled.
+PAY RATIO
+As required by Section 953(b) of the Dodd-Frank Wall Street Reform and Consumer Protection Act, and Item 402(u) of Regulation S-K, the Compensation Committee determined that the total annual compensation paid to our Chief Executive Officer in respect of 2018 was approximately 222 times the median of the total annual compensation of all of our employees (other than our Chief Executive Officer) in respect of 2018. 
+Under the disclosure instructions to Item 402(u), the median-paid employee may be identified once every three years if there is no significant impact to the pay ratio disclosure. As there were no significant changes in our employee population or to the median-paid employee's compensation arrangements in 2018 that would significantly affect the pay ratio disclosure, the employee representing the median-paid employee is the same employee selected for the 2018 Proxy Statement. The annual total compensation of the median-paid employee was $56,259. The annual total compensation of our Chief Executive Officer is set forth in the "Summary Compensation Table" above under the heading "Total."
+As previously reported in our 2018 Proxy Statement, we identified the median employee by examining 2017 total compensation for all individuals, excluding our Chief Executive Officer, who were employed by us on December 31, 2017. We included all employees, whether employed on a full-time or part-time basis, excluding contingent and outsourced employees and contractors. We calculated annual total compensation for all employees using the same methodology we use for our named executive officers as set forth in the "Summary Compensation Table" above.   Table of Contents
+AUDIT COMMITTEE REPORT 
+The following statement made by our Audit Committee does not constitute soliciting material and should not be deemed filed or incorporated by reference into any filing under the Securities Act of 1933, as amended, or the Securities Exchange Act of 1934, as amended, except to the extent that we specifically incorporate such statement by reference. 
+The Board has determined that each Audit Committee member has the requisite independence and other qualifications for audit committee membership under SEC rules, the listing standards of the NYSE, our Audit Committee Charter, and the independence standards set forth in our Corporate Governance Guidelines. The Board has also determined that each of Mr. Grusky and Mr. Edelson is an "audit committee financial expert" as defined under Item 407(d)(5) of Regulation S-K under the Securities Exchange Act of 1934, as amended. 
+As more fully described below, in carrying out its responsibilities, the Audit Committee looks to management and AutoNation's independent registered public accounting firm. The Audit Committee members are not professionally engaged in the practice of accounting or auditing. The Audit Committee operates under a written charter that is reviewed annually and is available at investors.autonation.com. 
+Our primary function is to assist the Board in fulfilling its oversight responsibilities by reviewing AutoNation's financial reporting, audit processes, internal control over financial reporting, and disclosure controls. Management is responsible for the Company's consolidated financial statements and the financial reporting process, including internal control over financial reporting. We also monitor the preparation by management of the Company's quarterly and annual consolidated financial statements. KPMG LLP ("KPMG"), AutoNation's independent registered public accounting firm, is accountable to us and is responsible for expressing an opinion as to whether the consolidated financial statements present fairly, in all material respects, the financial position, results of operations, and cash flows of AutoNation in conformity with U.S. generally accepted accounting principles. KPMG also is responsible for auditing and reporting on internal control over financial reporting. We are solely responsible for selecting and reviewing the performance of AutoNation's independent registered public accounting firm and, if we deem appropriate in our sole discretion, terminating and replacing the independent registered public accounting firm. We also are responsible for reviewing and approving the terms of the annual engagement of AutoNation's independent registered public accounting firm, including the scope of audit and non-audit services to be provided by the independent registered public accounting firm and the fees to be paid for such services, and discussing with the independent registered public accounting firm any relationships or services that may impact the objectivity and independence of the independent registered public accounting firm. 
+In fulfilling our oversight role, we met and held discussions, both together and separately, with the Company's management and KPMG. Management advised us that the Company's consolidated financial statements were prepared in accordance with U.S. generally accepted accounting principles, and we reviewed and discussed the consolidated financial statements and key accounting and reporting issues with management and KPMG, both together and separately, in advance of the public release of operating results and filing of annual or quarterly reports with the SEC. We discussed significant matters with KPMG, including those matters required to be discussed pursuant to Auditing Standard No. 1301, Communications with Audit Committees, adopted by the Public Company Accounting Oversight Board ("PCAOB"), and the rules of the SEC, and reviewed a letter from KPMG disclosing such matters. 
+KPMG also provided us with the written disclosures and the letter required by applicable requirements of the PCAOB regarding the independent registered public accounting firm's communications with the Audit Committee concerning independence, and we discussed with KPMG matters relating to their independence and considered whether their provision of certain non-audit services is compatible with maintaining their independence. In the letter, KPMG confirmed its independence, and we determined that KPMG's provision of non-audit services to AutoNation is compatible with maintaining their independence. We also reviewed a report by KPMG describing the firm's internal quality-control procedures and any material issues raised in the most recent internal quality-control review or external peer review or inspection performed by the PCAOB.  Table of Contents
+Based on our review with management and KPMG of AutoNation's audited consolidated financial statements and KPMG's report on such consolidated financial statements, and based on the discussions and written disclosures described above and our business judgment, we recommended to the Board of Directors that the audited consolidated financial statements be included in AutoNation's Annual Report on Form 10-K for the year ended December 31, 2018 for filing with the SEC. 
+Audit Committee: 
+Robert R. Grusky, Chair 
+Tomago Collins
+David B. Edelson
+Jacqueline A. Travisano  Table of Contents
+ITEMS TO BE VOTED ON
+PROPOSAL 1: ELECTION OF DIRECTORS 
+Our Board has nominated each of the following nine persons to stand for election for a term expiring at the 2020 Annual Meeting of Stockholders or until their successors are duly elected and qualified: Mike Jackson, Thomas J. Baltimore, Jr., Rick L. Burdick, David B. Edelson, Steven L. Gerard, Robert R. Grusky, Carl C. Liebert III, G. Mike Mikan, and Jacqueline A. Travisano. Each of the nominees is willing and able to serve as a director of AutoNation. See "Board of Directors and Corporate Governance - Directors" for information regarding each of the director nominees. Proxies cannot be voted for a greater number of persons than the number of nominees named in this proxy statement.
+Recommendation of the Board 
+The Board recommends that you vote "FOR" the election of each of the persons nominated by the Board. 
+PROPOSAL 2: RATIFICATION OF THE SELECTION OF 
+OUR INDEPENDENT REGISTERED PUBLIC ACCOUNTING FIRM 
+The Audit Committee of our Board of Directors is directly responsible for the appointment, compensation, retention, and oversight of the Company's independent registered public accounting firm. To fulfill this responsibility, the Committee engages in a comprehensive annual evaluation of the independent registered public accounting firm's qualifications, performance, and independence and considers whether the independent registered public accounting firm should be rotated and the advisability and potential impact of selecting a different independent registered public accounting firm.
+The Audit Committee has selected KPMG LLP ("KPMG") as our independent registered public accounting firm for the year ending December 31, 2019. KPMG has served in this capacity since May 6, 2003. In accordance with SEC rules and KPMG policies, audit partners are subject to rotation requirements to limit the number of consecutive years an individual partner may provide audit services to our Company. For the lead audit engagement partner and the engagement quality control reviewing partner, the maximum number of consecutive years of service in that capacity is five years. The process for selection of the Company's lead audit engagement partner pursuant to this rotation policy involves a meeting between the Chair of the Audit Committee and the candidate for the role, as well as a discussion by the full Committee and with management.
+The Audit Committee and the Board of Directors believe that the continued retention of KPMG as our independent registered public accounting firm is in the best interest of the Company and our stockholders, and we are asking our stockholders to ratify the selection of KPMG as our independent registered public accounting firm for 2019. Although not required by our organizational documents or applicable law, our Board is submitting the selection of KPMG to our stockholders for ratification because we value our stockholders' views on the Company's independent registered public accounting firm, and we believe doing so is consistent with good corporate governance. If the selection of KPMG as our independent registered public accounting firm is not ratified by our stockholders, the Audit Committee will re-evaluate its selection, taking into consideration the stockholder vote on the ratification. However, the Audit Committee is solely responsible for selecting and terminating our independent registered public accounting firm and may do so at any time at its discretion. A representative of KPMG is expected to attend the Annual Meeting and be available to respond to appropriate questions. The representative also will be afforded an opportunity to make a statement, if he or she desires to do so. 
+Auditor Fees and Services 
+The Audit Committee is responsible for the compensation of the Company's independent registered public accounting firm and oversees the audit fee negotiations associated with the Company's retention of KPMG. The following table shows the fees for audit and other services provided by KPMG for fiscal years 2017 and 2018. Table of Contents
+[BEGIN TABLE]
+Fee Category 2017 2018 
+Audit Fees $ 2,992,700   $ 2,712,662   
+Audit-Related Fees —   —   
+Tax Fees —   —   
+All Other Fees 1,780   1,780   
+Total Fees $ 2,994,480   $ 2,714,442   
+[END TABLE]
+Audit Fees. This category includes fees billed for professional services rendered by KPMG for the audit of our consolidated financial statements, audit of our internal control over financial reporting, review of the consolidated financial statements included in our Form 10-Q quarterly reports, and services that are normally provided by the independent registered public accounting firm in connection with acquisitions, new accounting standards, and statutory or regulatory filings or engagements, including comfort letters and consents issued in connection with SEC filings.
+Audit-Related Fees. No audit-related fees were billed by KPMG in 2017 or 2018.
+Tax Fees. No tax fees were billed by KPMG in 2017 or 2018. 
+All Other Fees. This category consists of fees billed for our use of KPMG's online technical research service. 
+Policy for Approval of Audit and Permitted Non-Audit Services 
+Our Audit Committee's policies require pre-approval of all audit and permissible non-audit services provided by our independent registered public accounting firm other than services permitted under the de minimis exception under applicable SEC rules (which are approved by our Audit Committee prior to our independent registered public accounting firm's completion of its annual audit). Under our Audit Committee's policies, pre-approval generally is detailed as to the particular service or category of services and is subject to a specific budget. Under our Audit Committee's policies, all tax planning services and services that do not constitute audit, audit-related, or tax-compliance services are subject to a formal bidding process and may not be provided by our independent registered public accounting firm unless our Audit Committee concludes that such services may be provided most effectively or economically by our independent registered public accounting firm and that the independence of our registered public accounting firm would not be affected adversely by the provision of such services. Our Audit Committee has delegated to its Chair the authority to approve, within guidelines and limits established by the Committee, specific services to be provided by our independent registered public accounting firm and the fees to be paid. Any such approval must be reported to the Audit Committee at the next scheduled meeting. As required by Section 10A of the Exchange Act, our Audit Committee pre-approved all audit and non-audit services provided by our independent registered public accounting firm during 2017 and 2018, and the fees paid for such services. 
+Recommendation of the Board 
+The Board recommends that you vote "FOR" the ratification of the selection of KPMG as our independent registered public accounting firm for us and our subsidiaries for 2019. Table of Contents
+PROPOSAL 3: STOCKHOLDER PROPOSAL
+The stockholder proposal set forth below was submitted to the Company by John Chevedden, 2215 Nelson Avenue, No. 205, Redondo Beach, California 90278, a purported owner of "no fewer than" 100 shares of our common stock, or approximately 0.0001% of our outstanding shares. Mr. Chevedden's proposal is printed below verbatim, and we have not endeavored to correct any inaccurate statements that may be contained therein. The Company is not responsible for the contents of this proposal or the supporting statement. Our Board has recommended a vote against the proposal for the reasons set forth following the proposal.
+"3 - Independent Board Chairman
+Shareholders request our Board of Directors to adopt as a policy, and amend our governing documents as necessary, to require henceforth that the Chair of the Board of Directors, whenever possible, to be an independent member of the Board. The Board would have the discretion to phase in this policy for the next Chief Executive Officer transition, implemented so it does not violate any existing agreement. 
+If the Board determines that a Chairman, who was independent when selected is no longer independent, the Board shall select a new Chairman who satisfies the requirements of the policy within a reasonable amount of time. Compliance with this policy is waived if no independent director is available and willing to serve as Chairman. This proposal requests that all the necessary steps be taken to accomplish the above.
+This proposal topic won 50%-plus support at 5 major U.S. companies in 2013 including 73%-support at Netflix. These 5 majority votes would have been still higher if all shareholders had access to independent proxy voting advice.
+An independent Board Chairman would have more time and incentive to focus on the wisdom of stock repurchases:
+Additional AutoNation share repurchase authorization of common stock of up to $250 Million 
+May 2018
+Additional AutoNation share repurchase authorization of up to $250 Million 
+August 2017
+There is a concern about share repurchases like the above. Share repurchases can be a sign of short-termism for executives - sometimes boosting share price without boosting the underlying value, profitability, or ingenuity of the company. A dollar spent repurchasing a share is a dollar that cannot be spent on new equipment, an acquisition, entry into a new market or anything else.
+This proposal topic is of increased importance this year since AutoNation announced the transition of Mike Jackson to executive chairman in 2019, a position he is expected to hold through 2021. Most often a departing Chairman will not remain at a company or will remain for a maximum of few months.
+When considering a shareholder proposal such as this is good to remember the positive role that shareholder proposals have. For instance a 2017 shareholder proposal resulted in AutoNation adopting a proxy access right for shareholders. Another example is a 2015 shareholder proposal by William Steiner to Sonoco that resulted in Sonoco adopting one-year terms for directors - replacing 3-year terms.
+An independent Chairman is best positioned to build up the oversight capabilities of our directors while our CEO addresses the challenging day-to-day issues facing the company. The roles of Chairman and CEO are fundamentally different and should be held by 2 directors, a CEO and a Chairman who is completely independent of the CEO and our company.
+Please vote yes:
+Independent Board Chairman - Proposal 3"
+ Table of Contents
+Board of Directors' Response
+The Board opposes this proposal because the Company has already adopted a policy regarding an independent Chairman of the Board. As discussed above under "Board of Directors and Corporate Governance - Role of the Board and Board Structure," effective upon the termination of Mr. Jackson's employment agreement with the Company pursuant to the terms thereof, the general policy of the Board shall be that the Chairman should be an independent director. In addition, the Board has appointed Carl C. Liebert III to serve as our Chief Executive Officer and President and Mike Jackson to serve as our Executive Chairman (including Chairman of the Board) of the Board, effective as of March 11, 2019. Consistent with our corporate governance guidelines, the Board will continue to elect a Lead Independent Director until an independent Chairman of the Board is elected. The Board believes that the adopted policy suitably addresses the concerns raised by the proposal in a practicable and enforceable manner, rendering the policy sought by the proposal unnecessary.
+Recommendation of the Board
+The Board recommends that you vote "AGAINST" this stockholder proposal.
+OTHER MATTERS
+We are not aware of any other matters that will be properly brought before the Annual Meeting. However, if any additional matters are properly brought before the Annual Meeting, Messrs. Jackson and Edmunds will vote as recommended by our Board of Directors or, if no recommendation is given, in accordance with their judgment. Messrs. Jackson and Edmunds were designated to be your proxies by our Board of Directors. 
+HOUSEHOLDING; AVAILABILITY OF ANNUAL REPORT AND PROXY STATEMENT 
+The SEC permits companies and intermediaries, such as a brokerage firm or a bank, to satisfy the delivery requirements for Notices and proxy materials with respect to two or more stockholders sharing the same address by delivering only one Notice or set of proxy materials to that address. This process, which is commonly referred to as "householding," can effectively reduce our printing and postage costs. 
+Certain of our stockholders whose shares are held in street name and who have consented to householding will receive only one Notice or set of proxy materials per household. If you would like to receive a separate Notice or set of proxy materials in the future, or if your household is currently receiving multiple copies of the same items and you would like to receive only a single copy at your address in the future, please contact Householding Department by mail at 51 Mercedes Way, Edgewood, NY 11717 or by telephone at 866-540-7095 and indicate your name, the name of each of your brokerage firms or banks where your shares are held, and your account numbers. 
+If you would like to receive a copy of our 2018 Annual Report or this proxy statement, please contact our Investor Relations by mail at Investor Relations, AutoNation, Inc., 200 SW 1st Ave, Fort Lauderdale, FL 33301 or by telephone at (954) 769-7342, and we will send a copy to you without charge. Please note, however, that if you wish to receive a paper proxy card or other proxy materials for the purpose of the Annual Meeting, you should follow the instructions included in the Notice of Internet Availability of Proxy Materials. 
+DIRECTIONS TO THE 2019 ANNUAL MEETING OF STOCKHOLDERS OF AUTONATION, INC.
+The 2019 Annual Meeting of Stockholders of AutoNation, Inc. will be held at AutoNation's Headquarters, located at 200 SW 1st Ave, Fort Lauderdale, Florida 33301, on Thursday, April 18, 2019, at 8:00 a.m. Eastern Time. We have set forth below directions to AutoNation's Headquarters.
+From Interstate 95 (I-95)
+Take I-95 (North or South) to Broward Blvd Exit. Head East on Broward Blvd until SW 1st Ave (also referred to as Brickell Ave). Turn right onto SW 1st Ave. AutoNation's Headquarters will be on the left 0.1 miles ahead. Table of Contents
+Table of Contents

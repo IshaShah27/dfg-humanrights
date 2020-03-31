@@ -1,0 +1,842 @@
+UNITED STATES
+SECURITIES AND EXCHANGE COMMISSION
+Washington, D.C. 20549
+SCHEDULE 14A
+Proxy Statement Pursuant to Section 14(a) of the Securities
+Exchange Act of 1934 (Amendment No.      )
+[BEGIN TABLE]
+ ☒   Filed by the Registrant 
+ ☐   Filed by a Party other than the Registrant 
+[END TABLE]
+Check the appropriate box:
+[BEGIN TABLE]
+ ☐  Preliminary Proxy Statement 
+ ☐   Confidential, for Use of the Commission Only (as permitted by Rule 14a-6(e)(2)) 
+ ☒  Definitive Proxy Statement 
+ ☐   Definitive Additional Materials 
+ ☐   Soliciting Material Pursuant to 167; 240.14a-12 
+[END TABLE]
+Ampco–Pittsburgh Corporation
+(Name of Registrant as Specified in its Charter)
+(Name of Person(s) Filing Proxy Statement, if other than the Registrant)
+Payment of Filing Fee (Check the appropriate box):
+[BEGIN TABLE]
+ ☒   No fee required. 
+[END TABLE]
+[BEGIN TABLE]
+ ☐   Fee computed on table below per Exchange Act Rules 14a-6(i)(4) and 0-11. 
+[END TABLE]
+[BEGIN TABLE]
+    (1)   Title of each class of securities to which transaction applies: 
+[END TABLE]
+[BEGIN TABLE]
+    (2)   Aggregate number of securities to which transaction applies: 
+[END TABLE]
+[BEGIN TABLE]
+    (3)   Per unit price or other underlying value of transaction computed pursuant to Exchange Act Rule 0-11 (set forth the amount on which the filing fee is calculated and state how it was determined): 
+[END TABLE]
+[BEGIN TABLE]
+    (4)   Proposed maximum aggregate value of transaction: 
+[END TABLE]
+[BEGIN TABLE]
+    (5)   Total fee paid: 
+[END TABLE]
+[BEGIN TABLE]
+ ☐   Fee paid previously with preliminary materials. 
+[END TABLE]
+[BEGIN TABLE]
+ ☐   Check box if any part of the fee is offset as provided by Exchange Act Rule 0-11(a)(2) and identify the filing for which the offsetting fee was paid previously. Identify the previous filing by registration statement number, or the Form or Schedule and the date of its filing. 
+[END TABLE]
+[BEGIN TABLE]
+    (1)   Amount Previously Paid: 
+[END TABLE]
+[BEGIN TABLE]
+    (2)   Form, Schedule or Registration Statement No.: 
+[END TABLE]
+[BEGIN TABLE]
+    (3)   Filing Party: 
+[END TABLE]
+[BEGIN TABLE]
+    (4)   Date Filed: 
+[END TABLE]
+726 Bell Avenue, Suite 301 Carnegie, Pennsylvania 15106
+NOTICE OF ANNUAL MEETING OF SHAREHOLDERS
+TO BE HELD THURSDAY, MAY 9, 2019
+TO THE SHAREHOLDERS OF
+AMPCO-PITTSBURGH CORPORATION
+Notice is hereby given that the Annual Meeting of Shareholders of Ampco-Pittsburgh Corporation ("Ampco" or the "Corporation") will be held in the Carnegie Room, 3rd Floor, The Duquesne Club, 325 Sixth Avenue, Pittsburgh, Pennsylvania, on Thursday, May 9, 2019 at 10:00 AM, Eastern Time, for the following purposes:
+[BEGIN TABLE]
+    1.  to elect a class of two directors for a term that expires in 2022; 
+    2.  to consider and vote on an amendment to our Amended and Restated Articles of Incorporation to increase the number of authorized shares of the Corporation's common stock from 20,000,000 shares to 40,000,000 shares;  
+    3.  to hold an advisory vote to approve our executive compensation; 
+    4.  to ratify the appointment of Deloitte & Touche LLP as the independent registered public accounting firm for 2019; and  
+    5.  to transact such other business as may properly come before the meeting and any adjournment or postponement thereof. 
+[END TABLE]
+Shareholders of record on March 12, 2019, are entitled to notice of and to vote at the meeting.
+BY ORDER OF THE BOARD OF DIRECTORS
+[BEGIN TABLE]
+    Maria V. Trainor, 
+    Vice President, General Counsel and Secretary 
+    Vice President, General Counsel and Secretary 
+[END TABLE]
+Pittsburgh, Pennsylvania
+March 29, 2019
+Important Notice Regarding the Availability of Proxy Materials for the Annual Meeting of Shareholders to Be Held on May 9, 2019
+The proxy statement and the annual report of the Corporation are available at http://www.ampcopittsburgh.com/investors.html.
+All shareholders are cordially invited to attend the meeting in person. Your vote is important, and, whether or not you expect to attend in person, it is requested that you PROMPTLY fill in, sign, and return the enclosed proxy card or follow the internet or telephone voting instructions included on the proxy card.
+TABLE OF CONTENTS
+[BEGIN TABLE]
+ Proxy Statement  1 
+ Proxy Summary  1 
+ Questions and Answers Regarding the Annual Meeting  5 
+ Solicitation of Proxies  7 
+ Voting Securities and Record Date  8 
+ Required Vote  8 
+ Election of Directors (Proposal 1)  9 
+ Nominee for Directors for a Term of Office Expiring in 2022  9 
+ Continuing Directors Whose Term of Office Expires In 2021  9 
+ Continuing Directors Whose Term of Office Expires In 2020  10 
+ Corporate Governance  11 
+ Corporate Governance Summary  11 
+ Board Independence  12 
+ Leadership Structure  12 
+ Director Nominating Procedures  12 
+ Non-Management Directors  13 
+ Shareholder Communications with Directors  13 
+ Board's Role in Risk Oversight  13 
+ Director Terms  14 
+ Annual Meeting Attendance  14 
+ Board Committees; Director Compensation; Stock Ownership Guidelines  15 
+ Summary  15 
+ Audit Committee  15 
+ Compensation Committee  16 
+ Executive Committee  16 
+ Nominating and Corporate Governance Committee  16 
+ Director Compensation  16 
+ Stock Ownership Guidelines  17 
+ Security Ownership of Certain Beneficial Owners and Management  18 
+ Beneficial Ownership of More Than Five Percent  18 
+ Director and Executive Officer Stock Ownership  18 
+ Section 16(A) Beneficial Ownership Reporting Compliance  19 
+ Proposal to Amend Our Amended and Restated Articles of Incorporation to Increase the Number of Authorized Shares of the Corporation's Common Stock (Proposal 2)  20 
+ Effect of Increase in Authorized Shares  20 
+ Purposes of The Articles Amendment Proposal  20 
+ Potential Risks Associated with The Amendment  21 
+ Vote Required  21 
+ Advisory Vote on Executive Compensation (Proposal 3)  22 
+ Executive Compensation  23 
+ Compensation Overview   23 
+ Summary Compensation Table  33 
+ Outstanding Equity Awards at Fiscal Year-End  34 
+ Retirement Benefits  36 
+ Potential Payments Upon Termination, Resignation or Change in Control  37 
+ Certain Relationships and Related Transactions  39 
+ Report of The Audit Committee  39 
+ Ratification of the Appointment of Deloitte & Touche LLP as the Independent Registered Public Accounting Firm for 2019 (Proposal 4)  41 
+ Equity Compensation Plan Information  41 
+ Shareholder Proposals for 2020  41 
+ Other Matters  42 
+[END TABLE]
+PROXY STATEMENT
+March 29, 2019
+Annual Meeting of Shareholders to be held May 9, 2019
+PROXY SUMMARY
+This summary highlights information contained elsewhere in this proxy statement. You should read the entire proxy statement carefully before voting. This proxy statement and the related proxy materials were first mailed to shareholders and made available on the internet on or about March 29, 2019.
+[BEGIN TABLE]
+ Annual Meeting of Shareholders        
+•  Time and Date:      10:00 AM, Eastern Time, May 9, 2019 
+•  Place:      The Carnegie Room, 3rd Floor The Duquesne Club 325 Sixth Avenue Pittsburgh, Pennsylvania 
+•  Place:      The Carnegie Room, 3rd Floor The Duquesne Club 325 Sixth Avenue Pittsburgh, Pennsylvania 
+• Record Date      March 12, 2019 
+• Voting      Only shareholders as of the record date, March 12, 2019, are entitled to vote. Your broker will NOT be able to vote your shares with respect to any of the matters presented at the meeting other than the ratification of the selection of our independent registered public accounting firm unless you give your broker specific voting instructions. Even if you plan to attend the annual meeting in person, please cast your vote as soon as possible by:• Using the Internet at www.proxyvote.com;•  Calling toll-free from the United States, U.S. territories and Canada to 1-800-690-6903; or• Mailing your signed proxy or voting instruction form. 
+• Voting      Only shareholders as of the record date, March 12, 2019, are entitled to vote. Your broker will NOT be able to vote your shares with respect to any of the matters presented at the meeting other than the ratification of the selection of our independent registered public accounting firm unless you give your broker specific voting instructions. Even if you plan to attend the annual meeting in person, please cast your vote as soon as possible by:• Using the Internet at www.proxyvote.com;•  Calling toll-free from the United States, U.S. territories and Canada to 1-800-690-6903; or• Mailing your signed proxy or voting instruction form. 
+• Voting      Only shareholders as of the record date, March 12, 2019, are entitled to vote. Your broker will NOT be able to vote your shares with respect to any of the matters presented at the meeting other than the ratification of the selection of our independent registered public accounting firm unless you give your broker specific voting instructions. Even if you plan to attend the annual meeting in person, please cast your vote as soon as possible by:• Using the Internet at www.proxyvote.com;•  Calling toll-free from the United States, U.S. territories and Canada to 1-800-690-6903; or• Mailing your signed proxy or voting instruction form. 
+• Attending the Annual Meeting      To be admitted in person, you will be required to present a government-issued photo identification (such as a driver's license or passport). If you hold shares in street name, you must request a confirmation of beneficial ownership from your broker to vote in person at the meeting. You do not need to attend the annual meeting to vote if you have properly submitted your proxy in advance of the meeting. 
+• Attending the Annual Meeting      To be admitted in person, you will be required to present a government-issued photo identification (such as a driver's license or passport). If you hold shares in street name, you must request a confirmation of beneficial ownership from your broker to vote in person at the meeting. You do not need to attend the annual meeting to vote if you have properly submitted your proxy in advance of the meeting. 
+[END TABLE]
+[BEGIN TABLE]
+• Meeting Agenda     1.     Election of two directors; 2.     Consideration of and voting on an amendment to our Amended and Restated Articles of Incorporation to increase the number of authorized shares of the Corporation's common stock from 20,000,000 shares to 40,000,000 shares; 3. Non-binding, advisory vote to approve our executive compensation; 4.     Ratification of the appointment of Deloitte & Touche LLP as our independent registered public accounting firm for 2019; and 5.  Transaction of such other business as may properly come before the meeting and any adjournment or postponement thereof. 
+• Meeting Agenda     1.     Election of two directors; 2.     Consideration of and voting on an amendment to our Amended and Restated Articles of Incorporation to increase the number of authorized shares of the Corporation's common stock from 20,000,000 shares to 40,000,000 shares; 3. Non-binding, advisory vote to approve our executive compensation; 4.     Ratification of the appointment of Deloitte & Touche LLP as our independent registered public accounting firm for 2019; and 5.  Transaction of such other business as may properly come before the meeting and any adjournment or postponement thereof. 
+• Meeting Agenda     1.     Election of two directors; 2.     Consideration of and voting on an amendment to our Amended and Restated Articles of Incorporation to increase the number of authorized shares of the Corporation's common stock from 20,000,000 shares to 40,000,000 shares; 3. Non-binding, advisory vote to approve our executive compensation; 4.     Ratification of the appointment of Deloitte & Touche LLP as our independent registered public accounting firm for 2019; and 5.  Transaction of such other business as may properly come before the meeting and any adjournment or postponement thereof. 
+ Proposals     Board Recommendation 
+ Election of Directors     FOR each nominee named in this proxy statement 
+ Amendment of the Amended and Restated Articles of Incorporation to increase the number of authorized shares of the Corporation's common stock from 20,000,000 shares to 40,000,000 shares     FOR 
+ Non-binding, advisory vote to approve our executive compensation     FOR 
+ Ratification of the appointment of Deloitte & Touche LLP as our independent registered public accounting firm for 2019     FOR 
+[END TABLE]
+Board Nominees
+[BEGIN TABLE]
+ Name     Age        Director Since     Occupation     Experience/ Qualification     Independent     Committee Assignments 
+ Name     Age        Director Since     Occupation     Experience/ Qualification     Independent     Committee Assignments 
+ Elizabeth A. Fessenden        63        2017     Principal of Fessenden Associates     Extensive operations experience in the metals industry; many years of service as a director of companies; broad leadership experience     X     Compensation 
+ Terry L. Dunlap     59        Nominated in 2019     Principal of Sweetwater LLC     Extensive operations experience in the metals industry; board service; broad leadership experience     X     Pending election, nominated to Compensation Committee 
+ Audit fees(a)     $  1,656,185    
+ Audit-related fees(b)     $  2,028    
+ Tax fees(c)     $  1,964    
+ All other fees        —    
+ Total     $  1,660,177    
+[END TABLE]
+[BEGIN TABLE]
+ (a)  Fees for audit services primarily related to the audit of (1) the Corporation's annual consolidated financial statements and its internal control over financial reporting and (2) statutory filings for the Corporation's foreign subsidiaries. 
+ (b)  Fees for audit-related services primarily related to the subscription fee for Deloitte's Authoritative Guidance. 
+ (c)  Fees for tax services in 2018 related to general tax consultation. 
+[END TABLE]
+Executive Compensation Program Highlights
+Our executive compensation program is designed to attract and retain top talent by enabling the Corporation to compete effectively for the highest quality personnel and to pay for performance by aligning compensation with the achievement of both short-term and long-term financial objectives that build shareholder value.
+The 2018 executive compensation program features a balanced mix of salary and performance-driven annual and long-term incentive award opportunities. In designing our executive compensation program, we have implemented programs and policies that support our commitment to good compensation governance and that create alignment between our executives and our shareholders, as highlighted below:
+[BEGIN TABLE]
+• The Compensation Committee is comprised solely of independent directors. Each member of the Compensation Committee is a "non-employee director" of the Corporation, as defined under Rule 16b-3 of the Securities Exchange Act of 1934, and an "outside director" for purposes of the corporate compensation provisions contained in Section 162(m) of the Internal Revenue Code. 
+• The Compensation Committee conducts an annual review and approval of our compensation strategies, including a review of our compensation-related risk profile to ensure that our compensation-related risks are not reasonably likely to have a material adverse effect on our company. 
+• In 2018, the Compensation Committee engaged Pay Governance LLC as its independent provider of compensation consulting services for decisions relating to compensation. Pay Governance was retained to identify a reasonable group of companies as a peer group to benchmark executive compensation levels and incentive plan design and to assist the Compensation Committee in fulfilling its responsibilities and duties. 
+• A significant portion of each executive's annual pay is based on objective performance metrics and, therefore, "at-risk" based on corporate performance. In addition, the equity-based portion of our executive compensation program is designed to align the interests of our executive officers and shareholders. 
+• The Compensation Committee periodically reviews its compensation decisions against executive compensation at a peer group of companies comparable in terms of the primary scope metric of revenue and secondary scope metrics of market cap, assets and number of employees to ensure that our executive compensation program provides competitive compensation opportunities. The same peer group is used to determine our relative performance for vesting of a portion of performance share unit awards. 
+• The equity awards granted to our executive officers vest over multi-year periods, consistent with current practice and our retention objectives. 
+• We have a clawback policy applicable to executive officers pursuant to which, if the Corporation is required, because of fraud or negligence, to restate financial results for any period (the "Restatement Period") in a manner that would have adversely affected the amount of the payout of any incentive compensation awards, the Compensation Committee has the right during the three-year period following the Restatement Period to review the matter and determine what, if any, repayment executives will be required to make. 
+• We do not provide any Internal Revenue Code Section 280G excise tax gross-up rights or any other significant tax gross-up rights to our executive officers. 
+• The compensation arrangements with our executive officers contain double-trigger equity acceleration provisions in the event of a change in control. 
+[END TABLE]
+[BEGIN TABLE]
+• We have a policy prohibiting "underwater" options from being repriced or replaced (either with new options or other equity awards), unless approved by our shareholders. 
+[END TABLE]
+Additional information about our compensation philosophy and program, including compensation determinations for each of our named executive officers, can be found in the "Compensation Overview" starting on page 24 in this Proxy Statement.
+We encourage you to read the entire proxy statement and to vote your shares at the Annual Meeting. If you are unable to attend the Annual Meeting in person, we encourage you to submit a proxy so that your shares will be represented and voted. QUESTIONS AND ANSWERS REGARDING THE ANNUAL MEETING
+Q: Why am I receiving these materials?
+A: As a shareholder, we are providing these proxy materials to you in connection with our solicitation of proxies to be voted at our Annual Meeting of Shareholders, which will take place on May 9, 2019. These materials were first mailed to shareholders on or about March 29, 2019. You are invited to attend the Annual Meeting, and you are requested to vote on the proposals described in this Proxy Statement.
+Q: What is included in these materials?
+A: These materials include:
+[BEGIN TABLE]
+• Our Proxy Statement for the Annual Meeting; and 
+• Our 2018 Annual Report to Shareholders, which includes our audited consolidated financial statements. 
+[END TABLE]
+These materials also include the proxy/voting instruction card for the Annual Meeting.
+Q: What am I being asked to vote on?
+A: You are being asked to vote on the following proposals:
+[BEGIN TABLE]
+• Proposal 1 —Election of two directors; 
+• Proposal 2 — Consideration and vote on an amendment to the Amended and Restated Articles of Incorporation to increase the number of authorized shares of the Corporation's common stock from 20,000,000 shares to 40,000,000 shares (the "Articles Amendment Proposal"); 
+• Proposal 3 — Non-binding, advisory vote to approve our executive compensation (the "Say-on-Pay Proposal");  
+• Proposal 4 — Ratification of the appointment of Deloitte & Touche LLP as our independent registered public accounting firm for 2019 (the "Deloitte Ratification Proposal"); and 
+• Such other business as may properly come before the meeting and any adjournment or postponement thereof. 
+[END TABLE]
+Q: What are the voting recommendations of the Board of Directors?
+A: The Board recommends the following votes:
+[BEGIN TABLE]
+• FOR the election of the two director nominees named in this proxy statement; 
+• FOR the Articles Amendment Proposal; 
+• FOR the Say-on-Pay Proposal; and 
+• FOR the Deloitte Ratification Proposal. 
+[END TABLE]
+Q: Will any other matters be voted on?
+A: We are not aware of any other matters that will be brought before the shareholders for a vote at the Annual Meeting. If any other matter is properly brought before the meeting, your proxy will authorize each of Michael G. McAuley and Maria Trainor (together, the "Proxies") to vote on such matters in their discretion.
+Q: How do I cast my vote?
+A: If you are a shareholder of record, you may cast your vote using any of the following methods:
+[BEGIN TABLE]
+• Via the Internet, by visiting the website "www.proxyvote.com" and following the instructions for Internet voting on your proxy/voting instruction card; 
+[END TABLE]
+[BEGIN TABLE]
+• By dialing 1-800-690-6903 and following the instructions for telephone voting on your proxy/voting instruction card; 
+• By completing and mailing your proxy/voting instruction card; or 
+• By casting your vote in person at the Annual Meeting. 
+[END TABLE]
+If you vote over the Internet, you may incur related ancillary costs, such as telephone and Internet access charges, for which you will be responsible. The telephone and Internet voting facilities for the shareholders of record of all shares will close at 11:59 P.M. Eastern Time on May 8, 2019. The Internet and telephone voting procedures are designed to authenticate shareholders by use of a control number and to allow you to confirm that your instructions have been properly recorded.
+If you vote by Internet or telephone or return your signed proxy/voting instruction card, your shares will be voted as you indicate. If you do not indicate how your shares are to be voted on a proposal, your shares will be voted, with respect to that proposal, in accordance with the voting recommendations of the Board of Directors.
+If your shares are held in a brokerage account in your broker's name (also known as "street name"), you should follow the instructions for voting provided by your broker or nominee. You may submit voting instructions by Internet or telephone or you may complete and mail a voting instruction card to your broker or nominee. If you provide specific voting instructions by telephone, Internet or mail, your broker or nominee will vote your shares as you have directed.
+Ballots will be provided during the Annual Meeting to anyone who wants to vote in person at the meeting. If you hold shares in street name, you must request a confirmation of beneficial ownership from your broker to vote in person at the meeting.
+Q: Can I change my vote?
+A: Yes. If you are a shareholder of record, you can change your vote or revoke your proxy at any time prior to the voting thereof at the Annual Meeting by:
+[BEGIN TABLE]
+• Submitting a valid, later-dated proxy/voting instruction card; 
+• Submitting a valid, subsequent vote by telephone or the Internet at any time prior to 11:59 P.M. Eastern Time on May 8, 2019; 
+• Notifying our Secretary in writing that you have revoked your proxy; or 
+• Completing a written ballot at the Annual Meeting (your attendance at the Annual Meeting will not, in and of itself, revoke your prior proxy). 
+[END TABLE]
+If your shares are held in a brokerage account in your broker's name, you should follow the instructions for changing or revoking your vote provided by your broker or nominee.
+Q: What will happen if I do not instruct my broker how to vote?
+A: If your shares are held in street name and you do not instruct your broker how to vote, one of two things can happen depending on the type of proposal. Pursuant to New York Stock Exchange ("NYSE") rules, brokers have discretionary power to vote your shares on "routine" matters, but they do not have discretionary power to vote your shares on "non-routine" matters. We believe that the only proposal that will be considered routine under NYSE rules is the Deloitte Ratification Proposal, which means that your broker may vote your shares in its discretion on that proposal. This is known as "broker discretionary voting."
+The election of directors, the Articles Amendment Proposal and the Say-on-Pay Proposal are considered non-routine matters. Accordingly, your broker may not vote your shares with respect to these matters if you have not provided instructions. This is called a "broker non-vote."
+We strongly encourage you to submit your proxy and exercise your right to vote as a shareholder. Q: How many shares must be present to conduct business at the Annual Meeting?
+A: Holders of at least a majority of the votes that all shareholders are entitled to cast at the Annual Meeting must be represented in person or by proxy at the Annual Meeting in order to conduct business. This is called a quorum. If you vote, your shares will be part of the quorum. Abstentions, "Withheld" votes and broker non-votes also will be counted in determining whether a quorum exists.
+Q: What vote is required to approve the proposals?
+A: In the election of directors, the nominees who receive the most votes for the available positions will be elected. If you withhold authority to vote for a particular nominee, your vote will not count either "FOR" or "AGAINST" the nominee. Abstentions are not counted in the election of directors, and neither abstentions nor broker non-votes will affect the outcome.
+Since all members of the Board of Directors have voted "FOR" the Articles Amendment Proposal, the approval by the holders of at least a majority of the voting power of the outstanding shares, voting together as a single class, is required to adopt the Articles Amendment Proposal.  Abstentions and broker non-votes will have the effect of a vote AGAINST the Articles Amendment Proposal.
+The Say-on-Pay Proposal and the Deloitte Ratification Proposal will require approval by the majority of the votes cast at the Annual Meeting, assuming the presence of a quorum. Neither abstentions nor broker non-votes will have any effect on these proposals.
+Votes will be tabulated by an inspector of election appointed for the Annual Meeting, who will separately tabulate affirmative and negative votes, abstentions and broker non-votes.
+Q: What does it mean if I receive more than one notice or proxy card or voting instruction form?
+A: It means your shares are registered differently or are held in more than one account at the transfer agent and/or with banks or brokers. Please vote all of your shares.
+Q: What do I need to do to attend the Annual Meeting?
+A: Valid government-issued photo identification, such as a driver's license or passport, is required to attend the Annual Meeting. The registration desk will open at 9:45 a.m. and the meeting will begin at 10:00 AM. Please note that seating in the meeting room is limited.
+If you own shares in street name, you will need to ask your bank or broker for an admission card in the form of a confirmation of beneficial ownership. You will need to bring a confirmation of beneficial ownership with you to vote at the Annual Meeting. If you do not receive your confirmation of beneficial ownership in time, bring your most recent brokerage statement with you to the Annual Meeting. We can use that to verify your ownership of Common Stock and admit you to the meeting; however, you will not be able to vote your shares at the meeting.
+Q: Where can I find the voting results of the Annual Meeting?
+A: We plan to announce preliminary voting results at the Annual Meeting and to publish final results in a Current Report on Form 8-K filed with the SEC within four business days after the Annual Meeting.
+SOLICITATION OF PROXIES
+This Proxy Statement is furnished in connection with the solicitation of proxies to be used at the Annual Meeting of Shareholders (the "Annual Meeting") of AMPCO-PITTSBURGH CORPORATION (the "Corporation") to be held on May 9, 2019. The first mailing of the proxy material to the shareholders is expected to be made on or about March 29, 2019.
+The accompanying proxy is solicited on behalf of the Board of Directors of the Corporation. In addition to the solicitation of proxies by use of the mails, proxies may be solicited by directors and employees, in person or by telephone, and brokers and nominees may be requested to send proxy material to and obtain proxies from their principals. The Corporation will pay the costs incurred for solicitations of proxies. Any shareholder has the power to revoke the proxy at any time prior to the voting thereof. Revocation of the proxy will not be effective until notice thereof has been given to the Secretary of the Corporation, a duly executed proxy bearing a later date is presented or the shareholder subsequently votes the shares subject to the proxy.
+VOTING SECURITIES AND RECORD DATE
+Only holders of record of Common Stock of the Corporation at the close of business on March 12, 2019, will be entitled to vote at the meeting. On that date, there were 12,494,846 shares of Common Stock outstanding. The holders of those shares are entitled to one vote per share. In the election of directors, the shares may be voted cumulatively. Cumulative voting means that the number of shares owned by each shareholder may be multiplied by the number of directors to be elected and that total voted for the nominees in any proportion. Shares that are not voted cumulatively are voted on a one vote per share basis for each nominee, except for those nominees, if any, for whom the shareholder is withholding authority to vote. If you return your signed proxy but do not indicate how you wish to vote, your shares will be voted non-cumulatively "FOR" the election of each of the director nominees named in this Proxy Statement or voted cumulatively for one or more of the nominees at the discretion of the Proxies; "FOR" the Articles Amendment Proposal; "FOR" approval of the Say-on-Pay Proposal; and "FOR" approval of the Deloitte Ratification Proposal.
+REQUIRED VOTE
+Under Pennsylvania law and the Corporation's Amended and Restated Bylaws, the presence of a quorum is required to transact business at the 2019 Annual Meeting. A quorum is defined as the presence, either in person or by proxy, of a majority of the votes that all shareholders are entitled to cast at the meeting. For these purposes, shares that are present or represented by proxy at the Annual Meeting will be counted toward a quorum, regardless of whether the holder of the shares or proxy abstains with respect to or withholds authority to vote on a particular matter, whether a broker is present or represented by proxy but lacks discretionary voting authority with respect to any particular matter or whether a broker with discretionary authority fails to exercise such authority with respect to any particular matter.
+Proposal 1—Election of Directors. With respect to the election of directors, the nominees who receive the most votes for the available positions will be elected. If you withhold authority to vote for a particular nominee on your proxy card, your vote will not count either "FOR" or "AGAINST" the nominee. Abstentions are not counted in the election of directors, and neither abstentions nor broker non-votes will affect the outcome.
+Proposal 2—Articles Amendment Proposal.  The Amended and Restated Articles of Incorporation of the Corporation (the "Articles") require the affirmative vote of the holders of not less than 75% of the voting power of the then outstanding shares of capital stock of the Corporation entitled to vote in an annual election of directors, voting together as a single class, to amend the Articles, unless such amendment has been approved by at least a two-third vote of the whole Board of Directors, in which event the affirmative vote of the holders of not less than a majority of the voting power of the then outstanding shares of capital stock of the Corporation entitled to vote in an annual election of directors, voting together as a single class, is required. Since all members of the Board of Directors have voted "FOR" the Articles Amendment Proposal, the approval by the holders of at least a majority of the voting power of the outstanding shares, voting together as a single class, is required to adopt the Articles Amendment Proposal. Abstentions and broker non-votes will have the effect of a vote AGAINST the Articles Amendment Proposal.
+Proposal 3 — Advisory Vote on Executive Compensation. The approval of a majority of the votes cast at the Annual Meeting is required for advisory (non-binding) approval of our executive compensation program under the Say-on-Pay Proposal. The vote is advisory, and therefore not binding on the Corporation, the Compensation Committee or our Board. Neither abstentions nor broker non-votes will count as votes cast and neither will affect the outcome of the Say-on-Pay Proposal.
+Proposal 4—Deloitte Ratification Proposal. With respect to the ratification of the appointment of Deloitte & Touche LLP as the Corporation's independent registered public accounting firm for 2019, the affirmative vote of a majority of the votes cast at the Annual Meeting is required for approval. If the shareholders do not ratify the appointment of Deloitte, the selection of the independent registered public accounting firm will be reconsidered by the Audit Committee, but Deloitte may still be retained. Neither abstentions nor broker non-votes will count as votes cast and neither will affect the outcome of the Deloitte Ratification Proposal. If a broker indicates on its proxy that it does not have authority to vote certain shares held in "street name," the shares not voted are referred to as "broker non-votes." Broker non-votes occur when brokers do not have discretionary voting authority to vote certain shares held in street name on particular proposals under the rules of the NYSE, and the beneficial owner of those shares has not instructed the broker how to vote on those proposals. If you are a beneficial owner, your broker, bank or other nominee is permitted to exercise discretionary authority to vote your shares on Proposal 3, the Deloitte Ratification Proposal, even if it does not receive voting instructions from you. However, it is not permitted to exercise discretionary authority to vote your shares on Proposals 1 and 2 in the absence of voting instructions from you.
+ELECTION OF DIRECTORS
+(Proposal 1)
+A class of two directors will stand for election for a term of three years to fill the class of directors whose term expires in 2019. One of the two nominees for election to the Board of Directors is currently a director. The nominees were recommended by the Nominating and Governance Committee and nominated by the Board of Directors at its March meeting and have indicated that they are willing to serve as directors if elected. THE BOARD OF DIRECTORS RECOMMENDS THAT YOU VOTE "FOR" THE ELECTION OF EACH OF THE NOMINEES LISTED BELOW. If at the time of the Annual Meeting a nominee should be unable or unwilling to stand for election, the proxies will be voted for the election of such person, if any, as may be selected by the Board of Directors to replace him or her.  
+Nominee for Director for a Term of Office Expiring in 2022:
+ELIZABETH A. FESSENDEN (age 63, Director since 2017). Ms. Fessenden served in several leadership positions at Alcoa Inc. from 1977 to 2005. Since 2008, she has been the principal of Fessenden Associates, a business consulting company. She has been a member of the board of directors of Quarles Petroleum since January of 2015. She also served as a director of Cardno from 2014 to 2015 and of O'Brien & Gere, from 2008 to 2014. Ms. Fessenden also served on the advisory board of Alloy Polymers and the board of directors of Polymer Group Inc. Ms. Fessenden was appointed to the Board effective as of August 10, 2017, to fill a newly created directorship. Ms. Fessenden's extensive operations experience in the metals industry, her many years of service as a director of companies, and her broad leadership experience led the Board to conclude that she should serve as a director.
+TERRY L. DUNLAP (age 59, Nominated in 2019).  Mr. Dunlap served in several leadership positions at Allegheny Technologies Incorporated, a global manufacturer of technically advanced specialty materials and complex components, from 1983 to 2014, where he last served as Executive Vice President, ATI Flat-Rolled Products, from 2011 to 2014.  Mr. Dunlap has been the principal of Sweetwater LLC, a consulting and investment firm with a primary focus on metals and manufacturing, since January 2015. Mr. Dunlap has been a member of the board of directors of Matthews International since February 2015 and the board of directors of TimkenSteel since August 2015. He also served on the board of directors of Elliott Group Holdings from 2015 to 2019.  Mr. Dunlap's extensive operations experience in the metals industry, years of board service and broad leadership experience led the Board to conclude that he should serve as a director. 
+Continuing Directors Whose Term of Office Expires in 2021:
+MICHAEL I. GERMAN (age 68, Director since 2014). Mr. German has been the Chief Executive Officer and President of Corning Natural Gas Holding Corporation (formerly known as Corning Natural Gas Corporation), a holding company for natural gas and electric utilities, for more than five years. Mr. German has been a director of Corning Natural Gas Holding Corporation since 2014 (and a director of Corning Natural Gas Corporation from 2006 until 2014) and is on the Boards of Directors of Three River Development Corporation and Northeast Gas Association, as well as the board of trustees of the Adirondack Park Institute. Mr. German also was a director of Pennichuck Corporation from 2008 until 2011. Mr. German's experience as the chief executive officer of a public company, his many years of service as a director of companies and his broad leadership experience led the Board to conclude that he should serve as a director.
+J. BRETT MCBRAYER (age 53, Director since 2018).  Mr. McBrayer has served as the Corporation's Chief Executive Officer since July of 2018.  He previously served as President and Chief Executive Officer at Airtex Products and ASC Industries, a global manufacturer and distributor of automotive aftermarket and OEM fuel and  water pumps, from 2012 through 2017. Mr. McBrayer had also served as Vice President and General Manager of the Alcan Cable business at Rio Tinto Alcan, as Vice President and General Manager of the Specialty Metals Division at Precision Cast Parts Corporation, and held positions of various responsibility and leadership during his 20 years with Alcoa, Inc.  Mr. McBrayer's extensive experience in global industrial businesses and his broad executive leadership experience led the Board to conclude that he should serve as a director.
+Continuing Directors Whose Term of Office Expires in 2020:
+JAMES J. ABEL (age 73, Director since 2014). Prior to his retirement, Mr. Abel served as Interim President and Chief Executive Officer of CPI Corporation, an operator of portrait studios, from February 2012 to April 2013 and as a director from 2004 to April 2013.  Mr. Abel previously served as President and Chief Executive Officer of Financial Executives International, a firm representing senior financial executives in dealing with regulatory agencies involved with corporate financial reporting and internal controls, from May 2008 to February 2009. Mr. Abel has served as a director of The LGL Group, Inc., a globally-positioned producer of industrial and commercial electronic components and instruments, from 2011 until 2014. Mr. Abel's background as a senior executive, his expertise in financial management and his experience with manufacturing operations, as well as his board experience, led the Board to conclude that he should serve as a director.
+WILLIAM K. LIEBERMAN (age 71, Director since 2004). Mr. Lieberman has been President of The Lieberman Companies, insurance brokerage and consulting company, for more than five years. In addition to more than forty years of management experience in the insurance, benefit and risk management areas, Mr. Lieberman has served as a director or trustee of many organizations including charitable companies, hospitals and universities. These qualifications led the Board to conclude that he should serve as a director.
+STEPHEN E. PAUL (age 51, Director since 2002). Mr. Paul has been a managing principal of Laurel Crown Partners, a private investment company, for more than five years. He became a President of The Louis Berkman Investment Company, a private investment company, in 2013. Mr. Paul's background in investment banking and private equity investment led the Board to conclude that he should serve as a director.
+CARL H. PFORZHEIMER, III (age 82, Director since 1982). Mr. Pforzheimer has been Managing Partner or Manager of Carl H. Pforzheimer & Co. LLC, an investment banking firm, or its predecessors or related entities for more than five years. In addition to the attendant investment advisory analytical skills gained from such a position, his former role as chairman of the Audit and Risk Management Committees of U. S. Trust Co. led the Board to conclude Mr. Pforzheimer should serve as a director. CORPORATE GOVERNANCE
+Corporate Governance Summary
+Presented below are some highlights of our corporate governance practices and policies. You can find further details about these and other corporate governance practices and policies in the following pages of this Proxy Statement.
+[BEGIN TABLE]
+• Our Board is currently comprised of 10 directors, a majority of whom have been determined by the Board to be independent. Because three of our directors are not standing for re-election at the Annual Meeting, our Board adopted a resolution on March 6, 2019, to reduce the size of the Board to nine, as permitted by our Amended and Restated Articles of Incorporation. Thus, immediately following the Annual Meeting, if Ms. Fessenden and Mr. Dunlap are elected to the Board by our shareholders, there will be eight directors on our Board, with one vacancy remaining.  Pursuant to the Shareholder Support Agreement, dated as of March 3, 2016, by and among the Corporation, Altor Fund II GP Limited ("Altor Fund"), and other signatories thereto, Altor Fund is entitled to designate one nominee to serve on our Board, until such time when Altor Fund and certain of its affiliates own, in the aggregate, less than 888,302 shares.  Altor Fund's prior nominee, Mr. Fredrik Strömholm, resigned from the Board effective May 9, 2018, and Altor Fund has not designated another nominee since his resignation.   
+• We currently have separate non-executive Chairman and Chief Executive Officer roles. On March 6, 2019, the Board elected James J. Abel to serve as our non-executive Chairman, effective as of May 9, 2019. 
+• All of the Board's standing committees, other than the Executive Committee, are composed entirely of independent directors, and each such standing committee has a written charter that is reviewed and reassessed annually. 
+• We have an annual self-evaluation process for the Board and each standing committee, other than the Executive Committee. 
+• The Board evaluates individual directors whose terms are nearing expiration and who may be proposed for re-election. The Nominating and Governance Committee will consider director candidates recommended by shareholders on the same basis as other candidates. 
+• The Board has designated Carl H. Pforzheimer, III, Chairman of our Audit Committee, as an "audit committee financial expert." Our internal audit function reports directly to the Audit Committee. We annually ask our shareholders to ratify the Audit Committee's selection of the Corporation's independent auditors. 
+• The Corporation has determined that it will hold a Say-on-Pay vote annually until the next shareholder vote on the frequency of such votes. 
+• Our Corporate Governance Guidelines are available on the Corporation's website at www.ampcopittsburgh.com. 
+• Our Code of Business Conduct and Ethics, which applies to all of the Corporation's officers, directors and employees, and our additional Code of Ethics, which applies to our Chief Executive Officer and Chief Financial Officer, are available on the Corporation's website at www.ampcopittsburgh.com. 
+• The Board has adopted an anti-hedging policy pursuant to which, without prior approval, no director, officer or employee of the Corporation at any time may purchase financial instruments that are designed to or that may reasonably be expected to have the effect of hedging or offsetting a decrease in the market value of any securities of the Corporation. 
+• The Board has adopted an anti-pledging policy pursuant to which officers and directors of the Corporation are prohibited from holding any securities of the Corporation in margin accounts or pledging any securities of the Corporation as collateral for any loan, subject to exceptions for de minimis pledging with prior approval. 
+[END TABLE]
+[BEGIN TABLE]
+• The Board has adopted a clawback policy in connection with short and long-term incentive plans. Pursuant to the policy, if the Corporation is required, because of fraud or negligence, to restate financial results for any restatement period in a manner that would have adversely affected the amount of the payout of any incentive compensation awards, the Compensation Committee has the right, during the three-year period following the restatement period, to review the matter and determine what, if any, repayment participants will be required to make. 
+• The Board has adopted a policy prohibiting excise tax gross-ups of perquisites pursuant to which the Corporation is prohibited from making any tax gross-up payments to executive officers, except for gross-ups applicable to management employees generally, such as an expatriate tax equalization payment. 
+• The Board has adopted a whistleblower policy to protect any employee who, in good faith, reports incidents of unethical business conduct, violations of laws or accounting standards, internal accounting controls or audit standards or danger to employees or public health and safety. 
+[END TABLE]
+Board Independence
+The Board of Directors has adopted categorical standards to assist it in evaluating the independence of its directors. The standards are attached to the Corporate Governance Guidelines which are available on the Corporation's website at www.ampcopittsburgh.com. After performing this evaluation in accordance with those guidelines, the Board has determined that James J. Abel, Leonard M. Carroll, Elizabeth A. Fessenden, Michael I. German, William K. Lieberman, Carl H. Pforzheimer, III, and Ernest G. Siddons do not have material relationships with the Corporation (other than as members of the Board of Directors) and are independent within the meaning of the Corporation's independence standards and those of the NYSE.
+Audit Committee members must meet additional independence standards under NYSE listing standards and rules of the Securities and Exchange Commission (the "SEC"). Specifically, Audit Committee members may not receive any compensation from the Corporation other than their directors' compensation. The Board has also determined that each member of the Audit Committee satisfies the enhanced standards of independence applicable to Audit Committee members under NYSE listing standards and SEC rules.
+The Board has determined in its judgment that the Compensation Committee is composed entirely of independent directors within the Corporation's independence standards and those of the NYSE. In making its determination, the Board considered, among other things, the factors applicable to members of the Compensation Committee pursuant to NYSE listing standards and Rule 10C-1 of the Securities Exchange Act of 1934.
+Leadership Structure
+Mr. McBrayer is the Corporation's Chief Executive Officer. Leonard M. Carroll currently serves as the non-executive Chairman.  On March 6, 2019, the Board voted to elect Mr. James J. Abel as non-executive Chairman of the Board, effective as of May 9, 2019. The Chairman sets the agendas for and presides over the Board meetings. Mr. McBrayer is a member of the Board and participates in its meetings. The Board believes that this leadership structure is appropriate for the Corporation at this time because it allows for independent oversight of management, increases management accountability and encourages an objective evaluation of management's performance relative to compensation. The Board will assess periodically whether the roles should be separated or combined based on its evaluation of what is in the best interests of the Corporation and its shareholders.
+As Chief Executive Officer, Mr. McBrayer is the full-time executive managing the day-to-day operations of the Corporation.
+Director Nominating Procedures
+The Corporation's Corporate Governance Guidelines and its Nominating and Governance Committee Charter charge the Nominating and Governance Committee with selecting nominees for election to the Board of Directors and with reviewing, at least annually, the qualifications of new and existing members of the Board of Directors. The Nominating and Governance Committee also considers the extent to which such members may be considered  "independent" within the meaning of applicable NYSE rules, as well as other appropriate factors, including overall skills and experience.
+From time to time, the Nominating and Governance Committee will seek to identify potential candidates for director nominees and will consider potential candidates proposed by other members of the Board of Directors, by management of the Corporation or by shareholders of the Corporation.
+In considering candidates submitted by shareholders of the Corporation, the Nominating and Governance Committee will take into consideration the needs of the Board of Directors and the candidate's qualifications. To have a candidate considered by the Committee, a shareholder must submit the recommendation in writing and must provide the information set forth in, and otherwise comply with, Section 18 of Article II of the Corporation's Amended and Restated By-Laws.
+The shareholder recommendation and information described above must be sent to Ampco-Pittsburgh Corporation "c/o Corporate Secretary" at 726 Bell Avenue, Suite 301, P.O. Box 457, Carnegie, PA 15106 and, in order to allow for timely consideration, must be received not less than 90 days in advance of the anniversary date of the Corporation's most recent annual meeting of shareholders.
+Once a person has been identified by the Nominating and Governance Committee as a potential candidate, the Committee may collect and review publicly available information regarding the person to assess whether the person should be considered further. Generally, if the person expresses a willingness to be considered and to serve on the Board of Directors and the Nominating and Governance Committee believes that the candidate has the potential to be a good candidate, the Nominating and Governance Committee would seek to gather information from or about the candidate. Such information may include information gathered through one or more interviews as appropriate and review of his or her accomplishments and qualifications generally, in light of any other candidates that the Nominating and Governance Committee may be considering. The Nominating and Governance Committee's evaluation process does not vary based on whether the candidate is recommended by a shareholder. Although the Nominating and Governance Committee does not have a formal written diversity policy, it considers the diversity of our Board as a whole, including the skills, background and experience of our directors.
+Non-Management Directors
+The non-management directors have regularly scheduled executive sessions. Any shareholder who wants to communicate directly with the presiding director or the non-management directors as a group can do so by following the procedure below under "Shareholder Communications with Directors".
+Shareholder Communications with Directors
+The Board of Directors has established a process to receive communications from shareholders and other interested parties. To communicate with the Board of Directors, any individual director or any group or committee of directors, correspondence should be addressed to the Board of Directors or such individual or group or committee and sent to Ampco-Pittsburgh Corporation "c/o Corporate Secretary" at 726 Bell Avenue, Suite 301, P.O. Box 457, Carnegie, PA 15106. Communications sent in this manner will be reviewed by the office of the Corporate Secretary for the purpose of determining whether the contents represent a message to one or more of the Corporation's directors. Depending on the subject matter, the Corporate Secretary may attempt to handle the inquiry directly, such as when it is a request for information about the Corporation or a stock-related matter. The Corporate Secretary also may not forward the communication if it is primarily commercial in nature or it relates to an improper or irrelevant topic.
+Board's Role in Risk Oversight
+The Board of Directors as a whole is responsible for risk management oversight of the Corporation and ensuring that management develops sound business strategies. The involvement of the full Board of Directors in setting the Corporation's business strategy and objectives is integral to the Board's assessment of our risk profile and also a determination of what constitutes an appropriate level of risk and how best to manage any such risk. This involves receiving reports and/or presentations from applicable members of management, the Chief Risk Officer, the Enterprise Risk Management Committee of the Corporation, and the committees of the Board. The full Board of Directors  continually evaluates risks such as financial risk, legal/compliance risk, operational/strategic risk, cybersecurity risk and fraud risk and addresses individual risk issues with management throughout the year as necessary.
+While the Board of Directors has the ultimate oversight responsibility for the risk management process, the Board delegates responsibility for certain aspects of risk management to its standing committees. In particular, the Audit Committee focuses on enterprise risks and related controls and procedures, including financial reporting, fraud and regulatory risks. The Compensation Committee strives to create compensation practices that do not encourage excessive levels of risk taking that would be inconsistent with the Corporation's strategy and objectives. The Nominating and Corporate Governance Committee is responsible for overseeing the Corporation's corporate governance and corporate governance principles.
+Director Terms
+The Board is divided into three classes, and the directors in each class serve for three-year terms unless unable to continue to serve due to death, resignation, retirement or disability. The term of one class of directors expires each year at the Corporation's annual meeting of shareholders. The Board may fill a vacancy by electing a new director to the same class as the director being replaced or by reassigning a director from another class. The Board also may create a new director position in any class and elect a director to hold the newly created position. In accordance with our Amended and Restated Articles of Incorporation, all directors elected to fill vacancies shall hold office for a term expiring at the annual meeting of shareholders at which the term of the class to which they have been elected expires.
+Annual Meeting Attendance
+The Corporation encourages its directors to attend the Annual Meeting of the Corporation's shareholders. All of the directors then in office were in attendance at the 2018 Annual Meeting. BOARD COMMITTEES; DIRECTOR COMPENSATION; STOCK OWNERSHIP GUIDELINES
+Summary
+During 2018, the Board had four standing committees: Audit Committee, Compensation Committee, Executive Committee, and Nominating and Corporate Governance Committee. The Board makes committee and committee chair assignments annually at its meeting immediately preceding the annual meeting of shareholders, although further changes to committee assignments may be made from time to time as deemed appropriate by the Board. The Nominating and Governance Committee Charter, the Compensation Committee Charter, the Audit Committee Charter and the Corporate Governance Guidelines are available on the Corporation's website at www.ampcopittsburgh.com.
+The current composition of the Board and each committee of the Board is set forth below:
+[BEGIN TABLE]
+ Director     Audit Committee        Compensation Committee        Executive Committee        Nominating and Corporate Governance Committee        Board of Directors    
+ Director     Audit Committee        Compensation Committee        Executive Committee        Nominating and Corporate Governance Committee        Board of Directors    
+ James J. Abel                             X        C        X    
+ Leonard M. Carroll (1)                             C                    C    
+ Elizabeth A. Fessenden                 X                                X    
+ Michael I. German     X                                            X    
+ William K. Lieberman     X        C        X        X        X    
+ J. Brett McBrayer                             X                    X    
+ Laurence E. Paul (1)                                                     X    
+ Stephen E. Paul                                                     X    
+ Carl H. Pforzheimer, III     C        X        X        X        X    
+ Ernest G. Siddons (1)     X                                            X    
+ 2018 Meetings        5           5           0           3           7    
+[END TABLE]
+The Audit Committee reviews the Corporation's accounting and reporting practices, including internal control procedures, and maintains a direct line of communication with the Directors and the independent accountants. The Audit Committee also is directly responsible for the appointment, compensation and oversight of the work of our independent registered public accounting firm, including pre-approval of all audit and non-audit services to be  performed by our independent registered public accounting firm, as well as evaluating the performance of our internal audit function and our financial reporting processes.
+The Board of Directors has determined that Mr. Pforzheimer meets the SEC criteria to be deemed an "audit committee financial expert" and meets the NYSE standard of having accounting or related financial management expertise. Each member of the Audit Committee is financially literate.
+Compensation Committee
+The Compensation Committee met five times in 2018 and is comprised of three directors: William K. Lieberman (Chairman), Paul A. Gould (until May 2018), Elizabeth A. Fessenden (effective May 2018) and Carl H. Pforzheimer, III. The Compensation Committee is responsible for reviewing and recommending to the Board of Directors compensation programs and policies and reviewing and recommending to the Board of Directors the participation of executives and other key management employees in the various compensation plans of the Corporation.
+The Compensation Committee, under the terms of its charter, has the sole authority to retain, approve fees and other terms for, and terminate any compensation consultant used to assist the Compensation Committee in executive compensation matters. The Compensation Committee also may obtain advice and assistance from internal or external legal, accounting or other advisors. In 2018, the Compensation Committee engaged Pay Governance LLC as its independent provider of compensation consulting services for decisions relating to 2018 compensation. The Committee also utilizes external legal advisors and assesses the independence of its advisors.
+Certain executive officers of the Corporation attend meetings of the Compensation Committee from time to time and are given the opportunity to express their views on executive compensation matters.
+Each member of the Compensation Committee is a "non-employee director" of the Corporation as defined under Rule 16b-3 of the Securities Exchange Act of 1934, and each member is also an "outside director" for the purposes of the corporate compensation provisions contained in Section 162(m) of the Internal Revenue Code.
+Executive Committee
+The Executive Committee did not meet in 2018. It is comprised of the following five directors: Leonard M. Carroll (Chairman), James J. Abel, J. Brett McBrayer (effective July 2018), William K. Lieberman, Carl H. Pforzheimer, III, and John S. Stanik (until July 2018). This Committee is responsible for providing guidance and counsel to the Corporation's management team on significant matters affecting the Corporation and taking action on behalf of the Board where required in exigent circumstances, such as where it is impracticable or infeasible to convene, or obtain the unanimous written consent of, the full Board.
+Nominating and Corporate Governance Committee
+The Nominating and Governance Committee met three times in 2018 and was comprised of four directors: Paul A. Gould (Chairman) (until May 2018), James J. Abel (Chairman effective May 2018), William K. Lieberman and Carl H. Pforzheimer, III. The Nominating and Governance Committee is responsible for identifying individuals qualified to become directors and recommending candidates for membership on the Board of Directors and its committees, developing and recommending to the Board of Directors the Corporation's corporate governance policies and reviewing the effectiveness of board governance, including overseeing an annual assessment of the performance of the Board of Directors and each of its committees.
+Director Compensation
+In 2018, each director who was not employed by the Corporation received an annual retainer of $40,000, payable quarterly in cash in equal installments.  The Chairman of the Board received an additional $25,000 fee, the Chairman of the Audit Committee received an additional $15,000 annual fee, the Chairman of the Compensation Committee received an additional $10,000 fee, and the Chairman of the Nominating and Governance Committee received an additional $7,500 fee. Further, members of Board committees received the following additional fees: $7,500 for the Audit committee, $5,000 for the Compensation committee, and $3,750 for the Nominating and Governance Committee. Each non-employee director also received an annual stock award valued at $70,000. Directors do not  receive meeting fees. The Compensation Committee reviews director compensation annually, in consultation with Pay Governance LLC, and considers whether changes are necessary. 
+The table below summarizes the director compensation earned by non-employee directors of the Corporation in 2018:
+[BEGIN TABLE]
+ Name(1)     Fees Earned or Paid in Cash($)(2)        Stock Awards ($)(3)        Other Compensation ($)        Total ($)    
+ Name(1)     Fees Earned or Paid in Cash($)(2)        Stock Awards ($)(3)        Other Compensation ($)        Total ($)    
+ James J. Abel        45,938           70,000           0           115,938    
+ Leonard M. Carroll  (5)     65,000           70,000           0           135,000    
+ Elizabeth A. Fessenden        43,333           70,000           0           113,333    
+ Michael I. German        47,500           70,000           0           117,500    
+ Paul A. Gould  (4)     15,000           —           0           15,000    
+ William K. Lieberman        61,250           70,000           0           131,250    
+ Laurence E. Paul  (5)     40,000           70,000           0           110,000    
+ Stephen E. Paul        40,000           70,000           0           110,000    
+ Carl H. Pforzheimer, III        63,750           70,000           0           133,750    
+ Ernest G. Siddons  (5)     47,500           70,000           0           117,500    
+ Fredrik Strömholm  (4)     10,000           70,000           0           80,000    
+ Ann E. Whitty  (4)     26,413           70,000           0           96,413    
+ (4)  Paul A. Gould did not run for re-election at the end of his three-year term which expired at the 2018 annual meeting of shareholders. Frederik Strömholm resigned from the Board of Directors effective May 9, 2018, due to personal reasons.  Ann E. Whitty resigned from the Board of Directors effective August 7, 2018, due to personal reasons. 
+ (5)  Leonard M. Carroll, Laurence E. Paul and Ernest G. Siddons have each notified the Corporation that they do not intend to stand for re-election and, therefore, their service as directors of the Corporation will end at the annual meeting. 
+[END TABLE]
+Stock Ownership Guidelines
+We have a long-standing approach of compensating directors in part with stock awards and encouraging retention of stock acquired through such awards or by market purchases. We believe retention of stock creates a long-term perspective and aligns the interests of our directors with those of our shareholders. In furtherance of this approach, the Board of Directors has established stock ownership guidelines for our CEO requiring the CEO to hold a minimum of 30,000 shares of the Corporation's common stock, subject to certain exceptions for reasonable estate and tax planning and diversification purposes. Mr. McBrayer has five years to acquire the shares.
+The Board of Directors is covered by a director stock ownership policy which provides that all directors must hold at least 1,000 shares of the Corporation's common stock. All current directors satisfy this policy as of March 12, 2019. The Board of Directors will review these guidelines at least annually to evaluate whether they remain effective. SECURITY OWNERSHIP OF CERTAIN BENEFICIAL OWNERS AND MANAGEMENT
+Beneficial Ownership of More Than Five Percent
+The following table sets forth information, to the extent known by the Corporation, concerning individuals (other than directors or officers of the Corporation) or entities holding more than five percent of the outstanding shares of the Corporation's Common Stock. The "percent of class" in the table below is calculated based upon 12,494,846 shares outstanding as of March 12, 2019.
+[BEGIN TABLE]
+ Name of beneficial owner     Amount and nature of beneficial ownership           Percent of class    
+ Name of beneficial owner     Amount and nature of beneficial ownership           Percent of class    
+ Mario J. Gabelli (and entities which he controls or for which he acts as chief investment officer) One Corporate Center Rye, NY 10580        2,472,824     (1)        19.79% 
+ Altor Fund II GP Limited (and affiliates) 11-15 Seaton Place St Helier Jersey JE4 OQH Channel Islands        1,776,604     (2)        14.22% 
+ Altor Fund II GP Limited (and affiliates) 11-15 Seaton Place St Helier Jersey JE4 OQH Channel Islands        1,776,604     (2)        14.22% 
+ The Louis Berkman Investment Company 600 Grant Street, Suite 3230 Pittsburgh, PA 15219        1,275,706     (3)        10.21% 
+ Dimensional Fund Advisors LP(4) Building One, 6300 Bee Cave Road Austin, TX, 78746        760,578     (4)        6.09% 
+ (2)  According to Schedule 13D filed on April 1, 2016, Altor Fund beneficially owns 1,776,604 shares of our Common Stock. Altor Fund has shared voting and dispositive power with respect to the shares beneficially owned by each of the reporting persons, as set forth in the Schedule. 
+ (3)  According to the amended Schedule 13D filed on April 10, 2018, and Form 4 filed on July 31, 2018, The Louis Berkman Investment Company beneficially owns 1,275,706 shares of our Common Stock and has sole voting and dispositive power with respect to such shares.  Laurence E. Paul and Stephen E. Paul, directors of the Corporation, own 27.62% and 28.24%, respectively, of The Louis Berkman Investment Company's non-voting stock, held in various trusts. 
+ (4)  According to the amended Schedule 13G filed on February 8, 2019, Dimensional Fund Advisors LP ("Dimensional Fund") has sole dispositive power with respect to 760,578 shares our Common Stock and sole voting power with respect to 714,763 shares of our Common Stock. Dimensional Fund is an investment adviser to four investment companies and furnishes investment advice to certain funds, trusts and separate accounts (the "Funds"). All shares of Common Stock are owned by the Funds and Dimensional Fund disclaims beneficial ownership of these securities. 
+[END TABLE]
+Director and Executive Officer Stock Ownership
+The following table sets forth as of March 12, 2019, information concerning the beneficial ownership of the Corporation's Common Stock by the Directors and Named Executive Officers and all Directors and Executive Officers of the Corporation as a group. The "percent of class" in the table below is calculated based upon 12,494,846 shares outstanding as of March 12, 2019. 
+[BEGIN TABLE]
+ Name of beneficial owner     Amount and nature of beneficial ownership           Percent of class    
+ Name of beneficial owner     Amount and nature of beneficial ownership           Percent of class    
+ Laurence E. Paul        1,298,837     (1)        10.4% 
+ Stephen E. Paul        1,298,837     (2)        10.4% 
+ Rose Hoover        79,512     (3)     *    
+ Carl H. Pforzheimer, III        41,733     (4)     *    
+ James J. Abel        41,266     (5)     *    
+ Ernest G. Siddons        26,138     (6)     *    
+ Leonard M. Carroll        25,631     (5)     *    
+ Michael I. German        25,266     (5)     *    
+ William K. Lieberman        25,131     (7)     *    
+ John S. Stanik        21,036     (10)     *    
+ Michael G. McAuley        8,541     (8)     *    
+ Elizabeth A. Fessenden        7,217     (6)     *    
+ J. Brett McBrayer        4,000     (5)     *    
+ Directors and Executive Officers as a group (18 persons)        1,740,695     (9)        13.9% 
+ (2)  Represents 23,131 shares owned directly and 1,275,706 shares owned by The Louis Berkman Investment Company. Mr. Paul is a President of The Louis Berkman Investment Company and is a trustee of various trusts which own 28.24% of its non-voting stock. 
+ (3)  Represents 6,958 shares owned directly, 66,000 shares that she has the right to acquire within sixty days pursuant to stock options and 6,554 RSUs that will vest within sixty days. 
+ (4)  Includes 40,000 shares owned directly, 800 shares held by a trust of which he is a trustee and principal beneficiary, and the following shares in which he disclaims beneficial ownership: 133 shares held by his daughter and 800 shares held by a trust of which he is a trustee. 
+ (5)  Represents shares held directly. 
+ (6)  Includes 2,000 shares held jointly with his wife and 24,138 shares owned directly. 
+ (7)  Includes 3,000 shares held jointly with his wife and 22,131 shares owned directly. 
+ (8)  Represents 3,612 shares held directly and 4,929 RSUs that will vest within sixty days. 
+ (9)  Excludes double counting of shares deemed to be beneficially owned by more than one director. 
+[END TABLE]
+Unless otherwise indicated, the individuals named have sole investment and voting power.
+Section 16(a) Beneficial Ownership Reporting Compliance
+Section 16(a) of the Exchange Act requires the Corporation's directors, executive officers and persons who beneficially own more than 10% of the Corporation's common stock, to file reports of holdings and transactions in the Corporation's common stock with the SEC and to furnish the Corporation with copies of all Section 16(a) reports that they file. Based on those records and other information furnished, during 2018, executive officers, directors and persons who beneficially own more than 10% of the Corporation's common stock complied with all filing requirements.  PROPOSAL TO AMEND OUR AMENDED AND RESTATED ARTICLES OF INCORPORATION TO INCREASE THE NUMBER OF AUTHORIZED SHARES OF THE CORPORATION'S COMMON STOCK FROM 20,000,000 SHARES TO 40,000,000 SHARES
+(Proposal 2)
+On March 6, 2019, the Board of directors approved a proposal to amend our Amended and Restated Articles of Incorporation (the "Articles of Incorporation") to increase the number of authorized shares of our common stock from 20,000,000 to 40,000,000.
+The proposed amendment would replace the first sentence of Article FIFTH of the Articles of Incorporation with the following language:
+"The authorized capital stock of the Corporation shall be 3,000,000 shares of Preference Stock, without par value, and 40,000,000 shares of Common Stock of the par value of $1 per share."
+A copy of the proposed amendment is attached hereto as Annex A (the "Amendment").
+Effect of Increase in Authorized Shares
+Following the effectiveness of the increase in authorized shares, current holders of common stock will own the same number of shares of common stock than prior to the increase. The Amendment will not change the terms of the common stock and the additional shares of common stock to be authorized pursuant to the Amendment would have rights identical to the currently outstanding common stock of the Corporation. The Amendment will not affect the rights of current holders of the company's common stock, none of whom have preemptive or similar rights to acquire the newly authorized shares.  Each shareholder's percentage ownership of outstanding common stock will not be altered. The par value of the common stock will not change, and the outstanding common stock will remain fully paid and non-assessable. 
+Purposes of the Articles Amendment Proposal
+Article FIFTH of the Articles of Incorporation authorizes the Corporation to issue 20,000,000 shares of common stock.  The authorization was established in 1985.  
+As of March 12, 2019, the record date for the Annual Meeting of Shareholders: 
+[BEGIN TABLE]
+    (i)  12,494,846 shares of common stock are issued and outstanding; 
+    (ii)  797,354 shares are issuable upon the exercise of outstanding stock options and upon vesting of restricted stock units; and 
+    (iii)  760,375 unallocated shares of common stock are available for future awards under the Ampco-Pittsburgh Corporation 2016 Omnibus Incentive Plan. 
+[END TABLE]
+The Board believes it is in the best interest of the Corporation to increase the number of authorized shares of common stock in order to give the Corporation greater flexibility and responsiveness in considering and planning for future corporate needs, including, but not limited to, stock dividends, grants under equity compensation plans, stock splits, financing activities, potential strategic transactions, including mergers, acquisitions, and business combinations, as well as other general corporate transactions. The Board believes that additional authorized shares of common stock will enable the company to take timely advantage of market conditions and other opportunities that become available to the Corporation without the delay and expense associated with convening a special meeting of the Corporation's shareholders. Potential Risks Associated with the Amendment
+The Corporation has no current plan, commitment, arrangement, understanding or agreement regarding the issuance of the additional shares of common stock that will result from the Corporation's adoption of the Amendment.  On September 27, 2018 the Corporation filed a registration statement on Form S-1 with the SEC in connection with the possible offering of subscription rights to our existing common shareholders to purchase units consisting of shares of common stock and warrants (the "Potential Offering").  On November 5, 2018 the Corporation announced a postponement of the Potential Offering.  While the Corporation has no current plan or binding commitments for any transactions at this time, there can be no assurance that the Corporation will not undertake the Potential Offering or any other transaction in the future.  If the Amendment is approved, the Corporation may use some of the shares of common stock that would become available for issuance as a result for the Potential Offering or other potential transactions involving equity securities.
+ Except as otherwise required by law or by a regulation of the New York Stock Exchange, the newly authorized shares of common stock will be available for issuance at the discretion of the Board (without further action by the shareholders) for various future corporate needs, including those outlined above. While adoption of the Amendment would not have any immediate dilutive effect on the proportionate voting power or other rights of the Corporation's existing shareholders, any future issuance of additional authorized shares of the Corporation's common stock may, among other things, dilute the earnings per share and book value of the common stock and the voting rights of those holding common stock at the time the additional shares are issued.
+In addition to the corporate purposes mentioned above, an increase in the number of authorized shares of the Corporation's common stock may make it more difficult to, or discourage an attempt to, obtain control of the Corporation by means of a takeover bid that the board of directors determines is not in the best interest of the Corporation and its shareholders, as additional shares of common stock could be issued to dilute the stock ownership and voting power of, or increase the cost to, a party seeking to obtain control of the Corporation. However, the Board of directors is not aware of any attempt or plan to obtain control of the Corporation.
+Vote Required
+Since all members of the Board of Directors have voted "FOR" the Articles Amendment Proposal, the approval by the holders of at least a majority of the voting power of the outstanding shares, voting together as a single class, is required to adopt the Articles Amendment Proposal. 
+If the Amendment is approved, it will become effective upon its filing with the Secretary of State of the Commonwealth of Pennsylvania, which will occur as soon as practicable after the approval.
+The board recommends that you vote "FOR" the proposal to approve the amendment to our Amended and Restated Articles of Incorporation to increase the number of authorized shares of common stock FROM 20,000,000 SHARES TO 40,000,000 SHARES. ADVISORY VOTE ON EXECUTIVE COMPENSATION(Proposal 3)
+The Say-on-Pay vote is advisory and therefore not binding on the Corporation or the Board. However, the Board of Directors and the Compensation Committee will carefully review the opinions that our shareholders express and will take the outcome of the vote into account when making decisions regarding executive compensation. Our Board of Directors adopted a policy to hold this advisory vote on executive compensation annually.
+We believe that the Say-on-Pay vote represents an additional means by which we may obtain important feedback from our shareholders about executive compensation. As set forth in the Compensation Overview, the overall objectives of our executive compensation program are to provide compensation that is competitive, create a structure that is based on achievement of performance goals and provide incentive for long-term continued employment.
+In accordance with the voting results for the proposal considered at the Corporation's 2017 Annual Meeting of Shareholders regarding the frequency of advisory Say-on-Pay votes, the Corporation determined to hold an advisory Say-on-Pay vote annually until the next shareholder vote on the frequency of such advisory Say-on-Pay votes.
+Shareholders are encouraged to read the Compensation Overview, starting on page 24, which discusses how the elements of the compensation packages for the named executive officers are determined, and review the Summary Compensation Table and the other related information following the Summary Compensation Table. The Board and the Compensation Committee believe that the Corporation's policies and procedures on executive compensation are strongly aligned with the long-term interests of our shareholders and are effective in achieving the strategic goals of the Corporation. The Say-on-Pay vote gives you, as a shareholder, the opportunity to endorse or not endorse our executive compensation program by voting for or against the following resolution:
+"RESOLVED, that the shareholders of Ampco-Pittsburgh Corporation (the "Corporation") approve, on an advisory basis, the compensation of the Corporation's named executive officers, as disclosed in the Corporation's proxy statement for the 2019 Annual Meeting of Shareholders pursuant to the compensation disclosure rules of the Securities and Exchange Commission, including the Compensation Overview, the Summary Compensation Table and the other related tables and disclosure."
+THE BOARD UNANIMOUSLY RECOMMENDS THAT YOU VOTE "FOR" THIS RESOLUTION AND THEREBY ENDORSE THE CORPORATION'S EXECUTIVE COMPENSATION PROGRAM. EXECUTIVE COMPENSATION
+COMPENSATION OVERVIEW
+Our Compensation Overview describes the key features of our executive compensation program for 2018 for our "named executive officers":
+2018 Named Executive Officers 
+[BEGIN TABLE]
+ Name     Title (as of last day of 2018) 
+ J. Brett McBrayer     Chief Executive Officer (as of 7/1/2018) 
+ John S. Stanik     Former Chief Executive Officer (until 6/30/2018) 
+ Michael G. McAuley     Senior Vice President, Chief Financial Officer and Treasurer 
+ Rose Hoover     President and Chief Administrative Officer 
+[END TABLE]
+We have divided this discussion into five parts:
+[BEGIN TABLE]
+    1.  2018 Highlights 
+    2.  Key Features of Our Executive Compensation Program 
+    3.  2018 Compensation Objectives and Governance 
+    4.  2018 Compensation Decisions 
+    5.  Other Compensation Practices and Policies 
+[END TABLE]
+2018 HIGHLIGHTS
+The 2018 executive compensation program features a balanced mix of salary and performance-driven annual and long-term incentive award opportunities. The chart below illustrates the target compensation opportunities in 2018 for Mr. McBrayer, our Chief Executive Officer ("CEO," and also referred to as our Principal Executive Officer or "PEO") (note that the chart depicts the full annual opportunity, while Mr. McBrayer would only be eligible for the 50% of the total opportunity since his employment with the Corporation began on July 1, 2018).  Despite an 8.9% increase in total revenue from continuing operations, 2018 was a challenging year for the Corporation.  Our Forged and Cast Engineered Products segment generated record sales to the oil and gas industry but that market experienced a significant contraction for the Corporation in the second half of the year due to inventory corrections in the frac block supply chain.  In addition, results from continuing operations in 2018 reflected several negative factors that impacted the segment, including higher costs of raw materials and other critical production materials, key equipment reliability issues which resulted in shipment delays and higher maintenance costs, and idle capacity at one of our cast roll plants. The Air and Liquid Processing segment performed well in 2018, increasing its revenue by approximately 2.3%. 
+Overall, the Forged and Cast Engineered Products segment did not achieve its 2018 goal related to income from operations, a key metric in our compensation program. The Air and Liquid Processing segment exceeded its operating income goal. The Corporation was not able to achieve the adjusted earnings per share ("EPS") goal.
+Based on these business performance results, the named executive officers forfeited a significant amount of compensation in 2018, which exhibits our pay-for-performance philosophy.  Specifically, the award related to the Forged and Cast Engineered Products segment income from operations was forfeited.  Further, because the 2018 EPS threshold goal was not achieved, the portion of the 2018 annual incentive award related to EPS was also forfeited. In addition, since the 2018 EPS threshold goal was not achieved, the portions of the 2016-2018 and the 2017-2019 performance stock unit ("PSU") awards related to EPS were forfeited. The threshold for the relative total shareholder return ("TSR") portion of the 2016-2018 PSUs was also not achieved, and as a result, that portion of the 2016-2018 PSUs was also forfeited. The named executive officers did receive annual incentive awards related to the Air and Liquid Systems segment income from operations. Each of the named executive officers also received annual incentive awards based on personal performance.  KEY FEATURES OF OUR EXECUTIVE COMPENSATION PROGRAM
+Our Compensation Committee believes that our executive compensation program includes key features that align the interests of our named executive officers and the Corporation's long-term strategic direction with the interests of our shareholders and does not include features that could misalign their interests.
+[BEGIN TABLE]
+       KEY FEATURES            
+• Align CEO Pay with Corporate Performance: A significant portion of our CEO's actual pay is tied to annual performance goals and long-term shareholder returns. A majority of long-term incentive awards were provided as PSUs.       
+• Use Long-Term Incentives to Link a Significant Portion of Named Executive Officer Pay to Company Performance: A significant portion of pay for our named executive officers is long-term incentives linked to growing earnings per share and total shareholder return.       
+• Use Long-Term Incentives to Link a Significant Portion of Named Executive Officer Pay to Company Performance: A significant portion of pay for our named executive officers is long-term incentives linked to growing earnings per share and total shareholder return.       
+• Balance Short-Term and Long-Term Incentives: Our incentive programs provide an appropriate balance of annual and long-term incentives and include multiple measures of performance.       
+• Cap Incentive Awards: Annual incentive awards and PSUs include capped payouts (200% for annual incentives and 150% for PSUs).       
+• Mitigate Excessive Risk-taking Behaviors by Named Executive Officers:  Our executive compensation program includes features that reduce the possibility of our named executive officers, either individually or as a group, making excessively risky business decisions that could maximize short-term results at the expense of long-term value.       
+• Authorize the Board to Claw Back Executive Compensation: We have implemented a clawback policy applicable to executive officers pursuant to which, if the Corporation is required, because of fraud or negligence, to restate financial results for any Restatement Period in a manner that would have adversely affected the amount of the payout of any incentive compensation awards, the Committee has the right during the three-year period following the Restatement Period to review the matter and determine what, if any, repayment executives will be required to make.       
+• Use of Independent Compensation Consultant: In 2018, the Committee engaged Pay Governance LLC, a compensation consulting firm, to assist it in fulfilling its responsibilities and duties. Pay Governance LLC does not provide any other services to the Corporation.       
+• Use of Independent Compensation Consultant: In 2018, the Committee engaged Pay Governance LLC, a compensation consulting firm, to assist it in fulfilling its responsibilities and duties. Pay Governance LLC does not provide any other services to the Corporation.       
+• Use of Peer Group: The Compensation Committee periodically checks its compensation decisions against executive compensation at a peer group of companies comparable in terms of the primary scope metric of revenue and secondary scope metrics of market cap, assets and number of employees to ensure that our executive compensation program provides competitive compensation opportunities. The same peer group is used to determine our relative performance for vesting of a portion of PSU awards.       
+• Multi-Year Vesting Periods: The equity awards granted to our executive officers are earned over multi-year periods, consistent with current practice and our retention objectives.       
+• Use of Performance Metrics: A significant portion of each executive's annual pay is based on objective performance metrics. Our executive compensation program is designed so that a significant portion of compensation is "at-risk" based on corporate performance, as well as equity-based to align the interests of our executive officers and shareholders.       
+• No Section 280G Tax Gross-Up Rights: We do not provide any Code Section 280G excise tax gross-up rights or any other significant tax gross-up rights to our executive officers.       
+• No Option Repricing or Replacement without Shareholder Approval: The Corporation's 2016 Omnibus Incentive Plan prohibits "underwater" options from being repriced or replaced (either with new options or other equity awards), unless approved by our shareholders.       
+• No Option Repricing or Replacement without Shareholder Approval: The Corporation's 2016 Omnibus Incentive Plan prohibits "underwater" options from being repriced or replaced (either with new options or other equity awards), unless approved by our shareholders.       
+[END TABLE]
+ 2018 COMPENSATION OBJECTIVES
+The compensation paid or awarded to our named executive officers for 2018 was designed to meet the following objectives:
+[BEGIN TABLE]
+• Provide compensation that is competitive with compensation for executive officers providing comparable services, taking into account the size of the Corporation, the nature of its business, and the location of its headquarters. We refer to this objective as "competitive compensation." 
+• Create a compensation structure under which a meaningful portion of total compensation is based on achievement of performance goals relating to the Corporation's and the individuals' performance and to enhancement of shareholder value. We refer to this objective as the "performance incentive." 
+• Provide an incentive for long-term continued employment with us. We refer to this objective as the "retention incentive." 
+[END TABLE]
+We believe various components of our 2018 compensation payments and awards meet the following objectives:
+[BEGIN TABLE]
+ Type of Compensation     Objectives Addressed 
+ Salary     Competitive Compensation Performance Incentives 
+ Salary     Competitive Compensation Performance Incentives 
+ Incentive Bonus Plan Awards     Competitive Compensation Performance Incentives 
+ Restricted Stock Units     Competitive Compensation Retention Incentives 
+ Performance Stock Units     Competitive Compensation Performance Incentives Retention Incentives 
+ Performance Stock Units     Competitive Compensation Performance Incentives Retention Incentives 
+ Change in Control Severance Protection     Competitive Compensation Retention Incentives 
+ SERP Benefits     Competitive Compensation Retention Incentives 
+ SERP Benefits     Competitive Compensation Retention Incentives 
+[END TABLE]
+2018 COMPENSATION DECISIONS
+Salaries
+New salary levels for our named executive officers were established in April of 2018, except that Mr. Stanik's salary was not changed due to his planned departure from the Corporation upon his retirement. Determinations regarding salary adjustments are made based on a number of objective and subjective factors, including cost of living increases, the Corporation's financial performance, and a qualitative analysis of each individual officer's performance during the preceding year, taking into account such factors as leadership, commitment and execution of corporate initiatives and special projects assigned by the Board, the Chairman or the CEO. We also consider whether there has been any material change in the officer's title, duties and responsibilities in the preceding year. Where an officer has assumed material additional duties, or has been promoted, an above-normal salary adjustment would typically be justified. Finally, in rare circumstances, we may decide to make a market adjustment in salaries if we determine that salary levels for one or more of our named executive officers have fallen materially below levels that we consider appropriate in order to maintain a competitive compensation package and to discourage valued executives from leaving to pursue other opportunities. Salary adjustments for our CEO and other named executive officers are reviewed  and must be approved by the independent members of the Board of Directors, after a recommendation by the Compensation Committee. 
+Generally, the differences in the level of pay between the named executive officers is the result of the determination by the Committee or by the CEO over time that the level of responsibility, function, experience, and length of service that each of the officers possess.
+The base salary determinations for each named executive officer in 2018 were as follows:
+[BEGIN TABLE]
+ Name     2018 Base Pre-Adjustment Salary($)        2018 Base Adjusted Salary($)        Percentage Increase    
+ Name     2018 Base Pre-Adjustment Salary($)        2018 Base Adjusted Salary($)        Percentage Increase    
+ J. Brett McBrayer     n/a           550,000        n/a    
+ John S. Stanik        630,000           630,000        0%    
+ Michael G. McAuley        348,000           358,400        3%    
+ Rose Hoover        375,000           384,400        3%    
+• The annual incentive is based 70% on the business performance and 30% on individual performance. With respect to the 70% business performance portion, 50% of it will be based on operating income and 50% - on the Corporation's EPS. 
+• For the executives at the corporate level, the operating income portion of the annual incentive is based on the performance of both business segments of the Corporation. For business segment leaders, 100% of the operating income portion of the annual incentive will be based on the performance of the relevant segment. 
+• The long-term incentive awards continue to be based on a mix of restricted stock units ("RSUs") and PSUs. However, the RSUs will be weighted 33% of the total long-term incentive opportunity and PSUs will be weighted 67% of the total long-term incentive opportunity. With respect to the PSUs, 50% of the PSUs will be based on Return on Invested Capital ("ROIC") and 50% will be based on relative TSR, each of which will be measured over a three-year performance period. 
+[END TABLE]
+ Annual Incentive Plan  
+The annual incentive bonus plan award for 2018 for each named executive officer was determined using the following formula:
+[BEGIN TABLE]
+ Target Annual Performance        X  35% Weighting       X  Business Segment Performance Achievement       =  Business Performance Portion of Annual Incentive 
+                     +    
+ Target Annual Performance        X  35% Weighting       X  Corporate EPS       =  Corporate EPS Portion of Annual Incentive 
+                     +    
+ Target Annual Performance        X  30% Weighting       X  Personal Goal Achievement to Improve Their Area of Responsibility       =  Personal Performance Portion of Annual Incentive 
+                   _______________________ 
+                   Annual Incentive Award  
+[END TABLE]
+Threshold, target and maximum levels were set for the performance goals, such that no amount would be paid for performance below threshold, 50% of target would be paid for performance at threshold, and no more than 200% of target would be paid for performance at or above maximum.  In addition, if the threshold level of Earnings Per Share ("EPS") is not achieved, payouts for the achievement of personal goals are capped at the target level.
+Target Annual Incentive Awards. Target annual incentive awards were established by the Compensation Committee as a percentage of base salary for each named executive officer, intending to provide a competitive bonus opportunity aligned to the named executive officer's role, responsibilities and historic pay, as follows:
+[BEGIN TABLE]
+ Name     Target Annual Incentive As% of Base Salary        Target Annual Incentive Amount    
+ Name     Target Annual Incentive As% of Base Salary        Target Annual Incentive Amount    
+ J. Brett McBrayer (1)     75%        $  412,500    
+ John S. Stanik     85%        $  535,500    
+ Michael G. McAuley     50%        $  174,000    
+ Rose Hoover     50%        $  187,500    
+    (1)  Mr. McBrayer's annual incentive is to be pro-rated for 6 months only (to $206,225) since his employment began on July 1, 2018. 
+[END TABLE]
+[BEGIN TABLE]
+ Business Segment Operating Income Goals for 2018 (in $000's)    
+ Business Segment Operating Income Goals for 2018 (in $000's)    
+ Forged and Cast Engineered Products Segment (25% weight)        Air and Liquid Processing Segment (10% weight)        Performance Achievement Level     Payout Percentage (of Target Award)    
+ Forged and Cast Engineered Products Segment (25% weight)        Air and Liquid Processing Segment (10% weight)        Performance Achievement Level     Payout Percentage (of Target Award)    
+ Less than 7,000        Less than 8,000        Below Threshold     0%    
+ 7,000           8,000        Threshold     50%    
+ 13,921           10,112        Target     100%    
+    20,000           12,000        Maximum     200%    
+[END TABLE]
+The following table shows the EPS portion of the design.
+Corporate EPS Performance Goals 
+[BEGIN TABLE]
+ Achievement% of EPS Portion Target Earned        2018 EPS Goals       
+ Achievement% of EPS Portion Target Earned        2018 EPS Goals       
+ Below Threshold     0%                   
+ Threshold     75%        $  -0.26       
+ Target     100%        $  0.26       
+ Maximum     150%        $  0.52       
+ Name     Target Annual Incentive Award        Business Performance Portion (70% weighting)        +     Personal Performance Portion (30% weighting)        =     Actual Annual Incentive Award    
+ Name     Target Annual Incentive Award        Business Performance Portion (70% weighting)        +     Personal Performance Portion (30% weighting)        =     Actual Annual Incentive Award    
+ J. Brett McBrayer     $  412,500        $  28,380              $  61,875              $  90,255    
+ John S. Stanik (1)     $  535,500        $  36,842        +     $  35,745              $  72,587    
+ Michael G. McAuley     $  174,000        $  24,658        +     $  53,760              $  78,418    
+ Rose Hoover     $  187,500        $  26,447        +     $  57,660              $  84,107    
+[END TABLE]
+The Corporation has adopted the 2016 Omnibus Incentive Plan under which the Compensation Committee may grant the named executive officers and other key employees a variety of types of equity-based awards. The Compensation Committee believes that annual grants of equity-based awards serve the purpose of aligning the interests of our named executive officers with the interests of our shareholders. Vesting conditions for equity-based awards also encourage executive retention. Before 2015, the Corporation had the practice of making annual grants of stock options. Since 2015, the Compensation Committee has not granted stock options and instead follows a practice of granting long-term incentive awards in the form of annual grants of PSUs (vesting based on performance over a three-year performance period) and RSUs (vesting based on continued employment over three years). The Compensation Committee believes the current mix of equity incentive awards further ties pay to our Corporation's performance while also aligning interests with our long-term shareholders and encouraging retention.
+Target Award Amounts. The Compensation Committee sets a target dollar amount for the value of long-term incentive awards granted each year, intending to provide a competitive long-term incentive award opportunity aligned to the named executive officer's role, responsibilities and historic pay, as follows: 
+[BEGIN TABLE]
+ Name     Target Long-Term Incentive As% of Base Salary        Target Long-Term Incentive Amount    
+ Name     Target Long-Term Incentive As% of Base Salary        Target Long-Term Incentive Amount    
+ J. Brett McBrayer     110.0%        $  605,000    
+ John S. Stanik     105.1%        $  662,000    
+ Michael G. McAuley     56.92%        $  204,000    
+ Rose Hoover     71.54%        $  275,000    
+[END TABLE]
+Mix of Awards: PSUs and RSUs. Beginning in 2015, the Compensation Committee determined that the long-term incentive awards for the named executive officers should be provided in a balanced mix of RSUs, weighted 30%, and PSUs, weighted 70%. For 2018, the Compensation Committee adjusted the weighting to be 33% in RSUs and 67% in PSUs.  This weighting, and the performance requirements for PSUs discussed below, is intended to further align the compensation realized by our named executive officers over time with the Corporation's performance. The PSUs, to the extent earned based on performance, do not vest until the end of the performance period, and the RSUs vest in three equal annual installments starting on the first anniversary of the grant date, to further encourage executive retention. Consistent with past practice, the grants are made on or about the same date as our annual meeting of shareholders for each year.
+Performance Design for PSUs. PSUs become earned based on the Corporation's performance over a three-year performance period, 2018-2020. The Compensation Committee determined that the performance vesting conditions should be based on a mix of our performance against annually determined goals regarding ROIC, weighted 34% of the total long-term incentive award opportunity (including the RSUs), and our TSR as compared against a peer group over the performance period, weighted 33% of the total long-term incentive award opportunity (including the RSUs). The ROIC (calculated as net income divided by the sum of average total debt and shareholders' equity) performance is measured as percentage point improvement in the Corporation's ROIC in 2020 versus ROIC in 2017, subject to certain adjustments for mergers and acquisitions, restructurings, foreign exchange fluctuations and accounting changes, among other, which the Committee deems appropriate.  TSR performance ensures that compensation results are tied to our relative performance against our peers.
+The following table shows the ROIC design. ROIC Performance Goals
+(34% of Total Long-Term Incentive Award Opportunity)
+[BEGIN TABLE]
+ Achievement     ROIC Target Improvement% of ROIC Portion Target Earned    
+ Achievement     ROIC Target Improvement% of ROIC Portion Target Earned    
+ Below Threshold     less than 5%     0%    
+ Threshold     5%     50%    
+ Target     10%     100%    
+ Maximum     15%     200%    
+ Achievement     TSR Percentile Rank% of TSR Portion Target Earned    
+ Achievement     TSR Percentile Rank% of TSR Portion Target Earned    
+ Below Threshold     Below 25th percentile     0%    
+ Threshold     25th percentile     50%    
+ Target     50th percentile     100%    
+ Maximum     75th percentile and above     200%    
+[END TABLE]
+See "Key Features of Our Executive Compensation Program" above for a summary of a number of key policies and practices designed to result in a balanced executive compensation program that encourages appropriate, and not excessive, levels of risk taking by our named executive officers. Below are certain additional policies and practices regarding our program:
+Use of Peer Companies
+The Compensation Committee periodically checks its compensation decisions against executive compensation at a peer group of companies comparable in terms of the primary scope metric of revenue and secondary scope metrics of market cap, assets and number of employees to ensure that our executive compensation program provides competitive compensation opportunities for our named executive officers. The Compensation Committee uses this information for general context on executive compensation practices and levels in the market and does not have a formal policy to benchmark compensation mix or levels for the named executive officers to a specified competitive level against these peers.
+The Compensation Committee most recently considered the appropriate peer companies in 2018. At that time,  the Compensation Committee approved a list of 17 peer manufacturing companies, taking into account size and complexity of the business based on revenue, total assets and market cap. At the time established, the Corporation approximated the median size of the peer companies in revenues, was above the median in assets and below median in market cap. The peer company list approved in 2018 is as follows:
+[BEGIN TABLE]
+ Badger Meter Inc. Chase Corporation DMC Global Inc. Douglas Dynamics, Inc. FreightCar America Inc. Gorman-Rupp Co.     Hardinge Inc. Haynes International, Inc. Hurco Companies Inc. Insteel Industries, Inc. Kadant Inc. LB Foster Co. Lydall Inc.     Manitex International, Inc. NN Inc. Twin Disc, Incorporated Universal Stainless & Alloy Products Inc. 
+ Badger Meter Inc. Chase Corporation DMC Global Inc. Douglas Dynamics, Inc. FreightCar America Inc. Gorman-Rupp Co.     Hardinge Inc. Haynes International, Inc. Hurco Companies Inc. Insteel Industries, Inc. Kadant Inc. LB Foster Co. Lydall Inc.     Manitex International, Inc. NN Inc. Twin Disc, Incorporated Universal Stainless & Alloy Products Inc. 
+ Badger Meter Inc. Chase Corporation DMC Global Inc. Douglas Dynamics, Inc. FreightCar America Inc. Gorman-Rupp Co.     Hardinge Inc. Haynes International, Inc. Hurco Companies Inc. Insteel Industries, Inc. Kadant Inc. LB Foster Co. Lydall Inc.     Manitex International, Inc. NN Inc. Twin Disc, Incorporated Universal Stainless & Alloy Products Inc. 
+ Badger Meter Inc. Chase Corporation DMC Global Inc. Douglas Dynamics, Inc. FreightCar America Inc. Gorman-Rupp Co.     Hardinge Inc. Haynes International, Inc. Hurco Companies Inc. Insteel Industries, Inc. Kadant Inc. LB Foster Co. Lydall Inc.     Manitex International, Inc. NN Inc. Twin Disc, Incorporated Universal Stainless & Alloy Products Inc. 
+[END TABLE]
+Ongoing and Post-Employment Agreements
+In 2018, the Board of Directors adopted the Ampco-Pittsburgh Corporation Executive Severance Plan (the "Executive Severance Plan") for key executive officers of the Corporation other than the CEO (whose severance benefits are addressed in his offer letter).  We also have a legacy supplemental executive retirement plan that enables certain of our named executive officers to accrue retirement benefits as the executive continues to work for us, as well as change in control agreements that could provide severance benefits upon a change in control. These plans and agreements are designed to be a part of a competitive compensation package. The plans and agreements described below do not include plans that are generally available to all of our salaried employees:
+[BEGIN TABLE]
+• Executive Severance Plan — The Board has adopted the Executive Severance Plan which provides severance benefits to key executive officers of the Corporation, other than the CEO, in the event of a termination by the Corporation without "cause" or by a participant for "good reason".  The named executive officers who participate in the Executive Severance Plan are Mr. Michael G. McAuley and Ms. Rose Hoover.  The Executive Severance Plan is described under "Potential Payments Upon Termination or Change in Control" below. 
+[END TABLE]
+[BEGIN TABLE]
+• Supplemental Executive Retirement Plan ("SERP") — We maintain a SERP, which is a nonqualified deferred compensation plan that provides benefits for executives in excess of the benefits that may be provided under our tax qualified defined benefit retirement plan ("Plan") as a result of limits imposed by the Internal Revenue Code. The SERP also provides additional payment rights and benefits in the event of a change in control. The only named executive officer who participates in the SERP is Ms. Rose Hoover.  The SERP is described under "Retirement Benefits" below.  
+[END TABLE]
+[BEGIN TABLE]
+• Change in Control Agreements — We have change in control agreements with respect to each of our executive officers so that our officers remain focused on the interests of the Corporation and the shareholders, rather than their personal circumstances, in the context of a potential change in control. Our agreements with executives provide for payments and other benefits only if we terminate an executive's employment without cause or if the executive terminates employment for "good reason" within 24 months following a change in control. The Change in Control agreements are described under "Potential Payments Upon Termination or Change in Control" below. 
+[END TABLE]
+Tax Considerations
+Internal Revenue Code Section 162(m) limits the deductibility of compensation in excess of $1 million paid to any one named executive officer in any calendar year. Under the tax rules in effect before 2018, compensation that qualified as "performance-based" under Section 162(m) was deductible without regard to this $1 million limit. However, the Tax Cuts and Jobs Act, which was signed into law December 22, 2017, eliminated this performance-based compensation exception effective January 1, 2018, subject to a special rule that "grandfathers" certain awards and arrangements that were in effect on or before November 2, 2017. As a result, compensation that the Compensation Committee structured in 2017 and prior years with the intent of qualifying as performance-based compensation under Section 162(m) that is paid on or after January 1, 2018 may not be fully deductible, depending on the application of the special grandfather rules. Moreover, from and after January 1, 2018, compensation awarded in excess of $1 million to our named executive officers generally will not be deductible. Given our current compensation levels, the potential impact of Section 162(m) has not been a material consideration for the Committee. While the Tax Cuts and Jobs Act  may limit the deductibility of compensation paid to the named executive officers in the future, the Committee will—consistent with its past practice—design compensation programs that are in the best long-term interests of the Corporation and our shareholders, with deductibility of compensation being one of a variety of considerations taken into account.
+SUMMARY COMPENSATION TABLE
+Summary compensation information for our named executive officers for 2018 is set forth in the following table:
+[BEGIN TABLE]
+  (a)     (b)     (c)        (d)        (e)        (f)        (g)        (h)        (i)    
+ Name and Principal Position     Year ($)     Salary ($)        Bonus ($)        Stock Awards ($)(1)        Non-Equity Incentive Plan Compensation ($)        Nonqualified Deferred Compensation Earnings        All Other Compensation ($)(2)        Total ($)    
+ Name and Principal Position     Year ($)     Salary ($)        Bonus ($)        Stock Awards ($)(1)        Non-Equity Incentive Plan Compensation ($)        Nonqualified Deferred Compensation Earnings        All Other Compensation ($)(2)        Total ($)    
+ PEO—J. Brett McBrayer     2018        275,004           100,000           429,772           90,255           0           258,555           1,153,586    
+      Chief Executive Officer (as of July 1, 2018)                                                                                           
+ PEO—John S. Stanik     2018        315,000           0           167,150           0           0           31,715           513,865    
+ Chief Executive Officer (through June 30, 2018)     2017        627,000           0           595,168           476,803           0           30,242           1,729,213    
+ PFO—Michael G. McAuley,     2018        355,800           0           242,882           78,418           0           31,429           708,529    
+ Senior Vice President, Chief Financial     2017        346,000           0           166,740           173,720           0           26,013           712,473    
+  Officer and Treasurer                                                                                           
+ Rose Hoover,     2018        382,050           0           319,340           84,107           0           23,102           808,599    
+ President and Chief     2017        372,269           0           243,656           223,963           0           15,782           855,670    
+ Administrative Officer                                                                                           
+[END TABLE]
+ OUTSTANDING EQUITY AWARDS AT FISCAL YEAR-END
+The following table summarizes certain information regarding outstanding equity awards at fiscal year-end:
+[BEGIN TABLE]
+    Option Awards     Stock Awards    
+ (a)  (b)        (c)     (e)     (f)     (g)        (h)        (i)        (j)    
+ Name  Number of Securities Underlying Unexercised Options (#) Exercisable        Number of Securities Underlying Unexercised Options (#) Unexercisable     Option Exercise Price($)     Option Expiration Date     Number of shares or units of stock that have not vested(#)(1)        Market value of shares or units of stock that have not vested(#)(2)        Equity incentive plan awards: number of unearned shares, units or other rights that have not vested(#)(3)        Equity incentive plan awards: market or payout value of unearned shares, units or other rights that have not vested($)(4)    
+ Name  Number of Securities Underlying Unexercised Options (#) Exercisable        Number of Securities Underlying Unexercised Options (#) Unexercisable     Option Exercise Price($)     Option Expiration Date     Number of shares or units of stock that have not vested(#)(1)        Market value of shares or units of stock that have not vested(#)(2)        Equity incentive plan awards: number of unearned shares, units or other rights that have not vested(#)(3)        Equity incentive plan awards: market or payout value of unearned shares, units or other rights that have not vested($)(4)    
+ Name  Number of Securities Underlying Unexercised Options (#) Exercisable        Number of Securities Underlying Unexercised Options (#) Unexercisable     Option Exercise Price($)     Option Expiration Date     Number of shares or units of stock that have not vested(#)(1)        Market value of shares or units of stock that have not vested(#)(2)        Equity incentive plan awards: number of unearned shares, units or other rights that have not vested(#)(3)        Equity incentive plan awards: market or payout value of unearned shares, units or other rights that have not vested($)(4)    
+ J. Brett McBrayer                                   21,884           67,840           12,257           37,997    
+ John S. Stanik                                   —           —           —           —    
+ Michael G. McAuley                                   11,151           34,568           10,109           31,338    
+ Rose Hoover     13,334        0     13.37/share     2/19/2019        14,757           45,747           13,358           41,410    
+       20,000        0     25.77/share     2/18/2020                                                 
+       11,500        0     25.18/share     5/6/2021                                                 
+       11,500        0     17.67/share     5/3/2022                                                 
+       11,500        0     17.16/share     5/2/2023                                                 
+       11,500        0     20.00/share     4/29/2024                                                 
+ Rose Hoover     5/5/2016        1,472        5/5/2019 
+       5/3/2017        1,964        5/3/2019 
+       5/3/2017        1,965        5/3/2020 
+       5/9/2018        3,118        5/9/2019 
+       5/9/2018        3,119        5/9/2020 
+       5/9/2018        3,119        5/9/2021 
+ Michael G. McAuley     5/5/2016        1,091        5/5/2019 
+       5/3/2017        1,457        5/3/2019 
+       5/3/2017        1,458        5/3/2020 
+       5/9/2018        2,381        5/9/2019 
+       5/9/2018        2,382        5/9/2020 
+       5/9/2018        2,382        5/9/2021 
+ J. Brett McBrayer     7/2/2018        6,000        7/2/2019 
+       7/2/2018        6,000        7/2/2020 
+       7/2/2018        3,294        7/2/2019 
+       7/2/2018        3,295        7/2/2020 
+       7/2/2018        3,295        7/2/2021 
+[END TABLE]
+[BEGIN TABLE]
+ Name     Grant Date     # of Unvested Shares        Vesting Date     Total(#)    
+ Michael G. McAuley                                     
+       5/3/2017        3,112        5/3/2020             
+       5/9/2018        6,997        5/9/2021             
+                                  10,109    
+ Rose Hoover                                     
+       5/3/2017        4,195        5/3/2020             
+       5/9/2018        9,163        5/9/2021             
+                                  13,358    
+ J. Brett McBrayer                                     
+       7/2/2018        12,257        7/2/2021             
+                                  12,257    
+[END TABLE]
+For PSUs awarded in 2016, the relative TSR performance of the Corporation for the 2016-2018 performance period was below the threshold value so no stock will be issued at vesting date (May 5, 2019) with respect to the 2016 awards.
+[BEGIN TABLE]
+ (4)  The amounts shown in this column represent the value of the TSR portion of the unvested PSUs based on the closing market price of our common stock ($3.10) as of the close of trading on December 31, 2018. 
+[END TABLE]
+ RETIREMENT BENEFITS
+The Corporation also maintains a tax-qualified defined benefit pension plan (the "Pension Plan") that covers substantially all regular employees who were employed prior to June 30, 2015, the date on which benefit accruals under the Pension Plan were frozen. Due to Mr. Stanik's retirement in 2018, he is not entitled to coverage under the Pension Plan since he did not meet the early retirement eligibility requirements. Ms. Hoover is entitled to coverage under the Pension Plan. None of the other named executive officers are covered under the Pension Plan since their employment with the Corporation began after June 30, 2015.  
+The Corporation also maintains a SERP for certain of its current and former executives; that plan provides retirement benefits after completion of ten years of service and attainment of age 55. Ms. Hoover is the only named executive officer who is a participant in the SERP. The combined retirement benefit at age 65 or older provided by the Pension Plan and the SERP is 50% of the highest consecutive five-year average earnings in the final ten years of service. Earnings for this purpose generally include all cash compensation, including base salary and annual incentive awards, but excludes certain extra compensation such as compensation from the exercise of stock options. Participants are eligible for reduced benefits for early retirement at age 55. A benefit equal to 50% of the benefit otherwise payable at age 65 is paid to the surviving spouse of any participant who has had at least five years of service, commencing on the later of the month following the participant's death or the month the participant would have reached age 55. In addition, there is an offset for pensions from other companies. POTENTIAL PAYMENTS UPON TERMINATION, RESIGNATION OR CHANGE IN CONTROL
+Executive Severance Plan 
+As previously mentioned, in 2018, the Corporation adopted the Executive Severance Plan for its key executive officers other than the CEO, to be in effect for a term of two years.  Under the terms of the Executive Severance Plan, in the event of a termination by the Corporation without "cause" or by a participant for "good reason," the participant, upon execution of a general release of liability against the Corporation and subject to compliance with applicable post-termination restrictive covenants and other obligations, will generally be eligible to receive:
+[BEGIN TABLE]
+• an amount equal to the sum of his or her then-current annual base salary and the average annual cash incentive bonus paid to the participant for the three fiscal years immediately preceding the termination date; provided that (i) if the participant has been employed for fewer than three years, the average will be based on the applicable number of years (one or two), and (ii) if the termination occurs in the first year of employment, no bonus amount shall be included; and 
+[END TABLE]
+[BEGIN TABLE]
+• payment by the Corporation of the participant's COBRA premiums, less the amount that the participant would be required to contribute for such healthcare coverage if the participant were an active employee for a period ending upon the earlier of (x) 12 months and (y) the date on which the participant becomes entitled to comparable welfare benefits from another employer subject to the participant's proper election to continue healthcare coverage under COBRA. 
+[END TABLE]
+Mr. McBrayer is not a participant under the Executive Severance Plan.  However, his offer letter provides that, in the event of a termination of his employment other than (1) for "cause" or (2) for circumstances covered by the Change in Control Agreement, he will be eligible for severance pay in the amount equal to 18 months of base compensation if the termination occurs within the first 18 months of his start date (July 1, 2018) and 12 months of base compensation if the termination occurs after 18 months of the start date.
+Change in Control Agreements and SERP
+Each of the named executive officers (other than Mr. Stanik, who retired in 2018) is party to a change in control agreement with the Corporation.  Per the terms of change in control agreements, the named executive officer would be entitled to receive (i) three times the sum of annual salary and bonus paid for the prior year, (ii) continuation of employee benefits for two years (three years for Mr. McBrayer), (iii) cash payment in cancellation of outstanding stock options equal to the spread (if any) based on the greater of the stock price at termination and the price received in the change in control and the exercise price, (iv) accelerated vesting of unvested restricted stock units, and (v) the right to purchase the leased car used by the covered individual at the Corporation's then book value (this feature is only applicable to Ms. Hoover).  
+Ms. Hoover is the only executive officer covered by the SERP.  Per the terms of the SERP, in the event a change in control occurs and, within 24 months after the change in control a named executive officer's employment is terminated by the Corporation without cause or by the executive for good reason, Ms. Hoover's benefits under the plan would become vested, payable in a lump sum.  
+The Corporation does not provide any tax gross-up payments under these agreements related to excise taxes under Internal Revenue Code Section 280G and 4999, or otherwise. Instead, the agreements provide for a cutback in benefits to avoid triggering such excise taxes, unless the named executive officer would receive a greater after-tax amount without such cutback.
+A "change in control" occurs for purposes of the change in control agreements and the SERP:
+[BEGIN TABLE]
+• If a person, other than persons currently in control, becomes an owner, directly or indirectly, of 50% or more of the combined voting power of the Corporation's outstanding voting securities; 
+• If for two consecutive years there ceases to be a majority on the Board of individuals who at the beginning of the period were Board members, other than a new director whose election was approved by a vote of 2/3 of directors then still in office who were directors at beginning of the period or whose election or nomination for election was previously approved; 
+[END TABLE]
+[BEGIN TABLE]
+• If the shareholders approve a merger or consolidation in which the Corporation's common stock is converted into shares of another corporation or cash or other property or the Corporation's common stock is not converted but 40% of the surviving corporation in the merger is owned by shareholders other than those who owned the Corporation's common stock prior to merger; 
+• If there occurs any transaction which results in the Corporation's common stock no longer being publicly traded; or 
+• If the shareholders of the Corporation approve a plan of complete liquidation or agreement for sale or disposition of substantially all assets followed by distribution of proceeds to shareholders. 
+[END TABLE]
+A termination for "cause" occurs in each of the following cases:
+[BEGIN TABLE]
+• willful and continued failure to substantially perform duties (other than due to disability) consistent with the named executive officer's position with the Corporation (subject to notice and cure provisions); 
+• willful engagement in conduct that is demonstrably and materially injurious to the Corporation; or 
+• the named executive officer's conviction of a felony, or conviction of a misdemeanor involving assets of the Corporation. 
+[END TABLE]
+A named executive officer may claim "good reason" for termination in the following events, subject to certain notice requirements and an opportunity for the Corporation to cure:
+[BEGIN TABLE]
+• a reduction in scope of duties and authority or adverse change in reporting relationship; 
+• a reduction in base salary or bonus (unless similar reductions in bonuses are made for all executives); 
+• relocation of the executive by the Corporation greater than 25 miles; 
+• the failure by the Corporation to continue in effect any of the Corporation's employee benefit plans, policies, practices in which the named executive officer participated before the change in control; or 
+• failure to cause the change in control agreement to be assumed by the Corporation's successor. 
+[END TABLE]
+2016 Omnibus Incentive Plan 
+Under the terms of the 2016 Omnibus Incentive Plan, the 2016, 2017 and 2018 RSUs and PSUs include special vesting provisions in case of termination of employment due to a change in control.  In that case, RSUs become fully vested and PSUs become vested as follows: (A) for the TSR and ROIC portions of the PSUs, a prorated number of the PSUs will become immediately earned and vested as of the date of such termination assuming target performance and based on the portion of the performance period completed through the date of such termination; (B) for any performance-adjusted PSUs related to the EPS portion for any previously completed year in the performance period, such performance-adjusted PSUs will become immediately earned and vested as of the date of such termination; and (C) for the one-third portion of the EPS portion being earned for the year of such termination, a prorated number of such PSUs shall become immediately earned and vested as of the date of such termination assuming target performance and based on the portion of the applicable year completed through the date of such termination. 
+Under the 2016 Omnibus Incentive Plan, a "change in control" occurs:
+[BEGIN TABLE]
+• If a person, other than persons currently in control, becomes an owner, directly or indirectly, of 50% or more of the combined voting power of the Corporation's outstanding voting securities; 
+• If any election has occurred of persons to the Board that causes two-thirds of the Board to consist of persons other than (i) persons who were members of the Board on the effective date of the 2016 Omnibus Incentive Plan and (ii) persons who were nominated for elections as members of the Board at a time when two-thirds of the Board consisted of persons who were members of the Board on that effective date; 
+• Upon consummation (i.e. closing) of a reorganization, merger or consolidation involving the Corporation, unless, following such reorganization, merger or consolidation, the owners of the Corporation before the transaction own more than 75% of the resulting entity; 
+[END TABLE]
+[BEGIN TABLE]
+• Upon consummation (i.e. closing) of a sale of substantially all of the Corporation's assets, unless the owners of the Corporation before the transaction own more than 75% of the purchaser; or 
+• If there is a complete liquidation or dissolution of the Corporation. 
+[END TABLE]
+Retirement and Consulting Agreement
+Mr. Stanik retired as the CEO of the Corporation effective as of June 30, 2018.  Pursuant to the Retirement and Consulting Agreement between the Corporation and Mr. Stanik, dated as of June 30, 2018, in exchange for Mr. Stanik executing a general release of claims against the Corporation, Mr. Stanik has received or is entitled to receive, as applicable, the following compensation: (i) accelerated vesting of 4,697 RSUs granted to Mr. Stanik on May 5, 2016, (ii) reimbursement of (A) COBRA premiums for Mr. Stanik through October 2018 and for his spouse through December 31, 2019, and (B) Medicare supplement for Mr. Stanik through December 31, 2019, and (iii) payment of a pro rata portion of Mr. Stanik's short-term incentive award for the 2018 fiscal year, in the amount of $72,587, which is to be paid in shares of common stock of the Corporation, rather than cash, based on the closing price of the Corporation's common stock on March 15, 2019.  
+CERTAIN RELATIONSHIPS AND RELATED TRANSACTIONS
+The Corporation's policies and procedures for reviewing, approving and ratifying transactions with related persons are set forth in the Corporation's Corporate Governance Guidelines, which are available on the Corporation's website at www.ampcopittsburgh.com. Under these policies and procedures, the Corporation's management is responsible for determining whether a particular transaction should be referred to the Nominating and Governance Committee for consideration. The Nominating and Governance Committee then determines whether to approve, ratify, revise the terms of, reject the transaction or refer the transaction to the full Board or another appropriate committee of the Board for approval or ratification. The policy and procedures apply to transactions involving an amount in excess of $120,000 in which a related person has a direct or indirect material interest. The policy and procedures generally do not apply to employment matters (except employment of an executive officer who is an immediate family member of another executive officer), director compensation, commercial transactions in the ordinary course of business under ordinary business terms, charitable contributions, transactions such as payment of dividends where all shareholders receive the same proportional benefits and transactions involving competitive bids.
+REPORT OF THE AUDIT COMMITTEE
+The Audit Committee has reviewed and discussed the audited financial statements with management and discussed those matters required to be discussed under Public Company Accounting Oversight Board ("PCAOB") standards with Deloitte & Touche LLP ("Deloitte").
+The Audit Committee has received the written disclosures and the letter from Deloitte required by applicable requirements of the PCAOB regarding Deloitte's communications with the audit committee concerning independence and has discussed with Deloitte its independence.
+Based on the review and discussions referred to in the preceding paragraphs, the Audit Committee recommended to the Board of Directors that the audited financial statements be included in the Corporation's Annual Report on Form 10-K for the last fiscal year for filing with the SEC.
+The following table summarizes the aggregate fees billed to the Corporation by Deloitte:
+[BEGIN TABLE]
+       2018        2017    
+ Audit fees (a)     $  1,656,185        $  1,343,263    
+ Audit-related fees (b)     $  2,028        $  2,695    
+ Tax fees (c)     $  1,964        $  177,642    
+ All other fees        —           —    
+ Total     $  1,660,177        $  1,523,600    
+[END TABLE]
+[BEGIN TABLE]
+ (a)  Fees for audit services primarily related to the audit of (1) the Corporation's annual consolidated financial statements and its internal control over financial reporting and (2) statutory filings for the Corporation's foreign subsidiaries. 
+ (b)  Fees for audit-related services primarily related to the subscription fee for Deloitte's research guidance. 
+ (c)  Fees for tax services in 2018 related to general tax consultation whereas fees in 2017 were primarily related to tax advice provided in tax restructuring transactions and transfer pricing studies. 
+[END TABLE]
+In considering the nature of the services provided by Deloitte, the Audit Committee determined that such services are compatible with the provision of independent audit services. The Audit Committee discussed these services with Deloitte and the Corporation's management to determine that they are permitted under the rules and regulations concerning auditor independence promulgated by the SEC. All services provided by Deloitte and reflected in the table above were approved by the Audit Committee in accordance with the policy described below.
+The Audit Committee has adopted a Policy for Approval of Audit and Non-Audit Services (the "Policy") provided by the Corporation's independent auditor. According to the Policy, the Corporation's independent auditor may not provide the following services to the Corporation:
+[BEGIN TABLE]
+• maintain or prepare the Corporation's accounting records or prepare the Corporation's financial statements that are either filed with the SEC or form the basis of financial statements filed with the SEC; 
+• provide appraisal or valuation services when it is reasonably likely that the results of any valuation or appraisal would be material to the Corporation's financial statements or where the independent auditor would audit the results; 
+• provide certain management or human resource functions; 
+• serve as a broker-dealer, promoter or underwriter of the Corporation's securities; 
+• provide any service in which the person providing the service must be admitted to practice before the courts of a U.S. jurisdiction; 
+• provide any internal audit services relating to accounting controls, financial systems, or financial statements; or 
+• design or implement a hardware or software system that aggregates source data underlying the financial statements or generates information that is significant to the Corporation's financial statements, taken as a whole. 
+[END TABLE]
+In addition, in connection with its adoption of the Policy, the Audit Committee pre-approved certain audit-related and other non-prohibited services. Any services not prohibited or pre-approved by the Policy must be pre-approved by the Audit Committee in accordance with the Policy. The Policy is reviewed and approved annually by the Board of Directors.
+[BEGIN TABLE]
+ Carl H. Pforzheimer, III (Chairman) 
+ Michael I. German 
+ William K. Lieberman 
+ Ernest G. Siddons 
+[END TABLE]
+ RATIFICATION OF THE APPOINTMENT OF DELOITTE & TOUCHE LLP AS THE INDEPENDENT REGISTERED PUBLIC ACCOUNTING FIRM FOR 2019(Proposal 4)
+The Audit Committee, comprised of independent members of the Board of Directors, has appointed Deloitte & Touche LLP ("Deloitte") as the Corporation's independent registered public accounting firm for 2019. Shareholder ratification of the selection of Deloitte as the Corporation's independent registered public accounting firm is not required by the Corporation's Amended and Restated Articles of Incorporation or Amended and Restated By-laws. The Corporation is submitting the selection of Deloitte to the shareholders for ratification because the Board of Directors considers it to be the best practice in corporate governance to do so. Even if the shareholders ratify the Audit Committee's appointment of independent accountants, the Audit Committee in its discretion may change the appointment at any time if it determines that such change would be in the best interests of the Corporation and its shareholders. If the shareholders do not ratify the appointment of Deloitte, the selection of the independent registered public accounting firm will be reconsidered by the Audit Committee, but Deloitte may still be retained.
+Representatives of Deloitte are expected to be in attendance at the Annual Meeting, will have the opportunity to make a statement if they wish to do so and will respond to appropriate questions.
+THE BOARD OF DIRECTORS UNANIMOUSLY RECOMMENDS THAT YOU VOTE "FOR" THE DELOITTE RATIFICATION PROPOSAL.
+EQUITY COMPENSATION PLAN INFORMATION
+The following table summarizes information, as of December 31, 2018, with respect to compensation plans under which equity securities of the Corporation are authorized for issuance:
+[BEGIN TABLE]
+       (a)        (b)        (c)    
+ Plan Category     Number of securities to be issued upon exercise of outstanding options, warrants and rights(1)        Weighted-average exercise price of outstanding options, warrants and rights(2)        Number of securities remaining available for future issuance under equity compensation plans (excluding securities reflected in column (a))    
+ Plan Category     Number of securities to be issued upon exercise of outstanding options, warrants and rights(1)        Weighted-average exercise price of outstanding options, warrants and rights(2)        Number of securities remaining available for future issuance under equity compensation plans (excluding securities reflected in column (a))    
+ Equity compensation plans    approved by security holders        904,877        $  20.54           740,187    
+ Equity compensation plans    approved by security holders        904,877        $  20.54           740,187    
+ Total        904,877        $  20.54           740,187    
+ (1)  Includes 299,292 unvested RSUs and PSUs (assuming target performance) issued under the Ampco-Pittsburgh Corporation 2016 Omnibus Incentive Plan. 
+ (2)  Does not reflect RSUs or PSUs included in the first column, which do not have an exercise price. 
+[END TABLE]
+SHAREHOLDER PROPOSALS FOR 2020
+Any shareholder who wishes to place a proposal before the 2020 Annual Meeting of Shareholders must submit the proposal to the Corporation's Secretary, at its executive offices, not later than November 28, 2019 to have it considered for inclusion in the proxy statement for the Annual Meeting in 2020.
+If a shareholder otherwise wishes to propose proper business from the floor for consideration at the 2020 Annual Meeting, the Corporation's Amended and Restated Bylaws (available on the Corporation's website at  www.ampcopgh.com) provide that (i) the shareholder must notify the Corporation's Secretary in writing, (ii) the shareholder's notice must be received at the Corporation's executive offices not earlier than January 9, 2020 and not later than February 8, 2020 and (iii) the shareholder's notice must contain the specific information set forth in the Corporation's Amended and Restated Bylaws. These requirements apply only to matters to be brought before the 2020 Annual Meeting which have not been submitted for possible inclusion in the Corporation's 2020 proxy materials.
+OTHER MATTERS
+The Board of Directors does not know of any other business that will be presented for action at the Annual Meeting. Should any other matter come before the meeting, however, action may be taken thereon pursuant to proxies in the form enclosed unless discretionary authority is withheld. ANNEX A 
+AMENDMENT OFAMENDED AND RESTATED ARTICLES OF INCORPORATIONOF AMPCO-PITTSBURGH CORPORATION
+The undersigned business corporation does hereby certify that:
+FIRST The name of the corporation is Ampco-Pittsburgh Corporation, and the Corporation's registered office is c/o Corporation Service Company, Dauphin County:
+SECOND, the Corporation was incorporated under the Act of April 29, 1874, as amended, and its date of incorporation was January 30, 1929; letters patent were issued March 19, 1929.
+THIRD:That the amendment shall be effective upon filing these Articles of Amendment.
+FOURTH:The amendment was duly adopted by the Corporation's shareholders in accordance with the applicable provisions of Section 1914 of the Pennsylvania Business Corporation Law at the Corporation's annual meeting held on [____], 2019.
+FIFTH:The amendment adopted by the Corporation is set forth in full below:
+The first paragraph of Article FIFTH of the Amended and Restated Articles of Incorporation is amended to read as follows:
+"FIFTH: The authorized capital stock of the Corporation shall be 3,000,000 shares of Preference Stock, without par value, and 40,000,000 shares of Common Stock of the par value of $1.00 per share."
+IN WITNESS WHEREOF, the Corporation has caused this Certificate to be signed by its duly authorized officer on [____], 2019.
+Ampco-Pittsburgh Corporation
+By: 
+Maria Trainor
+Vice President, General Counsel and Secretarymportant Notice Regarding the Availability of Proxy Materials for the Annual Meeting of Shareholders to be Held on May 9, 2018: The Notice and Proxy Statement and the 10-K Wrap of the Corporation are available at http://www.Ampcopittsburgh.com/investors; and The Notice and Proxy Statement and 10-K Wrap are also available at www.proxyvote.com. E37368-P03581 AMPCO-PITTSBURGH CORPORATION Annual Meeting of Shareholders May 9, 2018 10:00 A.M. The undersigned hereby appoints Maria Trainor and Michael G. McAuley and each of them, as proxies with full power of substitution to vote, as specified on the reverse side, the shares of stock which the undersigned is entitled to vote at the Annual Meeting of Shareholders of AMPCO-PITTSBURGH CORPORATION, to be held at The Duquesne Club, in the Adams Room, 4th Floor, 325 Sixth Avenue, Pittsburgh, PA, on Wednesday, May 9, 2018, at 10:00 A.M., and any adjournments thereof. WHEN PROPERLY EXECUTED, THIS PROXY WILL BE VOTED IN THE MANNER DIRECTED. IF NO DIRECTION IS MADE, THIS PROXY WILL BE VOTED: FOR THE NOMINEES LISTED IN ITEM 1 (OR, IN THE DISCRETION OF THE PROXIES, THE SHARES MAY BE VOTED CUMULATIVELY); FOR PROPOSAL 2; AND FOR PROPOSAL 3. THE PROXIES NAMED ABOVE ARE AUTHORIZED TO VOTE IN THEIR DISCRETION ON ANY OTHER MATTERS THAT MAY PROPERLY COME BEFORE THE MEETING. PLEASE SIGN ON REVERSE SIDE and mail in the enclosed, postage prepaid envelope. CUMULATE (If you noted cumulative voting instructions above, please check the corresponding box on the reverse side.)
+WE ENCOURAGE YOU TO TAKE ADVANTAGE OF INTERNET OR TELEPHONE VOTING; BOTH ARE AVAILABLE 24 HOURS A DAY, 7 DAYS A WEEK. IF YOU CHOOSE TO CUMULATE VOTES FOR DIRECTORS YOU MUST VOTE BY MAIL. VOTE BY INTERNET - www.proxyvote.com Use the Internet to transmit your voting instructions and for electronic delivery of information up until 11:59 P.M. Eastern Time the day before the cut-off date or meeting date. Have your proxy card in hand when you access the web site and follow the instructions to obtain your records and to create an electronic voting instruction form. ELECTRONIC DELIVERY OF FUTURE PROXY MATERIALS If you would like to reduce the costs incurred by our company in mailing proxy materials, you can consent to receiving all future proxy statements, proxy cards and annual reports electronically via e-mail or the Internet. To sign up for electronic delivery, please follow the instructions above to vote using the Internet and, when prompted, indicate that you agree to receive or access proxy materials electronically in future years. VOTE BY PHONE - 1-800-690-6903 Use any touch-tone telephone to transmit your voting instructions up until 11:59 P.M. Eastern Time the day before the cut-off date or meeting date. Have your proxy card in hand when you call and then follow the instructions. VOTE BY MAIL Mark, sign and date your proxy card and return it in the postage-paid envelope we have provided or return it to Vote Processing, c/o Broadridge, 51 Mercedes Way, Edgewood, NY 11717. If you vote your proxy by Internet or by telephone, you do NOT need to mail back your proxy card. AMPCO-PITTSBURGH CORPORATION C/O BROADRIDGE P.O. BOX 1342 BRENTWOOD, NY 11717 TO VOTE, MARK BLOCKS BELOW IN BLUE OR BLACK INK AS FOLLOWS: E64617-P18477 KEEP THIS PORTION FOR YOUR RECORDS THIS PROXY CARD IS VALID ONLY WHEN SIGNED AND DATED. DETACH AND RETURN THIS PORTION ONLYAMPCO-PITTSBURGH CORPORATION For All Withhold All For All Except To withhold authority to vote for any individual nominee(s), mark "For All Except" and write the number(s) of the nominee(s) on the line below. Vote on Directors 1. Election of Directors ! ! ! Nominees: 01) Elizabeth A. Fessenden 02) Terry L. Dunlap For Against Abstain Vote on Proposals ! ! ! 2. To approve an amendment to the Corporation's Amended and Restated Articles of Incorporation to increase the number of authorized shares of the Corporation's common stock from 20,000,000 to 40,000,000 shares. ! ! ! 3. To approve, in a non-binding vote, the compensation of the named executive officers. ! ! ! 4. To ratify the appointment of Deloitte & Touche LLP as the independent registered public accounting firm for 2019. NOTE: Such other business as may properly come before the meeting or any adjournment thereof. THE BOARD OF DIRECTORS RECOMMENDS A VOTE "FOR" ALL OF THE NOMINEES LISTED IN ITEM 1; AND A VOTE "FOR" ITEM 2, ITEM 3 AND ITEM 4. All proxies heretofore given or executed with respect to the shares of stock represented by this proxy are by the filing of this proxy, expressly revoked. To cumulate votes as to a particular nominee as explained in the Proxy Statement, check box to the right, multiply the number of shares held by you by two and vote the result for the nominees listed in any proportion, then indicate the name(s) and the number of votes to be given to such nominee(s) on the reverse side of this card. Please do not check box unless you want to exercise cumulative voting. ! NOTE: Signature should conform exactly to name as stenciled hereon. Executors, administrators, guardians, trustees, attorneys and officers signing for a corporation should give full title. For joint accounts each owner must sign. Signature [PLEASE SIGN WITHIN BOX] Date Signature (Joint Owners) Date
+Important Notice Regarding the Availability of Proxy Materials for the Annual Meeting of Shareholders to be Held on May 9, 2019: The Notice and Proxy Statement and the 10-K Wrap of the Corporation are available at http://www.Ampcopittsburgh.com/investors; and The Notice and Proxy Statement and 10-K Wrap are also available at www.proxyvote.com. E64618-P18477 AMPCO-PITTSBURGH CORPORATION Annual Meeting of Shareholders May 9, 2019 10:00 A.M.  The undersigned hereby appoints Maria Trainor and Michael G. McAuley and each of them, as proxies with full power of substitution to vote, as specified on the reverse side, the shares of stock which the undersigned is entitled to vote at the Annual Meeting of Shareholders of AMPCO-PITTSBURGH CORPORATION, to be held at The Duquesne Club, in the Carnegie Room, 3rd Floor, 325 Sixth Avenue, Pittsburgh, PA, on Thursday, May 9, 2019, at 10:00 A.M., and any adjournments thereof. WHEN PROPERLY EXECUTED, THIS PROXY WILL BE VOTED IN THE MANNER DIRECTED. IF NO DIRECTION IS MADE, THIS PROXY WILL BE VOTED: FOR THE NOMINEES LISTED IN ITEM 1 (OR, IN THE DISCRETION OF THE PROXIES, THE SHARES MAY BE VOTED CUMULATIVELY); FOR PROPOSAL 2; FOR PROPOSAL 3; AND FOR PROPOSAL 4. THE PROXIES NAMED ABOVE ARE AUTHORIZED TO VOTE IN THEIR DISCRETION ON ANY OTHER MATTERS THAT MAY PROPERLY COME BEFORE THE MEETING. PLEASE SIGN ON REVERSE SIDE and mail in the enclosed, postage prepaid envelope. CUMULATE (If you noted cumulative voting instructions above, please check the corresponding box on the reverse side.)
+ 

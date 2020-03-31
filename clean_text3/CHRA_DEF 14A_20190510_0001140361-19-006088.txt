@@ -1,0 +1,180 @@
+
+[BEGIN TABLE]
+  o   Preliminary Proxy Statement o   Confidential, for Use of the Commission Only (as permitted by Rule 14a-6(e)(2))  
+ ☒   Definitive Proxy Statement o   Definitive Additional Materials o   Soliciting Material Pursuant to §240.14a-12  
+[END TABLE]
+[BEGIN TABLE]
+ CHARAH SOLUTIONS, INC.  
+ (Name of Registrant as Specified In Its Charter)  
+ (Name of Person(s) Filing Proxy Statement, if other than the Registrant)  
+[END TABLE]
+[BEGIN TABLE]
+ ☒   No fee required.  
+  o   Fee computed on table below per Exchange Act Rules 14a-6(i)(1) and 0-11.  
+     (1)   Title of each class of securities to which transaction applies:  
+     (2)   Aggregate number of securities to which transaction applies:  
+     (3)   Per unit price or other underlying value of transaction computed pursuant to Exchange Act Rule 0-11 (set forth the amount on which the filing fee is calculated and state how it was determined):  
+     (4)   Proposed maximum aggregate value of transaction:  
+     (5)   Total fee paid:  
+  o   Fee paid previously with preliminary materials.  
+  o   Check box if any part of the fee is offset as provided by Exchange Act Rule 0-11(a)(2) and identify the filing for which the offsetting fee was paid previously. Identify the previous filing by registration statement number, or the Form or Schedule and the date of its filing.  
+     (1)   Amount Previously Paid:  
+     (2)   Form, Schedule or Registration Statement No.:  
+     (3)   Filing Party:  
+     (4)   Date Filed:  
+[END TABLE]
+[BEGIN TABLE]
+ Important Notice Regarding the Availability of Proxy Materials  for the Annual Meeting of Stockholders To Be Held on May 10, 2019:       
+ The Notice of Annual Meeting and Proxy Statement and  the 2018 Annual Report to Stockholders are available at www.proxyvote.com.  
+[END TABLE]
+[BEGIN TABLE]
+    Page 
+General Information    1   
+Security Ownership of Certain Beneficial Owners and Management   5   
+Proposal 1:  Election of Directors   6   
+ Director Nominees   6   
+ Continuing Directors   7   
+Corporate Governance   9   
+ The Board of Directors   9   
+ Documents Available   9   
+ Director Independence   9   
+ Board Leadership Structure   10   
+ Board Committees   10   
+ Director Meeting Attendance   12   
+ Director Nomination Process   12   
+ Stockholder Recommendations of Director Candidates   13   
+ Annual Evaluation of Directors and Board Committee Members   14   
+ Policy for Review of Related Party Transactions   14   
+ Related Party Transactions   15   
+ The Board's Role in Risk Oversight   18   
+ Compensation Committee Advisors   18   
+ Communications with the Board of Directors   18   
+Director Compensation   19   
+Executive Compensation   20   
+ Summary Compensation Table   20   
+ Outstanding Equity Awards at Fiscal Year-End   21   
+ Additional Narrative Disclosures   21   
+Equity Compensation Plan Information   25   
+Section 16(a) Beneficial Ownership Reporting Compliance   25   
+Compensation Committee Report   25   
+Audit Committee Report   26   
+Proposal 2:  Ratification of the Appointment of Independent Registered Public Accounting Firm   27   
+ Fees Paid to Independent Registered Public Accounting Firm   27   
+ Audit Committee Pre-Approval of Audit and Non-Audit Services   27   
+Additional Information   28   
+ Stockholder Proposals for the 2020 Annual Meeting of Stockholders   28   
+ 2018 Annual Report to Stockholders   28   
+ Annual Report on Form 10-K   28   
+ Householding   29   
+[END TABLE]
+i   4
+[BEGIN TABLE]
+Name Number of Shares and  Nature of Beneficial Ownership Ownership Percentage 
+Principal Stockholders:              
+BCP Energy Services Fund-A, LP   7,277,549 (1)    24.1% 
+BCP Energy Services Fund, LP   5,252,369 (1)    17.4% 
+CEP Holdings, Inc.   4,605,465 (2)    15.2% 
+Charah Holdings LP   2,926,003 (1)    9.7% 
+Directors, Director Nominees and Named Executive Officers:              
+Scott A. Sewell   269,494       * 
+Charles E. Price   4,605,465 (3)    15.2% 
+Bruce Kramer   438,646     1.5% 
+Dorsey "Ron" McCall   391,260     1.3% 
+Claire Babineaux-Fontenot   2,500 (4)      * 
+Jack A. Blossman, Jr.   5,000       * 
+Mignon L. Clyburn   —       * 
+Brian K. Ferraioli   8,350       * 
+Robert C. Flexon   5,000       * 
+Mark Spender   —       * 
+Stephen R. Tritch   1,000       * 
+Directors and executive officers as a group (10 persons)   724,743     2.4% 
+[END TABLE]
+    9
+[BEGIN TABLE]
+ Name   Audit  Committee   Compensation  Committee   Nominating and  Corporate  Governance  Committee  
+ Claire Babineaux-Fontenot   Member       Member  
+ Jack A. Blossman, Jr.           Chair  
+ Mignon L. Clyburn           Member  
+ Brian K. Ferraioli   Chair   Member      
+ Robert C. Flexon   Member   Chair      
+ Dorsey "Ron" McCall              
+ Scott A. Sewell              
+ Mark Spender       Member   Member  
+ Stephen R. Tritch              
+[END TABLE]
+[BEGIN TABLE]
+ Committee   Key Functions and Additional Information   Number of  Meetings in  Fiscal 2018  
+ Audit Committee• Assists the Board in its oversight of (i) the integrity of the Company's financial statements and financial reporting process, (ii) the systems of internal accounting and financial controls, (iii) the performance of the Company's internal audit function and the Company's independent registered public accounting firm, (iv) the qualifications and independence of the Company's independent registered public accounting firm and (v) the Company's compliance with legal and regulatory requirements.   3  
+• Appoints, compensates, retains, evaluates and oversees the Company's independent registered public accounting firm.      
+• Reviews and discusses with management and the Company's independent registered public accounting firm the annual and quarterly financial statements.      
+• Reviews and discusses with management the quarterly earnings releases.      
+• Pre-approves all audit and permissible non-audit services proposed to be performed by the Company's independent registered public accounting firm.      
+• Reviews and, if appropriate, approves or ratifies related party transactions.      
+• Discusses with management, the Company's independent registered public accounting firm and Company personnel responsible for the Company's internal audit function the adequacy and effectiveness of the Company's accounting and financial controls.       
+• Reviews and discusses with management the Company's policies and guidelines with respect to risk assessment and risk management.      
+• The Board of Directors has determined that Mr. Ferraioli is an audit committee financial expert within the meaning of the SEC rules and that each of Messrs. Ferraioli and Flexon and Ms. Babineaux-Fontenot is financially literate and has accounting or related financial management expertise, in each case as determined by the Board, in its business judgment.      
+ Compensation Committee• Approves the corporate goals and objectives relevant to the Chief Executive Officer's compensation and evaluates the Chief Executive Officer's performance against the goals.   4  
+• Approves the compensation of the other senior executive officers of the Company.      
+• Recommends to the Board for approval the total compensation for directors.      
+• Approves employment agreements, severance agreements and change of control agreements with the senior executive officers of the Company.      
+• Oversees regulatory compliance regarding compensation matters.      
+• Develops and reviews periodically succession plans of the Chief Executive Officer and the other senior executive officers, and screens and recommends to the Board for approval candidate(s) for Chief Executive Officer and other senior executive officers.      
+[END TABLE]
+[BEGIN TABLE]
+ Committee   Key Functions and Additional Information   Number of  Meetings in  Fiscal 2018  
+ Nominating and Corporate Governance Committee• Identifies, evaluates and recommends director candidates to the Board.   2  
+• Determines the qualifications for membership on the Board and its committees and reviews these qualifications with the Board periodically.      
+• Makes recommendations to the Board concerning committee member appointments and committee leadership.      
+• Makes recommendations to the Board with respect to determinations of director independence.      
+• Oversees annual performance evaluation of the Board and the committees of the Board.      
+• Develops and oversees director education and new director onboarding.      
+• Considers and recommends to the Board other actions relating to corporate governance.      
+[END TABLE]
+      18
+[BEGIN TABLE]
+Name Fees Earned or  Paid in Cash ($) Stock Awards ($)(1) Total ($) 
+Claire Babineaux-Fontenot   35,000     63,922     98,922   
+Jack A. Blossman, Jr.   35,000     63,922     98,922   
+Brian K. Ferraioli   40,000     63,922     103,922   
+Robert C. Flexon   38,750     63,922     102,672   
+Stephen R. Tritch   42,500     89,494     131,994   
+[END TABLE]
+[BEGIN TABLE]
+Name and Principal Position Year Salary ($) Bonus ($)(1) Option Awards ($)(2) All Other Compensation ($)(3) Total ($) 
+Charles E. Price(4)   2018     773,077     —     —     22,041     795,118   
+Former President and Chief Executive Officer    2017     700,000     297,500     —     38,791     1,036,291   
+Bruce Kramer(4)    2018     450,000     —     —     14,806     464,806   
+Former Chief Financial Officer, Treasurer and Secretary     2017     450,000     120,000     308,047     34,439     904,386   
+Dorsey Ron McCall   2018     750,000     375,000     —     26,255     1,151,255   
+Senior Vice President     2017     490,388     375,000     24,311     5,600     895,299   
+[END TABLE]
+[BEGIN TABLE]
+  Charles E. Price Bruce Kramer Dorsey "Ron" McCall 
+Vehicle Allowance or Value of Vehicle Lease Reimbursement ($)   —     —     16,800   
+Imputed Taxable Income from Personal Use of Company Vehicle ($)   1,996     1,977     —   
+Club Membership Dues Reimbursement ($)   11,795     4,579     —   
+Employer Contributions to 401(k) Plan ($)   8,250     8,250     9,455   
+Total ($)   22,041     14,806     26,255   
+[END TABLE]
+[BEGIN TABLE]
+  Option Awards Stock Awards 
+Name Number of Securities Underlying Unexercised Options (#) Exercisable Number of Securities Underlying Unexercised Options (#) Unexercisable Option Exercise Price ($) Option Expiration Date Number of Shares or Units of Stock That Have Not  Vested (#) Market Value of Shares or Units of Stock That Have  Not Vested ($)(1) 
+Charles E. Price   —     —     —     —     —     —   
+Bruce Kramer(2)   —     —     —     —     66,374     554,223   
+Dorsey Ron McCall   —     —     —     —     30,159     251,828   
+[END TABLE]
+   24
+[BEGIN TABLE]
+Plan Category(1) Number of Securities to be Issued Upon Exercise of Outstanding Options,  Warrants and Rights (#) (a) Weighted-Average  Exercise Price of Outstanding Options, Warrants and Rights ($) (b) Number of Securities Remaining  Available for Future Issuance  Under Equity Compensation  Plans (Excluding Securities  Reflected in Column (a)) (#) (c) 
+Equity compensation plans not approved by security holders   45,004 (2)    — (3)    2,651,666   
+[END TABLE]
+ 26
+[BEGIN TABLE]
+  Fiscal 2018 ($) Fiscal 2017 ($) 
+Audit Fees(1)   3,467,166     —   
+Audit-Related Fees   —     —   
+Tax Fees(2)   293,359     —   
+All Other Fees(3)   1,895     —   
+Total   3,762,420     —   
+[END TABLE]
+    

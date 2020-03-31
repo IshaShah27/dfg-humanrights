@@ -1,0 +1,536 @@
+
+[BEGIN TABLE]
+ PROTHENA CORPORATION PUBLIC LIMITED COMPANY  
+ (Name of registrant as specified in its charter)  
+ (Name of Person(s) Filing Proxy Statement, if other than the Registrant)  
+[END TABLE]
+[BEGIN TABLE]
+ ☒   No fee required.  
+ o   Fee computed on table below per Exchange Act Rules 14a-6(i)(1) and 0-11.   
+     (1)   Title of each class of securities to which transaction applies:   
+     (2)   Aggregate number of securities to which transaction applies:   
+     (3)   Per unit price or other underlying value of transaction computed pursuant to Exchange Act Rule 0-11 (set forth the amount on which the filing fee is calculated and state how it was determined):  
+     (4)   Proposed maximum aggregate value of transaction:   
+     (5)   Total fee paid:   
+ o   Fee paid previously with preliminary materials.  
+ o   Check box if any part of the fee is offset as provided by Exchange Act Rule 0-11(a)(2) and identify the filing for which the offsetting fee was paid previously. Identify the previous filing by registration statement number, or the Form or Schedule and the date of its filing.  
+     (1)   Amount Previously Paid:  
+     (2)   Form, Schedule or Registration Statement No.:  
+     (3)   Filing Party:  
+     (4)   Date Filed:   
+[END TABLE]
+[BEGIN TABLE]
+     By Order of the Board of Directors  
+     A. W. Homan Company Secretary  
+[END TABLE]
+[BEGIN TABLE]
+GENERAL INFORMATION   1   
+THE PROXY PROCESS AND SHAREHOLDER VOTING - QUESTIONS AND ANSWERS ABOUT THESE PROXY MATERIALS AND VOTING   2   
+PROPOSAL NO. 1 - ELECTION OF DIRECTORS   7   
+CORPORATE GOVERNANCE AND BOARD MATTERS   11   
+Overview   11   
+Independence of Directors   11   
+Board Role in Risk Oversight   11   
+Board Leadership Structure   11   
+Board Committees   12   
+Audit Committee   12   
+Compensation Committee   12   
+Nominating and Corporate Governance Committee   13   
+Meetings of the Board and Committees, Meeting Attendance and Shareholder Meeting Attendance   14   
+Other Corporate Governance Matters   14   
+DIRECTOR COMPENSATION   16   
+PROPOSAL NO. 2 - RATIFICATION, IN A NON-BINDING VOTE, OF THE APPOINTMENT OF KPMG LLP AS OUR INDEPENDENT REGISTERED PUBLIC ACCOUNTING FIRM FOR OUR FISCAL YEAR 2019 AND AUTHORIZATION, IN A BINDING VOTE, OF OUR BOARD OF DIRECTORS, ACTING THROUGH ITS AUDIT COMMITTEE, TO APPROVE THE REMUNERATION OF THAT AUDITOR   17   
+Fees Paid to KPMG   17   
+Pre-Approval Policies and Procedures   18   
+REPORT OF THE AUDIT COMMITTEE OF THE BOARD OF DIRECTORS   18   
+[END TABLE]
+[BEGIN TABLE]
+PROPOSAL NO. 3 - APPROVAL, IN A NON-BINDING ADVISORY VOTE, OF THE COMPENSATION OF OUR EXECUTIVE OFFICERS NAMED IN THIS PROXY STATEMENT ("SAY-ON-PAY")   19   
+SECURITY OWNERSHIP OF CERTAIN BENEFICIAL OWNERS AND MANAGEMENT   22   
+SECTION 16(a) BENEFICIAL OWNERSHIP REPORTING COMPLIANCE   24   
+COMPENSATION DISCUSSION AND ANALYSIS   25   
+REPORT OF THE COMPENSATION COMMITTEE OF THE BOARD OF DIRECTORS   36   
+EXECUTIVE COMPENSATION   37   
+Summary Compensation Table   37   
+Grants of Plan-Based Awards - Fiscal Year 2018   38   
+Outstanding Equity Awards at Fiscal Year-End - Fiscal Year 2018   39   
+Options Exercised and Stock Vested - Fiscal Year 2018   40   
+Potential Payments and Benefits upon Termination of Employment   41   
+Change in Control and Severance Arrangements   42   
+Compensation Risk Assessment   46   
+Pay Ratio of CEO to Median Employee   46    
+EQUITY COMPENSATION PLAN INFORMATION   47   
+TRANSACTIONS WITH RELATED PERSONS AND INDEMNIFICATION   48   
+HOUSEHOLDING OF PROXY MATERIALS   49   
+ANNUAL REPORT   49   
+[END TABLE]
+[BEGIN TABLE]
+     2019 PROXY STATEMENT   1  
+[END TABLE]
+Beneficial Owner: Shares Registered in the Name of a Broker, Bank or Other AgentIf, on the Record Date, your shares were not held in your name, but rather in an account at a brokerage firm, bank, dealer or other similar organization, who in turn hold through The Depository Trust Company ("DTC"), then you are the beneficial owner of shares held in "street name" and these proxy materials are being forwarded to you by that organization. The organization holding your account is considered the shareholder of record for purposes of voting at the Annual Meeting. As a beneficial owner, you have the right to direct your broker or other agent on how to vote the shares in your account. You are also invited to attend the Annual Meeting. However, since you are not the shareholder of record, you may not vote your shares in person at the Annual Meeting unless you request and obtain a valid proxy card from your broker or other agent who is the record holder of the shares, authorizing you to vote at the Annual Meeting.
+[BEGIN TABLE]
+ 2       2019 PROXY STATEMENT  
+[END TABLE]
+materials by mail or e-mail and choose to sign and mail your proxy card, your executed proxy card will be returned directly to Broadridge for tabulation. If you hold your shares through a broker, your broker (or its agent for tabulating votes of shares held in "street name") will return one proxy card to Broadridge on behalf of all its clients.
+your shares. If you do not provide voting instructions, your shares will not be voted on any proposal for which the broker does not have discretionary authority to vote. This is called a "broker non-vote." In these cases, the broker can register your shares as being present at the Annual Meeting for purposes of determining the presence of a quorum, but will not be able to vote on those proposals for which specific authorization from you is required under applicable rules. 
+[BEGIN TABLE]
+     2019 PROXY STATEMENT   3  
+[END TABLE]
+recorded, these shares will be considered present and entitled to vote at the Annual Meeting and will be counted towards determining whether or not a quorum is present. Abstentions will not, however, be considered votes cast at the Annual Meeting.Because the approval of each of the proposals is based on the votes cast at the Annual Meeting, abstentions and broker non-votes will not have any effect on the outcome of voting on any of the proposals.
+materials on the internet or to request a printed copy may be found in the Notice of Internet Availability of Proxy Materials. In addition, shareholders may request to receive proxy materials in printed form by mail or electronically by email on an ongoing basis. We encourage shareholders to take advantage of the availability of the proxy materials on the internet to help reduce the environmental impact of the Annual Meeting.
+The internet and telephone voting procedures are designed to authenticate shareholders' identities, to allow shareholders to give their voting instructions and to confirm that shareholders' instructions have been recorded properly. If you vote by internet or telephone, that vote authorizes your proxy in the same manner as if you signed, dated and returned a written proxy card by mail.
+[BEGIN TABLE]
+ 4       2019 PROXY STATEMENT  
+[END TABLE]
+brokerage firms, banks and other agents for the cost of forwarding proxy materials to beneficial owners. In addition, we have retained Alliance Advisors, a proxy solicitation firm, to assist in the solicitation of proxies for a fee of approximately $24,000 plus reimbursement of expenses.
+instructions for any alternative voting procedure on each of the proxy cards or Notice of Internet Availability of Proxy Materials you receive.
+provided that if the date of next years annual general meeting of shareholders is greater than 30 days from May 21, 2020, the deadline is a reasonable time before we begin to print and send our proxy materials for next years annual general meeting. You are also advised to review our Constitution, which contains additional requirements about advance notice of director nominations. For more information, see below under the heading Corporate Governance and Board Matters — Board Committees — Nominating and Corporate Governance Committee.
+[BEGIN TABLE]
+     2019 PROXY STATEMENT   5  
+[END TABLE]
+Your shares will be counted towards the quorum if you submit a valid proxy vote or vote at the Annual Meeting. Abstentions and broker non-votes will also be counted towards the quorum requirement. If there is no quorum, either the chairperson of the Annual Meeting or a majority in voting power of the shareholders entitled to vote at the Annual Meeting, present in person or represented by proxy, may adjourn the Annual Meeting to another time or place.
+at that time, we will file an amended Current Report on Form 8-K within four business days of the day the final results are available.
+Prothena Corporation plc, 77 Sir John Rogerson's Quay, Block C, Grand Canal Docklands, Dublin 2, D02 T804, Ireland.
+Companies Act 2014, or any regulation thereunder. There is no requirement under Irish law that our Irish statutory financial statements be approved by our shareholders, and no such approval will be sought at the Annual Meeting. Our Irish statutory financial statements are available on our website at http://ir.prothena.com/irish. We will mail without charge, upon written request, a copy of our Irish statutory financial statements to beneficial owners of our shares. Such requests should be sent to our Company Secretary at Prothena Corporation plc, 77 Sir John Rogerson's Quay, Block C, Grand Canal Docklands, Dublin 2, D02 T804, Ireland.
+[BEGIN TABLE]
+ 6       2019 PROXY STATEMENT  
+[END TABLE]
+general meeting subsequent to their election or appointment to the Board. Generally, vacancies on the Board may be filled only by ordinary resolution of the Company's shareholders or the affirmative vote of a majority of the remaining directors. A director appointed by the Board to fill a vacancy will serve until the subsequent annual general meeting and must stand for election at that time.
+[BEGIN TABLE]
+ Name   Position with Prothena  
+ Lars G. Ekman, M.D., Ph.D.   Chairman of the Board, Independent Director  
+ Gene G. Kinney, Ph.D.   President and Chief Executive Officer, Director  
+ Richard T. Collier   Independent Director  
+ Shane M. Cooke   Independent Director  
+ K. Anders O. Härfstrand, M.D., Ph.D.   Independent Director  
+ Christopher S. Henney, Ph.D., D.Sc.   Independent Director  
+ Dennis J. Selkoe, M.D.   Independent Director  
+[END TABLE]
+person or by proxy at the Annual Meeting; if a director nominee does not receive this majority vote, he will not be elected to our Board. In the event that any nominee becomes unavailable for election as a result of an unexpected occurrence, the proxy holders may vote your shares for the election of any substitute nominee who the Board proposes. Each person nominated for election has consented to being named as a nominee in this Proxy Statement and agreed to serve if elected, and management has no reason to believe that any nominee will be unable to serve.Set forth below is certain biographical information for each nominee for director and each director whose term as a director will continue after the Annual Meeting. The following includes information regarding each director's individual experience, qualifications, attributes or skills that led the Board to conclude that he should serve as a director, in light of our business and structure.
+[BEGIN TABLE]
+     2019 PROXY STATEMENT   7  
+[END TABLE]
+Christopher S. Henney, Ph.D., D.Sc., is Vice-Chairman of the Board of Cyclacel Pharmaceuticals, Inc. Inc. From 1995 to 2004, he served as Chairman of the Board and Chief Executive Officer of Dendreon Corporation, a biotechnology company that he co-founded. Dr. Henney also co-founded and served as a director and in executive positions at Immunex Corporation and ICOS Corporation (both biotechnology companies). He was Chairman of the Board of Cascadian Therapeutics, Inc. (a biotechnology company) from 2006 to 2018, where he also served as interim President and Chief Executive Officer for part of 2016, and served as a director of Anthera Pharmaceuticals, Inc. (a biopharmaceutical company) from 2008 to 2018. Dr. Henney is a 2011 inductee to The Biotechnology Hall of Fame. He earned his B.Sc. in medical biochemistry, his Ph.D. in experimental pathology and his D.Sc. for contributions to the field of immunology from the University of Birmingham, England. Dr. Henney has served on our Board since 2013. Age: 78The Board concluded that Dr. Henney should continue to serve as a director given his significant scientific, operational, commercial and management experience from founding and serving in executive positions with a number of biotechnology companies. The Board also considered his experience serving on the boards of directors at a number of public and private companies in the pharmaceutical/biotechnology industry.
+[BEGIN TABLE]
+ 8       2019 PROXY STATEMENT  
+[END TABLE]
+conditions. Dr. Kinney also held positions at Bristol-Myers Squibb and was an Assistant Professor at the Emory University School of Medicine, Department of Psychiatry and Behavioral Sciences. He earned his B.A. from Bloomsburg University and his M.A. and Ph.D. from Florida Atlantic University. Dr. Kinney has served on our Board since 2016. Age: 50The Board concluded that Dr. Kinney should serve as a director given his role as the Company's President and Chief Executive Officer and his extensive scientific and operational knowledge of our business and its drug discovery and development programs, from his tenure with the Prothena business when it was a part of Elan as well as since its separation from Elan. The Board also considered his significant experience as a research scientist in immunotherapy for the treatment of diseases involving amyloid or cell adhesion, as well as his experience gained from serving in key research and development roles in other biotechnology companies.Dennis J. Selkoe, M.D., is the Vincent and Stella Coates Professor of Neurologic Diseases at Harvard Medical School and co-director of the Ann Romney Center for Neurologic Diseases at Brigham and Women's Hospital in Boston, positions he has held since 2000 and 1985, respectively. He has served on the faculty at Harvard Medical School since 1978. Dr. Selkoe was the principal founding scientist and served as a director of Athena Neurosciences, Inc. until it was acquired by Elan Corporation, plc in 1996. He has received numerous honors, including the Mathilde Solowey Award in the Neurosciences (NIH), the Potamkin Prize (American Academy of Neurology), the A.H. Heineken Prize for Medicine (The Netherlands), the Pioneer Award and the Lifetime Achievement Award (Alzheimer's Association), the George C. Cotzias Lecture of the American Academy of Neurology and the Ulysses Medal of University College Dublin. Dr. Selkoe is a Fellow of the American Academy of Neurology, the American Association for the Advancement of Science and the American College of Physicians, an elected member of the National Academy of Medicine and a director of the Foundation for Neurologic Diseases. He served as a director of Elan from 1996 to 2013. Dr. Selkoe earned his B.A. from Columbia University and his M.D. from the University of Virginia. He has served on our Board since 2013. Age: 75The Board concluded that Dr. Selkoe should serve as a director given his significant experience as both a research scientist and a practicing clinician, and in particular his expertise in the pre-clinical and clinical features of neurodegenerative diseases, especially Parkinson's disease and Alzheimer's disease. The Board also considered his lengthy experience as a director of a global public company in the pharmaceutical/biotechnology industry.
+[BEGIN TABLE]
+     2019 PROXY STATEMENT   9  
+[END TABLE]
+Shane M. Cooke is the former President of Alkermes plc (a biopharmaceutical company), a position he held from 2011 to 2018. Prior to that, he served as Head of Elan Drug Technologies and Executive Vice President of Elan Corporation, plc (from 2007 to 2011), where he also served as Chief Financial Officer (from 2001 to 2011) and as a director (from 2005 to 2011). Mr. Cooke has also held a number of senior positions in finance in the banking and aviation industries. He is also a director of Alkermes plc, Endo International plc and UDG Healthcare plc. Mr. Cooke earned his Bachelor of Commerce and Master of Accounting degrees from University College Dublin, Ireland, and is a chartered accountant. He has served on our Board since 2012. Age: 56The Board concluded that Mr. Cooke should serve as a director given his significant operational, financial, commercial and management experience in the biotechnology industry, as well as his qualification as a chartered accountant. The Board also considered his Irish residency and experience as a director and an executive officer of other Irish companies traded on U.S. stock exchanges.
+[BEGIN TABLE]
+ 10       2019 PROXY STATEMENT  
+[END TABLE]
+Compensation and Nominating and Corporate Governance Committees and our Code of Conduct. We believe that our corporate governance policies and practices ensure that our independent directors effectively oversee our management - including the performance of our Chief Executive Officer - and provide an effective and appropriately balanced Board governance structure.
+Our Board has determined that, with the exception of Dr. Kinney, all members of our Board are "independent directors" as defined by Nasdaq rules. Dr. Kinney is not an independent director because he is our President and Chief Executive Officer.
+Company's major risk exposures and the steps management has undertaken to control them; oversees internal controls and other activities to manage financial risks; and periodically reviews the Company's policies, programs and systems intended to ensure compliance with applicable laws and ethical standards.
+independent directors; and serves as the primary liaison between the independent directors and our Chief Executive Officer and other members of management. Our Board has concluded that our current leadership structure is appropriate at this time. However, our Board will continue to periodically review our leadership structure and may make changes as it deems appropriate.
+[BEGIN TABLE]
+     2019 PROXY STATEMENT   11  
+[END TABLE]
+[BEGIN TABLE]
+ Director   Audit  Committee   Compensation  Committee   Nominating and  Corporate Governance  Committee  
+ Lars G. Ekman               
+ Richard T. Collier                
+ Shane M. Cooke               
+ K. Anders O. Härfstrand               
+ Christopher S. Henney                
+ Gene G. Kinney              
+ Dennis J. Selkoe                
+[END TABLE]
+[BEGIN TABLE]
+       Committee Chair          Member  
+[END TABLE]
+The current members of our Audit Committee are Mr. Collier, Mr. Cooke and Dr. Henney. Mr. Cooke serves as the chairman of the Committee. Each member of the Committee is an "independent director" and meets the heightened independence requirements, and also meets the financial literacy requirements, under Nasdaq rules. Our Board has determined that Mr. Cooke and Dr. Henney are each an "audit committee financial expert" as defined under SEC rules and each has the requisite additional financial sophistication required under Nasdaq rules. The Audit Committee operates under a written charter, a copy of which is available on our website at http://ir.prothena.com/corporate-governance.
+The current members of our Compensation Committee are Dr. Ekman, Dr. Henney and Dr. Selkoe. Dr. Selkoe serves as the chairman of the Committee. Each member of the Committee is an "independent director" and otherwise meets the independence requirements under Nasdaq rules and is a "non-employee director" as defined in Rule 16b-3 under the 
+[BEGIN TABLE]
+ 12       2019 PROXY STATEMENT  
+[END TABLE]
+The Compensation Committee utilizes a compensation consultant to provide advice and recommendations to the Committee on the amounts and forms of executive and director compensation. The Committee is directly responsible for the appointment, compensation and oversight of its compensation consultants, and is responsible for assessing the independence of those consultants after consideration of the independence factors prescribed by Nasdaq rules.The Compensation Committee directly engaged Radford, an AonHewitt Company, to provide advice and recommendations on executive as well as director compensation for our fiscal year 2018. The Committee assessed Radford's independence prior to that engagement.
+demonstrated ability to think independently but work collaboratively with other members of the Board and the Company's management. In recommending candidates for election or appointment to the Board, the Committee considers each nominee's or candidate's knowledge, skills and experience, according to the foregoing criteria, as well as his or her independence under Nasdaq and SEC rules. The Committee evaluates each nominee or candidate in the context of the Board as a whole, with the objective of assembling a group that can best maximize the success of the business and represent shareholder interests through the exercise of sound judgment using its diversity of experience.While the Committee does not have a formal policy with regard to the consideration of diversity in identifying director nominees, the Committee initiated a search earlier this year for a new director and diversity is a top priority of that search.To assist the Nominating and Corporate Governance Committee in identifying potential directors who meet the criteria and priorities established from time to time and facilitate the evaluation of such potential directors, the Committee may retain third-party search firms, and has retained such a firm for the recently-initiated search for a new director.The Nominating and Corporate Governance Committee will consider director candidates recommended by shareholders. For a shareholder to make any nomination for election to the Board at an annual general meeting of shareholders, the shareholder must provide notice to the Company, which notice must be delivered to, or mailed and received at, the Company's registered office (Prothena Corporation plc, 77 Sir John Rogerson's Quay, Block C, Grand Canal Docklands, 
+[BEGIN TABLE]
+     2019 PROXY STATEMENT   13  
+[END TABLE]
+must include the information regarding the proposed nominee that is required to be disclosed in a proxy statement or other filings in a contested election pursuant to Section 14(a) under the Exchange Act and written consent from the proposed nominee to being named in the proxy statement as a nominee and to serving as a director of the Company. Our Constitution also specifies further requirements as to the form and content of a shareholder's notice. We recommend that any shareholder who wishes to make a nomination for director review our Constitution, which we have previously publicly filed with the SEC and is also available, without charge, from our Company Secretary at Prothena Corporation plc, 77 Sir John Rogerson's Quay, Block C, Grand Canal Docklands, Dublin 2, D02 T804, Ireland.
+We encourage all of our directors and nominees for director to attend our annual general meetings of shareholders; however, attendance is not mandatory. All of our directors attended our annual general meeting of shareholders in 2018.
+general meeting subsequent to their election or appointment to the Board. However, under Irish law and our Constitution, our directors may be removed at any time with or without cause by the affirmative vote of a majority of the votes cast by shareholders. Under Irish law, shareholders holding 10% or more of the total voting rights of the Company can at any time requisition an extraordinary general meeting (i.e., a special meeting) to vote on the removal of any or all of our directors and, if desired, the appointment of replacement directors.Shareholder Ability to Call Extraordinary Meetings. As noted above, Irish law provides that shareholders holding 10% or more of the total voting rights can at any time request that the directors call an extraordinary general meeting. The shareholders who wish to request an extraordinary general meeting must deliver to our principal executive office a written notice, signed by the shareholders requesting the meeting and stating the purposes of the meeting. If the directors do not, within 21 days of the date of delivery of the request, proceed to convene a meeting to be held within two months of that date, those shareholders (or any of them representing more than half of the total voting rights of all of 
+[BEGIN TABLE]
+ 14       2019 PROXY STATEMENT  
+[END TABLE]
+disclose under SEC rules, we intend to satisfy that disclosure requirement by posting such information on our website at http://ir.prothena.com/corporate-governance.Anti-Hedging/Pledging Policies. Our Code of Conduct expressly prohibits our directors, executive officers and employees from engaging in speculative transactions in Company securities, including short sales, transactions in put or call options, hedging transactions and other inherently speculative transactions. We also have an Insider Trading Compliance Policy that further prohibits our directors, executive officers and employees from entering into any form of hedging or monetization transaction with respect to Company securities and from pledging such securities as collateral for any loans, including purchasing any Company securities on margin.Shareholder Communications with the Board. Any shareholder who desires to communicate with the Board or any specified individual director, may do so by directing such correspondence to the attention of our Company Secretary at Prothena Corporation plc, 77 Sir John Rogerson's Quay, Block C, Grand Canal Docklands, Dublin 2, D02 T804, Ireland. The Company Secretary will forward the communication to the Board members or individual director as appropriate.
+[BEGIN TABLE]
+     2019 PROXY STATEMENT   15  
+[END TABLE]
+[BEGIN TABLE]
+Committee Chair Other Member 
+Audit Committee $ 20,000   $ 9,000   
+Compensation Committee   15,000     6,000   
+Nominating and Corporate Governance Committee   10,000     5,000   
+[END TABLE]
+equal annual installments over three years following the grant date with the final year vesting date being the earlier of the third anniversary of the grant date or the day prior to the annual general meeting of shareholders for that year (subject to continuous service as a director until each such vesting date, except in the event of certain terminations of service) and has a ten-year term.All of these options are awarded under our 2018 Long Term Incentive Plan (our "2018 LTIP") and have a per share exercise price equal to the closing market price of our ordinary shares on the date of grant.Our sole non-independent director, Dr. Kinney (our President and Chief Executive Officer), does not receive any additional compensation for his service on our Board.
+[BEGIN TABLE]
+Name Fees Earned or  Paid in Cash(1)  ($) Option  Awards(2)  ($) Total  ($) 
+Lars G. Ekman   96,000     142,422     238,422   
+Richard T. Collier   79,000     142,422     221,422   
+Shane M. Cooke   80,000     142,422     222,422   
+K. Anders O. Härfstrand   65,000     142,422     207,422   
+Christopher S. Henney   75,000     142,422     217,422   
+Dennis J. Selkoe   80,000     142,422     222,422   
+[END TABLE]
+[BEGIN TABLE]
+Name Outstanding  Option Awards  (Shares) 
+Lars G. Ekman   149,000   
+Richard T. Collier   104,000   
+Shane M. Cooke   104,000   
+K. Anders O. Härfstrand   69,000   
+Christopher S. Henney   68,100   
+Dennis J. Selkoe   57,500   
+[END TABLE]
+[BEGIN TABLE]
+ 16       2019 PROXY STATEMENT  
+[END TABLE]
+If our shareholders fail to ratify such appointment of KPMG LLP, the Audit Committee will reconsider whether or not to retain KPMG LLP, but may still determine to maintain its appointment of KPMG LLP as our independent registered public accounting firm for our fiscal year 2019. Even if the appointment of KPMG LLP is ratified by our shareholders, the Audit Committee may appoint a different independent registered public accounting firm at any time if the Committee determines that such a change would be in the best interests of the Company and its shareholders.KPMG LLP has audited our financial statements since the year ended December 31, 2012. Representatives of KPMG LLP are expected to attend the Annual Meeting. They will have an opportunity to make a statement if they so desire and will be available to respond to appropriate questions.
+[BEGIN TABLE]
+  Year Ended December 31, 
+  2018 2017 
+Audit Fees(1) $ 733,418   $ 794,457   
+Audit-Related Fees   —     —   
+Tax Fees(2)   312,608     92,413   
+All Other Fees   —     —   
+Total Fees $ 1,046,026   $ 886,870   
+[END TABLE]
+[BEGIN TABLE]
+     2019 PROXY STATEMENT   17  
+[END TABLE]
+Chairman of the Committee with Committee ratification at the next Committee meeting). Before pre-approving services, the Committee considers the estimated fees for those services and whether those services might impair KPMG LLP's independence. Pursuant to these policies and procedures, the Audit Committee pre-approved all services provided by KPMG LLP for our fiscal years 2018 and 2017.
+[BEGIN TABLE]
+ 18       2019 PROXY STATEMENT  
+[END TABLE]
+[BEGIN TABLE]
+     2019 PROXY STATEMENT   19  
+[END TABLE]
+Specifically, as of June 1, 2018, 87.7% of our outstanding stock options were underwater, with a weighted-average exercise price of $36.41 per share and individual option exercise prices ranging up to $67.64 per share as compared to the $13.69 per share closing price of our ordinary shares on June 1, 2018. Accordingly, the Committee believed that our employees had a limited opportunity to participate in any future appreciation in the value of our ordinary shares, and that this resulted in outstanding options holding insufficient retention value for our employees, putting us at risk of not being able to retain our most experienced and skilled employees needed to advance our continuing research and development pipeline and provided for insufficient alignment of our employees' interests with those of our shareholders.The Committee therefore approved in June 2018 granting one-time retention stock options to our named executive officers and all of our other continuing employees. Since stock options compensate our named executive officers only if our share price increases after the date of grant and the executive officer remains employed for the periods required for the option to become exercisable, the Committee considered stock options to be the most appropriate and effective retention tool.The other components of executive compensation paid to our named executive officers in 2018 were largely consistent with what was provided in prior years.
+[BEGIN TABLE]
+ 20       2019 PROXY STATEMENT  
+[END TABLE]
+[BEGIN TABLE]
+ RESOLVED, that the shareholders of Prothena Corporation plc (the "Company") approve, on an advisory basis, the compensation of the Company's named executive officers, as disclosed in the Compensation Discussion and Analysis, compensation tables and accompanying narrative disclosures set forth in this Proxy Statement.  
+[END TABLE]
+The vote on this Proposal No. 3 is advisory, and therefore not binding on the Company, our Board or its Compensation Committee. Although non-binding, our Board and its Compensation Committee will review and consider the voting on this Proposal No. 3 when making future decisions regarding compensation of our named executive officers. Unless our Board modifies its determination on the frequency of future "Say-on-Pay" advisory votes, the next "Say-on-Pay" advisory vote will be held at the next annual general meeting of our shareholders, in 2020.
+[BEGIN TABLE]
+     2019 PROXY STATEMENT   21  
+[END TABLE]
+[BEGIN TABLE]
+Name and Address of Beneficial Owner Amount and Nature of Beneficial Ownership(1) 
+  Shares Shares  Acquirable  Within 60 Days(2) Total Shares  Deemed  Beneficially  Owned Percent of  Outstanding  Shares(3) 
+5% Shareholders:          
+Entities Associated with Woodford Investment Management Ltd(4)  9400 Garsington Road  Oxford OX4 2HN, United Kingdom   11,924,614     —     11,924,614     29.9% 
+Entities Associated with Fidelity Investments(5)  245 Summer Street  Boston, MA 02210, U.S.A.   4,910,430     —     4,910,430     12.3% 
+BlackRock, Inc.(6)  55 East 52nd Street  New York, NY 10055, U.S.A.   3,354,654     —     3,354,654     8.4% 
+Entities Associated with Wellington Management Group LLP(7)  c/o Wellington Management Company LLP  280 Congress Street  Boston, MA 02210, U.S.A.   2,138,787     —     2,138,787     5.4% 
+Directors and Named Executive Officers:  
+Lars G. Ekman   243     137,000     137,243     *   
+Richard T. Collier   1,219     92,000     93,219     *   
+Shane M. Cooke   —     92,000     92,000     *   
+K. Anders O. Härfstrand   —     57,000     57,000     *   
+Christopher S. Henney   —     56,100     56,100     *   
+Dennis J. Selkoe(8)   4,208     45,500     49,708     *   
+Gene G. Kinney   2,793     442,781     445,574     1.1% 
+Tran B. Nguyen   3,200     365,416     368,616     *   
+Carol D. Karp   —     75,833     75,833     *   
+A. W. Homan(9)   2,000     194,166     196,166     *   
+Wagner M. Zago   —     118,641     118,641     *   
+All 13 directors and executive officers as a group   13,663     1,753,810     1,767,473     4.4% 
+[END TABLE]
+[BEGIN TABLE]
+ 22       2019 PROXY STATEMENT  
+[END TABLE]
+[BEGIN TABLE]
+     2019 PROXY STATEMENT   23  
+[END TABLE]
+To the Company's knowledge, based solely on a review of the copies of such reports furnished to the Company or written representations that no other reports were required, all Section 16(a) filing requirements applicable to our officers, directors and greater than 10% beneficial owners were complied with during our fiscal year 2018.
+[BEGIN TABLE]
+ 24       2019 PROXY STATEMENT  
+[END TABLE]
+[BEGIN TABLE]
+     2019 PROXY STATEMENT   25  
+[END TABLE]
+[BEGIN TABLE]
+ 26       2019 PROXY STATEMENT  
+[END TABLE]
+and for our other named executive officers in the aggregate, which show our strong emphasis on variable pay linked to actual performance.
+[BEGIN TABLE]
+ What We Do   What We Do Not Do  
+     Pay for performance. A significant percentage of total target compensation is pay at-risk that is connected to performance.        No guaranteed annual salary increases or bonuses. Our named executive officers' salary increases are assessed individually, and their annual cash incentives are tied to corporate and individual performance.  
+     Strong link between performance measures and strategic objectives. Performance measures for incentive compensation are linked to business priorities designed to create long-term shareholder value.        No tax gross-ups. We do not provide any tax gross-ups to our named executive officers.  
+     Independent compensation consultant. The Committee retains an independent compensation consultant to review our executive compensation program and practices.        No perquisites. We do not provide any perquisites or personal benefits to our named executive officers.  
+     Annual comparator peer group review. The Committee, in conjunction with our compensation consultant, determines the makeup of our comparator peer group at least annually.        No executive retirement plans. We do not maintain executive or supplemental retirement plans.  
+     Long-Term Equity Vesting. All equity awards are subject to four-year vesting.        No repricing permitted. Our equity incentive compensation plan expressly prohibits repricing of equity awards and cash-buyouts of underwater awards.  
+     Double-trigger change-in-control severance arrangements. All of our change-in-control severance arrangements have double triggers.        No hedging or pledging permitted. We prohibit our executive officers from engaging in speculative transactions in our ordinary shares, including short sales, transactions in put or call options, hedging transactions and other inherently speculative transactions; from entering into any form of hedging or monetization transactions; and from pledging our ordinary shares as collateral for loans.  
+[END TABLE]
+[BEGIN TABLE]
+     2019 PROXY STATEMENT   27  
+[END TABLE]
+shareholders on our executive compensation and, in light of the approval by substantially all of our shareholders, did not implement any fundamental or significant changes to our executive compensation programs as a result of the vote.
+The Committee Selects a Peer Group. For purposes of their annual compensation assessments and decisions for 2018, the Committee approved a "peer group" of companies to assist the Committee in its review of executive compensation. At the Committee's instruction, Radford used criteria based on (a) industry sector, stage of development and geography (with a focus on biotechnology companies in Phase 3 clinical development that have filed for regulatory approval to market a drug and/or recently received such approval, and companies located in the San Francisco, California area or other biotechnology hub markets that reflect Prothena's talent market), (b) market capitalization between $1 billion and $7 billion (based on the Company's then-market capitalization of approximately $2.4 billion), and (c) number of employees (50-300 employees). These criteria were used to develop a recommended list of peer companies, which Radford presented to the Committee and the Committee then considered, discussed and approved. The only change made to the criteria used for the previous year's peer group was to include companies with larger employee populations. In addition, certain of the peer group companies had been acquired, and other companies' market capitalizations had significantly changed such that they no longer met the Committee's criteria. As a result, Aerie Pharmaceuticals, Aimmune Therapeutics, Array BioPharma, FibroGen, Global Blood Therapeutics and Insmed were added to our peer group; and Alder BioPharmaceuticals, Cempra, MacroGenics, Novavax, Opthotech, Synergy Pharmaceuticals and ZIOPHARM Oncology were removed from our peer group. The peer group companies identified by 
+[BEGIN TABLE]
+ 28       2019 PROXY STATEMENT  
+[END TABLE]
+[BEGIN TABLE]
+ Acceleron Pharma Aerie Pharmaceuticals Agios Pharmaceuticals Aimmune Therapeutics Amicus Therapeutics Array BioPharma bluebird bio Dermira    Dynavax Technologies FibroGen Global Blood Therapeutics Insmed Intra-Cellular Therapies Juno Therapeutics Neurocrine Biosciences    Portola Pharmaceuticals Puma Biotechnology Radius Health Sage Therapeutics Sarepta Therapeutics Spark Therapeutics Ultragenyx Pharmaceutical  
+[END TABLE]
+with a recent clinical trial setback, and companies located in the San Francisco, California area or other biotechnology hub markets that reflect Prothena's talent market), (b) market capitalization (between $250 million and $1.25 billion (based on the Company's then-market capitalization of approximately $560 million), and (c) number of employees (generally under 100 employees). These criteria were used to develop a recommended list of peer companies, which Radford presented to the Committee and the Committee then considered, discussed and approved. Under these new criteria, all but one company (Dermira) from the previous peer group were replaced. The peer group companies identified by Radford and considered, discussed and approved by the Committee to assist the Committee in its decisions on special retention awards:
+[BEGIN TABLE]
+ Achillion Pharmaceuticals Aduro Biotech Adverum Biotechnologies Arrowhead Pharmaceuticals Arsanis Assembly Biosciences   Cytokinetics CytomX Therapeutics Dermira Fate Therapeutics Five Prime Therapeutics Jounce Therapeutics   Mirati Therapeutics Pieris Pharmaceuticals Synlogic Syros Pharmaceuticals Voyager Therapeutics ZIOPHARM Oncology  
+[END TABLE]
+Radford's reports to the Committee included a review of our existing executive compensation programs, practices, levels and arrangements; each executive officer's compensation relative to the market data; and our equity grant practices for all employees (not just executive officers) relative to the market data. Radford's reports also provided recommendations on changes that might be made to our executive compensation programs generally and to each executive officer's compensation. Radford provided its written report in advance of Committee meetings, at which the Radford consultant presented and responded to questions from the Committee.The CEO Makes Recommendations. For fiscal year 2018, Dr. Kinney presented to the Committee his recommendations on compensation for the executive officers other than himself. Following completion of fiscal year 2018, Dr. Kinney provided his assessment of the performance of executive officers other than himself, both in general and with specific reference to the corporate objectives pre-established by the Committee for 2018.
+[BEGIN TABLE]
+     2019 PROXY STATEMENT   29  
+[END TABLE]
+to the pre-established corporate objectives for 2018, as well as on the individual performance of each executive officer other than himself. The Company's Vice President, Human Resources (who is not an executive officer) participated in that Committee meeting, as did the Radford consultant. After receiving that report, the Committee determined the annual cash bonus to be paid to each executive officer other than Dr. Kinney for 2018.After completion of fiscal year 2018, the Nominating and Corporate Governance Committee of the Board completed a review of Dr. Kinney's performance during 2018 (in a meeting with all other independent members of the Board present). The Compensation Committee, with the other independent members of the Board present, also met with the Radford consultant and the Company's Vice President, Human Resources, to discuss Dr. Kinney's compensation. The Committee determined and recommended to the full Board (other than Dr. Kinney) Dr. Kinney's annual cash bonus for 2018 based on attainment of pre-established corporate objectives for 2018. In an executive session without Dr. Kinney present, the Board considered, discussed and approved the bonus amount recommended by the Committee.
+and Dr. Zago in the range of 3.2% to 6.0%, which generally maintained them at between the 25th and 50th percentiles as indicated by Radford's market data.In the case of Dr. Kinney and Mr. Nguyen, the Board (with respect to Dr. Kinney) and the Committee (with respect to Mr. Nguyen) determined to not make any change to their respective base salaries for fiscal year 2018, after considering the requests of Dr. Kinney and Mr. Nguyen to not increase their respective salaries. By making no change, Dr. Kinney's base salary fell somewhat below the 25th percentile and Mr. Nguyen's base salary remained at the 50th percentile as indicated by Radford's market data.In connection with Mr. Nguyen's promotion to the additional position of Chief Operating Officer in June 2018, the Committee determined to increase his annual base salary by 3.7%, given his increased responsibilities and after considering Radford's market data (using the new peer group approved by the Committee and listed above), which adjustment resulted in his base salary falling between the 50th and 75th percentiles of that data.Annual Cash Bonuses. Annual cash bonuses are intended principally to motivate executive officers to achieve pre-determined annual operational and financial ("corporate") objectives set by the Committee and the Board to promote achievement of our business strategies and drive increases in shareholder value. The annual cash bonuses for our executive officers other than the CEO depend primarily on the Company's 
+[BEGIN TABLE]
+ 30       2019 PROXY STATEMENT  
+[END TABLE]
+salary earned in 2018, and the Committee set the other named executive officers' targeted cash bonuses at 40% of their respective base salaries earned in 2018. The maximum cash bonus that could have been earned by the named executive officers was 150% of their respective target bonuses.In setting these target and maximum bonus opportunities, the Committee determined that a higher target bonus opportunity for the CEO, relative to the other executive officers, was appropriate because of the position and responsibilities. The Committee set the bonus opportunities (as a percentage of base salary) for all of the other named executive officers at the same level, determining that the differences in their base salaries were sufficient to distinguish between their relative positions, experience and criticality.In connection with Mr. Nguyen's promotion to Chief Operating Officer in June 2018, the Committee determined to increase his bonus opportunity for 2018 from 40% to 50% (on a pro-rated basis), given his increased responsibilities and after considering Radford's market data (using the new peer group approved by the Committee).Dr. Kinney's annual cash bonus for fiscal year 2018 depended 100% on the Company's performance relative to pre-established corporate objectives established by the Committee (and approved by the Board). The other named executive officers' annual cash bonuses for fiscal year 2018 depended 75% on those same corporate objectives and 25% on their respective individual performance, as determined by the Committee based on assessments by the CEO and the Committee's assessment of each executive officer's individual performance.
+[BEGIN TABLE]
+     2019 PROXY STATEMENT   31  
+[END TABLE]
+[BEGIN TABLE]
+ Objective   Weighting  
+ Progress R&D portfolio to achieve primary 2018 milestones:    65%  
+ For NEOD001, communicate top line results of Phase 2b PRONTO study in second quarter, file MAA and engage FDA if appropriate, complete mock inspection for PAI readiness, and minimize loss to follow-up (≤5%) in Phase 3 VITAL study        40%   
+ For prasinezumab (PRX002/RG7935), support Roche to enroll 150 patients in Phase 2 PASADENA study        5%  
+ For PRX004, fully enroll a specified number of cohorts of Phase 1 study (or reach maximum tolerated dose)        10%  
+ For Discovery, advance one new target into CMC feasibility studies and submit four manuscripts        10%  
+ Provide product supply for Company programs:        15%  
+ Ensure clinical supply for ongoing trials (NEOD001 and PRX004)           
+ Complete NEOD001 drug product validation batches           
+ Define NEOD001 supply chain to support initial EU launch           
+ Prepare for commercialization of NEOD001:   10%  
+ Meet all launch readiness milestones as per launch plan      
+ Meet specified cash burn guidance range and optimize shareholder base:   5%  
+ Meet publicly-disclosed cash burn guidance range of $175-230 million      
+ Optimize shareholder base by retaining four of six top non-index institutional investors, increasing the ownership stake to ≥5% of at least one existing institutional investor, and/or galvanizing at least one new institutional investor to take a ≥1% ownership stake      
+ Attract and retain talent (by achieving ≤7.5% voluntary turnover) required to achieve Company goals   5%  
+[END TABLE]
+were appropriate to motivate and reward employees for effectively and efficiently completing the reorganization and closing out various NEOD001-related activities. Importantly, the Committee and Board also determined that the Company's PRX004 development and discovery-stage programs had become more critical to the Company's success, and that the objectives relating to those programs should therefore be weighted more heavily.
+[BEGIN TABLE]
+ 32       2019 PROXY STATEMENT  
+[END TABLE]
+some as "stretch" objectives that would be more difficult to achieve.
+[BEGIN TABLE]
+ Objective   Weighting   Result  
+ Progress R&D portfolio to achieve primary 2018 milestones:        65%      
+ For prasinezumab (PRX002/RG7935), support Roche to enroll 150 patients in Phase 2 PASADENA study        5%   Exceeded  
+ For PRX004, fully enroll a specified number of cohorts of Phase 1 study (or reach maximum tolerated dose)        40%   Largely Met  
+ For Discovery, advance one new target into CMC feasibility studies and submit three manuscripts        20%   Exceeded  
+ Provide product supply for Company programs:        5%      
+ Ensure clinical supply for ongoing trial (PRX004)            Met  
+ Discontinue NEOD001 program:        20%      
+ Complete reorganization            Met  
+ Close out clinical and regulatory activities            Met  
+ Discontinue clinical and commercial manufacturing activities            Met  
+ Meet operating expense estimate of $80-85 million associated with NEOD001 and reorganization            Exceeded  
+ Meet specified cash burn guidance range and optimize shareholder base:        5%      
+ Meet publicly-disclosed cash burn guidance range of $40-50 million            Exceeded  
+ Optimize shareholder base by retaining four of six top non-index institutional investors, increasing the ownership stake to ≥5% of at least one existing institutional investor, and/or galvanizing at least one new institutional investor to take a ≥1% ownership stake            Exceeded  
+ Attract and retain talent (by achieving ≤7.5% voluntary turnover) required to achieve Company goals        5%   Exceeded  
+[END TABLE]
+and approved by the Board. The actual annual cash bonus paid to each named executive officer for 2018 performance is set forth in the Non-Equity Incentive Plan Compensation column of the Summary Compensation Table below.Long-Term Incentive Compensation. Long-term incentives are an important element of our executive compensation that the Committee uses primarily to motivate our executive officers to increase shareholder value and secondarily to retain executive officers. The Committee believes that long-term incentive compensation also encourages our executive officers to identify, pursue and invest in appropriate long-term strategies for increasing shareholder value. Our long-term incentives for fiscal year 2018 were solely in the form of nonqualified stock options awarded under our shareholder-approved Amended and Restated 2012 Long Term Incentive Plan (the "2012 LTIP") and under our shareholder-approved 2018 Long Term Incentive Plan (the "2018 LTIP").We use stock options to link executive officer compensation directly to increases in the price of our ordinary shares, which 
+[BEGIN TABLE]
+     2019 PROXY STATEMENT   33  
+[END TABLE]
+Black-Scholes values of the stock options awarded to the named executive officers other than Dr. Kinney ranged from slightly below the 50th to above the 75th percentiles as indicated by Radford's market data, which the Committee considered appropriate after taking into account the relative scope and criticality of their respective roles. The grant-date Black-Scholes value of the stock option awarded to Dr. Kinney was at the 50th percentile of Radford's market data, which the Committee (and then the Board) considered appropriate after considering that the Company's share price had recently declined, which had the effect of reducing the Black-Scholes value of Dr. Kinney's award to the 50th percentile.One-Time Retention Awards: As explained above, we undertook a significant reorganization following the discontinuation of our NEOD001 development program. In order to retain our continuing employees and ensure they remain focused on and aligned with our shareholders in advancing our continuing research and development programs, we considered it imperative to grant to all of our employees - including our named executive officers - additional equity awards in the form of stock options. The Committee determined that those awards were necessary and appropriate given the destabilizing effect of our reorganization, the increasingly competitive environment for the kind of highly-skilled and talented employees who are essential to continuing our mission and achieving our goals, and the substantially reduced retention value of stock options previously granted to those executives and employees.In order to determine how best to retain the named executive officers, the Committee instructed Radford to provide data on how other companies in similar situations addressed retention and to propose a new peer group given the substantial changes in the Company's development phase, market capitalization and number of employees (which new peer group is detailed above). The Committee then met with its Radford consultant and considered that market data, as well as the "in-the-money" or "underwater" value (relative to our 30-day average price) of each of our named executive officer's outstanding vested and unvested stock options. The Committee also considered data on typical new-hire awards and the number of shares available and expected to become available for grant under our 2018 LTIP.The Committee placed significant weight on the fact that 100% of outstanding unvested stock options and the majority of outstanding vested stock options held by our named executive officers (and our other continuing employees) were "underwater." In the case of our named executive officers, their outstanding stock options as of June 1, 2018 had a weighted average exercise price of over $33 per share compared to our then 30-day average market price of less 
+[BEGIN TABLE]
+ 34       2019 PROXY STATEMENT  
+[END TABLE]
+The annual stock options as well the one-time retention stock options awarded in fiscal year 2018 to our named executive officers, and their grant date Black-Scholes values, are set forth in the Grants of Plan-Based Awards — Fiscal Year 2018 table below, and those values are also set forth in the Options Awards column of the Summary Compensation Table below.Deferred Compensation. Our named executive officers were eligible to participate in our tax-qualified 401(k) plan on the same terms as all other U.S. employees. The Company makes non-discretionary contributions to the accounts of all participants in the 401(k) plan, and may also make discretionary matching contributions to all participants accounts (which it did for fiscal year 2018, equal to 1.5% of each participants eligible earnings in 2018).Perquisites and Other Personal Benefits. No perquisites or other personal benefits are provided to our named executive officers.
+Other Named Executive Officers. Each of Mr. Nguyen, Ms. Karp, Mr. Homan and Dr. Zago are eligible to participate in our Amended and Restated Severance Plan (the Severance Plan), which provides for certain severance payments and benefits in the event of a qualifying termination of employment. In addition, they have each been awarded stock options containing accelerated vesting provisions in the event of a qualifying termination of employment. The material terms of the Severance Plan and these option agreements, as they relate to certain potential terminations of employment, are described below under the heading Change in Control and Severance Arrangements — Other Named Executive Officers. For the same reasons described above with respect to Dr. Kinney, the Committee considered these arrangements to be necessary in order to secure the services of these named executive officers and an important retention tool that ensures that personal uncertainties do not dilute our executive officers complete focus on promoting shareholder value.In connection with Mr. Homans decision in 2018 to retire from the Company in 2019, we entered into a retirement transition letter with him that provides for, among other things, a payment to Mr. Homan of an amount equal to what would have been his targeted bonus for 2019 based on his actual eligible earnings in 2019, and for any previously-granted stock options that are outstanding and vested on the date of his retirement to remain exercisable for one year from that date, provided that he does not terminate his employment prior to July 1, 2019. The Committee determined that these 
+[BEGIN TABLE]
+     2019 PROXY STATEMENT   35  
+[END TABLE]
+any of the next three most highly compensated executive officers (other than the chief financial officer). Prior to the U.S. Tax Cuts and Jobs Act of 2017 (the "2017 Tax Reform Act"), compensation deemed to be performance-based in accordance with Section 162(m) was exempt from this $1,000,000 limitation, and compensation paid to the chief financial officer was not subject to the deductibility limitation of Section 162(m). As part of the 2017 Tax Reform Act, the ability to rely on this "qualified performance-based compensation" exception was eliminated and the limitation on deductibility generally was expanded to include all named executive officers, including the chief financial officer. Our LTIP was designed and approved by our shareholders so that incentive compensation under the LTIP may be performance-based in accordance with Section 162(m). However, as a result of the 2017 Tax Reform Act, subject to its "grandfathering" rules, the Company may no longer take a tax deduction for any compensation paid to its named executive officers in excess of $1,000,000 in any tax year beginning on or after January 1, 2018.
+[BEGIN TABLE]
+ 36       2019 PROXY STATEMENT  
+[END TABLE]
+[BEGIN TABLE]
+Name and Principal Position Year Salary ($) Option  Awards(1) ($) Non-Equity  Incentive Plan  Compensation(2) ($) All Other  Compensation(3) ($) Total ($) 
+Gene G. Kinney, Ph.D.(4) President and Chief Executive Officer   2018     525,000     10,575,894     283,500     12,375     11,396,769   
+  2017     520,833     4,301,412     312,500     13,500     5,148,245   
+  2016     425,000     4,089,442     208,688     11,925     4,735,055   
+Tran B. Nguyen Chief Operating Officer  and Chief Financial Officer   2018     412,500     4,359,215     173,143     12,375     4,957,233   
+  2017     399,167     2,688,383     159,667     13,500     3,260,717   
+  2016     366,700     1,473,271     154,014     11,925     2,005,910   
+Carol D. Karp(4) Chief Regulatory Officer   2018     410,667     2,862,855     151,947     12,375     3,437,844   
+  2017     400,000     —     160,000     13,500     573,500   
+  2016     19,743     3,556,360     —     304,742     3,880,845   
+A. W. Homan Chief Legal Officer  and Company Secretary   2018     366,383     2,862,855     135,562     12,375     3,377,175   
+  2017     353,317     1,971,481     141,327     13,500     2,479,625   
+  2016     338,250     1,019,957     142,065     11,925     1,512,197   
+Wagner M. Zago, Ph.D. Chief Scientific Officer   2018     340,448     2,862,855     125,966     12,375     3,341,644   
+  2017     310,208     1,378,586     113,187     13,500     1,815,481   
+  2016     246,771     475,980     75,882     11,925     810,558   
+[END TABLE]
+[BEGIN TABLE]
+     2019 PROXY STATEMENT   37  
+[END TABLE]
+[BEGIN TABLE]
+    Estimated Future Payouts Under Non- Equity Incentive Plan Awards(1) All Other  Option  Awards:  Number of  Securities  Underlying  Options(2) (#) Exercise  or Base  Price of  Option  Awards ($/sh) Grant  Date Fair  Value of  Option  Awards(3) ($) 
+Name Grant Date Threshold ($) Target ($) Maximum ($) 
+Gene G. Kinney   2/21/2018                       187,000     33.10     3,854,164   
+          189,000     315,000     472,500                     
+    6/21/2018                       620,000     15.04     6,721,730   
+Tran B. Nguyen   2/21/2018                       80,000     33.10     1,648,840   
+          111,600     186,000     279,000                     
+    6/21/2018                       250,000     15.04     2,710,375   
+Carol D. Karp   2/21/2018                       60,000     33.10     1,236,630   
+          98,560     164,267     246,400                     
+    6/21/2018                       150,000     15.04     1,626,225   
+A. W. Homan   2/21/2018                       60,000     33.10     1,236,630   
+          87,932     146,553     219,830                     
+    6/21/2018                       150,000     15.04     1,626,225   
+Wagner M. Zago   2/21/2018                       60,000     33.10     1,236,630   
+          81,708     136,179     204,269                     
+    6/21/2018                       150,000     15.04     1,626,225   
+[END TABLE]
+[BEGIN TABLE]
+ 38       2019 PROXY STATEMENT  
+[END TABLE]
+[BEGIN TABLE]
+  Option Awards(1) 
+  Number  of Securities  Underlying  Unexercised  Options  (#) Number  of Securities  Underlying  Unexercised  Options  (#) Option  Exercise  Price  ($) Option  Expiration  Date 
+Name Exercisable Unexercisable 
+Gene G. Kinney   109,074     — (2)    6.41     01/29/2023   
+    45,000     — (3)    29.81     02/04/2024   
+    60,937     4,063 (4)    27.81     03/11/2025   
+    46,041     18,959 (5)    34.61     02/24/2026   
+    28,125     21,875 (6)    52.21     09/01/2026   
+    16,875     13,125 (7)    45.13     11/02/2026   
+    55,000     65,000 (8)    55.00     02/22/2027   
+    —     187,000 (9)    33.10     02/21/2028   
+    —     620,000 (10)    15.04     06/21/2028   
+Tran B. Nguyen   150,000     — (11)    6.73     04/01/2023   
+    45,000     — (3)    29.81     02/04/2024   
+    51,562     3,438 (4)    27.81     03/11/2025   
+    46,041     18,959 (5)    34.61     02/24/2026   
+    34,375     40,625 (8)    55.00     02/22/2027   
+    —     80,000 (9)    33.10     02/21/2028   
+    —     250,000 (10)    15.04     06/21/2028   
+Carol D. Karp   49,999     50,001 (12)    52.78     12/14/2026   
+    —     60,000 (9)    33.10     02/21/2028   
+    —     150,000 (10)    15.04     06/21/2028   
+A. W. Homan   68,750     — (13)    22.14     05/01/2024   
+    39,843     2,657 (4)    27.81     03/11/2025   
+    31,875     13,125 (5)    34.61     02/24/2026   
+    25,208     29,792 (8)    55.00     02/22/2027   
+    —     60,000 (9)    33.10     02/21/2028   
+    —     150,000 (10)    15.04     06/21/2028   
+Wagner M. Zago   15,100     — (2)    6.41     01/29/2023   
+    15,000     — (14)    20.17     09/03/2023   
+    15,000     — (3)    29.81     02/04/2024   
+    17,812     1,188 (4)    27.81     03/11/2025   
+    14,875     6,125 (5)    34.61     02/24/2026   
+    9,166     10,834 (8)    55.00     02/22/2027   
+    7,500     12,500 (15)    51.32     06/09/2027   
+    —     60,000 (9)    33.10     02/21/2028   
+    —     150,000 (10)    15.04     06/21/2028   
+[END TABLE]
+[BEGIN TABLE]
+     2019 PROXY STATEMENT   39  
+[END TABLE]
+[BEGIN TABLE]
+Name Number of Shares  Acquired on Exercise  (#) Value Realized on  Exercise  ($) 
+Gene G. Kinney   —     —   
+Tran B. Nguyen   —     —   
+Carol D. Karp   —     —   
+A. W. Homan   —     —   
+Wagner M. Zago   —     —   
+[END TABLE]
+[BEGIN TABLE]
+ 40       2019 PROXY STATEMENT  
+[END TABLE]
+[BEGIN TABLE]
+    Termination by Company(1) Termination by Executive(1)   
+Name Nature of  Payment or  Benefit For  Cause Due to a  Business  Condition For Any  Other  Reason Due to  Voluntary  Resignation For Good  Reason Due to  Death or  Disability Termination  Following  Change in  Control(2) 
+Gene G. Kinney Cash Severance(3)   —     656,250     656,250     —     656,250     656,250     1,050,000   
+  Cash Bonus(3)   —     315,000     315,000     —     315,000     315,000     630,000   
+  Accelerated Options(4)   —     —     —     —     —     —     —   
+  COBRA Coverage(5)   —     46,391     46,391     —     46,391     46,391     46,391   
+  Career Assistance(6)   —     15,000     15,000     —     15,000     15,000     15,000   
+  Total $ —   $ 1,032,641   $ 1,032,641   $ —   $ 1,032,641   $ 1,032,641   $ 1,741,391   
+Tran B. Nguyen Cash Severance(3)   —     420,000     —     —     420,000     —     630,000   
+  Cash Bonus(3)   —     210,000     —     —     210,000     210,000     315,000   
+  Accelerated Options(4)   —     —     —     —     —     —     —   
+  COBRA Coverage(5)   —     20,058     —     —     20,058     —     30,086   
+  Career Assistance(6)   —     15,000     —     —     15,000     —     15,000   
+  Total $ —   $ 665,058   $ —   $ —   $ 665,058   $ 210,000   $ 990,086   
+Carol D. Karp Cash Severance(3)   —     412,800     —     —     412,800     —     619,200   
+  Cash Bonus(3)   —     165,120     —     —     165,120     165,120     247,680   
+  Accelerated Options(4)   —     —     —     —     —     —     —   
+  COBRA Coverage(5)   —     21,890     —     —     21,890     —     32,835   
+  Career Assistance(6)   —     15,000     —     —     15,000     —     15,000   
+  Total $ —   $ 614,810   $ —   $ —   $ 614,810   $ 165,120   $ 914,715   
+A. W. Homan Cash Severance(3)   —     368,460     —     —     368,460     —     552,690   
+  Cash Bonus(3)   —     147,384     —     —     147,384     147,384     221,076   
+  Accelerated Options(4)   —     —     —     —     —     —     —   
+  COBRA Coverage(5)   —     19,983     —     —     19,983     —     29,975   
+  Career Assistance(6)   —     15,000     —     —     15,000     —     15,000   
+  Total $ —   $ 550,827   $ —   $ —   $ 550,827   $ 147,384   $ 818,741   
+Wagner M. Zago Cash Severance(3)   —     365,700     —     —     365,700     —     548,550   
+  Cash Bonus(3)   —     146,280     —     —     146,280     146,280     219,420   
+  Accelerated Options(4)   —     —     —     —     —     —     —   
+  COBRA Coverage(5)   —     9,857     —     —     9,857     —     14,786   
+  Career Assistance(6)   —     15,000     —     —     15,000     —     15,000   
+  Total $ —   $ 536,837   $ —   $ —   $ 536,837   $ 146,280   $ 797,756   
+[END TABLE]
+[BEGIN TABLE]
+     2019 PROXY STATEMENT   41  
+[END TABLE]
+COBRA, directly pay, or reimburse him for, the portion of the COBRA premiums for Dr. Kinney and his covered dependents that exceeds the amount of such premium an active employee would be required to pay during the period commencing on his termination of employment and ending upon the earliest of (1) the 18-month anniversary of the date of termination, (2) the date that he and/or his covered dependents, as applicable, become no longer eligible for COBRA, or (3) the date that he becomes eligible to receive healthcare coverage from a subsequent employer; and (d) if Dr. Kinney commences a career transition assistance program sponsored or arranged for by the Company within 60 days following the date of termination, pay for such program for a period of 12 months. In addition, if Dr. Kinney's termination of employment by the Company without Cause or by Dr. Kinney for Good Reason, (i) each outstanding equity award granted to Dr. Kinney on or after the date of the Employment Agreement will accelerate with respect to that number of shares that would have vested had he continued employment for the 18-month period immediately following the date of termination, and the post-termination exercise period will extend to 18 months from the date of termination (unless it expires earlier under its term), and (ii) each outstanding option award granted to Dr. Kinney before the date of the Employment Agreement will accelerate with respect to that number of shares that would have vested had he continued employment for the 12-month period immediately following the date of termination, and the post-termination exercise period will extend to 12 months from the date of termination (unless it expires earlier under its term). In the event of the termination of Dr. Kinney's employment due to his death or Total and Permanent Disability (as defined in the option award agreements), each outstanding option award held by him will accelerate with respect to 100% of the then unvested shares subject to each such option award, and the post-termination exercise period will extend to 12 months from the date of termination (unless it expires earlier under its term).Severance Payments and Benefits in Connection with a Change in Control. In the event of Dr. Kinney's termination of employment by the Company without Cause, by Dr. Kinney for Good Reason or because of Dr. Kinney's death or Disability, in each case that occurs within the 24-month period commencing on the consummation of a Change in 
+[BEGIN TABLE]
+ 42       2019 PROXY STATEMENT  
+[END TABLE]
+Directors; but, provided further that any such individual whose initial assumption of office is in connection with an actual or threatened solicitation of proxies or consents by or on behalf of a person other than the Board, including by reason of agreement intended to avoid or settle any such actual or threatened contest or solicitation will not be considered an Original Director; (d) a transaction as a result of which any person or company obtains the ownership directly or indirectly of the shares in the Company carrying more than 50% of the total voting power represented by the Company's issued share capital in pursuance of a compromise or arrangement sanctioned by the court under Section 453 of the Irish Companies Act 2014, or becomes bound or entitled to acquire ordinary shares in the Company under Section 457 of the Irish Companies Act 2014; (e) any transaction as a result of which any person becomes the "beneficial owner" (as defined in Rule 13d-3 under the Exchange Act), directly or indirectly, of securities of the Company, representing at least 50% of the total voting power represented by the Company's then outstanding voting securities (e.g., issued shares); or (f) certain similar transactions taking place with respect to PBI, as set forth more fully in the Employment Agreement. The definition of "Change in Control" for purposes of the option award agreements is substantially similar to the definition in the Employment Agreement, except that similar transactions with respect to PBI are not included."Cause" is defined in the Employment Agreement as (a) the willful and continued failure by Dr. Kinney to substantially perform his duties with the Company (other than as a result of physical or mental disability) after a written demand for substantial performance is delivered to Dr. Kinney by the Board, which demand specifically identifies the manner in which the Board believes that Dr. Kinney has not substantially performed his duties and that has not been cured within 30 days following receipt by him of the written demand; (b) commission by Dr. Kinney of a felony (other than a traffic-related offense) that in the written determination of the Board is likely to cause or has caused material injury to our business; (c) documented intentional misrepresentation or omission of material fact with respect to a significant matter relating to our business; or (d) material breach of any agreement by and between Dr. Kinney and the Company, which material breach has not been cured within 30 days following receipt by Dr. Kinney of written notice from the Board identifying such material breach. "Cause" is defined in the option award agreements as (i) the willful breach, habitual neglect or poor performance of job duties and responsibilities; (ii) conviction (or entry of a guilty plea or plea of nolo contendere) of any crime, excluding minor traffic offenses; (iii) commission of an act of dishonesty or breach of 
+[BEGIN TABLE]
+     2019 PROXY STATEMENT   43  
+[END TABLE]
+the Employment Agreement by the Company. Notwithstanding the foregoing, Dr. Kinney will not have "Good Reason" unless the condition giving rise to his resignation continues more than 30 days following his written notice of the condition provided to the Company within 90 days of the first occurrence of such condition and his resignation is effective within 180 days following the first occurrence of such condition. The definition of "Good Reason" in the option award agreements is substantially similar to the definition in the Employment Agreement.
+transition assistance program sponsored or arranged for by the Company within 60 days following the date of termination, pay for such program for a period of 12 months.Under the option award agreements, in the event of the named executive officer's termination of employment by the Company without Cause (defined below) or by the executive officer for Good Reason (defined below), in each case that occurs outside of the 24-month period commencing on the consummation of a Change in Control (defined below), each outstanding option award held by the named executive officer will accelerate with respect to that number of shares that would have vested had he or she continued employment for the 12-month period immediately following the date of termination, and the post-termination exercise period will extend to 12 months from the date of termination (unless it expires earlier under its term). In the event of a named executive officer's termination of employment because of the executive officer's death or Total and Permanent Disability (as defined in the agreements), each outstanding option award held by the named executive officer will accelerate with respect to 100% of the then unvested shares subject to each such option award, and the post-termination exercise period will extend to 12 months from the date of termination (unless it expires earlier under its term).Severance Payments and Benefits in Connection with a Change in Control. In the event of a named executive officer's termination of employment by the Company in connection with a Triggering Event that occurs within the 24-month period commencing on the consummation of a Change in Control, the Company will (a) pay in a lump sum cash payment an amount equal to 150% of the named executive officer's annual base salary as of the date of termination; (b) pay 150% of the annual target bonus in a lump sum cash payment; (c) if the named executive officer elects to receive continued healthcare coverage pursuant to COBRA, directly pay, or reimburse him or her for, the portion of the COBRA premiums for the named executive officer and his or her covered dependents that exceeds the amount of such premium an active employee would be required to pay during the period commencing on his or her termination of 
+[BEGIN TABLE]
+ 44       2019 PROXY STATEMENT  
+[END TABLE]
+substantially similar to the definition in Dr. Kinney's Employment Agreement described above, except that similar transactions with respect to PBI are not included."Cause" is defined in the option award agreements as (a) the willful breach, habitual neglect or poor performance of job duties and responsibilities; (b) conviction (or entry of a guilty plea or plea of nolo contendere) of any crime, excluding minor traffic offenses; (c) commission of an act of dishonesty or breach of fiduciary duty; (d) commission of a material violation of any of the Company's personnel policies; or (e) any act or omission which is contrary to the business interest, reputation or goodwill of the Company.The definition of "Good Reason" in the option award agreements is substantially similar to the definition in Dr. Kinney's Employment Agreement described above."Triggering Event" is defined in the Severance Plan as (a) an Involuntary Termination, (b) a Relocation, or (c) a Significant Reduction in Scope or Base Compensation, which are defined as follows: "Involuntary Termination" is defined as a termination by the Company of the named executive officer due to a business condition; "Relocation" is defined as a material change in the geographic location at which the named executive officer is required to perform services, which is defined as including a relocation that increases his or her one-way commute by at least 30 miles or relocation that requires moving his or her home to a new location more than 30 miles from his or her current home; and "Significant Reduction in Scope or Base Compensation" is defined as material diminution in the named executive officer's authority, duties or responsibilities or a material diminution in his or her base compensation.
+Incentive Compensation Plan for the 2019 performance period; however, in exchange for a standard waiver and release, the Company has agreed to pay Mr. Homan an amount equal to what would have been his targeted bonus for 2019 (at his 2018 bonus participation rate of 40%), based on his actual eligible earnings in 2019, provided that he does not terminate his employment prior to July 1, 2019. Any options that are unvested on the date Mr. Homan's employment ends will immediately terminate, and (subject to his execution of the standard waiver and release) any options that are vested on that date will remain outstanding until the one-year anniversary of that date. Under the terms of the Retirement Transition Letter, Mr. Homan's retirement on July 1, 2019 will not constitute a Triggering Event under the Severance Plan or an Involuntary Termination under his option award agreements (as such terms are defined therein).
+[BEGIN TABLE]
+     2019 PROXY STATEMENT   45  
+[END TABLE]
+programs and their risks to our strategy. Although we periodically review all compensation programs, we focus on the programs with variability of payout, with the ability of a participant to directly affect payout and the controls on participant action and payout. In relation to this, we believe that our incentive compensation arrangements provide incentives that do not encourage risk taking beyond our ability to effectively identify and manage significant risks and are compatible with effective internal controls and our risk management practices. The Compensation Committee monitors our compensation programs on an annual basis and expects to make modifications as necessary to address any changes in our business or risk profile.
+We believe that this use of salary or wages earned through the first nine months of 2018 is an appropriate and consistently applied compensation measure for purposes of identifying the "median employee" from a compensation standpoint, because all employees were eligible for annual cash bonuses and received stock option awards in 2018, and the distribution of cash bonuses and option awards were generally consistent with annual base pay. Earnings of our employees outside the U.S. were converted to U.S. dollars using an average currency exchange rate over the nine-month measurement period. We did not make any cost-of-living adjustments.We then calculated this median employee's total compensation for 2018 using the same methodology used to calculate our CEO's total compensation for 2018, as set forth in the Summary Compensation Table above. The median employee's total compensation for 2018 included salary, an annual cash bonus paid in 2019 for 2018, stock option awards and Company contributions to that employee's account under our tax-qualified 401(k) defined contribution plan, each calculated for purposes of this pay ratio on the same basis as those same compensation elements of our CEO as explained in footnotes 1, 2 and 3 of the Summary Compensation Table.
+[BEGIN TABLE]
+ 46       2019 PROXY STATEMENT  
+[END TABLE]
+[BEGIN TABLE]
+Plan Category (a) Number of securities  to be issued upon  exercise of outstanding  options, warrants and rights (b) Weighted-average  exercise price of  outstanding options,  warrants and rights (c) Number of securities remaining  available for future issuance under  equity compensation plans  (excluding securities reflected in  column (a))(2) 
+Equity Compensation Plans Approved by Shareholders(1)   6,726,715   $ 26.82     1,535,371   
+Equity Compensations Plans Not Approved by Shareholders   n/a     n/a     n/a   
+Total   6,726,715   $ 26.82     1,535,371   
+[END TABLE]
+[BEGIN TABLE]
+     2019 PROXY STATEMENT   47  
+[END TABLE]
+material modifications to previously approved Related Person Transactions) must be reviewed and approved or ratified by the Audit Committee of our Board, although (a) the Chairman of the Audit Committee may approve a Related Person Transaction if it is not practical for the Committee to do so, subject to subsequent ratification by the Audit Committee, (b) if the Related Person Transaction relates to compensation of a director or executive officer, it must be reviewed and approved or ratified by the Compensation Committee of our Board, and (c) the Board may approve or ratify a Related Person Transaction by an affirmative vote of a majority of directors who do not have a direct or indirect material interest in the Related Person Transaction. Prior to approval or ratification of a proposed Related Person Transaction, the Audit Committee considers all relevant facts and circumstances including, but not limited to, the financial and other terms and whether such terms, taken as a whole, are no less favorable to the Company than could be obtained in an arms-length transaction with an unrelated third party.
+and executive officers that provides for indemnification of that director and/or executive officer against certain claims that arise by reason of their status or service as a director or executive officer. The Company purchases directors and officers liability insurance to cover its indemnification obligations to our directors and executive officers as well as to cover directly certain claims made against our directors and executive officers.
+[BEGIN TABLE]
+ 48       2019 PROXY STATEMENT  
+[END TABLE]
+If, at any time, you no longer wish to participate in "householding" and would prefer to receive a separate Notice of Internet Availability of Proxy Materials or other Annual Meeting materials, you may (a) notify your broker, (b) direct your written request to our Company Secretary at Prothena Corporation plc, 77 Sir John Rogerson's Quay, Block C, Grand Canal Docklands, Dublin 2, D02 T804, Ireland, or (c) contact Prothena Investor Relations by telephone at (650) 837-8535. Shareholders who currently receive multiple copies of the Notice of Internet Availability of Proxy Materials or other Annual Meeting materials at their address and would like to request "householding" of their communications should contact their broker. In addition, the Company will promptly deliver, upon written or oral request to the address or telephone number above, a separate copy of the Notice of Internet Availability of Proxy Materials or other Annual Meeting materials to a shareholder at a shared address to which a single copy of the documents was delivered.
+[BEGIN TABLE]
+     By Order of the Board of Directors  
+     A. W. Homan Company Secretary  
+[END TABLE]
+[BEGIN TABLE]
+     2019 PROXY STATEMENT   49  
+[END TABLE]
+ 

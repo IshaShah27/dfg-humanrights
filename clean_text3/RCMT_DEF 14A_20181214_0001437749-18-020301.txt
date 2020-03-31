@@ -1,0 +1,532 @@
+ 
+UNITED STATES
+SECURITIES AND EXCHANGE COMMISSION
+Washington, D.C. 20549
+SCHEDULE 14A
+Proxy Statement Pursuant to Section 14(a) of the Securities Exchange Act of 1934 (Amendment No.     )
+Filed by the Registrant  ☒
+Filed by a Party other than the Registrant  ☐
+[BEGIN TABLE]
+ Check the appropriate box:  
+ ☐   Preliminary Proxy Statement  
+ ☐   Confidential, for Use of the Commission Only (as permitted by Rule 14a-6(e)(2))  
+ ☒   Definitive Proxy Statement  
+ ☐   Definitive Additional Materials  
+ ☐   Soliciting Material under §240.14a-12  
+[END TABLE]
+[BEGIN TABLE]
+ RCM TECHNOLOGIES, INC.   
+ (Name of Registrant as Specified In Its Charter)  
+ (Name of Person(s) Filing Proxy Statement, if other than the Registrant)  
+[END TABLE]
+Copies to:
+[BEGIN TABLE]
+ Payment of Filing Fee (Check the appropriate box):  
+ ☒   No fee required.  
+ ☐   Fee computed on table below per Exchange Act Rules 14a-6(i)(1) and 0-11.  
+     (1)   Title of each class of securities to which transaction applies:  
+     (2)   Aggregate number of securities to which transaction applies:  
+     (3)   Per unit price or other underlying value of transaction computed pursuant to Exchange Act Rule 0-11 (set forth the amount on which the filing fee is calculated and state how it was determined):  
+     (4)   Proposed maximum aggregate value of transaction:  
+     (5)   Total fee paid:  
+ ☐   Fee paid previously with preliminary materials.  
+ ☐   Check box if any part of the fee is offset as provided by Exchange Act Rule 0-11(a)(2) and identify the filing for which the offsetting fee was paid previously. Identify the previous filing by registration statement number, or the Form or Schedule and the date of its filing.  
+     (1)   Amount Previously Paid:  
+     (2)   Form, Schedule or Registration Statement No.:  
+     (3)   Filing Party:  
+     (4)   Date Filed:  
+[END TABLE]
+[BEGIN TABLE]
+ RCM Technologies, Inc.  
+ 2500 McClellan Avenue  
+ Pennsauken, NJ 08109  
+ Tel: 856.356.4500  
+ Fax: 856.356.4600  
+ www.rcmt.com  
+[END TABLE]
+NOTICE OF ANNUAL MEETING OF STOCKHOLDERS  TO BE HELD DECEMBER 14, 2018
+To Our Stockholders:
+The RCM Technologies, Inc. 2018 Annual Meeting of Stockholders will be held at the offices of Morgan, Lewis & Bockius LLP, 1701 Market Street, Philadelphia, Pennsylvania 19103, on Friday, December 14, 2018, at 4:00 p.m. local time.
+The purposes of the meeting are to:
+[BEGIN TABLE]
+   1.   Elect five directors to hold office until the Annual Meeting of Stockholders to be held in 2019 and until their successors are duly elected and qualified;  
+[END TABLE]
+[BEGIN TABLE]
+   2.   Consider and approve an amendment to the RCM Technologies, Inc. 2001 Employee Stock Purchase Plan;  
+[END TABLE]
+[BEGIN TABLE]
+   3.   Ratify our Audit Committee's selection of EisnerAmper LLP as our independent accountants for our fiscal year ending December 29, 2018;  
+[END TABLE]
+[BEGIN TABLE]
+   4.   Conduct an advisory vote to approve the compensation of our named executive officers for 2017; and  
+[END TABLE]
+[BEGIN TABLE]
+   5.   Transact such other business as may properly come before the meeting or any adjournment(s) of the meeting.  
+[END TABLE]
+We have fixed October 18, 2018 as the record date for determining the stockholders entitled to vote at the meeting. You are not entitled to notice of, or to vote at, the meeting if you were not a stockholder of record at the close of business on that date.
+You are cordially invited to attend the meeting. Whether or not you expect to attend the meeting in person, please sign, date and promptly return the enclosed proxy to ensure that your shares will be represented at the meeting. The enclosed envelope requires no postage if mailed within the United States. Most of our stockholders hold their shares in "street name" through brokers, banks and other nominees and may choose to vote their shares by telephone instead of using the enclosed proxy card. If you wish to vote by telephone, please follow the instructions on your proxy card. If you attend the meeting, you may revoke your proxy and vote in person.
+Pennsauken, New Jersey
+November 9, 2018
+RCM TECHNOLOGIES, INC.
+2500 McClellan Avenue  Suite 350  Pennsauken, New Jersey 08109
+________________________________
+PROXY STATEMENT  ________________________________
+ANNUAL MEETING OF STOCKHOLDERS
+DECEMBER 14, 2018
+About this Proxy Statement
+Our Board of Directors is soliciting proxies to be used at our 2018 Annual Meeting of Stockholders. The meeting will be held at the offices of Morgan, Lewis & Bockius LLP, 1701 Market Street, Philadelphia, Pennsylvania 19103 on Friday, December 14, 2018, at 4:00 p.m. local time. This proxy statement, the notice of annual meeting and the form of proxy will be mailed to stockholders beginning on or about November 9, 2018.
+VOTING PROCEDURES
+Who Can Vote
+Only RCM common stockholders at the close of business on the record date, October 18, 2018, may vote at the annual meeting. You are entitled to cast one vote for each share of RCM common stock that you owned as of the close of business on the record date. At the close of business on the record date, there were 12,285,227 shares of RCM common stock outstanding.
+How You Can Vote
+You can vote by:
+[BEGIN TABLE]
+• marking your proxy card, dating and signing it, and returning it in the postage-paid envelope we have provided,  
+[END TABLE]
+[BEGIN TABLE]
+• phoning in your vote using the information provided on your voting form, or  
+[END TABLE]
+[BEGIN TABLE]
+• attending the meeting and voting in person.  
+[END TABLE]
+How You Can Revoke Your Proxy or Change Your Vote
+You can revoke your proxy at any time before it is voted at the meeting by:
+[BEGIN TABLE]
+• sending a written notice that you have revoked your proxy to our Secretary, Kevin D. Miller, at 2500 McClellan Avenue, Suite 350, Pennsauken, New Jersey 08109-4613,  
+[END TABLE]
+[BEGIN TABLE]
+• submitting a later-dated proxy card, or  
+[END TABLE]
+[BEGIN TABLE]
+• attending the meeting, giving our Secretary written notice of your revocation and voting your shares.  
+[END TABLE]
+If a bank, broker or other holder of record holds your shares in its name, you must obtain a proxy card executed in your favor from the holder of record to be able to vote your shares at the meeting.
+General Information on Voting
+A quorum must exist for voting to take place at the meeting. A quorum exists if holders of a majority of the outstanding shares of our common stock are present at the meeting in person or are represented by proxy at the meeting.
+Director nominees are elected by a majority vote, meaning that a nominee for director is elected only if he or she receives the affirmative vote of a majority of the total votes cast for and against such nominee. All other matters to be voted upon at the meeting must be approved by a majority of the votes cast on those matters.
+Shares represented by a proxy marked "abstain" on any matter will be considered present at the meeting for purposes of determining whether there is a quorum, but will not be considered as votes cast on that matter. Shares represented by a proxy as to which there is a "broker non-vote" (that is, where a broker holding your shares in "street" or "nominee" name indicates to us on a proxy that you have given the broker the discretionary authority to vote your shares on some but not all matters), will be considered present at the meeting for purposes of determining a quorum but will not be considered as votes cast on matters as to which there is a "broker non-vote." Abstentions and "broker non-votes" will therefore have no effect on the outcome of any vote taken at the meeting.
+Shares that have been properly voted and not revoked will be voted at the meeting in accordance with the instructions on your proxy card. If you sign your proxy card but do not mark your choices, Bradley S. Vizi or Kevin D. Miller, the persons named on the enclosed proxy card, will vote the shares represented by your proxy card:
+[BEGIN TABLE]
+● FOR the persons we nominated for election as directors (Proposal No. 1);  
+[END TABLE]
+[BEGIN TABLE]
+● FOR approval of the amendment to the RCM Technologies, Inc. 2001 Employee Stock Purchase Plan (Proposal No. 2); and  
+[END TABLE]
+[BEGIN TABLE]
+● FOR the ratification of our Audit Committee's selection of EisnerAmper LLP as our independent accountants for our fiscal year ending December 29, 2018 (Proposal No. 3); and  
+[END TABLE]
+[BEGIN TABLE]
+● FOR approval of an advisory resolution approving the compensation of our named executive officers for 2017 (Proposal No. 4).  
+[END TABLE]
+If any other matters are properly presented at the meeting for consideration, Mr. Vizi and Mr. Miller will have the discretion to vote on those matters for you. Currently, we are not aware of any such matters.
+Costs of Solicitation
+We will pay for preparing, assembling and mailing this proxy statement. Our directors, officers and employees may solicit proxies through the mail, direct communication or otherwise. None of our directors, officers or employees will receive additional compensation for soliciting proxies. We may reimburse brokerage firms and other custodians, nominees or fiduciaries for their reasonable expenses for forwarding proxy and solicitation materials to stockholders.
+Important Notice Regarding the Availability of 
+Proxy Materials for the Annual Meeting of Stockholders to be Held on December 14, 2018
+This proxy statement and our 2017 annual report to stockholders are available at http://www.astproxyportal.com/ast/08117
+SECURITY OWNERSHIP OF CERTAIN BENEFICIAL OWNERS,  DIRECTORS AND MANAGEMENT
+Security Ownership of Certain Beneficial Owners
+The following table lists the persons we know to be beneficial owners of at least five percent of our common stock as of October 26, 2018.
+[BEGIN TABLE]
+  Name and Address of Beneficial Owner      Number of Shares       Approximate   			Percentage   			of Outstanding Common Stock    
+  Name and Address of Beneficial Owner      Number of Shares       Approximate   			Percentage   			of Outstanding Common Stock    
+ Los Angeles, CA 90071                  
+ Dimensional Fund Advisors LP(2)      963,470       7.8% 
+ Building One                  
+ 6300 Bee Cave Road                  
+ Austin, TX 78746                  
+ Renaissance Technologies LLC(3)      783,270       6.4% 
+ 800 Third Avenue                  
+ New York, NY 10022                  
+[END TABLE]
+[BEGIN TABLE]
+ (1)   Based on Amendment No. 14 to Schedule 13D (the "Amendment"), filed with the Commission on November 17, 2017, by IRS Partnership No. 19, L.P. ("IRS 19"), The Leonetti/O'Connell Family Foundation (the "Foundation"), M2O, Inc. ("M2O"), The Michael F. O'Connell and Margo L. O'Connell Revocable Trust (the "Trust"), Michael O'Connell ("Mr. O'Connell" and, collectively with IRS 19, the Foundation, M2O and the Trust, the "O'Connell Entities"), Harvest Financial Corporation ("Harvest") and Bradley Vizi ("Mr. Vizi"). The Amendment states that IRS 19, M2O, the Trust and Mr. O'Connell may be deemed to have the shared voting and dispositive power over the 2,055,065 shares owned by IRS 19 and that the Foundation and Mr. O'Connell may be deemed to have shared voting and dispositive power over 266,074 shares owned by the Foundation. The Amendment also states that Harvest exclusively manages IRS 19's and the Foundation's investment in the Common Shares pursuant to which Mr. Vizi on behalf of Harvest manages such investments. In addition to the Schedule 13D, this amount reflects certain additional information known to the Company regarding Mr. Vizi's share ownership. As a result, Harvest and Mr. Vizi may be deemed to have shared dispositive power with respect to the 2,352,678 shares held by IRS 19 and the Foundation. Mr. Vizi has sole voting and dispositive power over 31,539 shares.  
+[END TABLE]
+[BEGIN TABLE]
+ (2)   Based on a Form 13F filed with the Commission on August 10, 2018. The Form 13F states that Dimensional Fund Advisors LP, a registered investment advisor, has sole voting power over 955,920 of these shares and sole or shared dispositive power as to all of these shares.  
+[END TABLE]
+[BEGIN TABLE]
+ (3)   Based on a Form 13F filed with the Commission on August 13, 2018. The Form 13F that Renaissance Technologies LLC has sole voting power over 717,815 of these shares and sole or shared dispositive power over all of these shares.  
+[END TABLE]
+Security Ownership of Management
+The following table lists the number of shares of our common stock beneficially owned, as of October 26, 2018, by each director and director nominee, each of our executive officers, certain members of our senior management, and by our directors, nominees and executive officers as a group. In general, beneficial ownership includes those shares a person has the power to vote or transfer, as well as shares owned by immediate family members who live with that person.
+[BEGIN TABLE]
+  Name        Number of Shares       Approximate   			Percentage   			of Outstanding Common Stock    
+  Name        Number of Shares       Approximate   			Percentage   			of Outstanding Common Stock    
+ Leon Kopyt(3)      572,734       4.7% 
+ Richard D. Machon      44,289       *   
+ S. Gary Snodgrass(4)      44,640       *   
+ Bradley S. Vizi(5)      37,378       *   
+ Rocco Campanelli      164,269       1.3% 
+ Kevin D. Miller      451,231       3.7% 
+ Michael Saks      78,843       *   
+ Other executive officers      18,777       *   
+ All directors and executive officers as a group (11 persons)      1,501,667       12.2% 
+[END TABLE]
+__________
+[BEGIN TABLE]
+ *   Represents less than one percent of our outstanding common stock.  
+[END TABLE]
+[BEGIN TABLE]
+ (1)   Includes 5,839 shares issuable upon the vesting of restricted stock units on December 8, 2018.  
+[END TABLE]
+[BEGIN TABLE]
+ (2)   Includes 5,839 shares issuable upon the vesting of restricted stock units on December 8, 2018.  
+[END TABLE]
+[BEGIN TABLE]
+ (3)   Includes 5,839 shares issuable upon the vesting of restricted stock units on December 8, 2018.  
+[END TABLE]
+[BEGIN TABLE]
+ (4)   Includes 5,839 shares issuable upon the vesting of restricted stock units on December 8, 2018.  
+[END TABLE]
+[BEGIN TABLE]
+ (5)   Includes 5,839 shares issuable upon the vesting of restricted stock units on December 8, 2018.  
+[END TABLE]
+PROPOSAL 1  ___________________________ELECTION OF DIRECTORS
+Stockholders are being asked to elect five (5) directors at the Annual Meeting, each to serve until their successors are duly elected at the 2019 annual meeting and qualified. Your Board has nominated for election as director Roger H. Ballou, Rick Genovese, Leon Kopyt, S. Gary Snodgrass and Bradley S. Vizi. All but Mr. Genovese are current members of the Board. One of our current directors, Maier O. Fein, who has served as a member of the Board of Directors since 2012, will not stand for reelection following the completion of his term at the Annual Meeting.
+Messrs. Ballou, Genovese, Kopyt, Snodgrass and Vizi have consented to serve a term on our Board of Directors, and the persons named as proxy holders on the enclosed proxy card, Mr. Vizi and Mr. Miller, intend to vote FOR the election of Messrs. Ballou, Genovese, Kopyt, Snodgrass and Vizi unless you mark a contrary instruction on your proxy card. Unless you indicate otherwise on your proxy card, if any of Messrs. Ballou, Genovese, Kopyt, Snodgrass or Vizi is unable to serve as a director at the time of the Annual Meeting, Mr. Vizi or Mr. Miller will vote FOR the election of another person that the Board may nominate in their place.
+Set forth below are brief descriptions of the nominees for election as director and of the continuing directors. The descriptions for the directors set forth the experience, qualifications, attributes and skills that have led the Board's Nominating and Governance Committee and the Board to conclude that these individuals should serve as directors.
+OUR BOARD OF DIRECTORS RECOMMENDS A VOTE FOR THE ELECTION OF ROGER H. BALLOU, RICK GENOVESE, LEON KOPYT, S. GARY SNODGRASS AND BRADLEY S. VIZI AS MEMBERS OF OUR BOARD OF DIRECTORS.
+Nominees for Election as Directors
+Roger H. Ballou, Director since 2013, age 67
+Mr. Ballou currently serves as a director of Univest Corporation of Pennsylvania (NASDAQ: UVSP), a Pennsylvania bank, and Alliance Data Systems Corporation (NYSE: ADS), a provider of transaction-based, data-driven marketing and loyalty solutions.  Until July 2016, Mr. Ballou served as Chairman of Fox Chase Bankcorp, Inc. Mr. Ballou previously served as the Chief Executive Officer and a director of CDI Corporation, a company that offers engineering, information technology and professional staffing solutions, from 2001 until 2011. Mr. Ballou had served as Chairman and Chief Executive Officer of Global Vacation Group, Inc. from 1998 to 2000. He was a senior advisor for Thayer Capital Partners from 1997 to 1998. From 1995 to 1997, Mr. Ballou served as Vice-Chairman and Chief Marketing Officer, then as President and Chief Operating Officer, of Alamo Rent A Car, Inc.  Before joining Alamo, for more than 16 years, he held several positions with American Express, culminating in his appointment as President of the Travel Services Group.
+Mr. Ballou's extensive public board and executive management experience and personal knowledge of the Company's business segments, in particular its Engineering and Information Technology segments, allow him to make significant contributions in all facets of the business.
+Nominees for Election as Directors (Continued)
+Rick Genovese, age 64
+Mr. Genovese is currently engaged in private equity consultation roles related to turnaround and asset acquisition and disposition activities. From February 2012 to January 2014, Mr. Genovese served as the Chief Operating Officer and Executive Vice President of CIBER, Inc. and as its Executive Vice President of North American Operations from September 2011 to February 2012.  Prior to joining CIBER, Mr. Genovese worked at various technology and consulting leaders including IBM, Price Waterhouse Coopers (PWC) and Electronic Data Systems (EDS). At IBM, he served as General Manager of Application Services for the Americas, the largest offering group within IBM's Global Business Services. Prior to that, he was General Manager of the IBM Business Process Outsourcing practice for the Americas and also Managing Partner for the Global Business Services Communications sector. He joined IBM through its acquisition of PWC in 2002, where he was Managing Partner of Business Process Outsourcing for the Americas, and Managing Partner for the Global Energy Consulting Practice. At PWC, Mr. Genovese was admitted as a partner in 1990. He began his career at EDS, where he was a principal.
+Mr. Genovese's extensive experience in senior operating and financial roles provides direct relevance to the day to day issues facing the Company. Additionally, with a skills base founded in information technology services and human capital management there is direct relevance to Company's performance criteria.
+Leon Kopyt, Director since 1991, age 73
+Mr. Kopyt has been our Founder and Chairman Emeritus since September 1, 2015. Previously, Mr. Kopyt served as our Chairman of the Board since 1992, as our President & Chief Executive Officer from 1994 to February 2014, as our Chief Financial Officer and Treasurer from 1992 to 1994, and as our Chief Operating Officer from 1990 to 1992. Prior to joining RCM, Mr. Kopyt was President and CEO of a European-based industrial corporation involved in the design and manufacture of a broad range of transportation and defense products for domestic and international markets as well as related services in international trade and finance. His previous professional experiences include engineering, management and executive positions with Crane Company, Pennsalt Chemicals, Budd Company, General Electric and Metropolitan Transportation Authority in New York.
+Mr. Kopyt's extensive experience in leading the Company in an executive capacity for 25 years makes Mr. Kopyt a valuable member of our Board.
+S. Gary Snodgrass, Director since 2010, age 67
+Mr. Snodgrass retired from Exelon Corporation in 2007 after ten years of employment as Executive Vice President and Chief Human Resources and Security Officer. Prior to joining Exelon, Mr. Snodgrass was employed by USG Corporation as Vice President of Human Resources from 1973 to 1997. Since 2008, Mr. Snodgrass has been Managing Director of Snodgrass and Associates and Co-Founder and President of the Snodgrass Family Foundation. He served as Mayor of the City of St. Augustine Beach, FL in 2012 and 2013, and City Commissioner from 2014 to 2017. Mr. Snodgrass is also an Adjunct Professor of Business for Flagler College in St. Augustine, FL.
+Mr. Snodgrass's extensive experience as a human resources executive facilitates his valuable insights in general and, more specifically, his contributions regarding human resources operational initiatives and issues.
+Nominees for Election as Directors (Continued)
+Bradley S. Vizi, Director since 2013, age 34
+Mr. Vizi has served as our Executive Chairman since June 1, 2018. Previously Mr. Vizi served as our Chairman of the Board since September 1, 2015 and a board member since December 5, 2013. Since February 12, 2016, Mr. Vizi has served as a member of the Board of Directors at L.B. Foster (NASDAQ: FSTR), a leading manufacturer, fabricator, and distributor of products and services for the rail, construction, energy and utility markets with locations in North America and Europe.  Mr. Vizi is Chief Investment officer of Convoy Capital, a Los Angeles based asset management firm primarily focused on small-cap publicly traded companies.  Mr. Vizi founded Legion Partners Management, Inc. in 2010 and Legion Partners Asset Management, LLC in 2012, where he served as Managing Director and Portfolio Manager until October 2017.  From 2007 to 2010, Mr. Vizi was an investment professional at Shamrock Capital Advisors, Inc. ("Shamrock"), the alternative investment vehicle of the Disney Family.  Prior to Shamrock, from 2006 to 2007, Mr. Vizi was an investment professional with the private equity group at Kayne Anderson Capital Advisors L.P.
+Mr. Vizi's significant financial and investment experience are particularly valuable in the areas of capital allocation, compensation planning, corporate governance and marketing the Company to the investment community.
+OUR EXECUTIVE OFFICERS
+The following table lists our executive officers. Our Board elects our executive officers annually for terms of one year and may remove any of our executive officers with or without cause.
+[BEGIN TABLE]
+ Name   Age   Position  
+ Bradley S. Vizi   34   Executive Chairman & President  
+ Kevin D. Miller   52   Chief Financial Officer, Treasurer and Secretary  
+ Michael Boyle   47   Division President, Information Technology Services  
+ Frank Petraglia   62   Division President, Engineering Services  
+ Michael Saks   62   Division President, Health Care Services  
+[END TABLE]
+Bradley S. Vizi. See above.
+Kevin D. Miller has served as our Chief Financial Officer, Secretary and Treasurer since October 2008. From July 1997 until September 2008, he was Senior Vice President of RCM. From 1996 until July 1997, Mr. Miller served as an Associate in the corporate finance department of Legg Mason Wood Walker, Incorporated. From 1995 to 1996, Mr. Miller was a business consultant for the Wharton Small Business Development Center. Mr. Miller previously served as a member of both the audit and corporate finance groups at Ernst & Young LLP.
+Michael Boyle has served as our Division President of Information Technology Services since June 2018. From February 2018 to June 2018 he was our Senior Vice President, IT Consulting & Solutions. Prior to joining RCM, Mr. Boyle was Chief Operating Officer of MDT Holdings and has held senior sales management positions with Spherion and Kforce. Mr. Boyle has a wealth of IT operational and sales experience.
+Frank Petraglia has served as our Division President of Engineering Services since June 2018. From December 2014 until June 2018 he was the Senior Vice President of our Energy Services Group. Prior to joining RCM, Mr. Petraglia spent the last ten years in leadership positions with Siemens Energy and Mitsubishi Electric Power Products. He has extensive experience with highly engineered systems, including serving as the Vice President of High Voltage Solutions for Siemens US and General Manager of the Substation Division for Mitsubishi.
+Michael Saks has served as our Division President of Health Care Services since June 2018. From May 2007 to June 2018 he was the Senior Vice President and General Manager of our Health Care Services Division. From January 1994 until May 2007 he was the Vice President and GM of our Health Care Services Division. Prior to joining RCM, Mr. Saks served as a corporate executive at MS Executive Resources, MA Management and Group 4 Executive Search. Mr. Saks has over 31 years of executive management, sales and recruiting experience.
+EXECUTIVE COMPENSATION
+The Compensation Committee of the Board has responsibility for establishing, implementing and continually monitoring adherence with the Company's compensation philosophy. The Compensation Committee seeks to ensure that the total compensation paid to the executives is fair, reasonable and competitive. Generally, the types of compensation and benefits provided to our executives, including the named executive officers, are similar to those provided to other executive officers.
+The following discussion makes reference to our former President and Chief Executive Officer, Rocco Campanelli, who ceased to serve in those capacities as of June 1, 2018. Mr. Campanelli was our President and Chief Executive Officer through our fiscal year ended December 31, 2017.
+During 2015, as part of our ongoing effort to better align our leadership, corporate governance structure and compensation methodologies with the interests and perspectives of our stockholders, members of our Board of Directors and management team spoke with stockholders representing a majority of our ownership. Mindful of the input of these stockholders and motivated by our commitment to the implementation of best practices in corporate governance and compensation, the Compensation Committee and our Board have undertaken over the last two years a series of efforts with respect to compensation reform, including the following steps:
+[BEGIN TABLE]
+● Limiting executive severance cash pay-outs to no more than 24 months' base salary and bonus;  
+[END TABLE]
+[BEGIN TABLE]
+● Prohibiting tax gross-ups in all future employment agreements;  
+[END TABLE]
+[BEGIN TABLE]
+● Requiring future employment agreements to contain a "double trigger" with respect to executive change-in-control payments;  
+[END TABLE]
+[BEGIN TABLE]
+● Adopting an incentive payment claw back policy for named executive officers; and  
+[END TABLE]
+[BEGIN TABLE]
+● Developed the conceptual framework for a long term incentive plan containing performance-based stock units for the Company's Chief Executive Officer and Chief Financial Officer, which, as discussed below, was initially implemented in fiscal year 2016.  
+[END TABLE]
+Since the implementation of the new long term incentive plan described above, three grants have been made under this program. On each of March 20, 2016, March 24, 2017, and April 5, 2018 the Compensation Committee made grants of 120,000 performance stock units ("PSUs") to Mr. Campanelli and 80,000 PSUs to Mr. Miller. The number of PSUs that will ultimately be earned and vested under these grants shall be determined based on the level of achievement of certain performance goals tied to operating earnings and stockholder return performance during performance periods beginning on January 3, 2016 and ending on December 29, 2018, with respect to the 2016 grant, January 1, 2017 and ending on December 28, 2019, with respect to the 2017 grant, and December 31, 2017 and ending on January 2, 2021, with respect to the 2018 grant; provided, that if a Change in Control (as defined in the Company's 2014 Omnibus Equity Compensation Plan (the "2014 Plan")) occurs prior to the end of the performance period set forth above, then the last day of the performance period shall be the last day of the Company's fiscal quarter that immediately precedes the date of the Change in Control.
+For 2017, Mr. Campanelli's and Mr. Miller's non-equity incentive plan compensation was payable in cash, and was paid based on achievement of targets set for operating income growth and year-over-year reduction of our average days sales outstanding.  Mr. Campanelli and Mr. Miller earned cash bonuses for fiscal 2017 of $87,500 and $56,250 respectively. 
+Summary Compensation Table
+The following table lists, for our fiscal years ended December 30, 2017 and December 31, 2016, cash and other compensation paid to, or accrued by us, for our chief executive officer during our fiscal year ended December 30, 2017 and each of the persons who, based upon total annual salary, annual incentive compensation and bonus, was one of our other two most highly compensated executives during the fiscal year ended December 30, 2017.
+[BEGIN TABLE]
+ Name and Principal Position   Year     Salary       Non-Equity Incentive Plan Compensation         Equity Awards(1)       All Other Compensation(2)       Total    
+ Name and Principal Position   Year     Salary       Non-Equity Incentive Plan Compensation         Equity Awards(1)       All Other Compensation(2)       Total    
+ Rocco Campanelli   2017    $ 400,000     $ 87,500     $ -     $ 37,164     $ 524,664   
+ President and CEO (3)   2016    $ 400,000     $ 25,000     $ -     $ 36,538     $ 461,538   
+ Kevin D. Miller   2017    $ 370,000     $ 56,250     $ -     $ 55,754     $ 482,004   
+ CFO, Treasurer and Secretary   2016    $ 370,000     $ 37,500     $ -     $ 54,814     $ 462,314   
+ Michael Saks   2017    $ 260,000     $ 165,000     $ -     $ 29,417     $ 454,417   
+ Sr. VP Health Care Services   2016    $ 250,000     $ 145,574     $ -     $ 29,270     $ 424,844   
+[END TABLE]
+[BEGIN TABLE]
+   (1)   Rocco Campanelli and Kevin Miller were each awarded 120,000 and 80,000 performance based restricted share units both on March 20, 2016 and March 24, 2017 for total performance based restricted share units of 240,000 and 160,000, respectively. At all times from inception through December 31, 2017, the Company has deemed these performance-based restricted share units as unlikely to vest based on the performance metrics required for vesting. Therefore, the Company has recognized no compensation expense related to these performance-based restricted share units in its fiscal 2016 or fiscal 2017 financial statements as set forth in note 11 to our consolidated financial statements in our Annual Report on Form 10-K for the fiscal year ended December 30, 2017 filed with the Commission. Were the performance metrics to be achieved and based upon the grant date fair value of the performance based restricted share units calculated in accordance with Financial Accounting Standards Board Accounting Standards Codification ("ASC") Topic 718, such performance based restricted share units would be worth as much as $643,200 and $582,000 for Rocco Campanelli for fiscal 2016 and fiscal 2017, respectively, and $428,800 and $388,000 for Kevin Miller for fiscal 2016 and fiscal 2017, respectively.  
+[END TABLE]
+[BEGIN TABLE]
+   (2)   This amount represents (i) premiums we paid during 2017 for medical, dental, vision, life and disability insurance on each of the officers named in this table as follows: Rocco Campanelli: $24,935; Kevin Miller: $40,528; and Michael Saks: $17,992; (ii) matching contributions in the amount of $625 that were made for the 2017 fiscal year for each of the officers named in this table, in accordance with RCM's retirement savings plan adopted pursuant to Section 401(k) of the Internal Revenue Code of 1986, as amended; and (iii) the following approximated amounts for Company leased automobiles or monthly automobile allowances and related expenses: Rocco Campanelli: $11,604; Kevin Miller: $14,601; and Michael Saks: $10,800.  
+[END TABLE]
+[BEGIN TABLE]
+   (3)   Mr. Campanelli ceased to serve as the Company's President and CEO as of June 1, 2018.  
+[END TABLE]
+During our 2017 and 2016 fiscal years, certain of the officers named in this table received personal benefits not reflected in the amounts of their respective annual salaries or bonuses. The dollar amount of these benefits did not, for any individual in any fiscal year, exceed $10,000.
+Outstanding Equity Awards at Fiscal Year-End
+The following table sets forth information concerning unvested restricted share units as of December 30, 2017. No options to purchase common stock were outstanding on such date.
+[BEGIN TABLE]
+ Name     Number of Shares or Units of Stock That Have Not Vested       Market Value of Shares or Units of Stock That Have Not Vested       Equity Incentive Plan Awards: Number of Unearned Shares, Units or Other Rights That Have Not Vested(1)       Equity Incentive Plan Awards: Market or Payout Value of Unearned Shares, Units or Other Rights That Have Not Vested(2)    
+ Name     Number of Shares or Units of Stock That Have Not Vested       Market Value of Shares or Units of Stock That Have Not Vested       Equity Incentive Plan Awards: Number of Unearned Shares, Units or Other Rights That Have Not Vested(1)       Equity Incentive Plan Awards: Market or Payout Value of Unearned Shares, Units or Other Rights That Have Not Vested(2)    
+ Name     Number of Shares or Units of Stock That Have Not Vested       Market Value of Shares or Units of Stock That Have Not Vested       Equity Incentive Plan Awards: Number of Unearned Shares, Units or Other Rights That Have Not Vested(1)       Equity Incentive Plan Awards: Market or Payout Value of Unearned Shares, Units or Other Rights That Have Not Vested(2)    
+ Name     Number of Shares or Units of Stock That Have Not Vested       Market Value of Shares or Units of Stock That Have Not Vested       Equity Incentive Plan Awards: Number of Unearned Shares, Units or Other Rights That Have Not Vested(1)       Equity Incentive Plan Awards: Market or Payout Value of Unearned Shares, Units or Other Rights That Have Not Vested(2)    
+ Name     Number of Shares or Units of Stock That Have Not Vested       Market Value of Shares or Units of Stock That Have Not Vested       Equity Incentive Plan Awards: Number of Unearned Shares, Units or Other Rights That Have Not Vested(1)       Equity Incentive Plan Awards: Market or Payout Value of Unearned Shares, Units or Other Rights That Have Not Vested(2)    
+ Name     Number of Shares or Units of Stock That Have Not Vested       Market Value of Shares or Units of Stock That Have Not Vested       Equity Incentive Plan Awards: Number of Unearned Shares, Units or Other Rights That Have Not Vested(1)       Equity Incentive Plan Awards: Market or Payout Value of Unearned Shares, Units or Other Rights That Have Not Vested(2)    
+ Name     Number of Shares or Units of Stock That Have Not Vested       Market Value of Shares or Units of Stock That Have Not Vested       Equity Incentive Plan Awards: Number of Unearned Shares, Units or Other Rights That Have Not Vested(1)       Equity Incentive Plan Awards: Market or Payout Value of Unearned Shares, Units or Other Rights That Have Not Vested(2)    
+ Kevin D. Miller      --       --       80,000       $500,000   
+ Michael Saks      --       --       --       --   
+[END TABLE]
+____________
+[BEGIN TABLE]
+   (1)   Consists of performance-based restricted share units awarded on March 20, 2016 and March 24, 2017, assuming achievement of the applicable performance goals at the lowest threshold level of achievement (assumes 50% vesting). The Company does not consider any of these performance-based restricted share units as likely to vest.  
+[END TABLE]
+[BEGIN TABLE]
+   (2)   Calculated by multiplying the number of shares in the preceding column by $6.25, the closing price per share of the Company's common stock on December 29, 2017, the last trading day of our last fiscal year.  
+[END TABLE]
+ Compensation of Directors 
+Our employee directors do not receive any compensation for serving on our Board or its committees, other than the compensation they receive for serving as employees of RCM.
+In 2014, the Compensation Committee engaged Towers Watson as an independent consultant to assist it in altering the structure of compensation to the Board's non-employee members. Ultimately, the Compensation Committee recommended to the Board, and the Board adopted, the following revised compensation structure for non-employee members of the Board, which was implemented beginning with the 2015 fiscal year and continued to be utilized through our fiscal year ended December 30, 2017:
+[BEGIN TABLE]
+● Annual cash retainer of $40,000, payable in equal monthly installments.  
+[END TABLE]
+[BEGIN TABLE]
+● No meeting fees for up to five Board meetings in each calendar year. For each meeting in calendar year in excess of five, each Board member shall receive a cash payment of $1,500 for an in-person Board meeting and $750 for a telephonic meeting.  
+[END TABLE]
+[BEGIN TABLE]
+● Annual equity grants of $40,000, in the form of RSUs with 1-year vesting feature (subject to acceleration upon Change in Control or separation from service in the same manner as the RSU grants made in December 2014), with delivery of the shares of common stock underlying to such RSUs to be made upon vesting; provided that, except for sales of shares in an amount no greater than required to generate an amount equal to the income tax on such shares, non-employee directors shall be required to retain shares delivered upon vesting unless, immediately following any such sale, such director would comply with the Company's ownership guidelines.  
+[END TABLE]
+[BEGIN TABLE]
+● Payment of the following additional annual retainers: Chairman of the Board $10,000; Lead Independent Director $10,000 (who shall serve only at such time as the Board does not have an independent chair); Audit Committee chair $10,000; Compensation Committee chair $7,500.  
+[END TABLE]
+[BEGIN TABLE]
+● No other committee fees, for service or for meetings.  
+[END TABLE]
+On June 1, 2018, the Compensation Committee recommended to the Board certain minor modifications in the structure of compensation to the Board's non-employee members. On that date the Board adopted the following revised compensation structure for non-employee members of the Board, which was implemented upon adoption:
+[BEGIN TABLE]
+● Annual cash retainer of $45,000, payable in equal monthly installments.  
+[END TABLE]
+[BEGIN TABLE]
+● No meeting fees.  
+[END TABLE]
+[BEGIN TABLE]
+● Annual equity grants of $45,000, in the form of RSUs with 1-year vesting feature (subject to acceleration upon Change in Control or separation from service in the same manner as the RSU grants made in December 2017), with delivery of the shares of common stock underlying to such RSUs to be made upon vesting; provided that, except for sales of shares in an amount no greater than required to generate an amount equal to the income tax on such shares, non-employee directors shall be required to retain shares delivered upon vesting unless, immediately following any such sale, such director would comply with the Company's ownership guidelines.  
+[END TABLE]
+[BEGIN TABLE]
+● Payment of the following additional annual retainers: Chairman of the Board (if independent) $25,000; Lead Independent Director $25,000 (who shall serve only at such time as the Board does not have an independent chair); Audit Committee chair $10,000; Compensation Committee chair $10,000; Nominating and Corporate Governance Committee chair $5,000.  
+[END TABLE]
+[BEGIN TABLE]
+● No other committee fees, for service or for meetings.  
+[END TABLE]
+Compensation of Directors (Continued)
+The following table lists cash and other compensation paid to, or accrued by us for, our Board of Directors for our fiscal year ended December 30, 2017.
+Director Compensation Table
+[BEGIN TABLE]
+ Name and Principal Position     Fees Earned Or Paid In Cash           Equity Awards(1)       All Other Compensation       Total    
+ Name and Principal Position     Fees Earned Or Paid In Cash           Equity Awards(1)       All Other Compensation       Total    
+ Name and Principal Position     Fees Earned Or Paid In Cash           Equity Awards(1)       All Other Compensation       Total    
+ Leon Kopyt    $44,500     $39,997     -     $84,497   
+ Richard D. Machon (2)    $44,500     $39,997     -     $84,497   
+ S. Gary Snodgrass    $52,000     $39,997     -     $91,997   
+ Bradley S. Vizi    $54,500     $39,997     -     $94,497   
+[END TABLE]
+[BEGIN TABLE]
+   (1)   These amounts are based upon the grant date fair value of the option awards calculated in accordance with ASC Topic 718. The assumptions used in determining the amounts in the column are set forth in Note 11 to our consolidated financial statements in our Annual Report on Form 10-K for the fiscal year ended December 30, 2017 filed with the Commission. As of December 30, 2017, each director had 5,839 unvested restricted share units outstanding.  
+[END TABLE]
+[BEGIN TABLE]
+   (2)   Mr. Machon retired from the Board on June 1, 2018.  
+[END TABLE]
+Executive Severance Agreements and Change in Control Agreements
+During the fiscal year ended December 31, 2017, the Company was a party to Executive Severance Agreements (the "Executive Severance Agreements") with Rocco Campanelli, the Company's President and Chief Executive Officer during that year, and Kevin Miller, the Company's Chief Financial Officer. The Executive Severance Agreements set forth the terms and conditions of certain payments to be made by the Company to each executive in the event, while employed by the Company, such executive experiences (a) a termination of employment unrelated to a "Change in Control" (as defined therein) or (b) there occurs a Change in Control and either (i) the executive's employment is terminated for a reason related to the Change in Control or (ii) the executive remains continuously employed with the Company for a specified period of time following the Change in Control (i.e., twelve months for Mr. Campanelli and three months for Mr. Miller).
+Under the terms of the Executive Severance Agreements, if either (a) the executive is involuntarily terminated by the Company for any reason other than "Cause" (as defined therein), "Disability" (as defined therein) or death, or (b) the executive resigns for "Good Reason" (as defined therein), and, in each case, the termination is not a "Termination Related to a Change in Control" (as defined below), the executive will receive the following severance payments: (i) an amount equal to 1.5 times the sum of (a) the executive's annual base salary as in effect immediately prior to the termination date (before taking into account any reduction that constitutes Good Reason) ("Annual Base Salary") and (b) the highest annual bonus paid to the executive in any of the three fiscal years immediately preceding the executive's termination date ("Bonus"), to be paid in installments over the twelve month period following the executive's termination date; and (ii) for a period of eighteen months following the executive's termination date, a monthly payment equal to the monthly COBRA premium that the executive is required to pay to continue medical, vision, and dental coverage, for himself and, where applicable, his spouse and eligible dependents.
+Notwithstanding the above, if the executive has a termination as described above and can reasonably demonstrate that such termination would constitute a Termination Related to a Change in Control, and a Change in Control occurs within 120 days following the executive's termination date, the executive will be entitled to receive the payments set forth below for a Termination Related to a Change in Control, less any amounts already paid to the executive, upon consummation of the Change in Control.
+Under the terms of the Executive Severance Agreements, if a Change in Control occurs and (a) the executive experiences a Termination Related to a Change in Control on account of (i) an involuntary termination by the Company for any reason other than Cause, death, or Disability, (ii) an involuntary termination by the Company within a specified period of time following a Change in Control (i.e., twelve months for Mr. Campanelli and three months for Mr. Miller) on account of Disability or death, or (iii) a resignation by the executive with Good Reason; or (b) a resignation by the executive, with or without Good Reason, which results in a termination date that is the last day of the specified period (i.e., twelve months for Mr. Campanelli and three months for Mr. Miller) following a Change in Control, then the executive will receive the following severance payments: (1) a lump sum payment equal to two times the sum of the executive's (a) Annual Base Salary and (b) Bonus; and (2) a lump sum payment equal to twenty-four multiplied by the monthly COBRA premium cost, as in effect immediately prior to the executive's termination date, for the executive to continue medical, dental and vision coverage, as applicable, in such Company plans for himself and, if applicable, his spouse and eligible dependents. Upon the occurrence of a Change in Control, the Company shall establish an irrevocable rabbi trust and contribute to the rabbi trust the applicable amounts due under the Executive Severance Agreements.
+Executive Severance Agreements and Change in Control Agreements (Continued)
+The Executive Severance Agreements provide that if the executive remains continuously employed for a specified period of time following a Change in Control (i.e., twelve months for Mr. Campanelli and three months for Mr. Miller) and is employed by the Company on the last day of such specified period, the executive will receive a lump sum payment equal to two times the sum of the executive's (a) Annual Base Salary and (b) Bonus (the "Change in Control Payment"). If the executive receives the Change in Control Payment, the executive will not be eligible to receive any severance payments under his Executive Severance Agreement.
+Mr. Saks, along with several other members of the Company's senior management (not including Messrs. Campanelli and Miller), is covered by our Change in Control Plan for Selected Executive Management (the "CIC Plan").
+The CIC Plan sets forth the terms and conditions of severance and benefits to be provided to a covered employee in the event (a) the covered employee experiences a covered termination of employment after a "Potential Change in Control" (as defined in the CIC Plan), but prior to a "Change in Control" (as defined in the CIC Plan), and a Change in Control that relates to the Potential Change in Control occurs within the six month period following the covered employee's termination, or (b) the covered employee is employed by the Company on the date of a Change in Control. The CIC Plan also sets forth the terms and conditions of severance payments to be made to a covered employee in the event such employee is employed on the date of a Change in Control and is subsequently terminated on account of a covered termination during his "Designated Severance Period" (a period specified by the Company for each covered employee that is measured from the date of an applicable Change in Control, which is 18 months for Mr. Saks.
+Under the terms of the CIC Plan, if a covered employee is (a) employed on the date of a Potential Change in Control, (b) terminated by the Company for a reason other than "Cause" (as defined in the CIC Plan), death, or disability, and (c) a Change in Control to which the Potential Change in Control relates occurs within the six month period following the covered employee's covered termination, the covered employee will receive, if the covered employee executes and does not revoke a release of claims, severance payments at the covered employee's annual base salary rate in regular payroll installments for the duration of the covered employee's Designated Severance Period. If the covered employee dies before receiving the entire amount that is owed, the remaining portion will be paid to the covered employee's estate. Severance payments will be discontinued if it is determined that the covered employee has engaged in any actions constituting Cause.
+Under the terms of the CIC Plan, if a covered employee is employed on the date of a Change in Control and the covered employee executes and does not revoke a release of claims:
+[BEGIN TABLE]
+● all outstanding Company equity-based awards granted to the covered employee prior to the date of the Change in Control will be immediately fully vested;  
+[END TABLE]
+[BEGIN TABLE]
+● the Compensation Committee may, in its sole discretion, determine that the covered employee will receive a pro-rated annual bonus if (a) the Committee determines that the Change in Control is an asset sale with respect to an entity in which the covered employee is associated, (b) the covered employee's employment with the Company terminates in connection with such asset sale, and (c) the covered employee was eligible to participate in the Company's annual bonus plan at the time of the Change in Control; any such pro-rated annual bonus will be determined based on the level of achievement under the annual bonus plan at the time of the Change in Control; and  
+[END TABLE]
+[BEGIN TABLE]
+● the Committee may, in its sole discretion, determine that the covered employee will receive a discretionary bonus upon a Change in Control.  
+[END TABLE]
+Executive Severance Agreements and Change in Control Agreements (Continued)
+Any bonuses paid under the CIC Plan upon a Change in Control will be paid in a single lump sum following the Change in Control.
+Under the terms of the Plan, if a covered employee's employment with the "Employer" (as defined in the CIC Plan) is terminated during the covered employee's Designated Severance Period following the occurrence of a Change in Control (a) by the Employer for any reason other than Cause, death, or disability, or (b) by the covered employee for "Good Reason" (as defined in the CIC Plan), and the covered employee executes and does not revoke a release of claims, the Employer will continue to pay to the covered employee his annual base salary in regular payroll installments for the remainder of the covered employee's Designated Severance Period. A covered employee is not eligible for severance benefits from the Company after a Change in Control if the Change in Control is an asset sale with respect to the covered employee and the successor to the Company offers the covered employee employment with a level of compensation and benefits that in the aggregate are at least as favorable as the level of the covered employee's compensation and benefits with the Company prior to the Change in Control. If the covered employee dies before receiving the entire amount that is owed, the remaining portion will be paid to the covered employee's estate. Severance payments will be discontinued if the Employer determines that the covered employee has engaged in any actions constituting Cause.
+COMPLIANCE WITH SECTION 16(A) OF THE EXCHANGE ACT
+We believe that, during our fiscal year ended December 30, 2017, our executive officers and directors made all required filings under Section 16(a) of the Securities Exchange Act on a timely basis. Our belief is based solely on:
+[BEGIN TABLE]
+● our review of copies of forms filed pursuant to Section 16(a) and submitted to us during and with respect to our fiscal year ended December 30, 2017 and  
+[END TABLE]
+[BEGIN TABLE]
+● representations from the Company's directors, executive officers and beneficial owners of more than 10% of our Common Stock that they have complied with all Section 16(a) filing requirements with respect to 2017.  
+[END TABLE]
+CORPORATE GOVERNANCE MATTERS
+Commitment to Best Practices. As discussed above with respect to executive compensation, RCM's leadership takes its fiduciary responsibility seriously and is similarly committed to the implementation of best practices in corporate governance. This has led to several developments in our corporate governance:
+[BEGIN TABLE]
+● Communications with Stockholders: In an ongoing effort to better align its leadership, corporate governance structure and compensation methodologies with the interests and perspectives of its stockholders, during the last year members of our Board and management team have spoken with stockholders representing a majority of RCM's ownership.  
+[END TABLE]
+[BEGIN TABLE]
+● Robust Stock Ownership Guidelines: Our Board has adopted robust stock ownership guidelines, which require covered persons to have a stock ownership position in the Company in an amount no less than the applicable multiple of their base salary, by increasing the applicable multiples. The revised multiples are:  
+[END TABLE]
+[BEGIN TABLE]
+   o   Chief Executive Officer – 6.0 times o   Chief Financial Officer – 6.0 times o   Executive Vice President – 2.0 times o   Group Senior Vice President (where covered) – 2.0 times o   Senior Vice President (where covered) – 2.0 times o   Non-Employee Director – 5.0 times  
+[END TABLE]
+[BEGIN TABLE]
+● Succession Planning: Our Board has engaged in succession planning during the past year, and has identified potential successors for all of our executive officers and for the leaders of each of the Company's major business units.  
+[END TABLE]
+Board Independence. The Board of Directors has determined that Roger H. Ballou, Maier O. Fein, Leon Kopyt and S. Gary Snodgrass are "independent directors" as defined in Marketplace Rule 4200(a)(15) of the NASDAQ Stock Market LLC. In this Proxy, these four directors are referred to individually as an "Independent Director" and collectively as the "Independent Directors."
+Stockholder Communications with the Board. Stockholders may send communications to the Board of Directors in writing, addressed to the full Board of Directors, individual directors or a specific committee of the Board of Directors, care of Kevin D. Miller, Secretary, RCM Technologies, Inc., 2500 McClellan Avenue, Suite 350, Pennsauken, New Jersey 08109. In general, all stockholder communications sent to our Secretary for forwarding to the Board of Directors, or to specified Board members, will be forwarded in accordance with the sender's instructions. However, our Secretary reserves the right to not forward to Board members any abusive, threatening or otherwise inappropriate materials.
+Director Attendance at Annual Meetings. The Company encourages all of the directors to attend the annual meeting of stockholders. The 2017 Annual Meeting of Stockholders was attended by all of our then current directors.
+Code of Conduct and Code of Ethics. We have adopted a Code of Conduct applicable to all of our directors, officers and employees. In addition, we have adopted a Code of Ethics, within the meaning of applicable Commission rules, applicable to our Chief Executive Officer, Chief Financial Officer and Controller. If we make any amendments to either of these Codes (other than technical, administrative, or other non-substantive amendments), or waive (explicitly or implicitly) any provision of the Code of Ethics to the benefit of our Chief Executive Officer, Chief Financial Officer or Controller, we will disclose the nature of the amendment or waiver, its effective date and to whom it applies in the investor relations portion of our website at www.rcmt.com, or in a report on Form 8-K that we file with the Commission.
+Related Party Transaction Approval Policy. Our Code of Conduct mandates that officers and directors bring promptly to the attention of our Compliance Officer, currently our Chief Financial Officer, any transaction or series of transactions that may result in a conflict of interest between that person and the Company. Furthermore, our Audit Committee must review and approve any "related party" transaction as defined in Item 404(a) of Regulation S-K, promulgated by the Securities and Exchange Commission, before it is consummated. Following any disclosure to our Compliance Officer, the Compliance Officer will then typically review with the Chairman of our Audit Committee the relevant facts disclosed by the officer or director in question. After this review, the Chairman of the Audit Committee and the Compliance Officer determine whether the matter should be brought to the Audit Committee or the full Board of Directors for approval. In considering any such transaction, the Audit Committee or the Board of Directors, as the case may be, will consider various relevant factors, including, among others, the reasoning for the Company to engage in the transaction, whether the terms of the transaction are at arm's length and the overall fairness of the transaction to the Company. If a member of the Audit Committee or the Board is involved in the transaction, he or she will not participate in any of the discussions or decisions about the transaction. The transaction must be approved in advance whenever practicable, and if not practicable, must be ratified as promptly as practicable.
+Risk Oversight by the Board. The role of our Board of Directors in our risk oversight process includes receiving regular reports from members of management on areas of material risk to us, including operational, financial, legal and strategic risks.
+In particular, our Audit Committee is tasked pursuant to its charter to "discuss significant financial risk exposures and the steps management has taken to monitor, control and report such exposures." As appropriate, the Chairman of the Audit Committee reports to the full Board of Directors on the activities of the Audit Committee in this regard, allowing the Audit Committee and the full Board to coordinate their risk oversight activities.
+As one component of our risk oversight and anti-fraud program, our Audit Committee has established complaint reporting procedures described under "Compliance Policy" in the "Investors" section of our website at www.rcmt.com. These procedures indicate how to submit complaints to our Audit Committee regarding concerns about our accounting practices, our adherence to financial policies and procedures, or our compliance with the Sarbanes-Oxley Act of 2002. Once received, grievances are reviewed by the Chairman of the Audit Committee for consideration.
+Board Leadership Structure. Our governance documents provide the Board with flexibility to select the appropriate leadership structure for the Company. In making leadership structure determinations, the Board may consider many factors, including the specific needs of our business and what is in the best interests of our stockholders. Our Chairman, or our Lead Independent Director if our Chairman is not independent: (i) presides at all meetings of the Board including presiding at executive sessions of the Board (without management present) at every regularly scheduled Board meeting, (ii) serves as a liaison between the management and the independent directors, (iii) approves meeting agendas, time schedules and other information provided to the Board, and (iv) is available for direct communication and consultation with major stockholders upon request. On June 1, 2018, in conjunction with Mr. Vizi's appointment as Executive Chairman and President, Mr. Ballou was designated by the Company's independent directors to serve as a Lead Independent Director.
+BOARD MEETINGS AND COMMITTEES
+Our Board of Directors has an Audit Committee, a Compensation Committee and a Nominating and Corporate Governance Committee. The committees report their actions to the full Board at the Board's next regular meeting. The following table shows on which of our Board's committees each of our directors served.
+Our Board of Directors held nine meetings in the fiscal year ended December 30, 2017. The Company does not have a specific written policy with regard to attendance of directors at our annual meetings of stockholders, although board member attendance is strongly encouraged. Each of our six directors attended at least 75% of the total number of meetings held by the Board and all committees on which the director served. At each meeting of the Board of Directors, there was an executive session attended only by the Independent Directors.
+[BEGIN TABLE]
+   Committee  
+ Board Member   Audit     Compensation     Nominating & Corporate Governance  
+ Board Member   Audit     Compensation     Nominating & Corporate Governance  
+ Roger H. Ballou   X*     X(1)     X*  
+ Maier O. Fein   X     X     X(1)  
+ S. Gary Snodgrass   X     X*     X(1)  
+ Bradley S. Vizi       (3)     (3)  
+[END TABLE]
+[BEGIN TABLE]
+ *   Chairperson  
+ (1)   The director joined this committee on June 1, 2018, and did not serve on the committee during the fiscal year ended December 30, 2017.  
+ (2)   Mr. Machon retired from the Board on June 1, 2018, and served on the Nominating & Corporate Governance Committee through the fiscal year ended December 30, 2017 and until the date of his retirement.  
+ (3)   Mr. Vizi served on this committee through the fiscal year ended December 30, 2017 and until he became the Company's Executive Chairman and President on June 1, 2018.  
+[END TABLE]
+General Duties of Each Committee
+The general duties of each committee are as follows:
+Audit Committee
+The Board of Directors has adopted a written Audit Committee Charter. A copy of the Audit Committee Charter is posted on our website under "Investor Relations - Corporate Governance."
+[BEGIN TABLE]
+● Reviews our financial and accounting practices, controls and results, reviews the scope and services of our auditors and appoints our independent auditors.  
+[END TABLE]
+[BEGIN TABLE]
+● Met four times during our fiscal year ended December 30, 2017.  
+[END TABLE]
+[BEGIN TABLE]
+● See "Report of the Audit Committee" below.  
+[END TABLE]
+[BEGIN TABLE]
+● Review and approve related parties transactions.  
+[END TABLE]
+Compensation Committee
+The Board of Directors has adopted a written Compensation Committee Charter. A copy of the Compensation Committee Charter is posted on our website under "Investor Relations - Corporate Governance."
+[BEGIN TABLE]
+● Determines the compensation of our officers and employees.  
+[END TABLE]
+[BEGIN TABLE]
+● Administers our stock option plans.  
+[END TABLE]
+[BEGIN TABLE]
+● Met four times during our fiscal year ended December 30, 2017.  
+[END TABLE]
+Nominating and Corporate Governance Committee
+The Board of Directors has adopted a written Nominating and Corporate Governance Committee Charter. A copy of the Nominating and Corporate Governance Committee Charter is posted on our website under "Investor Relations - Corporate Governance."
+[BEGIN TABLE]
+● Oversees the Board's review and consideration of shareholder recommendations for Director candidates.  
+[END TABLE]
+[BEGIN TABLE]
+● Oversees the Board's annual self-evaluation.  
+[END TABLE]
+[BEGIN TABLE]
+● Met one time during our fiscal year ended December 30, 2017.  
+[END TABLE]
+Independence of Committees
+The Board of Directors has determined each member of the Audit Committee, the Compensation Committee and the Nominating and Corporate Governance Committee of the Board meets the independence requirements applicable to members of those committees as prescribed by the NASDAQ Stock Market, LLC, the Commission and the Internal Revenue Service. The Board of Directors has further determined that Roger H. Ballou, Chair of the Audit Committee, is an "audit committee financial expert" as such term is defined in Item 407(d)(5) of Regulation S-K promulgated by the Commission.
+Director Nominations
+The Nominating and Corporate Governance Committee's charter does not include formal requirements for the nominating process. The Nominating and Corporate Governance Committee believes that candidates for director should meet certain minimum qualifications, including being able to read and understand financial statements, having substantial business experience, having high moral character and personal integrity, and having sufficient time to attend to their duties and responsibilities to RCM. Exceptional candidates who do not meet all of these criteria may still be considered. The Nominating and Corporate Governance Committee will also consider the potential director's independence, whether the member would be considered an "Audit Committee Financial Expert" as described in the applicable SEC standards, and the diversity that the potential director would add to the Board of Directors in terms of gender, ethnic background, and professional experience. With respect to their consideration of diversity of background, the Nominating and Corporate Governance Committee does not have a formal policy of assessing diversity with respect to any particular qualities or attributes.
+Director Nominations (Continued)
+The Nominating and Corporate Governance Committee identifies potential candidates through its members' networks of contacts, by soliciting recommendations from other directors or executive officers, major stockholders and, as appropriate, engaging search firms to identify and screen suitable director nominees. After the Nominating and Corporate Governance Committee has identified a potential candidate, publicly available information about the person is collected and reviewed. If the Nominating and Corporate Governance Committee decides to further pursue the potential candidate after this initial review, contact is made with the person. If the potential candidate expresses a willingness to serve on the Board of Directors, interviews are conducted with the potential candidate and additional information is requested. Candidates are chosen by a majority vote of the members of the Nominating and Corporate Governance Committee for recommendation to the Board of Directors.
+The Nominating and Corporate Governance Committee will consider stockholder recommendations for director candidates on the same basis as other candidates, provided that the following procedures are followed in submitting recommendations. All such stockholder recommendations for the 2019 meeting of stockholders should be submitted in writing to the attention of Kevin D. Miller, Secretary, RCM Technologies, Inc., 2500 McClellan Avenue, Suite 350, Pennsauken, New Jersey 08109 no earlier than August 16, 2019 and no later than September 15, 2019 and should be accompanied by (i) the potential candidate's five-year employment history with employer names and a description of the employer's business, the candidate's experience with financial statements, and the candidate's other board membership(s); (ii) a written consent of the director candidate to stand for election if nominated by the Nominating and Corporate Governance Committee and approved by the Board of Directors, and to serve if elected by the stockholders; and (iii) proof of ownership of RCM's common stock by the person submitting the recommendation.
+Communications with the Board
+Stockholders may send communications to the Board of Directors in writing, addressed to the full Board of Directors, individual directors or a specific committee of the Board of Directors, in care of Kevin D. Miller, Secretary, RCM Technologies, Inc., 2500 McClellan Avenue, Suite 350, Pennsauken, New Jersey 08109. In general, all stockholder communications sent to our Secretary for forwarding to the Board of Directors or to specified Board members will be forwarded in accordance with the sender's instructions. However, our Secretary reserves the right not to forward any personally abusive, threatening or otherwise inappropriate materials.
+PROPOSAL 2___________________________________________
+APPROVAL OF AMENDMENT TO THE
+RCM TECHNOLOGIES, INC. 2001 EMPLOYEE STOCK PURCHASE PLAN
+On October 19, 2018, our Board of Directors adopted, subject to stockholder approval, an amendment to the RCM Technologies, Inc. 2001 Employee Stock Purchase Plan (the "Stock Purchase Plan"). The affirmative vote of a majority of the votes cast on this proposal at the Annual Meeting are required to approve it. The amendment to the Stock Purchase Plan would increase by 300,000 shares of Common Stock the total number of shares authorized for purchase under the Stock Purchase Plan from 1,100,000 shares to 1,400,000 shares of Common Stock.
+If approved by our stockholders, the amendment to the Stock Purchase Plan will be effective on December 14, 2018. Stockholder approval of the amendment to the Stock Purchase Plan is necessary in order for the Stock Purchase Plan to continue to meet the requirements of Section 423 of the Internal Revenue Code of 1986, as amended (the "Code") and to comply with the corporate governance listing standards of NASDAQ.
+As of October 26, 2018, there were 86,403 shares of Common Stock available for purchase under the Stock Purchase Plan. Our Board of Directors believes that the currently available shares are insufficient for our compensatory program and, therefore, approved the increase in shares to be authorized under the Stock Purchase Plan. In this regard, our Board of Directors believes that our ability to attract, retain and motivate top quality employees is material to our success and is enhanced by our continued ability to provide for issuances under the Stock Purchase Plan. In addition, our Board of Directors believes that our interests and those of our stockholders will be advanced if we can continue to offer our employees the opportunity to acquire and increase their proprietary interests in us through the Stock Purchase Plan.
+The material terms of the Stock Purchase Plan, as it is proposed to be amended, are summarized below. The summary of the Stock Purchase Plan, as it is proposed to be amended, is not intended to be a complete description of the Stock Purchase Plan, as it is proposed to be amended, and is qualified in its entirety by the actual text of the amendment and the Stock Purchase Plan. A copy of the full text of the amendment to the Stock Purchase Plan is attached to this Proxy Statement as Exhibit A. A copy of the Stock Purchase Plan will be made available without charge to any person upon his or her written request, which request should be directed to the Director of Investor Relations at our address appearing on the first page of this proxy statement.
+Material Features of the Stock Purchase Plan
+General. The Stock Purchase Plan first became effective on January 1, 2001, and was thereafter amended effective July 1, 2004, July 1, 2009, September 16, 2009, and December 3, 2015 with the approval of our stockholders where required. The Stock Purchase Plan provides our eligible employees, as well as those of our subsidiaries, with an opportunity to purchase shares of our Common Stock at a discount based on their accumulated payroll deductions for the relevant purchase period. The Stock Purchase Plan is intended to comply with the applicable provisions of Section 423 of the Code. The Stock Purchase Plan is not intended to qualify under Section 401 of the Code and is not subject to the requirements of the Employee Retirement Income Security Act of 1974, as amended.
+The Stock Purchase Plan currently authorizes up to 1,100,000 shares of Common Stock for purchase, subject to adjustment in certain circumstances as described below. The stockholders are being asked to consider and approve an amendment to the Stock Purchase Plan that would, commencing on December 15, 2018, increase the number of shares of Common Stock available for purchase under the Stock Purchase Plan by an additional 300,000 shares, so that a total of 1,400,000 shares of Common Stock may be purchased under the Stock Purchase Plan.
+Eligibility. In general, all of our employees, as well as those of our subsidiaries, who customarily work more than 20 hours per week and more than five months a year are eligible to participate in the Stock Purchase Plan after working for us or one of our subsidiaries for at least six months. Employees who own 5% or more of the total combined voting power or value of all classes of our stock or our subsidiaries are not eligible to participate. As of October 26, 2018, approximately 2,400 employees were eligible to participate in the Stock Purchase Plan, of which 75 employees are currently participating in the Stock Purchase Plan.
+Administration. The Stock Purchase Plan is administered by our Compensation Committee. Our Compensation Committee has the authority and power to administer the Stock Purchase Plan and to make, adopt, institute and enforce rules and regulations not inconsistent with the provisions of the Stock Purchase Plan. The Compensation Committee will adopt and prescribe the contents of all forms required in connection with the administration of the Stock Purchase Plan, including the agreement by which an eligible employee may enroll as a participant in the Stock Purchase Plan, payroll withholding authorizations, requests for distributions of shares, and all other required notices under the Stock Purchase Plan. Our Compensation Committee has the fullest discretion permissible under law in the discharge of its duties, and its interpretations and decisions with respect to the Stock Purchase Plan are final and conclusive.
+Purchase Periods. There are two six-month Purchase Periods per year coinciding with our respective fiscal reporting periods. The first Purchase Period consists of the first and second quarters of our fiscal year and the second Purchase Period consists of the third and fourth quarters (a "Purchase Period").
+Election to Participate. An eligible employee generally must elect to participate in the Stock Purchase Plan 30 days before the first day of the applicable Purchase Period and such participation will continue for each successive Purchase Period until it is modified or discontinued by the eligible employee. By participating in the Stock Purchase Plan, a participant authorizes after-tax payroll deductions from his or her compensation for the purpose of funding the purchase of our Common Stock under the Stock Purchase Plan for the relevant Purchase Period. Payroll deductions are in whole percentages ranging from 1% to 10% of such participant's compensation; however, in no event may a participant authorize more than $20,000 per year toward the purchase of shares of Common Stock under the Stock Purchase Plan. Accumulated payroll deductions for a participant are not credited with any interest. Unless a participant ceases his or her participation in the Stock Purchase Plan, such participant may not change the percentage of his or her compensation deducted during a Purchase Period; however, a participant may change the percentage of compensation deducted to any permissible level effective as of the beginning of any subsequent Purchase Period by filing with the Compensation Committee a notice in such form and at such time in advance of the beginning Purchase Period in which the change is to be effective as the Compensation Committee determines.
+Purchase Date. On the last day of the purchase period (the "Purchase Date"), each participant will automatically be deemed to have exercised his or her option to purchase shares of Common Stock under the Stock Purchase Plan, unless such participant has notified the Compensation Committee, at such time in advance of the Purchase Date as the Compensation Committee determines, of his or her desire not to make such purchase. Subject to the limitations described below, on each Purchase Date, at the Purchase Price (as described below), the largest number of whole shares of Common Stock as can be purchased with the amounts withheld from the participant's compensation during the Purchase Period are purchased on behalf of the participant. Any amounts that are withheld from a participant's compensation in a Purchase Period and that remain after the purchase of whole shares of Common Stock on the Purchase Date will be held in the participant's account, without interest, and applied on the participant's behalf to purchase Common Stock on the next Purchase Date.
+Purchase Price. Unless our Compensation Committee determines otherwise, the purchase price per share of our Common Stock to be sold to participants under the Stock Purchase Plan is the lower of (i) 85% of the market value of a share of our Common Stock on the first day of the Purchase Period or (ii) 85% of the market value of a share of our Common Stock on the last day of the Purchase Period (the "Purchase Price").
+Limitation on Number of Shares that May be Purchased. The maximum number of shares of Common Stock that may be purchased for each participant on the Purchase Date of a Purchase Period is the lesser of (i) the number of whole shares of Common Stock that can be purchased by applying the full balance of the participant's withheld funds to the purchase of shares at the Purchase Price or (ii) the participant's proportionate part of the maximum number of shares of Common Stock available under the Stock Purchase Plan. In addition, unless the Compensation Committee determines otherwise prior to the beginning of a Purchase Period, the maximum number of shares of Common Stock that a participant may purchase during a Purchase Period is 1,500 shares of Common Stock, subject to adjustment as described below, and the maximum number of shares of Common Stock that all participants may purchase, in the aggregate, during a Purchase Period is 250,000 shares of Common Stock, subject to adjustment as described below.
+If any participant entitled to purchase shares pursuant to a Purchase Period would be deemed to own stock possessing five percent or more of the total combined voting power or value of all classes of our stock or one of our subsidiaries, the maximum number of shares of Common Stock that such person will be entitled to purchase pursuant to the Stock Purchase Plan will be reduced to that number which, when added to the number of shares of Common Stock that such person is deemed to own (excluding any number of shares of Common Stock that such person would be entitled to purchase under the Stock Purchase Plan), is one less than such five percent. Also, a participant may not purchase shares of Common Stock having an aggregate market value of more than $25,000, determined at the beginning of the Purchase Period, for any calendar year in which the Stock Purchase Plan is in effect.
+Lastly, if on any Purchase Date, the aggregate funds available for the purchase of shares of Common Stock exceeds the number of shares of Common Stock available for purchase under the Stock Purchase Plan, the number of shares of Common Stock that would be purchased by each participant will be proportionally reduced on the Purchase Date in order to eliminate the excess and the Stock Purchase Plan will terminate immediately after such Purchase Date.
+Termination of Participation. A participant may voluntarily cease his or her participation in the Stock Purchase Plan and stop payroll deductions during a Purchase Period by filing a notice of cessation of participation at such time in advance of the Purchase Date as the Compensation Committee determines. If the participant withdraws during a Purchase Period, the participant will receive a distribution of any funds held in his or her account for such Purchase Period.
+If a participant terminates his or her employment with us or one of our subsidiaries for any reason or otherwise ceases to be an eligible employee, his or her participation in the Stock Purchase Plan will automatically cease, no further purchases of Common Stock will be made for the participant, and we will pay to such participant any funds held in his or her account under the Stock Purchase Plan.
+Adjustment Provisions. The Stock Purchase Plan provides for a mandatory adjustment in the aggregate number of shares of Common Stock reserved for purchase under the Stock Purchase Plan, the maximum number of shares of Common Stock that may be purchased by a participant under the Stock Purchase Plan, the total number of shares of Common Stock that may be purchased by all participants in a Purchase Period, and the calculation of the Purchase Price per share in the event there is a change in the number or kind of shares of Common Stock outstanding as a result of a change in our shares of Common Stock as a result of certain capital adjustments affecting our Common Stock.
+Merger. If we are the surviving corporation in any merger or consolidation, any Purchase Period under the Stock Purchase Plan will apply to shares of our Common Stock. However, in the event we dissolve or are liquidated or a merger or consolidation occurs in which we are not the surviving corporation, the Stock Purchase Plan and any Purchase Period will terminate upon the effective date of such dissolution, liquidation, merger or consolidation, unless our Board of Directors determines otherwise, and the balance of any amounts withheld from a participant's compensation which have not been applied to the purchase of shares of Common Stock will be returned to the participant.
+Amendment and Termination of the Stock Purchase Plan. Our Board of Directors may, at any time, amend the Stock Purchase Plan, except for any amendment that is required to be approved by our stockholders under Section 423 of the Code. The Stock Purchase Plan is scheduled to terminate on December 31, 2025, unless otherwise amended with approval by our stockholders to extend the term of the Stock Purchase Plan.
+Purchases under the Stock Purchase Plan. As of October 26, 2018, 1,013,597 shares were purchased under the Stock Purchase Plan. If the amendment to the Stock Purchase Plan is approved, the total number of shares of Common Stock that may be purchased under the Stock Purchase Plan will be 1,400,000 shares, of which 386,403 shares will be available for purchase under the Stock Purchase Plan.
+The last sales price of our Common Stock on October 29, 2018 was $3.99 per share.
+Federal Income Taxes. The following provides only a general description of the application of the Federal income tax laws to purchases of shares of Common Stock under the Stock Purchase Plan. There may be different tax consequences under certain circumstances, and there may be federal gift and estate tax consequences and state and local tax consequences. All affected individuals should consult with their own advisors regarding their own situation since this discussion is intended for the information of the stockholders considering how to vote at the Annual Meeting and not as tax guidance to any participants in the Stock Purchase Plan.
+Under the Code as currently in effect, a participant in the Stock Purchase Plan will not be deemed to have recognized income, nor will we be entitled to a deduction, upon the participant's purchase of shares of Common Stock under the Stock Purchase Plan. Instead, a participant will recognize income when he or she sells or otherwise disposes of the shares of Common Stock.
+If a participant sells shares of Common Stock purchased under the Stock Purchase Plan more than two years after the date on which the option to purchase the shares of Common Stock was granted and more than one year after the purchase of the shares of Common Stock (the holding period), a portion of the participant's gain will be taxed as ordinary income and a portion will be taxed as capital gain. The participant will be taxed at ordinary income tax rates on the excess of the market value of the shares of Common Stock when the option was granted over the purchase price (i.e., the discount), or, if less, the entire gain on the sale. The participant will have additional capital gain or loss equal to the difference, if any, between the proceeds of the sale and the participant's basis in the shares of Common Stock (the purchase price plus any ordinary income realized). The capital gain rate will depend on how long the shares of Common Stock were held by the participant. We will not be entitled to any tax deduction with respect to a sale by a participant after the holding period.
+If a participant sells shares of Common Stock before the expiration of the holding period, the participant will be taxed at ordinary income tax rates equal to the difference between the market value of the shares of Common Stock on the date of purchase and the exercise price. We generally will be entitled to a corresponding deduction. The participant will have additional capital gain or loss on the difference between the proceeds of the sale and the participant's basis in the shares of Common Stock (the purchase price plus any ordinary income realized). The capital gain rate will depend on how long the shares of Common Stock were held by the participant.
+The estate of a participant who dies while holding shares of Common Stock purchased under the Stock Purchase Plan will recognize ordinary income in the year of the participant's death in an amount equal to the excess of the market value of the shares of Common Stock when the option was granted over the purchase price, or, if less, the amount by which the market value of the shares of Common Stock on the date of death exceeds the purchase price.
+OUR BOARD OF DIRECTORS RECOMMENDS A VOTE FOR APPROVAL OF THE AMENDMENT TO THE STOCK PURCHASE PLAN.
+PROPOSAL 3___________________________________________RATIFICATION OF THE SELECTION OF INDEPENDENT ACCOUNTANTS
+Our Audit Committee has selected EisnerAmper LLP ("EisnerAmper") to act in the capacity of independent accountants for the current fiscal year ending December 29, 2018. Ratification and approval by the stockholders will be sought by the Board of Directors for the selection of EisnerAmper as independent accountants to audit our accounts and records for the fiscal year ending December 29, 2018, and to perform other appropriate services. The affirmative vote of a majority of the votes cast on this proposal at the Annual Meeting is required to approve it. In the event that a majority of the shares voted at the Annual Meeting do not vote for ratification of the selection of EisnerAmper, the Audit Committee will reconsider such selection.
+Representatives of EisnerAmper will be present at the Annual Meeting and will have an opportunity to make a statement if they so desire and to respond to questions by stockholders.
+Fees Billed by EisnerAmper during fiscal 2017 and 2016 
+Audit Fees.  Fees billed to the Company by EisnerAmper for audit services rendered by EisnerAmper for the audit of the Company's 2017 annual financial statements, for the review of those financial statements included in the Company's Quarterly Reports on Form 10-Q, and for services that are normally provided by EisnerAmper in connection with statutory and regulatory filings or engagements, totaled approximately $181,560. Fees billed to the Company by EisnerAmper for audit services rendered by EisnerAmper for the audit of the Company's 2016 annual financial statements, for the review of those financial statements included in the Company's Quarterly Reports on Form 10-Q, and for services that are normally provided by EisnerAmper in connection with statutory and regulatory filings or engagements, totaled approximately $178,500.
+Audit-Related Fees. Fees billed to the Company by EisnerAmper during 2017 and 2016 for audit-related services that were reasonably related to the performance of the audit or review of the Company's financial statements and are not reported under the preceding paragraph totaled $0 in both fiscal years.
+Tax Fees. Fees billed to the Company by EisnerAmper during 2017 and 2016 for professional services rendered for tax compliance, tax advice and tax planning totaled $0 in both fiscal years.
+All Other Fees. Fees billed to the Company by EisnerAmper during 2017 and 2016 for all other services totaled $0 in both fiscal years. EisnerAmper does not audit the Company's 401(k) plan.
+The Audit Committee has considered whether EisnerAmper's provision of services other than professional services rendered for the audit and review of our financial statements is compatible with maintaining EisnerAmper's independence, and has determined that it is so compatible.
+All audit, audit-related, tax and other services were pre-approved by the Audit Committee pursuant to applicable regulations. The Audit Committee currently pre-approves all engagements of the Company's accountants to provide both audit and non-audit services, and has not established formal pre-approval policies or procedures. The Audit Committee did not approve any non-audit services pursuant to Rule 2-01 (c) (7) (i) (C) of Regulation S-X during 2017.
+OUR BOARD OF DIRECTORS RECOMMENDS A VOTE FOR THE RATIFICATION AND APPROVAL OF THE SELECTION BY OUR AUDIT COMMITTEE OF EISNERAMPER LLP AS OUR INDEPENDENT ACCOUNTANTS FOR FISCAL 2018.
+REPORT OF THE AUDIT COMMITTEE
+The following Report of the Audit Committee does not constitute soliciting material and should not be deemed filed or incorporated by reference into any other Company filing under the Securities Act of 1933 or the Securities Exchange Act of 1934, except to the extent the Company specifically incorporates this Report by reference therein.
+As part of its oversight of the Company's financial statements, the Audit Committee reviewed and discussed with both management and the Company's outside auditors all financial statements prior to their issuance. Management advised the Committee in each case that all financial statements were prepared in accordance with generally accepted accounting principles, and reviewed significant accounting issues with the Committee. These reviews included discussion with the outside auditors of matters required to be discussed pursuant to Public Company Accounting Oversight Board Auditing Standard No. 16.
+The Committee also discussed with EisnerAmper LLP matters relating to its independence, including a review of audit and non-audit fees and the written disclosures made and letter given to the Committee pursuant to the applicable requirements of the Public Company Accounting Oversight Board regarding the independent accountant's communications with the Audit Committee concerning independence.
+In addition, the Committee reviewed major initiatives and programs aimed at strengthening the effectiveness of the Company's internal control structure. As part of this process, the Committee continued to monitor the scope and adequacy of the Company's internal auditing program, reviewing staffing levels and steps taken to implement recommended improvements in internal procedures and controls.
+Taking all of these reviews and discussions into account, the Committee recommended to the Board of Directors that the Board approve the inclusion of the Company's audited financial statements in the Company's Annual Report on Form 10-K for the fiscal year ended December 30, 2017 for filing with the Securities and Exchange Commission.
+Audit Committee
+Roger H. Ballou (Chair)
+Maier O. Fein
+S. Gary Snodgrass
+PROPOSAL 4___________________________________________
+ADVISORY VOTE TO APPROVE EXECUTIVE COMPENSATION
+Under the Dodd-Frank Wall Street Reform and Consumer Protection Act (the "Dodd-Frank Act") and Section 14A of the Exchange Act, our stockholders are entitled to vote to approve, on an advisory basis, the compensation of our named executive officers as disclosed in this proxy statement in accordance with the rules of the Securities and Exchange Commission (the "SEC"). This vote is not intended to address any specific item of compensation, but rather the overall compensation of our named executive officers and the philosophy, policies and practices described in this proxy statement.
+The compensation of our named executive officers subject to the vote is disclosed in the Compensation Discussion and Analysis, the compensation tables, and the related narrative disclosure contained in this proxy statement. As discussed in the Compensation Discussion and Analysis, we believe that our compensation policies and decisions are designed to reward strong annual operating performance by the Company.
+Accordingly, your Board is asking stockholders to indicate their support for the compensation of our named executive officers as described in this proxy statement by casting a non-binding, advisory vote "FOR" the following resolution:
+"RESOLVED, that the stockholders approve, on an advisory basis, the compensation of the Company's named executive officers, as disclosed pursuant to Item 402 of Regulation S-K, including the Compensation Discussion and Analysis, compensation tables and narrative discussion, in the Company's Proxy Statement for the 2018 Annual Meeting of Stockholders.
+Because the vote on this proposal is advisory in nature, it will not affect any compensation already paid or awarded to any named executive officer and will not be binding on or overrule any decisions by the Compensation Committee or the Board. Nevertheless, the views expressed by stockholders, whether through this vote or otherwise, are important to Company management and your Board and, accordingly, your Board and the Compensation Committee intend to consider the results of this vote in making determinations in the future regarding executive compensation arrangements. Your advisory vote serves as an additional tool to guide the Compensation Committee and your Board in continuing to align the Company's executive compensation program with the interests of the Company and its stockholders and is consistent with our commitment to high standards of corporate governance.
+This vote is not intended to express a view on any specific element of pay, but rather the overall compensation program and philosophy for our named executive officers described in the Compensation Discussion and Analysis, the accompanying compensation tables, and the related narrative disclosure as set forth in the "Executive Compensation" section of this proxy statement. We encourage you to carefully review these disclosures and to indicate your support for our named executive officer compensation program.
+YOUR BOARD UNANIMOUSLY RECOMMENDS THAT STOCKHOLDERS VOTE FOR APPROVAL OF THE COMPENSATION OF OUR NAMED EXECUTIVE OFFICERS AS PRESENTED IN THIS PROXY STATEMENT.
+STOCKHOLDER PROPOSALS
+We have two separate and distinct processes concerning the submission of stockholder proposals:
+Proposals to be Included in Our Proxy Statement 
+Pursuant to Rule 14a-8 under the Securities Exchange Act of 1934, proposals by stockholders that are intended for inclusion in our proxy statement and proxy card and to be presented at our next annual meeting must be received by us by July 12, 2019, in order to be considered for inclusion in our proxy materials. Such proposals should be addressed to our Secretary and may be included in next year's proxy materials if they comply with certain rules and regulations of the SEC governing stockholder proposals.
+Advance Notice Procedures 
+If a stockholder desires to make a proposal for consideration at an annual meeting of our stockholders or nominate someone for election to your Board, the stockholder must follow the applicable procedures under law or as outlined in our Bylaws. Our Bylaws provide that in order to make a proposal or nominate someone for election to your Board at an annual meeting of stockholders, written notice of the proposal or nomination must be received by the Corporate Secretary of RCM not more than 120 days or less than 90 days prior to that year's annual meeting of stockholders. The notice must contain information required by our Bylaws regarding the stockholder and the proposal or nominee, as well as information required to be included in a proxy statement by SEC rules and regulations.
+Stockholders are also advised to review our Bylaws, which contain additional requirements about advance notice of proposals and director nominations, including the information that must accompany any such stockholder notice.
+Accordingly, in order for a stockholder proposal or nomination to be considered at the 2019 annual meeting of stockholders, a written notice of the proposal or the nomination, which includes the information required by our bylaws, must be received by the Corporate Secretary of RCM at the principal executive offices of RCM no earlier than August 16, 2019 and no later than September 15, 2019 (assuming that the 2019 annual meeting of stockholders is held on December 14, 2019, the anniversary of the 2018 Annual Meeting).
+In addition, if we do not receive notice of your stockholder proposal by September 15, 2019, the proposal will be deemed "untimely" for purposes of Rule 14a-4(c) of the Securities Exchange Act of 1934 and the persons named as proxies in next year's proxy materials will be entitled to vote in their discretion with respect to the proposal.
+A copy of the full text of our Bylaw provisions may be obtained upon written request to the Corporate Secretary of RCM at our principal place of business.
+ OTHER MATTERS
+Your Board does not intend to present any business at the 2018 Annual Meeting other than the matters described in this proxy statement. If any other matters are properly presented for action at the 2018 Annual Meeting, it is intended that the proxy will be voted with respect thereto by the proxy holders in accordance with the instructions and at the discretion of your Board or a properly authorized committee thereof.
+November 9, 2018
+ 

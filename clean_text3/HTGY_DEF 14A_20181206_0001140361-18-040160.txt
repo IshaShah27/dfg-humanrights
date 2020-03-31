@@ -1,0 +1,150 @@
+
+[BEGIN TABLE]
+ Filed by the Registrant ☒   Filed by a Party other than the Registrant  o  
+[END TABLE]
+[BEGIN TABLE]
+   o    Preliminary Proxy Statement o   Confidential, for Use of the Commission Only (as permitted by Rule 14a-6(e)(2))  
+  ☒    Definitive Proxy Statement o   Definitive Additional Materials o   Soliciting Material Pursuant to §240.14a-12  
+[END TABLE]
+[BEGIN TABLE]
+ ☒   No fee required.  
+  o   Fee computed on table below per Exchange Act Rules 14a-6(i)(1) and 0-11.  
+     (1)   Title of each class of securities to which transaction applies:   
+     (2)   Aggregate number of securities to which transaction applies:   
+     (3)   Per unit price or other underlying value of transaction computed pursuant to Exchange Act Rule 0-11 (Set forth the amount on which the filing fee is calculated and state how it was determined):   
+     (4)   Proposed maximum aggregate value of transaction:   
+     (5)   Total fee paid:   
+  o   Fee paid previously with preliminary materials.  
+  o   Check box if any part of the fee is offset as provided by Exchange Act Rule 0-11(a)(2) and identify the filing for which the offsetting fee was paid previously. Identify the previous filing by registration statement number, or the form or schedule and the date of its filing.  
+     (1)   Amount previously paid:   
+     (2)   Form, schedule or registration statement no.:   
+     (3)   Filing party:   
+     (4)   Date filed:  
+[END TABLE]
+[BEGIN TABLE]
+ Time   9:00 a.m., Pacific Time  
+ Date   December 6, 2018  
+ Place   Hercules Capital, Inc. 400 Hamilton Avenue, Suite 310, Palo Alto, California 94301  
+ Purpose    At the Special Meeting, you will be asked to (i) approve the application of the reduced asset coverage requirements in Section 61(a)(2) of the Investment Company Act of 1940, as amended, to the Company, which would permit the Company to double the maximum amount of leverage that it is currently permitted to incur by reducing the asset coverage requirements applicable to the Company from 200% to 150% to become effective the day after the Special Meeting (without giving effect to any exemptive relief with respect to Small Business Administration debentures) and (ii) transact such other business as may properly come before the Special Meeting or any adjournment thereof.   
+ Record Date    You have the right to receive notice of and to vote at the Special Meeting if you were a stockholder of record at the close of business on October 4, 2018. We plan to begin mailing this Proxy Statement on or about October 5, 2018 to all stockholders entitled to vote their shares at the Special Meeting.   
+ Voting by Proxy   Please submit a proxy card or, for shares held in "street name," voting instruction form as soon as possible so your shares can be voted at the Special Meeting. You may submit your proxy card or voting instruction form by mail. If you are a registered stockholder, you may also vote electronically by telephone or over the Internet by following the instructions included with your proxy card. If your shares are held in "street name," you will receive instructions for voting of shares from your broker, bank or other nominee, which may permit telephone or Internet voting. Follow the instructions on the voting instruction form that you receive from your broker, bank or other nominee to ensure that your shares are properly voted at the Special Meeting.  
+      The enclosed Proxy Statement is also available at www.proxyvote.com. This website also includes copies of the proxy card. Stockholders may request a copy of the Proxy Statement by contacting our main office at (650) 289-3060.   
+[END TABLE]
+[BEGIN TABLE]
+     By Order of the Board,   
+     General Counsel, Chief Compliance Officer   and Secretary  
+[END TABLE]
+[BEGIN TABLE]
+     Page  
+ General       1      
+ Purpose of Special Meeting       1      
+ Voting Information       1      
+ General Information and Casting Your Vote       3      
+ Information Regarding this Solicitation       4      
+ Security Ownership of Certain Beneficial Owners and Management       5      
+  Proposal – Approval of Application of Reduced Asset Coverage Requirements in Section 61(a)(2) of the 1940 Act to the Company, Which Would Permit the Company to Double the Maximum Amount of Leverage that it is Currently Permitted to Incur by Reducing the Asset Coverage Requirements Applicable to the Company from 200% to 150% to Become Effective the Day After the Special Meeting (without giving effect to any exemptive relief with respect to SBA debentures)        7      
+ Background and 1940 Act Requirements       7      
+ Recommendation and Rationale       8      
+ Illustrations of the Effect of Lowering the Required Asset Coverage Ratio       10      
+ Other Business       13      
+ Stockholder Proposals       13      
+ Delivery of Proxy Materials       13      
+ Available Information       13      
+[END TABLE]
+[BEGIN TABLE]
+         1       GENERAL   
+[END TABLE]
+[BEGIN TABLE]
+ VOTING INFORMATION        2          
+[END TABLE]
+[BEGIN TABLE]
+ Internet   Visit www.proxyvote.com. You will need the 16-digit control number included in the proxy card, voter instruction card or notice.    QR Code   You can scan the QR Code on your proxy card to vote with your mobile phone.   Phone   Call 1-800-690-6903 or the number on your voter instruction form. You will need the control number included in your proxy card.   Mail   Send your completed and signed proxy card or voter instruction form to the address on your proxy card or voter instruction form.   In Person   Attend the Special Meeting in person.  
+[END TABLE]
+[BEGIN TABLE]
+         3       GENERAL INFORMATION  
+[END TABLE]
+[BEGIN TABLE]
+ INFORMATION        4          
+[END TABLE]
+[BEGIN TABLE]
+ Name and Address of Beneficial Owner   Type of Ownership   Number of Shares   Owned Beneficially(1)   Percentage of   Class  
+ Interested Director                                         
+ Manuel A. Henriquez(2)       Record/Beneficial            2,242,855            2.3%  
+ Independent Directors                                         
+ Robert P. Badavas(3)       Record/Beneficial            164,371                *  
+ Jorge Titinger       Record/Beneficial            3,802               *  
+ Thomas J. Fallon(4)       Record/Beneficial            65,514                *  
+  Brad Koenig(5)        Record/Beneficial            9,901                *  
+  Joseph F. Hoffman(6)        Record/Beneficial            44,280                *  
+  Doreen Woo Ho(7)        Record/Beneficial            21,038                *  
+ Other Named Executive Officers                                         
+  Scott Bluestein(8)        Record/Beneficial            358,763                *  
+  Melanie Grace(9)        Record/Beneficial            37,868                *  
+ David Lund       —            —                   
+  Executive officers and directors as a group (10 persons)(10)                                 3.1%  
+[END TABLE]
+[BEGIN TABLE]
+         5       SECURITY OWNERSHIP INFORMATION   
+[END TABLE]
+[BEGIN TABLE]
+ Name   Dollar Range of   Equity Securities   Beneficially Owned  
+ Interested Director                 
+ Manuel A. Henriquez   Over $100,000  
+ Independent Directors         
+ Robert P. Badavas   Over $100,000  
+ Jorge Titinger    $50,000 - $100,000   
+ Thomas J. Fallon   Over $100,000  
+ Brad Koenig    Over $100,000   
+ Joseph F. Hoffman   Over $100,000  
+ Doreen Woo Ho   Over $100,000  
+ Other Named Executive Officers         
+ Scott Bluestein   Over $100,000  
+ Melanie Grace   Over $100,000  
+ David Lund   —  
+[END TABLE]
+[BEGIN TABLE]
+ SECURITY OWNERSHIP INFORMATION        6          
+[END TABLE]
+[BEGIN TABLE]
+         7       PROPOSAL   
+[END TABLE]
+[BEGIN TABLE]
+ PROPOSAL        8          
+[END TABLE]
+[BEGIN TABLE]
+         9       PROPOSAL   
+[END TABLE]
+[BEGIN TABLE]
+     Annual Return on Our Portfolio    (Net of Expenses)   
+     -10%   -5%   0%   5%   10%  
+ Corresponding return to common stockholder assuming actual asset coverage as of June 30, 2018 (252.7%)(1)   (23.57%)   (14.27%)   (4.97%)   4.34%   13.64%  
+ Corresponding return to common stockholder assuming 200% asset coverage(2)   (29.09%)   (18.05%)   (7.00%)   4.04%   15.08%  
+ Corresponding return to common stockholder assuming 150% asset coverage(3)   (44.94%)   (28.90%)   (12.85%)   3.19%   19.24%  
+[END TABLE]
+[BEGIN TABLE]
+ Estimated Annual Expenses   (as a percentage of net assets attributable to common stock):(1)    Actual asset    coverage as    of June 30,    2018    (252.7%)(2)   200% asset    coverage(3)   150% asset    coverage(4)  
+ Operating expenses(5)(6)       6.01%       7.63%       11.09%  
+ Interest and fees paid in connection with borrowed funds(7)       5.58%       7.91%       14.52%  
+ Total annual expenses(8)       11.59%       15.54%       25.61%  
+[END TABLE]
+[BEGIN TABLE]
+ ILLUSTRATIONS        10          
+[END TABLE]
+[BEGIN TABLE]
+     1 Year    3 Years    5 Years    10 Years   
+ Based on the Actual Asset Coverage as of June 30, 2018 (252.7%)                                                     
+ You would pay the following expenses on a $1,000 common stock investment, assuming a 5% annual return   $   140       $   337       $   509       $   854      
+ Based on 200% Actual Asset Coverage                                                     
+ You would pay the following expenses on a $1,000 common stock investment, assuming a 5% annual return   $   173       $   418       $   616       $   962      
+ Based on 150% Actual Asset Coverage                                                     
+ You would pay the following expenses on a $1,000 common stock investment, assuming a 5% annual return   $   255       $   586       $   805       $   1,082      
+[END TABLE]
+[BEGIN TABLE]
+         11       ILLUSTRATIONS   
+[END TABLE]
+[BEGIN TABLE]
+ ILLUSTRATIONS        12          
+[END TABLE]
+[BEGIN TABLE]
+         13       OTHER BUSINESS   
+[END TABLE]

@@ -1,0 +1,942 @@
+
+UNITED STATES
+SECURITIES AND EXCHANGE COMMISSION
+Washington, D.C. 20549
+SCHEDULE 14A
+Proxy Statement Pursuant to Section 14(a) of the
+Securities Exchange Act of 1934
+(Amendment No.)
+[BEGIN TABLE]
+Filed by the Registrant  x 
+Filed by a Party other than the Registrant  o 
+Check the appropriate box: 
+o Preliminary Proxy Statement o Confidential, for Use of the Commission Only (as permitted by Rule 14a-6(e)(2)) 
+ý Definitive Proxy Statement o Definitive Additional Materials o Soliciting Material Pursuant to §240.14a-12 
+[END TABLE]
+[BEGIN TABLE]
+FIRST FINANCIAL CORPORATION 
+(Name of Registrant as Specified In Its Charter) 
+(Name of Person(s) Filing Proxy Statement, if other than the Registrant) 
+Payment of Filing Fee (Check the appropriate box): 
+ý   No fee required. 
+o   Fee computed on table below per Exchange Act Rules 14a-6(i)(1) and 0-11. 
+    (1)   Title of each class of securities to which transaction applies: 
+    (2)   Aggregate number of securities to which transaction applies: 
+    (3)   Per unit price or other underlying value of transaction computed pursuant to Exchange Act Rule 0-11 (set forth the amount on which the filing fee is calculated and state how it was determined): 
+    (4)   Proposed maximum aggregate value of transaction: 
+    (5)   Total fee paid: 
+o   Fee paid previously with preliminary materials. 
+o   Check box if any part of the fee is offset as provided by Exchange Act Rule 0-11(a)(2) and identify the filing for which the offsetting fee was paid previously. Identify the previous filing by registration statement number, or the Form or Schedule and the date of its filing. 
+    (1)   Amount Previously Paid: 
+    (2)   Form, Schedule or Registration Statement No.: 
+    (3)   Filing Party: 
+    (4)   Date Filed: 
+[END TABLE]
+[BEGIN TABLE]
+  FIRST FINANCIAL CORPORATION One First Financial Plaza P.O. Box 540 Terre Haute, Indiana 47808  
+  FIRST FINANCIAL CORPORATION One First Financial Plaza P.O. Box 540 Terre Haute, Indiana 47808  
+[END TABLE]
+March 13, 2019 
+Dear Shareholders:
+Our 2019 Annual Meeting of Shareholders will be held on Wednesday, April 17, 2019 at 11:00 a.m., local time, at One First Financial Plaza, Terre Haute, Indiana.  The formal notice of this annual meeting and the proxy statement appear on the following pages.  We have also enclosed a copy of our 2018 Annual Report on Form 10-K for your review.  After reading the proxy statement and other materials, please submit your proxy promptly by telephone or Internet, or by marking, signing and returning a physical proxy card by mail, to ensure that your votes on the business matters of the meeting will be recorded.
+We hope you can attend the meeting.  Whether or not you can attend, we urge you to submit your proxy promptly.  Even after submitting the proxy, you may, of course, vote in person on all matters brought before the meeting.
+[BEGIN TABLE]
+  Sincerely, 
+  /s/ B. Guille Cox Jr. 
+  Chairman of the Board 
+[END TABLE]
+(This page intentionally left blank) 
+FIRST FINANCIAL CORPORATION
+ONE FIRST FINANCIAL PLAZA
+P.O. BOX 540
+TERRE HAUTE, INDIANA 47808
+NOTICE OF ANNUAL MEETING OF SHAREHOLDERS
+TO BE HELD APRIL 17, 2019 
+To our Shareholders:
+Notice is hereby given that, pursuant to the call of its Board of Directors, an Annual Meeting of Shareholders of First Financial Corporation (the "Corporation") will be held on Wednesday, April 17, 2019 at 11:00 a.m., local time, at One First Financial Plaza, Terre Haute, Indiana.
+The purposes of the meeting are:
+[BEGIN TABLE]
+(1) To elect W. Curtis Brighton, William R. Krieble, and Ronald K. Rich to the Board of Directors of the Corporation for a three-year term expiring at the 2022 annual meeting of shareholders and until their successors are duly elected and qualified; 
+(2) To conduct a non-binding advisory vote to approve the compensation of our named executive officers as described in the Proxy Statement;  
+(3) To ratify the appointment of Crowe LLP as our independent registered public accounting firm for the fiscal year ending December 31, 2019; and 
+(4) To transact such other business as may properly be presented at the meeting or any adjournment or postponement thereof. 
+[END TABLE]
+Only shareholders of record at the close of business on February 25, 2019 will be entitled to notice of and to vote at the meeting.
+[BEGIN TABLE]
+  By Order of the Board of Directors 
+  /s/  Rodger A. McHargue 
+  Chief Financial Officer and Secretary 
+[END TABLE]
+March 13, 2019 
+[BEGIN TABLE]
+Important Notice Regarding the Availability of Proxy Materials for the 
+Shareholder Meeting to be Held on April 17, 2019: 
+The proxy statement and annual report are available at https://www.first-online.com/proxy. 
+[END TABLE]
+TABLE OF CONTENTS
+[BEGIN TABLE]
+  Page   
+QUESTIONS AND ANSWERS ABOUT THE MEETING 1   
+PROPOSAL 1: ELECTION OF DIRECTORS 5   
+ADDITIONAL INFORMATION ABOUT THE BOARD OF DIRECTORS 8   
+· Meetings and Attendance 8   
+· Committees 8   
+· Compensation of Directors 9   
+· Director Compensation 10   
+· Director Stock Ownership Guidelines 10   
+· Anti-Hedging Policy 10   
+· Compensation Committee Interlocks and Insider Participation 10   
+· Certain Relationships and Related Transactions 11   
+INFORMATION ABOUT NAMED EXECUTIVE OFFICERS 12   
+CORPORATE GOVERNANCE 12   
+· General 12   
+· Consideration of Director Candidates 12   
+· Board Leadership Structure and Lead Independent Director 13   
+· Risk Oversight 13   
+· Director Independence 14   
+· Corporate Governance Guidelines 14   
+· Code of Ethics 14   
+· Communications with Directors 14   
+· Governance Documents 14   
+AUDIT COMMITTEE REPORT 14   
+EXECUTIVE COMPENSATION DISCUSSION AND ANALYSIS 16   
+EXECUTIVE COMPENSATION 29   
+· Summary Compensation Table 29   
+· Grants of Plan-Based Awards 30   
+· Outstanding Equity Awards at Fiscal Year-End 30   
+· Option Exercises and Stock Vested in 2018 31   
+· Pension Benefits 31   
+· Nonqualified Deferred Compensation For 2018 32   
+· Employment Agreements 32   
+· Potential Payments Upon Termination or Change in Control 34   
+CEO PAY RATIO 36   
+SECURITY OWNERSHIP OF CERTAIN BENEFICIAL OWNERS AND MANAGEMENT 37   
+SECTION 16(a) BENEFICIAL OWNERSHIP REPORTING COMPLIANCE 38   
+[END TABLE]
+[BEGIN TABLE]
+PROPOSAL 2: NON-BINDING ADVISORY VOTE TO APPROVE THE COMPENSATION PAID TO NAMED EXECUTIVE OFFICERS 39   
+PROPOSAL 3: RATIFICATION OF APPOINTMENT OF CROWE LLP AS THE CORPORATION'S INDEPENDENT REGISTERED PUBLIC ACCOUNTING FIRM 41   
+MATTERS RELATING TO INDEPENDENT REGISTERED PUBLIC ACCOUNTING FIRM 41   
+· Fees Paid to Crowe LLP 41   
+· Audit Committee Pre-Approval of Audit and Permissible Non-Audit Services of Independent Public Accounting Firm 42   
+SHAREHOLDER PROPOSALS AND DIRECTOR NOMINATIONS 43   
+IMPORTANT NOTICE REGARDING THE INTERNET AVAILABILITY OF PROXY MATERIALS FOR THE 2019 ANNUAL MEETING 43   
+HOUSEHOLDING 44   
+ADDITIONAL INFORMATION 44   
+OTHER MATTERS 44   
+[END TABLE]
+FIRST FINANCIAL CORPORATION
+ONE FIRST FINANCIAL PLAZA
+P.O. BOX 540
+TERRE HAUTE, INDIANA 47808
+(812) 238-6000
+____________________________________________________________
+PROXY STATEMENT 
+____________________________________________________________
+In this proxy statement, First Financial Corporation is referred to as "we," "us," "our," "the Corporation" or "First Financial," and First Financial Bank, N.A. is referred to as "the Bank."
+QUESTIONS AND ANSWERS ABOUT THE MEETING
+Q:    Why did I receive this Proxy Statement?
+You received this proxy statement and accompanying notice of annual meeting because, as a shareholder of the Corporation, our Board of Directors (the "Board") is soliciting your proxy to vote at the annual meeting of shareholders.  The annual meeting will be held on Wednesday, April 17, 2019, at 11:00 a.m., local time, at One First Financial Plaza, Terre Haute, Indiana.
+This proxy statement describes the matters on which we would like you to vote and provides information so that you can make an informed decision.  It is first being mailed to our shareholders on or about March 13, 2019.  As explained under "How do I vote?" below, you do not need to attend the annual meeting in order to vote your shares.
+Q:    What am I voting on?
+You are being asked to consider and vote on the following:
+[BEGIN TABLE]
+• The election of W. Curtis Brighton, William R. Krieble, and Ronald K. Rich to the Board for a three-year term; 
+[END TABLE]
+[BEGIN TABLE]
+• The approval, on a non-binding advisory basis, of the compensation of our named executive officers as described in this proxy statement; and 
+[END TABLE]
+[BEGIN TABLE]
+• The ratification of the appointment of Crowe LLP as our independent registered public accounting firm for the fiscal year ending December 31, 2019. 
+[END TABLE]
+Q:     Who is entitled to vote?
+Holders of our outstanding common stock as of the close of business on February 25, 2019, the record date, are entitled to vote at the annual meeting.  As of February 25, 2019, 12,290,212 shares of common stock were issued and outstanding, each of which entitles the holder to one vote.
+Q:    What are the Board's recommendations?
+The Board recommends that you vote your shares as follows:
+[BEGIN TABLE]
+• FOR the election of W. Curtis Brighton, William R. Krieble, and Ronald K. Rich to the Board for a three-year term; 
+[END TABLE]
+[BEGIN TABLE]
+• FOR the approval, on a non-binding advisory basis, of the compensation of our named executive officers; and 
+[END TABLE]
+[BEGIN TABLE]
+• FOR the ratification of the appointment of Crowe LLP as our independent registered public accounting firm for the fiscal year ending December 31, 2019. 
+[END TABLE]
+ The shares represented by a properly executed and returned proxy card will be voted according to your instructions.  If no instructions are provided on a signed proxy card, the persons named as proxies on your proxy card will vote in accordance with the above recommendations of the Board.
+Q:    What if other matters come up during the meeting?
+If any matters other than those referred to in the Notice of Annual Meeting of Shareholders properly come before the meeting, the individuals named in the accompanying proxy card will vote the proxies held by them as recommended by the Board or, if no recommendation is given, in accordance with their best judgment.  We are not aware of any business other than the items referred to in the Notice of Annual Meeting of Shareholders that may be considered at the meeting.
+In the unlikely event that any of the director nominees becomes unable or is unwilling to serve at the time of the meeting, the persons named as proxies in the accompanying proxy card will have discretionary authority to vote for a substitute nominee named by the Governance and Nominating Committee if the Board decides to fill that nominee's position.  
+Q:    Who can attend the meeting?
+All shareholders as of the record date, or their duly appointed proxies, may attend the meeting.  Admission to the meeting will be on a first-come, first-admitted basis.
+Q:    What constitutes a quorum?
+Holders of a majority of the voting power of the outstanding shares of common stock of the Corporation, represented in person or by proxy, constitute a quorum for the annual meeting.  As of the record date, 12,290,212 shares of common stock were outstanding.  Proxies received but marked as abstentions and "broker non-votes" (as described below) will be included in the calculation of the number of shares considered to be present at the meeting for purposes of establishing a quorum.
+Q:    How do I vote?
+If you hold your shares in your own name, you may submit a proxy by telephone, by mail or via the Internet.
+[BEGIN TABLE]
+• Submitting a Proxy by Telephone:  You can submit a proxy for your shares by telephone until 11:59 p.m. Eastern Daylight Time on April 16, 2019 by calling the toll-free telephone number on the enclosed proxy card, (800) 690-6903.  Telephone proxy submission is available 24 hours a day.  Easy-to-follow voice prompts allow you to submit a proxy for your shares and confirm that your instructions have been properly recorded.  Our telephone proxy submission procedures are designed to authenticate shareholders by using individual control numbers. 
+[END TABLE]
+[BEGIN TABLE]
+• Submitting a Proxy by Mail:  If you choose to submit a proxy by mail, simply mark the appropriate proxy card, date and sign it, and return it in the postage paid envelope provided or to the address shown on the proxy card. 
+[END TABLE]
+[BEGIN TABLE]
+• Submitting a Proxy via the Internet:  You can submit a proxy for your shares via the Internet until 11:59 p.m. Eastern Daylight Time on April 16, 2019 by visiting the website on the enclosed proxy card, www.proxyvote.com.  Internet proxy submission is available 24 hours a day.  Our Internet proxy submission procedures are designed to authenticate shareholders by using individual control numbers. 
+[END TABLE]
+By casting your vote in any of the ways listed above, you are authorizing the individuals listed on the proxy card to vote your shares in accordance with your instructions.
+You may also attend the annual meeting and vote in person.
+If your shares are held in the name of a bank, broker or other nominee, you will receive instructions from the holder of record that you must follow for your shares to be voted.  The availability of telephonic or Internet voting will depend on the bank's or broker's voting process.  Please check with your bank or broker and follow the voting procedures your bank or broker provides to vote your shares.  Also, please note that if the holder of record of your shares is a broker, bank or other nominee and you wish to vote in person at the annual meeting, you must request a legal proxy from your bank, broker or other nominee that holds your shares and present that proxy and proof of identification at the annual meeting.
+If you are a participant in the First Financial Corporation Employee Stock Ownership Plan (the "ESOP"), you will receive a voting instruction card to use to provide voting instructions to First Financial Bank, N.A. (the trustee of the ESOP) for the shares allocated to your account under the ESOP.  Your voting instruction to the trustee should be submitted by telephone, via the Internet at www.proxyvote.com or completed, dated, signed and returned in the envelope provided by  April 10, 2019.  In order to maintain confidentiality, your voting instruction will be received by Broadridge Financial Solutions, Inc., who will tabulate the voting instruction results and provide them to the ESOP trustee on an aggregate basis.  Please do not return your voting instructions to the Corporation.  Your voting instructions will be kept confidential by the ESOP trustee and will not be disclosed to any of our directors, officers or employees.  Unless the terms of the ESOP or the fiduciary duties of the ESOP trustee require otherwise, the ESOP trustee will vote your ESOP shares in accordance with your instructions.  If you do not submit your voting instructions in a timely manner or if you return the voting instruction card unsigned or without indicating how you desire to vote the shares allocated to your ESOP account, the Compensation and Employee Benefits Committee will direct the ESOP trustee to vote the shares allocated to your account in the same proportion and in the same manner as the shares with respect to which timely and proper instructions by participants were received.  The Compensation and Employee Benefits Committee consists of Anton H. George, William R. Krieble, Ronald K. Rich and William J. Voges.  The Compensation and Employee Benefits Committee is appointed by the Board and may be changed by the Board at any time.
+Q:    If I am the beneficial owner of shares held in "street name" by my broker, will my broker automatically vote my shares for me?
+If the shares you own are held in "street name", the bank, broker or other nominee will vote your shares according to your instructions. Under applicable stock exchange rules, if you do not give instructions to your broker, bank or other nominees, it will still be able to vote your shares on any "discretionary" items but will not be allowed to vote your shares with respect to any "non-discretionary" items without receiving voting instructions from you. For the 2019 Annual Meeting, only the proposal to ratify Crowe LLP as our independent registered public accounting firm is considered to be a discretionary item, and your broker, bank or other nominee will be able to vote on that item even if it does not receive voting instructions from you. Unless you provide voting instructions to your broker, bank or other nominee, it will not have authority to vote your shares on any of the other proposals described in this proxy statement.  Therefore, it is particularly important that beneficial owners instruct their brokers, banks or other nominees how they wish to vote their shares. 
+Q:    What is an "abstention" or a broker "non-vote" and how do they affect the vote?
+An "abstention" occurs when a shareholder sends in a proxy with explicit instructions to decline to vote on a particular matter.  Abstentions are counted as present for purposes of determining a quorum, but are not counted as votes cast and, therefore, will have no effect on the outcome of any proposal to be voted on at the annual meeting.  
+A broker "non-vote" occurs when a broker or other nominee who holds shares for the beneficial owner is barred from voting those shares with respect to a proposal because the broker or other nominee does not have discretionary voting power for the proposal and has not received voting instructions from the beneficial owner of the shares.  Brokers will have discretionary voting power to vote shares for which no voting instructions have been provided by the beneficial owner only with respect to the ratification of Crowe LLP as our independent registered public accounting firm.  Brokers will not have such discretionary voting power to vote shares with respect to any other proposal described in this proxy statement.  Shares that are the subject of a broker non-vote may be included for quorum purposes, but a broker non-vote with respect to a proposal will not be counted as a vote represented at the meeting and, consequently, as a general matter, will have no effect on the outcome of the vote.  
+Q:    Can I change my vote after I return my proxy card?
+Yes.  You may revoke your proxy or change your voting instructions at any time prior to the vote at the annual meeting by:
+[BEGIN TABLE]
+• providing written notice to the Secretary of the Corporation; 
+[END TABLE]
+[BEGIN TABLE]
+• delivering a valid, later-dated proxy; or 
+[END TABLE]
+[BEGIN TABLE]
+• attending the annual meeting and voting in person. 
+[END TABLE]
+Please note that your attendance at the annual meeting in person will not cause your previously granted proxy to be revoked unless you specifically so request.
+Q:    What vote is required to approve each proposal?
+Directors will be elected by a plurality of the votes cast at the meeting.  Consequently, the director nominees receiving the most votes of the holders of our common stock will be elected as directors.  Only votes cast FOR a nominee will be counted.  A properly executed proxy marked "WITHHOLD AUTHORITY" with respect to the election of one or more  directors will not be voted with respect to the director or directors indicated, although it will be counted for purposes of determining whether a quorum is present.
+The proposal for approval, on a non-binding advisory basis, of the compensation of our named executive officers will be approved if the votes cast for the proposal exceed those cast against the proposal.  The proposal for the ratification of the appointment of Crowe LLP as our independent registered public accounting firm for the fiscal year ending December 31, 2019 will be approved if the votes cast for the proposal exceed those cast against the proposal.  Abstentions will not be counted as votes cast either for or against these proposals.
+Q:  Who pays to prepare, mail, and solicit the proxies?
+The Corporation pays all costs of preparing, mailing and soliciting proxies.  The Corporation asks brokers, banks, voting trustees and other nominees and fiduciaries to forward proxy materials to the beneficial owners and to obtain authority to execute proxies.  The Corporation will reimburse the brokers, banks, voting trustees and other nominees and fiduciaries upon request for their reasonable, out-of-pocket costs for forwarding proxy and solicitation materials to beneficial owners of common stock.  In addition, proxies may be solicited by mail, in person or by telephone by certain of the Corporation's officers, directors and employees who will not be separately compensated for such activity.
+Q:  Whom should I call with other questions?
+If you have additional questions about this proxy statement or the annual meeting or would like additional copies of this document or our 2018 Annual Report on Form 10-K, please contact:  Rodger A. McHargue, Secretary, First Financial Corporation, One First Financial Plaza, P.O. Box 540, Terre Haute, Indiana 47808, (812) 238-6000. PROPOSAL 1:  ELECTION OF DIRECTORS
+The Board as of the 2019 annual meeting of shareholders will consist of ten members, divided into three classes of approximately equal size that are elected for staggered three-year terms.  The Board believes this structure helps to maintain continuity and stability and ensures we have directors serving on the Board who have substantial knowledge of the Corporation, all of which the Board believes facilitates long-term value for our shareholders.
+Three directors are to be elected.  W. Curtis Brighton, William R. Krieble, and Ronald K. Rich have each been nominated for a term of three years and until their respective successors have been elected and qualified.  They are all members of the present Board.  If, at the time of this annual meeting, any nominee is unable or declines to serve, the discretionary authority provided in the proxy may be exercised to vote for a substitute or substitutes.  Each of the nominees has consented to being named as a nominee in this proxy statement, and is expected to serve if elected.  The Board has no reason to believe that any substitute nominee or nominees will be required.
+Name, Age, Principal Occupation(s) and Business Experience
+Nominated for a term expiring in 2022:
+W. Curtis Brighton, Age 65
+Mr. Brighton joined the Board in 2004 and is a current member of the Corporation's Audit, Enterprise Risk Management, Loan Review, and Loan Policy and Procedures Committees as well as the Bank's Loan Committee.  Mr. Brighton is the president of Templeton Coal Company, Inc.  Prior to this, Mr. Brighton held the positions of president and general counsel for Hulman & Company.  Mr. Brighton has been the general manager of Lynch Coal Operators Reciprocal Corporation since 1985 and was a private practice attorney for 12 years.  He serves on the boards of Templeton Coal Company, Inc., Union Hospital, Inc. and Lynch Coal Operators Reciprocal Corporation.  Mr. Brighton earned a B.S. degree in Business Administration from Indiana State University and a J.D. degree from Drake University.
+William R. Krieble, Age 71
+Mr. Krieble joined the Board in 2009 and serves on the Bank's Loan and Community Reinvestment Act Committees.  Mr. Krieble also serves on the Corporation's Compensation and Employee Benefits, Enterprise Risk Management, Affirmative Action and Cyber Security Committees.  Mr. Krieble retired after 41 years of service to the State of Indiana where he most recently served as the program director for the Division of Disability and Rehabilitative Services of the State of Indiana.  He received his B.S. and M.S. degrees from Indiana State University.
+Ronald K. Rich, Age 80
+Mr. Rich joined the Board in 2005 and serves as the Chairman of the Governance and Nominating Committee.  He is a member of the Corporation's Compensation and Employee Benefits and Enterprise Risk Management Committees.  Mr. Rich also is a member of the Bank's Loan Committee.  Mr. Rich also serves as the Lead Independent Director.  Mr. Rich formerly served as a financial representative for Northwestern Mutual Financial Network.  He holds Chartered Life Underwriter and Chartered Financial Consultant designations from The American College of Financial Services.
+Directors whose term expires in 2021:
+Thomas T. Dinkel, Age 68
+Mr. Dinkel joined the Board in 1989, and is the Chairman of the Corporation's Audit Committee and serves on the Loan Review and Cyber Security Committees.  He also serves on the Bank's Community Reinvestment Act, Investment Services, Operations and Loan Committees.  Mr. Dinkel has been the president and chief executive officer of Sycamore Engineering, Inc., Dinkel Associates Inc., Sycamore Building Corporation and Dinkel Telekom, Inc. since 1986 and has held various positions at Sycamore Engineering, Inc. since 1966.  Mr. Dinkel serves on the board of trustees of Rose-Hulman Institute of Technology, and is chairman of its business administration, facilities and compensation committees.  Additionally, he serves on the investment management (endowment), president evaluation, executive board of affairs and student affairs committees of the board of Rose-Hulman Institute of Technology.  He earned his B.S. degree from Rose-Hulman Institute of Technology. Norman L. Lowery, Age 72
+Mr. Lowery joined the Board in 1989 and has served as its Vice Chairman since 1996.  He serves on the Corporation's Acquisition, Affirmative Action, Disaster Recovery, Disclosure, Executive, Enterprise Risk Management, Loan Policy and Procedures, Loan Review, Strategic Planning and Cyber Security Committees.  Mr. Lowery also serves on the Bank's Asset Liability, Community Reinvestment Act and Loan Committees.  Mr. Lowery is the Chief Executive Officer and President of the Corporation, serving in those positions since 2004 and 2013, respectively, and the Vice Chairman, President and Chief Executive Officer of the Bank, serving since 1996.  Prior to joining the Corporation, Mr. Lowery was a partner in the law firm of Wright, Shagley & Lowery, P.C., where he practiced for 19 years.  Mr. Lowery serves on the boards of Princeton Mining Company, Inc., Deep Vein Coal Company, Inc., Lynch Coal Operators Reciprocal Corporation, and the Terre Haute Area Economic Development Corporation.  He is the father of Norman D. Lowery, the Chief Operating Officer of the Corporation and the Bank and the brother-in-law of Virginia L. Smith, who retired as a director of the Corporation on December 18, 2018.  He received a B.S. degree in Political Science from Indiana State University and a J.D. degree from Indiana University.
+William J. Voges, Age 64
+Mr. Voges joined the Board in 2008 and is the Chairman of the Corporation's Compensation and Employee Benefits Committee, and serves on the Governance and Nominating Committee as well as the Bank's Loan Committee.  Mr. Voges has served as chairman of the board and head of trust administration of the Root Company, a private investment company, since 2016. Prior to this, Mr. Voges served as chief executive officer and chairman of the Root Company since 1996 and as general counsel since 1990.  Prior to joining the Root Company, he was a partner in the law firm of Fink, Loucks, Sweet & Voges for nine years.  Mr. Voges also served on the board for Consolidated-Tomoka Land Co., a publicly traded diversified real-estate operating company (NYSE MKT: CTO), from 2001 to 2012, where he served as Chairman from 2009 to 2011 and on the audit, executive and corporate governance committees.  He also has prior experience on the boards of several financial institutions.  Mr. Voges received his B.S. in Business Administration from Stetson University and his J.D. degree from Stetson University College of Law.
+Directors whose term expires in 2020:
+B. Guille Cox, Jr., Age 73
+Mr. Cox has served on the Board since 1987 and serves as the Chairman of the Boards of Directors of the Corporation and the Bank.  He also is the Chairman of the Bank's Trust and Asset Management Committee and serves on the Bank's Investment and Loan Committees as well as the Corporation's Governance and Nominating Committee.  Mr. Cox has been a senior partner in the law firm of Cox, Zwerner, Gambill & Sullivan, LLP since 1980.  He also serves on the boards of Hendrich Title Company and Katzenbach, Inc.  As a Rose-Hulman Institute of Technology board member, Mr. Cox serves on the executive committee.  Mr. Cox received a B.S. degree in Physics from the Massachusetts Institute of Technology and a J.D. degree from Harvard Law School.
+Anton H. George, Age 59
+Mr. George joined the Board in 1987 and serves on the Corporation's Audit, Compensation and Employee Benefits, and Executive Committees.  He also serves on the Bank's Loan Committee.  Mr. George is the president of Vision Investments, LLC, an import sales and distribution company.  Mr. George is the past president and chief executive officer of the Indianapolis Motor Speedway and its parent Hulman & Company for which he currently serves as a director.  He served on the board of directors at Vectren Corporation, an energy holding company, from 2000 until February 2019 and was a member of its Nominating and Corporate Governance and Compensation and Benefits Committees.  He also served on the boards of Princeton Mining Company, Inc. and Deep Vein Coal Company, Inc. until April 2016 and currently serves on the board of R.J. Oil Co., Inc.  Mr. George earned a B.S. degree in Business Administration from Indiana State University.  
+Gregory L. Gibson, Age 56
+Mr. Gibson joined the Board in 1994 and serves on the Corporation's Loan Review Committee and the Governance and Nominating Committee as well as the Bank's Investment, Trust and Asset Management, and Loan Committees.  Mr. Gibson is the president of ReTec Corporation, a waste management consulting business, and is involved in other business ventures.  Mr. Gibson also serves on the board of trustees of Rose-Hulman Institute of Technology.  Mr. Gibson has also served on the Indiana Judicial Nominating Commission and is currently serving as vice chairman of the Ports of Indiana Commission as well as the board of directors for the Methodist Health Foundation Inc. in Indianapolis.  He holds a B.S. degree from Rose-Hulman Institute of Technology. Recommendation of the Board of Directors
+OUR BOARD UNANIMOUSLY RECOMMENDS THAT YOU VOTE "FOR" W, CURTIS BRIGHTON, WILLIAM R. KRIEBLE, AND RONALD K. RICH, THE PERSONS NOMINATED BY THE GOVERNANCE AND NOMINATING COMMITTEE TO BE ELECTED AS DIRECTORS.
+The Governance and Nominating Committee believes that well-functioning boards consist of a diverse collection of individuals that bring a variety of complementary skills.  The Governance and Nominating Committee generally considers each director eligible for nomination in the broad context of the overall composition of our Board with a view toward constituting a Board that, as a body, possesses the demonstrated senior leadership and management experience to oversee our business.  The Committee has historically sought directors that bring broad and varied skills and knowledge from retail and wholesale businesses, legal, financial and government.  The experience, qualifications, attributes, or skills that led the Governance and Nominating Committee to conclude that each of the members of the Board should serve on the Board are generally described below:
+W. Curtis Brighton
+Mr. Brighton's history as a private practice attorney provides the Board with an enhanced legal and regulatory perspective.
+B. Guille Cox, Jr.
+Mr. Cox's long-standing tenure provides the Board with a historical perspective of both the Corporation and the industry.  His legal practice provides the Board with insight on legal issues as well as issues in our markets.
+Thomas T. Dinkel
+As a business owner and an entrepreneur, Mr. Dinkel provides an understanding of small business which makes up much of our lending base.  His vast experience as a contractor also provides us with key insights concerning our facilities and facility maintenance.
+Anton H. George
+Mr. George's experience on various boards of directors provides valuable advice on governance issues.  As an established Midwest entrepreneur, Mr. George has significant knowledge of the markets in which we operate.
+Gregory L. Gibson
+As a businessman and entrepreneur involved in a variety of business ventures, Mr. Gibson provides the Board with invaluable insight into industries and markets in which we and our clients do business.  As a developer, Mr. Gibson provides counsel on market expansion.  His service on various commissions and boards also provides valuable political and governance perspectives.
+William R. Krieble
+Mr. Krieble's long service to the State of Indiana provides the Board with valuable political and governmental perspectives.
+Norman L. Lowery
+As President and Chief Executive Officer, Mr. Lowery is intimately familiar with our business, our customers and our employees, and he provides the Board with valuable leadership, particularly through his keen insight into the industry and the markets we serve.  His legal background also provides a critical element with respect to governance and regulatory issues affecting the Corporation and the Bank.  Mr. Lowery also provides valuable counsel to the Board with respect to our strategic initiatives.
+Ronald K. Rich
+Mr. Rich's long service in the financial and insurance industries brings specific knowledge of matters affecting the Corporation's insurance matters.  Mr. Rich also possesses valuable insight regarding our markets and our various client bases. William J. Voges
+Mr. Voges' past service on the boards of financial institutions provides additional perspectives of the issues facing our Board.  His legal background, coupled with his past experience, provides tremendous value on legal, governance and regulatory matters.  Mr. Voges also complements the Board with his keen strategic insight.
+ADDITIONAL INFORMATION ABOUT THE BOARD OF DIRECTORS
+Meetings and Attendance
+During the year ended December 31, 2018, the Board met 20 times.  Each director attended more than 75% of the aggregate of (i) all meetings of the Board held while he or she was a director and (ii) all meetings of committees on which he or she served during the period that he or she served on the committee.  Although the Corporation has no formal policy on director attendance at annual meetings of shareholders, they are encouraged to attend such meetings.  All directors attended the 2018 Annual Meeting of Shareholders except William J. Voges.
+Committees
+The Board has established a number of committees that facilitate the administration and oversight of the Corporation.  Among these committees are the Governance and Nominating, Audit, and Compensation and Employee Benefits Committees.
+Governance and Nominating Committee Members consist of B. Guille Cox, Jr., Gregory L. Gibson, Ronald K. Rich (Chairman) and William J. Voges.  The Board has determined that Messrs. Cox, Gibson, Rich and Voges are independent under the rules of the NASDAQ Global Select Market.  The Governance and Nominating Committee met two times during 2018.
+The primary objectives of the Governance and Nominating Committee are to assist the Board in developing and recommending corporate governance policies and guidelines for the Corporation and identifying, evaluating and nominating persons for election to the Board and appointment to the committees of the Board.  A copy of the Governance and Nominating Committee Charter is available on the Corporation's web site at www.first-online.com on the "Investor Relations" page of the "About Us" section of the website under the link "Governance Documents."
+The Governance and Nominating Committee identifies director nominees through referrals, including referrals from management, existing Board members and shareholders.  Other than the director qualifications and independence standards established in our Corporate Governance Guidelines, the Governance and Nominating Committee currently does not maintain any formal criteria for selecting directors and will take into consideration a variety of factors and criteria it deems appropriate, with a view toward constituting a Board that possesses the demonstrated senior leadership and management experience to oversee our business.  However, in reviewing qualifications for prospective nominees to the Board, the Governance and Nominating Committee generally will take into consideration, among other matters, a candidate's experiences, skills, expertise, diversity, personal and professional integrity, character, business judgment, time available to serve, dedication, conflicts of interest and ability to oversee the Corporation's business and affairs.  The Governance and Nominating Committee does not evaluate nominees proposed by shareholders any differently than other nominees to the Board.
+Audit Committee Members consist of W. Curtis Brighton, Thomas T. Dinkel (Chairman) and Anton H. George.  The Board has determined that Messrs. Brighton, Dinkel and George are independent under Securities and Exchange Commission ("SEC") Rule 10A-3 and the rules of the NASDAQ Global Select Market.  The Audit Committee met four times during 2018.
+The primary objectives of the Audit Committee are to assist the Board in its oversight of the following matters:
+[BEGIN TABLE]
+• The integrity of our financial statements; 
+[END TABLE]
+[BEGIN TABLE]
+• The qualifications and independence of our independent registered public accounting firm; 
+[END TABLE]
+[BEGIN TABLE]
+• The performance of our internal audit function and independent registered public accountants; 
+[END TABLE]
+[BEGIN TABLE]
+• Our compliance with certain applicable legal and regulatory requirements; and 
+[END TABLE]
+[BEGIN TABLE]
+• Our system of disclosure controls and system of internal controls regarding finance, accounting and legal compliance. 
+[END TABLE]
+ In addition, among other responsibilities, the Audit Committee reviews the Corporation's accounting functions, the adequacy and effectiveness of the internal controls and internal auditing methods and procedures.  A copy of the Audit Committee charter is available on the Corporation's website at www.first-online.com on the "Investor Relations" page of the "About Us" section of the website under the link "Governance Documents."
+The Board has determined that each member of the Audit Committee is financially sophisticated under the applicable NASDAQ rules. The Board selected the members of the Audit Committee based on the Board's determination that they are fully qualified to monitor the performance of management, the public disclosures by the Corporation of its financial condition and performance, our internal accounting operations and our independent registered public accountants.  In addition, the Audit Committee has the ability on its own to retain independent accountants or other advisors whenever it deems appropriate.  
+The Board has determined that none of its members currently meets the definition of an "audit committee financial expert" under federal securities laws.  To be considered an "audit committee financial expert," an individual's past experience generally should include experience in the preparation or audit of comparable public company financial statements, or the supervision of someone in the preparation or audit of comparable public company financial statements.  The Board has determined that in order to best fulfill the functions of our Board and our Audit Committee, each member of the Board and the Audit Committee should ideally understand community banking and the local markets in which the Corporation and the Bank do business.  Accordingly, potential candidates who have such attributes in addition to having the experience the Board believes is necessary to qualify as "audit committee financial experts" are limited.  Further, the Board believes that the addition of an "audit committee financial expert" is not necessary at this time given the level of financial knowledge and experience the current members of the Audit Committee possess.
+Compensation and Employee Benefits Committee Members consist of Anton H. George, William R. Krieble, Ronald K. Rich and William J. Voges (Chairman).  The Board has determined that Messrs. George, Krieble, Rich and Voges are independent under the rules of the NASDAQ Global Select Market.  The Compensation and Employee Benefits Committee met five times during 2018.
+The primary objective of the Compensation and Employee Benefits Committee is to review and approve the Corporation's compensation strategy and the compensation of our executive officers and senior management.  In addition, among other responsibilities, the Compensation and Employee Benefits Committee establishes guidelines and oversees the administration of executive compensation plans and arrangements, as well as certain employee benefit plans.  A copy of the charter of the Compensation and Employee Benefits Committee is available on the Corporation's website at www.first-online.com on the "Investor Relations" page of the "About Us" section of the website under the link "Governance Documents."
+Compensation of Directors
+The goal of our director compensation package is to attract and retain qualified candidates to serve on the Board.  In setting compensation, the Board considers compensation levels of directors of other financial institutions of similar size.  Each director of the Corporation is also a director of First Financial Bank, N.A. (the "Bank"), the lead subsidiary bank of the Corporation.  The non-employee directors receive director fees from both the Corporation and the Bank.  During 2018, nonemployee directors received a $40,000 retainer from the Corporation and a $5,000 retainer from the Bank.  During 2018, each non-employee director of the Corporation and the Bank received a fee of $750 for each board meeting attended for the Corporation or the Bank.  In addition, Mr. Cox received a fee of $5,000 in connection with his services as Chairman of the Board.  
+Non-employee directors also receive a fee for each meeting attended of the Audit Committee of $1,000, the Compensation and Employee Benefits Committee of $1,000, the Governance and Nominating Committee of $500 and the Loan Committee of the Bank of $500.  No non-employee director served as a director of any other subsidiary of the Corporation.
+Employee directors receive no compensation for their service on the boards or board committees of the Corporation and the Bank. The table below summarizes the compensation paid by the Corporation to each non-employee director for the fiscal year ended December 31, 2018.
+Director Compensation
+[BEGIN TABLE]
+    Fees Earned or         
+Name   Paid in Cash       Total 
+W. Curtis Brighton   $ 82,750         $ 82,750   
+B. Guille Cox   84,750         84,750   
+Thomas Dinkel   80,500         80,500   
+Anton H. George   87,250         87,250   
+Gregory L. Gibson   77,750         77,750   
+William H. Krieble   83,750         83,750   
+Ronald K. Rich   84,250         84,250   
+Virginia L. Smith*   74,250         74,250   
+William J. Voges   82,250         82,250   
+[END TABLE]
+*Retired from the Board effective December 18, 2018
+First Financial Corporation Directors' Deferred Compensation Plan.  Prior to 2011, directors of the Corporation and the Bank were permitted to participate in a directors' deferred compensation plan.  Under the plan, a director could elect to defer up to $6,000 of his or her director's fees each year over a five-year period.  The amount of deferred fees was used to purchase an insurance product, of which the Corporation is the beneficiary, that funds benefit payments.  An amount equal to the face amount of the policy, in addition to an amount equal to the tax savings the Corporation will receive by obtaining the proceeds from the policy on a tax-free basis, will be paid to the director or his or her beneficiary.  Payment will be made to the director or his or her beneficiary in 120 monthly installments beginning on the first day of the month after the earlier of the director's 65th birthday or death.  Each year from the initial date of deferral until payments begin, the Corporation accrues a non-cash expense, which will equal, in the aggregate, the amount of the payments to be made to the director over the ten-year period.  For 2018, the allocated cost of the deferred directors' fees was $97,981.  This plan was closed to new participants in 2011.  During 2018, no directors deferred amounts under this plan, and those directors who have attained age 65 received payments attributable to previously-deferred amounts under the plan in the following amounts:  Mr. Dinkel - $54,000, Mr. Krieble - $10,363, Mr. Norman L. Lowery - $142,414 and Ms. Smith - $74,914.   
+Director Stock Ownership Guidelines
+The Board believes that directors more effectively represent the Corporation's shareholders if they are shareholders themselves.  Therefore, the Board has adopted stock ownership guidelines applicable to all directors, other than Norman L. Lowery, who is subject to the stock ownership guidelines for executive officers discussed under "Compensation Discussion and Analysis."  Under the guidelines, directors must own a number of shares of the Corporation's common stock equal in value to three times their annual Corporation retainer for services as a director.  Additionally, directors may not dispose of shares of Corporation stock until they have satisfied the guidelines.  Directors are expected to be in compliance with the stock ownership guidelines not later than five years after the date of their initial election or appointment as a director of the Corporation.  In the case of individuals who were directors when the current guidelines became effective, compliance was required by February 21, 2017.  All eight of our non-employee directors have met their stock ownership levels under these guidelines.
+Anti-Hedging Policy
+Hedging and similar monetization transactions by a director or an executive officer can lead to a misalignment between the objectives of that director or executive officer and the objectives of our shareholders. Accordingly, all directors, officers and employees are prohibited from engaging in hedging or monetization transactions with respect to the securities of the Corporation. 
+Compensation Committee Interlocks and Insider Participation
+During 2018, none of the members of the Compensation and Employee Benefits Committee was or is an officer or employee of the Corporation, and no executive officer of the Corporation served or serves on the compensation committee (or other board committee performing equivalent functions or, in the absence of any such committee, the entire board of directors)  or on the board of directors of any company that employed or employs any member of the Corporation's Compensation and Employee Benefits Committee.  In addition, no executive officer of the Corporation served or serves on the compensation committee (or other board committee performing equivalent functions or, in the absence of any such committee, the entire board of directors) of any company one of whose executive officers serves on our Board.
+W. Curtis Brighton and Norman L. Lowery serve on the board of directors of Lynch Coal Operators Reciprocal Corporation, an inactive mutual workers compensation insurance company which is in the process of winding down. Mr. Brighton serves as the general manager of the corporation and receives less than $20,000 annually in compensation for such service. Mr. Lowery does not participate in the determination of such compensation paid to Mr. Brighton, and Mr. Brighton does not serve on the Corporation's Compensation and Employee Benefits Committee.
+Certain Relationships and Related Transactions
+Certain family relationships exist among the executive officers of the Corporation.  Norman L. Lowery (the Vice Chairman, President, and Chief Executive Officer of the Corporation and the Bank) is the father of Norman D. Lowery (the Chief Operating Officer of the Corporation and the Bank) and the brother-in-law of Virginia L. Smith, a member of the Board until her retirement on December 18, 2018.  There are no arrangements or understandings between any of the directors and executive officers pursuant to which any of them have been selected for their respective positions.
+The Audit Committee is responsible for approving any transactions between the Corporation or its subsidiaries and any related party, including loans or extensions of credit and any sale of assets or other financial transactions.  Directors and executive officers of the Corporation and their associates were customers of, and have had transactions with, the Corporation and its subsidiaries in the ordinary course of business during 2018.  Comparable transactions may be expected to take place in the future.  During 2018, various directors and executive officers of the Corporation and their respective associates were indebted to the subsidiary banks from time to time.  These loans were made in the ordinary course of business on substantially the same terms, including interest rates and collateral, as those prevailing at the time for similar transactions with other persons not related to the Corporation and did not involve more than the normal risk of collectability or present other unfavorable features.  Loans made to directors and executive officers that are subject to federal banking regulations are exempt from the insider loan prohibitions included in the Sarbanes-Oxley Act of 2002.
+Related party transactions are evaluated on a case-by-case basis in accordance with the applicable provisions of the Articles of Incorporation and the Code of Business Conduct and Ethics of the Corporation (the "Code of Ethics").
+The provisions of the Articles of Incorporation apply to contracts or transactions between the Corporation and (i) any director; or (ii) any corporation, unincorporated association, business trust, estate, partnership, trust, joint venture, individual or other legal entity in which any director has a material financial interest or of which any director is a director, officer or trustee.  The provisions of the Code of Ethics apply to the directors, officers and employees of the Corporation.
+The Articles of Incorporation provide that a contract or transaction between the Corporation and any of the persons described above is valid for all purposes if the material facts of the contract or transaction and the director's interest were disclosed or known to the Board, a committee of the Board with authority to act thereon, or the shareholders entitled to vote thereon, and the Board, such committee or such shareholders authorized, approved or ratified the contract or transaction.
+The Code of Ethics provides that directors, officers and employees of the Corporation must make business decisions for the Corporation free of conflicting influences.  Such persons are expected to avoid situations that may lead to real or apparent material conflicts between such person's self-interest and such person's duties or responsibilities as a director, officer or employee of the Corporation.  The senior compliance officer is responsible for annually reaffirming compliance with the Code of Ethics by the directors, officers and employees of the Corporation. INFORMATION ABOUT THE NAMED EXECUTIVE OFFICERS
+The name, age, position and business experience of each named executive officer who is not a member of the Board is described below:
+Rodger A. McHargue, Age 57
+Mr. McHargue is the Chief Financial Officer of the Corporation and the Bank and also the Secretary and Treasurer of the Corporation, serving since 2010.  He joined the Corporation in 1994.  Prior to that, Mr. McHargue was employed at Bank One Indianapolis.  He received a B.S. degree in Economics and Finance from Indiana State University and an M.B.A. from Indiana State University.  He is also a graduate of the ABA Stonier Graduate School of Banking.
+Steven H. Holliday, Age 58 
+Mr. Holliday is the Chief Credit Officer of the Corporation and the Bank, serving since 2012.  Prior to joining the Corporation, Mr. Holliday was a Senior Vice President and Commercial Lending Executive at Old National Bancorp.  Mr. Holliday received his B.S. in Business from Indiana State University and an M.B.A. from the University of Illinois.  He holds a Credit Risk Certification designation through The Risk Management Association and is a graduate of Southern Illinois University School of Banking. 
+Norman D. Lowery, Age 51 
+Mr. Lowery is the Chief Operations Officer of the Corporation and the Bank, serving since 2010.  He joined the Corporation in 1990 and has held a management position in Private Banking, as well as having been a Trust Investment Officer.  Mr. Lowery received his B.A. degree from Indiana University and M.B.A. from Indiana Wesleyan University.  Mr. Lowery formerly held several professional accreditations, including, a Financial Industry Regulatory Authority Series 7 license; Uniform Securities Agent Series 63 license; and a Uniform Investment Adviser Series 65 license.  He is also an accredited Fiduciary Investment Manager. Mr. Lowery is a graduate of the Cannon Financial Institute Trust Investment School and Private Banking School. Mr. Lowery also graduated from the ABA Stonier Graduate School of Banking. 
+Karen L. Milienu, Age 58
+Ms. Milienu is the Chief Branch Banking Officer for the Bank, serving since 2011.  She joined the Corporation in 1997 and served as the Human Resources Director.  Prior to joining the Corporation Ms. Milienu held positions as an Assistant Manager and various human resources positions at Fort Wayne National Corporation.  Ms. Milienu received her B.A. degree from Purdue University and M.S. degree from Indiana University.  Ms. Milienu holds several professional accreditations including, Senior Professional in Human Resources, Certified Compensation Professional, Certified Sales/Management Development Trainer, and Certified Sales Trainer.
+CORPORATE GOVERNANCE
+General
+The Corporation aspires to the highest ethical standards for its employees, officers and directors and remains committed to the interests of its shareholders.  The Corporation believes it can achieve these objectives with a plan for corporate governance that clearly defines responsibilities, sets high standards of conduct and promotes compliance with the law.  The Board has adopted policies and procedures designed to foster the appropriate level of corporate governance.  Certain of these policies and procedures are discussed below.
+Consideration of Director Candidates
+The Board seeks directors who represent a variety of backgrounds and experiences that will enhance the quality of the Board's deliberations and decisions.  When searching for new candidates, the Governance and Nominating Committee considers the evolving needs of the Board and searches for candidates who will fill any current or anticipated gaps.  The Governance and Nominating Committee generally considers, among other matters, a candidate's experience, skills, expertise, diversity, personal and professional integrity, character, business judgment, time available to serve, dedication, conflicts of interest and ability to oversee the Corporation's business and affairs.  The Governance and Nominating Committee does not have a formal diversity policy; however, both the Board and the Governance and Nominating Committee believe it essential that Board members represent diverse experiences and viewpoints.  As a result of the unanticipated retirement of Virginia L. Smith from the Board on December 18, 2018, our Board does not currently have a woman member. The Board and the  Governance and Nominating Committee will be particularly mindful of this when searching for new candidates. The Governance and Nominating Committee considers the entirety of each candidate's credentials.  With respect to directors who are nominated for re-election, the Governance and Nominating Committee also considers such director's previous contributions to the Board.
+Board Leadership Structure and Lead Independent Director
+Our Board regularly reviews and assesses the effectiveness of our leadership structure and will implement any changes as it deems appropriate.  Since 2013 the size of the Board has been set at ten and there is currently one vacancy on the Board.
+We have determined our Chairman of the Board to be independent.  Our President and Chief Executive Officer is also a director.  The Board has separated the roles of Chief Executive Officer and Chairman of the Board in recognition of the differences between the two roles.  The Chief Executive Officer is responsible for setting the strategic direction for the Corporation and the day-to-day leadership and performance of the Corporation, while the Chairman provides guidance to the Chief Executive Officer and sets the agenda for and presides over Board meetings.
+The Board has appointed the Chairman of our Governance and Nominating Committee, Ronald K. Rich, to serve as our Lead Independent Director to preside at all meetings of the independent directors.  As Lead Independent Director, Mr. Rich acts as a liaison between the Board and the Chief Executive Officer.  He also develops the agendas for the executive sessions.
+We believe that the separate responsibilities of, and coordination between, our Chairman, Chief Executive Officer and our Lead Independent Director enhances our Board's oversight of communications with our shareholders and is an effective leadership structure for our circumstances.  Our Board also believes that the separately defined roles of the Chairman, Chief Executive Officer and Lead Independent Director provide for effective corporate governance and enable the Chief Executive Officer to focus his time and energy on operating and managing the Corporation while leveraging the experiences and perspectives of the Chairman and Lead Independent Director.
+Risk Oversight
+Our Board has an active role, as a whole and also at the committee level, in overseeing management of the Corporation's risks.  The Board regularly reviews information regarding the Corporation's financial results, operations and liquidity, as well as the risks associated with each.  
+The Audit Committee oversees management of the Corporation's financial risks, including the oversight of our internal audit function and potential conflicts of interest.  The Compensation and Employee Benefits Committee is responsible for overseeing the management of risks relating to the Corporation's executive compensation plans and arrangements.  The Governance and Nominating Committee manages risks associated with the independence of the Board.  
+The Director's Enterprise Risk Management Committee and the Enterprise Risk Management Committee advise and assist the Board in its oversight and management of enterprise risk.  The Enterprise Risk Management Committee is composed of Board members W. Curtis Brighton, William R. Krieble and Ronald K. Rich, the Chief Executive Officer, the Chief Operating Officer, the Chief Financial Officer, the Chief Credit Officer, Chief Risk Officer, the Chief Compliance Officer, the Chief Branch Banking Officer, the heads of Operations, Human Resources, Loan Review, Auditing, Information Technology, General Counsel, the Security Officer, the Chief Information Security Officer, and a representative from our subsidiary The Morris Plan Company of Terre Haute.  The Director's Enterprise Risk Management Committee is composed of Board members W. Curtis Brighton (Chairman), William R. Krieble, and Ronald K. Rich, who are responsible for, among other matters, coordinating risk management issues with other Board and management level committees as well as establishing and maintaining effective policies, procedures and practices for identifying, measuring and mitigating enterprise risk.  The Enterprise Risk Management Committee and the Director's Enterprise Risk Management Committee receive regular reports from management and meet no less frequently than quarterly to discuss matters relating to the management of the various components of enterprise risk, including credit, interest rate, liquidity, compliance, technology, transaction, reputation and strategic risks.  
+The Corporation's and the Bank's Cyber Security Committees evaluate and oversee the management of risks relating to our information technology infrastructure.  The Corporation's and the Bank's CRA Committees evaluate and oversee the management of risks relating to our compliance with the Community Reinvestment Act.  The Bank's Fair Lending Committee evaluates and oversees the management of risks relating to our lending policies and practices.
+While each committee is responsible for evaluating certain risks and overseeing the management of these risks, the entire Board is regularly informed about such risks through committee reports. Director Independence
+The Board has determined that all current members of the Board except Norman L. Lowery are independent. During 2018 Virginia L. Smith was not independent, as independence is defined under the listing standards of the NASDAQ Global Select Market applicable to the Corporation. Ms. Smith retired from the board on December 18, 2018. The Independent Directors met four times during 2018. 
+Corporate Governance Guidelines
+The Board has adopted Corporate Governance Guidelines containing general principles regarding the functions of the Board and its committees.  The Governance and Nominating Committee periodically reviews the Corporate Governance Guidelines and will recommend changes to the Board as it deems appropriate.  A copy of the Corporate Governance Guidelines is available on the Corporation's website at www.first-online.com on the "Investor Relations" page of the "About Us" section of the website under the link "Governance Documents."
+Code of Ethics
+The Board has adopted a Code of Business Conduct and Ethics (the "Code of Ethics") that applies to all of the Corporation's directors, officers and employees, including its principal executive officer, principal financial officer, principal accounting officer and controller.  The Corporation discloses any amendments to the Code of Ethics by posting such amendments on its website.  In addition, any waivers of the Code of Ethics for directors or executive officers of the Corporation will be disclosed in a report on Form 8-K filed with the SEC.  A copy of the Code of Ethics is available on the Corporation's web site at www.first-online.com on the "Investor Relations" page of the "About Us" section of the website under the link "Governance Documents."
+Communications with Directors
+Any shareholder who desires to contact the Chairman of the Board, the Lead Independent Director or the other members of the Board, or who desires to make a recommendation of a director candidate for consideration by the Governance and Nominating Committee, may do so electronically by sending an email to the following address:  directors@ffc-in.com.  Alternatively, a shareholder can contact the Chairman of the Board, Lead Independent Director, Chairman of the Governance and Nominating Committee or the other members of the Board by writing to:  First Financial Corporation, One First Financial Plaza, P.O. Box 540, Terre Haute, Indiana 47808.  Communications received electronically or in writing are distributed to the Chairman of the Board, Lead Independent Director, Chairman of the Governance and Nominating Committee or the other members of the Board as appropriate depending on the facts and circumstances outlined in the communication received.  For example, if any complaints regarding accounting, internal accounting controls and auditing matters are received, then they will be forwarded by the Secretary to the Chairman of the Audit Committee for review.
+Governance Documents
+For further information, including electronic versions of our Corporate Governance Guidelines, Code of Business Conduct and Ethics, Audit Committee Charter, Compensation and Employee Benefits Committee Charter, and Governance and Nominating Committee Charter, please contact the Secretary of the Corporation, Rodger A. McHargue, First Financial Corporation, One First Financial Plaza, P.O. Box 540, Terre Haute, Indiana  47808, (812) 238-6000, or visit our website at www.first-online.com on the "Investor Relations" page of the "About Us" section of the website under the link "Governance Documents."
+AUDIT COMMITTEE REPORT
+In accordance with its written charter adopted by the Board, the Audit Committee of the Board assisted the Board in fulfilling its responsibility for oversight of the quality and integrity of the accounting, auditing and financial reporting practices of the Corporation.  During 2018, the Audit Committee met four times, and the Audit Committee chair, as representative of the Audit Committee, discussed the interim financial information contained in each quarterly earnings announcement with management and the independent public accounting firm prior to public release.
+In discharging its oversight responsibility as to the audit process, the Audit Committee obtained from the independent public accounting firm a formal written statement describing all relationships between the independent public accounting firm and the Corporation that might bear on the independent public accounting firm's independence consistent with applicable  requirements of the Public Company Accounting Oversight Board (United States) regarding the independent public accounting firm's communications with the Audit Committee concerning independence, and has discussed with the independent public accounting firm any relationships that may impact the independent public accounting firm's objectivity and independence and satisfied itself as to the independent public accounting firm's independence.  The Audit Committee also discussed with management, the internal auditors and the independent public accounting firm the quality and adequacy of the Corporation's internal controls and the internal audit function's organization, responsibilities, budget and staffing.  The Audit Committee reviewed both with the independent and internal auditors their audit plans, audit scope and identification of audit risks.
+The Audit Committee discussed and reviewed with the independent public accounting firm all communications required by standards of the Public Company Accounting Oversight Board, including the matters required to be discussed by Auditing Standard No. 16, "Communication with Audit Committees," as amended (AICPA, Professional Standards, Vol. 1. AU Section 380) and, with and without management present, discussed and reviewed the results of the independent public accounting firm's examination of the financial statements.  The Audit Committee also discussed the results of the internal audit examinations.
+The Audit Committee reviewed and discussed the audited financial statements of the Corporation as of and for the year ended December 31, 2018, with management and the independent public accounting firm.  Management represented to the Audit Committee that the Corporation's financial statements as of and for the year ended December 31, 2018 were prepared in accordance with accounting principles generally accepted in the United States.  Management has the primary responsibility for the preparation of the Corporation's internal controls and financial statements and the independent public accounting firm has the responsibility for performing an independent audit of our consolidated financial statements in accordance with the standards of the Public Company Accounting Oversight Board.
+Based on the above-mentioned review and discussions with management and the independent public accounting firm, the Audit Committee recommended to the Board that the Corporation's audited financial statements be included in its 2018 Annual Report on Form 10-K for filing with the SEC.
+[BEGIN TABLE]
+  Members of the Audit Committee 
+  Thomas T. Dinkel, Chairman 
+  Anton H. George 
+  W. Curtis Brighton 
+[END TABLE]
+ EXECUTIVE COMPENSATION DISCUSSION AND ANALYSIS
+This Compensation Discussion and Analysis ("CD&A") describes our executive compensation program for our Named Executive Officers ("NEOs") listed below. This CD&A also summarizes the Compensation and Employee Benefits Committee's ("Compensation Committee" or "Committee") process for making pay decisions, as well as its rationale for specific decisions related to the 2018 performance year.
+[BEGIN TABLE]
+NEO Position 
+Norman L. Lowery Chief Executive Officer and President (our "CEO") 
+Rodger A. McHargue Chief Financial Officer (our "CFO") 
+Norman D. Lowery Chief Operations Officer (our "COO") 
+Steven H. Holliday Chief Credit Officer 
+Karen L. Milienu Chief Branch Banking Officer 
+[END TABLE]
+EXECUTIVE SUMMARY
+Our 2018 Performance
+Fiscal 2018 was a very strong year for the Corporation, with record operating and net income results. Financial highlights included:
+[BEGIN TABLE]
+• Record net income of $46.6 million versus $29.1 million for fiscal 2017. The increase in 2018 net income includes the recovery of a security previously written down for other-than temporary impairment, which contributed $2.4 million pre-tax to interest income and $4.5 million pre-tax to other income.  
+• Diluted net income per common share was $3.80 versus $2.38 for fiscal 2017.  
+• Return on assets for the twelve months ended December 31, 2018 was 1.57% compared to 0.98% for the twelve months ended December 31, 2017. 
+• Total loans outstanding increased $47.2 million, or 2.48%, to $1.95 billion as of December 31, 2018, from $1.91 billion as of December 31, 2017. 
+• Total deposits were $2.44 billion for 2018, compared to $2.46 billion as of December 31, 2017. 
+• Return on equity for the twelve months ended December 31, 2018 was 10.98% compared to 6.69% for the twelve months ended December 31, 2017. 
+• The net interest margin for 2018 increased to 4.32% compared to 4.11% for fiscal 2017.  
+• The ratio of nonperforming loans to total loans and leases was 0.85% as of December 31, 2018 versus 1.14% as of December 31, 2017. 
+• Book value per share was $36.06 at December 31, 2018 compared to $33.77 at December 31, 2017.  
+• Shareholders' equity was $442.7 million at December 31, 2018 compared to $413.6 million on December 31, 2017.  
+[END TABLE]
+ Best Compensation Pay Policies & Practices
+Our executive compensation program is grounded in the following policies and practices, which promote sound compensation governance, enhance our pay-for-performance philosophy and further align our executives' interests with those of our shareholders:
+[BEGIN TABLE]
+  WHAT WE DO   WHAT WE DO NOT DO 
+P Significant emphasis on performance-based, "at-risk" compensation x No non-performance based incentive awards 
+P Incentive award metrics that are objective and tied to key company performance metrics. x No hedging transactions by executive officers or directors 
+P Equity awards granted based on performance and which vest over three years to promote retention x No excise tax gross-ups in our employment agreements 
+P Incentive plans with threshold performance and associated payout levels, below which no incentive awards are paid. Threshold payouts for both the STIP and LTIP are 80% of target. x No automatic renewal ("evergreen") provisions in our employment agreements. 
+P Incentive plans with capped maximum payouts (125% of target for the STIP for the CEO, 120% of target for the STIP for other NEOs and 150% of target for the LTIP) x No "single trigger" change in control severance 
+P Compensation recoupment "claw-back" policy.     
+P Share ownership guidelines (for executives and directors)     
+P Maintain target total cash compensation and target total direct compensation for our Named Executive Officers which, in aggregate, is aligned with market-competitive levels.     
+[END TABLE]
+2018 Compensation Actions
+In 2018 the Compensation Committee took the following actions concerning the compensation of our CEO and other NEOs.
+[BEGIN TABLE]
+• Base Salaries. We made base salary increases in 2018 based on individual performance and experience considerations for each executive and for our NEOs other than the CEO, in continuation of our multi-year steps to better align the base salaries of those NEOs with our peer banks and other competitors. Prior to these adjustments, those executives, were paid base salaries below the market median identified by the Committee's independent compensation consultant. 
+[END TABLE]
+[BEGIN TABLE]
+• Short-Term Incentive Compensation. Under our short-term incentive plan ("STIP"), we used two Corporation-wide performance measures - net income and efficiency ratio - to assess the performance of our CEO. For our other NEOs, Bank-level net income and efficiency ratio, controllable Bank departmental and additional Bank measures were used. As shown in the tables on pages 23-24, the above target performance on Corporation and Bank net income, efficiency ratio, and departmental controllable expenses, combined with varying performance results on other Bank measures resulted in a STIP payout at 108.11% of target for our CEO, and payouts ranging from 87.64% to 109.95% of target for the other NEOs.  
+[END TABLE]
+[BEGIN TABLE]
+• Long-Term Incentive Compensation. We make awards to our CEO and other NEOs under our performance-based long-term equity incentive plan ("LTIP") in February of each year based on how we have performed against certain performance measures over the prior three-year period. For 2018 performance, we used four measures - return on assets, return on equity, tangible book value and earnings per share. We made awards in February 2019 based on performance through 2018. As shown in the table on page 25, except for tangible book value for which we performed slightly below target, we achieved performance above target in each of these categories. This resulted in LTIP awards of 108.83% of target for the CEO and 107.95% of target for the other NEOs.  
+[END TABLE]
+ 2018 CEO Compensation At-A-Glance
+The total direct compensation (base salary, STIP and LTIP) of our CEO for 2018 was approximately 2.4% higher than his total direct compensation for 2017 based on the following:
+[BEGIN TABLE]
+• The CEO's base salary increased 1% in 2018, which was lower than overall salary increases in the market and in the Corporation's broader workforce and reflects the CEO's desire to minimize adjustments to his base salary to increase the salary increase budget dollars available for other employees.  
+• Our 2018 performance was better than 2017, resulting in a higher STIP payment for 2018 (108.11% of target) versus 2017 (105.95% of target).  
+• The 2018 LTIP payout percentage of 108.83% for 2018, which was greater than the payout percentage of 105.76% for 2017, aligned with the Corporation's stronger business performance. 
+[END TABLE]
+ WHAT GUIDES OUR EXECUTIVE COMPENSATION PROGRAM
+Compensation Philosophy
+Our goal is to maintain a competitive, balanced compensation program that rewards our NEOs for current year performance and for the creation of long-term shareholder value, without exposing the Corporation to unreasonable risk, including credit, interest rate, liquidity, reputation, compliance, and transaction risk. Our executive compensation philosophy is grounded on three fundamental principles:
+[BEGIN TABLE]
+Principle Goal How It Is Accomplished 
+Pay for Performance Drive performance relative to our financial goals, balancing short-term operational objectives with long-term strategic goals. Establish corporate, departmental, and individual goals consistent with our strategic plan and budget that provide the basis for the short and long-term metrics used to measure our success and the value that we create for shareholders. 
+Competitiveness Pay at levels that will attract, motivate, and retain highly-qualified, talented executives who are focused on the long-term best interests of our shareholders. Reward our executives for Corporation, Bank and individual performance.    Align compensation and variable incentives with measurable, objective, business results and appropriate risk management.
+Competitiveness Pay at levels that will attract, motivate, and retain highly-qualified, talented executives who are focused on the long-term best interests of our shareholders. Reward our executives for Corporation, Bank and individual performance.    Align compensation and variable incentives with measurable, objective, business results and appropriate risk management.
+Shareholder Alignment Reinforce a culture of ownership and long-term commitment to shareholder value creation. NEOs are required to be shareholders and own a minimum level of Company stock throughout their employment.   The size of LTIP awards are based entirely on performance and vest over a three-year period.
+Shareholder Alignment Reinforce a culture of ownership and long-term commitment to shareholder value creation. NEOs are required to be shareholders and own a minimum level of Company stock throughout their employment.   The size of LTIP awards are based entirely on performance and vest over a three-year period.
+[END TABLE]
+To encourage our NEOs to execute our business plan and create shareholder value, we seek to align each executive's compensation with our short-term and long-term financial goals. We focus on total direct compensation, which is the sum of base salary, short-term incentives, and long-term equity-based incentives. Our total direct compensation is weighted heavily toward results, with a substantial portion of direct total compensation "at risk."
+The following table shows the principal components of total direct compensation, each one contributing to the accomplishment of our compensation program goals:
+[BEGIN TABLE]
+Component Role 
+Base Salary Fixed cash compensation based on competitive pay levels, the executive's performance, level of responsibility, experience and tenure to facilitate the acquisition and retention of talented, experienced management. 
+Short-Term Incentive ("STIP") Annual variable compensation, payable in cash, based on the achievement of pre-determined objective, corporate or bank performance goals to reward execution and performance which support and drive shareholder value. 
+Long-Term Incentive ("LTIP") Equity compensation awarded in February of each year based on the achievement of pre-established, long-term, objective, performance goals over a three-year period to align the executive's compensation with the prudent management of the Corporation's assets and earnings growth objectives. 
+[END TABLE]
+ Pay Mix
+The charts below show the target total direct compensation of our CEO and our other NEOs for fiscal 2018. These charts illustrate that a large portion of NEO total direct compensation is variable (52% for our CEO and an average of 41% for our other NEOs).
+THE PROCESS FOR SETTING EXECUTIVE COMPENSATION
+Role of the Compensation and Employee Benefits Committee
+The Compensation Committee is responsible for determining our executive compensation philosophy and the establishment, implementation, and monitoring of our executive compensation program. The Committee is composed entirely of independent Directors as determined under the rules of the NASDAQ Global Select market. Each year, the Compensation Committee reviews our executive compensation program to assure that the program and the compensation for each NEO are consistent with our compensation philosophy and, specifically, that a substantial portion of our NEOs' compensation is paid only if pre-established objective performance goals are met or exceeded. In exercising its duties, the Committee considers all elements of our executive compensation program, as well as individual performance, Corporation and Bank performance, and market compensation considerations. The Compensation Committee determines the appropriate allocation of each NEO's potential compensation among base salary, short-term incentive compensation, long-term incentive compensation, and other components. Based on our strategic plan and budget, the Committee sets the appropriate goals and measures under the STIP and LTIP and communicates those goals and measures to covered NEOs in February.
+Each year, the Compensation Committee also reviews our performance compared to short-term and long-term objectives, reviews our executive officer pay practices, evaluates risks associated with our executive compensation program, and approves all awards under our short-term and long-term incentive plans. The Committee reports its decisions to the Board.
+[BEGIN TABLE]
+Setting Performance Goals In analyzing financial measures and determining the performance goals for the year, the Compensation Committee spends significant time reviewing the Corporation's annual strategic plan and budget, which were approved by the Board in November and December of the preceding year. The Committee establishes a target performance goal for performance measures determined to be important to the Corporation's, the Bank's or a department's overall performance for the coming year. The performance goal for each of the performance measures is intended to be a stretch goal achievable through sustained execution of the strategic plan, with certain target goals set at 105% of plan. The Committee assigns weights to each of performance measures, with areas of focus for achieving greater overall performance assigned higher weightings. To focus management on sustaining its continued, disciplined execution and continuing earnings growth, more weight was assigned to income and expense-related measures.
+Setting Performance Goals In analyzing financial measures and determining the performance goals for the year, the Compensation Committee spends significant time reviewing the Corporation's annual strategic plan and budget, which were approved by the Board in November and December of the preceding year. The Committee establishes a target performance goal for performance measures determined to be important to the Corporation's, the Bank's or a department's overall performance for the coming year. The performance goal for each of the performance measures is intended to be a stretch goal achievable through sustained execution of the strategic plan, with certain target goals set at 105% of plan. The Committee assigns weights to each of performance measures, with areas of focus for achieving greater overall performance assigned higher weightings. To focus management on sustaining its continued, disciplined execution and continuing earnings growth, more weight was assigned to income and expense-related measures.
+[END TABLE]
+Role of Management
+Each year, prior to any adjustments in compensation, our CEO provides the Compensation Committee with a review of our strategic and financial performance and the compensation and performance of all NEOs other than himself. The CEO  may make recommendations regarding the compensation of those NEOs to the Committee for review and approval. The Committee generally requests information relevant to its determinations from Corporation personnel, including our Chief Financial Officer. However, no NEO other than our CEO attends Committee meetings. The Committee invites our CEO to attend its meetings at which it discusses the compensation of NEOs, however, our CEO does not attend the portion of Committee meetings at which his compensation is discussed. The Corporation's Human Resources Management provides information and other support to our CEO and the Committee in connection with the Committee's deliberations.
+Role of Outside Consultants
+The Compensation Committee is authorized to retain its own advisors. For 2018, the Committee retained Pearl Meyer to serve as its independent compensation consultant. The Committee chose Pearl Meyer based upon the firm's strong experience and reputation in working with banking organizations. Under its engagement letter, Pearl Meyer acknowledged that the firm was retained by and performs its services for the Committee. The Committee reviewed information provided by Pearl Meyer and did not identify conflicts of interest relating to Pearl Meyer's work for the Committee. In performing work for the Committee, Pearl Meyer interacts with management as part of the process for developing information and data required by the Committee. Pearl Meyer has advised the Committee that our executive compensation program is generally aligned with market practice, and that total cash compensation (base salary and STIP) and total direct compensation (base salary, STIP and LTIP) approximates the peer group median.
+The Role of the Compensation Peer Group
+For purposes of helping the Compensation Committee make decisions about setting compensation levels, Pearl Meyer, with input from management, developed the following peer group of regional banks for 2018:
+[BEGIN TABLE]
+Compensation Peer Group 
+1st Source Corporation Great Southern Bancorp Inc. 
+City Holding Co. Horizon Bancorp 
+CNB Financial Corp. Independent Bank Corporation 
+Community Trust Bancorp, Inc. Lakeland Financial Corp. 
+First Busey Corporation Macatawa Bank Corporation  
+First Mid-Illinois Bancshares, Inc. MidWest One Financial Group, Inc 
+German American Bancorp Inc. Peoples Bancorp, Inc. 
+[END TABLE]
+The Compensation Committee, Pearl Meyer and management believe these companies represent a good cross-section of similarly-sized financial institutions which, like us, operate significant branch networks outside of metropolitan areas.
+In its review, Pearl Meyer also found the design of the Corporation's executive compensation program to be generally consistent with market best practices and the design of the peers. Pearl Meyer noted that the total direct compensation of our NEOs approximates market median levels. The market median levels developed by Pearl Meyer reflected data from the peer group, as well as published compensation data. The Compensation Committee reviews market data in establishing compensation levels, but it does not tie its determinations to a particular benchmark.
+2018 NEO COMPENSATION
+Elements of Compensation
+Base Salary. Base salary is a fixed component of total cash compensation. The Compensation Committee attempts to set base salaries for a particular executive position at a level that recognizes the executive's contributions and importance to the organization and will facilitate the attraction and retention of a skilled management team.
+The starting point for determining any adjustments to a NEO's base salary is the annual increase in the Corporation's annual salary pool approved by the full Board. Individual base salary increases for all employees, including the NEOs, are awarded as allocations from that salary pool. In establishing the amount of the pool, the Compensation Committee and the Board consider general economic conditions (such as inflation and recessionary factors), the performance of the Corporation and the Bank, and other sources of information. The Compensation Committee adjusts the base salary of a NEO after reviewing his or her performance over the past fiscal year. The Committee's review focuses on the NEO's attainment of pre-determined, objective performance goals, supervisory skills, dependability, initiative, skill level, and overall value to the Corporation. The Committee considers all of these factors as a whole, without giving a pre-established weighting to any particular factor, and determines any adjustment to the NEO's base salary.
+In addition, the Compensation Committee considers the base salaries of our NEOs relative to benchmarking data and recommendations provided by its independent compensation consultant.
+The table below shows the base salary increases for 2018, which were higher than the salary pool percentage for all NEOs except the CEO and Mr. Holliday, due primarily to the continuation of staged increases in response to below market base salary positioning prior to the adjustments.
+[BEGIN TABLE]
+NEO 2017 Base Salary 2018 Base Salary% Change 
+Norman L. Lowery 673,000 679,730 1% 
+Rodger A. McHargue 247,300 272,503 10% 
+Norman D. Lowery 270,120 297,132 10% 
+Steven H. Holliday 231,147 238,313 3% 
+Karen L. Milienu 194,743 214,217 10% 
+[END TABLE]
+Short-Term Incentive Compensation. The Compensation Committee makes annual incentive awards to the NEOs and other management employees pursuant to the STIP. Each year, the Committee establishes and approves the target award levels for each NEO, performance goals for various Corporation, Bank or departmental performance measures, the relative weight accorded to each performance goal.
+Target Award Levels. The target award amounts for 2018 are set forth in the following table.  The target award amounts, as a percentage of base salary, are slightly below the benchmarked market median. 
+[BEGIN TABLE]
+NEO 2018 Target Award Level (% of base salary)2018 Target Award Level ($)
+NEO 2018 Target Award Level (% of base salary)2018 Target Award Level ($)
+Norman L. Lowery 46.4% 315,395 
+Rodger A. McHargue 35% 97,231 
+Norman D. Lowery 35% 103,996 
+Steven H. Holliday 35% 83,410 
+Karen L. Milienu 25% 53,554 
+[END TABLE]
+Performance Goals, Measures, and Scorecard Results. The STIP uses a "scorecard" approach. Here's how it works:
+[BEGIN TABLE]
+• The amount of the STIP award earned is determined based on an overall score. 
+• The overall score is the sum of the weighted scores achieved for each of the performance measures. 
+• The weighted score is based on the score for the particular performance measure multiplied by the weight assigned to that measure. 
+• A score of 100% is earned for a performance measure by achieving the target performance goal for that measure. A score above or below 100% is earned for performance above or below the goal. 
+• The amount of the STIP earned is determined by multiplying the overall score (the sum of the performance scores for the performance measures) times the executive's target bonus amount. 
+• No STIP award is earned if the overall score is less than 80%. The maximum overall score is 125% for the CEO and 120% for the other NEOs. 
+[END TABLE]
+In February 2018, the Compensation Committee established goals based upon the Board-approved business plan and budgets which, at that time, did not reflect fully the effect the positive impact the change in corporate income tax rates from the Tax Cuts and Jobs Act of 2017 would have on our financial performance in 2018. At management's recommendation, the Compensation Committee adjusted (increased) the established goals to take into account the impact of the tax rate change. For our CEO, Mr. Norman L. Lowery, the performance measures related to Corporation-wide performance, and both targets were set at 105% above the 2018 business plan to incorporate additional stretch to achieve a target level payout. 
+The table below provides an overview of Mr. Lowery's performance measures and their respective, target performance goals, the results, and levels of achievement against the goals, weightings and resulting scores.
+Mr. Norman L. Lowery: 2018 Scorecard
+[BEGIN TABLE]
+Performance MeasureTarget Goal ($000)Result, as adjusted ($000)Level of Achievement (% of Goal)Weighting Resulting Score
+Performance MeasureTarget Goal ($000)Result, as adjusted ($000)Level of Achievement (% of Goal)Weighting Resulting Score
+Net Income $41,715 $46,583 111.67% 60% 67.00% 
+Efficiency Ratio 60.62% 58.98% 102.78% 40% 41.11% 
+Overall Score         108.11% 
+[END TABLE]
+The performance measures for the other NEOs are tied to Bank and/or departmental performance.  For each of these NEOs, the net income and efficiency ratio targets reflected 105% of the Bank's business plan.  The tables below provide an overview of the performance measures and their respective, target performance goals, results (adjusted to eliminate the effect of the TCJA-charge), and levels of achievement against the goals, weightings and resulting scores for the other NEOs.
+Mr. Rodger McHargue: 2018 Scorecard
+[BEGIN TABLE]
+Performance MeasureTarget Goal ($000)Result, as adjusted ($000)Level of Achievement (% of Goal)Weighting Resulting Score
+Performance MeasureTarget Goal ($000)Result, as adjusted ($000)Level of Achievement (% of Goal)Weighting Resulting Score
+Net Income $38,063 $43,742 114.92% 50% 57.46% 
+Efficiency Ratio 62.53% 60.57% 103.24% 25% 25.81% 
+Dept. Controllable $580 $554 104.70% 25% 26.18% 
+Overall Score         109.45% 
+[END TABLE]
+Mr. Norman D. Lowery: 2018 Scorecard
+[BEGIN TABLE]
+Performance MeasureTarget Goal ($000)Result, as adjusted ($000)Level of Achievement (% of Goal)Weighting Resulting Score
+Performance MeasureTarget Goal ($000)Result, as adjusted ($000)Level of Achievement (% of Goal)Weighting Resulting Score
+Net Income $38,063 $43,742 114.92% 50% 57.46% 
+Efficiency Ratio 62.53% 60.57% 103.24% 25% 25.81% 
+Dept. Controllable $5,228 $5,217 100.22% 25% 25.05% 
+Overall Score         108.33% 
+[END TABLE]
+ Mr. Steve Holliday: 2018 Scorecard
+[BEGIN TABLE]
+Performance MeasureTarget Goal ($000)Result, as adjusted ($000)Level of Achievement  (% of Goal)Weighting Resulting Score
+Performance MeasureTarget Goal ($000)Result, as adjusted ($000)Level of Achievement  (% of Goal)Weighting Resulting Score
+Net Income $38,063 $43,742 114.92% 40% 45.97% 
+Efficiency Ratio 62.53% 60.57% 103.24% 20% 20.65% 
+Non-Performing Loans 1.45% 0.85% 170.59% 2.5% 4.26% 
+Delinquency 0.90% 0.79% 113.92% 2.5% 2.85% 
+Total Loan Controllable $66,912 $65,761 98.28% 10% 9.83% 
+Total Loan Growth 5.00% 3.70% 74.02% 15% 11.10% 
+Net Charge-Offs/Loans 0.15% 0.14% 107.14% 5% 5.36% 
+Total Loan NIM 2.75% 2.71% 98.55% 5% 4.93% 
+Overall Score         104.95% 
+[END TABLE]
+Ms. Karen Milienu: 2018 Scorecard
+[BEGIN TABLE]
+Performance MeasureTarget Goal ($000)Result, as adjusted ($000)Level of Achievement (% of Goal)Weighting Resulting Score
+Performance MeasureTarget Goal ($000)Result, as adjusted ($000)Level of Achievement (% of Goal)Weighting Resulting Score
+Net Income $38,063 $43,742 114.92% 20% 22.98% 
+Return on Assets 1.33% 1.51% 113.53% 20% 22.71% 
+Return on Equity 9.77% 11.12% 113.82% 20% 22.76% 
+Product Controllable $33,283 $33,213 99.79% 10% 9.98% 
+IL Growth 5.00% 4.60% 92.02% 10% 9.2% 
+Deposit Growth 5.02% (3.52)% (70.11)% 20% —% 
+Overall Score         87.64% 
+[END TABLE]
+2018 STIP Payouts. The NEOs were awarded the following STIP awards based on their overall scorecard results as follows:
+[BEGIN TABLE]
+NEO 2017 Target Award Level (% of base salary)2017 Target Award Level ($)Overall Scorecard ResultActual STIP Earned ($)
+NEO 2017 Target Award Level (% of base salary)2017 Target Award Level ($)Overall Scorecard ResultActual STIP Earned ($)
+NEO 2017 Target Award Level (% of base salary)2017 Target Award Level ($)Overall Scorecard ResultActual STIP Earned ($)
+Norman L. Lowery 46.4% $315,395 108.11% $340,988 
+Rodger A. McHargue 35% $97,231 109.45% $106,416 
+Norman D. Lowery 35% $103,996 108.33% $112,654 
+Steven H. Holliday 35% $83,410 104.95% $87,534 
+Karen L. Milienu 25% $53,554 87.64% $46,932 
+[END TABLE]
+The performance-based LTIP awards are made in restricted stock having value equal to the LTIP award earned. The restricted stock vests in three equal installments beginning on December 31 of the year of the grant and the following two years. The Compensation Committee believes the use of performance criteria for determining the size of the LTIP award, followed by a three-year vesting schedule, reinforces both the long-term incentive and retention purposes of the LTIP award while establishing an appropriate balance of risk and incentive. Target Award Levels. The LTIP award target for awards granted in February 2019 based on performance through 2018 are set forth in the table below.  In aggregate, these target award amounts, as a percentage of base salary, are aligned with the market median, but vary above or below median on an individual basis.
+[BEGIN TABLE]
+NEO 2017 Target Award Level 
+Norman L. Lowery 60% 
+Rodger A. McHargue 40% 
+Norman D. Lowery 40% 
+Steven H. Holliday 40% 
+Karen L. Milienu 20% 
+[END TABLE]
+Performance Measures. For the three-year performance period ending December 31, 2018 ("2016-2018 performance period"), the Compensation Committee approved the following performance measures on which to base LTIP awards: return on average assets, return on average equity, tangible book value and Earnings Per Share ("EPS").
+The Compensation Committee establishes a performance goal for each of these measures based on the Corporation's and Bank's strategic plan and budgets, and weights the goals based on the Committee's assessment of the relative importance of the measure to overall shareholder value. The amount of an NEO's LTIP award is based on the overall score achieved and the NEO's LTIP award target.
+The amount of LTIP earned for the 2016 - 2018 performance period by each NEO reflects both the target award opportunity for each NEO and the overall performance result. In accordance with SEC disclosure rules, the LTIP award based on performance through December 31, 2018 and granted in February 2019 will be reported in the 2020 proxy statement.
+For our CEO, Mr. Norman L. Lowery, the performance measures relate to Corporation-wide performance. The table below provides an overview of Mr. Lowery's performance measures and their respective, target performance goals, results, and levels of achievement against the goals, weightings and resulting scores for the LTIP awards granted in February 2019 based on performance through the end of 2018.
+Mr. Norman L. Lowery: 2016 - 2018 Scorecard
+[BEGIN TABLE]
+Performance MeasureTarget Goal Result (as adjusted) Level of Achievement (% of Goal)Weighting Resulting Score
+Performance MeasureTarget Goal Result (as adjusted) Level of Achievement (% of Goal)Weighting Resulting Score
+Return on Assets 1.18% 1.35% 114.41% 20% 22.88% 
+Return on Equity 8.36% 9.47% 113.28% 15% 16.99% 
+Tangible Book Value $33.23 $33.05 99.46% 30% 29.84% 
+EPS $3.40 $3.80 111.76% 35% 39.12% 
+Overall Score         108.83% 
+[END TABLE]
+The performance measures for the other NEOs, other than tangible book value and EPS, are tied to Bank performance. The table below provides a summary of the performance measures and their respective, target performance goals, actual results, and levels of achievement against the goals, weightings and resulting scores for the LTIP awards granted in February 2019 to all the NEOs (other than the CEO) based on performance through the end of 2018. 
+2016-2018 LTIP Scorecard for Mr. McHargue, Mr. Norman D. Lowery, Mr. Holliday, and Ms. Milienu.
+[BEGIN TABLE]
+Performance MeasureTarget Goal Result (as adjusted) Level of Achievement (% of Goal)Weighting Resulting Score
+Performance MeasureTarget Goal Result (as adjusted) Level of Achievement (% of Goal)Weighting Resulting Score
+Return on Assets 1.09% 1.22% 111.93% 20% 22.39% 
+Return on Equity 8.13% 9.00% 110.70% 15% 16.61% 
+Tangible Book Value $33.23 $33.05 99.46% 30% 29.84% 
+EPS $3.40 $3.80 111.76% 35% 39.12% 
+Overall Score         107.95% 
+NEO Target Award Level (% of base salary)Target Award Level ($)Overall Scorecard ResultActual LTIP Awarded ($)
+NEO Target Award Level (% of base salary)Target Award Level ($)Overall Scorecard ResultActual LTIP Awarded ($)
+NEO Target Award Level (% of base salary)Target Award Level ($)Overall Scorecard ResultActual LTIP Awarded ($)
+Norman L. Lowery 60% $407,838 108.83% $443,842 
+Rodger A. McHargue 40% $111,112 107.95% $119,950 
+Norman D. Lowery 40% $118,853 107.95% $128,296 
+Steven H. Holliday 40% $95,325 107.95% $102,899 
+Karen L. Milienu 20% $42,843 107.95% $46,248 
+[END TABLE]
+OTHER PRACTICES, POLICIES & GUIDELINES
+Retirement Benefits
+We believe retirement and other post-employment benefits can be a powerful motivational tool for attracting and retaining key executives, including the NEOs.
+Our three qualified retirement plans are the First Financial Corporation 401(k) Savings Plan ("Savings Plan"), the First Financial Corporation Stock Ownership Plan ("ESOP"), and the First Financial Corporation Employees' Pension Plan ("Pension Plan").
+Savings Plan. The Savings Plan allows eligible employees to contribute a portion of their compensation on a before-tax basis. Participants may direct the investment of their plan accounts among a diversified range of investment options. For those participants who are not eligible for future benefit accruals under the Pension Plan, the Corporation may, in its discretion, match the participant's contributions (up to 4% of compensation) and make non-matching contributions.
+ESOP. The Corporation and its participating subsidiaries and affiliates may make contributions to the ESOP in the form of Corporation stock or cash to be invested primarily in Corporation stock. The amount of any contributions is determined by the Board of the Corporation. The value of a participating employee's benefit under the ESOP depends on the value of the shares of Corporation stock and any other amounts allocated to his or her account.
+Pension Plan. The Pension Plan is a defined benefit plan that provides each participant with a benefit based on the participant's compensation and service, which is then offset by the value of the participant's benefit under the ESOP. This type of arrangement is commonly referred to as a floor-offset arrangement. Future accruals under the Pension Plan were frozen for participants at the end of 2012, except for certain long-service, retirement-eligible or other employees who were grandfathered at that time. Each of our CEO and other NEOs, other than Mr. Holliday, continue to accrue benefits under the Pension Plan.
+Internal Revenue Code limits on the amount of benefits that may be earned under qualified plans can result in highly paid individuals, such as our executive officers, including the NEOs, receiving a substantially lower benefit (as a percentage of compensation) than other participating employees. We have adopted nonqualified retirement plans to make-up for these benefit  reductions. Information relating to qualified and nonqualified plans accompanies the "Pension Benefits" table and the "Nonqualified Deferred Compensation" table on page 31.
+Perquisites
+The Corporation provides limited perquisites to executive officers; however, it does sponsor a life insurance program for the NEOs of the Bank. Under the life insurance program, the Bank purchased a whole life insurance policy on behalf of, and pays the premiums on behalf of, each executive officer of the Bank. The policy is owned by the individual and is intended to be fully paid at age 65 for those who were 55 or older, and at age 60 for those who were less than 55 years of age at the time the individual joined the Bank.
+Assessment of Incentives for Excessive Risk-Taking
+Each year, the Compensation Committee evaluates the material operational risks to the Corporation, which include credit, interest rate, liquidity, reputation, compliance, and transaction risk as well as the added potential for loss that could result from any of our compensation programs. The Committee also charges the Corporation's General Auditor with performing a risk assessment of the incentive compensation program. Based on a review of these risks and the report of the General Auditor, the Committee has determined that the Corporation's compensation arrangements and policies do not encourage excessive risk-taking.
+Share Ownership and Retention Guidelines
+Share ownership and retention guidelines help to foster a focus on long-term growth. The Board has adopted stock ownership guidelines applicable to our NEOs. Under those guidelines, our CEO is required to own a number of shares of the Corporation's common stock equal in value to $500,000, and other NEOs are required to own a number of shares equal in value to $150,000. Except for purposes of exercising statutory diversification rights under the ESOP, our covered executives may not dispose of shares until they have satisfied the guidelines. Covered executives are expected to comply with the guidelines as soon as practicable, and in no event later than five years after the date they become a covered executive. In the case of individuals who were covered executives when the guidelines became effective, compliance is required within five years of the effective date. Messrs. Norman L. Lowery, McHargue, Norman D. Lowery, Holliday and Ms. Milienu currently meet the guidelines.
+Prohibition on Hedging
+Our NEOs and directors are prohibited from engaging in hedging or monetization transactions with respect to the securities of the Corporation.
+Executive Compensation Recovery Policy
+We can recover or "claw back" all or a portion of an incentive compensation payment which was based on erroneous data due to our material noncompliance with any financial reporting requirement under securities laws which resulted in an accounting restatement. The claw back applies to incentive compensation described above which was paid within three years preceding the date of the accounting restatement. In that instance, the participant is required to repay the excess amount which would not have been paid to the participant but for the accounting restatement.
+Tax Deductibility Cap on Executive Compensation
+Section 162(m) of the Internal Revenue Code generally disallows a federal tax deduction to public companies for compensation in any tax year to specified executive officers to the extent that the compensation to such executive officer exceeds $1 million. Under the rules in effect before 2018, compensation that qualified as "performance-based compensation" under Section 162(m) of the Internal Revenue Code was deductible without regard to this limitation. Effective January 1, 2018, the Tax Cuts and Jobs Act of 2017 generally eliminated the performance-based compensation exemption under Section 162(m), subject to a special rule that grandfathers certain awards and agreements that were in effect at November 2, 2017.
+The Committee believes that tax deductibility is only one of several relevant considerations in setting compensation, and that the tax deduction limitation should not be permitted to compromise the Compensation Committee's ability to structure its compensation to provide benefits to the Company that outweigh the potential benefit of the tax deduction. Accordingly, the Committee has and will continue to approve compensation that is not deductible for federal income tax purposes.  Compensation Committee Report
+The Compensation and Employee Benefits Committee of the Corporation has reviewed and discussed this Compensation Discussion and Analysis with management and, based on such review and discussion, the Compensation Committee recommended to the Board that the Compensation Discussion and Analysis be included in this Proxy Statement.
+[BEGIN TABLE]
+  Members of the Compensation and Employee Benefits Committee:   
+  William J. Voges, Chairman   
+  Anton H. George   
+  William R. Krieble   
+  Ronald K. Rich   
+[END TABLE]
+ EXECUTIVE COMPENSATION
+Summary Compensation Table
+The following table sets forth the compensation awarded to, earned by, or paid to the chief executive officer, the chief financial officer and the three most highly compensated executive officers other than the chief executive officer and the chief financial officer (collectively, the "Named Executive Officers") during the years ended December 31, 2018, 2017 and 2016.
+[BEGIN TABLE]
+Name and Principal Position Year Salary ($)  Stock Awards(1) ($)Non-Equity Incentive Plan Compensation(2) ($)Change in Pension Value and Nonqualified Deferred Compensation Earnings(3) ($)All Other Compensation(4) ($)Total ($)
+Name and Principal Position Year Salary ($)  Stock Awards(1) ($)Non-Equity Incentive Plan Compensation(2) ($)Change in Pension Value and Nonqualified Deferred Compensation Earnings(3) ($)All Other Compensation(4) ($)Total ($)
+Norman L. Lowery, 2,018 679,730     427,031   340,988   353,300   122,230   1,923,279   
+Chief Executive Officer, 2,017 673,000     431,983   330,853   897,221   181,897   2,514,954   
+First Financial Bank, N.A. and 2,016 654,300     389,223   329,717   —   136,177   1,509,417   
+First Financial Corporation                 
+Rodger A. McHargue, 2,018 277,803   (5) 105,494   106,416   111,876   25,806   627,395   
+Chief Financial Officer, 2,017 253,030     101,572   94,180   226,257   31,713   706,752   
+First Financial Bank, N.A. and 2,016 232,500     85,892   80,482   54,872   25,082   478,828   
+First Financial Corporation                 
+Steven H. Holliday, 2,018 238,513   (6) 97,978   87,534   —   35,802   459,827   
+Chief Credit Officer 2,017 231,347     96,622   90,277   —   43,325   461,571   
+First Financial Bank, N.A. and 2,016 221,400     85,364   84,259   —   40,246   431,269   
+First Financial Corporation                 
+Norman D. Lowery, 2,018 297,132     112,600   112,654   97,975   29,644   650,005   
+Chief Operating Officer, 2,017 270,120     105,028   102,767   150,959   35,472   664,346   
+First Financial Bank, N.A. and 2,016 240,400     85,364   83,833   —   25,579   435,176   
+First Financial Corporation                 
+Karen L. Milienu, 2,018 214,217     41,268   46,932   95,088   16,462   413,967   
+Director of Branch Banking, 2,017 194,743     38,247   40,726   173,488   18,807   466,011   
+First Financial Bank, N.A 2,016 175,200     31,707   35,339   53,696   15,313   311,255   
+(2) The amounts in this column reflect amounts earned under the STIP. 
+(3) The amounts in this column do not reflect amounts paid.  The amounts reflect the actuarial increase in the present value of the named executive officers' benefits under the Pension Plan and our nonqualified defined benefit plans ("ESRP" and "2005 ESRP"), determined using interest rate and mortality rate assumptions consistent with those used in the Corporation's financial statements. 
+(4) For 2018, includes (i) the premiums paid by the Corporation pursuant to a life insurance program for named executive officers of $31,738 for Norman L. Lowery, $3,477 for Mr. McHargue, $4,140 for Mr. Holliday, $683 for Mr. Norman D. Lowery and $600 for Ms. Milienu; (ii) amounts contributed by the Corporation under the 2005 non-qualified defined contribution plan ("2005 EDC"), which were $52,278 for Norman L. Lowery, $4,248 for Mr. McHargue, $1,796 for Mr. Holliday and $5,831 for Norman D. Lowery; (iii) dividends on restricted stock which were $14,949 for Norman L. Lowery, $3,563 for Mr. McHargue, $3,400 for Mr. Holliday, $3,686 for Mr. Norman D. Lowery and $1,352 for Ms. Milienu; (iv) miscellaneous perquisites of less than $10,000; and (v) ESOP account allocations as follows:  $13,750 for Mr. Norman L. Lowery; $13,750 for Mr. McHargue; $13,750 for Mr. Norman D. Lowery; $8,250 for Mr. Holliday; and $12,860 for Ms. Milienu. Also includes $11,000 for Mr. Holliday for the 401(k) matching contribution. 
+(5) Includes $4,800 for service as a director of Portfolio Management Specialist A (a subsidiary of the Bank), Portfolio Management Specialist B (an indirect subsidiary of the Bank) and Global Portfolio Limited Partnership (an indirect subsidiary of the Bank), and $500 for service as a director of FFB Risk Management Company, Inc. (a subsidiary of the Corporation). 
+(6) Includes $200 for service as a manager of First Financial Real Estate LLP (a real estate investment trust of the Bank). 
+[END TABLE]
+ Grants of Plan-Based Awards
+The following table sets forth the plan-based grants during the fiscal year ended December 31, 2018, consisting of opportunities for cash awards under the 2011 Short-Term Incentive Compensation Plan (the "2011 STIP") and equity grants under the 2011 Omnibus Equity Incentive Plan (the "2011 EIP"), which are discussed in more detail in the "Compensation Discussion and Analysis" section of this Proxy Statement.
+[BEGIN TABLE]
+        All Other Stock Awards: Number of Shares of Stock or Units(2) Mean Market Price on Grant Date  ($/Sh)Grant Date Fair Value of Stock Awards(3) ($)
+        All Other Stock Awards: Number of Shares of Stock or Units(2) Mean Market Price on Grant Date  ($/Sh)Grant Date Fair Value of Stock Awards(3) ($)
+Name Grant Date Plan Name Threshold ($)Target ($)Maximum ($)
+Name Grant Date Plan Name Threshold ($)Target ($)Maximum ($)
+Norman L. Lowery   2011 STIP 252,316 315,395 394,244       
+  2/3/2018 2011 EIP       9,375 45.55 427,031 
+Rodger A. McHargue   2011 STIP 77,785 97,231 116,677       
+  2/3/2018 2011 EIP       2,316 45.55 105,494 
+Steven H. Holliday   2011 STIP 66,728 83,410 100,092       
+  2/3/2018 2011 EIP       2,151 45.55 97,978 
+Norman D. Lowery   2011 STIP 83,197 103,996 124,795       
+  2/3/2018 2011 EIP       2,472 45.55 112,600 
+Karen L. Milienu   2011 STIP 42,843 53,554 58,909       
+  2/3/2018 2011 EIP       906 45.55 41,268 
+(2) The amounts in this column represent restricted stock awards granted in 2018 based on performance during 2017.  The shares vest in three substantially equal installments on December 31, 2018, 2019 and 2020.  Vesting is contingent upon the executive officers remaining employed during the required service period, unless employment terminates due to death, disability, termination, by the Corporation without cause, resignation for good reason, or retirement (each as defined in the 2011 EIP), in which case the restricted stock award vests in full.  No automatic acceleration of vesting occurs upon a change in control.  Award recipients are entitled to dividends on the restricted shares during the vesting period. 
+(3) The grant date fair value of the restricted stock awards reported in this column is the grant date value of the awards as determined under FASB ASC Topic 718. 
+[END TABLE]
+Outstanding Equity Awards at Fiscal Year-End
+[BEGIN TABLE]
+    Stock Awards 
+Name   Number of Shares of Stock That Have Not Vested(1)  Market Value of Shares of Stock That Have Not Vested(2)
+Name   Number of Shares of Stock That Have Not Vested(1)  Market Value of Shares of Stock That Have Not Vested(2)
+Norman L. Lowery   9,333   $374,720 
+Rodger A. McHargue   2,269   91,100 
+Norman D. Lowery   2,397   96,240 
+Steven H. Holliday   2,123   85,238 
+Karen L. Milienu   877   35,212 
+(2) The market value is based on $40.15 per share, the closing price for our stock on December 31, 2018. 
+[END TABLE]
+ Option Exercises and Stock Vested in 2018
+[BEGIN TABLE]
+    Stock Awards 
+Name   Number of Shares Acquired on Vesting  Value Realized  on Vesting
+Name   Number of Shares Acquired on Vesting  Value Realized  on Vesting
+Norman L. Lowery   10,218   $410,253 
+Rodger A. McHargue   2,382   95,637 
+Norman D. Lowery   2,453   98,488 
+Steven H. Holliday   2,286   91,783 
+Karen L. Milienu   901   36,175 
+[END TABLE]
+The table below shows the present value of accumulated benefits payable to each of the named executive officers, including the number of years of service credited to each named executive officer, under the Pension Plan, the ESRP, and the 2005 ESRP.  The present value was based upon the accrued benefit as of December 31, 2018 and determined using interest rate and mortality rate assumptions consistent with those used in the Corporation's financial statements.  The amounts shown do not reflect amounts actually paid or payable to the named executive officer.  Benefits are not payable as a lump sum but are generally paid as a monthly annuity for the life of the retiree.
+[BEGIN TABLE]
+Name   Plan Name   Number of Years Credited Service   Present Value of Accumulated Benefit ($)(1)   Payments During Last Fiscal Year 
+Norman L. Lowery   Qualified Pension Plan   23   1,861,004 (2)   — 
+    ESRP   23   1,291,031 (3)   — 
+    2005 ESRP   23   2,883,055 (3)   — 
+Rodger A. McHargue   Qualified Pension Plan   25      1,015,823 (2)(4)   — 
+    2005 ESRP   25     215,349 (3)   — 
+Steven H. Holliday   Qualified Pension Plan   7   —   — 
+    2005 ESRP   7   —   — 
+Norman D. Lowery   Qualified Pension Plan   29     530,775 (2)   — 
+    2005 ESRP   29     208,165 (3)   — 
+Karen L. Milienu   Qualified Pension Plan   21       826,125 (2)(4)   — 
+[END TABLE]
+[BEGIN TABLE]
+(1) The calculation of present value of accumulated benefit assumes a discount rate of 4.22% and mortality based on the RP-2014 Mortality Table projected generationally using Mortality Improvement Scale MP-2018. 
+(2) These amounts represent the amount that Messrs. Norman L. Lowery, McHargue, Norman D. Lowery, and Ms. Milienu's Pension Plan benefit exceeds their ESOP benefit pursuant to offset arrangements. 
+(3) This amount represents the amount by which Messrs. Norman L. Lowery, McHargue, and Norman D. Lowery's Executive Supplemental Retirement benefit exceeds his Executive Deferred Compensation benefit. 
+(4) Mr. McHargue and Ms. Milienu were over 55 years of age and had more than five years of service as of December 31, 2018, and would have qualified for early retirement benefits equal to approximately 57% and 60% respectively of the full retirement benefit if either had retired on December 31, 2018. 
+[END TABLE]
+The benefits provided under the Pension Plan are based on the executive officers' years of credited service and final average compensation, and are targeted to provide an annual retirement annuity equal to approximately 66% of final average compensation for retirement at age 65 with 25 years of service.  Actuarial adjustment is made for payments commencing before or after age 65.  Final average compensation is based on the five consecutive years over the last ten in which amount of base salary and bonus were the highest.  The actual benefit payable under the Pension Plan is subject to offset (reduction) by the benefits provided under the ESOP.  
+Applicable IRS rules limit the amount of benefits that may be accrued under a qualified plan, such as the Pension Plan.  The benefits provided under the ESRP and 2005 ESRP are intended to provide benefits that would be paid under the Pension Plan but for such limitations.  These benefits are subject to offset by the benefits payable under the Executive Deferred Compensation Plan ("EDC") and the 2005 EDC described below. Nonqualified Deferred Compensation for 2018
+Pursuant to the 2005 EDC, we permit certain executive officers and highly compensated employees to defer a portion of their current compensation and also provide supplemental benefits to certain highly compensated employees to recompense the employees for benefits lost due to the imposition of Code limitations in the ESOP.  The amounts shown below represent the accumulated benefit cost to the Corporation for these plans.  The table also shows amounts which were earned and deferred under the 2001 LTIP and 2005 LTIP.
+[BEGIN TABLE]
+Name   Plan Name   Executive Contributions in last Fiscal Year ($)   Registrant Contributions in Last Fiscal Year ($)(1)   Aggregate Earnings in Last Fiscal Year ($)   Aggregate Withdrawals / Distributions ($)   Aggregate Balance at Last Fiscal Year-End ($) 
+Norman L. Lowery   EDC   —   —     (5,729)   —     601,229   
+  2005 EDC   —   52,278     (95,006)   —     623,951   
+  2001 LTIP   —   —     62,508     140,228     862,115   
+  2005 LTIP   —   —     99,847     223,992     1,377,093   
+Rodger A. McHargue   2005 EDC   —   4,248     (702)   —     10,787   
+  2005 LTIP   —   —     13,919     25,286     194,733   
+Steven H. Holliday   2005 EDC   —   1,796     (506)   —     6,708   
+Norman D. Lowery   2005 EDC   —   5,831     (1,073)   —     15,753   
+  2001 LTIP   —   —     8,998     16,347     125,888   
+  2005 LTIP   —   —     13,919     25,286     194,733   
+Karen L. Milienu   2001 LTIP   —   —     8,998     16,347     125,888   
+  2005 LTIP   —   —     13,919     25,286     194,733   
+(1) These amounts are included in the named executive officer's compensation in the Summary Compensation Table. 
+[END TABLE]
+Employment Agreements
+Employment Agreement with Norman L. Lowery.  Norman L. Lowery has been party to a series of employment agreements with the Corporation and the Bank pursuant to which he is employed as President and Chief Executive Officer of the Corporation and the Bank.  Our employment agreements with Mr. Lowery provide for a fixed term and do not automatically renew.  The material terms of his current agreement, dated July 1, 2018, are summarized as follows: 
+[BEGIN TABLE]
+• Term:  The agreement is effective as of July 1, 2018, and is for an initial period of 24 months.  The term may be extended for one-year periods by the Compensation Committee.  On February 5, 2019, the Committee extended the term to July 1, 2021. 
+[END TABLE]
+[BEGIN TABLE]
+• Base Compensation:  The agreement provides for an initial base salary of $679,730, which may be increased from time to time.  Prior to a change-in-control, base salary may be decreased if the Corporation's operating results are significantly less favorable than those for the fiscal year ended December 31, 2017, and the Corporation makes similar decreases in the base salaries of the other executive officers.  Mr. Lowery is entitled to participate in other compensation programs and benefits as provided to other senior officers of the Corporation and as provided in the agreement. 
+[END TABLE]
+[BEGIN TABLE]
+• Restrictive Covenants:  To protect the Corporation and our business, the agreement obligates Mr. Lowery to comply with non-solicitation, non-competition, and non-disclosure requirements.  In general, the non-solicitation and non‑competition remain in effect for one year after termination of employment for any reason. 
+[END TABLE]
+[BEGIN TABLE]
+• Termination for Cause, Death or Disability:  If employment is terminated for "cause" (as defined in the agreement), death, or disability, Mr. Lowery (or his estate) is entitled only to his base salary, bonuses, vested rights, and other benefits due to him through his date of termination or, in the case of death, the last day of the month of death.  Any benefits payable under insurance, health, retirement, bonus, incentive, performance or other plans as a result of his participation in such plans through the date of termination will be paid in accordance with those plans.  
+[END TABLE]
+Termination Due to Retirement:  Upon retirement, Mr. Lowery will receive life and disability coverage for himself and lifetime Medicare supplemental coverage for himself and his spouse. He is also entitled to receive a life insurance policy on his life in the amount established by the Bank's insurance program for executive officers and a life insurance policy insuring his life in the maximum amount established by the Company's group life insurance plan from time to time (currently $350,000.00). 
+[BEGIN TABLE]
+• Termination by Corporation Without Just Cause or by Employee for Good Reason:  If Mr. Lowery is terminated without "just cause," or if he terminates his employment for "good reason" (as defined in the agreement), and such termination does not occur in connection with, or within 12 months after a "change in control" (as defined in the agreement), he will receive an amount equal to the sum of the following amounts he would have received through the expiration date of the agreement: (i) his base salary and bonuses (based on prior year bonus); (ii) premiums for full supplemental Medicare coverage, at no cost to him or his spouse, at the best level available, including prescription drug coverage for both him and his spouse; (iii) the cost of obtaining certain other benefits; (iv)  the cost of professional and club dues, (v) the cost of continuing legal education; (vi) the cost of automobile benefits; (vii) benefits under the Pension Plan and ESRP based on the most recent year's accruals; and (viii) benefits under the ESOP and 2005 EDC based on the most recent year's contributions.  The amounts provided in the prior sentence will be provided net of all income and payroll taxes that would not have been payable by Mr. Lowery had he continued participation in the benefit plan or program instead of receiving cash reimbursement. 
+[END TABLE]
+[BEGIN TABLE]
+• Termination Following Change in Control:  If there is a "change in control" (as defined in the agreement), and in connection with or within 12 months following the "change in control" Mr. Lowery's employment is terminated for other than "just cause" or he resigns for "good reason," then following such termination he would be entitled to an amount equal to the greater of the (i) amount he would receive if he was terminated by the Corporation without just cause as described above, or (ii) the product of 2.99 times the sum of (A)  his base salary in effect as of the date of the change in control; (B) an amount equal to any annual discretionary or performance-based incentive bonus received by or payable to him in the calendar year prior to the year in which the change in control occurs; and (C) cash reimbursement in an amount equal to his cost of obtaining certain benefits which he was eligible to participate in or receive as of the date of termination.  If, as a result of a change in control, Mr. Lowery becomes entitled to any payments which are determined to be payments subject to the Code Section 280G, then his benefit will be equal to the greater of his benefit under the agreement reduced to the maximum amount payable such that when it is aggregated with payments and benefits under all other plans and arrangements it will not result in an "excess parachute payment" under Code Section 280G, or his benefit under the agreement after taking into account the amount of the excise tax imposed under Code Section 280G due to the benefit payment.  Mr. Lowery is not entitled to any excise tax "gross up" payments under the terms of the agreement. 
+[END TABLE]
+To comply with Section 409A, certain payments to Mr. Lowery following termination of employment may be delayed until six months following his termination of employment.
+Employment Agreements with Norman D. Lowery, Rodger A. McHargue, Steven H. Holliday and Karen L. Milienu.  We have entered into employment agreements with our other named executive officers, which became effective January 1, 2019.  Each of Norman D. Lowery, Rodger A. McHargue and Steven H. Holliday has an employment agreement with the Corporation and the Bank and Karen L. Milienu has an employment agreement with the Bank.  The agreements have substantially similar terms, which are summarized as follows: 
+[BEGIN TABLE]
+• Term:  Each agreement has an initial period of 12 months.  The term may be extended for one-year periods by the Compensation Committee. The Compensation Committee has approved extensions of these agreements through December 31, 2018. 
+[END TABLE]
+[BEGIN TABLE]
+• Base Compensation:  The agreements set forth for the following base salaries for 2019 which may be increased from time to time:  Norman D. Lowery - $330,000, Rodger A. McHargue - $287,000, Steven H. Holliday - $250,228 and Karen L. Milienu - $220,858.  The executives' salaries may be increased from time to time.  Prior to a change-in-control, base salary may be decreased if the Corporation's operating results are significantly less favorable than those for the fiscal year ended December 31, 2018, and the Corporation makes similar decreases in the base salaries of the other executive officers.  The executives are entitled to participate in other compensation programs and benefits as provided to other senior officers of the Corporation and as provided in the employment agreements. 
+[END TABLE]
+[BEGIN TABLE]
+• Restrictive Covenants:  To protect the Corporation and our business, the agreements obligate the executives to comply with non-solicitation, non-competition, and non-disclosure requirements.  In general, the non-solicitation and non‑competition remain in effect for one year after termination of employment for any reason. 
+[END TABLE]
+[BEGIN TABLE]
+• Termination for Death or Disability:  If employment is terminated for death or disability, the executive (or his or her estate) is entitled only to his or her base salary, bonuses, vested rights, and other benefits due through the date of termination or, in the case of death, the last day of the month of death.  Any benefits payable under insurance, health, retirement, bonus, incentive, performance or other plans as a result of his participation in such plans through the date of termination will be paid in accordance with those plans.  
+[END TABLE]
+[BEGIN TABLE]
+• Termination by Corporation Without Just Cause or by Employee for Good Reason:  If the executive is terminated without "just cause," or if he or she terminates his or her employment for "good reason" (as defined in the agreements), and such termination does not occur in connection with, or within 12 months after a "change in control" (as defined in the agreements), the executive will receive an amount equal to the sum of the following amounts: (i) base salary and bonuses (based on bonus in the year prior to termination), (ii)  the cost of obtaining certain benefits, (iii)  the cost of professional and club dues and (iv) the cost of automobile benefits. The amounts provided in the prior sentence will be provided net of all income and payroll taxes that would not have been payable by the executive had he or she continued participation in the benefit plan or program instead of receiving cash reimbursement. 
+[END TABLE]
+[BEGIN TABLE]
+• Termination Following Change in Control:  If there is a "change in control" (as defined in the agreements), and in connection with or within 12 months following the "change in control" the executive's employment is terminated for other than "just cause" or he resigns for "good reason," then following such termination the executive would be entitled to an amount equal to the greater of the (i) amount he or she would receive if he or she was terminated by the Corporation without just cause as described above, or (ii) the product of one times the sum of (A) base salary in effect as of the date of the change in control; (B) an amount equal to any bonus received by or payable in the calendar year prior to the year in which the change in control occurs; and (C) cash reimbursement in an amount equal to his or her cost of obtaining certain benefits which he or she was eligible to participate in or receive as of the date of termination.  If, as a result of a change in control, the executive becomes entitled to any payments that are determined to be payments subject to the Code Section 280G, then the benefit will be equal to the greater of his or her benefit under the agreement reduced to the maximum amount payable such that when it is aggregated with payments and benefits under all other plans and arrangements it will not result in an "excess parachute payment" under Code Section 280G, or his or her benefit under the agreement after taking into account the amount of the excise tax imposed under Code Section 280G due to the benefit payment.  The executives are not entitled to any excise tax "gross up" payments under the terms of the agreements. 
+[END TABLE]
+To comply with Section 409A, certain payments to the executives following termination of employment may be delayed until six months following termination of employment.
+Potential Payments Upon Termination or Change in Control
+The following table sets forth the incremental retirement, cash severance and stock awards payable to each named executive officer under the specifically described scenarios as if retirement, termination of employment or change in control-related termination occurred as of December 31, 2018.  No amounts are shown for the occurrence of a change in control without termination of employment, because no automatic acceleration of outstanding stock awards or other amounts arise upon a change in control.  The amounts shown in the table do not include payments and benefits to the extent they are provided on a non-discriminatory basis to salaried employees generally upon termination of employment, such as accrued salary and vacation pay, or payments of vested amounts under the qualified and nonqualified pension plans and deferred compensation plans.  Amounts attributable to the 2011 EIP are based upon the $40.15 closing price for our common stock on December 31, 2018.
+[BEGIN TABLE]
+Name   Plan Name   Termination Due to Retirement ($)(1)    Termination by Corporation Without Cause or by Executive for Good Reason ($)(2)   Termination by Corporation Without Cause or by Executive for Good Reason Within 12 Months After Change in Control ($)(3) 
+Name   Plan Name   Termination Due to Retirement ($)(1)    Termination by Corporation Without Cause or by Executive for Good Reason ($)(2)   Termination by Corporation Without Cause or by Executive for Good Reason Within 12 Months After Change in Control ($)(3) 
+Norman L. Lowery   2011 EIP   374,720   —   — 
+    Employment Agreement   217,938     3,004,746 (4)    5,874,162 (5)
+Rodger A. McHargue   2011 EIP   —   91,100   91,100 
+    Employment             
+    Agreement   —   516,460 (6)   516,460 (6) 
+Steven H. Holliday   2011 EIP   —   85,238   85,238 
+    Employment             
+    Agreement   —   361,347 (7)   361,347 (7) 
+Norman D. Lowery   2011 EIP   —   96,240   96,240 
+    Employment             
+    Agreement   —   525,483 (8)   525,483 (8) 
+Karen L. Milienu   2011 EIP   —   35,212   35,212 
+    Employment             
+    Agreement   —   395,122 (9)   395,122 (9) 
+(4) This cash severance amount consists of (a) 1.5 times (i) 2018 annual base salary of $679,730 and 2017 STIP bonus of $330,853, (ii) annual amounts paid for dues and professional associations, automobile allowance and continuing education of $13,568, and (iii) annual ESOP and EDC contributions of $98,690, plus (b) pension accruals of $1,252,085.  Also includes $124,530 to reimburse taxes due on payments for benefits that would not be taxable if provided in connection with continuing employment. 
+(5)  This cash severance amount consists of (a) 2.99 times (i) 2018 annual base salary of $679,730 and 2017 STIP bonus of $330,853, (ii) annual amounts paid for dues and professional associations, automobile allowance and continuing education of $27,044, and (iii) annual ESOP and EDC contributions of $196,721, plus (b) pension accruals of $2,495,822.  Also includes $132,932 to reimburse taxes due on payments for benefits that would not be taxable if provided in connection with continuing employment. 
+(6) This cash severance amount consists of (a) 2018 annual base salary of $272,503 and 2017 STIP bonus of $94,180, (b) annual ESOP and EDC contributions of $17,998, plus (c) pension accruals of $131,779. 
+(7) This cash severance amount consists of (a) 2018 annual base salary of $238,313 and 2017 STIP bonus of $90,277, (b) annual amounts paid for dues and professional associations, automobile allowance and continuing education of $7,214, and (c) annual ESOP and EDC contributions of $10,046, plus (d) 401K match of $11,000. 
+(8) This cash severance amount consists of (a) 2018 annual base salary of $297,132 and 2017 STIP bonus of $102,767, (b) annual amounts paid for dues and professional associations, automobile allowance and continuing education of $4,485, and (c) annual ESOP and EDC contributions of $19,581, plus (d) pension accruals of $98,722. 
+(9) This cash severance amount consists of (a) 2018 annual base salary of $214,217 and 2017 STIP bonus of $40,726, (b) annual amounts paid for dues and professional associations, automobile allowance and continuing education of $1,651, and (c) annual ESOP contribution of $12,860, plus (d) pension accruals of $124,639. 
+[END TABLE]
+ CEO PAY RATIO
+As required by the Dodd-Frank Act of 2010, we disclose in this proxy statement the ratio of our CEO's compensation to that of our median employee. The pay ratio set forth below represents a reasonable estimate calculated in a manner consistent with the SEC's rules.
+For purposes of calculating the pay ratio, the SEC's rules permit companies to use the employee identified as the median employee in 2017 as the median employee used for 2018 if there have been no changes in our employee population or employee compensation arrangements that we reasonably believe would result in a significant change in our pay ratio disclosure and no changes to the 2017 median employee's circumstances that would no longer make it appropriate to use that employee.  There were no changes to our employee population or compensation program which we reasonably believe would result in a significant change in this pay ratio disclosure; however, our median employee had a change in circumstances in 2018.  As permitted by the SEC's rules, we identified our median employee for 2018 as an employee whose compensation was substantially similar to the compensation of the 2017 median employee based upon the compensation measure we used to identify the 2017 median employee.
+For our median employee, we combined all of the elements of such employee's compensation for 2018 in accordance with the SEC's rules, resulting in annual total compensation for our median employee of $36,588. This amount includes the estimated value of such employee's health care benefits (estimated for the median employee at $5,964). The annual total compensation of our CEO was $1,923,279, which reflects the amount reported in the "Total" column of our 2018 Summary Compensation Table on page 28 and the value of the CEO's health care benefits (which are not included in the summary compensation table). As a result, our CEO to median employee pay ratio for 2018 was 53:1.  SECURITY OWNERSHIP OF CERTAIN BENEFICIAL OWNERS AND MANAGEMENT
+As of February 25, 2019, there were 12,290,212 shares of our common stock issued and outstanding.  The following table shows, as of February 25, 2019, the number and percentage of our common stock held by each person known to us to own beneficially more than five percent of the issued and outstanding common stock, by the executive officers named in the beneficial ownership table below and our directors, and by our executive officers and directors as a group.  Unless otherwise specified, the address of each person listed is:  One First Financial Plaza, P.O. Box 540, Terre Haute, Indiana 47808, and each person has sole voting and investment control of the shares specified.
+[BEGIN TABLE]
+Five Percent Shareholders, Directors, Nominee and Certain Executive Officers  Amount and Nature of Beneficial Ownership  Percent of Outstanding Shares
+Five Percent Shareholders, Directors, Nominee and Certain Executive Officers  Amount and Nature of Beneficial Ownership  Percent of Outstanding Shares
+Five Percent Shareholders, Directors, Nominee and Certain Executive Officers  Amount and Nature of Beneficial Ownership  Percent of Outstanding Shares
+Directors and Named Executive Officers:         
+W. Curtis Brighton .........................................................................   15,000   * 
+B. Guille Cox, Jr. ...........................................................................       79,349 (1)   * 
+Thomas T. Dinkel ..........................................................................   17,018   * 
+Anton H. George ............................................................................   3,868   * 
+Gregory L. Gibson .........................................................................   96,738   * 
+Steven H. Holliday .........................................................................          13,588 (2)(10)   * 
+William R. Krieble .........................................................................   4,922   * 
+Norman D. Lowery ........................................................................         32,478 (3)(10)   * 
+Norman L. Lowery ........................................................................        86,558 (4)(10)   * 
+Rodger A. McHargue .....................................................................        19,295 (5)(10)   * 
+Karen L. Milienu ...........................................................................           9,378 (6)(10)   * 
+Ronald K. Rich ..............................................................................   4,050   * 
+William J. Voges ............................................................................        73,728 (7)   * 
+All Executive Officers and Directors as a Group (14 persons) .....   458,541   3.73% 
+Five Percent Shareholders:         
+BlackRock, Inc. .............................................................................       925,511 (8)   7.53% 
+Princeton Mining Company, Inc. ...................................................   1,179,074 (9)   9.59% 
+(1) Mr. Cox, as trustee, has the power to vote an additional 117,986 shares. These shares are not reflected in the number of shares or percent of class attributed to him in the above table. 
+(2) Includes 954 shares held for Mr. Holliday's account in the ESOP. 
+(3) Includes 7,363 shares held for Mr. Norman D. Lowery's account in the ESOP. 
+(4) Includes 10,046 shares held for Mr. Norman L. Lowery's account in the ESOP. 
+(5) Includes 5,514 shares held for Mr. McHargue's account in the ESOP. 
+(6) Includes 4,526 shares held for Ms. Milienu's account in the ESOP. 
+(7) Includes 53,421 shares held in trust.  Mr. Voges, as Trustee, has the power to vote these shares. 
+(8) Based solely on information provided by BlackRock, Inc. in a Schedule 13G/A filed with the SEC on February 4, 2019.  The Schedule 13G/A indicates that the reporting person has sole power to vote and/or dispose of all shares beneficially owned.  The address of BlackRock, Inc. is 55 East 52nd Street, New York, NY 10055. 
+(9) Based solely on information provided by Princeton Mining Company, Inc. in a Schedule 13G filed with the SEC on February 7, 2019.  The Corporation has been advised that the shares held by Princeton Mining Company, Inc. are voted by James O. McDonald, the Chairman of Princeton Mining Company, Inc., at the direction of its board of directors.  The board of directors of Princeton Mining Company, Inc. is comprised of eight individuals:  James O. McDonald; John Klotz; Norman L. Lowery, the Vice Chairman, President and Chief Executive Officer of the Corporation; Rebecca Rozina; Diana Bell; Norman D. Lowery, the Chief Operating Officer of the Corporation; Sarah J. Lowery, the wife of Norman L. Lowery, who is the Vice Chairman, Chief Executive Officer and President of the Corporation; and Richard Shagley.  The address of Princeton Mining Company, Inc. is State Road 46 South, Terre Haute, Indiana 47803. 
+(10) Includes shares of restricted common stock of the Corporation issued to our named executive officers as award opportunities under our 2011 EIP as follows:  Mr. Norman L. Lowery, 19,771 shares; Mr. McHargue, 5,090 shares; Mr. Holliday, 4,543 shares;  
+[END TABLE]
+ Mr. Norman D. Lowery, 5,414 shares; and Ms. Milienu, 1,964 shares.  Upon issuance, shares of restricted stock vest annually in one-third increments over a three-year period.
+SECTION 16(a) BENEFICIAL OWNERSHIP REPORTING COMPLIANCE
+Section 16(a) of the Securities and Exchange Act of 1934 requires the Corporation's directors and executive officers, and persons who beneficially own more than ten percent of a registered class of the Corporation's equity securities, to file with the SEC initial reports of ownership and reports of changes in ownership of Corporation common stock and other equity securities of the Corporation.  Officers, directors and greater than ten percent shareholders are required by SEC regulations to furnish the Corporation with copies of all Section 16(a) reports they file.  To the best knowledge of the Corporation, all executive officers, directors and greater than ten percent beneficial owners of the Corporation timely filed all statements of beneficial ownership required to be filed with the SEC in 2018, except for Forms 4 filed on November 5, 2018 with respect to transactions in shares by Mr. Voges in his capacity as trustee and Mr. N.D. Lowery to report a sale of shares of the Corporation on June 18, 2018. In making the foregoing disclosure, the Corporation has relied solely upon written representations of our directors and executive officers and copies of reports that directors, executive officers, and greater than 10% beneficial owners have filed with the SEC and provided to us. PROPOSAL 2:  NON-BINDING ADVISORY VOTE TO APPROVE THE COMPENSATION
+PAID TO NAMED EXECUTIVE OFFICERS
+Our executive compensation philosophy seeks to provide a competitive compensation program that encourages current year performance and the creation of long-term shareholder value without exposing the Corporation to unreasonable risks, including credit, interest rate, liquidity, reputation, compliance and transition risk.  Through our executive compensation program, we seek to:
+[BEGIN TABLE]
+• Attract, motivate and retain highly-qualified, talented executives who are focused on the long-term best interest of our shareholders; 
+• Drive performance relative to our financial goals, balancing short-term operational objectives with long-term strategic goals; 
+• Link the interest of our executives with those of our shareholders; 
+• Establish Corporate, Departmental and individual goals consistent with our strategic plan and budget that provide the basis for the annual and long-term award metrics used to measure our performance; 
+• Reward our executives for both company and individual performance; 
+• Align compensation and variable incentives with measurable, objective business results and appropriate risk management; 
+• Allow flexibility in responding to changing laws, accounting standards and business needs as well as the constraints and dynamic conditions in the markets in which we do business; and 
+• Implement and operate our executive compensation program to reinforce our philosophy of aligning compensation with our short-term and long-term goals and to minimize risk to our shareholders. 
+[END TABLE]
+We currently maintain the following pay practices, which we believe enhance our pay-for-performance philosophy and further align our executives' interest with those of our shareholders.
+WE HAVE THESE PRACTICES:
+[BEGIN TABLE]
+• Significant emphasis on performance based "at-risk" compensation; 
+• Incentive award metrics that are objective and tied to key company performance metrics; 
+• Equity awards granted based on performance and which vest over three years to promote retention; 
+• Incentive plans with threshold performance and associated payout levels, below which no incentive awards are paid. Threshold payouts for both the STIP and LTIP are 80% of target; 
+• Incentive plans with capped maximum payouts (125% of target for the STIP for the CEO, 120% of target for the STIP for the other NEOs and 150% of target for the LTIP for the CEO, 125% of target for the LTIP for the other NEOs; 
+• Maintain target total cash compensation for our Named Executive Officers which, in aggregate, is aligned with market-competitive levels; 
+• Share ownership guidelines (for executives and directors); and 
+• Compensation recoupment "claw-back" policy. 
+[END TABLE]
+WE ALSO FOLLOW THESE PRACTICES:
+[BEGIN TABLE]
+• NO non-performance based incentive awards; 
+• NO hedging transactions by executive officers or directors; 
+• NO excise tax gross-ups in our named executive officers' employment agreements; 
+• NO automatic renewal ("evergreen") provisions in our named executive officers' employment agreements; and 
+• No "single trigger" change in control severance. 
+[END TABLE]
+The Compensation Committee believes our executive compensation program has achieved its intended results.  The Compensation Committee believes our compensation is competitive with the pay practices of other financial institutions of comparable size and performance and has allowed us to attract and retain executives who make substantial contributions to our success.  We believe the program aligns our executives' interest with those of our shareholders by providing a strong link between higher compensation and the attainment of pre-established objective performance goals.
+We urge our shareholders to read the Compensation Discussion and Analysis section of this proxy statement for a detailed discussion of our executive compensation programs and how they reflect our philosophy and our link to corporate performance. We recognize executive compensation is important to our shareholders and we value their opinions on our compensation philosophy and programs.  We are asking our shareholders to vote on an advisory basis to approve the compensation of our named executive officers as described in this proxy statement.  This vote is not intended to address any specific item of compensation, but rather the overall compensation of our executive officers and the philosophy, policies and practices described in this proxy statement.  This proposal, which is required by Section 14A of the Securities Exchange Act, is commonly known as a "Say-On-Pay" proposal and gives our shareholders the opportunity to express their views on our named executive officers' compensation to the following resolution:
+RESOLVED, that the shareholders approve the 2018 compensation of the named executive officers, as disclosed in this proxy statement, pursuant to Item 402 of Regulation S-K of the Securities and Exchange Commission (including the Compensation Discussion and Analysis, the compensation tables and other narrative executive compensation disclosures).
+The vote on this proposal is advisory, and therefore not binding on the Corporation, the Compensation Committee or our Board.  To the extent there is any significant vote against the executive officer compensation proposal, however, we will consider our shareholders' concerns and the Compensation Committee will evaluate whether any actions are necessary to address those concerns. 
+In keeping with the preference expressed by our shareholders at the 2018 Annual Meeting of Shareholders, we will continue to hold the Say-on-Pay vote annually, and will hold the next Say-On-Pay vote at the 2020 Annual Meeting of Shareholders.  Our shareholders will next have the opportunity to indicate their preference on the frequency of holding the Say-On-Pay vote at the 2023 Annual Meeting of Shareholders.
+THE BOARD UNANIMOUSLY RECOMMENDS A VOTE "FOR" THE APPROVAL, ON AN ADVISORY BASIS, OF THE COMPENSATION OF OUR NAMED EXECUTIVE OFFICERS AS DISCLOSED IN THIS PROXY STATEMENT. PROPOSAL 3:  RATIFICATION OF APPOINTMENT OF CROWE LLP AS THE CORPORATION'S INDEPENDENT REGISTERED PUBLIC ACCOUNTING FIRM
+At its March 5, 2019 meeting, the Audit Committee of the Board recommended and approved the appointment of Crowe LLP as the Corporation's independent registered public accounting firm to audit the books, records and accounts of the Corporation for 2019.  The Corporation is seeking ratification of such action.  Crowe LLP has been our independent registered public accounting firm since fiscal year 1999.  Representatives of Crowe LLP are expected to be in attendance at the annual meeting and will be provided an opportunity to make a statement should they desire to do so and to respond to appropriate inquiries from the shareholders.
+The Audit Committee is responsible for the appointment and oversight of the Company's independent registered public accounting firm.  If shareholders do not ratify the selection of Crowe LLP as our independent registered public accounting firm, then the Audit Committee will reconsider the selection of Crowe LLP but may, nevertheless, continue to retain Crowe LLP.  Even if the selection is ratified, the Audit Committee has the discretion to appoint a different registered public accounting firm at any time during the year if the Audit Committee determines that such change would be appropriate.
+THE BOARD UNANIMOUSLY RECOMMENDS A VOTE "FOR" THE RATIFICATION OF THE APPOINTMENT OF CROWE LLP AS THE CORPORATION'S INDEPENDENT REGISTERED PUBLIC ACCOUNTING FIRM FOR THE FISCAL YEAR ENDING DECEMBER 31, 2019.
+MATTERS RELATING TO INDEPENDENT PUBLIC ACCOUNTING FIRM
+Fees Paid to Crowe LLP
+The following table sets forth the aggregate fees billed by Crowe for audit services rendered in connection with the consolidated financial statements and reports for fiscal year 2018 and fiscal year 2017 and for other services rendered during fiscal year 2018 and fiscal year 2017 on behalf of the Corporation and its subsidiaries, as well as all out-of-pocket costs incurred in connection with these services, which have been billed to the Corporation:
+[BEGIN TABLE]
+  2,018   2,017 
+Audit Fees $ 430,000     $ 410,000   
+Audit-Related Fees 3,500     3,500   
+Tax Fees 98,940     113,900   
+All Other Fees —     72,165   
+Total $ 532,440     $ 599,565   
+[END TABLE]
+Audit Fees.  Consists of fees billed for professional services rendered for (i) the audit of the Corporation's consolidated financial statements, (ii) the integrated audit over internal controls as required under Section 404 of the Sarbanes-Oxley Act, (iii) the review of the interim condensed consolidated financial statements included in quarterly reports, (iv) the audit of the Captive Insurance Agency, (v) the services that are normally provided by Crowe in connection with statutory and regulatory filings or engagements,  and (vi) attest services, except those not required by statute or regulation.
+Audit-Related Fees. Consists of fees billed for assurance and related services that are reasonably related to the performance of the audit or review of the Corporation's consolidated financial statements and are not reported under "Audit Fees."  These services include accounting consultations for 2018 and 2017.
+Tax Fees.  Consists of tax compliance/preparation and other tax services. Tax compliance/preparation consists of fees billed for professional services related to federal and state tax compliance, and assistance with tax audits and appeals for the company and the captive insurance agency. Other tax services consist of fees billed for other miscellaneous tax consulting, planning, and required filings.               
+All Other Fees.  All other fees for 2017 include SOX 404 and internal audit software licensing fees, as well as non-audit related consulting services related to an AML Model Validation Project. Audit Committee Pre-Approval of Audit and Permissible Non-Audit Services of Independent Public Accounting Firm
+All of the fees and services described above under "audit fees," "audit-related fees," "tax fees" and "all other fees" were pre-approved by the Audit Committee.  The Audit Committee pre-approves all audit and permissible non-audit services provided by the independent public accounting firm.  These services may include audit services, audit-related services, tax services and other services.  The Audit Committee has adopted a policy for the pre-approval of services provided by the independent public accounting firm.  Under the policy, pre-approval is generally provided for up to one year and any pre-approval is detailed as to the particular service or category of services and is subject to a specific budget.  In addition, the Audit Committee may also pre-approve particular services on a case-by-case basis.  For each proposed service, the independent public accounting firm is required to provide detailed back-up documentation at the time of approval.  The Audit Committee may delegate pre-approval authority to one or more of its members.  Such member must report any decisions to the Audit Committee at the next scheduled meeting. SHAREHOLDER PROPOSALS AND DIRECTOR NOMINATIONS
+Shareholders desiring to make a director nomination or a proposal for any business or matter to be presented at any annual meeting of shareholders of the Corporation must comply with the advance notice procedures provided in our by-laws.  Those procedures are summarized below.  Failure to comply with our by-law procedures and deadlines may preclude presentation of your proposal at an annual meeting.  A complete copy of our by-laws was included as an exhibit to the Corporation's Form 8-K filed on August 24, 2012 and is available on the SEC's website at www.sec.gov.
+Notice Deadline
+Nominations for the election as directors and proposals for any business or matter to be presented at any annual meeting of shareholders may be made by any of our shareholders of record entitled to vote in the election of directors or on the business or matter to be presented, as the case may be.  In order for a shareholder to make such a nomination or proposal, the Corporation's Secretary must receive notice thereof in writing not less than 120 days prior to the date of the annual meeting; provided, however, that in the event that less than 130 days' notice or prior public disclosure of the date of the annual meeting is given or made to shareholders (which notice or public disclosure shall include the date of the annual meeting specified in our by-laws, if the annual meeting is held on such date), notice by the shareholder to be timely must be received by us no later than the close of the 10th day following the day on which such notice of the date of the annual meeting was mailed or such public disclosure was made.  
+Inclusion in Our Proxy Materials
+A shareholder who desires to include a proposal in our proxy soliciting materials relating to our 2020 annual meeting of shareholders must send the proposal in writing to Mr. Rodger A. McHargue, our Secretary, such that we receive it at our principal executive office at One First Financial Plaza, Terre Haute, Indiana 47808 no later than November 14, 2019.  Any such proposal must be made in accordance with Rule 14a-8 under the Securities Exchange Act of 1934.
+Shareholder Nominations of Director Candidates
+Each notice given by a shareholder with respect to a nomination for election as a director must set forth for each nominee:  (i) the name, age, business address and residence address of such person, (ii) the principal occupation or employment of such person, (iii) the class and number of shares of the Corporation which are beneficially owned by such person, and (iv) any other information relating to such person that is required to be disclosed in solicitations of proxies for the election of directors, or is otherwise required, in each case pursuant to Regulation 14A under the Securities Exchange Act of 1934, as amended (including without limitation such person's written consent to being named in the proxy statement as a nominee and to serving as a director if elected).  The shareholder making the nomination must provide his or her name and record address and the class and number of shares of our stock beneficially owned by the shareholder, and will be asked to provide any other information relating to his or her nominee as may be reasonably requested by us.
+IMPORTANT NOTICE REGARDING THE INTERNET AVAILABILITY
+OF PROXY MATERIALS FOR THE 2019 ANNUAL MEETING
+The SEC's e-proxy rules require companies to post their proxy materials on the internet and permit them to provide only a Notice of Internet Availability of Proxy Materials to shareholders.  For this proxy statement, we have chosen to follow the SEC's "full set" delivery option, and therefore, although we are posting a full set of our proxy materials (this proxy statement and our Annual Report to Shareholders for the fiscal year ended December 31, 2018) online, we are also mailing a full set of our proxy materials to our shareholders.  The Corporation's Proxy Statement for the 2019 Annual Meeting of Shareholders, Proxy Card and Annual Report to Shareholders for the fiscal year ended December 31, 2018, are available at www.first-online.com/proxy.
+We are mailing a full set of our printed proxy materials to shareholders on or about March 13, 2019.  On this date, all shareholders of record and beneficial owners will have the ability to access all of the proxy materials on the website referred to above.  These proxy materials will be available free of charge. HOUSEHOLDING
+To reduce the expense of delivering duplicate proxy materials to our shareholders, we are relying on SEC rules that permit us to deliver only one proxy statement to multiple shareholders who share an address unless we receive contrary instructions from any shareholder at that address.  This practice, known as "householding," reduces duplicate mailings, saves printing and postage costs as well as natural resources and will not affect dividend check mailings.  If you wish to receive a separate copy of the annual report or proxy statement, or if you wish to receive separate copies of future annual reports or proxy statements, please contact Rodger McHargue by phone at (812) 238-6000 or by mail at First Financial Corporation, One First Financial Plaza, P.O. Box 540, Terre Haute, Indiana  47808.  We will deliver the requested documents promptly upon your request.  If you and other shareholders of record with whom you share an address currently receive multiple copies of annual reports or proxy statements, or if you hold our stock in more than one account and, in either case, you wish to receive only a single copy of the annual report or proxy statement, please contact Rodger McHargue by phone at (812) 238-6000 or by mail at First Financial Corporation, One First Financial Plaza, P.O. Box 540, Terre Haute, Indiana  47808, with the names in which all accounts are registered and the name of the account for which you wish to receive mailings.
+ADDITIONAL INFORMATION
+Upon written request, the Corporation will provide without charge to each requesting shareholder a copy of the Corporation's 2018 Annual Report on Form 10-K, which is required to be filed with the SEC.  Address all requests to:
+Rodger A. McHargue, Chief Financial Officer and Secretary
+First Financial Corporation
+One First Financial Plaza
+P.O. BOX 540
+Terre Haute, Indiana  47808
+OTHER MATTERS
+As of the date of this Proxy Statement, the Corporation knows of no business that will be presented for consideration at the annual meeting other than the items referred to above.  If any other matter is properly brought before the meeting for action by shareholders, proxies in the enclosed form returned to the Corporation will be voted in accordance with the recommendation of the Board or, in the absence of such a recommendation, in accordance with the best judgment of the proxy holder.
+By Order of the Board of Directors
+/s/ Rodger A. McHargue
+Chief Financial Officer and Secretary
+March 13, 2019   
+46

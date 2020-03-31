@@ -1,0 +1,808 @@
+TABLE OF CONTENTS
+UNITED STATES SECURITIES AND EXCHANGE COMMISSION WASHINGTON, DC 20549 
+​
+SCHEDULE 14A (Rule 14a-101) 
+INFORMATION REQUIRED IN PROXY STATEMENT
+SCHEDULE 14A INFORMATION
+Proxy Statement Pursuant to Section 14(a) of the Securities Exchange Act of 1934 
+​
+Filed by the registrant   ☒
+Filed by a party other than the registrant   ☐
+Check the appropriate box: 
+☐
+Preliminary Proxy Statement 
+​
+☐
+Confidential, for Use of the Commission Only (as permitted by Rule 14a-6(e)(2))
+​
+☒
+Definitive Proxy Statement 
+​
+☐
+Definitive Additional Materials 
+​
+☐
+Soliciting Material Pursuant to §240.14a-12 
+​
+Agree Realty Corporation 
+(Name of registrant as specified in its charter)
+​
+(Name of person(s) filing proxy statement, if other than the registrant) 
+Payment of filing fee (Check the appropriate box): 
+☒
+No fee required 
+​
+☐
+Fee computed on table below per Exchange Act Rules 14a-6(i)(1) and 0-11 
+​
+(1)
+Title of each class of securities to which transaction applies: 
+​
+​
+(2)
+Aggregate number of securities to which transaction applies: 
+​
+​
+(3)
+Per unit price or other underlying value of transaction computed pursuant to Exchange Act Rule 0-11 (set forth the amount on which the filing fee is calculated and state how it was determined): 
+​
+​
+(4)
+Proposed maximum aggregate value of transaction: 
+​
+​
+(5)
+Total fee paid: 
+​
+​
+☐
+Fee paid previously with preliminary materials. 
+​
+☐
+Check box if any part of the fee is offset as provided by Exchange Act Rule 0-11(a)(2) and identify the filing for which the offsetting fee was paid previously. Identify the previous filing by Registration Statement number, or the Form or Schedule and the date of its filing. 
+​
+(1)
+Amount previously paid: 
+​
+​
+(2)
+Form, Schedule, or Registration Statement No.: 
+​
+​
+(3)
+Filing party: 
+​
+​
+(4)
+Date filed: 
+​
+​
+TABLE OF CONTENTS
+AGREE REALTY CORPORATION 70 E. Long Lake Road Bloomfield Hills, MI 48304 
+​
+NOTICE OF ANNUAL MEETING OF STOCKHOLDERS To be Held on April 25, 2019 
+​
+NOTICE IS HEREBY GIVEN that the annual meeting of stockholders of AGREE REALTY CORPORATION, a Maryland corporation, will be held at 10:00 a.m. local time on April 25, 2019, at the Embassy Suites, 850 Tower Drive, Troy, Michigan 48098 for the following purposes: 
+ To elect three directors to serve until the annual meeting of stockholders in 2022 and to elect one director to serve until the annual meeting of stockholders in 2020; and 
+​
+ To ratify the appointment of Grant Thornton LLP as our independent registered public accounting firm for 2019; and 
+​
+ To approve, by non-binding vote, executive compensation; and 
+​
+ To approve an amendment to our Articles of Incorporation, as amended and supplemented (our "Charter"), to increase the number of authorized shares of our common stock. 
+​
+In addition, stockholders will consider and vote on such other business as may properly come before the meeting or any adjournment or postponement thereof. 
+Stockholders of record at the close of business on February 22, 2019 will be entitled to notice of and to vote at the annual meeting or at any adjournment or postponement thereof. Stockholders are cordially invited to attend the meeting in person. 
+Pursuant to rules promulgated by the Securities and Exchange Commission, we are providing access to our proxy materials over the internet. On or about March 13, 2019, we expect to mail our stockholders either (i) a copy of this Notice of Annual Meeting, the proxy statement, the accompanying proxy card, our annual report and the Notice of Internet Availability of Proxy Materials (the "Notice") (if a stockholder previously requested paper delivery of proxy materials) or (ii) the Notice only, each in connection with the solicitation of proxies by our board of directors for use at the annual meeting and any adjournments or postponements thereof. The Notice contains instructions related to this process, including how to access our Notice of Annual Meeting, proxy statement and annual report over the internet, how to authorize your proxy to vote online and how to request a paper copy of the Notice of Annual Meeting, proxy statement and annual report. 
+It is important that your shares be voted. You may authorize your proxy to vote your shares over the internet as described in the Notice. Alternatively, if you received a paper copy of the proxy card by mail, please complete, date, sign and promptly return the proxy card in the self-addressed stamped envelope provided. You also may vote by telephone as described in your proxy card. If you attend the annual meeting, you may revoke your proxy in accordance with procedures set forth in the proxy statement and vote in person. 
+By Order of the Board of Directors 
+Clayton R. Thelen Chief Financial Officer and Secretary 
+March 12, 2019 Bloomfield Hills, Michigan 
+TABLE OF CONTENTS​
+TABLE OF CONTENTS 
+[BEGIN TABLE]
+​ ​ ​  Page   ​ 
+  About the Annual Meeting   ​ ​ ​ ​  1  ​ ​ 
+  Security Ownership of Certain Beneficial Owners and Management   ​ ​ ​ ​  5  ​ ​ 
+  Proposal 1 — Election of Directors   ​ ​ ​  ​    7   ​ ​ 
+  Board Matters   ​ ​ ​ ​  11  ​ ​ 
+  The Board of Directors    ​ ​ ​ ​  11  ​ ​ 
+  Committees of the Board    ​ ​ ​ ​  13  ​ ​ 
+  Compensation Committee Interlocks and Insider Participation    ​ ​ ​ ​  15  ​ ​ 
+  Director Compensation    ​ ​ ​ ​  15  ​ ​ 
+  Corporate Governance    ​ ​ ​ ​  16  ​ ​ 
+  Communications with the Board    ​ ​ ​ ​  16  ​ ​ 
+  Executive Officers   ​ ​ ​ ​  18  ​ ​ 
+  Compensation Discussion and Analysis   ​ ​ ​ ​  19  ​ ​ 
+  Compensation Committee Report   ​ ​ ​ ​  27  ​ ​ 
+  Executive Compensation Tables   ​ ​ ​ ​  28  ​ ​ 
+  Summary Compensation Table    ​ ​ ​ ​  28  ​ ​ 
+  Grants of Plan-Based Awards in 2018    ​ ​ ​ ​  29  ​ ​ 
+  Outstanding Equity Awards at December 31, 2018    ​ ​ ​ ​  30  ​ ​ 
+  Stock Vested and Options Exercised in 2018    ​ ​ ​ ​  30  ​ ​ 
+  Potential Payments Upon Termination or Change-in-Control    ​ ​ ​ ​  30  ​ ​ 
+  Pay Ratio    ​ ​ ​ ​  33  ​ ​ 
+  Report of the Audit Committee   ​ ​ ​ ​  35  ​ ​ 
+  Audit Committee Matters   ​ ​ ​ ​  36  ​ ​ 
+  Proposal 2 — Ratification of Appointment of Independent Registered Public Accounting Firm for 2019   ​ ​ ​  ​    37   ​ ​ 
+  Proposal 3 — Advisory (Non-Binding) Vote Approving Executive Compensation   ​ ​ ​  ​    38   ​ ​ 
+  Proposal 4 — Approval of an Amendment to our Charter   ​ ​ ​  ​    39   ​ ​ 
+  Related Person Transactions   ​ ​ ​ ​  40  ​ ​ 
+  Additional Information   ​ ​ ​ ​  41  ​ ​ 
+  Section 16(a) Beneficial Ownership Reporting Compliance    ​ ​ ​ ​  41  ​ ​ 
+  Cost of Proxy Solicitation    ​ ​ ​ ​  41  ​ ​ 
+  Proposals for 2020 Annual Meeting    ​ ​ ​ ​  41  ​ ​ 
+  Important Notice Regarding the Availability of Proxy Materials for the Stockholder Meeting to be Held on April 25, 2019    ​ ​ ​ ​  41  ​ ​ 
+  Appendix A — Articles of Amendment of Agree Realty Corporation    ​ ​ ​ ​  A-1  ​ ​ 
+[END TABLE]
+i
+TABLE OF CONTENTS​
+AGREE REALTY CORPORATION 70 E. Long Lake Road Bloomfield Hills, MI 48304 
+​
+PROXY STATEMENTANNUAL MEETING OF STOCKHOLDERS April 25, 2019
+​
+ABOUT THE ANNUAL MEETING 
+This proxy statement is furnished by our board of directors (the "Board") in connection with the Board's solicitation of proxies to be voted at the annual meeting of stockholders of Agree Realty Corporation (the "Company") to be held at 10:00 a.m. local time on April 25, 2019, at the Embassy Suites, 850 Tower Drive, Troy, Michigan 48098, and at any adjournment or postponement thereof. 
+On or about March 13, 2019, we are mailing either (i) a copy of the Notice of Annual Meeting, this proxy statement, the accompanying proxy card, our annual report and the Notice of Internet Availability of Proxy Materials (the "Notice") (if a stockholder previously requested paper delivery of proxy materials), or (ii) the Notice only, to our stockholders of record on February 22, 2019. The Notice and this proxy statement summarize the information you need to know to vote at the annual meeting. You do not need to attend the annual meeting in person in order to vote. 
+What is the purpose of the 2019 annual meeting of stockholders? 
+At the 2019 annual meeting, holders of our common stock will be voting on the matters set forth below: 
+ To elect three directors to serve until the annual meeting of stockholders in 2022 and to elect one director to serve until the annual meeting of stockholders in 2020; and 
+​
+ To ratify the appointment of Grant Thornton LLP ("Grant Thornton") as our independent registered public accounting firm for 2019; and 
+​
+ To approve by non-binding vote, executive compensation; and 
+​
+ To approve an amendment to our Articles of Incorporation, as amended and supplemented (our "Charter"), to increase the number of authorized shares of our common stock. 
+​
+The Board recommends a vote FOR the director nominees, FOR the ratification of Grant Thornton's appointment, FOR executive compensation, and FOR the amendment to our Charter. 
+In addition, management will report on our performance and will respond to appropriate questions from stockholders. A representative of Grant Thornton will be present at the annual meeting and will be available to respond to appropriate questions. Such representative will also have an opportunity to make a statement. 
+Who is entitled to vote? 
+All stockholders of record at the close of business on February 22, 2019, the record date, will be entitled to vote. Each share of common stock entitles the holder thereof to one vote on each of the matters to be voted upon at the annual meeting. As of the record date, 37,576,724 shares of our common stock, $.0001 par value per share, were outstanding.  TABLE OF CONTENTS
+What constitutes a quorum? 
+The presence at the annual meeting, in person or by proxy of stockholders entitled to cast a majority of all the votes entitled to be cast at the meeting will constitute a quorum for all purposes. Proxies marked with abstentions or instructions to withhold votes will be counted as present in determining whether or not there is a quorum. 
+However, if a quorum is not present at the annual meeting, the stockholders, present in person or represented by proxy, have the power to adjourn the annual meeting until a quorum is present or represented. Regardless of whether a quorum is present, our bylaws provide that the chairman of the meeting may recess or adjourn the meeting. 
+What is the difference between holding shares as a stockholder of record and a beneficial owner? 
+Stockholders of Record.   If your shares are registered directly in your name with our transfer agent, Computershare Trust Company, N.A., you are considered the stockholder of record with respect to those shares, and the Notice and, if applicable, our proxy materials (including the Notice of Annual Meeting, the proxy statement, the accompanying proxy card, our annual report and the Notice) are being sent to you by us. As the stockholder of record, you have the right to grant your voting proxy directly to us over the internet or by telephone as described in the Notice, or through an accompanying proxy card or to vote in person at the annual meeting. 
+Beneficial Owners.   Many of our stockholders hold their shares through a broker, bank or other nominee rather than directly in their own name. If your shares are held in a stock brokerage account or by a bank or other nominee, you are considered the beneficial owner of those shares, and the Notice and, if applicable, our proxy materials (including the Notice of Annual Meeting, the proxy statement, the accompanying proxy card, our annual report and the Notice) are being forwarded to you by your broker, bank or nominee who is considered the stockholder of record with respect to those shares. As the beneficial owner, you have the right to direct your broker, bank or nominee on how to vote and are also invited to attend the annual meeting. However, since you are not the stockholder of record, you may not vote these shares in person at the annual meeting unless you request and obtain a proxy from your broker, bank or nominee. Your broker, bank or nominee has enclosed a voting instruction card for you to use in directing the broker, bank or nominee on how to vote your shares. 
+May I vote my shares in person at the annual meeting? 
+Even if you plan to be present at the meeting, we encourage you to vote your shares prior to the meeting. 
+Stockholders of Record.   If you are a stockholder of record and attend the annual meeting, you may deliver your completed proxy card or vote by ballot. 
+Beneficial Owners.   If you hold your shares through a broker, bank or other nominee and want to vote such shares in person at the annual meeting, you must obtain a proxy from your broker, bank or other nominee giving you the power to vote such shares. 
+Can I vote my shares without attending the annual meeting? 
+If you received a paper copy of the proxy card by mail, please complete, date, sign and promptly return the proxy card in the self-addressed stamped envelope provided or vote by telephone or internet as indicated on your proxy card. Voting your shares over the internet, by mailing a proxy card or by telephone, will not limit your right to attend the annual meeting and vote your shares in person. If you attend the annual meeting, you may revoke your proxy in accordance with the procedures set forth in this proxy statement. 
+If you have shares held by a broker, you may instruct your broker to vote your shares by following the instructions that the broker provides to you. Most brokers allow you to authorize your proxy by mail, telephone and on the internet. TABLE OF CONTENTS
+Can I change my vote after I have voted? 
+Yes. Proxies properly submitted over the internet, by mail or by telephone do not preclude a stockholder from voting in person at the meeting. A stockholder may revoke a proxy at any time prior to its exercise by filing with our Secretary a duly executed revocation of proxy, by properly submitting, either by internet, mail or telephone, a proxy to our Secretary bearing a later date or by appearing at the meeting and voting in person. Attendance at the meeting will not by itself constitute revocation of a proxy. If you hold your shares through a bank, broker or other nominee, you should contact such person prior to the time such voting instructions are exercised. 
+What does it mean if I receive more than one Notice or proxy card or voting instruction card? 
+If you receive more than one Notice or proxy card or voting instruction card, it means that you have multiple accounts with banks, trustees, brokers, other nominees and/or our transfer agent. If you receive more than one Notice, please submit all of your proxies over the internet, by mail or by telephone, following the instructions provided in the Notice, to ensure that all of your shares are voted. If you receive more than one proxy card or voting instruction card, please sign and deliver each proxy card and voting instruction card that you receive. We recommend that you contact your nominee and/or our transfer agent, as appropriate, to consolidate as many accounts as possible under the same name and address. 
+How many copies should I receive if I share an address with another stockholder? 
+The Securities and Exchange Commission ("SEC") has adopted rules that permit companies and intermediaries, such as a broker, bank or other agent, to implement a delivery procedure called "householding." Under this procedure, multiple stockholders who reside at the same address may receive a single copy of the Notice, and, if applicable, our proxy materials, unless the affected stockholder has provided us with contrary instructions. This procedure provides extra convenience for stockholders and cost savings for companies. 
+The Company and brokers, banks or other agents may be householding the Notice and our proxy materials. A single Notice and, if applicable, a single set of our proxy materials, including the Notice of Annual Meeting, the proxy statement, the accompanying proxy card, our annual report and the Notice, will be delivered to multiple stockholders sharing an address unless contrary instructions have been received from the affected stockholders. Once you have received notice from your broker, bank or other agent that it will be householding communications to your address, householding will continue until you are notified otherwise or until you revoke your consent. If you did not respond that you did not want to participate in householding, you were deemed to have consented to the process. Stockholders may revoke their consent at any time by contacting Broadridge ICS, either by calling toll-free (800) 542-1061 or by writing to Broadridge ICS, Householding Department, 51 Mercedes Way, Edgewood, New York, 11717. 
+Upon written or oral request, we will promptly deliver a separate copy of the Notice and, if applicable, a set of our proxy materials, to any stockholder at a shared address to which a single copy of any of those documents was delivered. To receive a separate copy of the Notice or a separate set of our proxy materials, you may contact Agree Realty Corporation, either by calling (248) 737-4190 or by writing to 70 E. Long Lake Road, Bloomfield Hills, MI 48304, Attention: Secretary. In addition, if you are receiving multiple copies of the Notice and, if applicable, our proxy materials, you can request householding by contacting our Secretary in the same manner. 
+What if I do not vote for some of the items listed on my proxy card or voting instruction card? 
+Stockholders of Record.   Proxies properly submitted via the internet, mail or telephone will be voted at the annual meeting in accordance with your directions. If the properly submitted proxy does not provide voting instructions on a proposal, the proxy will be voted in accordance with the recommendations of the Board on such matters. With respect to any matter not set forth on the proxy card that properly comes before the annual meeting, the proxy holders named therein will vote as the Board recommends or, if the Board gives no recommendation, in their own discretion. 
+Beneficial Owners.   Proxies properly submitted via the internet, mail or telephone or pursuant to your voting instruction card will be voted at the annual meeting in accordance with your directions. If you do not indicate a choice or return the voting instruction card, the broker, bank or other nominee will determine if  TABLE OF CONTENTS
+it has the discretionary authority to vote on each matter. Under applicable law and New York Stock Exchange ("NYSE") rules and regulations, brokers have the discretion to vote on routine matters, including the ratification of the appointment of our independent registered public accounting firm. However, your broker does not have discretionary authority to vote on the election of directors or the advisory vote approving our executive compensation, in which case a "broker non-vote" will occur and your shares will not be voted on these matters.
+What vote is required to approve each item? 
+Proposal 1 — Election of Directors.   The four nominees receiving the highest number of  "for" votes at the annual meeting will be elected as directors. Any nominee who receives a greater number of votes "withheld" from his or her election than votes "for" such election must tender his or her resignation for consideration by the Nominating and Governance Committee. The Nominating and Governance Committee will recommend to the Board the action to be taken with respect to the resignation. The Board will publicly disclose its decision within 90 days of the certification of the election results. The slate of nominees discussed in this proxy statement consists of four directors, Joel Agree, Craig Erlich, Gregory Lehmkuhl, and William Rubenfaer, whose terms are expiring. Abstentions and broker non-votes will have no effect on the outcome of this proposal. Our stockholders do not have the right to cumulate their votes for directors. 
+Proposal 2 — Ratification of Appointment of Independent Registered Public Accounting Firm.   The affirmative vote of a majority of votes cast at the annual meeting is necessary to ratify the Audit Committee's appointment of Grant Thornton as our independent registered public accounting firm for 2019. Abstentions are not treated as votes cast under Maryland law and, therefore, they have no effect on the outcome of this proposal. Although stockholder ratification of the appointment is not required and is not binding on us, the Board considers the selection of the independent registered public accounting firm to be an important matter of stockholder concern and the Audit Committee will take your vote on this proposal into consideration when appointing our independent registered public accounting firm in the future. Even if the stockholders ratify the appointment of Grant Thornton, the Audit Committee in its sole discretion may terminate the engagement of Grant Thornton and engage another independent auditor at any time during the year. Abstentions will have no effect on the outcome of this proposal. 
+Proposal 3 — Advisory (Non-Binding) Vote Approving Executive Compensation.   The affirmative vote of a majority of votes cast at the annual meeting is necessary to approve our executive compensation. Abstentions and broker non-votes are not treated as votes cast under Maryland law and, therefore, they have no effect on the outcome of this proposal. 
+Proposal 4 — Approval of an Amendment to our Charter.   The proposed amendment to our Charter must be approved by the affirmative vote of the holders of a majority of the votes entitled to be cast at the annual meeting. Abstentions and broker non-votes will have the same effect as votes "AGAINST" Proposal 4. 
+Other Matters.    If any other matter is properly submitted to the stockholders at the annual meeting, its adoption will require the affirmative vote of a majority of votes cast at the annual meeting. The Board does not propose to conduct any business at the annual meeting other than as stated above. 
+Will anyone contact me regarding this vote? 
+No arrangements or contracts have been made with any solicitors as of the date of this proxy statement, although we reserve the right to engage solicitors if we deem them necessary. Such solicitations may be made by mail, telephone, facsimile, e-mail or personal interviews. In addition, our directors and officers may solicit proxies by mail, telephone, telecopy or in person. 
+How do I find out the voting results? 
+Voting results will be announced at the annual meeting and will be published in a Current Report on Form 8-K to be filed with the SEC within four business days after the close of the meeting.  TABLE OF CONTENTS​
+SECURITY OWNERSHIP OF CERTAIN BENEFICIAL OWNERS AND MANAGEMENT 
+Security Ownership of Management 
+The following table sets forth information regarding the beneficial ownership of our common stock (our only outstanding class of equity securities) as of February 23, 2019, with respect to each director and named executive officer, and all of our directors and named executive officers as a group. As of February 23, 2019, there were 37,576,724 shares of our common stock outstanding. Unless otherwise indicated, each person has sole voting and investment power with respect to the shares listed below and none of the named executive officers or directors has pledged his or her shares of common stock as collateral. Unless otherwise indicated, the business address for each of the identified stockholders is 70 E. Long Lake Road, Bloomfield Hills, Michigan 48304. 
+[BEGIN TABLE]
+ Name of Beneficial Owner   ​ ​  Amount and Nature of Beneficial Ownership(1)  ​ ​  Percent of Class(2)  ​ 
+ Richard Agree   ​ ​ ​ ​ 523,809(3) ​ ​ ​ ​ ​ 1.4% ​ ​ 
+ Joel Agree   ​ ​ ​ ​ 367,927 ​ ​ ​ ​ ​ * ​ ​ 
+ Laith Hermiz  ​ ​ ​ ​ 28,772 ​ ​ ​ ​ ​ * ​ ​ 
+ Clayton Thelen   ​ ​ ​ ​ 6,779 ​ ​ ​ ​ ​ * ​ ​ 
+ Craig Erlich   ​ ​ ​ ​ 12,293(4) ​ ​ ​ ​ ​ * ​ ​ 
+ Merrie S. Frankel   ​ ​ ​ ​ 1,496 ​ ​ ​ ​ ​ * ​ ​ 
+ Farris G. Kalil   ​ ​ ​ ​ 9,735 ​ ​ ​ ​ ​ * ​ ​ 
+ Gregory Lehmkuhl   ​ ​ ​ ​ 5,036 ​ ​ ​ ​ ​ * ​ ​ 
+ John Rakolta, Jr.   ​ ​ ​ ​ 199,287 ​ ​ ​ ​ ​ * ​ ​ 
+ Jerome Rossi   ​ ​ ​ ​ 2,171 ​ ​ ​ ​ ​ * ​ ​ 
+ William S. Rubenfaer   ​ ​ ​ ​ 20,776 ​ ​ ​ ​ ​ * ​ ​ 
+ All directors and executive officers as a group (11 persons)   ​ ​ ​ ​ 1,178,081(5) ​ ​ ​ ​ ​ 3.1% ​ ​ 
+[END TABLE]
+​
+*
+Less than 1% 
+​
+(1)
+The amount of common stock beneficially owned is reported on the basis of regulations of the SEC governing the determination of beneficial ownership of securities. 
+​
+(2)
+Percentages are based on 37,576,724 shares of common stock outstanding as of February 23, 2019. The amount of common stock outstanding used in calculating such percentages assumes that none of the limited partnership units in Agree Limited Partnership (the "OP Units") are converted to common stock. 
+​
+(3)
+Consists of  (i) 371,252 shares owned directly, (ii) 53,361 shares held in his individual retirement account ("IRA"), (iii) 59,596 shares owned by his spouse, (iv) 39,600 shares owned by irrevocable trusts for his children, and does not include (v) 347,619 shares of common stock issuable upon conversion of his OP Units. 
+​
+(4)
+Consists of 12,273 shares owned directly and 20 shares owned by his son. 
+​
+(5)
+Does not include 347,619 shares of common stock issuable upon conversion of OP Units.
+​
+​ TABLE OF CONTENTS
+Security Ownership of Certain Beneficial Owners 
+The following table sets forth information regarding the beneficial ownership of our common stock (our only outstanding class of equity securities) as of February 23, 2019, to our knowledge, for each beneficial owner of more than 5% of the outstanding shares of our common stock. As of February 23, 2019, there were 37,576,724 shares of our common stock outstanding. 
+[BEGIN TABLE]
+ Name of Beneficial Owner   ​ ​  Amount and Nature of Beneficial Ownership(1)  ​ ​  Percent of Class(2)  ​ 
+ BlackRock, Inc.   ​ ​ ​ ​ 5,763,879(3) ​ ​ ​ ​ ​ 15.3% ​ ​ 
+ Cohen & Steers, Inc.   ​ ​ ​ ​ 4,206,678(4) ​ ​ ​ ​ ​ 11.2% ​ ​ 
+ The Vanguard Group   ​ ​ ​ ​ 4,149,355(5) ​ ​ ​ ​ ​ 11.0% ​ ​ 
+[END TABLE]
+​
+(1)
+The amount of common stock beneficially owned is reported on the basis of regulations of the SEC governing the determination of beneficial ownership of securities. 
+​
+(2)
+Percentages are based on 37,576,724 shares of common stock outstanding as of February 23, 2019. The amount of common stock outstanding used in calculating such percentages assumes that none of the limited partnership units in Agree Limited Partnership are converted to common stock. 
+​
+(3)
+Pursuant to Schedule 13G/A (Amendment No. 10) filed with the SEC on January 24, 2019 by BlackRock, Inc. Represents 5,763,879 shares of common stock beneficially owned by BlackRock, Inc. and certain of its affiliates. The business address of such person is 55 East 52nd Street, New York, NY 10055. BlackRock, Inc. is deemed to have sole voting power with respect to 5,676,543 shares and sole dispositive power with respect to 5,763,879 shares. 
+​
+(4)
+Pursuant to Schedule 13G/A (Amendment No. 2) filed with the SEC on February 14, 2019 by Cohen & Steers, Inc. Represents 4,206,678 shares of common stock beneficially owned by Cohen & Steers, Inc. and certain of its affiliates. The business address of such person is 280 Park Avenue, New York, NY 10017. Cohen & Steers, Inc. is deemed to have sole voting power with respect to 3,744,516 shares and sole dispositive power with respect to 4,206,678 shares. 
+​
+(5)
+Pursuant to Schedule 13G/A (Amendment No. 6) filed with the SEC on February 11, 2019 by The Vanguard Group. Represents 4,149,355 shares of common stock beneficially owned by The Vanguard Group and certain of its affiliates. The business address of such person is 100 Vanguard Blvd., Malvern, PA 19355. The Vanguard Group is deemed to have sole voting power with respect to 62,806 shares, shared voting power with respect to 41,667 shares, sole dispositive power with respect to 4,077,699 shares and shared dispositive power with respect to 71,656 shares. 
+​
+​ TABLE OF CONTENTS​
+PROPOSAL 1 — ELECTION OF DIRECTORS 
+In December 2018, the Board reduced the size of the Board from ten members to nine members. Pursuant to the bylaws, the directors are required to be divided into three classes serving three-year staggered terms. At this annual meeting, three directors will be elected to serve until the annual meeting of stockholders in 2022 and one director will be elected to serve until the annual meeting of stockholders in 2020 or until such director's earlier resignation, retirement or other termination of service, and in the case of a holdover director, until his or her successor is duly elected and qualified. William Rubenfaer was re-nominated for a one-year term in order to evenly distribute directors amongst the three classes. 
+The Board has re-nominated Joel Agree, Craig Erlich, and Gregory Lehmkuhl, whose terms expire at this annual meeting, to serve until the annual meeting of stockholders in 2022. The Board has re-nominated William Rubenfaer, whose term expires at this annual meeting, to serve until the annual meeting of stockholders in 2020. The Board has affirmatively concluded that Craig Erlich, Gregory Lehmkuhl, and William Rubenfaer are independent under the applicable rules of the NYSE. 
+Each nominee has consented to serve his term until his successor has been duly elected and qualified, if elected by the stockholders. If any nominee becomes unable or unwilling to serve between the date of this proxy statement and the annual meeting, the Board may designate a new nominee and the persons named as proxies by the Board will vote for that substitute nominee. Alternatively, the Board may reduce the size of the Board. 
+The Board hereby recommends that you vote FOR the election of its director nominees. 
+The following table sets forth the director nominees and continuing directors of the Board: 
+[BEGIN TABLE]
+ Name   ​ ​  Age   ​ ​  Title   ​ ​  Term Ending   ​ 
+Joel Agree(1) ​ ​  40   ​ ​ Chief Executive Officer and Director  ​ ​  2019   ​ 
+Craig Erlich(1) ​ ​  51   ​ ​ Independent Director  ​ ​  2019   ​ 
+Gregory Lehmkuhl(1) ​ ​  46   ​ ​ Independent Director  ​ ​  2019   ​ 
+William S. Rubenfaer(2) ​ ​  74   ​ ​ Independent Director  ​ ​  2019   ​ 
+Merrie Frankel  ​ ​  64   ​ ​ Independent Director  ​ ​  2020   ​ 
+Farris G. Kalil  ​ ​  80   ​ ​ Independent Director  ​ ​  2020   ​ 
+Richard Agree  ​ ​  75   ​ ​  Executive Chairman of the Board and Director   ​ ​  2021   ​ 
+John Rakolta, Jr.  ​ ​  71   ​ ​ Independent Director  ​ ​  2021   ​ 
+Jerome Rossi  ​ ​  75   ​ ​ Independent Director  ​ ​  2021  ​ 
+[END TABLE]
+​
+(1)
+Standing for re-election to a three-year term. 
+​
+(2)
+Standing for re-election to a one-year term. 
+​
+The biographical descriptions below set forth certain information with respect to the director nominees and continuing directors of the Board. The Board has identified specific attributes of each director that the Board has determined qualify that person for service on the Board. 
+Joel Agree has been our President and a Director since June 2009. He was appointed as Chief Executive Officer in January 2013, and from June 2009 to that date he served as Chief Operating Officer. Prior to being promoted to President and Chief Operating Officer, from January 2006 to June 2009, Mr. Joel Agree served as our Executive Vice President. He is a member of the State Bar of Michigan and the International Council of Shopping Centers. He holds a Juris Doctorate degree from Wayne State University Law School and a Bachelor of Arts degree in Political Science from the University of Michigan. Joel Agree is the son of Richard Agree, our Executive Chairman. 
+The Board has determined that it is in the best interests of our Company and our stockholders for Mr. Joel Agree, in light of his day-to-day company-specific operational, management and market experience through his position as President and Chief Executive Officer of our Company, to continue to serve as a director of the Board, subject to stockholder approval at this annual meeting.  TABLE OF CONTENTS
+Craig Erlich has been a Director of our Company since July 2018. Mr. Erlich is an Executive Vice President and General Manager of the George P. Johnson Company ("GPJ"), a global experiential marketing firm with 30 offices worldwide. Mr. Erlich has full responsibility for operations in GPJ's world headquarters in Detroit, Michigan and its Nashville, Tennessee facilities. Prior to GPJ, Mr. Erlich was the owner, President and Chief Executive Officer of pulse220, a boutique meetings and events firm which he successfully sold to GPJ in 2015. Prior to pulse220, Mr. Erlich served as the President of QMS, a direct marketing and fulfillment firm in Detroit, Michigan. Mr. Erlich is a two-time nominee of the Ernst & Young Entrepreneur of the Year award and holds a Bachelor of Arts in Marketing from the Eli Broad College of Business at Michigan State University. 
+The Board has determined that it is in the best interests of our Company and our stockholders for Mr. Erlich, in light of his extensive operational and business development expertise, to continue to serve as a director of the Board, subject to stockholder approval at this annual meeting. 
+Gregory Lehmkuhl has been a Director of our Company since July 2018. Mr. Lehmkuhl is the President and Chief Executive Officer of Lineage Logistics and oversees all facets of the company's operations nationwide. Prior to joining Lineage, Mr. Lehmkuhl served as Corporate Executive Vice President for Con-Way and President of Con-Way Freight, where he was responsible for overall company operating and financial performance, strategic planning and business plan development, as well as direction of the company's continuous improvement processes. Prior to Con-Way, he held senior management positions at Menlo Worldwide Logistics, Delphi Automotive Systems and Penske Logistics. Mr. Lehmkuhl holds a Bachelor's Degree in Business from Michigan State University as well as a Master of Business Administration from Oakland University. 
+The Board has determined that it is in the best interests of our Company and our stockholders for Mr. Lehmkuhl, in light of his extensive operational and executive experience, to continue to serve as a director of the Board, subject to stockholder approval at this annual meeting. 
+William S. Rubenfaer has been a Director of our Company since December 2007. He is a partner in the certified public accounting firm of Rubenfaer & Associates, P.C., which he founded in 1979. He is also an Investment Advisor Representative for Blue Chip Partners, Inc., a registered investment advisory firm. Previously, Mr. Rubenfaer was the managing member of Sage Capital Management, L.L.C., a registered investment advisory firm. He is active in community activities, including serving as a past president and board member of the Bloomfield Hills, Michigan School District. Mr. Rubenfaer is a certified public accountant and a member of the American Institute of Certified Public Accountants and the Michigan Association of CPAs. 
+The Board has determined that it is in the best interests of our Company and our stockholders for Mr. Rubenfaer, in light of his extensive corporate accounting, tax and finance experience and his many years of local community service activities, to continue to serve as a director of the Board, subject to stockholder approval at this annual meeting. 
+Merrie S. Frankel has been a Director of our Company since October 2016. Ms. Frankel is currently President of Minerva Realty Consultants, LLC, an independent REIT and ratings advisory firm that also provides litigation support for REITs, public and private companies and funds. Prior to Minerva Realty Consultants, LLC, Ms. Frankel spent 18 years at Moody's Investors Service in the Commercial Real Estate Finance Group as Vice President and Senior Credit Officer, where she was responsible for rating REITs and real estate operating companies in the United States and Canada. Prior to her time at Moody's, she was Senior Vice President and Director of Portfolio Management for the Argo Funds and also held numerous positions within the real estate industry at notable companies including Ernst & Young, Cushman & Wakefield, J.P. Morgan Securities and Salomon Brothers Inc. Ms. Frankel is currently an adjunct professor at Columbia University's Graduate School of Architecture, Planning and Preservation and New York University's Schack Institute of Real Estate where she teaches capital markets. She holds J.D. and M.B.A. degrees from Hofstra University and graduated with a B.A. in English from the University of Pennsylvania with numerous honors. Among her industry affiliations, she is a Trustee and previously chaired the New York District Council for the Urban Land Institute (ULI), chairs the Investment Policy Committee for  TABLE OF CONTENTS
+the Financial Women's Association of New York (FWA), served as a recent Treasurer of the New York Women Executives in Real Estate Charitable Fund, a board member and chair of the Audit/Finance committee for the Martha Graham Dance Company, and sits on the Editorial Advisory Boards for NAREIT and Real Estate Media. 
+The Board has determined that it is in the best interests of our Company and our stockholders for Ms. Frankel, in light of her experience as a senior executive in the real estate and financial services industries, as well as her significant expertise in capital markets, accounting and REITs, to continue to serve as a director of the Board. 
+Farris G. Kalil has been a Director of our Company since December 1993. Mr. Kalil has been a financial consultant since June 1999. From November 1996 until his retirement in May 1999, Mr. Kalil served as Director of Business Development for the Commercial Lending Division of Michigan National Bank, a national banking institution. From May 1994 to November 1996, Mr. Kalil served as a Senior Vice President for Commercial Lending at First of America Bank — Southeast Michigan, N.A. Prior thereto, Mr. Kalil served as a Senior Vice President of Michigan National Bank where he headed the Commercial Real Estate Division, Corporate Special Loans, Real Estate Asset Management/Real Estate Owned Group, and the Government Insured Multi-Family Department. Mr. Kalil received his B.S. from Wayne State University and continued his education at the Northwestern University School of Mortgage Banking. 
+The Board has determined that it is in the best interests of our Company and our stockholders for Mr. Kalil, in light of his corporate accounting expertise and his extensive banking and finance experience, including his experience as head of the Commercial Real Estate Division, Corporate Special Loans, Real Estate Asset Management/Real Estate Owned Group at Michigan National Bank, to continue to serve as a director of the Board. 
+Richard Agree has been the Executive Chairman of the Board since January 2013. From December 1993 until January 2013, he was our Chief Executive Officer and Chairman of the Board. Prior thereto, he worked as managing partner of the general partnerships which held our properties prior to the formation of our Company and the initial public offering and was President of the predecessor company since 1971. Mr. Richard Agree has managed and overseen the development of over eight million square feet of retail real estate during the past 48 years. He is a graduate of the Detroit College of Law, a member of the State Bar of Michigan and the International Council of Shopping Centers. Mr. Richard Agree is the father of Mr. Joel Agree, our Chief Executive Officer and one of our Directors. 
+The Board has determined that it is in the best interests of our Company and our stockholders for Mr. Richard Agree, in light of his extensive company-specific, operational, market and finance experience as the founder and former Chief Executive Officer of our Company, his leadership abilities and his expertise in the ownership, development, acquisition and management of retail real estate net leased to national tenants, to continue to serve as a director of the Board. 
+John Rakolta, Jr. has been a Director of our Company since August 2011. Mr. Rakolta is the chairman and chief executive officer of Walbridge, a privately-held construction company founded in Detroit in 1916. Mr. Rakolta serves on the board and is co-chairman of the Metropolitan Affairs Corporation and the Coalition for the Future of Detroit School Children. He is a director and member of the Executive Committee of the Detroit Regional Chamber and serves on the Board of Directors of New Detroit, Inc., the College for Creative Studies, and Business Leaders for Michigan. Mr. Rakolta was appointed Romania's Honorary Consul General to the United States in 1998. He received a Bachelor of Science degree in Civil Engineering from Marquette University in 1970. 
+The Board has determined that it is in the best interests of our Company and our stockholders for Mr. Rakolta, in light of his strong executive background in business and construction and his leadership skills to continue to serve as a director of the Board. TABLE OF CONTENTS
+Jerome Rossi has been a Director of our Company since January 2015. Mr. Rossi is the Chief Executive Officer of R&R Consulting and the Chairman of Gabe's stores, a private fashion discount retailer. Mr. Rossi was previously Senior Executive Vice President and Group President of The TJX Companies from 2005 until January 2015. He served as Chief Operating Officer of HomeGoods from 2000 to 2005, Executive Vice President and Chief Operating Officer of The Marmaxx Group from 1995 to 2000 and President and Chief Executive Officer of Marshalls from 1990 to 1995. Mr. Rossi began his career in 1967 as a Certified Public Accountant with Arthur Young & Co. Mr. Rossi currently serves on the Board of Directors of Home Base, the Board of Advisors at Bentley College, the Board of Directors at Bethany Hill School, the Board of Overseers at Newton Wellesley Hospital, the Board of Overseers at Beth Israel Hospital and the Board of Directors of The National Domestic Violence Hotline. 
+The Board has determined that it is in the best interests of our Company and our stockholders for Mr. Rossi, in light of his extensive career as a senior executive, deep knowledge of retail real estate and retail operations, strong leadership capabilities and public company experience, to continue to serve as a director of the Board. TABLE OF CONTENTS​​
+BOARD MATTERS 
+The Board of Directors 
+The Board has general oversight responsibility for our affairs, and the directors, in exercising their duties, represent and act on behalf of the stockholders. Although the Board does not have responsibility for our day-to-day management, it stays regularly informed about our business and provides guidance to management through periodic meetings and other informal communications. The Board is significantly involved in, among other things, the strategic and financial planning process, leadership development and succession planning, as well as other functions carried out through the Board committees as described below. 
+Board Leadership Structure.   The Board recognizes that one of its key responsibilities is to evaluate and determine its optimal leadership structure so as to provide independent oversight of management. The Board understands that there is no single, generally accepted approach to providing board leadership and the right board leadership structure may vary as circumstances warrant. 
+Richard Agree served as our Chairman of the Board and Chief Executive Officer from December 1993 to January 2013 and has served as our Executive Chairman of the Board since January 2013. Joel Agree served as our President and Chief Operating Officer and as a director from June 2009 until his promotion to Chief Executive Officer in January 2013. Subject to the direction of the Board, including the Executive Chairman, Joel Agree has general responsibility and ultimate authority for implementation of our policies. Based on its most recent review, the Board believes our Company's leadership structure is appropriate because it provides us with informed, consistent and efficient decision making. 
+In considering its leadership structure, the Board has taken a number of factors into account. The Board, which consists of a majority of independent directors, exercises a strong, independent oversight function. This oversight function is enhanced by the fact that the Audit Committee, the Compensation Committee and the Nominating and Governance Committee are comprised entirely of independent directors. Finally, under our Amended and Restated Bylaws (the "Bylaws") and Corporate Governance Guidelines, the Board has the ability to change its structure, should that be deemed appropriate and in the best interest of our Company and our stockholders. The Board believes that these factors provide the appropriate balance between the authority of those who oversee our Company and those who manage it on a day-to-day basis. 
+Risk Management.   The Board takes an active and informed role in our risk management policies and strategies. Our executive officers, who are responsible for our day-to-day risk management practices, present to the Board on the material risks to our Company, including credit risk, liquidity risk and operational risk. At that time, the management team also reviews with the Board our risk mitigation policies and strategies specific to each risk that is identified. Our Compensation Committee reviews and determines whether any of our compensation policies or practices subject the Company to inappropriate risk. Throughout the year, management monitors our risk profile and updates the Board as new material risks are identified or the aspects of a risk previously presented to the Board materially change. 
+Meetings.   The Board and its committees meet throughout the year at regularly scheduled meetings, and also hold special meetings and act by written consent as appropriate. The Board met six times during 2018. During 2018, each director attended 75% or more in aggregate of  (i) the number of meetings of the Board and (ii) the number of meetings held by all committees of the Board on which such director served. It has been and is the policy of the Board that directors attend annual meetings of stockholders except where the failure to attend is due to unavoidable circumstances or conflicts discussed in advance by the director with the Chairman of the Board. Each director serving on the Board at the time of the 2018 annual meeting attended our 2018 annual meeting of stockholders. 
+Our independent directors meet in executive sessions at least twice a year without management. The Board has not designated a lead director or a single director to preside at executive sessions. Instead, the presiding director of executive sessions of independent directors is selected at each meeting by such directors. 
+Director Independence.   The NYSE listing standards set forth objective requirements for a director to satisfy, at a minimum, in order to be determined to be independent by the Board. In addition, in order to  TABLE OF CONTENTS
+conclude a director is independent in accordance with the NYSE listing standards, the Board must also consider all relevant facts and circumstances, including commercial, industrial, banking, consulting, legal, accounting, charitable and familial relationships. Pursuant to our Corporate Governance Guidelines and the NYSE listing standards, which require that a majority of our directors be independent within the meaning of the NYSE listing standards, the Board undertook a review of the independence of all non-management directors. The Board has affirmatively determined, assisted by the standards set forth above, that Ms. Frankel, and each of Messrs. Erlich, Kalil, Lehmkuhl, Rakolta, Jr., Rossi, and Rubenfaer are independent directors and that Mr. Schurgin, who served as a director until December 2018, was an independent director in accordance with the NYSE listing standards and our Corporate Governance Guidelines and do not have a relationship with us that would interfere with such person's ability to exercise independent judgment as a member of the Board. In making this determination, the Board has considered the relationships described below under "Related Person Transactions," and determined they do not affect independence. The Board's director independence standards outlined in our Corporate Governance Guidelines can be found on our website at www.agreerealty.com in the Corporate Governance section. 
+Stock Ownership Requirements.   In May 2009, in order to further align the interests of our executive officers and directors with the interest of our stockholders, and to promote our commitment to sound corporate governance, the Board adopted stock ownership guidelines for executive officers and independent directors. A summary of those guidelines is set forth in "Compensation Discussion and Analysis" under the heading "Stock Ownership Guidelines." TABLE OF CONTENTS​
+Committees of the Board 
+The Board has delegated various responsibilities and authority to four standing committees of the Board. Each committee regularly reports on its activities to the full Board. Each committee, other than the Executive Committee, operates under a written charter approved by the Board, which is reviewed annually by the respective committees of the Board and is available in the Corporate Governance section of our website at www.agreerealty.com. The Audit Committee, the Compensation Committee and the Nominating and Governance Committee are composed entirely of independent directors. The table below sets forth the current membership of the four standing committees of the Board and the number of meetings in 2018 of such committees: 
+[BEGIN TABLE]
+ Name   ​ ​  Audit   ​ ​  Compensation   ​ ​  Nominating and Governance   ​ ​  Executive   ​ 
+ Richard Agree   ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​  Chair   ​ 
+ Joel Agree   ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​  ✓  ​ 
+ Craig Erlich   ​ ​ ​ ​ ​  ✓  ​ ​ ​ ​ ​ ​ ​ 
+ Merrie S. Frankel   ​ ​  ✓  ​ ​ ​ ​ ​  Chair   ​ ​ ​ ​ 
+ Farris G. Kalil   ​ ​  Chair   ​ ​  ✓  ​ ​ ​ ​ ​ ​ ​ 
+ Gregory Lehmkuhl   ​ ​ ​ ​ ​ ​ ​ ​  ✓  ​ ​ ​ ​ 
+ John Rakolta, Jr.   ​ ​ ​ ​ ​  ✓  ​ ​  ✓  ​ ​ ​ ​ 
+ Jerome Rossi   ​ ​ ​ ​ ​  ✓  ​ ​  ✓  ​ ​  ✓  ​ 
+ William S. Rubenfaer   ​ ​  ✓  ​ ​  Chair   ​ ​ ​ ​ ​  ✓  ​ 
+ Meetings   ​ ​  4   ​ ​  1   ​ ​  2   ​ ​  1  ​ 
+[END TABLE]
+Audit Committee.   The Audit Committee is responsible for providing independent, objective oversight of our auditing, accounting and financial reporting processes, including reviewing the audit results and monitoring the effectiveness of our internal audit function. In addition, the Audit Committee engages the independent registered public accounting firm. See "Report of the Audit Committee", "Audit Committee Matters" and the Audit Committee's charter for additional information on the responsibilities and activities of the Audit Committee. 
+The Board has determined that each Audit Committee member has sufficient knowledge in reading and understanding financial statements to serve thereon and is otherwise financially literate and that Ms. Frankel and Mr. Rubenfaer qualify as "audit committee financial experts" as that term is defined in the Securities Exchange Act of 1934, as amended (the "Securities Exchange Act"). The Board has further determined that Mr. Kalil, Ms. Frankel and Mr. Rubenfaer possess financial management expertise within the meaning of the listing standards of the NYSE. 
+Compensation Committee.   The Compensation Committee is responsible for overseeing compensation and benefit plans and policies, reviewing and approving equity grants and otherwise administering share-based plans, and reviewing and approving annually all compensation decisions relating to our executive officers. The Compensation Committee also has authority to grant awards under the Company's 2014 Omnibus Incentive Plan. See "Compensation Discussion and Analysis", "Compensation Committee Report" and the Compensation Committee's charter for additional information on the responsibilities and activities of the Compensation Committee. 
+Role of Management.   After consultation with our executive officers, Joel Agree, our President and Chief Executive Officer, makes recommendations to the Compensation Committee with respect to the design and implementation of the compensation program for the named executive officers. See "Compensation Discussion and Analysis — Determining Compensation for named executive officers." 
+Role of Compensation Consultant.   The Company and the Compensation Committee regularly engage Meridian Compensation Partners, LLC ("Meridian") to assist the Company with select matters related to the Company's accounting for and benchmarking of its executive compensation program. The Compensation Committee determined that Meridian meets the criteria for an independent consultant in accordance with SEC guidelines for such services.  TABLE OF CONTENTS
+Nominating and Governance Committee.   The Nominating and Governance Committee is responsible for establishing the requisite qualifications for directors, identifying and recommending the nomination of individuals qualified to serve as directors and recommending directors for each Board committee. The Nominating and Governance Committee also establishes corporate governance practices in compliance with applicable regulatory requirements consistent with the highest standards and recommends to the Board the corporate governance guidelines applicable to us. See the Nominating and Governance Committee's charter for additional information on the responsibilities and activities of the Nominating and Governance Committee. 
+Director Qualifications.   Our Nominating and Governance Committee has established policies for the desired attributes of the Board as a whole, including as set forth in our Corporate Governance Guidelines. The Board seeks to ensure that a majority of its members are independent within the NYSE listing standards. Further, each director generally may not serve as a member of more than six other public company boards. Each director must possess the individual qualities of integrity and accountability, informed judgment, high performance standards and must be committed to representing the long-term interests of our Company and our stockholders. In addition, directors must be committed to devoting the time and effort necessary to be responsible and productive members of the Board. The Board values diversity, in its broadest sense, reflecting, but not limited to, profession, geography, gender, ethnicity, skills and experience and endeavors to include women and minority candidates in the qualified pool from which Board candidates are chosen. The Nominating and Governance Committee conducts reviews of current directors in light of the considerations described above and their past contributions to the Board. The Board reviews the effectiveness of its director candidate nominating policies annually. 
+Identifying and Evaluating Nominees.   Generally, the Nominating and Governance Committee will re-nominate incumbent directors who continue to satisfy its criteria for membership on the Board, who it believes will continue to make important contributions to the Board and who consent to continue their service on the Board. 
+Our Nominating and Governance Committee periodically assesses the appropriate number of directors comprising the Board and whether any vacancies on the Board are expected due to retirement or otherwise. The Nominating and Governance Committee may consider those factors it deems appropriate in evaluating director candidates including judgment, skill, diversity, strength of character, experience with businesses and organizations comparable to our size or scope, experience and skill relative to other Board members and specialized knowledge or experience. Depending on the current needs of the Board, certain factors may be weighted more or less heavily by the Nominating and Governance Committee. 
+The Nominating and Governance Committee considers candidates for the Board from any responsible source, including current Board members, stockholders, professional search firms or other persons. The Nominating and Governance Committee does not evaluate candidates differently based on who has made the recommendation. The Nominating and Governance Committee has the authority under its charter to hire and pay a fee to consultants or search firms to assist in the process of identifying and evaluating candidates. 
+Stockholder Nominees.   Our Bylaws permit stockholders to nominate directors for consideration at an annual meeting of stockholders. We did not receive any director nominations by stockholders for the 2019 annual meeting. The Nominating and Governance Committee will consider properly submitted stockholder submissions for nominations to the Board and will apply the same evaluation criteria in considering such nominees as it would to persons nominated under any other circumstances. Such nominations may be made by a stockholder entitled to vote, who delivers written notice along with the additional information and materials to our Secretary in compliance with the requirements set forth in our Bylaws and below in "Additional Information — Proposals for 2020 Annual Meeting." TABLE OF CONTENTS​​
+Any stockholder nominations proposed for consideration by the Nominating and Governance Committee should include the nominee's name, sufficient biographical information to demonstrate that the nominee meets the qualification requirements for Board service as set forth under "Director Qualifications," and such other information regarding each nominated person as set forth in our Bylaws and that would be required in a proxy statement filed pursuant to the SEC's proxy rules in the event of an election contest. The nominee's written consent to the nomination should also be included with the nominating submission, which should be addressed to: Agree Realty Corporation, 70 E. Long Lake Road, Bloomfield Hills, MI 48304, Attention: Secretary. 
+Executive Committee.   The Executive Committee has the authority to acquire and dispose of real property and the power to authorize, on behalf of the full Board, the execution of certain contracts and agreements, including those related to our borrowing of money, and generally to exercise all other powers of the Board except for those which require action by a majority of the independent directors or the entire Board. 
+Compensation Committee Interlocks and Insider Participation 
+During 2018, the Compensation Committee consisted of William S. Rubenfaer (Chairman), Craig Erlich, Farris G. Kalil, John Rakolta, Jr., and Jerome Rossi. None of the Compensation Committee members has served as an officer or employee of our Company or any of our subsidiaries. In addition, during 2018, none of the Company's executive officers served on the board of directors or compensation committee (or committee performing equivalent functions) of any other company that had one or more executive officers serving on the Board or Compensation Committee. No member of the Compensation Committee has any other business relationship or affiliation with our Company or any of our subsidiaries (other than his service as a director). 
+Director Compensation 
+The Compensation Committee establishes and oversees our director compensation program. Director compensation is established with a view to attract highly qualified non-management directors and fairly compensate non-management directors for their time and effort on behalf of stockholders. Each non-management director who is not an employee of, or affiliated with, the Company received an annual fee of  $40,000 in 2018. Effective 2019, the Compensation Committee approved increasing the annual fee for each non-management director to $50,000. In 2018, each Director elected to receive the annual fee in common stock. Payment of the annual fee is made in February following the fiscal year in which the non-management director served on the Board. The amount of common stock issued was determined by dividing the dollar amount of each Director's fee by the closing price of the common stock on February 22, 2019, which was $65.66. Directors who are employees or officers of our Company or any of our subsidiaries do not receive any additional compensation for serving on the Board or any committees thereof. 
+The Chairperson of the Audit Committee receives $6,000, which is subject to the same cash or common stock election described above. Directors do not receive any additional compensation in any form for their service, including for attendance at meetings of the Board or its committees. The Company reimburses directors for out-of-pocket expenses incurred in connection with their service on the Board. TABLE OF CONTENTS​​
+The following table provides compensation information for the year ended December 31, 2018 for each non-management director. 
+[BEGIN TABLE]
+ Name   ​ ​  Fees Earned or Paid in Cash(1)  ​ ​  Stock Awards   ​ ​  Total   ​ 
+ Craig Erlich   ​ ​ ​ $ 17,935 ​ ​ ​ ​ $ — ​ ​ ​ ​ $ 17,935 ​ ​ 
+ Merrie S. Frankel   ​ ​ ​ ​ 40,000 ​ ​ ​ ​ ​ — ​ ​ ​ ​ ​ 40,000 ​ ​ 
+ Farris G. Kalil   ​ ​ ​ ​ 46,000 ​ ​ ​ ​ ​ — ​ ​ ​ ​ ​ 46,000 ​ ​ 
+ Gregory Lehmkuhl   ​ ​ ​ ​ 17,935 ​ ​ ​ ​ ​ — ​ ​ ​ ​ ​ 17,935 ​ ​ 
+ John Rakolta, Jr.   ​ ​ ​ ​ 40,000 ​ ​ ​ ​ ​ — ​ ​ ​ ​ ​ 40,000 ​ ​ 
+ Jerome Rossi   ​ ​ ​ ​ 40,000 ​ ​ ​ ​ ​ — ​ ​ ​ ​ ​ 40,000 ​ ​ 
+ William S. Rubenfaer   ​ ​ ​ ​ 40,000 ​ ​ ​ ​ ​ — ​ ​ ​ ​ ​ 40,000 ​ ​ 
+ Leon Schurgin   ​ ​ ​ ​ 37,065 ​ ​ ​ ​ ​ — ​ ​ ​ ​ ​ 37,065 ​ ​ 
+[END TABLE]
+​
+(1)
+All of our non-management directors elected to receive shares of our common stock in lieu of cash for payment of the fees payable to them for their service in 2018. The aggregate numbers of shares of common stock earned by the non-management directors for their service in 2018 were as follows: Mr. Erlich, 273; Ms. Frankel, 609; Mr. Kalil, 701; Mr. Lehmkuhl, 273; Mr. Rakolta, 609; Mr. Rossi, 609; Mr. Rubenfaer, 609; and Mr. Schurgin, 564. These shares were issued based on the fair market value of our common stock on February 22, 2019. 
+​
+Corporate Governance 
+The Board has adopted Corporate Governance Guidelines, a copy of which can be found in the Corporate Governance section of our website at www.agreerealty.com. These guidelines address, among other things, director responsibilities, qualifications (including independence), compensation and access to management and advisors. The Nominating and Governance Committee is responsible for overseeing and reviewing these guidelines and recommending any changes to the Board. 
+The Board also has adopted a Code of Business Conduct and Ethics (the "Code of Conduct"), which sets out basic principles to guide the actions and decisions of all of our employees, officers and directors. The Code of Conduct, also available in the Corporate Governance section of our website at www.agreerealty.com, covers numerous topics including honesty, integrity, conflicts of interest, compliance with laws, corporate opportunities and confidentiality. Waivers of the Code of Conduct are discouraged, but any waiver that relates to our executive officers or directors may only be granted by the Board. The Board also has adopted a Chief Executive Officer and Chief Financial Officer Code of Professional Ethics. See "Related Person Transactions" for additional information on the Board's policies and procedures regarding related person transactions. 
+A copy of our committee charters, Corporate Governance Guidelines and Code of Conduct will be sent to any stockholder, without charge, upon written request to our executive offices: Agree Realty Corporation, 70 E. Long Lake Road, Bloomfield Hills, MI 48304, Attention: Secretary. 
+Communications with the Board 
+Interested parties who want to communicate with our non-management directors confidentially may do so by sending correspondence to: 
+Non-Management Directors Agree Realty Corporation 70 E. Long Lake Road Bloomfield Hills, MI 48304 Attention: Secretary 
+Please note that the mailing envelope must contain a clear notification that it is confidential and your letter should indicate whether you are a stockholder of the Company.  TABLE OF CONTENTS
+Interested parties and stockholders of the Company who want to communicate with the Board or any individual director can write to: 
+Agree Realty Corporation 70 E. Long Lake Road Bloomfield Hills, MI 48304 Attention: Secretary 
+Your letter should indicate that you are an interested party or a stockholder of the Company. Depending on the subject matter, the Secretary will: 
+ forward the communication to the director or directors to whom it is addressed; 
+​
+ attempt to handle the inquiry directly; for example, where it is a request for information about our Company or if it is a stock-related matter; or 
+​
+ not forward the communication if it is primarily commercial in nature or if it relates to an improper or irrelevant topic.
+​
+​ TABLE OF CONTENTS​
+EXECUTIVE OFFICERS 
+The following table sets forth our executive officers, followed by biographical information regarding each executive officer who is not also a director. 
+[BEGIN TABLE]
+ Name   ​ ​  Age   ​ ​  Title   ​ 
+Richard Agree  ​ ​  75   ​ ​ Executive Chairman of the Board and Director  ​ 
+Joel Agree  ​ ​  40   ​ ​ President, Chief Executive Officer and Director  ​ 
+Clayton R. Thelen  ​ ​  34   ​ ​ Chief Financial Officer and Secretary  ​ 
+Laith M. Hermiz  ​ ​  48   ​ ​ Chief Operating Officer and Executive Vice President ​ 
+[END TABLE]
+Clayton R. Thelen has been our Chief Financial Officer and Secretary since December 2017. Prior to joining the Company, Mr. Thelen served as Chief Financial Officer at AJ Capital Partners, a real estate private equity firm. In his role at AJ Capital Partners he was responsible for the strategy and execution of capital markets transactions. Prior to joining AJ Capital Partners he held the position of Vice President, Capital Markets, Acquisitions and Treasurer at Strategic Hotels & Resorts Inc., a publicly traded REIT, until its sale in 2015. In his role at Strategic Hotels & Resorts Inc. he led the financial planning and analysis and treasury functions as well as the execution of capital markets transactions. Mr. Thelen is a certified public accountant and began his career with Ernst & Young, LLP. Mr. Thelen holds a Bachelor of Arts in Accounting from Michigan State University, a Master of Science in Accounting from Michigan State University and a Master of Business Administration from the University of Chicago Booth School of Business. 
+Laith M. Hermiz has been our Executive Vice President since April 2010 and our Chief Operating Officer since November 2015. Prior to joining our Company, Mr. Hermiz served as Vice President Development/Redevelopment of Ramco-Gershenson Properties Trust from July 2007 to April 2010. Previously, Mr. Hermiz was Managing Director of Joseph Freed and Associates LLC from April 2004 to July 2007. Mr. Hermiz holds a Bachelor of Science degree from Loyola University — Chicago and a Juris Doctorate degree from University of Detroit-Mercy School of Law. He is a licensed attorney and real estate broker in the State of Michigan and is an active member of the State Bar of Michigan and the International Council of Shopping Centers. TABLE OF CONTENTS​
+COMPENSATION DISCUSSION AND ANALYSIS 
+Overview of Compensation Program 
+The Compensation Committee (referred to as the "Committee" in this section), composed entirely of independent directors, administers our executive compensation program. The Committee's responsibilities include recommending and overseeing compensation, benefit plans and policies, reviewing and approving equity grants, administering share-based plans, and reviewing and approving, annually, all compensation decisions relating to our executive officers. This section of the proxy statement explains how our compensation programs are designed and operate with respect to our named executive officers, which includes Richard Agree, our Executive Chairman; Joel Agree, our President and Chief Executive Officer; Laith Hermiz, our Executive Vice President and Chief Operating Officer; and Clayton Thelen our Chief Financial Officer and Secretary. The following discussion and analysis should be read together with the tables and related footnote disclosures detailed below. 
+Compensation Objectives and Philosophy 
+Our compensation program for the named executive officers generally consists of base salary, annual incentive awards, long-term share-based incentive awards and certain other benefits. We also provide certain severance arrangements for certain of our named executive officers. The following summarizes the key principles and objectives of our approach to executive compensation: 
+ Provide total compensation that is both fair and competitive.   To attract and reduce the risk of losing the services of valuable officers but avoid the expense of excessive pay, compensation should be competitive. The Committee assesses the competitiveness of our compensation for our executive officers by comparing our compensation to executive officer compensation at other public companies. 
+​
+ Attract, retain and motivate key executives who are critical to our operations.   The primary purpose of our executive compensation program has been, and is, to achieve our business objectives by attracting, retaining and motivating talented executive officers by providing incentives and economic security. 
+​
+ Reward superior individual and Company performance on both a short-term and long-term basis.   Performance-based pay aligns the interests of management with the interests of our stockholders. Performance-based compensation motivates and rewards individual efforts and company success. 
+​
+ Align executives' long-term interests with those of our stockholders.   The Company seeks to align these interests by providing a significant portion of executive officer compensation in the form of common stock. Through share ownership guidelines for named executive officers and grants of restricted common stock that vest over a period of five years and performance share awards, the amount of which are based on total shareholder return, the value of the executive officers' total compensation should increase as total returns to stockholders increase. The Company expects the value of these elements as a percentage of each executive officer's annual base salary to motivate executive officers to continually improve their performance and create value for the Company over the long-term. In 2019, the Company's executive compensation program is designed to reward favorable execution of specific Company performance goals. 
+​
+The Committee seeks to ensure the foregoing objectives are achieved by considering individual performance reviews, Company performance, hiring and retention needs, internal pay equity, market data and other external market pressures in finalizing its compensation determinations. TABLE OF CONTENTS
+Determining Compensation for Named Executive Officers 
+The Committee meets without management present to determine the compensation of the named executive officers. Prior to such meeting, the Committee receives compensation recommendations from Joel Agree, our President and Chief Executive Officer. We believe that because of his experience with our Company and his involvement in setting and executing the Company's business goals, strategies, and performance, he is able to provide valuable input regarding the overall effectiveness of the management team and each individual's contribution to our performance. Joel Agree's recommendations are supported by formal performance reviews for each named executive officer which include an evaluation of the individual's performance against pre-determined performance metrics. The Committee retains the discretion to modify his recommendations and reviews such recommendations for their reasonableness based on Company performance, market information, and the Committee's compensation philosophy and related considerations. Joel Agree does not provide input with respect to his own compensation. 
+In 2018, the Committee did not utilize a compensation consultant to establish or administer its executive compensation program. However, the Company engaged Meridian to assist the Company with select matters related to the Company's accounting for and benchmarking of its executive compensation program. 
+Compensation Committee Consideration of the 2018 Vote on Executive Compensation 
+In determining our executive compensation program for the remainder of 2018 and for 2019 the Committee generally considered the results of the 2018 advisory vote of our stockholders on executive compensation presented in our 2018 proxy statement. The Committee noted that more than 97% of the votes cast approved the compensation of our named executive officers as described in our 2018 proxy statement. The Committee considered these voting results supportive of the Committee's general executive compensation practices. 
+Elements and Criteria of Compensation in 2018 for Named Executive Officers 
+Our compensation program for named executive officers generally consists of base salary, annual cash incentive awards, long-term share-based incentive awards and certain other benefits. The Committee believes that incentive awards and long-term share-based incentive awards should relate to objectives established by the Board and management to achieve the Company's financial and other objectives. We also provide certain severance arrangements for certain of our named executive officers. 
+The Committee assessed the competitiveness of the Company's current compensation levels for the Chief Executive Officer, the Chief Financial Officer and the Chief Operating Officer. This assessment compared the Company's compensation of certain named executive officers to the same officer levels of a peer group of 12 publicly-traded REITs that were selected either because their enterprise value, market capitalization or total assets were generally comparable to ours. The members of the peer group are: 
+[BEGIN TABLE]
+​  Cedar Realty TrustChatham Lodging TrustChesapeake Lodging TrustFour Corners Property Trust, Inc.Getty Realty CorporationLexington Realty Trust  ​ ​  Monmouth Real Estate Investment CorporationRPT RealtyRexford Industrial Realty, Inc.Summit Hotel PropertiesTerreno Realty CorporationUrstadt Biddle Properties, Inc.  ​ 
+[END TABLE]
+According to the materials provided to the Committee, which members of management prepared and Meridian reviewed: (i) enterprise values of the peer group ranged from approximately $1.1 billion to approximately $3.9 billion, and the Company's enterprise value was in the 84th percentile of the peer group; (ii) market capitalizations of the peer group ranged from approximately $300 million to approximately $2.9 billion, and the Company's market capitalization was in the 92nd percentile of the peer group. 
+The materials provided to the Committee and reviewed by Meridian included the tenure of the executive officers of the peer group companies in their current positions, as well as the following compensation components for the executive officers of the peer group companies: (i) base salary (data primarily from 2018), (ii) target annual incentives (data primarily from 2017), (iii) target total cash compensation (sum of  (i) and (ii)), (iv) long-term incentives (data primarily from 2017) and (v) total direct compensation (sum of  (iii) and (iv)).  TABLE OF CONTENTS
+The materials showed that the 2018 base salary level for certain named executive officers was below the peer group's 25th percentile. The following table provides a summary of the base salary, the cash incentive awards, the long-term incentive grant date fair value and the total direct compensation of certain named executive officers compared to the mean of those of the peer group: 
+[BEGIN TABLE]
+​ ​ ​  Company versus Peer Group Mean   ​ 
+​ ​ ​  Base Salary   ​ ​  Cash Incentive Award   ​ ​  Long-Term Incentive Grant Date Fair Value   ​ ​  Total Direct Compensation   ​ 
+ Chief Executive Officer   ​ ​ ​ ​ -5% ​ ​ ​ ​ ​ 25% ​ ​ ​ ​ ​ 99% ​ ​ ​ ​ ​ 63% ​ ​ 
+ Chief Financial Officer   ​ ​ ​ ​ -33% ​ ​ ​ ​ ​ -48% ​ ​ ​ ​ ​ -64% ​ ​ ​ ​ ​ -51% ​ ​ 
+ Chief Operating Officer   ​ ​ ​ ​ -19% ​ ​ ​ ​ ​ -42% ​ ​ ​ ​ ​ -28% ​ ​ ​ ​ ​ -29% ​ ​ 
+[END TABLE]
+The Company sets annual base salaries at a level it believes necessary to attract and retain the named executive officers, commensurate with the officers' responsibilities, reputations and experience. The Company sets annual cash target incentive awards at levels it believes necessary to attract and retain the named executive officers, the amount of which ultimately is approved by the Committee and depends on management's achievement of certain Company and individual objectives. The Company has also determined to pay time-based long-term equity incentive compensation to encourage the named executive officers to pursue strategies that will create long-term value for our shareholders, to align with our shareholders by tying a significant portion of compensation to the value of common stock with time-based vesting and to promote continuity of management by retaining the named executive officers. 
+For fiscal year 2018, the Committee determined that executive compensation would consist of: (i) annual cash base salaries; (ii) annual cash incentive awards; and (iii) two forms of long-term equity-based compensation — 50% as restricted share awards subject to time-based vesting provisions over a five-year period and 50% as performance-based equity awards subject to a performance-based measurement period of three years and vesting provisions over a three-year period. The annual cash incentive awards and long-term equity awards are based on the achievement of performance goals established by the Committee pursuant to the Annual Executive Incentive Plan, approved and adopted by the Committee on February 16, 2017. 
+The following narrative discusses the components of fiscal year 2018 compensation. 
+Base Salary.   The Committee believes that base salary is a primary factor in retaining and attracting key employees in a competitive marketplace, as well as preserving an employee's commitment during downturns in the REIT industry and/or equity markets. When determining the base salary for each of the named executive officers, the Committee considers the individual's experience, current performance, potential for advancement, internal pay equity and market data. 
+The base salaries paid to the named executive officers in 2018 are set forth below in the "Executive Compensation Tables — Summary Compensation Table." From 2017 to 2018 and from 2018 to 2019, Richard Agree's base salary did not increase and remained at $150,000, which he elected, and the Committee approved, to receive in the form of restricted stock. Mr. Richard Agree was awarded 2,284 shares with a grant date fair value per share of  $65.66 based on the closing sales price of our common stock on February 22, 2019. Joel Agree's base salary was $550,000 in 2017 and $625,000 in 2018, an increase of 14%. Mr. Thelen's base salary for 2018 was $250,000, due to his employment commencing in December 2017, Mr. Thelen's base salary earned in 2017 was $9,615. Laith Hermiz's base salary was $285,000 in 2017 and $300,000 in 2018, an increase of 5%. 
+Effective March 1, 2019, the Committee approved annual base salaries for Joel Agree, Clay Thelen, and Laith Hermiz at a rate of  $675,000, $285,000 and $315,000, respectively. TABLE OF CONTENTS
+The Annual Executive Incentive Plan 
+The Company maintains an Annual Executive Incentive Plan under which annual cash and equity incentive awards for 2018 were granted to our participating named executive officers by our Compensation Committee. For purposes of the Annual Executive Incentive Plan, participating named officers include the Company's Chief Executive Officer, Chief Operating Officer, and Chief Financial Officer. All equity awarded under the Annual Executive Incentive Plan is granted pursuant to the Company's 2014 Omnibus Incentive Plan. 
+Annual Cash Incentive Awards.   The Committee believes that annual cash incentive awards provide a meaningful incentive for the achievement of short-term Company and individual goals, while assisting us in retaining, attracting and motivating employees in the near term. The threshold, target, and maximum cash incentive award opportunity as well as the 2018 Actual award as a percentage of base salary is included below: 
+[BEGIN TABLE]
+​ ​ ​  2018 Annual Cash Incentive Bonus Opportunity (as% of Base Salary)   ​ 
+ Position   ​ ​  Threshold   ​ ​  Target   ​ ​  Maximum   ​ ​  2018 Actual   ​ 
+ Chief Executive Officer   ​ ​ ​ ​ 50% ​ ​ ​ ​ ​ 100% ​ ​ ​ ​ ​ 150% ​ ​ ​ ​ ​ 140% ​ ​ 
+ Chief Operating Officer   ​ ​ ​ ​ 20% ​ ​ ​ ​ ​ 40% ​ ​ ​ ​ ​ 60% ​ ​ ​ ​ ​ 52% ​ ​ 
+ Chief Financial Officer   ​ ​ ​ ​ 20% ​ ​ ​ ​ ​ 40% ​ ​ ​ ​ ​ 60% ​ ​ ​ ​ ​ 60% ​ ​ 
+[END TABLE]
+Long-Term Equity Incentive Compensation.   The Committee believes that share-based incentive awards, with multiple-year vesting, provide a strong incentive for employees to focus on our long-term fundamentals and thereby create long-term stockholder value. These awards also assist us in maintaining a stable, continuous management team in a competitive market. The Committee historically has issued restricted stock for purposes of long-term incentive compensation, which provides significant upside incentive and aligns our officers' interests with our stockholders, while also maintaining some down-market protection. For 2018, the Company's Compensation Committee determined to grant long-term equity grants consisting of 50% restricted shares and 50% performance shares. For the Chief Executive Officer the long-term incentive award is valued in total at 538% of base salary; for the Chief Operating officer the long-term incentive award is valued in total at 129% of base salary; and for the Chief Financial Officer the long-term incentive award is valued in total at 90% of base salary. 
+Awards of Restricted Common Stock.   The restricted shares awarded to the individuals vest ratably over a five-year period with one-fifth (1/5) of the shares vesting on February 23 in each of 2020 through 2024. The Committee awarded an aggregate of 30,259 shares of restricted common stock for a total value of $1,986,806 to our named executive officers. The grant date fair value of each share was $65.66 based on the closing sales price of our common stock on February 22, 2019. The grants were as follows: Joel Agree, 25,609 shares; Laith Hermiz, 2,944 shares; and Clay Thelen, 1,706 shares. 
+Awards of Performance Shares.   The Committee awarded a total value of  $1,986,806 in performance shares to the participating named executive officers on February 23, 2019. The awards were as follows: Joel Agree, 25,609 shares; Laith Hermiz, 2,944 shares; and Clay Thelen, 1,706 shares. The awards are subject to forfeiture in the event that the performance level is below threshold, as defined in the table below. The performance shares awarded to the individuals will be calculated based on a three-year performance period beginning on January 1, 2019 and will be based on the achievement of the following performance goals: 
+ Position within the MSCI US REIT Index: 50% of the award is based upon the total shareholder return ("TSR") percentile rank versus the MSCI US REIT index for the three-year performance period; and 
+​
+ Position within the Company-defined Peer Group: 50% of the award is based upon TSR percentile rank versus a specified net lease peer group for the three-year performance period.
+​
+​ TABLE OF CONTENTS
+Following the three-year performance period, performance shares will be issued 50% at threshold, 100% at target, and 150% at maximum. Achievement percentages between the threshold and target and between the target and maximum levels will be interpolated based on actual results in each category. Following the performance period, one-third of the shares earned will vest each year for three years. Performance levels and corresponding award funding levels for 2018 performance shares are summarized in the below table: 
+[BEGIN TABLE]
+​  Performance Level   ​ ​  3-Year Relative TSR Positioning   ​ ​% of Target Award Funded   ​ 
+​  Below Threshold  ​ ​  Below 25th Percentile   ​ ​ ​ ​ 0% ​ ​ 
+​  Threshold  ​ ​  25th Percentile   ​ ​ ​ ​ 50% ​ ​ 
+​  Target  ​ ​  50th Percentile   ​ ​ ​ ​ 100% ​ ​ 
+​  Maximum  ​ ​  75th Percentile   ​ ​ ​ ​ 150% ​ ​ 
+[END TABLE]
+Determination of Annual Cash and Long-Term Equity Incentive Awards.   The annual cash and equity incentive opportunities were awarded to the extent the Company attained certain threshold, target, or maximum-level achievements for the following performance goals as certified by the Company's Compensation Committee: 
+AFFO Growth Goal:   50% of the award was based upon year-over-year percentage growth of the Company's adjusted funds from operations ("AFFO") per share. The threshold, target, and maximum-level achievements for 2018 were 5.0%, 7.0% and 8.0%, respectively. In 2018, the Company achieved AFFO per share growth of 4.9%. Since the actual performance for 2018 was below the threshold-level achievement, no compensation was awarded in connection with the Company's AFFO growth goal for 2018. 
+As noted above, the 2018 awards included the use of adjusted funds from operation growth, defined as the year-over-year percentage growth of the Company's AFFO per share. In reviewing the Company's performance, the Committee concluded that AFFO growth per share was not an appropriate measure, because (i) it does not take into account the fact that the Company's performance exceeded that of its peers and of the overall REIT industry; and (ii) it is impacted by provisions of generally accepted accounting principles, including the requirement that dilutive shares be recognized under the treasury stock method, that caused the Company to report lower AFFO growth per share as a result of the Company's conducting a forward equity offering and the subsequent increase in the market value of the Company's shares, two occurrences that the Committee viewed as significant management accomplishments rather than detriments. As a result, on February 7, 2019, the Committee determined to augment the 2018 awards with discretionary awards equal to 150% of the target AFFO growth goal award potential, in recognition of the fact that the Company's total shareholder return for 2018 exceeded that of the Company's major peers and in recognition of the following accomplishments of the Company in 2018: 
+ a Company record for total invested or committed capital of  $681.5 million; 
+​
+ reaching approximately $3.0 billion in enterprise value; 
+​
+ maintaining balance sheet strength and flexibility through the issuance of common equity for gross proceeds of  $540.0 million; 
+​
+ maintaining a year-end Net Debt/EBITDA ratio of 4.7x; 
+​
+ year-over-year dividend per share growth of 6.7%; 
+​
+ the receipt of an investment grade credit rating from Moody's Investors Service; and 
+​
+ the improvement in the quality of the Company's real estate portfolio as evidenced by the increased diversity of its assets and credit quality. 
+​
+Management Business Objectives:   35% of the award was based upon the achievement of specific operating and management business objectives, including: balance sheet criteria, asset management and portfolio characteristic goals, acquisition goals, development goals, and Partner Capital Solutions ("PCS") goals. The following performance metrics and achievement thereof were used to determine award amounts related to management business objectives, which was as follows; (1) 2018 year-end net debt to recurring  TABLE OF CONTENTS
+EBITDA of approximately 4.7x and fixed charge coverage of 4.0x; (2) 2018 year-end occupancy of 99.8%, rental income generated by investment grade tenants of 51.4% and a weighted-average remaining lease term of 10.2 years; (3) the acquisition of 225 properties net leased to industry-leading retailers for an aggregate investment of  $607.0 million; (4) the commencement of nine development and PCS projects with anticipated aggregate costs of  $34.2 million. 
+The threshold, target, and maximum-level achievements and 2018 actual performance is included below: 
+[BEGIN TABLE]
+​ ​ ​  Threshold   ​ ​  Target   ​ ​  Maximum   ​ ​  2018 Actual   ​ ​  Award% of Target   ​ 
+ Chief Executive Officer   ​ ​ ​ $ 109,375 ​ ​ ​ ​ $ 218,750 ​ ​ ​ ​ $ 328,125 ​ ​ ​ ​ $ 268,542 ​ ​ ​ ​ ​ 123% ​ ​ 
+ Chief Operating Officer   ​ ​ ​ ​ 21,000 ​ ​ ​ ​ ​ 42,000 ​ ​ ​ ​ ​ 63,000 ​ ​ ​ ​ ​ 46,640 ​ ​ ​ ​ ​ 111% ​ ​ 
+ Chief Financial Officer   ​ ​ ​ ​ 17,500 ​ ​ ​ ​ ​ 35,000 ​ ​ ​ ​ ​ 52,500 ​ ​ ​ ​ ​ 51,750 ​ ​ ​ ​ ​ 148% ​ ​ 
+ Chief Executive Officer   ​ ​ ​ ​ 418,906 ​ ​ ​ ​ ​ 837,813 ​ ​ ​ ​ ​ 1,256,719 ​ ​ ​ ​ ​ 1,106,551 ​ ​ ​ ​ ​ 132% ​ ​ 
+ Chief Operating Officer   ​ ​ ​ ​ 52,500 ​ ​ ​ ​ ​ 105,000 ​ ​ ​ ​ ​ 157,500 ​ ​ ​ ​ ​ 133,575 ​ ​ ​ ​ ​ 127% ​ ​ 
+ Chief Financial Officer   ​ ​ ​ ​ 26,250 ​ ​ ​ ​ ​ 52,500 ​ ​ ​ ​ ​ 78,750 ​ ​ ​ ​ ​ 75,008 ​ ​ ​ ​ ​ 143% ​ ​ 
+[END TABLE]
+Subjective Achievements:   15% of the award was based upon the Committee's subjective review of activities or objectives determined at the discretion of the Committee. The Committee awarded a $140,625 cash bonus to Joel Agree, a $18,000 cash bonus to Laith Hermiz and a $22,500 bonus to Clayton Thelen for their performance and achievements in relation to the Committee's assessment of Subjective Achievements for 2018. 
+Other Awards.   The Committee also awarded compensation separate from the Annual Executive Incentive Plan to certain of the Company's named executive officers. The Committee awarded Richard Agree $286,500 in the form of restricted stock on February 7, 2019, which is consistent with historical grants and reflects his continued contributions in his role as Executive Chairman. 
+Perquisites and Other Personal Benefits.   We have historically maintained a conservative approach to providing perquisites to executive officers. We provide certain named executive officers with perquisites and other personal benefits that the Committee believes are reasonable and consistent with the overall executive compensation program and will better enable us to attract and retain superior employees for key positions. These perquisites have been carefully selected to ensure that the value provided to employees is not at the expense of stockholder concern. The Committee periodically reviews the levels of perquisites and other personal benefits provided to the named executive officers. In 2018 the Company paid for the health insurance premiums of our named executive officers and certain of our officers were provided with an annual car allowance, associated car maintenance, fuel allowance and/or access to a dedicated Company car. Additionally, in 2018, the Company paid relocation expenses for Mr. Thelen. The Committee may revise, amend or add to each named executive officer's benefits and perquisites if it deems it advisable. 
+Severance Payments.   We currently have employment agreements with Richard Agree, Joel Agree and Clayton Thelen that provide severance payments under specified conditions. The Committee believes these agreements help to retain executives who are essential to our long-term success. See "Potential Payments Upon Termination or Change-in-Control" for a description of potential payments and benefits received by our named executive officers under our compensation plans and arrangements upon termination of employment or a change in control of our Company. TABLE OF CONTENTS
+Timing and Pricing of Share-Based Grants 
+We do not coordinate the timing of share-based grants with the release of material non-public information. The Committee approves its annual grants of restricted stock to the named executive officers at its regularly scheduled executive compensation meeting which occurs at the beginning of the following fiscal year. The effective date for annual grants of restricted stock is determined at each meeting and is generally the date of such meeting or shortly thereafter. The Committee generally establishes the date for its regularly scheduled meeting at least a year in advance. The Committee has not granted stock options in recent years. 
+Stock Ownership Guidelines 
+In May 2009, to further align the interests of our executive officers and directors with the interest of our stockholders, and to promote our commitment to sound corporate governance, the Committee implemented stock ownership guidelines for executive officers, including the named executive officers, and non-employee directors. 
+The stock ownership guidelines provide that, within three years of the later date of adoption of the guidelines or the date an individual first becomes subject to the guidelines upon becoming a director or executive officer: 
+ our Chief Executive Officer is encouraged to own shares of our common stock, including restricted stock, valued at a minimum of five times annual base compensation; 
+​
+ all other executive officers are encouraged to own shares of our common stock, including restricted stock, valued at a minimum of three times annual base compensation; and 
+​
+ non-employee directors are encouraged to own shares of our common stock valued at a minimum of two times their annual director compensation. 
+​
+As of December 31, 2018, all of our directors and executive officers were in compliance with our stock ownership guidelines or on track to be compliant within the three-year period specified by the guidelines. 
+Policy Prohibiting Hedging and Pledging of Company Stock 
+The Board believes that ownership of shares of the Company's common stock by the Company's executive officers and members of the Board promotes alignment of the interests of the Company's stockholders with those of its leadership. The Board recognizes that transactions that are designed to hedge or offset declines in the market value of the Company's shares of common stock can disrupt this alignment, interfere with the Company's compensation programs and philosophies, and undermine policies regarding share ownership. 
+The Board also recognizes that officer and director pledging of the Company's common stock as collateral for indebtedness can be adverse to the interests of the Company's stockholders because it creates the risk of forced sales that depress the value of the Company's common stock, creates risk of legal violations, and may encourage excessive risk-taking by executives and directors. 
+The Board has adopted an anti-hedging and pledging policy that applies to transactions in shares of the Company's common stock and other equity securities by members of the Board and officers of the Company designated by the Board as "executive officers" for the purposes of federal securities laws. 
+Under the policy, executive officers and directors of the Company shall not, directly or indirectly: 
+ Purchase any financial instrument or enter into any transaction that is designed to hedge or offset any decrease in the market value of the Company's common stock or other equity securities (including, but not limited to, prepaid variable forward contracts, equity swaps, collars, or exchange funds); or 
+​
+ Pledge, hypothecate, or otherwise encumber the Company's common stock or other equity securities as collateral for indebtedness, including holding such shares in a margin account. 
+​
+​ TABLE OF CONTENTS
+Tax and Accounting Implications 
+Deductibility of Executive Compensation.   Section 162(m) ("Section 162(m)") of the Internal Revenue Code of 1986, as amended (the "Internal Revenue Code"), provides that subject to certain exceptions, a publicly-held corporation may not deduct compensation for federal income tax purposes exceeding $1 million in any one year paid to any of its "covered employees". For this purpose, a "covered employee" is any individual who (i) is or acts in the capacity as the principal executive officer or the principal financial officer of the publicly-held corporation at any time during the year, (ii) is one of the three other most highly compensated officers of the publicly-held corporation for the year, or (iii) was an individual listed in either of the foregoing clauses (i) or (ii) in respect of the publicly-held corporation or any predecessor in any prior year beginning after 2016. We must distribute a specified minimum percentage of our taxable income to maintain our qualification as a REIT under the Internal Revenue Code, and we are not subject to federal income tax on our REIT taxable income if and to the extent we distribute the income to our stockholders. Accordingly, to the extent we pay compensation to any of our covered employees in excess of  $1 million in any year, we may have to increase the amount of our distributions to stockholders to avoid tax liability and the loss of our REIT status. This in turn may result in a larger portion of distributions being taxable to stockholders as dividend income, instead of being treated as a nontaxable return of capital to stockholders. 
+Nonqualified Deferred Compensation.   Section 409A of the Internal Revenue Code provides that amounts deferred under nonqualified deferred compensation arrangements will be included in an employee's income when vested unless certain conditions are met. If the certain conditions are not satisfied, amounts subject to such arrangements will upon vesting be taxable and employees will be subject to additional income tax, penalties and a further additional income tax calculated as interest on income taxes deferred under the arrangement. TABLE OF CONTENTS​
+COMPENSATION COMMITTEE REPORT 
+The Compensation Committee has reviewed and discussed the Compensation Discussion and Analysis with management and, based on such review and discussions, the Committee recommended to the Board that the Compensation Discussion and Analysis be included in this 2019 proxy statement and the Company's annual report on Form 10-K for the year ended December 31, 2018. 
+COMPENSATION COMMITTEE  William S. Rubenfaer, Chairman Craig Erlich Farris G. Kalil John Rakolta, Jr. Jerome Rossi TABLE OF CONTENTS​​
+EXECUTIVE COMPENSATION TABLES 
+Summary Compensation Table 
+The following table sets forth information concerning the total compensation paid or earned by each of the named executive officers in 2018, 2017, and 2016. 
+[BEGIN TABLE]
+ Name and Principal Position   ​ ​  Year   ​ ​  Salary ($)   ​ ​  Bonus ($)   ​ ​  Stock Awards ($)(1)  ​ ​  Non-Equity Incentive Plan Compensation ($)   ​ ​  All Other Compensation ($)(2)  ​ ​  Total ($)   ​ 
+ Richard AgreeExecutive Chairman   ​ ​ ​ ​ 2018 ​ ​ ​ ​ $ 149,967(3) ​ ​ ​ ​ $ — ​ ​ ​ ​ $ 286,475 ​ ​ ​ ​ $ — ​ ​ ​ ​ $ 32,684 ​ ​ ​ ​ $ 469,126 ​ ​ 
+ Joel AgreePresident and Chief Executive Officer   ​ ​ ​ ​ 2018 ​ ​ ​ ​ $ 609,712 ​ ​ ​ ​ $ — ​ ​ ​ ​ $ 3,362,974 ​ ​ ​ ​ $ 877,000 ​ ​ ​ ​ $ 33,079 ​ ​ ​ ​ $ 4,882,765 ​ ​ 
+ Laith HermizChief Operating Officer Executive Vice President   ​ ​ ​ ​ 2018 ​ ​ ​ ​ $ 296,942 ​ ​ ​ ​ $ — ​ ​ ​ ​ $ 386,606 ​ ​ ​ ​ $ 155,000 ​ ​ ​ ​ $ 26,686 ​ ​ ​ ​ $ 865,234 ​ ​ 
+ Clayton ThelenChief Financial Officer, Secretary(4)  ​ ​ ​ ​ 2018 ​ ​ ​ ​ $ 250,000 ​ ​ ​ ​ $ — ​ ​ ​ ​ $ 224,032 ​ ​ ​ ​ $ 149,250 ​ ​ ​ ​ $ 23,978 ​ ​ ​ ​ $ 647,260 ​ ​ 
+[END TABLE]
+​
+(1)
+The amounts reported represent the full value of the stock awards issued for the applicable year. The amounts have been calculated in accordance with FASB ASC Topic 718. The awards have been issued in accordance with the 2014 Omnibus Incentive Plan and vest in equal installments over a five-year period from the date of grant. Valuation assumptions used in determining these amounts for 2018, 2017 and 2016 are included in note 11 of our audited financial statements included in our annual report on Form 10-K for the year ended December 31, 2018. 
+​
+(2)
+The amounts reported represent the aggregate incremental cost to the Company of: (i) the individual's health insurance premiums; (ii) to the extent applicable, the individual's annual car allowance and associated car maintenance and fuel; (iii) to the extent applicable, the individual's use of a dedicated Company car; and (iv) to the extent applicable, relocation expenses for Mr. Thelen. 
+​
+(3)
+Richard Agree's base salary for 2018, 2017 and 2016 was taken in the form of restricted stock that were issued in accordance with the 2014 Omnibus Incentive Plan and vest in equal installments over a five-year period from the date of grant. Valuation assumptions used in determining these amounts for 2018, 2017 and 2016 are included in note 11 of our audited financial statements included in our annual report on Form 10-K for the year ended December 31, 2018. 
+​
+(4)
+Clayton Thelen has served as our Chief Financial Officer and Secretary since December 2017. 
+​
+(5)
+Includes a one-time grant of  $199,981 in the form of restricted stock and $10,000 in the form of cash, awarded in December 2017 as a sign-on grant upon commencement of employment with the Company. 
+​
+Narrative Discussion of Summary Compensation Table
+Under the terms of a letter agreement dated March 11, 2010, Laith Hermiz was employed as our Executive Vice President. The letter agreement provided for a base salary of  $215,000, which would be reviewed on an annual basis by the Board and the Compensation Committee. The letter agreement also provided for certain benefits similar to those awarded to other named executive officers. On an annual basis, Mr. Hermiz is entitled to 2,500 shares of restricted stock provided he is still employed by the Company at each year end. TABLE OF CONTENTS​
+Grants of Plan-Based Awards for 2018 
+The following table sets forth information concerning equity and non-equity awards granted to the named executive officers in 2018: 
+[BEGIN TABLE]
+​ ​ ​ ​ ​ ​ ​ ​ ​  Estimated Possible Payouts Under Non-Equity Incentive Plan Awards ($)   ​ ​   Estimated Future Payouts Under Equity Incentive Plan Awards ($)(1)  ​ ​  All Other Stock Awards; Number of Shares of Stock or Units (#)(2)  ​ ​  Grant Date Fair Value of Stock and Option Awards ($)(3)  ​ 
+ Name   ​ ​  Grant Date   ​ ​  Threshold   ​ ​  Target   ​ ​  Maximum   ​ ​  Threshold   ​ ​  Target   ​ ​  Maximum   ​ 
+ Richard Agree   ​ ​ ​ ​ 2/23/2018 ​ ​ ​ ​ $ — ​ ​ ​ ​ $ — ​ ​ ​ ​ $ — ​ ​ ​ ​ $ — ​ ​ ​ ​ $ — ​ ​ ​ ​ $ — ​ ​ ​ ​ ​ 6,003 ​ ​ ​ ​ $ 286,523 ​ ​ 
+[END TABLE]
+​
+(1)
+Includes 50% restricted shares and 50% performance shares. Awards are subject to forfeiture based on time-based vesting conditions in the case of restricted shares and company performance conditions in the case of performance shares. 
+​
+(2)
+See "Narrative Discussion of Grants of Plan-Based Awards in 2018 Table" discussion below. 
+​
+(3)
+The grant date fair value is calculated in accordance with FASB ASC Topic 718. The awards have been issued in accordance with the 2014 Omnibus Incentive Plan and vest in equal installments over a five-year period from the date of grant. The grant date fair value of each share of restricted stock, which includes the right to receive cash dividends, is equal to the stock price on the grant date. The grant date fair value per share of restricted stock was $47.73 for shares granted on February 23, 2018. 
+​
+Narrative Discussion of Grants of Plan-Based Awards in 2018 Table
+All Other Stock Awards.   The equity awards set forth in this column reflect the restricted stock granted under the 2014 Omnibus Incentive Plan, which vests in equal installments over a five-year period from February 23, 2018, the date of the grant. Cash dividends are paid on the restricted stock during the vesting period. TABLE OF CONTENTS​​​
+Outstanding Equity Awards at December 31, 2018 
+The following table sets forth information on the holdings of stock awards by the named executive officers as of December 31, 2018. No stock options are outstanding. 
+[BEGIN TABLE]
+​ ​ ​  Stock Awards   ​ 
+ Name   ​ ​  Number of Shares or Units of Stock That Have Not Vested (#)(1)  ​ ​  Market Value of Shares or Units of Stock That Have Not Vested ($)(2)  ​ ​  Equity Incentive Plan Awards: Number of Unearned Shares, Units or Other Rights That Have Not Vested (#)(1)  ​ ​  Equity Incentive Plan Awards: Market or Payout Value of Unearned Shares, Units or Other Rights That Have Not Vested ($)(2)  ​ 
+ Richard Agree   ​ ​ ​ ​ 30,540 ​ ​ ​ ​ ​ 1,805,525 ​ ​ ​ ​ ​ — ​ ​ ​ ​ ​ — ​ ​ 
+ Joel Agree   ​ ​ ​ ​ 120,487 ​ ​ ​ ​ ​ 7,123,191 ​ ​ ​ ​ ​ 27,624 ​ ​ ​ ​ ​ 1,633,131 ​ ​ 
+ Laith Hermiz   ​ ​ ​ ​ 15,324 ​ ​ ​ ​ ​ 905,955 ​ ​ ​ ​ ​ 3,525 ​ ​ ​ ​ ​ 208,398 ​ ​ 
+ Clay Thelen   ​ ​ ​ ​ 4,063 ​ ​ ​ ​ ​ 240,205 ​ ​ ​ ​ ​ — ​ ​ ​ ​ ​ — ​ ​ 
+[END TABLE]
+​
+(1)
+Shares of restricted stock vest in the following years along with performance shares assuming the achievement of target performance goals. 
+​
+[BEGIN TABLE]
+​ ​ ​  2019   ​ ​  2020   ​ ​  2021   ​ ​  2022   ​ ​  2023   ​ 
+ Richard Agree   ​ ​ ​ ​ 10,565 ​ ​ ​ ​ ​ 8,563 ​ ​ ​ ​ ​ 5,959 ​ ​ ​ ​ ​ 3,624 ​ ​ ​ ​ ​ 1,829 ​ ​ 
+ Joel Agree   ​ ​ ​ ​ 41,750 ​ ​ ​ ​ ​ 33,024 ​ ​ ​ ​ ​ 33,589 ​ ​ ​ ​ ​ 25,016 ​ ​ ​ ​ ​ 14,732 ​ ​ 
+ Laith Hermiz   ​ ​ ​ ​ 5,570 ​ ​ ​ ​ ​ 3,887 ​ ​ ​ ​ ​ 4,560 ​ ​ ​ ​ ​ 2,952 ​ ​ ​ ​ ​ 1,880 ​ ​ 
+ Clayton Thelen   ​ ​ ​ ​ — ​ ​ ​ ​ ​ — ​ ​ ​ ​ ​ — ​ ​ ​ ​ ​ 4,063 ​ ​ ​ ​ ​ — ​ ​ 
+[END TABLE]
+​
+(2)
+Based upon the closing price of our common stock on the NYSE on December 31, 2018 of  $59.12. 
+​
+Stock Vested and Options Exercised in 2018 
+The following table sets forth information on the shares of restricted stock held by the named executive officers that vested during 2018. No stock options are outstanding. 
+[BEGIN TABLE]
+​ ​ ​  Stock Awards   ​ 
+ Name   ​ ​  Number of Shares Acquired on Vesting (#)   ​ ​  Value Realized on Vesting ($)(1)  ​ 
+ Richard Agree   ​ ​ ​ ​ 12,736 ​ ​ ​ ​ ​ 621,817 ​ ​ 
+ Joel Agree   ​ ​ ​ ​ 44,225 ​ ​ ​ ​ ​ 2,155,132 ​ ​ 
+ Laith Hermiz   ​ ​ ​ ​ 5,466 ​ ​ ​ ​ ​ 266,104 ​ ​ 
+ Clayton Thelen   ​ ​ ​ ​ — ​ ​ ​ ​ ​ — ​ ​ 
+[END TABLE]
+​
+(1)
+The value realized is based on the number of shares of restricted stock that vested on the vesting date multiplied by the closing price of our common stock on the NYSE on the vesting date.
+​
+Potential Payments Upon Termination or Change-in-Control 
+The following section describes and quantifies potential payments and benefits to the named executive officers as of December 31, 2018, under our compensation and benefit plans and arrangements upon termination of employment or a change of control of our Company. 
+Richard Agree, Joel Agree and Clayton Thelen are subject to employment agreements with us that provide certain benefits in the event of the termination of their employment or a change in control. In addition, certain of our compensatory plans contain provisions regarding the acceleration of vesting and payment upon specified termination events.  TABLE OF CONTENTS
+Company Share-Based Plans 
+2014 Omnibus Incentive Plan 
+Richard Agree, Joel Agree, Clayton Thelen and Laith Hermiz participate in the 2014 Omnibus Incentive Plan. During the 120 days following the termination of the participant's employment for any reason, we have the right to require the forfeiture of any unvested shares of restricted stock, as well as any dividends paid on such shares. Under the 2014 Omnibus Incentive Plan, the unvested shares of restricted stock immediately vest in the event our stockholders approve an agreement to merge, consolidate, liquidate or sell all, or substantially all, of our assets. The Compensation Committee is authorized to accelerate the vesting of restricted stock at any time. In addition, in the event of a change of control (as defined therein) or a dissolution or liquidation of our Company, all unvested shares of restricted stock will become immediately vested. The Board has the discretion to determine whether any leave of absence should constitute a termination of employment. 
+Employment Agreement — Richard Agree 
+Richard Agree's employment agreement, pursuant to which he serves as Executive Chairman of the Board is effective through June 30, 2019 and will automatically renew for additional one-year terms unless either Richard Agree or the Company gives the other notice of non-renewal at least 120 days prior to the expiration of any term. Richard Agree is entitled to an annual base salary of  $150,000, subject to annual review by the Compensation Committee and is also entitled to participate in all benefit programs generally available to our executive officers, including any equity incentive plan or bonus plan. 
+Upon any termination, he shall receive any accrued and unpaid salary and bonus for a completed year in one lump sum payment. 
+The employment agreement may be terminated if he dies or becomes disabled (as defined therein). In the event of termination of the agreement because of death or disability, he (or the estate) shall receive (i) any accrued and unpaid salary through the date of termination, (ii) any accrued and unpaid cash bonus with respect to the fiscal year preceding the termination, but not less than the average bonus paid to Richard Agree during the prior three years (the "average three-year bonus") (iii) a pro rata portion of the cash bonus with respect to the fiscal year in which the termination occurs, but not less than a pro-rata portion of the average three-year bonus, and (iv) any reimbursable expenses that have not been reimbursed as of the date of termination. In addition, all unvested shares of our common stock will become fully vested. 
+If Richard Agree's employment is terminated by us for any reason other than death, disability, or cause, or his employment is terminated by Richard Agree for good reason as defined in the agreement, we shall pay to Richard Agree in cash (i) any accrued and unpaid salary through the date of termination, (ii) any accrued and unpaid cash bonus with respect to the fiscal year preceding the termination, but not less than the average three-year bonus, (iii) a pro-rata portion of the cash bonus with respect to the fiscal year in which the termination occurs, but not less than a pro-rata portion of the average three-year bonus, (iv) an amount equal to two (2) times his compensation as defined in the agreement, and (v) any reimbursable expenses that have not been reimbursed as of the date of termination. Richard Agree shall also continue to participate in all benefit plans made generally available to our executives for the remaining portion of the employment period. In addition, all unvested securities of our Company issued to Richard Agree under our 2005 Equity Incentive Plan, 2014 Omnibus Incentive Plan or any similar plan shall become fully vested as of the date of such termination. 
+If a change in control (as defined therein) occurs prior to the expiration of Richard Agree's employment agreement and Richard Agree is terminated by us for reasons other than death, disability or cause, or Richard Agree terminates employment for good reason, in each case within 18 months after such change in control, we will pay to Richard Agree in cash, (i) any accrued and unpaid salary through the date of termination, (ii) any accrued and unpaid cash bonus with respect to the fiscal year preceding the termination, but not less than the average three-year bonus, (iii) a pro-rata portion of the cash bonus with respect to the fiscal year in which the termination occurs, but not less than a pro-rata portion of the average three-year bonus, (iv) an amount equal to three (3) times his compensation as defined in the agreement, and  TABLE OF CONTENTS
+any reimbursable expenses that have not been reimbursed as of the date of termination. He will also continue to participate in all benefit plans made generally available to our executives for the remaining portion of the employment term. In addition, all unvested securities of our Company issued to Richard Agree under our 2005 Equity Incentive Plan, 2014 Omnibus Incentive Plan or any similar plan shall become fully vested as of the date of such termination. 
+If Richard Agree is terminated by us for cause, then he shall forfeit any and all benefits under the employment agreement other than vested benefits. If he is terminated for cause or voluntarily terminates such employment, he is subject to a non-compete with us for a specified period of time. In addition, the employment agreement contains confidentiality provisions. 
+Employment Agreement — Joel Agree 
+Joel Agree's employment agreement, pursuant to which he serves as our President and Chief Executive Officer, is substantially identical to Richard Agree's employment agreement. Joel Agree is entitled to an annual base salary of  $375,000, subject to annual review by the Compensation Committee, and is also entitled to participate in all benefit programs generally available to our executive officers, including any equity incentive plan or bonus plan. 
+Employment Agreement — Clayton Thelen 
+Under the terms of a letter agreement dated October 20, 2017, Clayton Thelen was employed as our Chief Financial Officer and Secretary. The letter agreement provided for a base salary of  $250,000, subject to increase as recommended by the Chief Executive Officer and approved by the Compensation Committee, and provided him with eligibility to receive an annual cash incentive award of 60% – 90% of his base salary, subject to performance hurdles determined by the Board of Directors, and a restricted stock grant valued at $200,000 based on the grant date fair value of  $49.22. The restricted stock will vest on the five-year anniversary of December 4, 2017. 
+Under the letter agreement, if Mr. Thelen is terminated without Cause (as defined therein) due to or within one year following a change in control (as defined therein), he will receive either (1) a cash amount equal to the sum of  (i) 200% of his current annual base salary, (ii) 200% of his annual cash incentive award for the previous fiscal year and (iii) any long-term incentive compensation for the year in which the termination occurs will be considered earned at the target level and immediately vested, or (2) in the event his employment is terminated due to a change in control which occurs during the first fiscal year of employment, a cash amount equal to the sum of  (i) 200% of his current annual base salary plus $200,000, (ii) 200% of his projected threshold annual cash incentive award, and (iii) his threshold long-term incentive compensation will be considered earned at the target level and immediately vested. The values for items (1) (i) and (ii) and (2) (i) and (ii) shall be automatically adjusted down from 200% to 100% after the two-year anniversary of Mr. Thelen's start date. Mr. Thelen will not receive any severance following a change in control in the event he is retained by a successor organization for one year substantially on the same terms as set forth under the letter agreement. 
+If Mr. Thelen's employment is terminated by the Company for Cause, he will not be entitled to any severance payments, and he will forfeit any unvested securities of the Company. If Mr. Thelen's employment is terminated by the Company without Cause or by him with Good Reason (as defined therein), he will (i) receive a severance amount equal to 100% of his annual base salary, (ii) be deemed to have vested in a pro rata portion of the restricted stock set forth in the letter agreement, based on the number of completed years of service since the start date, and (ii) be released from his post-employment non-competition covenant. 
+The letter agreement conditions the receipt of severance payments on Mr. Thelen's compliance with his post-employment obligations, which include confidentiality obligations, non-solicitation obligations, and non-compete obligations. 
+Change of Control/Severance Payment Tables 
+The following table estimates the potential payments and benefits to named executive officers upon termination of employment or a change in control, assuming such event occurs on December 31, 2018. The actual payments due on terminations occurring on different dates could materially differ from the estimates in the table.  TABLE OF CONTENTS​
+Items Not Reflected in Table. 
+The following items are not reflected in the table set forth below: 
+ Accrued and unpaid salary, bonus and vacation. 
+​
+ Costs of COBRA or any other mandated governmental assistance program to former employees. 
+​
+ Welfare benefits provided to all salaried employees. 
+​
+[BEGIN TABLE]
+ Named Executive Officer   ​ ​  Base Salary   ​ ​  Bonus   ​ ​  Early Vesting of Stock Awards(1)  ​ ​  Other(2)  ​ ​  Total   ​ 
+ Death or Disability   ​ ​ ​ $ — ​ ​ ​ ​ $ — ​ ​ ​ ​ $ 1,805,525 ​ ​ ​ ​ $ — ​ ​ ​ ​ $ 1,805,525 ​ ​ 
+ Change in Control   ​ ​ ​ ​ 450,000 ​ ​ ​ ​ ​ 859,516 ​ ​ ​ ​ ​ 1,805,525 ​ ​ ​ ​ ​ 8,534 ​ ​ ​ ​ ​ 3,123,575 ​ ​ 
+ Other (except for cause)   ​ ​ ​ ​ 300,000 ​ ​ ​ ​ ​ 573,011 ​ ​ ​ ​ ​ 1,805,525 ​ ​ ​ ​ ​ 8,534 ​ ​ ​ ​ ​ 2,687,069 ​ ​ 
+ Death or Disability   ​ ​ ​ $ — ​ ​ ​ ​ $ 792,333 ​ ​ ​ ​ $ 7,123,191 ​ ​ ​ ​ $ — ​ ​ ​ ​ $ 7,915,525 ​ ​ 
+ Change in Control   ​ ​ ​ ​ 1,875,000 ​ ​ ​ ​ ​ 11,669,286 ​ ​ ​ ​ ​ 7,123,191 ​ ​ ​ ​ ​ 7,415 ​ ​ ​ ​ ​ 20,674,893 ​ ​ 
+ Other (except for cause)   ​ ​ ​ ​ 1,250,000 ​ ​ ​ ​ ​ 8,043,653 ​ ​ ​ ​ ​ 7,123,191 ​ ​ ​ ​ ​ 7,415 ​ ​ ​ ​ ​ 16,424,242 ​ ​ 
+ Death or Disability   ​ ​ ​ $ — ​ ​ ​ ​ $ — ​ ​ ​ ​ $ — ​ ​ ​ ​ $ — ​ ​ ​ ​ $ — ​ ​ 
+ Change in Control   ​ ​ ​ ​ — ​ ​ ​ ​ ​ — ​ ​ ​ ​ ​ 905,955 ​ ​ ​ ​ ​ — ​ ​ ​ ​ ​ 905,955 ​ ​ 
+ Other (except for cause)   ​ ​ ​ ​ — ​ ​ ​ ​ ​ — ​ ​ ​ ​ ​ — ​ ​ ​ ​ ​ — ​ ​ ​ ​ ​ — ​ ​ 
+ Death or Disability   ​ ​ ​ $ — ​ ​ ​ ​ $ — ​ ​ ​ ​ $ — ​ ​ ​ ​ $ — ​ ​ ​ ​ $ — ​ ​ 
+ Change in Control   ​ ​ ​ ​ 500,000 ​ ​ ​ ​ ​ 150,000 ​ ​ ​ ​ ​ 240,205 ​ ​ ​ ​ ​ — ​ ​ ​ ​ ​ 890,205 ​ ​ 
+ Other (except for cause)   ​ ​ ​ ​ 250,000 ​ ​ ​ ​ ​ — ​ ​ ​ ​ ​ 51,595 ​ ​ ​ ​ ​ — ​ ​ ​ ​ ​ 301,595 ​ ​ 
+[END TABLE]
+​
+(1)
+For all named executive officers with respect to the accelerated vesting of share-based awards, the table reflects the intrinsic value of such acceleration, which for each unvested share of restricted stock is $59.12, the closing price of our common stock on the NYSE on December 31, 2018. The table reflects the accelerated vesting of all unvested shares of restricted stock for all named executive officers. The table does not reflect the accelerated vesting of unearned performance shares since all performance shares awarded as of December 31, 2018 are still subject to the achievement of performance goals over a three-year performance period as outlined in the Compensation Discussion and Analysis section. 
+​
+(2)
+Represents payment of health benefits of executive. 
+​
+(3)
+The information presented is based on the terms of Richard Agree's employment agreement in place as of December 31, 2018. 
+​
+(4)
+The information presented is based on the terms of Joel Agree's employment agreement in place as of December 31, 2018. 
+​
+(5)
+The information presented is based on the terms of Clayton Thelen's employment agreement in place as of December 31, 2018. 
+​
+Pay Ratio 
+As required by Section 953(b) of the Dodd-Frank Wall Street Reform Act, and Item 402(u) of Regulation S-K, we are providing the following information about the relationship of the annual total compensation of our employees and the annual total compensation of Mr. Joel Agree, our President and Chief Executive Officer. The Company's chief executive officer to median employee pay ratio was calculated in accordance with SEC requirements. However, due to the flexibility afforded in calculating the pay ratio, the ratio presented herein is a reasonable estimate and may not be comparable to the pay ratio presented by other companies.  TABLE OF CONTENTS
+The Company identified the median employee by examining 2018 compensation for all employees of the Company excluding the President and Chief Executive Officer. We determined our median employee compensation, based on total compensation including base salary, bonuses earned, incentive stock earned, and health care premiums for each of our 35 employees, excluding Mr. Joel Agree, as of December 31, 2018, to be $122,543. As disclosed in the Summary Compensation Table, our current Chief Executive Officer's annual total compensation for 2018 was $4,882,765. Based on the foregoing, our estimate of the ratio of the annual total compensation of our Chief Executive Officer and President to the median of the annual total compensation of all other employees was 40 to 1. 
+The compensation measure described above was consistently applied to this entire employee population. The Company did not make any assumptions, adjustments, or estimates with respect to the employee population or the compensation measure and did not annualize the compensation for any employees that were not employed by the Company for all of 2018. TABLE OF CONTENTS​
+REPORT OF THE AUDIT COMMITTEE 
+Management is responsible for the Company's financial statements, internal controls, accounting and financial reporting processes and compliance with applicable laws and regulations. The independent registered public accounting firm is responsible for performing an independent audit of the Company's consolidated financial statements in accordance with standards of the Public Company Accounting Oversight Board ("PCOAB") and an independent audit of the effectiveness of the Company's internal control over financial reporting in accordance with the standards of the PCAOB, and for expressing their opinions thereon. The Audit Committee's responsibility is to provide general oversight of the foregoing matters, as well as engaging the Company's independent registered public accounting firm and establishing the terms of retention. The Audit Committee is governed by a charter, a copy of which is available on our website at www.agreerealty.com. 
+Review and Discussions with Management and Independent Accountants.   In this context, the Committee has met and held discussions with management and Grant Thornton, the Company's independent registered public accounting firm. Management represented to the Committee that the Company's consolidated financial statements were prepared in accordance with accounting principles generally accepted in the United States of America, and the Committee has reviewed and discussed the audited consolidated financial statements with management and Grant Thornton. The Committee discussed with Grant Thornton the matters required to be discussed by the Statement on Auditing Standards No. 1301, as amended, issues regarding accounting and auditing principles and practices, and the adequacy of internal controls that could significantly affect the Company's financial statements. 
+Grant Thornton also provided to the Committee the written disclosures and letter from Grant Thornton required by the applicable requirements of the PCAOB regarding Grant Thornton's communications with the Committee concerning independence, and the Committee has discussed with Grant Thornton its independence with respect to the Company. The Committee has reviewed the original proposed scope of the annual audit of the Company's financial statements and the associated fees and any significant variations in the actual scope of the audit and fees. See "Audit Committee Matters" for additional information regarding the Committee's pre-approval policies and procedures for audit and non-audit services provided by Grant Thornton. 
+Conclusion.   Based on the review and discussions referred to above, the Committee recommended to the Board that the Company's audited consolidated financial statements be included in the Company's annual report on Form 10-K for the year ended December 31, 2018 for filing with the SEC. 
+AUDIT COMMITTEE  Farris Kalil, Chairman Merrie S. Frankel William S. Rubenfaer TABLE OF CONTENTS​
+AUDIT COMMITTEE MATTERS 
+Pre-Approval Policies and Procedures for Audit and Non-Audit Services 
+In accordance with Audit Committee policies and procedures and applicable law, the Audit Committee must pre-approve all services to be provided by its independent registered public accounting firm. In determining whether to pre-approve such services, the Audit Committee must consider whether the provision of such services is consistent with the independence of such accountants. The Audit Committee generally provides pre-approvals at its regularly scheduled meetings. The Audit Committee has delegated to its chairman, Farris G. Kalil, the authority to grant pre-approvals of non-audit services between regularly scheduled meetings of the Audit Committee, provided that any such pre-approval by Mr. Kalil shall be reported to the Audit Committee at its next scheduled meeting. However, pre-approval of non-audit services is not required if  (1) the aggregate amount of non-audit services is less than 5% of the total amount paid by us to the auditor during the fiscal year in which the non-audit services are provided; (2) such services were not recognized by us as non-audit services at the time of the engagement; and (3) such services are promptly brought to the attention of the Audit Committee and, prior to completion of the audit, are approved by the Audit Committee or by one or more Audit Committee members who have been delegated authority to grant approvals. 
+Fees Paid to Independent Registered Public Accounting Firms 
+Grant Thornton audited and reported on the Company's financial statements for the years ended December 31, 2018 and December 31, 2017. The following table sets forth the fees that we were billed for audit and other services provided by Grant Thornton in 2018 and 2017 All such fees paid to Grant Thornton were approved in conformity with the pre-approval policies and procedures noted above. 
+[BEGIN TABLE]
+​ ​ ​  2018   ​ ​  2017   ​ 
+ Audit Fees   ​ ​ ​ $ 610,130 ​ ​ ​ ​ $ 478,473 ​ ​ 
+ Audit-Related Fees   ​ ​ ​ ​ — ​ ​ ​ ​ ​ — ​ ​ 
+ Tax Fees   ​ ​ ​ ​ — ​ ​ ​ ​ ​ — ​ ​ 
+ Other Fees   ​ ​ ​ ​ — ​ ​ ​ ​ ​ — ​ ​ 
+[END TABLE]
+Audit Fees.   Audit Fees consist of fees and expenses billed for professional services rendered to audit financial statements, assess effectiveness of internal control over financial reporting, review interim consolidated financial statements, review registration statements and prepare comfort letters, services that are normally provided in connection with statutory and regulatory filings or engagements. 
+Audit-related Fees.   Audit-Related Fees consist of fees and expenses for assurance and related services that are reasonably related to the performance of the audit or review of our financial statements that are not Audit Fees. TABLE OF CONTENTS​
+PROPOSAL 2 — RATIFICATION OF APPOINTMENT OF INDEPENDENT 
+REGISTERED PUBLIC ACCOUNTING FIRM FOR 2019 
+The Audit Committee currently believes that we should continue our relationship with Grant Thornton LLP and has appointed Grant Thornton to continue as our independent accountants for 2019. See "Report of the Audit Committee" and "Audit Committee Matters" for additional information on matters related to Grant Thornton's provision of services to us. 
+Although stockholder ratification of the appointment is not required by current law, rules and regulations and is not binding on us, the Board considers the selection of the independent registered public accounting firm to be an important matter of stockholder concern and the Audit Committee will take your vote into consideration when appointing our independent registered public accounting firm in the future. Even if the stockholders ratify the appointment of Grant Thornton, the Audit Committee in its sole discretion may terminate the engagement of Grant Thornton and engage another independent auditor at any time during the year, although it has no current intention to do so. 
+A representative of Grant Thornton will be present at the annual meeting and will be provided with the opportunity to make a statement if desired. Such representative will also be available to respond to appropriate questions. 
+The Board recommends that you vote "FOR" the ratification of the appointment of Grant Thornton as our independent registered public accounting firm for 2019. TABLE OF CONTENTS​
+PROPOSAL 3  — ADVISORY (NON-BINDING) VOTE APPROVING EXECUTIVE COMPENSATION 
+We are presenting the following proposal, which gives you as a stockholder the opportunity to endorse or not endorse our executive compensation program for named executive officers by voting for or against the following resolution. 
+"RESOLVED, that the stockholders approve, on an advisory basis, the compensation of the Company's named executive officers, as disclosed in the Company's proxy statement for the 2019 annual meeting of stockholders pursuant to the compensation disclosure rules of the Securities and Exchange Commission, including the Compensation Discussion and Analysis, the compensation tables and the other related disclosure." 
+While this vote is advisory and not binding on us, it will provide information to us and the Compensation Committee regarding stockholder sentiment about our executive compensation philosophy, policies and practices, which the Compensation Committee will be able to consider when determining executive compensation for the remainder of 2019 and beyond. We recognize the interest our stockholders have in the compensation of our executive officers, and we are providing this advisory vote in recognition of that interest as required by Section 14A of the Securities Exchange Act. In a non-binding advisory vote on the frequency of advisory votes on executive compensation held at our 2017 annual meeting of stockholders, stockholders voted in favor of holding such votes annually. In light of this result and other factors considered by the Board, the Board determined that the Company would hold advisory votes on executive compensation on an annual basis until the next required advisory vote. The next required advisory vote will occur at our 2023 annual meeting of stockholders. 
+As described in detail under the heading "Compensation Discussion and Analysis" above, we seek to closely align the interests of our executive officers with the interests of our stockholders. Our compensation programs are designed to reward the executive officers for the achievement of short-term and long-term strategic and operational goals, while at the same time avoiding the encouragement of unnecessary or excessive risk-taking. Following is a summary of some of the primary components and rationale of our compensation philosophy. 
+ Provide total compensation that is both fair and competitive.   To attract and reduce the risk of losing the services of valuable officers but avoid the expense of excessive pay, compensation should be competitive. The Compensation Committee assesses the competitiveness of our compensation to our executive officers by comparing it to the compensation of executive officers at other public companies. The Compensation Committee assesses the competitiveness of the Company's compensation to its executive officers through review of materials provided or reviewed by Meridian and by reviewing the 2018 NAREIT Compensation and Benefits Survey to provide it with relevant market data. 
+​
+ Attract, retain and motivate key executives who are critical to our operations.   The primary purpose of our executive compensation program has been and is to achieve our business objectives by attracting, retaining and motivating talented executive officers by providing incentives and economic security. 
+​
+ Reward superior individual and company performance on both a short-term and long-term basis.   Performance-based pay aligns the interests of management with the interests of our stockholders. Performance-based compensation motivates and rewards individual efforts and company success. 
+​
+ Align executives' long-term interests with those of our stockholders.   The Compensation Committee believes that requiring the executive officers to maintain a meaningful ownership interest in the Company relative to their annual base salaries may encourage the executive officers to act in a manner that creates value for our stockholders. 
+​
+The Board recommends a vote "FOR" the approval of the compensation of our named executive officers as disclosed in this proxy statement. TABLE OF CONTENTS​
+PROPOSAL 4 — APPROVAL OF AN AMENDMENT TO OUR CHARTER
+Introduction 
+On February 26, 2019 the Board declared an amendment to the Charter (the "Amendment"), as set forth in the form of Articles of Amendment attached hereto as Appendix A, to be advisable and directed that the proposed Amendment be submitted for consideration by our stockholders at the 2019 Annual Meeting. The description set forth below summarizes the proposed Amendment to our Charter and is qualified in its entirety by the form of Articles of Amendment attached hereto as Appendix A, which you should read in their entirety. 
+Amendment to Revise the Provisions Regarding Authorized Shares 
+The Charter currently authorizes the Company to issue 45,000,000 shares of common stock. The Amendment would increase the number of shares of common stock that the Company is authorized to issue from 45,000,000 shares of common stock to 90,000,000 shares of common stock, representing an increase of 45,000,000 shares of authorized common stock. 
+The following table describes the allocation of our currently authorized common stock among issued, reserved, and unreserved shares of common stock as of February 23, 2019: 
+Common Stock 
+[BEGIN TABLE]
+ Authorized   ​ ​  Issued and Outstanding   ​ ​  Available for Issuance   ​ ​  Reserved for Future Issuance(1)  ​ ​  Unissued, Unreserved Shares of Common Stock   ​ 
+ 45,000,000   ​ ​ ​ ​ 37,576,724 ​ ​ ​ ​ ​ 7,423,276 ​ ​ ​ ​ ​ 7,047,873 ​ ​ ​ ​ ​ 375,403 ​ ​ 
+[END TABLE]
+​
+(1)
+Includes reserves for future issuance related to the Company's equity incentive plan, the conversion of limited partnership units, the Company's forward equity agreement and the Company's at-the-market equity program. 
+​
+As indicated in the table above, only 375,403 shares of common stock are unreserved and available for issuance. 
+Reasons for the Increase in Authorized Shares of Common Stock 
+The Board believes that it is advisable and in the best interests of our Company to amend the Charter to increase the number of authorized shares of common stock in order to provide our Company with greater flexibility in planning for future corporate needs including, but not limited to, transactions to raise capital, property acquisitions, stock dividends or stock splits, grants under equity compensation plans, potential strategic transactions, including mergers, acquisitions and business combinations, as well as other corporate purposes. If this Amendment is not approved, our growth and business strategies and our ability to raise additional capital may be limited by the lack of availability of unissued and unreserved shares of common stock. 
+Effects of the Increase in Authorized Shares of Common Stock 
+The additional shares of common stock proposed to be authorized pursuant to the Amendment would have rights identical to the currently outstanding shares of our common stock. Approval of this Proposal No. 4 would not affect the rights of the holders of currently outstanding shares of our common stock, except for effects incidental to increasing the number of shares of our common stock outstanding if such additional authorized shares of common stock are issued, such as dilution of any earnings per share and voting rights of current holders of common stock. Under the Charter, stockholders do not have preemptive rights to subscribe for additional securities that may be issued by us unless the Board in its sole discretion determines to grant such rights, which means that current stockholders do not have a prior right thereunder to purchase any new issue of common stock in order to maintain their proportionate ownership interests in the Company. 
+The Board recommends a vote FOR Proposal 4 to amend our Charter to increase the number of authorized shares of our common stock.  TABLE OF CONTENTS​
+RELATED PERSON TRANSACTIONS 
+Policies and Procedures 
+Under SEC rules, a related person transaction is any transaction or any series of transactions in which our Company was or is to be a participant, the amount involved exceeds $120,000, and in which any related person had or will have a direct or indirect material interest. A "related person" is a director, officer, nominee for director or a more than 5% stockholder since the beginning of our last completed fiscal year, and their immediate family members. 
+The non-interested directors of the Board review and oversee any proposed or ongoing related person transactions to ensure there are no conflicts of interest. Our written Code of Conduct expressly prohibits any actions that would cause a conflict of interest except under guidelines approved by the Board. Our Code of Conduct requires officers and directors along with other employees to provide full disclosure of any such transaction to appropriate persons. Persons are encouraged to speak with specified persons if there is any doubt as to whether a transaction could comprise a related person transaction or otherwise constitute a conflict of interest. 
+If a related person transaction is proposed, the non-interested directors of the Board review such transaction to ensure that our involvement in such transaction is on terms comparable to those that could be obtained in arm's length dealings with an unrelated third party and is in the best interests of us and our stockholders. If necessary or appropriate, we will engage third party consultants and special counsel, and the Board may create a special committee, to review such transactions. There were no related person transactions in 2018, except for the Reimbursement Agreement described below.
+The Company and Richard Agree, the Executive Chairman of the Company, are parties to a Reimbursement Agreement dated November 18, 2014. Pursuant to the Reimbursement Agreement, Mr. Agree has agreed to reimburse the Company for any loss incurred under the unsecured revolving credit facility of our majority owned partnership, Agree Limited Partnership (the "Operating Partnership") in an amount not to exceed $14 million to the extent that the value of the Operating Partnership's assets available to satisfy the Operating Partnership's obligations under the revolving credit facility is less than $14 million. TABLE OF CONTENTS​​​​​
+ADDITIONAL INFORMATION 
+Section 16(a) Beneficial Ownership Reporting Compliance 
+Section 16(a) of the Securities Exchange Act, requires our directors, certain of our executive officers and persons who beneficially own more than 10% of a registered class of our equity securities ("insiders") to file reports with the SEC regarding their pecuniary interest in any of our equity securities and any changes thereto, and to furnish copies of these reports to us. Based on our review of the insiders' forms furnished to us or filed with the SEC and representations made by our directors and applicable executive officers, no insider failed to file on a timely basis a Section 16(a) report in 2018, except for the following form, which was inadvertently filed late: a Form 4 for Mr. Rakolta was filed on July 27, 2018 for a July 24, 2018 transaction. 
+Cost of Proxy Solicitation 
+All of the expenses of preparing, assembling, printing and mailing the Notice and the other materials used in the solicitation of proxies will be paid by us. Arrangements will be made with brokerage houses and other custodians, nominees and fiduciaries to forward soliciting materials, at our expense, to the beneficial owners of shares held of record by such persons. Our directors and officers may solicit proxies by mail, telephone, telecopy or in person. They will not receive any additional compensation for such work. 
+Proposals for 2020 Annual Meeting 
+Pursuant to Rule 14a-8 of the Securities Exchange Act, any stockholder proposal to be considered for inclusion in our proxy statement and form of proxy for the annual meeting of stockholders to be held in 2020 must be received at our office at 70 E. Long Lake Road, Bloomfield Hills, MI 48304, Attn: Clayton R. Thelen, no later than November 14, 2019 and must be in compliance with the requirements of our Bylaws and the SEC's proxy rules. 
+Our Bylaws currently provide that in order for a proposal of a stockholder to be presented at our 2020 annual meeting of stockholders, other than a stockholder proposal or director nomination to be included in our proxy statement as described above, it must be received at our principal executive offices no earlier than the 150th day and no later than 5:00 p.m., Eastern Time, on the 120th day prior to the anniversary of the date of mailing of the notice for the 2019 annual meeting. For our 2020 annual meeting, our Secretary must receive this notice between October 15, 2019 and 5:00 p.m., Eastern Time, on November 14, 2019. If the 2020 annual meeting of stockholders is scheduled to take place before March 26, 2020 or after May 25, 2020, then notice must be delivered no earlier than the close of business on the 150th day prior to the 2020 annual meeting of stockholders and not later than the close of business on the later of the 120th day prior to the 2020 annual meeting of stockholders or the 10th day following the day on which public announcement of the date of the 2020 annual meeting of stockholders is first made public by our Company. Any such proposal should be mailed to our Secretary, Clayton R. Thelen at our office at 70 E. Long Lake Road, Bloomfield Hills, MI 48304. 
+See "Board Matters — Committees of the Board-Nominating and Governance Committee" for additional information. 
+Important Notice Regarding the Availability of Proxy Materials for the Stockholder Meeting to be Held on April 25, 2019 
+The Notice of the Annual Meeting, this proxy statement, our annual report to stockholders for the year ended December 31, 2018, including the audited consolidated financial statements for the three years ended December 31, 2018, and the accompanying proxy card are available athttp://AgreeRealty.investorroom.com.
+By Order of the Board of Directors 
+Clayton R. Thelen Chief Financial Officer and Secretary 
+March 12, 2019  TABLE OF CONTENTS​
+APPENDIX A 
+ARTICLES OF AMENDMENT OF AGREE REALTY CORPORATION 
+AGREE REALTY CORPORATION, a Maryland corporation (the "Corporation"), hereby certifies to the State Department of Assessments and Taxation of Maryland (the "Department") that: 
+FIRST:   The Corporation desires to, and does hereby, amend the charter of the Corporation as currently in effect (the "Charter") pursuant to Sections 2-601 et seq. of the MARYLAND GENERAL CORPORATION LAW (the "MGCL"). 
+SECOND:   The Charter of the Corporation is hereby amended by deleting therefrom in its entirety the existing paragraph (a) of Article SIXTH and inserting, in lieu thereof, the following new paragraph (a) of Article SIXTH: 
+"(a) The total number of shares of stock of all classes which the Corporation has authority to issue is 94,000,000 shares of capital stock (par value $.0001 per share), amounting in aggregate par value to $9,400, of which shares 90,000,000 are initially classified as "Common Stock" and 4,000,000 are initially classified as "Preferred Stock." The Board of Directors may classify and reclassify any unissued shares of capital stock by setting or changing in any one or more respects the preferences, conversion or other rights, voting powers, restrictions, limitations as to dividends, qualifications or terms or conditions of redemption of such shares of stock." 
+THIRD:   The total number of shares of stock of all classes which the Corporation had authority to issue immediately prior to the foregoing amendment of the Charter was 49,000,000 shares of capital stock (par value $.0001 per share), amounting in aggregate par value to $4,900, of which shares (a) 45,000,000 were initially classified as shares of  "Common Stock" (par value $.0001 per share) and (b) 4,000,000 were initially classified as shares of  "Preferred Stock" (par value $.0001 per share). 
+FOURTH:   The total number of shares of stock of all classes which the Corporation has authority to issue pursuant to the foregoing amendment of the Charter is 94,000,000 shares of capital stock (par value $.0001 per share), amounting in aggregate par value to $9,400, of which shares (a) 90,000,000 are initially classified as shares of  "Common Stock" (par value $.0001 per share) and (b) 4,000,000 are initially classified as shares of  "Preferred Stock" (par value $.0001 per share). 
+FIFTH:   The information required by Section 2-607(b)(2)(i) of the MGCL was not changed by the foregoing amendment of the Charter. 
+SIXTH:   The foregoing amendment of the Charter as set forth in these Articles of Amendment was duly advised by the Board of Directors of the Corporation and approved by the stockholders of the Corporation as required by law. 
+SEVENTH:   These Articles of Amendment shall be effective upon filing with the Department. 
+EIGHTH:   The undersigned President acknowledges these Articles of Amendment to be the corporate act of the Corporation and as to all matters and facts required to be verified under oath, the undersigned President acknowledges that to the best of his knowledge, information and belief, these matters and facts are true in all material respects and that this statement is made under the penalties for perjury. 
+[SIGNATURE PAGE FOLLOWS]
+A-1
+TABLE OF CONTENTS
+IN WITNESS WHEREOF, Agree Realty Corporation has caused these Articles of Amendment to be signed in its name and on its behalf by its President and attested to by its Secretary on this _____ day of __________, 2019. 
+[BEGIN TABLE]
+​ By:     ​ 
+​
+ ​ Clayton R. ThelenSecretary ​ ​ By:     ​ 
+​
+ ​ Joel N. AgreePresident​ 
+​ By:     ​ 
+​
+ ​ Clayton R. ThelenSecretary ​ ​ By:     ​ 
+​
+ ​ Joel N. AgreePresident​ 
+[END TABLE]
+​
+[BEGIN TABLE]
+​ By:     ​ 
+​
+ ​ Clayton R. ThelenSecretary ​ ​ By:     ​ 
+​
+ ​ Joel N. AgreePresident​ 
+​ By:     ​ 
+​
+ ​ Clayton R. ThelenSecretary ​ ​ By:     ​ 
+​
+ ​ Joel N. AgreePresident​ 
+[END TABLE]
+​
+[BEGIN TABLE]
+​ By:     ​ 
+​
+ ​ Clayton R. ThelenSecretary ​ ​ By:     ​ 
+​
+ ​ Joel N. AgreePresident​ 
+[END TABLE]
+A-2
+TABLE OF CONTENTS
+THIS PROXY CARD IS VALID ONLY WHEN SIGNED AND DATED. KEEP THIS PORTION FOR YOUR RECORDS DETACH AND RETURN THIS PORTION ONLY TO VOTE, MARK BLOCKS BELOW IN BLUE OR BLACK INK AS FOLLOWS: Signature [PLEASE SIGN WITHIN BOX] Date Signature (Joint Owners) Date To withhold authority to vote for any individual nominee(s), mark "For All Except" and write the number(s) of the nominee(s) on the line below. 0 0 0 0 0 0 0 0 0 0 0 0 0000400390_1 R1.0.1.18 For Withhold For All All All Except The Board of Directors recommends you vote FOR the following: 1. Election of Directors Nominees 01 Joel Agree 02 Craig Erlich 03 Gregory Lehmkuhl 04 William S. Rubenfaer Agree Realty Corporation 70 E. Long Lake Road Bloomfield Hills, MI 48304 Attn: Clayton Thelen VOTE BY INTERNET - www.proxyvote.com Use the Internet to transmit your voting instructions and for electronic delivery of information up until 11:59 P.M. Eastern Time the day before the cut-off date or meeting date. Have your proxy card in hand when you access the web site and follow the instructions to obtain your records and to create an electronic voting instruction form. ELECTRONIC DELIVERY OF FUTURE PROXY MATERIALS If you would like to reduce the costs incurred by our company in mailing proxy materials, you can consent to receiving all future proxy statements, proxy cards and annual reports electronically via e-mail or the Internet. To sign up for electronic delivery, please follow the instructions above to vote using the Internet and, when prompted, indicate that you agree to receive or access proxy materials electronically in future years. VOTE BY PHONE - 1-800-690-6903 Use any touch-tone telephone to transmit your voting instructions up until 11:59 P.M. Eastern Time the day before the cut-off date or meeting date. Have your proxy card in hand when you call and then follow the instructions. VOTE BY MAIL Mark, sign and date your proxy card and return it in the postage-paid envelope we have provided or return it to Vote Processing, c/o Broadridge, 51 Mercedes Way, Edgewood, NY 11717. The Board of Directors recommends you vote FOR proposals 2, 3 and 4. For Against Abstain 2 To ratify the appointment of Grant Thornton LLP as our independent registered public accounting firm for 2019. 3 To approve, by non-binding vote, executive compensation. 4 To approve an amendment to our Articles of Incorporation, as amended and supplemented (our "Charter"), to increase the number of authorized shares of our common stock. NOTE: Such other business as may properly come before the meeting or any adjournment thereof. Please sign exactly as your name(s) appear(s) hereon. When signing as attorney, executor, administrator, or other fiduciary, please give full title as such. Joint owners should each sign personally. All holders must sign. If a corporation or partnership, please sign in full corporate or partnership name, by authorized officer.
+TABLE OF CONTENTS
+0000400390_2 R1.0.1.18 Important Notice Regarding the Availability of Proxy Materials for the Annual Meeting: The Notice & Proxy Statement and Annual Report are available at www.proxyvote.com AGREE REALTY CORPORATION Annual Meeting of Stockholders April 25, 2019 10:00 AM This proxy is solicited by the Board of Directors The stockholder(s) hereby appoint(s) Richard Agree and Clayton Thelen, or either of them, as proxies, each with the power to appoint his substitute, and hereby authorizes them to represent and to vote, as designated on the reverse side of this ballot, all of the shares of common stock of AGREE REALTY CORPORATION that the stockholder(s) is/are entitled to vote at the Annual Meeting of stockholder(s) to be held at 10:00 AM, EDT on 4/25/2019, at the Embassy Suites, 850 Tower Drive, Troy, Michigan, 48098, and any adjournment or postponement thereof. This proxy, when properly executed, will be voted in the manner directed herein. If no such direction is made, this proxy will be voted in accordance with the Board of Directors' recommendations. Continued and to be signed on reverse side

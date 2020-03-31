@@ -1,0 +1,908 @@
+
+UNITED STATES
+SECURITIES AND EXCHANGE COMMISSION
+Washington, D.C. 20549
+SCHEDULE 14A INFORMATION
+Proxy Statement Pursuant to Section 14(a) of the
+Securities Exchange Act of 1934 
+Filed by the Registrant x                         Filed by a Party other than the Registrant ¨
+Check the appropriate box:
+[BEGIN TABLE]
+o Preliminary Proxy Statement o Confidential, For Use of the Commission Only x Definitive Proxy Statement o Definitive Additional Materials o Soliciting Material Pursuant to Rule 14a-11(c) or Rule 14a-12 
+[END TABLE]
+  ACTUANT CORPORATION
+(Exact name of registrant as specified in its charter)
+ Payment of Filing Fee (Check the appropriate box):
+[BEGIN TABLE]
+x  No fee required. 
+o Fee computed on table below per Exchange Act Rules 14a-6(i)(1) and 0-11. 
+(1) Title of each class of securities to which transaction applies: 
+[END TABLE]
+[BEGIN TABLE]
+(2) Aggregate number of securities to which transaction applies: 
+[END TABLE]
+[BEGIN TABLE]
+(3) Per unit price or other underlying value of transaction computed pursuant to Exchange Act Rule 0-11 (set forth the amount on which the filing fee is calculated and state how it was determined): 
+[END TABLE]
+[BEGIN TABLE]
+(4) Proposed maximum aggregate value of transaction: 
+[END TABLE]
+[BEGIN TABLE]
+(5) Total fee paid: 
+[END TABLE]
+[BEGIN TABLE]
+o Fee paid previously with preliminary materials. 
+o Check box if any part of the fee is offset as provided by Exchange Act Rule 0-11(a)(2) and identify the filing for which the offsetting fee was paid previously. Identify the previous filing by registration statement number, or the Form or Schedule and the date of its filing. 
+(1)  Amount previously paid: 
+[END TABLE]
+[BEGIN TABLE]
+(2) Form, Schedule or Registration Statement No.: 
+[END TABLE]
+[BEGIN TABLE]
+(3) Filing Party: 
+[END TABLE]
+[BEGIN TABLE]
+(4) Date Filed: 
+[END TABLE]
+ACTUANT CORPORATION
+N86W12500 Westbrook Crossing
+Menomonee Falls, Wisconsin 53051
+(262) 293-1500
+NOTICE OF ANNUAL MEETING OF SHAREHOLDERS
+To the Shareholders of ACTUANT CORPORATION:
+Notice is hereby given that the Annual Meeting of Shareholders of Actuant Corporation, a Wisconsin corporation, will be held on January 22, 2019 at 8:00 a.m. Eastern Time at The Breakers, One South Country Road, Palm Beach, Florida, for the following purposes (all as set forth in the accompanying Proxy Statement):
+1.To elect a board of eight directors;
+2.To ratify the selection of PricewaterhouseCoopers LLP as the Company's independent auditor;
+3.To hold an advisory (non-binding) vote to approve the compensation of our named executive officers; and
+4.To transact such other business as may properly come before the Annual Meeting or any adjournment thereof. 
+The Board of Directors recommends a vote FOR Proposals 1, 2 and 3. The Board of Directors or proxy holders will use their discretion on other matters that may arise at the 2019 Annual Meeting.
+The Board of Directors has fixed the close of business on November 19, 2018 as the record date for the determination of shareholders entitled to receive notice of and to vote at the Annual Meeting or any adjournment thereof.
+Whether or not you expect to attend the Annual Meeting, please mark, sign, date and return the enclosed proxy promptly in the accompanying envelope, which requires no postage if mailed in the United States, or vote via the internet or phone (instructions on page 2). It is important that your shares be represented at the Annual Meeting, whether your holdings are large or small. If for any reason you should desire to revoke your proxy, you may do so at any time before it is voted.
+Important Notice Regarding the Availability of Proxy Materials for the Shareholder Meeting to be Held on January 22, 2019. The proxy statement is available on Actuant Corporation's website at www.actuant.com. You may obtain directions to the Annual Meeting by written or telephonic request directed to our Executive Vice President, General Counsel and Secretary, Actuant Corporation, N86W12500 Westbrook Crossing, Menomonee Falls, Wisconsin 53051 or by telephone at (262) 293-1500.
+By Order of the Board of Directors,
+ROBERT A. PETERSON
+Chair of the Board
+Menomonee Falls, Wisconsin
+December 3, 2018 
+TABLE OF CONTENTS
+[BEGIN TABLE]
+  Page 
+General Information 1 
+The Proposals   
+Proposal 1: Election of Directors 3 
+Proposal 2: Ratification of Selection of Independent Auditors 5 
+Proposal 3: Advisory Vote to Approve Compensation of Our Named Executive Officers  6 
+Certain Beneficial Owners 7 
+Corporate Governance Matters   
+Board Committees, Charters, Functions and Meetings 9 
+Independence of Directors; Financial Expertise of Audit Committee 10 
+Compensation Risk Assessment 10 
+Use of  Compensation Consultants and Other Advisors  10 
+Codes of Conduct and Ethics 10 
+Director Selection Procedures 11 
+Certain Relationships and Related Person Transactions 12 
+Report of the Audit Committee 13 
+Executive Compensation (Compensation Discussion and Analysis)   
+Executive Summary 14 
+Compensation and Link to Performance 15 
+Shareholder Input on Executive Compensation Program 15 
+Oversight of the Executive Compensation Program 16 
+Assessing Competitive Compensation Practices 16 
+Target Level Compensation Determination 17 
+Components of Executive Compensation 17 
+Tax Deductibility of Executive Compensation 23 
+Stock Ownership Requirements 23 
+Anti-Hedging Policy 23 
+Compensation Clawback Policy 23 
+Compensation Committee Report 24 
+Summary Compensation Table 25 
+Grants of Plan-Based Awards 27 
+Outstanding Equity Awards at Fiscal Year-End 28 
+Equity Awards Exercised and Vested in Fiscal 2018 29 
+Employee Deferred Compensation 30 
+Equity Compensation Plan Information 31 
+Change In Control Payments and Other Separation Agreements 31 
+CEO Pay Ratio 33 
+Non-Employee Director Compensation 34 
+Other Information 35 
+[END TABLE]
+ACTUANT CORPORATION
+N86W12500 Westbrook Crossing
+Menomonee Falls, Wisconsin 53051
+(262) 293-1500
+PROXY STATEMENT
+This Proxy Statement and accompanying proxy are being first mailed to shareholders on or about December 3, 2018. 
+General Information
+This Proxy Statement and accompanying proxy are furnished to the shareholders of Actuant Corporation (the "Company") in connection with the solicitation of proxies by the Board of Directors of the Company for use at the Annual Meeting of Shareholders on January 22, 2019 (the "Meeting"), and at any adjournment thereof. Accompanying this Proxy Statement is a Notice of Annual Meeting of Shareholders and a form of proxy for such Meeting. The Company's Annual Report on Form 10-K for the year ended August 31, 2018, which constitutes the 2018 Annual Report to Shareholders and accompanies this Proxy Statement, contains financial statements and certain other information concerning the Company.
+Location and Date of Annual Meeting
+The annual meeting will be held on January 22, 2019 at 8:00 a.m. Eastern Time at The Breakers, One South Country Road, Palm Beach, Florida.
+Record Date
+The record date for shareholders entitled to notice of and to vote at the Meeting is the close of business on November 19, 2018 (the "Record Date").  As of the Record Date, we had 61,063,816 shares of Class A common stock outstanding. Each share of Class A common stock outstanding on the record date is entitled to one vote on all matters submitted at the Meeting.
+Quorum
+A majority of the votes entitled to be cast, represented in person or by proxy, will constitute a quorum for action at the Meeting. Abstentions will be counted as shares present for purposes of determining the presence or absence of a quorum. Proxies relating to "street name" shares that are voted by brokers on some matters but not on other matters as to which authority to vote is withheld from the broker absent voting instructions from the beneficial owner ("broker non-votes") will be treated as shares present for purposes of determining the presence or absence of a quorum. The voting requirements and the procedures described below are based upon provisions of the Wisconsin Business Corporation Law, the Company's articles of incorporation and bylaws, and any other requirements applicable to the matters to be voted upon.  
+Required Vote
+Directors are elected by a plurality of the votes cast by the holders of shares entitled to vote in the election at a meeting at which a quorum is present (Proposal 1). A "plurality" means that the individuals who receive the largest number of votes are elected as directors up to the maximum number of directors to be elected at the meeting. Shares for which authority is withheld to vote for director nominees and broker non-votes have no effect on the election of directors except to the extent that the failure to vote for a director nominee results in another nominee receiving a larger number of votes.
+In order to approve the ratification of PricewaterhouseCoopers LLP as our independent auditor (Proposal 2), the votes cast FOR must exceed the votes cast AGAINST the proposal. Abstentions will have no effect on this proposal. Because this proposal is considered a routine proposal, brokers or other entities holding shares for an owner in "street name" are able to vote on this proposal, even if no voting instructions are provided by the beneficial owner.  Broker non-votes will have no effect on this proposal. 
+In order to approve, on an advisory basis, the compensation of our named executive officers (Proposal 3), the votes cast FOR must exceed the votes cast AGAINST the proposal. Abstentions will have no effect on this proposal. This advisory vote is considered a non-routine proposal under the rules applicable to banks and brokers. As a result, if you hold your shares in "street name," absent specific voting instructions, your bank, broker or other holder of record will not be permitted to exercise voting discretion, and your shares will not be considered present and entitled to vote with respect to Proposal 3. Broker non-votes will have no effect on this proposal.  Cost of Soliciting Proxies
+The cost of soliciting proxies, including the expense of forwarding to beneficial owners of stock held in the name of another, will be borne by the Company. In addition, officers and employees of the Company may solicit the return of proxies from certain shareholders by telephone or meeting. Such officers and employees will receive no compensation in addition to their regular compensation for such solicitation. 
+Shares held for the accounts of participants in the Actuant Corporation 401(k) Plan (the "401(k) Plan") will be voted in accordance with the instructions of the participants or otherwise in accordance with the terms of such plan. Shares held for the accounts of the participants in the Actuant Corporation Deferred Compensation Plan (the "Employee Deferred Compensation Plan") will be voted by the rabbi trust associated with the Employee Deferred Compensation Plan, as directed by the Company. 
+Voting Procedures
+Via the Internet—Shareholders can vote their shares via the internet, as instructed on the proxy card. The internet procedures are designed to authenticate a shareholder's identity to allow shareholders to vote their shares and confirm that their instructions have been properly recorded. Internet voting for shareholders of record is available 24 hours a day and will close at 11:59 p.m. (CST) on January 21, 2019. The Notice instructs you how to access and review all important information in the Proxy Statement and Annual Report. You will then be directed to select a link where you will be able to vote on the proposals presented.
+By Telephone—Shareholders may vote via telephone using the toll-free number listed on the proxy card. Voting via the telephone will close at 11:59 p.m. (CST) on January 21, 2019.
+By Mail—Shareholders who receive a paper proxy card may elect to vote by mail and should complete, sign and date their proxy card and mail it in the postage paid envelope provided. Proxy cards submitted by mail must be received by the time of the Annual Meeting in order for your shares to be voted.
+At the Annual Meeting—Shares held in your name as the shareholder of record may be voted by you in person at the Annual Meeting. Shares held beneficially in "street name" may be voted by you in person at the Annual Meeting only if you obtain a legal proxy from the broker or other agent that holds your shares giving you the right to vote the shares and bring such proxy to the Annual Meeting.
+Revocation of Proxies
+A proxy may be revoked, prior to its exercise, by executing and delivering a later dated proxy, by delivering written notice of the revocation of the proxy to the Corporate Secretary prior to the Meeting or by attending and voting at the Meeting. Attendance at the Meeting, in and of itself, will not constitute a revocation of a proxy.
+Unless previously revoked, the shares represented by all properly executed proxies received in time for the Meeting will be voted in accordance with the shareholder's directions. If no directions are specified on a duly submitted proxy, the shares will be voted, in accordance with the recommendations of the Board of Directors, FOR the election of the directors nominated by the Board of Directors, FOR the Ratification of PriceWaterhouseCoopers LLP as the Company's independent auditor, FOR the approval, on a non-binding basis, of the compensation of our named executive officers, and in accordance with the discretion of the persons appointed as proxies on any other matters properly brought before the Meeting. PROPOSAL 1
+ELECTION OF DIRECTORS
+The Board of Directors currently consists of nine members. Robert Peterson, the Chair of the Board of Directors will not stand for re-election, and the Board of Directors has determined to reduce its size to eight directors in conjunction with Mr. Peterson's retirement. Accordingly, at the Meeting, eight directors will be elected to serve until the next annual meeting of shareholders and until their successors shall be elected and qualified. It is the intention of the persons named in the accompanying form of proxy to nominate as directors and, unless otherwise specified in a proxy by a shareholder, to vote such proxy for the election of the persons named below. In the event any of the nominees should become unable to serve as a director, an eventuality which management has no reason to believe will occur, proxies may be voted for another nominee. Each person named below is presently serving as a director of the Company. 
+[BEGIN TABLE]
+Directors standing for re-election   Age   Director Since 
+Alfredo Altavilla, Director   55   2018 
+Randal W. Baker, Chief Executive Officer   55   2016 
+J. Palmer Clarkson, Director   61   2018 
+Danny L. Cunningham, Director   63   2016 
+E. James Ferland, Director   52   2014 
+Richard D. Holder, Director   55   2017 
+Sidney S. Simmons, Director   60   2018 
+Holly A. Van Deursen, Director   60   2008 
+[END TABLE]
+Alfredo Altavilla—Mr. Altavilla retired from a 29-year career at Fiat Chrysler in August 2018, mostly recently having served as Chief Operating Officer, Europe, Africa and Middle East and Head, Business Development, Fiat Chrysler Automobiles. Prior to that role, he served as Chief Executive Officer of Iveco, Fiat Chrysler's trucks and commercial vehicles business. Mr. Altavilla brings extensive operating, business development, new product development and acquisition experience to the Board. His expertise in doing business in Europe and the Middle East also provides insights critical to the Board's oversight of Company operations and growth strategies in those markets. 
+Randal W. Baker—Mr. Baker was appointed President and Chief Executive Officer of the Company in March 2016. Prior to joining the Company, Mr. Baker held multiple roles during a six year tenure at Joy Global, including most recently as Chief Operating Officer. Prior to Joy Global, Mr. Baker was an executive with Case New Holland Inc., holding a variety of roles including President and CEO of its agricultural equipment business. Mr. Baker also held diverse leadership roles in marketing, sales, product development and engineering at Komatsu America Corporation, Ingersoll-Rand and Sandvik Corporation. Among other insights, his understanding of the Company's markets, engineering and new product development background and operational expertise assist the Board in setting the Company's strategy and monitoring performance.
+J. Palmer Clarkson—Mr. Clarkson is President and Chief Executive Officer of Bridgestone HosePower LLC, a Florida-based industrial hose service company.  Founded by Mr. Clarkson in 1990 and acquired by Bridgestone Hose in 2014, HosePower is the largest U.S. based service provider of hydraulic and industrial hoses used in construction machinery, mining, oil field equipment and general industrial applications. His areas of expertise include financial and operational management, distribution and dealer channel management, business development and capital allocation. Mr. Clarkson brings a significant understanding of the Company's tools business and sales channels to the Board as well as strong financial and accounting experience. Mr. Clarkson has been a director of CNX Resources Corporation since May 2017. He was also a director of Consol Energy in 2017. 
+Danny L. Cunningham—Mr. Cunningham is a retired Partner and former Chief Risk Officer of Deloitte & Touche, LLP, a multinational public accounting firm. He has more than 30 years of experience serving public audit clients in a broad array of industries, including manufacturing. He has practiced in both the United States and China. Mr. Cunningham possesses expertise in the areas of financial reporting, auditing, accounting and risk management and also brings a strong knowledge of corporate transactions and global perspective to the Board. He also serves on the Board of WEC Energy Group and is a member of its audit Committee.
+E. James Ferland—Mr. Ferland retired as Chairman and Chief Executive Officer of Babcock & Wilcox Enterprises, Inc. ("B&W"), a provider of energy and environmental products and services for power and industrial markets worldwide, in 2018. He led B&W from 2012, when it spun-off from the Babcock & Wilcox Company. He previously held various leadership roles with Westinghouse Electric Company, LLC and PNM Resources, Inc.  With more than 25 years of senior management and engineering experience in diversified industries, Mr. Ferland brings to the Board extensive operations, financial and acquisition experience, knowledge of the energy markets and valuable perspectives from leading a global public company. 
+Richard D. Holder —Mr. Holder is President and Chief Executive Officer of NN Inc, a diversified industrial manufacturing company, and has held this position since joining NN in June 2013. Mr. Holder is a seasoned executive with more than 25 years of international experience across a diverse set of industries and disciplines. Prior to NN, Inc., Mr. Holder held a variety of leadership positions during his twelve year tenure at Eaton Corporation, where he last served as President of Eaton Electrical Components Group,  a unit of Eaton's Electrical Sector. Prior to joining Eaton, he held a variety of leadership roles at US Airways, AlliedSignal and Parker Hannifin. As a sitting Chief Executive Officer, Mr. Holder brings to the Board a unique perspective of leading a global public company, along with extensive business, financial and industry experience. Mr. Holder is also a director for NN, Inc.
+Sidney S. Simmons—Mr. Simmons is a seasoned corporate attorney with over 35 years of experience. He provides legal counseling to a range of corporate clients, assisting them, among other matters, with mergers and acquisitions, business planning and structuring, and negotiating and implementing complex business transactions. In addition to his deep and broad knowledge and his experience in executing commercial transactions, he brings experience in corporate governance and legal and regulatory compliance to the Board's deliberations. He has a long history of volunteer service with various national and local organizations, some of which include serving as a trustee for Catholic Charities USA and as Chairman of the Board of Directors of  St. Vincent's Health System, Inc., in  Jacksonville, Florida.
+Holly A. Van Deursen—Ms. Van Deursen was most recently an executive in the petrochemical industry, having held a variety of leadership positions at both British Petroleum and Amoco Corporation. She was Group Vice President of Petrochemicals for British Petroleum from 2003 to 2005 and Group Vice President of Strategy from 2001 to 2003 and has extensive experience in the oil & gas industry, one of the Company's important markets. Her experience in strategic analysis and corporate governance further enhances her ability to add value to our Board. She is currently a director of Bemis Company, Inc., Capstone Turbine Corporation and Synthomer plc. She was a director of Petroleum Geo-Services from 2006 to 2018.
+OUR BOARD OF DIRECTORS UNANIMOUSLY RECOMMENDS VOTING "FOR" THE ELECTION OF THE EIGHT NOMINEES. PROPOSAL 2
+RATIFICATION OF SELECTION OF INDEPENDENT AUDITORS
+PricewaterhouseCoopers LLP, an independent registered public accounting firm, performed an audit of our consolidated financial statements for the fiscal year ended August 31, 2018 and the effectiveness of our internal control over financial reporting as of August 31, 2018. The Audit Committee of the Board of Directors has selected PricewaterhouseCoopers LLP to serve as our independent registered public accounting firm for fiscal 2019 and the Committee is presenting this selection to shareholders for ratification. 
+Shareholder ratification of the selection of PricewaterhouseCoopers LLP as the Company's independent auditor is not required by the Company's bylaws, however, the Audit Committee is submitting the selection of PricewaterhouseCoopers LLP for shareholder ratification because the Audit Committee values shareholders' views on the Company's independent auditors. If the shareholders fail to ratify the selection, the Audit Committee will reconsider whether or not to retain PricewaterhouseCoopers LLP. The Audit Committee also retains the right to direct the appointment of a different independent accounting firm at any time during the year if it determines that such a change would be in the best interests of the Company and its shareholders.
+A representative of PricewaterhouseCoopers LLP will be present at the Annual Meeting and will have the opportunity to make a statement and respond to appropriate questions.
+OUR BOARD OF DIRECTORS RECOMMENDS VOTING "FOR" RATIFICATION OF THE SELECTION OF PRICEWATERHOUSECOOPERS LLP AS OUR INDEPENDENT AUDITORS. PROPOSAL 3
+ADVISORY VOTE TO APPROVE COMPENSATION OF OUR NAMED EXECUTIVE OFFICERS
+We are asking our shareholders to approve, on a non-binding advisory basis, the compensation of our Named Executive Officers ("NEOs"), as disclosed in the Compensation Discussion and Analysis section and the accompanying compensation tables and narrative discussion contained in this proxy statement. The Compensation Committee has overseen the development and implementation of our executive compensation programs, which are designed to drive long-term success and increase shareholder value. We utilize our executive compensation programs to provide competitive compensation within our industry peer group that will attract and retain executive talent, encourage our leaders to perform at a high level by linking compensation with financial and performance milestones and align our executive compensation with shareholders' interests through the use of equity-based incentive awards.  
+Our overall executive compensation program is founded on three guiding principles, which we believe emphasizes a pay for performance philosophy: 
+[BEGIN TABLE]
+• Executive compensation is aligned with our overall business strategy of driving growth opportunities and improving operating metrics, focusing on sales, earnings, cash flow and return on invested capital.  
+• Key executives responsible for establishing and executing our business strategy should have incentive compensation opportunities that align with long-term shareholder value creation. Performance equity awards, a compensation clawback policy, stock ownership requirements and multi-year vesting periods on equity awards are important components of that alignment.  
+• Our overall compensation targets reflect our intent to pay executive Total Direct Compensation (base salary, annual bonus opportunity and the value of share based awards) at approximately the 50th percentile of pay. In some cases, to attract and retain top talent, we may set target compensation over market rates (generally not to exceed the 75th percentile) to align with an individual's experience profile and reflect the complexities of certain roles. 
+[END TABLE]
+We believe that our pay-for-performance objectives result in compensation that reflects our financial results, stock price performance and other performance objectives described in the Compensation Discussion and Analysis. Accordingly, the Board of Directors requests our shareholders to approve, on an advisory basis, the compensation of our NEOs. Although the outcome of this advisory vote is non-binding, the Compensation Committee and the Board of Directors will review and consider the outcome, among other factors, when making future compensation decisions for our NEOs.
+OUR BOARD OF DIRECTORS RECOMMENDS VOTING "FOR" THE APPROVAL OF THE COMPENSATION OF OUR NAMED EXECUTIVE OFFICERS AS DISCLOSED IN THE COMPENSATION DISCUSSION AND ANALYSIS SECTION AND THE ACCOMPANYING COMPENSATION TABLES AND NARRATIVE DISCUSSION CONTAINED IN THIS PROXY STATEMENT. CERTAIN BENEFICIAL OWNERS
+The following table sets forth, as of October 15, 2018, unless otherwise indicated, certain information with respect to the beneficial ownership of common stock by persons known by the Company to beneficially own more than 5% of the outstanding shares of common stock, by the directors and nominees for director, by each executive officer of the Company named in the Summary Compensation Table below and by the Company's executive officers and directors as a group. Shares are deemed to be beneficially owned by any person or group who has the power to vote or direct the vote or the power to dispose or direct the disposition of such shares, or who has the right to acquire beneficial ownership thereof within 60 days:
+[BEGIN TABLE]
+Beneficial Owner (1)   Amount and Nature      Percent of Class
+Beneficial Owner (1)   Amount and Nature      Percent of Class
+Five Percent Shareholders:             
+Blackrock, Inc.      55 East 52nd Street     New York, NY 10022  8,166,690   (2)   13.4% 
+Vanguard Group, Inc.     100 Vanguard Boulevard     Malvern, Pennsylvania 19355   6,073,567   (2)   10.0% 
+Southeastern Asset Management, Inc.      6410 Poplar Avenue, Suite 900     Memphis, TN 38119  5,900,024   (2)   9.7% 
+Wellington Management Company, LLP     208 Congress Street     Boston, MA 02210  4,805,817   (2)   7.9% 
+Wellington Management Company, LLP     208 Congress Street     Boston, MA 02210  4,805,817   (2)   7.9% 
+Pzena Investment Management, LLC     320 Park Avenue, 8th Floor     New York, NY 10022   4,334,688   (2)   7.1% 
+Named Executive Officers and Director Nominees:             
+Alfredo Altavilla, Director   3,000       * 
+Randal W. Baker, President and Chief Executive Officer   46,741   (3)   * 
+J. Palmer Clarkson, Director   1,335   (4)   * 
+Danny L. Cunningham, Director   10,349   (5)   * 
+Rick T. Dillon, Executive Vice President and Chief Financial Officer   9,991   (6)   * 
+E. James Ferland, Director    31,466   (7)   * 
+Richard D. Holder, Director   —       * 
+Roger A. Roundhouse, Executive Vice President, Engineered Components & Systems   53,223   (8)   * 
+John Jeffrey Schmaling, Executive Vice President, Industrial Tools & Services   —       * 
+Sidney S. Simmons, Director   1,418   (9)   * 
+Holly A. Van Deursen, Director   78,966   (10)   * 
+André L. Williams, Executive Vice President, Global Human Resources   2,775   (11)   * 
+Directors Not Continuing in Office:             
+Robert A. Peterson, Chair of the Board of Directors   139,764   (12)   * 
+All Directors and Current Executive Officers as a group (14 persons)   379,028   (13)   * 
+(1)  Unless otherwise noted, the specified person has sole voting power and/or dispositive power over the shares shown as beneficially owned. 
+(2)  Share ownership, as of September 30, 2018, based on a report issued to the Company by a third party service provider. 
+(3)  Includes 23 shares held in the 401(k) Plan. Excludes 2,268 phantom stock units held in the Employee Deferred Compensation Plan, which are settled in Actuant common stock no less than six months following termination of employment. Mr. Baker does not have any voting or dipositive power with respect to the phantom stock units. 
+(4)  Includes 1,335 phantom stock units held in the Outside Directors' Deferred Compensation Plan, which are settled in Actuant common stock, generally within 60 days following the director's termination of service.   
+(5)  Includes 2,930 shares issuable pursuant to options exercisable currently or within 60 days of October 15, 2018. Includes 5,007 phantom stock units held in the Outside Directors' Deferred Compensation Plan, which are settled in Actuant common stock, generally within 60 days following the director's termination of service. 
+[END TABLE]
+[BEGIN TABLE]
+(6)  Includes 1,335 shares held in the 401(k) Plan. Excludes 804 phantom stock units held in the Employee Deferred Compensation Plan, which are settled in Actuant common stock no less than six months following termination of employment. Mr. Dillon does not have any voting or dispositive power with respect to the phantom stock units. 
+(7)  Includes 11,029 shares issuable pursuant to options exercisable currently or within 60 days of October 15, 2018.  Also includes 9,160 phantom stock units held in the Outside Directors' Deferred Compensation Plan, which are settled in Actuant common stock, generally within 60 days following the director's termination of service. 
+(8)  Includes 201 shares held in the 401(k) Plan.  Also includes 15,567 shares issuable pursuant to options exercisable currently or within 60 days of October 15, 2018.  Excludes 1,099 phantom stock units held in the Employee Deferred Compensation Plan, which are settled in Actuant common stock no less than six months following termination of employment. Mr. Roundhouse does not have any voting or dipositive power with respect to the phantom stock units. 
+(9)  Includes 1,418 phantom stock units held in the Outside Directors' Deferred Compensation Plan, which are settled in Actuant common stock, generally within 60 days following the director's termination of service. 
+(10)  Includes 6,025 shares held in an individual IRA account.  Also, includes 54,679 shares issuable pursuant to options exercisable currently or within 60 days of October 15, 2018. 
+(11)  Excludes 135 phantom stock units held in the Employee Deferred Compensation Plan, which are settled in Actuant common stock no less than six months following termination of employment. Mr. Williams does not have any voting or dipositive power with respect to the phantom stock units. 
+(12)  Includes 16,400 shares held in an individual IRA account and 6,000 shares held in trusts for his children.  Also includes 63,329 shares issuable pursuant to options exercisable currently or within 60 days of October 15, 2018.  Also includes 33,544 phantom stock units held in the Outside Directors' Deferred Compensation Plan, which are settled in Actuant common stock, generally within 60 days following the director's termination of service. 
+(13)  Includes 16,400 shares held in an individual IRA account and 6,000 shares held in private trust accounts for children.  Also includes 147,534 shares issuable pursuant to options exercisable currently or within 60 days of October 15, 2018.  Also includes 53,178 phantom stock units held in the Outside Directors' Deferred Compensation Plan, which are settled in Actuant common stock, generally within 60 days following the director's termination of service. 
+[END TABLE]
+The beneficial ownership information set forth above is based on information furnished by the specified persons or known to the Company and is determined in accordance with Rule 13d-3 under the Securities Exchange Act of 1934, as required for purposes of this Proxy Statement. It is not necessarily to be construed as an admission of beneficial ownership for other purposes CORPORATE GOVERNANCE MATTERS
+Corporate Governance Guidelines
+The Board of Directors (the "Board") has adopted the Actuant Corporation Corporate Governance Guidelines (the "Guidelines"). The Guidelines, which were reviewed and updated by the Board in July 2018 to conform to current governance best practices, state that the Board is elected by the shareholders to provide oversight and guidance to management with a view to increasing shareholder value over the long term. The Guidelines cover various topics, including, but not limited to, director independence, board and committee composition, board operations and leadership development. The Nominating & Corporate Governance Committee of the Board monitors and oversees the application of the Guidelines and recommends to the Board any changes to the Guidelines. Each committee has a written charter that is approved by the Board and annually evaluated by the committee. While the Company has no formal policy with respect to the attendance of the directors at the Company's annual meeting of shareholders, all directors attended the 2018 annual meeting. 
+Board Committees, Charters, Functions and Meetings
+The Board has three standing committees — Audit, Nominating & Corporate Governance and Compensation — and appoints the members of the committees after considering the recommendations of the Nominating & Corporate Governance Committee. There were 10 meetings of the Board during the fiscal year ended August 31, 2018. All members of the Board attended at least 75% of the aggregate number of meetings of the Board and all the committees on which they served. Current Board committee membership and functions appear in the following table:
+[BEGIN TABLE]
+Committees   Committee Functions 
+Audit Danny L. Cunningham, Chair Alfredo Altavilla Richard D. Holder Sidney S. Simmons   Fiscal 2018 Meetings—10• Manages oversight responsibilities related to accounting policies, internal control, financial reporting practices and legal and regulatory compliance 
+Audit Danny L. Cunningham, Chair Alfredo Altavilla Richard D. Holder Sidney S. Simmons   Fiscal 2018 Meetings—10• Manages oversight responsibilities related to accounting policies, internal control, financial reporting practices and legal and regulatory compliance 
+Audit Danny L. Cunningham, Chair Alfredo Altavilla Richard D. Holder Sidney S. Simmons   Fiscal 2018 Meetings—10• Manages oversight responsibilities related to accounting policies, internal control, financial reporting practices and legal and regulatory compliance 
+• Reviews the integrity of the Company's financial statements 
+• Reviews the independent auditor's qualifications and independence 
+• Reviews the performance of the Company's internal audit function and the Company's independent auditors 
+• Maintains lines of communication between the Board and the Company's financial management, internal auditors and independent accountants 
+• Prepares the Audit Committee report to be included in the Company's annual proxy statement 
+• Conducts an annual evaluation of the performance of the Audit Committee 
+Nominating & Corporate Governance   Robert A. Peterson, Chair J. Palmer Clarkson E. James Ferland Sidney S. Simmons  Holly A. Van Deursen   Fiscal 2018 Meetings—4• Responsible for evaluating and nominating prospective members for the Board 
+Nominating & Corporate Governance   Robert A. Peterson, Chair J. Palmer Clarkson E. James Ferland Sidney S. Simmons  Holly A. Van Deursen   Fiscal 2018 Meetings—4• Responsible for evaluating and nominating prospective members for the Board 
+Nominating & Corporate Governance   Robert A. Peterson, Chair J. Palmer Clarkson E. James Ferland Sidney S. Simmons  Holly A. Van Deursen   Fiscal 2018 Meetings—4• Responsible for evaluating and nominating prospective members for the Board 
+• Conducts an annual assessment of the Board, Committees and Directors performance and contributions 
+• Conducts an annual evaluation of the performance of the Nominating & Corporate Governance Committee 
+Compensation                                     Holly A. Van Deursen, Chair Alfredo Altavilla J. Palmer Clarkson E. James Ferland Richard D. Holder     Fiscal 2018 Meetings—8• Determines the compensation of executive officers and makes recommendations to the Board regarding Chief Executive Officer compensation.  
+Compensation                                     Holly A. Van Deursen, Chair Alfredo Altavilla J. Palmer Clarkson E. James Ferland Richard D. Holder     Fiscal 2018 Meetings—8• Determines the compensation of executive officers and makes recommendations to the Board regarding Chief Executive Officer compensation.  
+Compensation                                     Holly A. Van Deursen, Chair Alfredo Altavilla J. Palmer Clarkson E. James Ferland Richard D. Holder     Fiscal 2018 Meetings—8• Determines the compensation of executive officers and makes recommendations to the Board regarding Chief Executive Officer compensation.  
+• Administers annual (short-term) incentive compensation plans and equity-based (long-term) compensation programs maintained by the Company 
+• Makes recommendations to the Board with respect to the amendment, termination or replacement of incentive compensation plans and equity-based compensation programs 
+• Recommends to the Board the compensation for Board members and conducts an annual evaluation of the performance of the Compensation Committee 
+[END TABLE]
+Leadership Structure
+The positions of Chair of the Board and Chief Executive Officer are separated between Mr. Peterson and Mr. Baker.  This allows our CEO, Mr. Baker, to focus on the day-to-day business operations, while the Board chair leads our Board in providing strategic direction, oversight and advice to management. The Board retains the authority to modify this leadership structure as and when appropriate to best address the Company's circumstances and advance the interests of all shareholders. The Board Chair's responsibilities include: presiding over executive sessions of the independent directors; liaising between the Chief Executive Officer and independent directors; consulting with the Chief Executive Officer as to appropriate scheduling and agendas of meetings of the Board; and serving as the principal conduit for communications directed from shareholders to employees and the non-employee directors.
+Executive Sessions of Non-Management Directors
+The non-employee directors of the Board regularly meet in the absence of management. Mr. Peterson, the Board Chair, presides at these sessions.
+Independence of Directors; Financial Expertise of Audit Committee
+The Board has determined that each of Ms. Van Deursen and Messrs. Altavilla, Clarkson, Cunningham, Ferland, Holder, Peterson, and Simmons (i) is independent within the definitions contained in the current New York Stock Exchange listing standards and the Company's Corporate Governance Guidelines and (ii) has no other material relationship with the Company that could interfere with his or her ability to exercise independent judgment. In addition, the Board has determined that each member of the Audit Committee is "independent" within the definition contained in current Securities and Exchange Commission ("SEC") rules. The Board has determined that all members of the Audit Committee meet the financial literacy requirements of the New York Stock Exchange ("NYSE") and at least one member qualifies as an "audit committee financial expert" as defined by the SEC.
+Board Role in Risk Oversight
+The Board oversees an enterprise-wide approach to risk management, which is designed to support the achievement of organizational objectives (including strategic initiatives), improve long-term organizational performance and enhance shareholder value. While the Board has the ultimate oversight responsibility for the risk management process, the committees of the Board also have responsibility for aspects of organizational risk management. In particular, the Audit Committee focuses on legal, compliance and financial risks (including internal controls) and the Compensation Committee and the Nominating & Corporate Governance Committee focus on compensation risk (as described below) and corporate governance policies, respectively.
+Compensation Risk Assessment
+In establishing and reviewing our executive compensation program, the Compensation Committee considers, among other things, whether the compensation program rewards executives for performance and whether the program encourages unnecessary or excessive risk taking. The Committee, with assistance from an independent compensation consultant (see below), annually performs a compensation risk assessment including an inventory of material incentive and sales compensation plans. The Committee has overseen the implementation of several mitigating factors to help reduce the likelihood of undue risk taking related to compensation arrangements including, but not limited to, the use of various measures (core sales, earnings, total shareholder return ("TSR"), and cash flow) in a balanced mix of annual and long-term incentive plans, use of multiple types of incentives (cash, restricted stock units and performance shares), and executive stock ownership guidelines that help align incentives with long-term company stock price appreciation. The Committee and Board believe that the Company's compensation policies and practices do not encourage unnecessary or excessive risk and are not likely to promote other behavior that could result in material adverse event for the Company. 
+Use of Compensation Consultants and Other Advisors
+The Compensation Committee has the authority to engage the services of outside advisors, experts and others to assist in performing its responsibilities. The Committee has utilized the services of Willis Towers Watson ("Willis") as its executive and director compensation adviser for several years. During fiscal 2018, fees paid to Willis for services to the Committee were approximately $0.2 million. The Company also uses other divisions of Willis for actuarial services related to pension plans, post-retirement healthcare plans and other benefits, and Willis also is the Company's primary insurance broker. Fees paid to Willis for these additional services in fiscal 2018 were $0.7 million. Willis' executive compensation consultants have not been involved in providing any of the additional actuarial or brokerage services for which the Company has engaged Willis. 
+In its role as the Committee's independent compensation advisor, Willis provides written confirmation of its independence and the existence of any potential conflicts of interest.  The Committee also reviews the policies and procedures Willis maintains to prevent conflicts of interest, evaluates whether there are personal or business relationships between Willis and members of the Committee and validates that employees of Willis who perform consulting services do not own Actuant common stock.  After considering these factors, the scope of services provided by Willis and the amount of fees paid for executive compensation consulting and other services, the Committee has concluded that the engagement of Willis does not create a conflict of interest. 
+Codes of Conduct and Ethics
+The Company's Code of Business Conduct and Ethics ("Code of Conduct") applies to all officers, directors and employees of the Company and sets out the standards of legal and ethical behavior to which all such representatives of the Company must adhere. The Company also has adopted Code of Ethics Applicable to Senior Finance Executives ("Code of Financial Ethics") that applies to its senior corporate executive team, including its Chief Executive Officer, Chief Financial Officer, Principal Accounting Officer and  Corporate Controller, or persons performing similar functions. The Code of Conduct and Code of Financial Ethics are reviewed annually by the Nominating & Corporate Governance Committee.
+Information Available Upon Request
+Copies of the Company's Board committee charters, Corporate Governance Guidelines, Code of Business Conduct and Ethics and Code of Ethics Applicable to Senior Finance Executives are available on the Corporate Governance section of the Company's website at www.actuant.com. They also may be obtained, free of charge, upon written request directed to our Executive Vice President, General Counsel & Secretary, Actuant Corporation, N86W12500 Westbrook Crossing, Menomonee Falls, Wisconsin, 53051 or by telephone at (262) 293-1500.
+Director Selection Procedures
+The Nominating & Corporate Governance Committee has the lead role in identifying director candidates, including the slate of directors presented for election at the Company's annual meeting of shareholders. The Committee will consider recommendations from shareholders concerning the nomination of directors. Recommendations should be submitted in writing to the Company and state the shareholder's name and address, the name and address of the candidate, and the qualifications of and other detailed background information regarding the candidate. 
+Nominees for director are selected on the basis of experience, integrity, ability to make independent analytical inquiries, understanding of the Company's business environment and willingness to devote adequate time to Board duties. Although it does not have a formal diversity policy, the Board is committed to an inclusive membership, embracing diversity with respect to background, experience, skills, education, special training, race, age, gender, national origin and viewpoints.
+The Nominating & Corporate Governance Committee's objective is to assemble and maintain a Board that provides an optimized mix of skills, experience and perspectives to provide oversight and strategic guidance and maximize shareholder value in the context of the Company's current or expected circumstances. In evaluating director nominees, the Nominating & Corporate Governance Committee considers a range of factors and circumstances, including the following:
+[BEGIN TABLE]
+• the needs of the Company with respect to the particular talents and experience of its directors; 
+• the knowledge, skills and experience of nominees, including operational and leadership experience; 
+• familiarity with the Company's markets, including international business experience; 
+• financial literacy and expertise with accounting rules and practices; 
+• the desire to balance the considerable benefit of continuity with the periodic injection of the fresh perspective provided by new members; and 
+• the appropriate size of the Company's Board. 
+[END TABLE]
+The Nominating & Corporate Governance Committee also may consider such other factors in addition to the forgoing as it deems are in the best interests of the Company and its shareholders. There is no limit with regard to the number of boards on which our directors may serve, but the Board considers service on others boards as a factor in the director selection process and requires that all directors be able to devote sufficient time to fulfill their duties to the Company's Board and committees.
+The Nominating & Corporate Governance Committee believes it is appropriate that at least one, and preferably several, members of the Board meet the criteria for an "audit committee financial expert," as defined by SEC rules, and that a majority of the members of the Board meet the definition of "independent director" under NYSE listing standards. The Nominating & Corporate Governance Committee also believes it is appropriate for the Chief Executive Officer and potentially other members of the Company's management to serve on the Board.
+The Nominating & Corporate Governance Committee identifies nominees for election to the Board by, among other considerations, evaluating the skills of the current members of the Board, their performance and contributions to deliberations, their tenure on the Board and other relevant circumstances. Current members of the Board with skills and experience to support the Company's needs and strategic priorities and who are willing to continue to serve as directors generally are nominated for re-election, balancing the value of continuity of service by existing members of the Board with that of obtaining a new perspective. From time-to-time, the Committee will determine to add new directors to the Board to enhance its capabilities, with such new directors being identified by a variety of means, including based on the recommendation of shareholders or existing directors or with the assistance of third party recruiters to identify and evaluate the qualifications of candidates satisfying the Board's criteria for new directors. Director Resignation Policy
+In order to ensure appropriate representation on the Board, the Nominating & Corporate Governance Committee has adopted a policy regarding resignation from the Board upon a director's retirement or a material change in principal occupation (such as the director's cessation of employment) as of the time the director was last elected to the Board. Upon such a material change in a director's position, a director shall offer his or her resignation as a director to the Board, which will accept or reject the resignation offer after considering the best interests of the Company and its shareholders.
+Communications with Directors
+Shareholders and other interested parties who want to communicate with the Board, the non-employee directors as a group, or any individual director can write to: Actuant Corporation, Attention: Chairman, N86W12500 Westbrook Crossing, Menomonee Falls, Wisconsin 53051. Your letter should indicate whether you are an Actuant shareholder. Depending on the subject matter, management will:
+[BEGIN TABLE]
+• Forward the communication to the director or directors to whom it is addressed; 
+• Attempt to handle the inquiry directly, for example where it is a request for information about the Company or it is a common stock related matter; or 
+• Not forward the communication if it is primarily commercial in nature or if it relates to an improper or irrelevant topic. 
+[END TABLE]
+Certain Relationships and Related Person Transactions
+The Corporate Governance Guidelines and Code of Business Conduct and Ethics document the Company's policies regarding conflicts of interest and related party transactions.  Under these policies, any related party transaction or potential conflict of interest is reviewed by legal counsel and referred to the Nominating & Corporate Governance Committee for final resolution.
+The Committee has evaluated several relationships in fiscal 2018 for the existence of a potential conflict of interest:
+[BEGIN TABLE]
+• The Company had sales of less than $0.1 million to subsidiaries of Babcock & Wilcox Enterprises, Inc. (B&W).  Mr. Ferland was formerly President and Chief Executive Officer and a board member of B&W during part of fiscal year 2018 while also serving on our Board. All sales transactions with B&W were negotiated in the ordinary course of business on arms'-length terms and conditions, and Mr. Ferland did not participate in those transactions. Mr. Ferland no longer is employed by, or a director of, B&W. 
+• Mr. Cunningham became a director of WEC Energy Group ("WEC") in 2018. WEC is an electric and gas utility providing services to customers in Wisconsin, Illinois, Michigan and Minnesota, where several of the Company's facilities and operations are located. In fiscal 2018, the Company made purchases of approximately $1.1 million from the utility and its affiliates. In addition, the Company sold less than $0.1 million of products to WEC and its affiliates during the year. All transactions were on an arms'-length basis. The Board has evaluated the relationship between the Company and WEC and has determined that it does not interfere with the exercise of Mr. Cunningham's independent judgment.   
+• On March 20, 2018, the Company entered into an agreement (the "Southeastern Agreement") with Southeastern Asset Management ("Southeastern") pursuant to which the Company and the Board agreed to elect J. Palmer Clarkson and Sidney S. Simmons to the Board. Additionally, Southeastern agreed that until the day following the 2019 annual meeting of shareholders it would not call or seek to call, or encourage any other party to call or seek to call, a special meeting of the shareholders of the Company.    
+[END TABLE]
+Other than as disclosed in the preceding paragraph, during fiscal 2018 the Company is not aware of being party to any transaction in which an executive officer, director or 5% shareholder had a direct or indirect material interest.
+Compensation Committee Interlocks and Insider Participation
+During fiscal 2018, no member of the Compensation Committee served as an officer, former officer or employee of the Company or had a relationship disclosable under "Certain Relationships and Related Person Transactions." Further, during fiscal 2018, no executive officer of the Company served as:
+[BEGIN TABLE]
+• a member of the Compensation Committee (or equivalent) of any other entity, one of whose executive officers served as one of our directors or was an immediate family member of a director, or served on our Compensation Committee; or 
+• director of any other entity, one of whose executive officers or their immediate family member served on our Compensation Committee. 
+[END TABLE]
+ REPORT OF THE AUDIT COMMITTEE
+The following report of the Audit Committee does not constitute soliciting material and should not be deemed filed or incorporated by reference into any other Company filing under the Securities Act of 1933 or the Securities Exchange Act of 1934, except to the extent the Company specifically incorporates this report by reference therein.
+The Audit Committee represents and assists the Board of Directors in fulfilling its oversight responsibility relating to (i) the integrity of the Company's financial statements and financial reporting process and the Company's systems of internal controls over financial reporting; (ii) the performance of the internal audit function; (iii) the annual independent audits of the Company's financial statements and management's report regarding the effectiveness of the Company's system of internal control over financial reporting; (iv) the compliance by the Company with legal and regulatory requirements, including the Company's disclosure controls and procedures; and (v) the fulfillment of the other responsibilities set out in the committee's charter. The Audit Committee has the responsibility for the engagement and retention of the Company's independent registered public accounting firm, the evaluation of its qualifications, independence and performance, and the approval of all audit and other engagement fees. 
+In discharging its responsibilities, the Audit Committee is not itself responsible for the planning or conducting of audits or for any determination that the Company's financial statements are complete and accurate or presented in accordance with generally accepted accounting principles. The Company's management is primarily responsible for its financial statements and the quality and integrity of the reporting process. The independent registered public accounting firm, PricewaterhouseCoopers LLP, is responsible for expressing an opinion on the conformity of the Company's audited financial statements with generally accepted accounting principles and an opinion on the effectiveness of the Company's internal control over financial reporting. 
+In this context, the Audit Committee has met and held discussions with management and the independent registered public accounting firm regarding the fair and complete presentation of the Company's results of operations and financial position and the assessment of the Company's internal control over financial reporting. The Audit Committee has discussed significant accounting policies applied by the Company in its financial statements. Management represented to the Audit Committee that the Company's consolidated financial statements were prepared in accordance with accounting principles generally accepted in the United States of America.
+Additionally, the Audit Committee has done, among other things, the following:
+[BEGIN TABLE]
+• discussed with PricewaterhouseCoopers LLP the overall scope and plans for its audit; 
+• met with PricewaterhouseCoopers LLP, with and without management present, to discuss the results of its examinations, the evaluation of the Company's internal controls, and the overall quality of the Company's financial reporting; 
+• reviewed and discussed the audited financial statements for the fiscal year ended August 31, 2018 with the Company's management and PricewaterhouseCoopers LLP; 
+• discussed with PricewaterhouseCoopers LLP those matters required to be discussed by the Public Company Accounting Oversight Board ("PCAOB") Audit Standard No. 1301, Communications with Audit Committees and SEC Regulations S-X, Rule 2-07, Communications with Audit Committees; and 
+• received the written disclosures and the letter from PricewaterhouseCoopers LLP required pursuant to Rule 3526, "Communication with Audit Committees Concerning Independence," of the PCAOB and has discussed with PricewaterhouseCoopers LLP its independence. 
+[END TABLE]
+Based upon the foregoing, the Audit Committee recommended to the Board of Directors that the audited financial statements be included in the Company's annual report on Form 10-K for the fiscal year ended August 31, 2018.
+No member of the Audit Committee is employed by or has any other material relationship with the Company. The Board of Directors has determined that at least one member of the Audit Committee qualifies as an "audit committee financial expert" under Securities and Exchange Commission regulations, and the Audit Committee is comprised entirely of independent directors as required by the New York Stock Exchange listing standards and the applicable rules of the Securities and Exchange Commission.
+THE AUDIT COMMITTEE
+Danny L. Cunningham, Chairperson
+Alfredo Altavilla
+Richard D. Holder
+Sidney S. Simmons EXECUTIVE COMPENSATION
+Compensation Discussion and Analysis
+This section of the proxy provides information regarding the compensation program for our current Chief Executive Officer, Chief Financial Officer and our three other most highly compensated executive officers at August 31, 2018, collectively referred to as our Named Executive Officers ("NEOs"). Our fiscal 2018 NEOs are as follows:
+[BEGIN TABLE]
+• Randal W. Baker, President and Chief Executive Officer 
+• Rick T. Dillon, Executive Vice President and Chief Financial Officer  
+• Roger A. Roundhouse, Executive Vice President, Engineered Components & Systems Segment 
+• John Jeffrey Schmaling, Executive Vice President Industrial Tools & Services Segment 
+• André L. Williams, Executive Vice President, Human Resources 
+• Theodore C. Wozniak, Executive Vice President, Business Development (1)  
+[END TABLE]
+(1) Mr. Wozniak departed the Company in December 2017.
+Executive Summary
+Actuant is committed to developing and implementing an executive compensation program that directly aligns the interests of the NEOs with the long-term interests of shareholders. With this goal in mind, we have developed an executive compensation program that is designed to:
+[BEGIN TABLE]
+• attract and retain highly experienced and committed executives who have the skills, education, business acumen and background to successfully lead a diversified industrial company;  
+• motivate executives to demonstrate exceptional personal performance and consistently perform at or above expected levels during different business cycles;  
+• provide balanced incentives for the achievement of near-term and long-term objectives, without incentivizing executives to take excessive risk. 
+[END TABLE]
+In fiscal 2018, we experienced core sales growth that benefited from improvements within the broad industrial landscape - mining, infrastructure, commercial and off-highway vehicles and agriculture markets. In addition to improved market conditions, growth was driven by our investments in operations, the effects from the restructuring of our commercial processes, and the continued focus on new product development activity. Compared to the prior year, consolidated core sales increased 6% in fiscal 2018, with improvements across our two segments, namely, Industrial Tools & Services ("IT&S") and Engineered Components & Systems ("EC&S"). IT&S saw sustained growth throughout the year and gained some additional positive momentum in the fourth quarter, from improvements in the offshore oil and gas markets. Similar to IT&S, EC&S experienced growth throughout the year, with strong results coming from on-and-off highway vehicle and agriculture markets. The consolidated sales growth resulted in considerably higher earnings per share year-over-year and aided in Free Cash Flow generation of $100 million in fiscal 2018.
+[BEGIN TABLE]
+    Year Ended August 31, 
+    2018   2017 
+    (amounts in millions, except per share amounts) 
+Net Sales   $ 1,183     $ 1,096   
+Core Sales Change (1) (3)   6%   (4)% 
+Adjusted Earnings Per Share(2)(3)   $ 1.09     $ 0.83   
+Adjusted EBITDA (3)   $ 145     $ 122   
+Free Cash Flow (3)   $ 100     $ 68   
+Fiscal Year-end Stock Price   $ 29.45     $ 24.05   
+[END TABLE]
+(1) Core sales change represents total sales decline excluding the impact of acquisitions, divestitures and foreign currency rate changes between years.  
+(2) Adjusted earnings per share excludes an impairment & other divestiture charge ($1.24), restructuring charges ($0.15), accelerated debt issuance costs ($0.01) and a tax adjustment expense ($0.05) in fiscal 2018 and an  impairment & other divestiture charge ($1.82), restructuring charges ($0.09), director & officer transition charges ($0.08) and a tax adjustment gain ($0.05) in fiscal 2017. 
+(3) See "Reconciliation of GAAP Measures to Non-GAAP Measures" included in our 2018 Annual Report to Shareholders which accompanies this Proxy Statement.  
+As a result of this financial performance, the cash bonuses earned by our NEOs in fiscal 2018 were above target. See page 18 for details of the Annual Bonus program. Strong core sales growth and Free Cash Flow generation and conversion in fiscal 2018 were the main drivers of cash bonuses for our NEOs, with earnings contributing to a lesser degree. Similarly, the total shares vested in the form  of Performance Shares (discussed on page 19) were above the target level for the most recently completed three year performance period.
+Given that both incentive compensation and overall financial performance were above target levels, we believe that our executive compensation program is effectively linked to performance.  Further, we continue to believe that our incentive compensation programs align closely to our business model of achieving core sales growth, quality of earnings and cash flow generation to fuel acquisitions, for capital deployment and share repurchases.
+Compensation and Link to Performance
+Our executive compensation program is aligned with our overall business model (illustrated below), which is intended to create shareholder value. 
+Our long-term goal is to grow diluted earnings per share faster than other multi-industry peers. We intend to leverage our strong market positions to generate organic core sales growth that exceeds end-market growth rates. Organic growth is accomplished through a combination of share capture, product innovation and market expansion into emerging industries and geographic regions. In addition to organic growth we also focus on profit margin expansion and cash flow generation to achieve our financial objectives. Our LEAD ("Lean Enterprise Across Disciplines") Business System utilizes continuous improvement techniques to reduce costs, improve efficiencies and drive operational excellence across all locations and functions worldwide, thereby expanding profit margins and improving the customer experience. Our LEAD efforts also support our core sales growth. Strong cash flow generation is achieved by maximizing returns on assets and minimizing primary working capital needs. The cash flow that results from efficient asset management, improved profitability and loyal customers is used to fund internal growth opportunities, strategic acquisitions and common stock repurchases.
+Shareholder Input on Executive Compensation Program
+Shareholders provided overwhelming support for the compensation of our NEOs at the 2018 Annual Meeting, with the holders of over 98% of our common stock voting in favor of the compensation program for our NEOs.  We engage with shareholders to gather feedback on our compensation programs, which have led to changes that strengthen the link between executive pay and Company performance. We will continually assess and modify our executive compensation program to incorporate shareholder input, industry trends and competitive compensation practices. 
+The Compensation Committee (the "Committee") engages in an ongoing review of the Company's executive compensation program to evaluate whether the program supports the Company's compensation philosophy and objectives, and aligns with the Company's business objectives. In connection with this ongoing review, and based on feedback received from our shareholders, the Committee continues to implement and maintain what it believes are best practices for executive compensation, each of which reinforces the Company's compensation philosophy. Below is a summary of those practices. 
+[BEGIN TABLE]
+What We Do   What We Do Not Do 
+Use performance metrics to align pay with performance   Offer gross-ups of related excise taxes on executive severance agreements 
+Cap payouts under our annual cash bonus plan and performance share plans   Provide single-trigger change-in-control severance benefits 
+Have robust stock ownership guidelines for our CEO and NEOs   Pay dividends on unearned and unvested performance shares 
+Apply clawback provisions to annual cash bonus and equity awards for executives in case of financial restatement.   Reprice stock options 
+Engage an independent compensation consultant that reports to the Compensation Committee   Provide tax gross-ups in the event of a change in control 
+Prohibit short sales, hedging or pledging of our stock by our executive officers and directors     
+[END TABLE]
+Oversight of the Executive Compensation Program
+The Committee is primarily responsible for overseeing the Company's executive compensation program and considers advice from an independent compensation consultant regarding competitive market pay practices. The Company's CEO and management team also provide the Committee specific information related to NEO performance, compensation data and financial results.
+Role of Compensation Committee
+The Committee establishes our executive compensation philosophy and administers the overall executive compensation program. The Committee reviews and approves all components of the compensation program, establishes objectives for NEOs that are aligned with the Company's business and financial strategy, and determines compensation levels for our NEOs. CEO compensation is recommended by the Committee to the Board for approval. The Committee monitors the performance of NEOs (other than the CEO) through verbal updates regarding their annual reviews completed by the CEO and performs a separate evaluation of the CEO's performance in cooperation with the Chairman of the Board. 
+Role of Compensation Consultant
+The Committee utilizes Willis as its independent compensation consultant. Willis assists the Committee by evaluating executive compensation, analyzing pay alignment with financial and stock performance, providing general compensation trends and competitive market data and benchmarking, and by participating in the design and implementation of certain elements of the executive compensation program. Willis does not make specific recommendations on individual compensation amounts for the executive officers or the independent directors, nor does it determine the amount or form of executive and director compensation.
+Role of Management and the Chief Executive Officer
+Our CEO, in consultation with the Executive Vice President - Human Resources, develops compensation recommendations for the Committee to consider. The CEO considers various factors when making recommendations, including external market data as provided by Willis, the relative importance of the executive's position within the organization, the executive's tenure and experience and the executive's performance and contributions to the Company's results.
+The CEO, with assistance from Human Resources and Finance personnel, monitors existing compensation plans and programs applicable to NEOs and other executives, recommends financial and other targets to be achieved under those programs, prepares analyses of financial data, peer comparisons and other briefing materials for the Committee in making its decisions, and, ultimately, implements the decisions of the Committee. 
+Assessing Competitive Compensation Practices 
+The Committee reviews general industry survey data, as well as compensation practices and pay opportunities for a selection of publicly-traded U.S. companies that the Company competes with from a business and executive talent perspective (the "Peer Group"). The Company and the Committee have regularly utilized a Peer Group as part of the annual benchmarking process. From time to time, the Committee has undertaken a review of the Peer Group to ensure it remains a reasonable and appropriate tool to utilize for both pay level and pay design benchmarking purposes. A review of the Peer Group was conducted during fiscal 2018 with no significant changes. The Peer Group companies were chosen based on their alignment with the Company, as reflected in the following characteristics:  
+[BEGIN TABLE]
+• Reasonably comparable market capitalization and annual revenues 
+• Global scope and complexity  
+• End-market diversification 
+• Similar growth strategies 
+[END TABLE]
+[BEGIN TABLE]
+Altra Industrial Motion Corp Crane Co IDEX Corp Standex International Corp 
+AO Smith Corp EnerSys John Bean Technologies Corp TriMas Corp 
+Barnes Group Inc EnPro Industries, Inc Kennametal Inc Woodward, Inc 
+Belden Inc Graco Inc Lincoln Electric Holdings Inc   
+Brady Corp Harsco Corp Nordson Corp   
+Briggs & Stratton Corp Hillenbrand, Inc Rexnord Corp   
+[END TABLE]
+In addition to Peer Group compensation data, the Committee uses a broad set of data from the Willis Executive Compensation Market Analysis Survey to obtain compensation information and an understanding of executive compensation trends. The Willis survey data represents all participants in their database, with the exclusion of the financial services and the energy services industries. The Committee does not determine the companies that are included in the Willis survey data. The data (far in excess of 400 listed companies) is adjusted to reflect an organization of our revenue size. The data is reviewed in aggregate and on an individual basis by the Committee and provides the primary reference point for making compensation related decisions. The Committee believes that this survey data, together with the compensation practices of the Peer Group and CEO recommendations (for other NEOs based on experience, expertise and demonstrated performance), accurately defines competitive market compensation for executive talent.
+Target Level Compensation Determination 
+To determine NEO compensation, the Committee considers factors such as the level of responsibility, skills and experiences required by the position, the executive's qualifications, our ability to replace such individual, the overall competitive environment, current and historical compensation levels, performance in the role, length of service, the Committee's view of internal equity and consistency and other considerations it may feel are relevant. In analyzing these factors, the Committee reviews competitive compensation data and targets at the 50th percentile of pay for Total Direct Compensation (base salary, annual cash bonus and equity incentive awards). In some cases, individual components may be over market (in order to emphasize a particular element or if individual circumstances dictate), but the total compensation package is market competitive and will generally not exceed the 75th percentile of market at target. 
+Components of Executive Compensation
+We seek to pay our executives fairly and competitively and to link pay with performance. The main elements of our compensation program are base salary, a short-term incentive in the form of an annual cash bonus, and long-term equity incentive awards. We emphasize compensation opportunities that reward our executives when they deliver targeted financial results. A significant portion of our executives' compensation is equity-based. For fiscal 2018, incentive compensation at target (annual cash bonus and equity incentive awards) accounted for approximately 80% of Mr. Baker's Total Direct Compensation opportunity and approximately 63% of the average Total Direct Compensation opportunity of the other NEOs.
+Base Salary
+Base salaries are reviewed annually and established considering the scope and complexity of the role, market competitiveness, individual performance and Company operating performance. Individual performance is evaluated based on achievement of established goals and objectives related to business performance and leadership. Generally changes in base salary are the result of an annual merit increase, promotion, change in role or market adjustment. Base salary increases for NEOs occurred in January 2018 and were in the 2% to 5% range, reflecting annual merit adjustments. Annual Bonus
+Our NEOs, along with other leaders and substantially all U.S. employees, have an opportunity to earn an annual cash bonus based on achievement of certain performance objectives. The three performance metrics implemented within the annual bonus plan are Core Sales Growth, EBITDA Margin% and Free Cash Flow. The exhibit below illustrates the fiscal 2018 bonus plan design.
+Annual bonus opportunity percentages vary by NEO and are determined based on their scope of duties and responsibilities as well as market and peer group data. Annual bonus achievement can range from 0% to 200% of the target annual bonus based on actual performance.  The following table summarizes the fiscal 2018 annual bonus opportunity and weighting for each NEO.
+[BEGIN TABLE]
+    Annual Bonus Opportunity as a% of Base Salary  Weighting of Components of Target Annual Bonus
+    Annual Bonus Opportunity as a% of Base Salary  Weighting of Components of Target Annual Bonus
+Name   Threshold   Target   Maximum   Actuant Core Sales  Actuant EBITDA Margin%   Segment Core Sales   Segment EBITDA Margin%   Actuant Free Cash Flow 
+Randal W. Baker   0%   100%   200%   33.3%   33.3%   —   —   33.4% 
+Rick T. Dillon   0%   70%   140%   33.3%   33.3%   —   —   33.4% 
+Roger A. Roundhouse   0%   60%   120%   —   —   33.3%   33.3%   33.4% 
+John Jeffrey Schmaling (1)   0%   60%   120%   33.3%   33.3%   —   —   33.4% 
+André L. Williams   0%   60%   120%   33.3%   33.3%   —   —   33.4% 
+Theodore C. Wozniak (2)   0%   60%   120%   33.3%   33.3%   —   —   33.4% 
+(1)  In accordance with his offer letter dated January 24, 2018, Mr. Schmaling received a full year earned bonus payout. Due to significant restructuring efforts in the Industrial and Energy Segment, it was decided by the compensation committee to payout Mr. Schmaling on the Corporate scale.   
+(2)  Mr. Wozniak did not receive a bonus payout in fiscal 2018 due to his departure from the Company in December 2017. 
+[END TABLE]
+The annual bonus earned is based on performance against approved Core Sales, EBITDA Margin% and Free Cash Flow scales, which are established by the Committee in the first quarter of the fiscal year, considering financial plans, market conditions, year-over-year performance, non-recurring projects, and the general economic environment. Core Sales represents the net sales change between years excluding the impact of acquisitions, divestitures and foreign currency rate changes. EBITDA, Free Cash Flow and Free Cash Flow Conversion are calculated as illustrated in the "Reconciliation of GAAP Measures to Non-GAAP Measures" included in our 2018 Annual Report to Shareholders which accompanies this Proxy Statement. Following the completion of a fiscal year, the Committee approves annual bonus payouts based on the extent to which targets were achieved. Fiscal 2018 annual bonus achievement for our corporate executives is shown below:
+[BEGIN TABLE]
+    Fiscal 2018 Bonus Scale   Fiscal 2018 Bonus Achievement 
+    Threshold       Target Maximum   Result   Bonus Payout% 
+    0%   50%   100% 200%     
+Consolidated Core Sales Metric    0.0%   1.5%   2.5% 5.5%   6.0%   200.0% 
+Consolidated EBITDA Margin% Metric   12.2%   12.9%   13.6% 15.6%   12.3%   7.7% 
+[END TABLE]
+Actuant generated $99.8 million free cash flow for fiscal 2018 which resulted in a 148% achievement for this metric. The blended result of the achievement outcomes above is a bonus payout of 119% for our corporate executives for fiscal 2018. These financial measures can be impacted by a variety of non-recurring or extraordinary items (e.g., acquisitions, divestitures, business restructuring, accounting rule changes, etc.) and actual results may be adjusted for these items if not contemplated in the target setting process. All adjustments to the annual bonus financial results are reviewed and approved by the Committee. 
+In order to illustrate the historical level of performance against annual bonus targets, the following table summarizes the actual annual bonus payout percentages achieved by our corporate executives (expressed as a percentage of the target annual bonus level) for each of the last five fiscal years:
+[BEGIN TABLE]
+Fiscal Year   Annual Bonus Payout 
+2014   7% 
+2015   0% 
+2016   4% 
+2017   58% 
+2018   119% 
+[END TABLE]
+Equity Compensation
+We believe that a significant portion of Total Direct Compensation should be made in the form of equity compensation due to the strong alignment created with shareholders.  If our stock price declines, so does the value of the NEOs' compensation, and vice versa.  For our NEOs, the Committee approves a target award value based on Willis benchmarking data, and other applicable factors such as internal equity and individual contributions. Beginning in fiscal 2018 and going forward for the foreseeable future, equity awards for NEOs were and will be allocated 50% in performance shares and 50% in restricted stock in order to align with the equity allocation practices of the Peer Group. Historically, equity awards for NEOs have been allocated in the form of 35% in stock options, 35% in restricted stock units and 30% in performance shares.
+ The following describes each type of award:
+Performance Based Restricted Stock ("Performance Shares")—Our Performance Share awards have a three-year performance period, with vesting based 50% on achievement of an absolute Free Cash Flow Conversion target and 50% on the Company's TSR relative to the S&P 600 SmallCap Industrial Index (approximately 90 companies).  New three-year performance cycles start annually with grants near the beginning of each fiscal year. The Committee designed the plan to include both TSR and Free Cash Flow Conversion elements to emphasize the importance of these two metrics to the long-term success of the Company. TSR aligns the interests of shareholders and executives, while strong Free Cash Flow Conversion helps ensure adequate cash generation to fund Company growth, dividends and stock buybacks. The targets and vesting scale for Performance Shares granted in fiscal 2018 were as follows:
+[BEGIN TABLE]
+Measure   Threshold   Target   Maximum 
+Vesting Scale (as a percentage of Target)   50%   100%   150% 
+Relative TSR Percentile   25th   50th   75th 
+Free Cash Flow Conversion   100%   115%   140% 
+[END TABLE]
+The target and actual shares vested for the recently completed three-year performance periods are summarized as follows (in aggregate for all NEOs):
+[BEGIN TABLE]
+Performance Period Ended   Target Shares   Actual Shares Vested% of Target Shares Vested 
+August 31, 2016   4,699   2,963   63% 
+August 31, 2017   10,570   7,769   74% 
+August 31, 2018 (1)   6,353   6,939   109% 
+[END TABLE]
+           (1) Mr. Roundhouse is the only NEO with shares vesting from the fiscal 2016 Performance Share Grant. The three-year measurement period for the fiscal 2016 Performance Share grant ended August 31, 2018 and the vesting level achieved is shown below:    
+[BEGIN TABLE]
+    Threshold       (50%)   Target             (100%)   Maximum      (150%)   Actual Relative TSR Percentile   Actual Vesting for Relative TSR Percentile 
+Relative TSR Percentile   25th   50th   75th   33rd   66% 
+    Threshold       (50%)   Target             (100%)   Maximum      (150%)   Actual Cash Flow Conversion   Actual Vesting for Free Cash Flow Conversion 
+Free Cash Flow Conversion   100%   115%   140%   148%   150% 
+[END TABLE]
+  The following tables summarize threshold, target and maximum restricted stock share opportunities for the fiscal 2017 and fiscal 2018 Performance Share grants for eligible NEOs as of August 31, 2018: 
+[BEGIN TABLE]
+    2017 Performance Shares Grant 
+Name   Threshold   Target   Maximum 
+Randal W. Baker   —   33,044   49,566 
+Rick T. Dillon   —   6,004   9,006 
+Roger A. Roundhouse   —   6,873   10,310 
+[END TABLE]
+[BEGIN TABLE]
+    2018 Performance Shares Grant 
+Name   Threshold   Target   Maximum 
+Randal W. Baker   —   47,853   71,780 
+Rick T. Dillon   —   10,026   15,039 
+Roger A. Roundhouse   —   10,026   15,039 
+John Jeffrey Schmaling   —   10,191   15,287 
+André L. Williams   —   4,557   6,836 
+Theodore C. Wozniak(1)   —   —   — 
+[END TABLE]
+(1) Mr. Wozniak did not receive a fiscal 2018 Performance Shares grant due to his departure from the Company in December 2017.
+Restricted Stock Units and Awards—Restricted stock units and awards granted prior to January 2017 generally vested 50% after three years with the remaining 50% vesting after five years. Restricted stock awarded in January 2018 and thereafter generally vests in equal installments over a three-year period. The Committee has the ability to vary the vesting schedule for new grants. Individuals granted restricted stock units have the ability to defer receipt and taxability of the shares beyond their normal vesting dates into the Employee Deferred Compensation Plan by providing written notice to the Company at least twelve months in advance of the award's scheduled vest date.
+Stock Options—Stock options granted to NEOs generally become 50% exercisable three years after the grant date with the remaining 50% exercisable after five years. The Committee has the ability to vary both the term and vesting schedule for new stock option grants in accordance with the plan. All options are granted following the Committee's authorization, with an exercise price equal to the closing market price on the date of grant and have a ten-year term. Stock option back-dating or re-pricing is expressly prohibited. To the extent stock options are granted in the future, the Committee has currently determined that stock options will vest in equal installments over a three-year period. The Committee concluded that a shorter vesting period would enhance retention and the practice is more aligned with the practices of the Peer Group.
+ Practices Regarding the Grant of Equity Compensation
+The Committee has generally followed a practice of making annual equity grants to its NEOs on a single date each year, when all material information is publicly available. In fiscal 2018, the Committee granted the equity awards at its regularly scheduled January 2018 meeting. Performance Shares were granted in October 2017 near the beginning of the three-year performance period. While the vast majority of awards to NEOs have historically been made as part of our annual grant program, the Committee occasionally makes awards to NEOs or other employees at other times, such as in connection with hiring, promotions or for retention purposes.    In August 2015, the Board approved an Investment/Matching Restricted Stock Grant Program ("the Program") for senior executives of the Company. Under this Program the Company granted one share of restricted stock or restricted stock unit (the "Matching Shares") for every two shares of Company common stock purchased by an eligible senior executive. The maximum value of the stock that could be purchased was limited to: $5 million for the Company's CEO and $2 million for each of the other NEOs. Contingent upon the senior executive continuing to hold the purchased shares and remaining an employee with the Company or a member of the Board, the Matching Shares cliff vest on the third anniversary of the grant date; provided, however, that the Matching Shares fully vest in the event of (a) a termination of employment without cause; (b) the death or total and permanent disability of the senior executive; or (c) material reduction in authority, responsibility or duties. The program ended in FY17. Our CEO was the only NEO to take advantage of the program in FY17. The following table summarizes the grant date fair value of restricted stock awards (based on the market price of the shares on the grant date) made to each NEO during each of the last three fiscal years:
+[BEGIN TABLE]
+            Non-Routine Stock Awards     
+Name   Year    Routine Stock Awards   Employment Transition Stock Awards    Retention Stock Awards    Matching Shares (1)    Total Stock Awards 
+Randal W. Baker   2018   $ 2,625,009     $ —     $ —     $ —     $ 2,625,009   
+    2017   2,374,977     —     —     282,500     2,657,477   
+    2016   1,150,000     —     —     174,423     1,324,423   
+Rick T. Dillon   2018   $ 549,987     $ —     $ —     $ —     $ 549,987   
+    2017   357,484     599,988     —     —     957,472   
+Roger A. Roundhouse   2018   $ 549,987     $ —     $ —     $ —     $ 549,987   
+    2017   337,986     —     —     —     337,986   
+    2016   299,000     —     731,100     104,880     1,134,980   
+John Jeffrey Schmaling(2)   2018   $ —     $ 500,007     $ —     $ —     $ 500,007   
+André L. Williams   2018   $ 249,987     $ —     $ —     $ —     $ 249,987   
+    2017   —     375,009     —     —     375,009   
+Theodore C. Wozniak (3)   2018   $ —     $ —     $ —     $ —     $ —   
+    2017   179,999     —     —     —     179,999   
+    2016   149,998     —     —     —     149,998   
+(1)  The ability for NEOs to receive Matching Shares under the Program expired in March 2016 for all NEOs, with the exception of Mr. Baker who was provided matching eligibility through October 2016 in accordance with the terms of his offer letter dated February 24, 2016. 
+(2)  Mr. Schmaling received a new hire grant consistent with his offer letter dated January 18, 2018 which vests in equal installments over 3 years. 
+(3)  Mr. Wozniak did not receive a stock grant in fiscal 2018 due to his departure from the Company in December 2017. 
+[END TABLE]
+Retirement and Other Benefits
+We provide benefit programs to our employees, including executives and our NEOs, to attract and retain them as well as to provide a competitive total compensation program. Actuant's benefits philosophy is to generally provide similar benefit programs for all non-bargaining unit employees, including our NEOs. However, modifications may be made in cases where IRS limits or other regulations prevent equitable treatment or for competitive positioning purposes. The following table summarizes such benefit plans and eligibility (for our U.S. employees): 
+[BEGIN TABLE]
+Type of Benefit    NEOs    Certain Other Executives and High Level Managers   Most Other Full Time Employees
+Type of Benefit    NEOs    Certain Other Executives and High Level Managers   Most Other Full Time Employees
+401(k) Retirement Plan    ü    ü    ü 
+Supplemental Executive Retirement Plan (SERP)    ü    Selectively    Not Offered 
+Employee Deferred Compensation Plan    ü    ü    Selectively 
+Medical/Dental/Vision Insurance    ü    ü    ü 
+Annual Physical    ü    Selectively    Not Offered 
+Life and Disability Insurance    ü    ü    ü 
+Supplemental Life and Disability Insurance    ü    Selectively    Not Offered 
+Employee Stock Purchase Plan    ü    ü    ü 
+Vacation    ü    ü    ü 
+Tuition Reimbursement Plan    ü    ü    ü 
+Automobile Allowance/Leased Vehicle    ü    Selectively    Selectively 
+Financial Planning Services    ü    Selectively    Not Offered 
+Personal Use of Company Aircraft    ü    Selectively    Not Offered 
+[END TABLE]
+Supplemental Executive Retirement Plan ("SERP")
+The SERP covers certain executive level employees (including the NEO's) and is designed to improve the competitive positioning of our retirement programs, reward long-service employees and support executive retention and recruiting efforts. The SERP is a nonqualified defined contribution plan and the benefit is calculated by applying a SERP multiplier to total eligible compensation in a given year (base salary plus annual paid bonus). The SERP multiplier ranges from 3-6%, and is determined by a formula that takes into account the executive's age and years of service. SERP contributions are credited to a notional interest bearing account and vest after five years of service or when the executive turns 60. The targeted combined annual NEO retirement contribution between the SERP and 401(k) Plan is approximately 7-10.5% of cash compensation, depending on age and years of service.
+Employee Deferred Compensation Plan
+We also offer a deferred compensation plan that allows U.S. employees with base salary over $120,000 to defer cash compensation and associated taxes until retirement or termination of employment. Investment options include an interest bearing account and/or a common stock account. As a result of the unfunded nature of the plan, compensation deferrals are essentially unsecured loans from employees to the Company. Each year the Committee determines the interest rate for new deferrals, taking into account current market rates. The stock account return mirrors the performance of Actuant's stock price. Shares of common stock equal to the value of deferred contributions into that account are transferred by the Company into a rabbi trust. When distributed, deferred amounts invested in the interest account are paid out in cash while an appropriate number of shares of common stock (plus accrued dividends) are released from the rabbi trust to satisfy common stock fund distributions.
+In addition, the Employee Deferred Compensation Plan allows all employees in the U.S. with annual eligible compensation in excess of $270,000, to receive their 401(k) core contribution, calculated as if no IRS limits were in place ("Restoration Contribution"). We believe that it is not equitable, or market competitive, to limit the Company core contribution to the 401(k) Plan based on IRS compensation and contribution limits. All Company core contributions pursuant to the Deferred Compensation Plan are deemed to be invested in Actuant common stock and are credited to participant's Deferred Compensation Plan Core Contribution Stock Fund.   Other Benefits
+We provide perquisites to help executives be more productive and efficient, to provide protection from potential business risk and as a competitive compensation measure. They are limited in amount, and we maintain a strict policy regarding the eligibility and use of these benefits which include financial planning and use of the company airplane. Annual NEO personal use of the plane (which is reviewed by the Committee at least annually) is capped at 24 hours of flight time for the CEO and 12 hours for all other NEOs. The other benefits earned by our NEOs in fiscal 2018 are included in the "All Other Compensation Table" on page 26.
+Tax Deductibility of Executive Compensation
+Section 162(m) of the Internal Revenue Code limits the tax deductibility of compensation that we pay to each NEO to $1 million in any year. This limitation does not apply to the CFO or performance based compensation for other NEOs if certain conditions are met. While the Committee generally intends for payments under certain of our incentive plans to meet the criteria for tax deductibility under the provisions of the Internal Revenue Code, the Committee retains full discretion and flexibility in structuring compensation programs that are designed to attract, reward and retain successful executives, even if not fully deductible.  
+Stock Ownership Requirements
+Ownership of Actuant stock by our executives directly aligns their interests with shareholders. Accordingly, the Board maintains stock ownership guidelines for our NEOs equal in value to a multiple of their base salary. 
+[BEGIN TABLE]
+Position   Multiple of Base Salary Required to be held in Actuant Stock
+Position   Multiple of Base Salary Required to be held in Actuant Stock
+CEO   5X 
+Other NEOs   3X 
+[END TABLE]
+Executives are expected to hold all of their shares until the ownership requirements are met. Those who have not reached their specified targets are required to hold 50% gross value of the shares they receive so that they meet their requirements in a timely manner, with the 50% balance available to cover related income tax obligations.   
+Anti-Hedging Policy
+Actuant maintains a policy that prohibits employees from engaging in short-term or speculative transactions involving its common stock. This policy prohibits trading in Company common stock on a short-term basis, engaging in short sales, buying and selling puts and calls, and discourages the practice of purchasing the Company's stock on margin.
+Compensation Clawback Policy
+ We have a compensation clawback policy for executive officers, which defines the economic consequences that misconduct could have on their compensation.  In the event of a financial restatement due to fraud or misconduct as determined by the Board of Directors, the responsible executive must reimburse the Company for their annual cash bonus, as well as equity based awards or other performance-based compensation paid to the executive based on the financial results that were the subject of the restatement.
+Conclusion
+We believe that we have designed an executive compensation program that effectively links pay and performance and is in the best long-term interests of our shareholders. As indicated in our Compensation Committee Charter, we will continue to evaluate our executive compensation program to ensure future alignment in our compensation program and practices. Shareholder input will continue to be an important consideration in our annual executive compensation evaluation process. Compensation Committee Report
+The Committee has reviewed and discussed the Compensation Discussion and Analysis required by Item 402(b) of Regulation S-K with management and, based on such review and discussions, the Committee recommended to the Board of Directors that the Compensation Discussion and Analysis be included in this Proxy Statement and incorporated by reference into our Annual Report on Form 10-K.
+THE COMPENSATION COMMITTEE
+Holly A. Van Deursen, Chairperson
+Alfredo Altavilla
+Palmer Clarkson
+E. James Ferland, Jr.
+Richard D. Holder Summary Compensation Table
+The following table sets forth the total compensation applicable to the fiscal years ended August 31, 2018, 2017 and 2016 by the NEOs:
+[BEGIN TABLE]
+Name & Principal Position   Year   Salary ($)   Stock Awards ($) (7)   Option Awards ($) (8)   Annual Bonus ($) (9)   Non-qualified Deferred Compensation Earnings ($) (10)   All Other Compensation ($) (11)   Total ($) 
+Randal W. Baker (1)   2018   $ 867,000     $ 2,625,009     $ —     $ 1,028,262     $ 2,226     $ 134,350     $ 4,656,847   
+President and Chief Executive Officer   2017   850,000     1,907,495     875,059     496,400     879     120,514     4,250,347   
+    2016   405,385     1,324,423     1,150,000     212,500     —     39,641     3,131,949   
+Rick T. Dillon (2)   2018   $ 463,500     $ 549,987     $ —     $ 384,798     $ —     $ 157,706     $ 1,555,991   
+Executive Vice President and Chief Financial Officer   2017   320,192     957,472     392,531     183,960     —     409,468     2,263,623   
+Roger A. Roundhouse (3)   2018   $ 441,000     $ 549,987     $ —     $ 371,016     $ 906     $ 82,042     $ 1,444,951   
+Executive Vice President - Engineered Components & Systems Segment   2017   420,000     337,986     182,000     299,376     908     54,368     1,294,638   
+    2016   405,000     1,134,980     160,991     —     583     59,709     1,761,263   
+John Jeffrey Schmaling (4)   2018   $ 233,654     $ 500,007     $ —     $ 320,220     $ —     $ 38,075     $ 1,091,956   
+Executive Vice President - Industrial Tools & Services Segment                                 
+André L. Williams (5)   2018   $ 330,000     $ 249,987     $ —     $ 234,828     $ —     $ 53,888     $ 868,703   
+Executive Vice President - Human Resources                                 
+Theodore C. Wozniak (6)   2018   $ 153,231     $ —     $ —     $ —     $ 45,679     $ 590,496     $ 789,406   
+Executive Vice President, Business Development    2017   415,000     179,999     179,966     145,416     45,011     67,155     1,032,547   
+    2016   405,000     210,418     150,004     8,465     47,971     56,313     878,171   
+[END TABLE]
+[BEGIN TABLE]
+(1)  Mr. Baker joined the company in March 2016 and therefore his base salary in 2016 represents actual salary earned since then. Fiscal 2016 stock awards include the non-routine awards described on page 21. Mr. Baker's fiscal 2016 annual bonus was the minimum bonus awarded in his offer letter dated February 24, 2016. 
+(2)  Mr. Dillon joined the Company in December 2016 and therefore base salary represents actual salary earned since then. His annual salary at August 31, 2017 was $450,000. Mr. Dillon also received a $600,000 restricted stock grant and $200,000 option grant upon joining the Company. Further, fiscal 2017 stock awards include the non-routine awards described on page 21. Mr. Dillon's fiscal 2017 annual bonus was based on full year bonus as stated in his offer letter dated November 10, 2017. 
+(3)  Mr. Roundhouse's fiscal 2016 stock awards include the non-routine awards described on page 21. 
+(4)  Mr. Schmaling joined the company in February 2018 and therefore his base salary in 2018 represents actual salary earned since then. His annual salary at August 31, 2018 was $450,000. Mr. Schmaling also received a $250,000 restricted stock grant and $250,000 performance share grant upon joining the Company.  Further, fiscal 2018 stock awards include the non-routine awards described on page 21. Mr. Schmaling's fiscal 2018 annual bonus was based on full year bonus as stated in his offer letter dated January 18, 2018. 
+(5)  Mr. Williams was promoted to the Executive Vice President - Human Resources position on September 6, 2017. 
+(6)  Mr. Wozniak departed the company on December 31, 2017 and therefore fiscal 2018 base salary represents actual salary earned prior to his departure. 
+(7)  Amounts reflect the aggregate grant date fair value of restricted stock and Performance Share awards and Investment/Matching Restricted Stock as described in detail under "Non-Routine Stock Awards". The amount was determined by multiplying the grant date fair value of the award by the number of restricted shares/units granted, or the number of Performance Shares awarded (assuming a payout at target). As described on page 19, Performance Share vesting ranges from 0% to 150% of target. At August 31, 2018, the value of outstanding unvested Performance Shares at the maximum payout of 150% is summarized in the following table: 
+Name   2018 Grant   2017 Grant 
+Randal W. Baker   $ 2,113,906     $ 1,459,719   
+Rick T. Dillon   442,899     265,227   
+Roger A. Roundhouse   442,899     303,615   
+John Jeffrey Schmaling   450,187     -   
+André L. Williams   201,305     -   
+[END TABLE]
+[BEGIN TABLE]
+(8)  Amounts represent the aggregate grant date fair value of options utilizing a binomial pricing model. The amounts do not represent the realized or unrealized earnings or value earned in the respective year. Actual realization of value or earnings under equity compensation plans is related to common stock share price appreciation. No option grants were made in fiscal 2018. 
+(9)  Reflects amounts earned under the Annual Bonus plan. Amounts are paid in the first quarter of the subsequent fiscal year. For additional information on the Annual Bonus plan, see page 18. 
+(10)  Reflects the portion of interest earned in the Employee Deferred Compensation Plan and Supplemental Executive Retirement Plan that exceeds the SEC benchmark "market" rate of  2.28%, 3.09% and 3.55% in 2016, 2017 and 2018, respectively (120% of the applicable federal long term rate). See page 22 for information on the Employee Deferred Compensation Plan, and page 30 for NEO activity in this plan. 
+(11)  Reflects all other compensation, as summarized in the following table: 
+Name   Year   401(k) Core and Match   401(k) Restoration (1)   SERP (2)   Automobile Allowance   Supplemental Life & Disability Insurance   Executive Physical   Personal Use of Company Plane (3)   Club Dues   Financial Planning   Relocation Expense    Other (4)   Total 
+Randal W. Baker   2018   $ 12,375     $ 32,625     $ 54,301     $ 10,414     $ 4,083     $ 7,753     $ 12,800     $ —     $ —     $ —     $ —     $ 134,350   
+    2017   12,150     23,925     42,500     7,182     4,083     4,874     25,800     —     —     —     —     120,514   
+    2016   12,150     4,212     16,215     —     2,739     4,325     —     —     —     —     —     39,641   
+Rick T. Dillon   2018   $ 12,375     $ 11,184     $ 19,284     $ 12,303     $ 4,936     $ 6,086     $ 15,500     $ —     $ 6,310     $ 69,728     $ —     $ 157,706   
+    2017   12,150     10,656     9,606     —     —     —     12,000     —     —     65,056     300,000     409,468   
+Roger A. Roundhouse   2018   $ 12,375     $ 13,893     $ 29,324     $ 17,226     $ 4,838     $ —     $ —     $ —     $ 4,385     $ —     $ —     $ 82,041   
+    2017   12,150     4,494     16,592     10,633     3,916     —     —     —     6,583     —     —     54,368   
+    2016   12,150     4,044     15,992     9,479     3,577     7,507     —     —     6,960     —     —     59,709   
+John Jeffrey Schmaling   2018   $ 10,090     $ —     $ 9,346     $ 16,053     $ 2,586     $ —     $ —     $ —     $ —     $ —     $ —     $ 38,075   
+André L. Williams   2018   $ 12,107     $ 3,703     $ 19,672     $ 8,272     $ 2,572     $ 7,562     $ —     $ —     $ —     $ —     $ —     $ 53,888   
+Theodore C. Wozniak   2018   $ —     $ —     $ —     $ 13,625     $ —     $ 6,168     $ —     $ —     $ —     $ 7,665     $ 563,038     $ 590,496   
+    2017   12,150     4,650     25,200     11,744     4,610     —     8,800     —     —     —     —     67,155   
+    2016   12,150     4,072     20,025     11,692     4,049     4,325     —     —     —     —     —     56,313   
+[END TABLE]
+[BEGIN TABLE]
+(1)  Represents Company Restoration Contribution to the Employee Deferred Compensation Plan, as described on page 22. 
+(2)  Represents Company contribution to the SERP plan as described on page 22. 
+(3)  The income for personal use of the Company plane was determined by calculating the incremental cost including fuel, pilot and other variable costs. 
+(4)  Represents termination/severance amounts in fiscal 2018 for Mr. Wozniak and sign-on bonus in fiscal 2017 for Mr. Dillon. 
+[END TABLE]
+ Grants of Plan-Based Awards
+The following table sets forth the equity compensation awards in fiscal 2018, as well as the potential range of payouts for fiscal 2018 under the Annual Bonus plan:
+[BEGIN TABLE]
+    Grant Date   Estimated Future Payouts Under Annual Bonus (1)   Estimated Future Vesting Under Equity Incentive Plan Awards (2)   All Other Stock Awards: Number of Shares (#) (3)   All Other Option Awards: Number of Securities Underlying Options (#) (4)   Exercise or Base Price of Option Awards ($/Sh)   Grant Date Fair Value of Stock and Option Awards ($) (5) 
+Name   Threshold ($)   Target ($)   Maximum ($)   Threshold (#)   Target (#)   Maximum (#)   
+Randal W. Baker   10/17/2017   —     —     —     —     22,661     33,992     —     —     $ 28.96     $ 656,263   
+    10/17/2017   —     —     —     —     25,192     37,788     —     —     26.05     656,252   
+    1/22/2018   —     —     —     —     —     —     50,191     —     26.15     1,312,495   
+    n/a   —     $ 867,000     $ 1,734,000                               
+Rick T. Dillon   10/17/2017   —     —     —     —     4,748     7,122     —     —     $ 28.96     $ 137,502   
+    10/17/2017   —     —     —     —     5,278     7,917     —     —     26.05     137,492   
+    1/22/2018   —     —     —     —     —     —     10,516     —     26.15     274,993   
+    n/a   —     $ 324,450     $ 648,900                               
+Roger A. Roundhouse   10/17/2017   —     —     —     —     4,748     7,122     —     —     $ 28.96     $ 137,502   
+    10/17/2017   —     —     —     —     5,278     7,917     —     —     26.05     137,492   
+    1/22/2018   —     —     —     —     —     —     10,516     —     26.15     274,993   
+    n/a   —     $ 264,600     $ 529,200                               
+John Jeffrey Schmaling(6)   2/12/2018   —     —     —     —     4,826     7,239     —     —     $ 25.90     $ 124,993   
+    2/12/2018   —     —     —     —     5,365     8,048     —     —     23.30     125,005   
+    2/12/2018   —     —     —     —     —     —     10,730     —     23.30     250,009   
+    n/a   —     $ 270,000     $ 540,000                               
+André L. Williams   10/17/2017   —     —     —     —     2,158     3,237     —     —     $ 28.96     $ 62,496   
+    10/17/2017   —     —     —     —     2,399     3,599     —     —     26.05     62,494   
+    1/22/2018   —     —     —     —     —     —     4,780     —     26.15     124,997   
+    n/a   —     $ 198,000     $ 396,000     —     —     —     —     —     —     —   
+Theodore C. Wozniak   n/a   —     —     —                               
+[END TABLE]
+[BEGIN TABLE]
+(1)  These columns show the range of payouts under the fiscal 2018 Annual Bonus plan described on page 18. The actual bonuses earned under this plan are included in the Summary Compensation Table on page 25. Since Mr. Wozniak departed the Company effective December 2017, he was not eligible for a 2018 bonus and therefore bonus payout ranges are not provided. 
+(2)  Reflects Performance Shares granted in fiscal 2018 under the Company's 2017 Omnibus Plan. Refer to page 19 "Equity Compensation-Performance Based Restricted Stock" for further details on these awards. 
+(3)  Reflects restricted stock granted in fiscal 2018 under the Company's 2017 Omnibus Plan. 
+(4)  No option grants were made in fiscal 2018 
+(5)  The fair value of restricted stock awards is based on the market price of the shares on the grant date or a simulation model (Monte Carlo), depending on the type of performance condition, while the fair value of the option awards is determined using a binomial pricing model. Refer to our Annual Report on Form 10-K for details regarding assumptions utilized to value share based awards. 
+(6)  Mr. Schmaling joined the Company in February 2018, but his annual bonus opportunity was not pro-rated based on actual months employed. Mr. Schmaling also received a $250,000 restricted stock grant and $250,000 performance share grant upon joining the Company. 
+[END TABLE]
+ Outstanding Equity Awards at Fiscal Year-End
+[BEGIN TABLE]
+    Option Awards   Stock Awards     Performance Awards (2) 
+Name   Date of Grant  Number of Securities Underlying Options (#) Exercisable  Number of Securities Underlying Options (#) Unexercisable  Option Exercise Price ($)  Option Expiration Date  Number of Shares or Units of Stock That Have Not Vested (#)  Market Value of Shares or Units of Stock That Have Not Vested ($) (1)    Number of Shares or Units of Stock That Have Not Vested (#)  Market Value of Shares or Units of Stock That Have Not Vested ($) (1)
+Name   Date of Grant  Number of Securities Underlying Options (#) Exercisable  Number of Securities Underlying Options (#) Unexercisable  Option Exercise Price ($)  Option Expiration Date  Number of Shares or Units of Stock That Have Not Vested (#)  Market Value of Shares or Units of Stock That Have Not Vested ($) (1)    Number of Shares or Units of Stock That Have Not Vested (#)  Market Value of Shares or Units of Stock That Have Not Vested ($) (1)
+Name   Date of Grant  Number of Securities Underlying Options (#) Exercisable  Number of Securities Underlying Options (#) Unexercisable  Option Exercise Price ($)  Option Expiration Date  Number of Shares or Units of Stock That Have Not Vested (#)  Market Value of Shares or Units of Stock That Have Not Vested ($) (1)    Number of Shares or Units of Stock That Have Not Vested (#)  Market Value of Shares or Units of Stock That Have Not Vested ($) (1)
+Randal W. Baker   3/21/2016   —     120,441     $ 24.42   (4) 3/21/2026     47,092     $ 1,386,859   (4)   —     —   
+    4/4/2016   —     —     —     —     2,031     59,813   (6)   —     —   
+    7/11/2016   —     —     —     —     5,397     158,942   (6)   —     —   
+    10/14/2016   —     —     —     —     12,500     368,125   (6)   —     —   
+    10/18/2016   —     —     —     —     —     —       33,044     $ 973,146   
+    1/16/2017   —     73,130     26.95   (4) 1/16/2027     21,646     637,475   (5)   —     —   
+    10/17/2017   —     —     —     —     —     —       47,853     1,409,271   
+    1/22/2018   —     —     —     —     50,191     1,478,125   (5)   —     —   
+Rick T. Dillon   12/27/2016   —     18,980     $ 26.95   (4) 12/27/2026     11,131     $ 327,808   (3)   —     —   
+    1/16/2017   —     16,090     26.95   (4) 1/16/2027     4,762     140,241   (5)   6,004     $ 176,818   
+    10/17/2017   —     —     —     —     —     —       10,026     295,266   
+    1/22/2018   —     —     —     —     10,516     309,696   (5)   —     —   
+Roger A. Roundhouse   5/5/2014   7,331     —     $ 33.93     5/5/2024     —     —       —     —   
+    1/20/2015   8,236     8,235     22.98   (4) 1/20/2025     3,236     $ 95,300   (4)   —     —   
+    4/6/2015   —     6,000     24.46   (7) 4/6/2025     —     —       —     —   
+    10/30/2015   —     —     —     —     4,600     135,470   (6)   —     —   
+    1/19/2016   —     19,430     21.41   (4) 1/19/2026     7,519     221,435   (4)   —     —   
+    3/17/2016   —     —     —     —     6,668     196,373   (5)   10,000     $ 294,500   
+    10/18/2016   —     —     —     —     —     —       6,873     202,410   
+    1/16/2017   —     15,210     26.95   (4) 1/16/2027     4,502     132,584   (5)   —     —   
+    10/17/2017   —     —     —     —     —     —       10,026     295,266   
+    1/22/2018   —     —     —     1/22/2028     10,516     309,696   (5)   —     —   
+John Jeffrey Schmaling   2/12/2018   —     —     —     —     10,730     $ 315,999   (5)   10,191     $ 300,125   
+André L. Williams   1/16/2017   —     —     —     —     9,277     $ 273,208   (5)   —     —   
+    10/17/2017   —     —     —     —     —     —       4,557     $ 134,204   
+    1/22/2018   —     —     —     —     4,780     140,771   (5)   —     —   
+Theodore C. Wozniak   1/9/2009   4,250     —     —   (8) 1/9/2019     —     —       —     —   
+    1/12/2010   9,250     —     —   (8) 1/12/2020     —     —       —     —   
+    1/14/2011   15,700     —     —   (8) 1/14/2021     —     —       —     —   
+    1/9/2012   12,000     —     —   (8) 1/9/2022     —     —       —     —   
+    1/14/2013   9,982     —     —   (8) 1/14/2023     —     —       —     —   
+    1/19/2016   18,104     —     —   (8) 1/19/2026     —     —       —     —   
+    1/16/2017   15,040     —     —   (8) 1/16/2027     —     —       —     —   
+[END TABLE]
+[BEGIN TABLE]
+(1)  Market value of restricted stock awards and Performance Shares has been computed by multiplying the $29.45 closing price of the Company's common stock on August 31, 2018 (the last trading day of fiscal 2018) by the number of shares awarded. 
+(2)  With the exception of the March 17, 2016 grant to Mr. Roundhouse, awards represent Performance Shares (at target) that include a three-year performance period and vest based on achievement of an absolute Free Cash Flow Conversion target and the Company's TSR percentile relative to the S&P 600 SmallCap Industrial Index. Subsequent to August 31, 2018 and the completion of the three year performance period, the 2016 Performance Share grant (granted on October 19, 2015) vested at 109% of the target level. See "Equity Compensation-Performance Based Restricted Stock" on page 19 for additional details. The March 17, 2016 award to Mr. Roundhouse vests on March 17, 2019 if certain segment-specific EBITDA targets are achieved by August 31, 2018. 
+(3)  Restricted stock vests in equal installments over a two year period. 
+(4)  Fifty percent of the share based award vests on the third anniversary and the balance on the fifth anniversary of the grant date. 
+(5)  Restricted stock vests in equal installments over a three year period. 
+(6)  Restricted stock received in connection with the Investment/Matching Restricted Stock Program vests on the third anniversary of the grant date. 
+(7)  Stock options become exercisable on the fifth anniversary of the grant date. 
+(8)  Mr. Wozniak departed the Company in December 2018. As a condition of his termination, all of Mr. Wozniak's unvested restricted stock and stock options were fully vested. 
+[END TABLE]
+ Equity Awards Exercised and Vested in Fiscal 2018 
+The grant date fair value of equity compensation awards in each of the past three fiscal years is included in the Summary Compensation Table on page 25. However, this does not reflect the actual value realized on past awards, which may be more or less than the target values, depending on the appreciation in the price of the Company's common stock. The following table summarizes the number of shares and the actual value realized by each NEO upon the exercise of options and vesting of restricted stock during fiscal 2018.
+[BEGIN TABLE]
+    Option Awards   Stock Awards 
+Name   Number of Shares Acquired on   Exercise (#)  Value Realized on Exercise ($)(1)   Number of Shares Acquired on   Vesting (#)  Value Realized on Vesting ($)(1) 
+Name   Number of Shares Acquired on   Exercise (#)  Value Realized on Exercise ($)(1)   Number of Shares Acquired on   Vesting (#)  Value Realized on Vesting ($)(1) 
+Randal W. Baker   —     $ —     10,822     $ 101,175   
+Rick T. Dillon   —     —     13,513     121,921   
+Roger A. Roundhouse   —     —     15,156     132,253   
+John Jeffrey Schmaling   —     —     —     —   
+André L. Williams   —     —     4,638     47,574   
+Theodore C. Wozniak   7,000     69,440     34,538     311,570   
+[END TABLE]
+Employee Deferred Compensation
+NEO's participate in the Company's Employee Deferred Compensation Plan and Supplemental Executive Retirement Plan (see page 22 for a description of the plans). 
+[BEGIN TABLE]
+Name   NEO Contributions in Fiscal 2018 (1)  Actuant Contributions  Aggregate Investment Earnings in Fiscal 2018  Aggregate Withdrawals and Distributions  Aggregate Balance at August 31, 2018 (4)
+Name   NEO Contributions in Fiscal 2018 (1)  Actuant Contributions  Aggregate Investment Earnings in Fiscal 2018  Aggregate Withdrawals and Distributions  Aggregate Balance at August 31, 2018 (4)
+Interest (2)   Other (3)   
+Randal W. Baker                         
+Deferred Compensation   $ 43,056     $ 32,625     $ 5,016     $ 3,386     $ —     $ 174,534   
+Supplemental Executive Retirement   —     54,301     3,406     —     —     117,385   
+Rick T. Dillon                         
+Deferred Compensation   $ 6,061     $ 11,184     $ 105     $ 1,050     $ —     $ 29,055   
+Supplemental Executive Retirement   —     19,284     518     —     —     29,407   
+Roger A. Roundhouse                         
+Deferred Compensation   $ —     $ 13,893     $ —     $ 2,754     $ —     $ 31,346   
+Supplemental Executive Retirement   —     29,324     3,518     —     —     89,991   
+John Jeffrey Schmaling                         
+Deferred Compensation   $ —     $ —     $ —     $ —     $ —     $ —   
+Supplemental Executive Retirement   —     9,346     —     —     —     9,346   
+André L. Williams                         
+Deferred Compensation   $ 43,154     $ 3,703     $ 746     $ —     $ —     $ 47,603   
+Supplemental Executive Retirement   —     19,672     —     —     —     19,672   
+Theodore C. Wozniak                         
+Deferred Compensation   $ 36,266     $ —     $ 70,362     $ 71,400     $ —     $ 1,375,176   
+Supplemental Executive Retirement   —     —     16,973     —     —     252,495   
+[END TABLE]
+[BEGIN TABLE]
+(1)  NEO contributions include employee elective deferrals of base salary, annual bonus or restricted stock units (in accordance with the 2017 Omnibus Incentive Plan). 
+(2)  Interest was earned on deferred balances at various rates based on the year that eligible compensation was deferred, with a rate of 6.02% for calendar 2018 contributions. While the interest rates are above the SEC benchmark "market" rate (120% of the applicable federal long-term rate), the Company believes the rates are appropriate as they are reflective of the unsecured and unfunded nature of the Employee Deferred Compensation Plan and Supplemental Executive Retirement Plan. The rates are intended to approximate the rates the Company would pay for similar unsecured loans on the open market. Only the difference between the interest credited to the participant's account and the SEC benchmark "market" rate of 3.55% is included under the caption "Non-qualified Deferred Compensation Earnings" in the Summary Compensation Table on page 25. 
+(3)  Represents gain (loss) on Actuant stock and reinvested dividends included in each NEO's deferred compensation account. 
+(4)  The aggregate balance of August 31, 2018 represents the balance in each NEO's participant account. 
+[END TABLE]
+ Equity Compensation Plan Information
+The following table summarizes information, as of August 31, 2018, relating to our equity compensation plans pursuant to which grants of options, restricted shares or other rights to acquire shares may be granted from time to time.
+[BEGIN TABLE]
+Plan Category   Number of Securities to be Issued Upon Exercise of Outstanding Options, Warrants and Rights (1)  Weighted-Average Exercise Price of Outstanding Options, Warrants, and Rights  Number of Securities Remaining Available for Future Issuance Under Equity Compensation Plans (Excluding Securities Reflected in First Column) (2)
+Plan Category   Number of Securities to be Issued Upon Exercise of Outstanding Options, Warrants and Rights (1)  Weighted-Average Exercise Price of Outstanding Options, Warrants, and Rights  Number of Securities Remaining Available for Future Issuance Under Equity Compensation Plans (Excluding Securities Reflected in First Column) (2)
+Plan Category   Number of Securities to be Issued Upon Exercise of Outstanding Options, Warrants and Rights (1)  Weighted-Average Exercise Price of Outstanding Options, Warrants, and Rights  Number of Securities Remaining Available for Future Issuance Under Equity Compensation Plans (Excluding Securities Reflected in First Column) (2)
+Equity compensation plans approved by security holders (1)   2,922,813     $ 25.40     4,677,163   
+Equity compensation plans not approved by security holders   —     —     —   
+    2,922,813     $ 25.40     4,677,163   
+(2)  The number of securities remaining available for future issuance under equity compensation plans include 4,408,499 shares under the 2017 Omnibus Plan, 44,349 shares under the Actuant Corporation Deferred Compensation Plan and 224,315 shares under the Actuant Corporation 2010 Employee Stock Purchase Plan.  
+[END TABLE]
+Change In Control Payments and Other Separation Agreements
+Other than the separation agreements noted below, the Company does not have employment contracts with any of its NEOs. Whether and to what extent the Company would provide severance benefits to any NEOs upon termination (other than due to a change in control) is discretionary. 
+Change in Control Arrangements
+Change in control agreements are in place with each of the NEOs providing certain benefits upon termination of employment following both a change in control and a triggering event. Such agreements are intended to encourage executives to consider the best interests of shareholders by alleviating any concerns about their own personal financial well-being in the face of a potential change in control of the Company.
+A triggering event is defined as:
+[BEGIN TABLE]
+• a material reduction in the base salary or annual bonus opportunity, or material reduction in the total value of the fringe benefits received by the executive from the Company from prior levels received at the time of a change in control or during the six month period prior to the change in control; 
+• a material reduction in authority and responsibility or a material decrease in the same for the supervisor to whom the executive reports, from the levels existing at the time of a change in control or the six month period prior to the change in control; or 
+• a change in the location or headquarters where the executive is expected to work that is 40 or more miles from the previous location existing at the time of the change in control or during the six month period preceding the change in control. 
+[END TABLE]
+A change in control is defined as:
+[BEGIN TABLE]
+• the acquisition by a person or group of more than 50% of our common stock; 
+• the acquisition by a person or group of assets of the Company that have a total gross fair market value equal to or more than 40% of the total gross market value of all of the assets of the Company immediately before such acquisition; or 
+• the acquisition by a person or group of 30% or more of the total voting power of the stock of the Company; or 
+• a change in the majority of our Board without the endorsement of the existing Board members. 
+[END TABLE]
+The terms of the change in control agreements do not vary by executive, and there are no excise tax gross-ups.  The agreements state that if the Company terminates the executive's employment within a period beginning six months prior to, and up to 24 months after a change of control (the "Triggering Event Period"), that executive is entitled to receive a lump sum payment equal to two annual base salary plus the greater of (i) two times the highest annual bonus earned by the executive during the three complete fiscal years immediately preceding the termination of employment or (ii) two times the amount of the target annual bonus for the executive during the three complete fiscal years immediately preceding the termination of employment.  The lump sum payment would be payable within 20 days after termination of employment. The multiples to be paid in the event of a change-in-control were not determined in relation to the overall compensation guideline, but rather as part of an objective to attract and retain NEOs.  In addition, the executive would continue to receive welfare benefits and perquisites available to that NEO at the time of termination for two years following termination of employment. In addition, if the Company terminates the executive within the Triggering Event Period, any outstanding equity or long-term incentive awards held by the executive immediately prior to termination shall be fully vested  (at target level for performance-based awards)  and, with respect to any stock options, stock appreciation rights or similar awards the executive shall have the full duration of the original exercise period to exercise such award.  
+Certain of our equity compensation plans also contain change in control provisions. Our 2002 Stock Option Plan and 2009 Omnibus Plan allow the Committee to either provide for equivalent substitute options to be granted upon a change in control or the cash-out of options previously granted under such plan based on the fair market value of the stock at the time of such settlement, or, with respect to certain awards, the highest fair market value per share of stock during the 60-day period immediately preceding the change in control. Any stock option deferral program that remains in existence requires distribution of all deferred shares as soon as practicable after the date of a change in control.
+Taking into account the terms of each NEO's change in control agreement, the following table provides the estimated payments upon a change in control for the NEOs as if their employment had been terminated by the Company or by the NEO on August 31, 2018 after a triggering event:
+[BEGIN TABLE]
+Name   Base Salary  Annual Bonus (1)  Stock Options (2)  Stock Awards (3)  Benefits (4)   Total 
+Name   Base Salary  Annual Bonus (1)  Stock Options (2)  Stock Awards (3)  Benefits (4)   Total 
+Randal W. Baker   $ 1,734,000     $ 2,056,524     $ 788,643     $ 6,471,755     $ 112,740     $ 11,163,663   
+Rick T. Dillon   927,000     769,595     87,675     1,249,829     109,292     3,143,391   
+Roger A. Roundhouse   882,000     742,044     277,463     2,070,129     89,099     4,060,734   
+John Jeffrey Schmaling   900,000     630,000     —     616,123     106,635     2,252,758   
+André L. Williams   660,000     630,000     —     548,182     87,642     1,925,825   
+[END TABLE]
+Estimated payments owed to the NEOs upon a change in control, absent termination or a triggering event (as defined on page 31) would be the "Stock Options" and "Stock Awards" columns in the table above. 
+Separation Agreements
+In September 2017, the Company entered into a Separation and Release agreement with Mr. Wozniak.  In accordance with the Separation Agreement, Mr. Wozniak's employment with the Company ended on December 31, 2017 and Mr. Wozniak received (i) $415,000 to be paid to him in lump sum, (ii) $100,000 to be paid to him for transition services, (iii) $16,115.00 to be paid to him for payment of insurance premiums or other use, (iv) vesting of all outstanding stock options and unvested restricted stock units on the Separation Date. 
+Death or Disability Arrangements
+Our NEOs are not generally entitled to any special benefits upon death or permanent disability. In the case of an NEO death, payment of base salary would cease. The executive's estate would receive an earned, pro-rata 401(k) match and core contribution, non-qualified core contribution under the Deferred Compensation Plan benefit and annual bonus. All stock options, restricted stock and performance shares would become 100% vested. The value of each NEO's stock options, restricted stock and performance shares, whose vesting would be accelerated upon death, is the same as disclosed in the preceding change in control table.
+If the NEO becomes disabled during employment, base salary would continue at 100% for up to six months while the executive is disabled. If the executive remains disabled after six months and enrolled in the voluntary supplemental long term disability program, the insurance carrier would begin making disability payments to the executive, otherwise no further salary or disability payments would be due. Additionally, all NEOs currently participate in a company-paid supplemental disability insurance program. Benefits from that policy would be paid by the insurance carrier in addition to the voluntary group policy. The NEO would receive an earned, pro-rata 401(k) match and core contribution, non-qualified core contribution under the Deferred Compensation Plan benefit, and annual cash bonus payout after six months of disability. All stock options and restricted stock would become 100% vested. CEO Pay Ratio 
+As required by Section 953(b) of the Dodd-Frank Wall Street Reform and Consumer Protection Act, and Item 402(u) of Regulation S-K, we are providing the following information about the ratio of the annual total compensation, calculated in accordance with the requirements of Item 402(c)(2)(x) of Regulation S-K (Annual Total Compensation) of our median employee and the Annual Total Compensation of our CEO. For our last completed fiscal year 2018: 
+[BEGIN TABLE]
+• the median of the Annual Total Compensation of all our employees (other than our CEO), was $46,822; and, 
+• the Annual Total Compensation of our CEO was $4,656,847 
+[END TABLE]
+Accordingly, the ratio of our CEO's Annual Total Compensation to the median employee's Annual Total Compensation was 99 to 1. This ratio is a reasonable estimate calculated in a manner consistent with Item 402(u) of Regulation S-K. As permitted by SEC rules, we used base salary as our consistently applied compensation measure to determine our median employee from our employee population, excluding our CEO, as of July 31, 2018. For hourly employees, the annual base salary was calculated using a reasonable estimate of hours worked and their hourly wage rate. We annualized base salaries for employees who were employed as of July 31, 2018 but were not employed for the full fiscal year. For our non-U.S. employees, we used the foreign exchange rates applicable at August 31, 2018 to convert their base salary into U.S. dollars. NON-EMPLOYEE DIRECTOR COMPENSATION
+Director Compensation
+Directors who are not employees of the Company are paid an annual cash retainer of $60,000 (as of January 1, 2018) for serving on the Board and are also reimbursed for expenses incurred in connection with attendance at meetings. As of August 31, 2018 directors are paid the following additional cash fees for serving on committees:
+[BEGIN TABLE]
+Committee   Member Fee   Chairperson Fee 
+Audit   $ 15,000     $ 15,000   
+Compensation   10,000     10,000   
+Nominating & Governance   10,000     7,500   
+[END TABLE]
+Additionally, the Chairman of the Board receives an annual cash fee of $112,500 for services (above and beyond the annual retainer). The directors are not paid "per meeting" fees associated with their services as Company directors. The Company and the Board believe management access to the Board, outside of regular meeting dates, should occur on an "as needed" basis, without concern for the fees associated with such access.
+Equity compensation for the Board in fiscal 2018 was in the form of 100% restricted stock. In fiscal 2018, each non-employee director (except the Chairman of the Board) was granted 3,831 restricted shares. The Chairman of the Board was granted 4,639 restricted shares. These restricted stock vest after eleven months.
+In fiscal 2018, the non-employee directors received a combination of cash payments and equity-based compensation as shown in the table below and were also reimbursed for actual out-of-pocket expenses incurred in attending meetings. 
+[BEGIN TABLE]
+Name   Annual Retainer ($)  Committee Fees ($)  Chairman / Lead Director Fee ($)   Stock Awards ($) (1)  Option Awards ($) (1)  Total ($)   Outstanding Stock Options at Fiscal Year End (#)  Non-vested Restricted Stock at Fiscal Year End (#)
+Name   Annual Retainer ($)  Committee Fees ($)  Chairman / Lead Director Fee ($)   Stock Awards ($) (1)  Option Awards ($) (1)  Total ($)   Outstanding Stock Options at Fiscal Year End (#)  Non-vested Restricted Stock at Fiscal Year End (#)
+Alfredo Altavilla(2)   $ 11,903     $ 4,959     $ —     $ —     $ —     $ 16,862     —     —   
+Gurminder S. Bedi (3)   60,000     20,000     —     99,989     —     179,989     54,679     —   
+J. Palmer Clarkson(2)   11,903     3,968     —     —     —     15,870     —     —   
+Danny L. Cunningham   60,000     15,000     15,000     99,989     —     189,989     2,930     3,831   
+E. James Ferland, Jr.   60,000     25,000     —     99,989     —     184,989     11,029     —   
+Richard D. Holder   60,000     25,000     —     99,989     —     184,989     —     3,831   
+R. Alan Hunter, Jr. (3)   60,000     25,000     —     99,989     —     184,989     39,679     —   
+Robert A. Peterson   172,500     10,000     7,500     122,487     —     312,487     55,329     4,693   
+Sidney S. Simmons(2)   11,903     4,959     —     —     —     16,862     —     —   
+Holly A. Van Deursen   60,000     20,000     10,000     99,989     —     189,989     54,679     3,831   
+Dennis K. Williams (3)   60,000     25,000     —     99,989     —     184,989     28,959     —   
+(1)  Amounts represent the aggregate grant date fair value. The amounts do not correspond to the actual value that may be realized by our non-employee directors, as that is dependent on the long-term appreciation in the Company's common stock. Refer to our Annual report on Form 10-K for details regarding assumptions utilized to value share based awards. 
+(2)   Mr. Altavilla, Mr. Clarkson and Mr. Simmons were appointed as Directors effective March 20, 2018. 
+(3)  Mr. Bedi, Mr. Hunter and Mr. Williams retired as Directors effective March 20, 2018. 
+[END TABLE]
+Similar to the NEOs, directors have stock ownership guidelines to drive long-term performance alignment with shareholders. Under the guidelines, each non-employee director is expected to own Actuant common stock with a total value equal to five times their base cash annual retainer (or an aggregate $300,000). During fiscal 2018, all directors (except Messrs. Altavilla, Clarkson and Simmons who joined the Board in 2018) either within the time frame to meet the ownership requirement or exceeded the requirement.
+Under the Outside Directors' Deferred Compensation Plan, each non-employee director can defer all or a portion of their annual retainer and committee fees for future payment on a specified date or when they leave the Board.  The number of shares, equal to the amount of compensation deferred, is contributed to a rabbi trust. The plan consists solely of phantom stock units, which are settled in Actuant common stock, generally following the director's termination of service. As of August 2018, Messrs. Clarkson, Cunningham, Ferland, Simmons and Ms. Van Deursen were participating in the Outside Directors' Deferred Compensation Plan. OTHER INFORMATION
+Section 16(a) Beneficial Ownership Reporting Compliance
+Pursuant to Section 16(a) of the Securities Exchange Act of 1934, the Company's directors, executive officers and persons who beneficially own 10% or more of the common stock are required to report their initial ownership of common stock and subsequent changes in that ownership to the SEC and the NYSE. Specific due dates for those reports have been established and the Company is required to disclose in this Proxy Statement any failure to file by those due dates during fiscal 2018. The Company believes that all filing requirements were satisfied with respect to fiscal 2018.
+Independent Public Accountants
+PricewaterhouseCoopers LLP, an independent registered public accounting firm, performed an audit of our consolidated financial statements for the fiscal year ended August 31, 2018 and the effectiveness of our internal control over financial reporting as of August 31, 2018. The Audit Committee has selected PricewaterhouseCoopers LLP to serve as our independent registered public accounting firm for the current fiscal year, and the committee is presenting this selection to shareholders for ratification. Representatives of PricewaterhouseCoopers will be present at the Annual Meeting to respond to shareholders' questions. Aggregate fees for professional services rendered for the Company by PricewaterhouseCoopers LLP for such fiscal years were as follows:
+[BEGIN TABLE]
+    Fiscal Year Ended August 31, 2018   Fiscal Year Ended August 31, 2017 
+Audit Fees   $ 2,598,100     $ 2,315,700   
+Audit-Related Fees   81,300     —   
+Tax Compliance Fees   552,100     320,900   
+Tax Consulting Fees   957,600     990,900   
+All Other Fees   —     —   
+    $ 4,189,100     $ 3,627,500   
+[END TABLE]
+Audit Fees were for professional services rendered for the audit of the Company's annual financial statements and related audit of the Company's internal control over financial reporting, the review of quarterly financial statements and the preparation of statutory and regulatory filings. Tax Compliance Fees include professional services related to annual tax compliance including foreign tax return preparation and transfer pricing studies, while Tax Consulting Fees include professional services related to tax planning, tax reform and tax advisory services. In addition to the fees above, the Company also reimbursed PricewaterhouseCoopers LLP for out of pocket expenses, which were less than $100,000 in fiscal 2018 and 2017.
+The Audit Committee has considered the compatibility of the non-audit services provided by PricewaterhouseCoopers LLP to PricewaterhouseCoopers LLP's continued independence and has concluded that the independence of PricewaterhouseCoopers LLP is not compromised by the performance of such services.
+The Audit Committee has adopted policies and procedures for the pre-approval of any services performed by the independent auditor to ensure that such services do not impair the auditor's independence. All annual recurring audit fees require specific approval by the Audit Committee prior to the work commencing. All services which involve more than $50,000 in fees require specific approval by the Audit Committee prior to the work commencing. The Audit Committee has given general pre-approval for all permissible services provided by the independent auditor that involve less than $50,000, on the condition that such engagement must be specifically pre-approved by management and management must provide quarterly reports of such activity to the Audit Committee.
+Shareholder Proposals
+Shareholder proposals must be received by the Company no later than August 5, 2019 in order to be considered for inclusion in the Company's annual meeting proxy statement next year. Shareholders who wish to submit a proposal not intended to be included in the Company's annual meeting proxy statement but to be presented at next year's annual meeting, or who propose to nominate a candidate for election as a director at that meeting, are required by the Company's bylaws to provide notice of such proposal or nomination to the principal executive offices of the Company. This notice must be received by the Company no later than the close of business on September 24, 2019 nor earlier than the close of business on August 25, 2019, to be considered for a vote at next year's annual meeting. The notice must contain the information required by the Company's bylaws.
+Householding of Annual Meeting Materials
+Some banks, brokers, and other nominee record holders may be participating in the practice of "householding" proxy statements and annual reports. This means that only one copy of this proxy statement and the Annual Report on Form 10-K for the fiscal year ended August 31, 2018 may have been sent to multiple shareholders in your household. If you would prefer to receive separate copies of a proxy statement or Annual Report on Form 10-K either now or in the future, please contact your bank, broker or other nominee.  Upon written or oral request to the Executive Vice President and Chief Financial Officer, we will provide a separate copy of the annual report and/or proxy statement. 
+Additional Matters
+Other than the proposals and matters described herein, management is not aware of any other matters which will be presented for action at the Meeting. If other matters do come before the Meeting, including any matter as to which the Company did not receive notice by October 19, 2018 and any shareholder proposal omitted from this Proxy Statement pursuant to the applicable rules of the Securities and Exchange Commission, it is intended that proxies will be voted in accordance with the judgment of the person or persons exercising the authority conferred thereby.
+By Order of the Board of Directors,
+ROBERT A. PETERSON
+Chair of the Board
+Menomonee Falls, Wisconsin
+December 3, 2018 
+It is important that proxies be returned promptly. Therefore, whether or not you expect to attend the Annual Meeting in person, shareholders are requested to complete, date, sign and return their proxies as soon as possible.
+A copy (without exhibits) of the Company's Annual Report on Form 10-K for the fiscal year ended August 31, 2018, as filed with the Securities and Exchange Commission, has been provided with this Proxy Statement. Additional copies of the Form 10-K are available, free of charge, upon written or telephonic request directed to our Executive Vice President and Chief Financial Officer, Actuant Corporation, or by telephone at (262) 293-1500. 
+[BEGIN TABLE]
+       Shareowner Services             
+    P.O. Box 64945           
+        St. Paul, MN 55164-0945             
+    Address Change? Mark box, sign, and indicate changes below: ¨             
+        TO VOTE BY INTERNET OR      
+        TELEPHONE, SEE REVERSE SIDE 
+        OF THIS PROXY CARD.      
+[END TABLE]
+YOUR VOTE IS IMPORTANT!
+Please sign and date this proxy card and return it promptly in the enclosed postage-paid envelope to 
+EQ Shareowner Services, P.O. Box 64873, St. Paul, MN 55164-9397, so your shares are represented at Actuant Corporation's 2019 Annual Meeting.
+ò     Please fold here – Do not separate    ò
+If no specification is made, this proxy will be voted for all names listed in Proposal 1 and for Proposals 2 and 3.
+[BEGIN TABLE]
+    1. Election of     directors:     01 Alfredo Altavilla    05 E. James Ferland    ¨   Vote FOR   ¨  Vote WITHHELD   
+    1. Election of     directors:     01 Alfredo Altavilla    05 E. James Ferland    ¨   Vote FOR   ¨  Vote WITHHELD   
+     02 Randal W. Baker    06 Richard D. Holder    all nominees (except as marked)   from all nominees   
+     03 J. Palmer Clarkson    07 Sidney S. Simmons          
+       04 Danny L. Cunningham    08 Holly A. Van Deursen                
+  (Instructions: To withhold authority to vote for any indicated nominee, write the number(s) of the nominee(s) in the box provided to the right.)            
+  2. Ratification of PricewaterhouseCoopers LLP as the Company's independent auditor.  ¨     For   ¨    Against       ¨     Abstain   
+  3. Advisory vote to approve the compensation of our named executive officers. ¨     For   ¨    Against       ¨     Abstain   
+  4. In their discretion, upon such other business as may properly come before the Annual Meeting or any adjournment thereof; all as set out in    
+      Notice and Proxy Statement relating to the Annual Meeting, receipt of which is hereby acknowledged.   
+  THIS PROXY WHEN PROPERLY EXECUTED WILL BE VOTED IN THE MANNER SPECIFIED HEREIN BY THE UNDERSIGNED SHAREHOLDER. IMPORTANT – THIS PROXY MUST BE SIGNED AND DATED.   
+  Date                                                                                 
+                              Signature(s) in Box   
+                              Please sign exactly as your name(s) appears on Proxy. If held in joint tenancy, all persons should sign. Trustees, adminis­trators, etc., should include title and authority. Corporations should provide full name of corporation and title of authorized officer signing the Proxy.   
+[END TABLE]
+ ACTUANT CORPORATION
+ANNUAL MEETING OF SHAREHOLDERS
+Tuesday, January 22, 2019 
+8:00 a.m. Eastern Time 
+The Breakers
+One South Country Road
+Palm Beach, Florida
+[BEGIN TABLE]
+  proxy 
+  This proxy is solicited on behalf of the Board of Directors for the Annual Meeting to be held on January 22, 2019.   Randal W. Baker and Rick T. Dillon, and each of them, are hereby authorized as Proxies, with full power of substitution, to represent and vote the Class A Common Stock of the undersigned at the Annual Meeting of Shareholders of ACTUANT CORPORATION, a Wisconsin corporation, to be held on January 22, 2019 at 8:00 a.m. Eastern Time at The Breakers, One South Country Road, Palm Beach, Florida, or at any adjournments thereof, with like effect as if the undersigned were personally present and voting, upon the matters indicated on the reverse side of this card.
+  This proxy is solicited on behalf of the Board of Directors for the Annual Meeting to be held on January 22, 2019.   Randal W. Baker and Rick T. Dillon, and each of them, are hereby authorized as Proxies, with full power of substitution, to represent and vote the Class A Common Stock of the undersigned at the Annual Meeting of Shareholders of ACTUANT CORPORATION, a Wisconsin corporation, to be held on January 22, 2019 at 8:00 a.m. Eastern Time at The Breakers, One South Country Road, Palm Beach, Florida, or at any adjournments thereof, with like effect as if the undersigned were personally present and voting, upon the matters indicated on the reverse side of this card.
+  This proxy is solicited on behalf of the Board of Directors for the Annual Meeting to be held on January 22, 2019.   Randal W. Baker and Rick T. Dillon, and each of them, are hereby authorized as Proxies, with full power of substitution, to represent and vote the Class A Common Stock of the undersigned at the Annual Meeting of Shareholders of ACTUANT CORPORATION, a Wisconsin corporation, to be held on January 22, 2019 at 8:00 a.m. Eastern Time at The Breakers, One South Country Road, Palm Beach, Florida, or at any adjournments thereof, with like effect as if the undersigned were personally present and voting, upon the matters indicated on the reverse side of this card.
+  This proxy is solicited on behalf of the Board of Directors for the Annual Meeting to be held on January 22, 2019.   Randal W. Baker and Rick T. Dillon, and each of them, are hereby authorized as Proxies, with full power of substitution, to represent and vote the Class A Common Stock of the undersigned at the Annual Meeting of Shareholders of ACTUANT CORPORATION, a Wisconsin corporation, to be held on January 22, 2019 at 8:00 a.m. Eastern Time at The Breakers, One South Country Road, Palm Beach, Florida, or at any adjournments thereof, with like effect as if the undersigned were personally present and voting, upon the matters indicated on the reverse side of this card.
+[END TABLE]
+Vote by Internet, Telephone or Mail
+24 Hours a Day, 7 Days a Week
+Your phone or Internet vote authorizes the named proxies to vote your shares in the same manner as if you marked, signed and returned your proxy card.
+[BEGIN TABLE]
+:   (   * 
+INTERNET/MOBILE   PHONE   MAIL 
+www.proxypush.com/atu   1-866-883-3382     
+Use the Internet to vote your proxy   Use a touch-tone telephone to   Mark, sign and date your proxy until 11:59 p.m. (CT) on   vote your proxy until 11:59 p.m. (CT)   card and return it in the 
+January 21, 2019   on January 21, 2019.   postage-paid envelope provided. 
+[END TABLE]
+If you vote your proxy by Internet or by Telephone, you do NOT need to mail back your Proxy Card.
+38

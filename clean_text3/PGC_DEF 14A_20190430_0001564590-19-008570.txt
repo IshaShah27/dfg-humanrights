@@ -1,0 +1,869 @@
+ 
+UNITED STATES
+SECURITIES AND EXCHANGE COMMISSION 
+Washington, D.C. 20549 
+SCHEDULE 14A 
+(Rule 14a-101)
+INFORMATION REQUIRED IN PROXY STATEMENT
+SCHEDULE 14A INFORMATION
+Proxy Statement Pursuant to Section 14(a) of the Securities
+Exchange Act of 1934 
+Filed by the Registrant ☒
+Filed by a Party other than the Registrant ☐
+Check the appropriate box: 
+☐Preliminary Proxy Statement
+☐Confidential, for Use of the Commission Only (as permitted by Rule 14a-6(e)(2))
+☒Definitive Proxy Statement
+☐Definitive Additional Materials
+☐Soliciting Material Pursuant to §240.14a-12
+Peapack-Gladstone Financial Corporation
+(Name of Registrant as Specified In Its Charter)
+ (Name of Person(s) Filing Proxy Statement, if other than the Registrant)
+Payment of Filing Fee (Check the appropriate box):
+☒No fee required.
+☐Fee computed on table below per Exchange Act Rules 14a-6(i)(1) and 0-11.
+[BEGIN TABLE]
+    (1)  Title of each class of securities to which transaction applies: 
+[END TABLE]
+N/A 
+[BEGIN TABLE]
+    (2)  Aggregate number of securities to which transaction applies: 
+[END TABLE]
+N/A 
+[BEGIN TABLE]
+    (3)  Per unit price or other underlying value of transaction computed pursuant to Exchange Act Rule 0-11 (set forth the amount on which the filing fee is calculated and state how it was determined): 
+[END TABLE]
+N/A
+[BEGIN TABLE]
+    (4)  Proposed maximum aggregate value of transaction: 
+[END TABLE]
+N/A 
+[BEGIN TABLE]
+    (5)  Total fee paid: 
+[END TABLE]
+N/A 
+☐Fee paid previously with preliminary materials.
+[BEGIN TABLE]
+ ☐  Check box if any part of the fee is offset as provided by Exchange Act Rule 0-11(a)(2) and identify the filing for which the offsetting fee was paid previously. Identify the previous filing by registration statement number, or the Form or Schedule and the date of its filing. 
+    (1)  Amount Previously Paid: 
+[END TABLE]
+N/A 
+[BEGIN TABLE]
+    (2)  Form, Schedule or Registration Statement No.: 
+[END TABLE]
+N/A 
+[BEGIN TABLE]
+    (3)  Filing Party: 
+[END TABLE]
+N/A 
+[BEGIN TABLE]
+    (4)  Date Filed: 
+[END TABLE]
+N/A 
+PEAPACK-GLADSTONE FINANCIAL CORPORATION 
+500 HILLS DRIVE 
+BEDMINSTER, NEW JERSEY 07921 
+NOTICE OF ANNUAL MEETING OF SHAREHOLDERS 
+TO BE HELD ON TUESDAY, APRIL 30, 2019
+To Our Shareholders: 
+NOTICE IS HEREBY GIVEN that the Annual Meeting of Shareholders of Peapack-Gladstone Financial Corporation (the "Company") will be held on the first floor of our headquarters building at 500 Hills Drive, Bedminster, New Jersey on Tuesday, April 30, 2019 at 10:00 a.m., local time, to consider and vote: 
+[BEGIN TABLE]
+    1.  To elect thirteen directors to serve for a one-year term and until their successors shall have been duly elected and qualified. 
+    2.  To approve, on a non-binding basis, the compensation of the Company's named executive officers. 
+    3.  To ratify the appointment of Crowe LLP as the Company's independent registered public accounting firm for the year ending December 31, 2019. 
+    4.  Such other business as may properly come before the meeting or any adjournment thereof.  
+[END TABLE]
+Only shareholders of record at the close of business on March 6, 2019 are entitled to receive notice of, and to vote at, the meeting. 
+You are urged to read carefully the attached proxy statement relating to the meeting. 
+Shareholders are cordially invited to attend the meeting in person. Whether or not you expect to attend the meeting, we urge you to exercise your right to vote as promptly as possible.
+By Order of the Board of Directors 
+Todd M. Poland 
+Corporate Secretary 
+Bedminster, New Jersey 
+March 20, 2019
+YOUR VOTE IS IMPORTANT. 
+PLEASE SIGN AND RETURN THE ENCLOSED PROXY IN THE ENVELOPE PROVIDED
+OR VOTE BY TELEPHONE OR INTERNET.
+IMPORTANT NOTICE REGARDING THE AVAILABILITY OF PROXY MATERIALS FOR
+THE SHAREHOLDER MEETING TO BE HELD ON APRIL 30, 2019
+This Proxy Statement and our Annual Report on Form 10-K are available at http://www.edocumentview.com/PGC
+Peapack-Gladstone Financial Corporation
+[BEGIN TABLE]
+ Proxy Statement 
+[END TABLE]
+Table of Contents
+[BEGIN TABLE]
+ Voting Information     1 
+ Corporate Governance     3 
+ Director Compensation     8 
+ Beneficial Ownership of Common Stock     9 
+ Proposal 1 – Election of Directors     11 
+ Proposal 2 – Advisory Vote on Compensation of Named Executive Officers.     13 
+ Proposal 3 – Ratification of the Appointment of the Independent Registered Public Accounting Firm.        14 
+   Compensation Discussion and Analysis       17 
+   Compensation Discussion and Analysis       17 
+ Compensation Committee Report     29 
+ Executive Compensation     30 
+ Transactions with Related Persons     36 
+ Shareholder Proposals     36 
+ Other Matters     36 
+[END TABLE]
+i
+PEAPACK-GLADSTONE FINANCIAL CORPORATION
+500 HILLS DRIVE
+BEDMINSTER, NEW JERSEY 07921 
+PROXY STATEMENT 
+This proxy statement is furnished to the shareholders of Peapack-Gladstone Financial Corporation ("Peapack-Gladstone" or the "Company") in connection with the solicitation by the Board of Directors of Peapack-Gladstone of proxies for use at the Annual Meeting of Shareholders to be held on the first floor of our headquarters building at 500 Hills Drive, Bedminster, New Jersey on Tuesday, April 30, 2019 at 10:00 a.m., local time. This proxy statement is first being made available to shareholders on approximately March 20, 2019. 
+VOTING INFORMATION 
+Outstanding Securities and Voting Rights 
+The record date for determining shareholders entitled to notice of, and to vote at, the meeting is March 6, 2019. Only shareholders of record as of the record date will be entitled to notice of, and to vote at, the meeting.
+On the record date 19,349,230 shares of Peapack-Gladstone's common stock, no par value, were outstanding and eligible to be voted at the meeting. Each share of Peapack-Gladstone's common stock is entitled to one vote. 
+Delivery of Proxy Materials 
+The 2019 notice of annual meeting of shareholders, this proxy statement, the Company's 2018 annual report on Form 10-K and the proxy card or voting instruction form are referred to as our "proxy materials."  Pursuant to the rules of the Securities and Exchange Commission (the "SEC"), we are furnishing our proxy materials to certain shareholders over the Internet.  Most shareholders are receiving by mail a Notice of Internet Availability of Proxy Materials (an "E-Proxy Notice"), which provides general information about the annual meeting, the matters to be voted on at the annual meeting, the website where our proxy statement and annual report are available for review, downloading and printing, and instructions on how to submit proxy votes.  The E-Proxy Notice also provides instructions on how to request a paper copy of the proxy materials and how to elect to receive either a paper copy or an electronic copy of the proxy materials for future meetings.   
+Shareholders that have previously elected to receive proxy materials via electronic delivery will receive an e-mail with the proxy statement, annual report and instructions on how to vote.  Shareholders who previously elected to receive paper copies of the proxy materials will receive the proxy statement, annual report and instructions on how to vote by mail or via telephone or the internet. 
+Householding
+When more than one holder of our common stock shares the same address, we may deliver only one E-Proxy Notice or set of proxy materials, as applicable, to that address unless we have received contrary instructions from one or more of those shareholders.  Similarly, brokers and other intermediaries holding shares of our common stock in "street name" for more than one beneficial owner with the same address may deliver only one E-Proxy Notice or set of proxy materials, as applicable, to that address if they have received consent from the beneficial owners of the stock. 
+We will deliver promptly upon written demand or oral request a separate copy of the E-Proxy Notice or set of proxy materials, as applicable, to any shareholder of record at a shared address to which a single copy of those documents was delivered.  To receive additional copies, you may write to or call Todd M. Poland, Corporate Secretary of Peapack-Gladstone, 500 Hills Drive, Suite 300, P.O. Box 700, Bedminster, New Jersey 07921 or (908) 443-5386.  If your shares are held in "street name," you should contact the broker or other intermediary who holds the shares on your behalf to request an additional copy of the E-Proxy Notice or proxy materials. 
+If you are a shareholder of record and are either receiving multiple E-Proxy Notices or multiple paper copies of the proxy materials, as applicable, and wish to request future delivery of a single copy or are receiving a single E-Proxy Notice or copy of the proxy materials, as applicable, and wish to request future delivery of multiple copies, please contact Todd M. Poland, Corporate Secretary at the address or telephone number above.  If your shares are held in "street name," you should contact the broker or other intermediary who holds the shares on your behalf. 
+Required Vote 
+The presence, in person or by proxy, of a majority of the shares entitled to vote is necessary to constitute a quorum at the meeting.  Abstentions and broker non-votes are counted to determine a quorum. A broker non-vote occurs when a broker holding shares for a beneficial holder does not vote on a particular proposal because the broker does not have discretionary power to vote with respect to that item and has not received voting instructions from the beneficial owner.
+The election of directors requires the affirmative vote of a plurality of Peapack-Gladstone's common stock voted at the meeting, whether voted in person or by proxy.  This means that the nominees receiving the greatest number of votes will be elected.  Abstentions and broker non-votes will have no impact on the election of directors.
+The approval of each (1) on a non-binding basis, of the compensation of the Company's named executive officers and (2) of the ratification of the appointment of Crowe LLP requires the affirmative vote of a majority of the votes cast at the meeting, whether voted in person or by proxy. Abstentions and broker non-votes will have no impact on the approval of these proposals.
+All shares represented by valid proxies received pursuant to this solicitation will be voted as follows, unless the shareholder specifies a different choice by means of the proxy or revokes the proxy prior to the time it is exercised: 
+[BEGIN TABLE]
+• Proposal 1 – FOR the election of the 13 nominees for director;  
+• Proposal 2 – FOR the approval, on a non-binding basis, of the compensation of the Company's named executive officers; and 
+• Proposal 3 – FOR the ratification of the appointment of Crowe LLP as the Company's independent registered public accounting firm for the year ending December 31, 2019.  
+[END TABLE]
+Should any other matter properly come before the meeting, the persons named as proxies will vote upon such matters in their discretion. 
+Voting
+We are offering you four alternative ways to vote your shares:
+Internet.  If you wish to vote using the Internet, you can access the webpage at www.envisionreports.com/PGC and follow the on-screen instructions or scan the QR code on your E-Proxy Notice or proxy card with your smartphone.  Have your proxy card available when you access the webpage. 
+Telephone.  If you wish to vote by telephone, call toll free 1-800-652-VOTE(8683) and follow the instructions.  Have your proxy card available when you call. 
+Mail.   If you wish to vote by mail, please sign your name exactly as it appears on your proxy card, date and mail your proxy card in the envelope provided as soon as possible.
+In Person. The method by which you vote will not limit your right to vote at the meeting if you decide to attend in person.  If your shares are held in the name of a bank, broker or other holder of record, you must obtain a proxy executed in your favor from the holder of record to be able to vote at the meeting.  If you submit a proxy and then wish to change or vote in person at the meeting, you will need to revoke the proxy that you have submitted, as described below. 
+Revocability of Proxy 
+Any shareholder giving a proxy has the right to attend and to vote at the meeting in person. A proxy may be revoked prior to the meeting by submitting a later-dated proxy or a written revocation to Todd M. Poland, Corporate Secretary, Peapack-Gladstone, 500 Hills Drive, Suite 300, P.O. Box 700, Bedminster, New Jersey, 07921. A proxy may be revoked at the meeting by filing a later-dated proxy or a written revocation with the Secretary of the meeting prior to the voting of such proxy or by voting in person at the meeting. 
+Solicitation of Proxies
+This proxy solicitation is being made by the Board of Peapack-Gladstone and the costs of the solicitation will be borne by Peapack-Gladstone. In addition to the use of the mails, proxies may be solicited personally or by telephone, e-mail or facsimile transmission by directors, officers and employees of Peapack-Gladstone and its subsidiaries or Laurel Hill Advisory Group LLC, a proxy solicitor firm. Directors, officers and employees will not be compensated for such solicitation  activities. Peapack-Gladstone will pay $5,500 plus certain out of pocket costs to Laurel Hill Advisory Group LLC for its proxy solicitation services. Peapack-Gladstone will also make arrangements with brokers, dealers, nominees, custodians and fiduciaries to forward proxy soliciting materials to the beneficial owners of shares held of record by such persons, and Peapack-Gladstone will reimburse them for their reasonable expenses incurred in forwarding the materials.
+Annual Meeting Attendance
+Only shareholders or their proxy holders and Peapack-Gladstone guests may attend the annual meeting.  Please bring your E-Proxy Notice to be admitted to the meeting.  
+If your shares are held in "street name," to attend the meeting you must bring to the meeting evidence of your stock ownership indicating that you beneficially owned the shares on the record date and a valid form of photo identification.  If you wish to vote at the meeting, you must bring a proxy executed in your favor from the holder of record. 
+CORPORATE GOVERNANCE
+General and Corporate Governance Principles
+The business and affairs of Peapack-Gladstone are managed under the direction of the Board of Directors. Members of the Board are kept informed of Peapack-Gladstone's business through discussions with our President and CEO and Peapack-Gladstone's other officers, by reviewing materials provided to them and by participating in meetings of the Board and its committees. All members of the Board also served as directors of Peapack-Gladstone's subsidiary bank, Peapack-Gladstone Bank (the "Bank"), during 2018. The Board of Directors of Peapack-Gladstone and Peapack-Gladstone Bank each held 11 meetings during 2018. During 2018, each director of Peapack-Gladstone attended no fewer than 75% of the total number of meetings of Peapack-Gladstone's Board and meetings of committees on which such director served. It is Peapack-Gladstone's policy to encourage director attendance at the Annual Meeting absent a compelling reason such as illness. Last year, all but two directors attended the Annual Meeting.
+The Board has adopted Corporate Governance Principles, which are intended to provide guidelines for the governance of Peapack-Gladstone, including:  the qualification and selection of the Board of Directors and its committees; convening executive sessions of independent directors; the Board of Directors' interaction with management and third parties; director compensation, orientation and continuing education and the evaluation of the performance of the CEO. The Corporate Governance Principles are available in the Government Documents portion of the Investor Relations section of Peapack-Gladstone's website located at www.pgbank.com. We periodically review these governance principles, the rules and listing standards of the NASDAQ Stock Market ("NASDAQ") and SEC regulations. 
+Board Leadership Structure and Role in Risk Oversight
+Our Board of Directors is comprised of 13 directors, all of whom are independent directors under applicable NASDAQ rules, except for Douglas L. Kennedy, our Chief Executive Officer. The Company maintains a Risk Committee, which, along with our Board of Directors, is responsible for overseeing the Company's risk management. Our full Board receives and reviews a company-wide risk assessment annually. While the Risk Committee and the full Board oversee the Company's risk management, management is responsible for day-to-day risk management processes. We believe this division of responsibilities is an appropriate approach for addressing the risks facing our Company. Our independent directors conduct separate executive sessions to discuss Company affairs on at least a semi-annual basis and more frequently as necessary. The Chair of the Board, who is independent, presides over these sessions. If in the future our Board Chair is not independent, our bylaws provide for the appointment of an independent lead director. 
+We believe that having a separate Chair and CEO, independent chairs and membership for each of our Audit, Compensation and Nominating Committees and holding executive sessions of independent directors provides the right form of leadership for our Company. Separating the Chair and CEO positions allows the CEO to better focus on his responsibilities of running the Company, enhancing shareholder growth and better positioning the Company for future growth, while our experienced independent director majority provides oversight of Company operations and provides different perspectives based on the directors' experience, oversight and expertise from outside our Company.
+Director Independence
+The Board has determined that a majority of the directors and all current members of the Nominating, Compensation, and Audit Committees are "independent" in accordance with NASDAQ rules and Peapack-Gladstone's internal independence standards provided in our Corporate Governance Principles.  The Board has determined that the members of the Audit Committee are also "independent" for purposes of the heightened standards of independence under NASDAQ rules and Rule 10A-3 of the Securities Exchange Act of 1934, as amended (the "Exchange Act"), and that the members of the Compensation Committee are also "independent" for purposes of the heightened standard of independence under the NASDAQ rules. The Board's conclusion follows a review by the Nominating Committee and management of the  responses of the directors and executive officers to questions regarding employment history, transactions with the Bank, affiliations and family and other relationships. 
+To assist it in making determinations of independence, the Board has concluded that the following relationships are immaterial and that a director whose only relationships with Peapack-Gladstone fall within these categories is independent absent any other relationship that would interfere with the director's exercise of independent judgment in carrying out the responsibilities of a director: 
+[BEGIN TABLE]
+• A loan made by the Bank to a director, his or her immediate family member or an entity affiliated with a director or his or her immediate family member, or a loan personally guaranteed by such persons, if such loan (1) complies with state and federal regulations on insider loans, where applicable; (2) is not classified by the Bank's credit committee or by any bank regulatory agency that supervises the Bank as substandard, doubtful or loss; and (3) is on customary and usual market terms and conditions. 
+• A deposit, trust, insurance brokerage, securities brokerage or similar customer relationship between Peapack-Gladstone or its subsidiaries and a director, his or her immediate family member or an affiliate of his or her immediate family member if such relationship is on customary and usual market terms and conditions. 
+• The employment by Peapack-Gladstone or its subsidiaries of any immediate family member of the director if the employee serves below the level of senior vice president. 
+• Annual contributions by Peapack-Gladstone or its subsidiaries to any charity or non-profit corporation with which a director is affiliated if the contributions do not exceed an aggregate of $20,000 in any calendar year and the contribution is made in the name of Peapack-Gladstone. 
+• Purchases of goods or services by Peapack-Gladstone or any of its subsidiaries from a business in which a director or his or her immediate family member is a partner, shareholder or officer, if the director or his or her immediate family member owns five percent or less of the equity interests of that business and does not serve as an executive officer of the business. 
+• Purchases of goods or services by Peapack-Gladstone, or any of its subsidiaries, from a director of a business in which the director or his or her immediate family member is a partner, shareholder or officer if the annual aggregate purchases of goods or services from the director, his or her immediate family member or such business in the last calendar year does not exceed the greater of $60,000 or two percent of the gross revenues of the business. 
+• Fixed retirement benefits paid or payable to a director either currently or on retirement. 
+[END TABLE]
+The following categories or types of transactions, relationships or arrangements were considered by the Board in determining that each listed director is independent in accordance with the NASDAQ rules and Peapack-Gladstone's Corporate Governance Principles.
+[BEGIN TABLE]
+ Independent Director     Category or Type 
+ Susan A. Cole     Wealth Management 
+ Anthony J. Consi, II     Loans, Deposits 
+ Richard Daingerfield     Loans, Deposits, Wealth Management 
+ Edward A. Gramigna     Deposits, Wealth Management 
+ F. Duffield Meyercord     Loans, Deposits, Wealth Management 
+ Philip W. Smith     Loans, Deposits, Wealth Management, Employment of Immediate Family Member* 
+ Beth Welsh     Loans, Deposits 
+[END TABLE]
+* Mr. Smith's sister in-law Anne Smith was promoted to Senior Managing Director in 2017.  Anne Smith is not an executive officer of the Company. Shareholder Communication with Directors
+The Board of Directors has established the following procedures for shareholder communications with the Board of Directors:
+[BEGIN TABLE]
+• Shareholders wishing to communicate with the Board of Directors should send any communication to the Board of Directors, Peapack-Gladstone Financial Corporation, c/o Todd M. Poland, Corporate Secretary, 500 Hills Drive, Suite 300, P.O. Box 700, Bedminster, New Jersey, 07921. Any such communication should state the number of shares owned by the shareholder.  
+• The Corporate Secretary will forward such communication to the Board of Directors or as appropriate to the particular Committee Chair, unless the communication is a personal or similar grievance, an abusive or inappropriate communication, or a communication not related to the duties or responsibilities of the Board of Directors, in which case the Corporate Secretary has the authority to disregard the communication. All such communications will be kept confidential to the extent possible. 
+• The Corporate Secretary will maintain a log of, and copies of, all communications, for inspection and review by any Board member, and will regularly review all such communications with the Board or the appropriate Committee Chair. 
+[END TABLE]
+The Board of Directors has also established the following procedures for shareholder communications with the Chair, who presides over the independent director sessions:
+[BEGIN TABLE]
+• Shareholders wishing to communicate with the Chair should send any communication to the Presiding Director of Independent Director Sessions, Peapack-Gladstone Financial Corporation, c/o Todd M. Poland, Corporate Secretary, 500 Hills Drive, Suite 300, P.O. Box 700, Bedminster, New Jersey, 07921. Any such communication should state the number of shares owned by the shareholder. 
+• The Corporate Secretary will forward such communication to the Chair, unless the communication is a personal or similar grievance, an abusive or inappropriate communication, or a communication not related to the duties or responsibilities of the non-management directors, in which case the Corporate Secretary has the authority to disregard the communication. All such communications will be kept confidential to the extent possible. 
+• The Corporate Secretary will maintain a log of, and copies of, all communications, for inspection and review by the Chair, and will regularly review all such communications with the Chair at the next meeting. 
+[END TABLE]
+Committees of the Board of Directors
+The Board of Directors maintained an Audit Committee, a Compensation Committee, a Nominating Committee, and a Risk Committee. The following table identifies the members of each of these Committees as of March 6, 2019.  All members of each committee are independent in accordance with the listing requirements of the NASDAQ stock market. Each committee operates under a written charter that is approved by the Board of Directors that governs its composition, responsibilities and operations.  Each committee reviews and reassesses the adequacy of its charter at least annually.  The charters are available in the Governance Documents portion of the Investor Relations section of the Company's web site (www.pgbank.com).
+[BEGIN TABLE]
+ Director     Audit Committee        Compensation Committee        Nominating Committee        Risk Committee    
+ Director     Audit Committee        Compensation Committee        Nominating Committee        Risk Committee    
+ Carmen M. Bowser                             X        X    
+ Susan A. Cole                             X        X    
+ Anthony J. Consi, II     X*        X                    X    
+ Richard Daingerfield     X                                X*    
+ Edward A. Gramigna, Jr.     X                    X*                
+ Steven A. Kass**     X                                        
+ Douglas L. Kennedy                                                 
+ F. Duffield Meyercord                 X*        X                
+ Philip W. Smith, III                             X        X    
+ Tony Spinelli                 X                    X    
+ Beth Welsh     X                                X    
+ Number of meetings in 2018        8           4           2           6    
+ * Chairperson                                                 
+[END TABLE]
+The Compensation Committee has the authority to and responsibility for the appointment, retention, compensation and oversight of compensation consulting and advisory firms as it deems appropriate to its role. In 2018, the Compensation Committee engaged the services of McLagan, an Aon Hewitt Company ("McLagan"), an independent compensation consulting firm specializing in executive compensation, which provided an updated competitive market   analysis. McLagan reports directly to the Compensation Committee and carries out its responsibilities to the Compensation Committee in coordination with the Human Resources Department as requested by the Compensation Committee.  
+Nominating Committee
+The Nominating Committee reviews the qualifications of and recommends to the Board candidates for election as directors of Peapack-Gladstone and the Bank, recommends committee assignments, and discusses management succession for the Chair and the CEO positions. The Nominating Committee is also charged with reviewing the Board's adherence to the Corporate Governance Principles and the Code of Business Conduct and Conflict of Interest Policy. The Nominating Committee reviews recommendations from shareholders regarding director candidates and any shareholder proposals. The procedure for submitting recommendations of director candidates is set forth below under the caption "Nomination of Directors."
+Risk Committee
+The Risk Committee provides oversight and guidance for the Bank's Enterprise Risk Management initiatives, including risk governance structure, risk management and risk assessment guidelines and policies regarding policies, procedures and market, credit, operational, liquidity and reputational risks, and the Bank's risk tolerance.  Risk assessment and risk management are the responsibility of the Bank's management.  The Committee's responsibility in this regard is one of oversight and review.
+Nomination of Directors
+Nominations for director may be made only by the Board of Directors, a committee of the Board or by a shareholder of record entitled to vote. The Board of Directors has established minimum criteria for members of the Board, which include: 
+[BEGIN TABLE]
+• Stock ownership in compliance with the Company's stock ownership guidelines. 
+• Being respected members of their communities and of high ethical and moral standards and having sound personal finances.  
+• Not serving on the board of directors of any other bank that serves the same market area as Peapack-Gladstone. 
+[END TABLE]
+[BEGIN TABLE]
+• An appropriate mix of educational background, professional background and business experience to make a significant contribution to the overall composition of the Board. 
+• If the Committee deems it applicable, whether the candidate is able to read and understand fundamental financial statements and considered to be financially sophisticated as described in the NASDAQ rules, or considered to be an audit committee financial expert as defined pursuant to the Sarbanes-Oxley Act of 2002. 
+• Whether the candidate would be considered independent under the NASDAQ rules and the Board's additional independence guidelines set forth in Peapack-Gladstone's Corporate Governance Principles. 
+• Demonstrated character and reputation, both personal and professional, consistent with that required for a bank director. 
+• Willingness to apply sound and independent business judgment. 
+• Ability to work productively with the other members of the Board.  
+• Availability for the substantial duties and responsibilities of a Peapack-Gladstone director. 
+• Meets the additional criteria set forth in the Peapack-Gladstone's Corporate Governance Principles. 
+[END TABLE]
+The Nominating Committee considers diversity of experience, both of the individual under consideration and of the Board as a whole, as a factor in identifying nominees for director. In accordance with the Company's Corporate Governance Principles, in assessing candidates for nomination, the Nominating Committee considers, among other factors, the candidate's independence, diversity, skills and experience in the context of the needs of the Board. 
+The Nominating Committee has adopted a policy regarding consideration of director candidates recommended by shareholders. Shareholders wishing to submit a director candidate for consideration by the Committee must submit such director candidate recommendations to the Committee, c/o the Corporate Secretary, 500 Hills Drive, Suite 300, P.O. Box 700, Bedminster, New Jersey 07921, in writing, not less than 120 nor more than 150 days prior to the first anniversary date of the prior year's annual meeting.  For our annual meeting in 2019, we must have received this notice between December 10, 2018 and January 9, 2019.   To ensure that a shareholder wishing to propose a candidate for consideration by the Committee has a significant stake in the Company, to qualify for consideration by the Committee, the shareholder submitting the candidate must demonstrate that he or she has been the beneficial owner of at least 1% of the Company's outstanding shares for a minimum of one year prior to the submission of the request.  In addition, the Committee has the right to require any additional background or other information from any director candidate or the recommending shareholder as it may deem appropriate.  Shareholders who wish to nominate a director must also follow the requirements in our bylaws. For information regarding shareholder nominations of director candidates, see "Shareholder Proposals" below. 
+You can obtain a copy of our policy regarding shareholder recommendations for director candidates by writing to Todd M. Poland, Corporate Secretary, Peapack-Gladstone Financial Corporation, 500 Hills Drive, Suite 300, P.O. Box 700, Bedminster, New Jersey 07921.
+Code of Business Conduct and Conflict of Interest Policy 
+Peapack-Gladstone has adopted a Code of Business Conduct and Conflict of Interest Policy, which applies to all of Peapack-Gladstone's directors, officers and employees. The Code of Business Conduct and Conflict of Interest Policy is available in the Government Documents portion of the Investor Relations section of Peapack-Gladstone's website located at www.pgbank.com. Peapack-Gladstone will disclose any substantive amendments to or waiver from provisions of the Code of Business Conduct and Conflict of Interest Policy on our website as may be required and within the time period specified under applicable SEC and NASDAQ rules.  DIRECTOR COMPENSATION
+The following table summarizes the compensation of the non-employee directors of Peapack-Gladstone in 2018.  Douglas L. Kennedy, as a full-time employee, was not compensated for his service rendered as a director.
+[BEGIN TABLE]
+ Name     Fees Earned or Paid in Cash (1)        Stock Awards (2)        Total    
+ Name     Fees Earned or Paid in Cash (1)        Stock Awards (2)        Total    
+ Carmen M. Bowser     $  44,000        $  24,978        $  68,978    
+ Susan A. Cole        40,000           24,978           64,978    
+ Anthony J. Consi, II        114,000           54,973           168,973    
+ Richard Daingerfield        99,000           44,975           143,975    
+ Edward A. Gramigna, Jr.        80,600           39,994           120,594    
+ Steven A. Kass (3)        47,933           -           47,933    
+ John D. Kissel (4)        42,000           24,978           66,978    
+ James R. Lamb, Esq. (4)        65,000           24,978           89,978    
+ F. Duffield Meyercord        134,000           104,965           238,965    
+ Philip W. Smith, III        46,000           24,978           70,978    
+ Tony Spinelli        50,000           24,978           74,978    
+ Beth Welsh        65,000           24,978           89,978    
+ Name     Number of Shares of Restricted Stock Awarded in 2018        Grant Date Fair Market Value of Stock Awarded (a)        Aggregate Number of Options Outstanding at 12/31/2018        Aggregate Number of Restricted Stock Shares/Units Outstanding at 12/31/2018    
+ Name     Number of Shares of Restricted Stock Awarded in 2018        Grant Date Fair Market Value of Stock Awarded (a)        Aggregate Number of Options Outstanding at 12/31/2018        Aggregate Number of Restricted Stock Shares/Units Outstanding at 12/31/2018    
+ Carmen M. Bowser        707        $  24,978           -           707    
+ Susan A. Cole        707           24,978           -           707    
+ Anthony J. Consi, II        1,556           54,973           -           1,556    
+ Richard Daingerfield        1,273           44,975           -           1,273    
+ Edward A. Gramigna, Jr.        1,132           39,994           2,500           1,132    
+ Steven A. Kass        -           -           -           -    
+ John D. Kissel        707           24,978           12,500           707    
+ James R. Lamb, Esq.        707           24,978           12,500           707    
+ F. Duffield Meyercord        2,971           104,965           12,500           2,971    
+ Philip W. Smith, III        707           24,978           12,500           707    
+ Tony Spinelli        707           24,978           -           707    
+ Beth Welsh        707           24,978           2,500           707    
+    (a)  Represents the aggregate grant date fair value of restricted stock awards in accordance with ASC 718 and are based on the Peapack-Gladstone stock price on the date of grant of $35.33.  See Note 13 – Stock-Based Compensation of Peapack-Gladstone's Annual Report on Form 10-K for the year ended December 31, 2018 for additional information on the valuation methodology. 
+    (3)  Mr. Kass joined the Board of Directors effective January 25, 2018. 
+    (4)  Messrs. Kissel and Lamb retired effective January 31, 2019. 
+[END TABLE]
+ BENEFICIAL OWNERSHIP OF COMMON STOCK
+Certain Beneficial Owners
+The following table sets forth as of March 6, 2019 certain information as to beneficial ownership of each person known to Peapack-Gladstone to own beneficially more than five percent of the outstanding common stock of Peapack-Gladstone. 
+[BEGIN TABLE]
+ Name and Address of Beneficial Owner     Amount and Nature of Beneficial Ownership        Percent of Class    
+ Name and Address of Beneficial Owner     Amount and Nature of Beneficial Ownership        Percent of Class    
+ BlackRock Inc. (1) 55 East 52d Street New York, NY 10055        1,252,633           6.47% 
+ Dimensional Fund Advisors LP (2) Building One 6300 Bee Cave Road Austin, TX 78746        1,126,448           5.82% 
+ Dimensional Fund Advisors LP (2) Building One 6300 Bee Cave Road Austin, TX 78746        1,126,448           5.82% 
+ Entities affiliated with The Banc Funds Company LLC (3) 20 North Wacker Drive Chicago, IL 60606        1,076,957           5.57% 
+ Basswood Capital Management, LLC (4) 645 Madison Avenue, 10th Floor New York, NY 10022        1,057,398           5.46% 
+    (1)  Based on a Schedule 13G/A filed with the SEC on February 6, 2019. 
+    (2)  Based on a Schedule 13G filed with the SEC on February 8, 2019.  
+    (3)  Based on a Schedule 13G/A filed with the SEC on February 12, 2019.  
+    (4)  Based on a Schedule 13G filed with the SEC on February 11, 2019. 
+[END TABLE]
+Stock Ownership of Directors and Executive Officers
+The following table sets forth as of March 1, 2019 the number of shares of Peapack-Gladstone's common stock, beneficially owned by each of the directors/nominees and the executive officers of Peapack-Gladstone for whom individual information is required to be set forth in this proxy statement (the "named executive officers") pursuant to the regulations of the SEC, and by all directors and executive officers as a group.
+[BEGIN TABLE]
+ Name of Beneficial Owner     Amount and Nature of Beneficial Ownership (1)     Percent of Class (2)    
+ Name of Beneficial Owner     Amount and Nature of Beneficial Ownership (1)     Percent of Class (2)    
+ John P. Babcock        70,514        (3)     *    
+ Carmen M. Bowser        1,107        (4)     *    
+ Jeffrey J. Carfora        93,474        (5)     *    
+ Lisa P. Chalkan        10,886        (6)     *    
+ Dr. Susan A. Cole        2,330        (7)     *    
+ Anthony J. Consi, II        101,957        (8)        0.53    
+ Richard Daingerfield        7,637        (9)     *    
+ Edward A. Gramigna, Jr.        10,947        (10)     *    
+ Peter D. Horst        500              *    
+ Steven A. Kass        2,000        (11)     *    
+ Douglas L. Kennedy        140,090        (12)     0.72    
+ F. Duffield Meyercord        86,737        (13)     *    
+ Patrick J. Mullen        340              *    
+ Robert Plante        2,661        (14)     *    
+ Philip W. Smith, III        64,163        (15)     *    
+ Anthony Spinelli        1,137        (16)     *    
+ Beth Welsh        7,161        (17)     *    
+ All directors and executive    officers as a group (26 persons)        799,432        (18)        4.13% 
+    *  Less than one-half of one percent 
+    (1)  Beneficially owned shares include shares over which the named person exercises either sole or shared voting or investment power. It also includes shares owned (1) by a spouse, minor children or by relatives sharing the same home, (2) by entities owned or controlled by the named person and (3) by other persons if the named person has the right to acquire such shares within 60 days by the exercise of any right or option. Unless otherwise noted, all shares are owned of record or beneficially by the named person. 
+    (2)  The number of shares of common stock used in calculating the percentage of the class owned by all directors and executive officers as a group includes shares of common stock outstanding as of March 1, 2019, 78,908 restricted stock units vesting within 60 days, and 30,000 shares purchasable pursuant to options exercisable within 60 days of March 1, 2019. 
+    (3)  Includes 6,138 shares allocated under Peapack-Gladstone's 401(k) Plan, 3,841 shares held through a Rabbi Trust pursuant to a non-qualified deferred compensation plan, 5,137 shares of restricted stock awards, and 11,719 shares of restricted stock units. 
+    (4)  Includes 707 shares of restricted stock units.  
+    (5)  Includes 1,237 shares allocated under Peapack-Gladstone's 401(k) Plan, 5,108 shares purchased under the Employee Stock Purchase Plan, and 6,973 shares of restricted stock units. 
+    (6)  Includes 270 shares allocated under Peapack-Gladstone's 401(k) Plan and 4,012 shares of restricted stock units. 
+    (7)  Includes 707 shares of restricted stock units. 
+    (8)  Includes 1,556 shares of restricted stock units. 
+    (9)  Includes 1,273 shares of restricted stock units.  
+    (10)  Includes 1,132 shares of restricted stock units and 2,500 shares purchasable pursuant to options exercisable within 60 days of March 1, 2019. 
+    (11)  Includes 1,000 shares owned by a family partnership and 1,000 shares owned by Mr. Kass' wife. 
+    (12)  Includes 7,740 shares allocated under Peapack-Gladstone's 401(k) Plan, 11,877 shares held through a Rabbi Trust pursuant to a non-qualified deferred compensation plan, 5,052 shares purchased under the Employee Stock Purchase Plan, and 17,212 shares of restricted stock units.  
+    (13)  Includes 2,971 shares of restricted stock units and 12,500 shares purchasable pursuant to options exercisable within 60 days of March 1, 2019. 
+    (14)  Includes 433 shares purchased under the Employee Stock Purchase Plan and 2,228 shares of restricted stock units. 
+    (15)  Includes 8,391 shares owned by Mr. Smith's wife, 1,335 shares owned by Mr. Smith's management company, 707 shares of restricted stock units, and 12,500 shares purchasable pursuant to options exercisable within 60 days of March 1, 2019. 
+    (16)  Includes 707 shares of restricted stock units. 
+    (17)  Includes 707 shares of restricted stock units, and 2,500 shares purchasable pursuant to options exercisable within 60 days of March 1, 2019. 
+    (18)  Includes 11,754 shares of restricted stock awards, 70,908 shares of restricted stock units vesting within 60 days, 30,000 shares purchasable pursuant to options exercisable within 60 days of March 1, 2019 and 40,000 shares held in a margin account.   
+[END TABLE]
+Stock Ownership Guidelines
+In 2018, the Board of Directors updated the Company's Stock Ownership Guidelines.  The Stock Ownership Guidelines apply to the Board of Directors, the Chief Executive Officer and the executive officers of the Company and impose the following requirements:
+[BEGIN TABLE]
+• All new members elected to the Board must own a minimum of $10,000 in Company stock at the time of his or her appointment; 
+• Directors must maintain five times the amount of the annual Company Board retainer for service on the Board; 
+• The Chief Executive Officer must maintain three times his or her base salary in Company stock; and 
+• Executive officers must maintain one time his or her base salary in Company stock. 
+[END TABLE]
+Individuals can count shares owned in a Company benefit plan towards the stock ownership requirement.  There is no set compliance period to meet the guidelines, with the exception of the minimum ownership requirement applicable to new Board members, which must be met at the time of a new Board member's appointment.  However, until the guidelines are achieved, individuals will be required to retain 100% of any net shares received through a Company grant under the 2012 Long-Term Incentive Plan. 
+PROPOSAL 1
+ELECTION OF DIRECTORS
+The Board has 13 members. Peapack-Gladstone's Nominating Committee has recommended to the Board that the 13 current directors be re-elected for one-year terms expiring at Peapack-Gladstone's 2020 Annual Meeting of Shareholders or until their successors shall have been duly elected and qualified. If, for any reason, any of the nominees become unavailable for election, the proxy solicited by the Board may be voted for a substitute nominee selected by the Board. The Board has no reason to believe that any of the named nominees is unavailable for election or will not serve if elected.
+Unless a shareholder indicates otherwise on the proxy, the proxy will be voted for the persons named in the table below to serve until the expiration of their terms, and thereafter until their successors have been duly elected and qualified. 
+The following table sets forth the names and ages of the Board's nominees for election, the nominees' positions with Peapack-Gladstone (if any), the principal occupation or employment of each nominee for the past five years and the period during which each nominee has served as a director of Peapack-Gladstone. The nominee's prior service as a director includes prior service as a director of the Bank prior to the formation of the holding company. In addition, described below is each director nominee's particular experience, qualifications, attributes or skills that have led the Board to conclude that the person should serve as a director.
+NOMINEES FOR ELECTION AS DIRECTORS
+[BEGIN TABLE]
+ Name and Position With Peapack-Gladstone     Age     Director Since     Principal Occupation or Employment for the Past Five Years; Other Company Directorships 
+ Name and Position With Peapack-Gladstone     Age     Director Since     Principal Occupation or Employment for the Past Five Years; Other Company Directorships 
+ Name and Position With Peapack-Gladstone     Age     Director Since     Principal Occupation or Employment for the Past Five Years; Other Company Directorships 
+ Carmen M. Bowser     64     2017     Retired; former Managing Vice President, Commercial Real Estate Division, Capital One Bank. Ms. Bowser is qualified to serve on the Board of Directors because of her extensive experience in the commercial real estate market, which includes serving as Managing Vice President, Commercial Real Estate Division at Capital One Bank and as Managing Director for Prudential Mortgage Capital Company. Her  expertise and leadership experience is invaluable to the oversight of the Bank's real estate portfolio. 
+ Dr. Susan A. Cole     76     2014     President of Montclair State University.  Dr. Cole is qualified to serve on the Board of Directors because of her 20 years as President of Montclair State University, the second largest university in New Jersey, with approximately 20,000 students, which provides invaluable experience in the oversight of Bank operations.  
+ Anthony J. Consi, II     73     2000     Retired; previously Senior Vice President of Finance and Operations, Weichert Realtors. Mr. Consi is qualified to serve on the Board of Directors because of his 15 years of public accounting experience at Coopers & Lybrand and his 22 years of finance and operations leadership at Weichert Realtors, both of which are invaluable to his role as Audit Committee Chair. 
+ Richard Daingerfield     65     2014     Retired; Executive Vice President and General Counsel of Citizens Financial Group, Inc., Boston, Massachusetts from 2010 to 2014.  Mr. Daingerfield is qualified to serve on the Board of Directors because of his expertise in corporate governance, executive management, risk management, corporate banking and commercial banking. His broad legal experience in all aspects of commercial and retail banking, including international and domestic private banking, are invaluable to his role as Risk Committee Chair. 
+ Edward A. Gramigna, Jr.     58     2012     Partner of Drinker Biddle & Reath LLP. Mr. Gramigna is qualified to serve on the Board of Directors because of his 29 years of experience in trust, estate planning and estate administration, which is invaluable in the oversight of our wealth management division. 
+ Peter D. Horst     57     2019     Chief Marketing Officer with 30 years of marketing leadership experience across diverse industries in consumer and business products, services and technology for market leaders such as General Mills, US West, Hershey, Capital One and Ameritrade. Mr. Horst is also the founder of CMO, Inc. and serves as a consultant, author, speaker, board member and advisor to senior executives on marketing strategy, messaging and growth planning. Mr. Horst is qualified to serve on the Board of Directors because of his extensive marketing experience, which will be invaluable in introducing our new wealth management brand to the market. 
+ Steven A. Kass     62     2018     Retired; Previously senior partner of KPMG from 2014 to 2016.  Mr. Kass was Chief Executive Officer of Rothstein Kass, an accounting firm that specialized in audit, tax and advisory services to hedge fund, private equity and venture capital clients, before it was sold to KPMG in 2014. Mr. Kass is qualified to serve on the Board of Directors because of his public company accounting and management level experience. 
+ Patrick J. Mullen     73     2019     Retired: Previously served as the Director of Banking, State of New Jersey, for the New Jersey Department of Banking and Insurance. Mr. Mullen was responsible for the examination and supervision of all state-chartered banks and credit unions and state-licensed non-bank financial institutions. Mr. Mullen is qualified to serve on the Board of Directors because of his financial services background, which provides invaluable oversight of Bank operations. 
+ Name and Position With Peapack-Gladstone     Age     Director Since     Principal Occupation or Employment for the Past Five Years; Other Company Directorships 
+ Name and Position With Peapack-Gladstone     Age     Director Since     Principal Occupation or Employment for the Past Five Years; Other Company Directorships 
+ Douglas L. Kennedy Chief Executive Officer      62     2012     President and CEO of Peapack-Gladstone and the Bank since 2012. Prior to joining the Company, Mr. Kennedy served as Executive Vice President and Market President at Capital One Bank/North Fork and held key executive level positions with Summit Bank and Bank of America/Fleet Bank. Mr. Kennedy, who began his career in commercial  banking in 1978, is qualified to serve on the Board of Directors because of his over 41 years of commercial banking experience, demonstrated business leadership, judgment and vision. 
+ F. Duffield Meyercord Chairman     72     1991     Chairman of the Board of Peapack-Gladstone and the Bank; Partner of Carl Marks Advisory Group, LLC; President, Meyercord Advisors, Inc. Mr. Meyercord is qualified to serve on the Board of Directors because of his 43 years of experience in directing strategic projects and providing operational advisory services to numerous businesses, which is invaluable to the Board's oversight of corporate strategy. 
+ Philip W. Smith, III     63     1995     President, Phillary Management, Inc., a real estate management company. Mr. Smith is qualified to serve on the Board of Directors because of his 31 years of experience in commercial real estate agency and management, which is invaluable to the Board's oversight of the Company's real estate loan portfolio. 
+ Tony Spinelli     51     2017     Chief Operating Officer and President, Cyberdivision for Fractal Industries, Inc.  Mr. Spinelli also served as Senior Vice President, Chief Information Security Officer, Capital One Bank. Mr. Spinelli is qualified to serve on the Board of Directors because his expertise in cybersecurity, security engineering and compliance will provide insight into emerging threats to the Company and our clients. 
+ Beth Welsh     60     2012     General Manager of Bassett Associates, a real estate management company in Summit, New Jersey.  Ms. Welsh is qualified to serve on the Board of Directors because of her 23 years of experience in the commercial real estate market as well as her past banking experience, which is invaluable to the Board's oversight of the Bank's real estate lending and small business banking. 
+[END TABLE]
+PROPOSAL 2
+ADVISORY VOTE ON COMPENSATION OF NAMED EXECUTIVE OFFICERS 
+We believe that our compensation policies and procedures are competitive, are focused on pay-for-performance principles and are strongly aligned with the long-term interests of our shareholders. We also believe that both the Company and our shareholders benefit from responsive corporate governance policies and constructive and consistent dialogue. The proposal described below, commonly known as a "Say on Pay" proposal, gives you, as a shareholder of Peapack-Gladstone, the opportunity to endorse or not endorse the compensation for our named executive officers.
+As part of the Dodd-Frank Wall Street Reform and Consumer Protection Act of 2010 (the "Dodd-Frank Act"), shareholders were provided an opportunity to approve on an advisory, or non-binding basis, the compensation of our named executive officers. Accordingly, we are asking you to vote on the compensation of Peapack-Gladstone's named executive officers as described under "Compensation Discussion and Analysis" and the tabular disclosure regarding named executive officer compensation (together with the accompanying narrative disclosure) in this proxy statement. Your vote is advisory and will not be binding upon the Board. However, the Compensation Committee will take into account the outcome of the vote when considering future executive compensation arrangements. The following summarizes the backgrounds of the named executive officers.
+[BEGIN TABLE]
+• Mr. Kennedy joined the Bank in October 2012 as Chief Executive Officer. He is a career banker with over 41 years of commercial banking experience. Previously, Mr. Kennedy served as Executive Vice President and Market President at Capital One Bank/North Fork and held key executive level positions with Summit Bank and Bank of America/Fleet Bank.  Mr. Kennedy has a Bachelor's Degree in Economics and a MBA from Sacred Heart University in Fairfield, Connecticut. 
+• Mr. Carfora joined the Bank in April 2009 as Chief Financial Officer having previously served as a Transitional Officer with New York Community Bank from April 2007 until January 2008 as a result of a merger with PennFed Financial Services Inc. and Penn Federal Savings Bank (collectively referred to as "PennFed").  Prior to the merger, Mr. Carfora served as Chief Operating Officer of PennFed from October 2001 until April 2007 and Chief Financial Officer from December 1993 to October 2001. Mr. Carfora has nearly 39 years of experience, including 36 years in the banking industry. Mr. Carfora has a Bachelor's Degree in Accounting and an M.B.A in Finance, both from Fairleigh Dickinson University and is a Certified Public Accountant. 
+• Mr. Plante joined the Bank in March 2017 as Chief Operating Officer. Mr. Plante previously served as Chief Operating Officer at Israel Discount Bank New York. Mr. Plante also served as Chief Information Officer at CIT Group and also held senior leadership positions at GE Capital Global Consumer Finance and with the Geary Corporation, a privately held IT consulting Company. Mr. Plante has a Bachelor of Science in Business Administration in Finance, from the University of Vermont. 
+• Mr. Babcock joined the Bank in March 2014 as Senior Executive Vice President of the Bank and President of Private Wealth Management.  Mr. Babcock has 38 years of experience in commercial and wealth management/private bank businesses in New York City and regional markets through mergers, expansions, rapid growth and periods of significant organizational change.  Prior to joining the Bank, Mr. Babcock was the managing director of the Northeast Mid-Atlantic region for the HSBC Private Bank.  Mr. Babcock graduated from Tulane University's A.B. Freeman School of Business and has an M.B.A. from Fairleigh Dickinson University.  Mr. Babcock holds FINRA Series 7, 63 and 24 securities licenses.  
+• Ms. Chalkan joined the joined the Bank in April 2015.  Ms. Chalkan has more than 31 years of financial services experience with a concentration in risk management, credit administration, underwriting and managing of policies and procedures.  Ms. Chalkan was promoted to Executive Vice President and Chief Credit Officer in April 2016.  Prior to joining Peapack-Gladstone Bank in 2015, Ms. Chalkan served key roles at Capital One N.A. as Senior Vice President, Head of Commercial Policy; Director of Loan Administration/Commercial Banking; and Manager of Middle Market Underwriting/New Jersey. Prior to her tenure at Capital One, Ms. Chalkan held key positions at Bank of America/Fleet Bank, and HSBC Bank USA/HSBC Securities, Inc. as Vice President, Underwriting Manager, in Small Business Services and Risk Review Field Manager, respectively. Ms. Chalkan holds a Bachelor of Arts Degree in Economics from Rutgers University. 
+[END TABLE]
+THE BOARD OF DIRECTORS UNANIMOUSLY RECOMMENDS A VOTE "FOR" THE NON-BINDING APPROVAL OF THE COMPENSATION OF THE NAMED EXECUTIVE OFFICERS.
+PROPOSAL 3
+RATIFICATION OF THE APPOINTMENT OF THE 
+INDEPENDENT REGISTERED PUBLIC ACCOUNTING FIRM 
+The Audit Committee of the Board of Directors appointed Crowe LLP as the independent registered public accounting firm for the fiscal year ending December 31, 2019. Representatives from Crowe LLP are expected to be present at the annual meeting to answer questions and they will have the opportunity to speak if desired. The Audit Committee will consider the outcome of our shareholders' vote in connection with the selection of Crowe LLP, but is not bound by the vote. If the appointment is not ratified, the Audit Committee will consider whether a different independent registered public accounting firm should be selected.
+Aggregate fees for the fiscal years ending December 31, 2018 and December 31, 2017 billed by Crowe LLP were as follows:
+[BEGIN TABLE]
+ Type of Service     2018        2017    
+ Audit Fees     $  455,000        $  470,000    
+ Audit-Related Fees (1)        62,500           145,208    
+ Total     $  517,500        $  615,208    
+[END TABLE]
+[BEGIN TABLE]
+ (1)  Includes fees for procedures related to registration statements for 2018 and the offering of subordinated debt and consents for registration statements for 2017.  
+[END TABLE]
+ THE BOARD OF DIRECTORS UNANIMOUSLY RECOMMENDS A VOTE "FOR" THE RATIFICATION OF THE APPOINTMENT OF CROWE LLP AS OUR INDEPENDENT REGISTERED PUBLIC ACCOUNTING FIRM FOR THE FISCAL YEAR ENDING DECEMBER 31, 2019.
+Audit Committee Pre-Approval Procedures
+The Audit Committee maintains a policy concerning the pre-approval of audit and non-audit services to be provided by the independent registered public accounting firm to Peapack-Gladstone. The policy requires that all services to be performed by Peapack-Gladstone's independent registered public accounting firm, including audit services, audit-related services and permitted non-audit services, be pre-approved by the Audit Committee. Specific services being provided by the independent registered public accounting firm are regularly reviewed in accordance with the pre-approval policy. At subsequent Audit Committee meetings, the Audit Committee receives updates on the services actually provided by the independent registered public accounting firm, and management may present additional services for approval. All services rendered by Crowe LLP are permissible under applicable laws and regulations. Each new engagement of Crowe LLP in 2018 was approved in advance by the Audit Committee.
+Audit Committee Report
+To the Board of Directors of Peapack-Gladstone Financial Corporation: 
+The Company's management is responsible for the Company's internal control over financial reporting.  The Company's independent registered public accounting firm is responsible for performing an independent audit of the Company's consolidated financial statements and issuing an opinion on the conformity of those financial statements with U.S. generally accepted accounting principles.  The independent registered public accounting firm is also responsible for issuing an opinion on the Company's internal control over financial reporting based on criteria issued by the Committee on Sponsoring Organizations of the Treadway Commission.  The Audit Committee oversees the Company's internal control over financial reporting on behalf of the Board of Directors.
+In this context, the Audit Committee has met and held discussions with management and the independent registered public accounting firm.  Management represented to the Audit Committee that the Company's consolidated financial statements were prepared in accordance with U.S. generally accepted accounting principles, and the Audit Committee has reviewed and discussed the consolidated financial statements with management and the Company's independent registered public accounting firm.  
+We have discussed with the independent auditors the matters required to be discussed by Auditing Standard No. 1301, adopted by the Public Company Accounting Oversight Board regarding the independent accountant's communications with the Audit Committee concerning independence, and have discussed with the independent accountant the independent accountant's independence.  In concluding that the independent registered public accounting firm is independent, the Audit Committee considered, among other factors, whether the non-audit services provided by the firm were compatible with its independence.
+The Audit Committee discussed with the Company's independent registered public accounting firm the overall scope and plans for their audit.  The Audit Committee meets with the independent registered public accounting firm, with and without management present, to discuss the results of their examination, their evaluation of the Company's internal control over financial reporting and the overall quality of the Company's financial reporting process. In performing these functions, the Audit Committee acts only in an oversight capacity.  In its oversight role, the Audit Committee relies on the work and assurances of the Company's management, which has the primary responsibility for financial statements and reports, and of the independent registered public accounting firm that, in its report, expresses an opinion on the conformity of the Company's financial statements with U.S. generally accepted accounting principles.  The Audit Committee's oversight does not provide it with an independent basis to determine that management has maintained appropriate accounting and financial reporting principles or policies, or appropriate internal control over financial reporting designed to ensure compliance with accounting standards and applicable laws and regulations.  Furthermore, the Audit Committee's considerations and discussions with management and the independent registered public accounting firm do not ensure that the Company's financial statements are presented in accordance with U.S. generally accepted accounting principles, that the audit of the Company's financial statements has been carried out in accordance with the standards of the Public Company Accounting Oversight Board (United States) or that the Company's independent registered public accounting firm is "independent." 
+Based on the reviews and discussions referred to above, we recommend to the Board of Directors that the audited financial statements referred to above be included in Peapack-Gladstone's Annual Report on Form 10-K for the year ended December 31, 2018. 
+The Audit Committee of the Board of Directors
+Anthony J. Consi, II, Chair
+Richard Daingerfield
+Edward A. Gramigna, Jr.
+Steven A. Kass
+Beth Welsh
+March 6, 2019 COMPENSATION DISCUSSION AND ANALYSIS
+The following is a discussion and analysis of our compensation programs as they apply to our Chief Executive Officer ("CEO"), our Chief Financial Officer ("CFO"), and the other three highest compensated individuals who were serving as executive officers at the end of 2018 (collectively, the "named executive officers").
+[BEGIN TABLE]
+ Named Executive Officer     Position 
+ Douglas L. Kennedy     President and Chief Executive Officer 
+ Jeffrey J. Carfora     Senior EVP and Chief Financial Officer 
+ Robert A. Plante     EVP and Chief Operating Officer 
+ John P. Babcock     Senior EVP and President- Private Wealth Management 
+ Lisa P. Chalkan     EVP and Chief Credit Officer 
+[END TABLE]
+Executive Summary
+2018 Financial Highlights and Company Performance
+The Compensation Committee of the Board of Directors (the "Committee") believes that the Company, under the leadership and guidance of its CEO and other named executive officers, has been successful in executing its Strategic Plan – "Expanding Our Reach."  
+In particular, the Committee noted the following factors, which it believes demonstrated the success of the Company and of the CEO and other named executive officers individually in 2018:
+[BEGIN TABLE]
+• For the year ended December 31, 2018, the Company reflected year over year improvement in profitability as shown in the table below: 
+[END TABLE]
+[BEGIN TABLE]
+  (Dollars in millions, except EPS)     2018 as reported(A)           2018 as adjusted(A)           2017           2018 as adjusted vs. 2017    
+ Pretax income     $  57.72           $  60.18           $  54.31           $  5.87           11% 
+ Net income     $  44.17           $  45.31           $  36.50           $  8.81           24% 
+ Diluted earnings per share (EPS)     $  2.31           $  2.37           $  2.03           $  0.34           17% 
+ Total revenue     $  159.36           $  160.75           $  145.77           $  14.98           10% 
+ Return on average assets        1.02%           1.05%           0.89%           0.16%        18% 
+ Return on average equity        10.13%           10.39%           10.12%           0.27%        3% 
+[END TABLE]
+[BEGIN TABLE]
+    (A)  The 2018 year as reported included a $4.39 million loss on sale of multifamily loans; $3.00 million of life insurance proceeds related to the December 31, 2018 passing of the founder and managing principle of MCM; $319,000 of severance expense related to the elimination of select positions; a $405,000 write-down of intangible assets related to MCM; and $340,000 of professional fees related to investment banking and other fees associated with the Lassus Wherley acquisition.  These five items reduced pretax income by $2.46 million, net income by $1.14 million, EPS by $0.06, ROAA by 0.03%, and ROAE by 0.26%.  2018 as adjusted excludes these items. 
+[END TABLE]
+[BEGIN TABLE]
+• At December 31, 2018, the market value of AUM/AUA at the Private Wealth Management Division of Peapack-Gladstone Bank (the "Bank") increased $319 million to $5.8 billion from $5.5 billion at December 31, 2017. While new business and the Lassus Wherley acquisition accounted for significant growth, negative market action (particularly in the fourth quarter of 2018) offset much of that growth. 
+• Loans at December 31, 2018 totaled $3.93 billion.  This reflected net growth of $227 million, or 6%, when compared to the $3.71 billion at December 31, 2017.  This loan growth was principally funded by "customer" deposit growth (defined as deposits excluding brokered CDs and brokered "overnight" interest-bearing demand deposits). 
+• Deposits totaled $3.90 billion at December 31, 2018.  This reflected net growth of $197 million (5%) when compared to $3.70 billion at December 31, 2017. 
+[END TABLE]
+[BEGIN TABLE]
+• Asset quality metrics continued to be strong at December 31, 2018.  Nonperforming assets at December 31, 2018 were $25.7 million, or 0.56% of total assets.  Total loans past due 30 through 89 days and still accruing were $3.48 million, or 0.09% of total loans at December 31, 2018.  
+• The Company's and Bank's capital ratios at December 31, 2018 all increased significantly compared to the December 31, 2017 levels. And, such ratios remain well above regulatory well capitalized standards. 
+[END TABLE]
+2018 Executive Performance Plan Results
+For 2018, overall results were almost all better than our budget/plan for 2018 ("2018 Budget") as shown in the table below.
+[BEGIN TABLE]
+  (Dollars in millions, except EPS)     2018 as adjusted(A)        2018 Budget        2018 as adjusted vs. 2018 budget    
+ Pretax income     $  60.18        $  58.80        $  1.38           2% 
+ Net income     $  45.31        $  43.51        $  1.80           4% 
+ Diluted earnings per share (EPS)     $  2.37        $  2.28        $  0.09           4% 
+ Total revenue     $  160.75        $  165.23        $  (4.48)        -3% 
+ Return on average assets        1.05%        0.97%        0.08%        8% 
+ Return on average equity        10.39%        9.95%        0.44%        4% 
+[END TABLE]
+[BEGIN TABLE]
+    (A)  See table and footnote on prior page for calculation of 2018 as adjusted. 
+[END TABLE]
+For purposes of the Company's Executive Performance Plan (the "EPP"), Company performance was measured as follows:
+[BEGIN TABLE]
+• Threshold – 85% of "2018 Budget achievement"; 
+• Target – 100% of "2018 Budget achievement": and 
+• Maximum – 110% and above of "2018 Budget achievement." 
+[END TABLE]
+2018 Budget achievement is based on pretax income, net income and EPS, which when averaged were 3.5% over budget.
+After consideration of 2018's results to budget, we considered Company's performance to be at 103.5% of budgeted earnings and to be rated at this level under the Executive Performance Plan, as shown in the table on page 24.
+Compensation Philosophy and Program Objectives
+The fundamental objective of the Company's executive compensation program, the elements of which are summarized in the table below, is to fairly compensate our named executive officers at levels appropriate in our market and grant equity compensation to align the interests of our named executive officers with those of our shareholders. Our compensation program is designed to retain and attract qualified executives and motivate such executives to achieve short- and long-term strategic and operational goals that strengthen our franchise value and ultimately deliver shareholder value. We believe in a pay-for-performance philosophy that appropriately aligns our executives' total compensation with the performance and value of their contributions and the Company's ultimate success. 
+[BEGIN TABLE]
+ Element  Purpose  Link to Performance  Fixed/Performance Based 
+ Annual Cash Bonus (STI)  Encourages achievement of short-term strategic and financial performance metrics that create long-term shareholder value  Based on achievement of short-term, pre-defined corporate performance objectives and an assessment of individual performance  Performance Based 
+ Equity (LTI)  Encourages achievement of short-term strategic and financial performance metrics that create long-term shareholder value  In 2018, the Committee adopted a new LTI Plan design intended to further interlace executive pay with Company performance. The grant value was based on prior year performance, while the vesting for the CEO and SEVPs is 50% based on performance of a 3-year EPS growth metric and 50% time-based (25% performance-based and 75% time-based for EVPs)  Performance Based 
+ Benefits and Perquisites  Establishes limited perquisites in line with market practice, as well as health and welfare benefits on the same basis as our general employee population  --  Fixed 
+[END TABLE]
+2018 CEO Compensation Decisions
+The Company made the following key decisions regarding Mr. Kennedy's compensation package for 2018:
+[BEGIN TABLE]
+• Salary: After receiving no salary increases between 2012 and 2016, the Company provided an increase in 2017 and an increase in April 2018 to $695,000. This increase is based on an analysis of Mr. Kennedy's compensation compared to the compensation peer group as well as Mr. Kennedy's and the Company's performance for 2017.  Mr. Kennedy did not receive an increase in 2019 related to 2018 performance. 
+• Cash Incentive: The cash incentive was based on Company and individual performance in 2018: 
+    o  2018 Company Performance (75% weighting): Company performance for 2018 was achieved at 103.5% of budget. Based on the cash incentive plan calculation, 103.5% of budget calculates to the Company performance portion of the cash incentive plan as discussed previously. 
+    o  2018 Individual Performance (25% weighting): Individual performance for 2018 was rated at the target level. The following includes the significant objectives considered in determining Mr. Kennedy's individual performance, all of which were met or exceeded: continue to expand our wealth business; continue to expand our C&I lending business; continue to enhance the client experience; continue to drive risk management excellence; continue migration to a private banking model; continue to focus on expanding fee based revenue; continue to enhance communications with shareholders; and deliver financial results. 
+    o  2018 Payout: Based on the Company and individual results outlined above, the cash incentive award calculated and paid to Mr. Kennedy was $463,913. 
+    o  Change in weighting for 2019 performance and beyond:  For the 2019 performance year and beyond, Mr. Kennedy's cash incentive will be based solely on Company performance (100% weighting). 
+• Equity Incentive: The 2018 long-term incentive award granted to Mr. Kennedy was based on 2017 performance: 
+    o  2017 Company Performance (75% weighting): Company performance for 2017 was achieved at 118% of budget. Based on the incentive plan calculation, 118% of budget corresponds to a maximum incentive payout. 
+    o  2017 Individual Performance (25% weighting): Individual performance for 2017 was rated at the maximum level. 
+    o  2018 Grant: The 2018 grant for Mr. Kennedy was made at the maximum level (165% of salary or $989,947). The grant was divided into two equal pieces: 
+▪ 50% Performance-Vested: Half of the award will cliff vest based on 3-year EPS growth relative to the compensation peer group. 
+▪ 50% Time-Vested: Half of the award will vest equally over three years. 
+[END TABLE]
+2019 Compensation Changes
+The compensation plans are continually re-assessed to ensure a strong pay for performance link. For 2019, the Committee has made the following decisions regarding the compensation program in order to continue to more strongly align our performance with compensation:
+[BEGIN TABLE]
+• For the annual incentive plan, the CEO's and CFO's awards will be 100% based on Company performance. 
+• For the equity incentive, all equity awards to proxy officers will be at least 50% performance vested. 
+• No salary increases were given to any of the proxy officers for 2019. 
+[END TABLE]
+Summary of Key Compensation Compliance Policies
+[BEGIN TABLE]
+ Policy  Description 
+ Stock Ownership  Our directors and named executive officers are subject to meaningful stock ownership guidelines. 
+ Clawback  All awards (cash and equity) made under the EPP are subject to clawback based on inaccurate financial statements. 
+ No Excise Tax Gross-Ups  No 280G tax gross-up provisions in our executive's agreements. 
+ Double Trigger CIC Severance  Cash severance is not automatically triggered upon a change-in-control without a corresponding termination. 
+ Double Trigger Equity in CIC  Equity grants require a change-in-control along with a corresponding termination in order to trigger an acceleration of equity in the case of a change-in-control. 
+[END TABLE]
+[BEGIN TABLE]
+ Anti-Hedging Policy  The Committee maintains a policy prohibiting our executives from hedging Peapack shares, including buying or selling puts or calls, short sales, or engaging in any other transaction designed to hedge or offset any decrease in the market value of Peapack's stock. 
+ Anti-Pledging Policy  The Committee maintains a policy prohibiting our executives and directors from holding Peapack shares in a margin account as collateral for a margin loan or otherwise pledging Peapack shares as collateral for a loan. 
+[END TABLE]
+Roles and Decision Process 
+The Compensation Committee is responsible for establishing and overseeing policies governing annual and long-term compensation programs for our executives, and for determining executive compensation levels in line with our philosophy. Details of the Committee's functions are more fully described in its charter, which has been approved by the Board of Directors and is available on our website. The Chair of the Committee regularly reports on Committee actions at the Company's Board of Directors meetings. 
+The Committee reviews all compensation components for the Company's CEO and other named executive officers, including base salary, annual cash and equity incentives, benefits and contracts/arrangements.
+Although the Committee makes independent determinations on all matters related to compensation of the named executive officers, certain members of management may be requested to attend or provide input to the Committee. The CEO provides advice to the Committee relative to the compensation of the other named executive officers. The CEO is not present for the discussion by the Committee of his compensation.  Other senior officers, such as the Head of Human Capital, General Counsel, and/or the CFO may provide information and perspective to the Committee as appropriate and/or as requested. The Committee's independent compensation consultant (McLagan) also provides market data and advice as appropriate. The Committee makes all of its determinations based on an assessment of the Company's performance and individual performance and on data provided by management and its independent compensation consultant.
+The Committee has the sole authority to retain, terminate, obtain advice from, oversee and compensate its outside advisors, including its independent compensation consultant. The Committee has determined that it has the funding it needs to retain the advisors necessary to carry out its duties effectively. In 2013, the Committee first retained McLagan as an independent outside compensation consultant. McLagan was retained again for 2018. McLagan's services included peer group development and market benchmarking studies, assisting with the design and subsequent review of the incentive program, and providing insight and best practices with respect to the compensation of our named executive officers as well as the implementation of employment agreements and change in control agreements.  
+While the Committee seeks independent external perspective, the Committee makes all decisions regarding the compensation of Peapack-Gladstone's named executive officers. 
+The Committee reviewed its relationship with McLagan and considered McLagan's independence in light of all relevant factors, including those set forth in Rule 10C-1(b)(4)(i) through (vi) under the Securities Exchange Act of 1934 and under the applicable NASDAQ listing rules.  The Compensation Committee received a report from McLagan addressing its independence, including the following factors: (1) there were no services provided to the Company, other than compensation related to consulting services provided by McLagan; (2) fees paid by the Company as a percentage of total revenue of AON, McLagan's parent company; (3) policies or procedures maintained by McLagan that are designed to prevent a conflict of interest; (4) any business or personal relationships between the senior advisors of McLagan and a member of the Compensation Committee; (5) any Company stock owned by the senior advisors of McLagan; and (6) any business or personal relationships between the executives and the senior advisors of McLagan. The Compensation Committee discussed these considerations and concluded that the work performed by McLagan and McLagan's senior advisors involved in the engagements did not raise any conflict of interest.
+Compensation Review
+Understanding the competitive landscape is a key element the Committee considers in making compensation decisions. Each year, the Committee commissions a compensation review by its independent compensation consultant. The purpose of this review is to provide an independent and objective analysis of our total compensation relative to a peer group and industry practices. The Committee utilizes the market data and best practices information for ongoing monitoring of executive pay relative to market practices and to determine executive compensation.
+The foundation for the review is data from a peer group of banks. In late 2017, the Committee reviewed benchmarking information provided by McLagan that the Committee used to set 2018 compensation. The peer group for this  study consisted of 18 commercial banks selected by the Committee after considering recommendations from McLagan. The selection criteria generally included: eastern U.S. commercial banks in metro areas with total revenue between $70 million and $300 million, non-interest income to total revenue greater than 12.5% or trust and investment revenue greater than $2 million; and nonperforming assets to total assets less than or equal to 2%. This peer group of 18 banks had median total assets of $4.5 billion (comparable to the Company's $4.3 billion at December 31, 2017 and $4.6 billion at December 31, 2018), and median revenue of $156 million (comparable to the Company's $146 million for 2017 and $159 million for 2018). 
+The peer group consisted of the following 18 banks: 
+[BEGIN TABLE]
+• Arrow Financial Corp.• First of Long Island Corp. 
+• Bryn Mawr Bank Corp.• Lakeland Bancorp 
+• Cambridge Bancorp• Peoples Financial Services 
+• Century Bancorp Inc.• Republic First Bancorp Inc. 
+• Chemung Financial Corp.• Sandy Spring Bancorp Inc. 
+• Customers Bancorp Inc.• Tompkins Financial Corporation 
+• Dime Community Bancshares Inc.• TriState Capital Holdings Inc. 
+• Eagle Bancorp Inc• Univest Corp. of Pennsylvania 
+• Enterprise Bancorp Inc.• Washington Trust Bancorp Inc. 
+[END TABLE]
+The Committee uses competitive compensation data from the annual total compensation study of peer companies to inform its decisions about overall compensation opportunities and specific compensation elements. Additionally, the Committee uses multiple reference points when establishing targeted compensation levels. The Committee does not benchmark specific compensation elements or total compensation to any specific percentile relative to the peer companies or the broader U.S. market. Instead, the Committee applies judgment and discretion in establishing targeted pay levels, taking into account not only competitive market data, but also factors such as Company, business and individual performance, scope of responsibility, critical needs and skill sets, leadership potential and succession planning.
+Say on Pay Consideration
+The Committee also considers feedback from our shareholders in making compensation determinations. At the 2018 Annual Meeting, over 89% of votes cast were in favor of the say-on-pay proposal. We view this as a positive endorsement of pay practice. Notwithstanding this strong support, we continue to monitor our pay alignment and seek ways to improve our compensation program. As a result, the Committee has decided to restructure the long-term incentive plan for 2019 and beyond to provide for a greater percentage of awards, the vesting of which is linked to the performance of the Company.  More detail on the specifics of that plan can be found in the Executive Performance Plans section below.
+Elements of Compensation and Decisions
+We target our total compensation in a way that is fair and appropriate considering market conditions, peer group comparisons, Company performance, individual performance, as well as our long-term strategic goals. We believe our compensation policies and practices appropriately balance risk against our desire to award competitive compensation and are unlikely to have an adverse effect on our Company. The elements of our compensation include base salary and short-term incentive awards, long-term incentive awards and long-term strategic plan awards under our EPP as highlighted below.
+Base Salary
+Our named executive officers' base salaries are set to reflect a combination of factors, including but not limited to, level of responsibility, being competitive in the market, experience, skill-set, and individual performance, as well as the Company's compensation philosophy and overall performance. We design our base salaries in significant part to retain and attract talented executives who can help drive long-term shareholder value. We believe we must keep our base salaries competitive, within the context of our compensation culture, or risk losing executive talent because the markets in which we operate present current and potential executives with higher-paying alternatives. Given our rapid revenue and asset growth, the market analysis showed our executives significantly behind our desired positioning relative to the peer group. Based on such market analysis, along with individual and Company performance, including the named executive officer's performance, leadership, operational effectiveness and experience in the industry, we made significant adjustments to our named executive officer's salaries in 2018. The following summarizes the 2017 and 2018 salaries for the Company's named executive officers:
+[BEGIN TABLE]
+ Named Executive Officer     2017 Base Salary Rate        2018 Base Salary Rate% Increase    
+ Named Executive Officer     2017 Base Salary Rate        2018 Base Salary Rate% Increase    
+ Douglas L. Kennedy President and Chief Executive Officer     $  600,000        $  695,000           16% 
+ Jeffrey J. Carfora Senior EVP and Chief Financial Officer     $  316,000        $  376,000           19% 
+ Robert A. Plante EVP, Chief Operating Officer     $  300,000        $  365,000           22% 
+ John P. Babcock Senior EVP, President- Private Wealth Management     $  500,000        $  545,000           9% 
+ Lisa P. Chalkan EVP Chief Credit Officer     $  270,000        $  325,000           20% 
+[END TABLE]
+Executive Performance Plans
+The EPP consisted of the following two components, as previously described:
+[BEGIN TABLE]
+• Short-term incentive awards ("STI Awards") that provided an annual cash incentive opportunity based on achievement of pre-defined Company and individual performance goals; 
+• Long-term incentive awards ("LTI Awards") that provided annual restricted stock awards, with three-year vesting, with vesting partially performance-based and partially time-based. 
+[END TABLE]
+The amount of STI Awards and LTI Awards earned by each named executive officer is dependent on the achievement of both Company goals and individual goals.  The following chart depicts the potential for awards granted to each named executive officer under the EPP. The percentages referenced in the chart with respect to the STI Awards (Cash) and LTI Awards (Restricted Stock) refer to percentages of base salary.
+[BEGIN TABLE]
+       Goals & Objectives        STI Awards (Cash)        LTI Awards (Stock)       
+       Company        Individual        Threshold        Target        Max        Threshold        Target        Max       
+ Douglas L. Kennedy President and Chief Executive Officer        75%        25%        45%        60%        90%        55%  (A)     100%  (A)     165%  (A) 
+ Douglas L. Kennedy President and Chief Executive Officer        75%        25%        45%        60%        90%        55%  (A)     100%  (A)     165%  (A) 
+ Jeffrey J. Carfora Senior EVP and Chief Financial Officer        75%        25%        30%        40%        60%        50%  (A)     90%  (A)     150%  (A) 
+ Robert A. Plante EVP and Chief Operating Officer        50%        50%        23%        30%        45%        35%  (B)     60%  (B)     105%  (B) 
+ John P. Babcock President of Private Wealth Management        50%        50%        30%        40%        60%        50%  (A)     90%  (A)     150%  (A) 
+ Lisa P. Chalkan EVP and Chief Credit Officer (C)        50%        50%        23%        30%        45%        25%  (B)     40%  (B)     75%  (B) 
+• the safety and soundness of the Company; 
+• unexpected events that occur during the year; 
+• the Company's performance relative to its peer group; 
+• regulatory changes; and 
+• extraordinary efforts in achieving financial and/or non-financial, but important strategic goals. 
+[END TABLE]
+While the Committee had the discretion to modify awards, this discretion was not utilized and is not expected to be utilized with the exception of extraordinary circumstances.
+Short Term Incentive Awards - Company Performance Calculation
+The following table shows the income targets at various levels compared to the actual performance of the Company and the corresponding Company performance achievement as it relates to payouts for the annual STI (cash) awards in the EPP.
+[BEGIN TABLE]
+       Threshold (85% of Budget)        Target 2018 Budget        Max (110% of Budget)     2018 as adjusted (A)  Company Performance - 2018 as adjusted as% of Budget    
+       Threshold (85% of Budget)        Target 2018 Budget        Max (110% of Budget)     2018 as adjusted (A)  Company Performance - 2018 as adjusted as% of Budget    
+ Pretax  Income (in millions)     $  49.98        $  58.80        $  64.68        $  60.18           102% 
+ Net Income (in millions)     $  36.98        $  43.51        $  47.86        $  45.31           104% 
+ Diluted earnings per share (EPS)     $  1.94        $  2.28        $  2.51        $  2.37           104% 
+                                           Average        103.5%    
+[END TABLE]
+[BEGIN TABLE]
+ Company Performance  Performance as% of Budget     Cash Award as% of Target     CEO Award as% of Salary     SEVP Award as% of Salary     EVP Award as% of Salary    
+ Threshold     90%     75%     45%     30%     22.5% 
+ Target     100%     100%     60%     40%     30% 
+ Max     110%     150%     90%     60%     45% 
+ 2018 Actual     103.5%     115%     69%     46%     35% 
+[END TABLE]
+[BEGIN TABLE]
+ Named Executive Officer     2018 Base Salary Rate     Company Weighting     Award as% of Salary     Individual Weighting     Award as% of Salary% of Base Salary    
+ Douglas L. Kennedy President and Chief Executive Officer     $  695,000        75%     51.75%     25%     15.25%     67% 
+ Douglas L. Kennedy President and Chief Executive Officer     $  695,000        75%     51.75%     25%     15.25%     67% 
+ Jeffrey J. Carfora Senior EVP and Chief Financial Officer     $  376,000        75%     34.50%     25%     10.50%     45% 
+ Robert A. Plante EVP and Chief Operating Officer     $  365,000        50%     17.25%     50%     22.75%     40% 
+ John P. Babcock President of Private Wealth Management     $  545,000        50%     23.00%     50%     30.00%     53% 
+ Lisa P. Chalkan EVP and Chief Credit Officer     $  325,000        50%     17.25%     50%     22.75%     40% 
+ Named Executive Officer     Company Weighting Company Performance as% of Budget  Individual Weighting Individual Performance Rating  Company Weighted STI     Individual Weighted STI     Total STI (Cash) Paid for 2018% of Base Salary% of Target    
+ Douglas L. Kennedy     75%  25%                                              
+ President and Chief Executive Officer     103.5% of target  Target  $  359,663     $  104,250     $  463,913        67%     111% 
+ Jeffrey J. Carfora     75%  25%                                              
+ Senior EVP and Chief Financial Officer     103.5% of target  Target  $  129,720     $  37,600     $  167,320        45%     111% 
+ Robert A. Plante     50%  50%                                              
+ EVP and Chief Operating Officer     103.5% of target  Max  $  62,963     $  82,125     $  145,088        40%     133% 
+ John P. Babcock     50%  50%                                              
+ President of Private Wealth Management     103.5% of target  Max  $  125,350     $  163,500     $  288,850        53%     133% 
+ Lisa P. Chalkan     50%  50%                                              
+ EVP and Chief Credit Officer     103.5% of target  Max  $  56,063     $  73,125     $  129,188        40%     133% 
+[END TABLE]
+In 2017, the Committee approved an amended long-term portion of the EPP, which took effect in 2018.  The new LTI plan is split between performance-vested and time-vested shares.  The LTI portion of the plan provides annual restricted stock awards, with the shares or units granted anywhere from a threshold amount to a maximum amount, considering Company as well as individual performance. The performance-based shares will vest at the conclusion of a three-year period provided that certain EPS growth targets relative to the compensation peer group have been achieved. The time-based shares vest over these years ratably. This grant is intended to motivate executives to focus on the achievement of the Company's high-performing long-term strategic planning goals and to further align Company executives with shareholders. 
+[BEGIN TABLE]
+ LTI Plan% of Grant  Performance Metric  Vesting Length  Vesting Type  Grant Value Determination  # of shares vested 
+ CEO & SEVPs  EVPs 
+ Time-Vested Shares  50%  75%  n/a  3 years  Ratable  Granted based on prior year's performance   100% of shares granted 
+ Performance-Vested Shares  50%  25%  3-yr relative EPS Growth  3 years  Cliff  Granted based on prior year's performance   Threshold  Target  Maximum 
+ 25th percentile of peer EPS growth = approximately 55% of grant  50th percentile of peer EPS growth = 100% of grant  75th percentile of peer EPS growth = approximately 165% of grant 
+[END TABLE]
+Our long-term incentive awards are designed to focus our executives on long-term performance and shareholder value. We granted long-term incentive awards to Messrs. Kennedy, Carfora, Plante, Babcock, and Ms. Chalkan in March 2018. The grant values were based on 2017 Company performance and 2017 individual performance. Company performance for 2017 was at the maximum level. Individual performance was rated at the maximum for 2017. The individual performance of those other four named executive officers was determined by the CEO and agreed to by the Compensation Committee. Among other things, the CEO considered performance relative to: specifics relative to each individual's responsibilities as included in the budget, wherever applicable; specifics relative to each individual's responsibilities as included in prior year results, wherever applicable; and various goals and targets previously set by the CEO and the individual at the beginning of the fiscal year, including personal accountability for critical performance with respect to standard banking industry company metrics, such as deposit growth, loan growth, credit quality, efficiency ratio, and other such goals.  The use of individual goals represents the clear assignment by the Compensation Committee of direct personal accountability for specific financial, organizational, operational and risk management objectives, the attainment of which contribute significantly to the Company's performance.  
+The following table shows the income targets at various levels compared to the actual 2017 performance of the Company and the corresponding Company performance achievement as it relates to payouts for the annual LTI (restricted stock) awards.
+[BEGIN TABLE]
+       Threshold (85% of Budget)     Target 2017 Budget     Max (110% of Budget)  2017 Actual  Company Performance 2017 as% of Budget 
+       Threshold (85% of Budget)     Target 2017 Budget     Max (110% of Budget)  2017 Actual  Company Performance 2017 as% of Budget 
+ Pretax  Income (in millions)     $40.97     $48.20     $53.02     $54.31     113% 
+ Net Income (in millions)     $25.41     $29.89     $32.88     $36.50     122% 
+                         Average     118% (= Max) 
+[END TABLE]
+The Committee concluded Company performance was achieved at maximum for 2017, as calculated. The following table shows how the grant value for the 2018 LTI award was calculated for each officer based on 2017 performance. 
+[BEGIN TABLE]
+       Goals & Objectives  Grant Opportunities  2017 Performance  Grant Value 
+ Named Executive Officer     Company  Individual  Threshold     Target     Max  Company Performance as% of Budget  Individual Performance Rating  $ Value% of Base Salary% of Target 
+ Douglas L. Kennedy President and Chief Executive Officer     75%  25%  55%     100%     165%  118% (Max)  Max  $  989,948     165%  165% 
+ Douglas L. Kennedy President and Chief Executive Officer     75%  25%  55%     100%     165%  118% (Max)  Max  $  989,948     165%  165% 
+ Jeffrey J. Carfora Senior EVP and Chief Financial Officer     75%  25%  50%     90%     150%  118% (Max)  Max  $  473,988     150%  167% 
+ Robert A. Plante EVP and Chief Operating Officer     50%  50%  35%     60%     105%  118% (Max)  Max  $  314,933     105%  175% 
+ John P. Babcock President of Private Wealth Management     50%  50%  50%     90%     150%  118% (Max)  Max  $  749,984     150%  167% 
+ Lisa P. Chalkan EVP and Chief Credit Officer     25%  75%     25%        40%        75%  118% (Max)  Max  $  202,441     75%  188% 
+ Named Executive Officer  Dollar Value  Number of Shares% of Base Salary  Dollar Values  Number of Shares  Dollar Values  Number of Shares 
+ Douglas L. Kennedy President and Chief Executive Officer  $989,947  28,020  165%  $494,974  14,010  $494,973  14,010 
+ Douglas L. Kennedy President and Chief Executive Officer  $989,947  28,020  165%  $494,974  14,010  $494,973  14,010 
+ Jeffrey J. Carfora Senior EVP and Chief Financial Officer  $473,987  13,416  150%  $236,995  6,708  $236,994  6,708 
+ Robert A. Plante EVP and Chief Operating Officer  $314,932  8,914  165%  $236,217  6,686  $78,715  2,228 
+ John P. Babcock President of Private Wealth Management  $749,985  21,228  150%  $374,992  10,614  $374,993  10,614 
+ Lisa P. Chalkan EVP and Chief Credit Officer  $202,441  5,730  75%  $151,848  4,298  $50,593  1,432 
+[END TABLE]
+In 2017, Peapack instituted a retention tool for three of the NEOs (Mr. Kennedy, Mr. Carfora and Mr. Babcock). The Deferred Compensation Retention Award ("DCRA") is a cash-based retention award with contributions made to the plan over a five-year period. Beginning with the third quarter of 2017, quarterly contributions of $50,000 for Mr. Kennedy and $25,000 for Messrs. Carfora and Babcock will be made assuming the executive is employed and the Company has generated  EPS of at least 60% of budget for the previous 12 months. Vesting occurs ratably over three years. The account balance receives interest crediting based on the Wall Street Journal prime rate, provided that the rate shall not exceed 7.5%.
+[BEGIN TABLE]
+ Named Executive Officer     2018 Contribution    
+ Named Executive Officer     2018 Contribution    
+ Douglas L. Kennedy President and Chief Executive Officer     $  200,000    
+ Jeffrey J. Carfora Senior EVP and Chief Financial Officer     $  100,000    
+ Robert A. Plante EVP and Chief Operating Officer     $  -    
+ John P. Babcock President of Private Wealth Management     $  100,000    
+ John P. Babcock President of Private Wealth Management     $  100,000    
+ Lisa P. Chalkan EVP and Chief Credit Officer     $  -    
+[END TABLE]
+The Company provides bank-sponsored insurance and retirement benefit plans for our named executive officers. The benefit packages are designed to assist named executive officers in providing for their financial security.
+The Company provides retirement benefits to named executive officers through a combination of plans that are qualified and nonqualified under the Internal Revenue Code of 1986, as amended (the "Code"). The Company has established a qualified defined contribution plan under Section 401(k) of the Code, covering substantially all salaried employees over the age of 21 with at least twelve months of service and whose participation is not prohibited by the 401(k) Plan. Under the savings portion of the 401(k) Plan, employees may contribute up to 15% of their base pay (up to a maximum of $18,000 in 2018). Annually, the Company makes a matching contribution equal to 50% of the first 6% of an employee's salary, plus up to an additional 3% employer contribution for all employees, on a discretionary basis. The Committee believes that employees require 401(k) plans, and that to attract and retain able employees the Company must offer these benefits to its employees, including its named executive officers.  
+The named executive officers receive the same employer-provided health and welfare insurance available to all full-time employees, which includes health, dental, vision, disability and basic group life insurance.
+The Company has also purchased bank-owned life insurance and entered into a split-dollar plan with the named executive officers and certain other employees to provide current and post-employment life insurance in an amount that ranges from $25,000 to 2.5 times the participant's annual base salary. A life insurance benefit of 2.5 times a named executive officer's annual base salary vests if prior to the termination of employment there is a change in control or the named executive officer becomes disabled. A benefit of 2.5 times the named executive officer's salary is paid if the participant dies while employed by the Company.  Named executive officers are also entitled to a vested post-employment life insurance benefit based on years of service and age as of the date of termination of employment. This vested benefit ranges from a minimum of 1.0 times base annual salary at age 50 to a maximum of 2.5 times annual base salary at age 60, in each case after completion of 15 years of service. There is a minimum benefit of $25,000 if the participant does not reach the vesting levels. Bank-owned life insurance assists the Company in offsetting the rising costs of employee benefits by providing the Company with current income prior to the death of an insured, and a lump-sum payment upon the death of an insured. The Company owns the cash surrender value of the policies and records the increases in the cash surrender value as income. Upon the death of an insured the Company will receive cash equal to the cash surrender value of the policy and excess life insurance over the amount paid to the insured's beneficiary. The Committee believes that bank-owned life insurance is primarily a good investment for the Company, and secondarily a supplementary life insurance benefit for many of our officers, including our named executive officers.
+Change in Control Agreements
+We maintain individual change in control agreements with Mr. Kennedy, Mr. Carfora, Mr. Plante, Mr. Babcock and Ms. Chalkan. The agreements each provide for the employment of the named executive officer for a Contract Period (defined  in the table below) commencing on the day prior to a change in control (as defined in the agreement). During the Contract Period, the executives will each be provided with (1) the same base salary that existed prior to the change in control, (2) an opportunity for a bonus equal to at least the bonus opportunity in effect immediately prior to the change in control, and (3) benefits and perquisites at levels generally available to the executive prior to the change in control. If, during the Contract Period, the executive resigns for good reason (as defined in the agreement) or is terminated other than for cause (as defined in the agreement) he/she will be entitled to a lump-sum payment equal to the multiple defined in the table below times his/her then base salary and the greater of his/her average bonus amount for the three preceding fiscal years or the bonus paid during the most recent fiscal year. Each named executive officer will also be entitled to receive payments from the Company equal to the costs to continue health insurance coverage for a period defined in the table below following termination of employment. In the event that the total benefits payable under the agreements and other arrangements following a change in control would require the executive to pay an excise tax under the Code, then the total payments paid to the executive will be the greater of (1) a reduced payment equal to the amount that would not result in the payment of an excess parachute payment under Section 280G of the Internal Revenue Code and an excise tax by the executive under the Code, and (2) a payment equal to the greatest after tax amount payable to the executive after taking into account any excise tax imposed under the Code. The agreements also prohibit the executives from competing against the Company and soliciting the Company's customers and employees for a one-year period following termination of employment.  The Committee feels these agreements are necessary to encourage our named executive officers to approach an advantageous merger or acquisition transaction without regard to immediate loss of salary and benefits. The Committee also believes that, given the high degree of consolidation within the banking business, these agreements are necessary to retain and attract talented named executive officers.
+[BEGIN TABLE]
+ Named Executive Officer     Contract Period     Change-in-Control and Termination Severance Multiple     Change-in-Control and Termination Health Care Continuation 
+ Named Executive Officer     Contract Period     Change-in-Control and Termination Severance Multiple     Change-in-Control and Termination Health Care Continuation 
+ Douglas L. Kennedy President and Chief Executive Officer     3 years     3 times     3 years 
+ Jeffrey J. Carfora Senior EVP and Chief Financial Officer     3 years     3 times     3 years 
+ Robert A. Plante EVP and Chief Operating Officer     2 years     2 times     2 years 
+ John P. Babcock President of Private Wealth Management     3 years     3 times     3 years 
+ John P. Babcock President of Private Wealth Management     3 years     3 times     3 years 
+ Lisa P. Chalkan EVP and Chief Credit Officer     3 years     2 times     2 years 
+[END TABLE]
+Under 162(m) of the Internal Revenue Code, as amended by the Tax Cuts and Jobs Act (the "Tax Act") on December 22, 2017, publicly-held corporations are subject to limits on the deductibility of executive compensation.  Deductible compensation is limited to $1 million per year for each covered employee, defined as the publicly-held corporation's principal executive officer, principal financial officer and three additional highest compensated officers during any taxable year of the corporation beginning after December 31, 2016.  The Tax Act provides "grandfathered" treatment for  certain compensation in excess of the $1 million deductibility limitation, including compensation that is "qualified performance-based compensation" within the meaning of Section 162(m) prior to the Tax Act, if payable pursuant to a written binding contract in effect as of November 2, 2017 that is not modified in any material respect thereafter.  
+In 2018 and in prior years, the Committee monitored the effect of Section 162(m) on the deductibility of the Company's compensation. The Committee weighed the benefits of full deductibility with the other objectives of the executive compensation program and, accordingly, may have paid compensation subject to the deductibility limitations of Section 162(m).  A number of requirements must be met for particular compensation to qualify for tax deductibility under Section 162(m), so there can be no assurance that the incentive compensation awarded will be fully deductible in all circumstances.
+The Committee has historically attempted to structure its compensation arrangements to achieve deductibility under Section 162(m), unless the benefit of such deductibility is considered by the Committee to be outweighed by the need for flexibility or the attainment of other objectives.  As was the case prior to the enactment of the Tax Act, the Committee will continue to monitor issues concerning the deductibility of executive compensation.  Since corporate objectives may not always be consistent with the requirements for tax deductibility, the Committee is prepared, when it deems appropriate, to enter into compensation arrangements under which payments will not be deductible under Section 162(m).  Thus, deductibility will be one of many factors considered by the Committee in designing our executive compensation program.  
+COMPENSATION COMMITTEE REPORT
+The Compensation Committee has reviewed and discussed with management the Compensation Discussion and Analysis and based on such review and discussions the Compensation Committee has recommended to the Board that the Compensation Discussion and Analysis be included in Peapack-Gladstone's Annual Report on Form 10-K and the Proxy Statement.
+The Compensation Committee of the Board of Directors
+F. Duffield Meyercord, Chair
+Anthony J. Consi, II
+Tony Spinelli EXECUTIVE COMPENSATION
+Summary Compensation Table 
+The following table sets forth compensation information for Peapack-Gladstone's named executive officers. For a summary of the Committee's decisions on compensation awarded to our named executive officers in 2018, see the "Compensation Discussion and Analysis" above. 
+[BEGIN TABLE]
+ Name and Principal Position     Year     Salary ($)        Stock Awards ($)(1)        Incentive Compensation Non-Equity ($)(2)        All Other Compensation ($)(3)        Total ($)    
+ Name and Principal Position     Year     Salary ($)        Stock Awards ($)(1)        Incentive Compensation Non-Equity ($)(2)        All Other Compensation ($)(3)        Total ($)    
+ Douglas L. Kennedy     2018        669,423           989,947           463,913           230,278           2,353,561    
+ President & CEO of Peapack-     2017        573,077           549,983           540,000           132,541           1,795,601    
+ Gladstone and the Bank     2016        500,000           350,614           450,000           34,007           1,334,621    
+ Jeffrey J. Carfora     2018        359,846           473,987           167,320           123,093           1,124,246    
+ Senior Executive Vice     2017        306,678           211,011           189,600           67,792           775,081    
+ President and CFO of Peapack-     2016        281,376           131,541           168,600           16,702           598,219    
+ Gladstone and the Bank                                                                   
+ Robert A. Plante     2018        347,500           314,932           145,088           16,500           824,020    
+ Executive Vice President     2017        236,538           -           135,000           -           371,538    
+ and Chief Operating Officer of Peapack-Gladstone and the Bank (4)                                                                   
+ John P. Babcock     2018        532,884           749,985           288,850           124,262           1,695,981    
+ Senior Executive Vice President     2017        500,000           324,984           300,000           68,967           1,193,951    
+ of Peapack-Gladstone     2016        500,000           249,990           250,000           17,806           1,017,796    
+ and President of Private                                                                   
+ Wealth Management                                                                   
+ Lisa P. Chalkan     2018        310,192           202,441           129,188           16,500           658,321    
+ Executive Vice President and     2017        256,153           127,479           100,000           16,200           499,832    
+ Chief Credit Officer of Peapack-                                                                   
+ Gladstone and the Bank (5)                                                                   
+ Name  Company Contributions to 401(k)        Deferred Retention Award Plan (A)        BOLI Premiums    
+ Name  Company Contributions to 401(k)        Deferred Retention Award Plan (A)        BOLI Premiums    
+ Douglas L. Kennedy  $  16,500        $  211,142        $  2,636    
+ Jeffrey J. Carfora     16,500           105,571           1,022    
+ Robert A. Plante     16,500           -           -    
+ John P. Babcock     16,500           105,571           2,191    
+ Lisa P. Chalkan     16,500           -           -    
+ (5)  Ms. Chalkan was added as a named executive officer in 2017. 
+[END TABLE]
+ Grants of Plan-Based Awards
+The following tables set forth additional detail regarding 2018 incentive compensation non-equity (cash) and stock award grants under the Executive Performance Plan. 
+[BEGIN TABLE]
+       Estimated Payouts Under the Short Term                
+       (Cash) Incentive Plan                
+ Name     Threshold ($) (1)        Target ($) (2)        Maximum ($) (3)        Actual Cash Payments ($) (4)    
+ Name     Threshold ($) (1)        Target ($) (2)        Maximum ($) (3)        Actual Cash Payments ($) (4)    
+ Douglas L. Kennedy     $  312,750        $  417,000        $  625,500        $  463,913    
+ Jeffrey J. Carfora        112,800           150,400           225,600           167,320    
+ Robert A. Plante        83,950           109,500           164,250           145,088    
+ John P. Babcock        163,500           218,000           327,000           288,850    
+ Lisa P. Chalkan        74,750           97,500           146,250           129,188    
+ (4)  Actual cash payments were based on Company performance at 103.5% of target.  Individual performance was rated at Maximum for Messrs. Plante and Babcock and for Ms. Chalkan.  Mr. Kennedy and Mr. Carfora were rated at Target on an Individual basis. See "Compensation Discussion and Analysis" for further discussion.  
+    Estimated Payouts Under the Long Term (Stock) Incentive Plan              All Other Stock Awards: Number of        Grant Date Fair    
+    Estimated Payouts Under the Long Term (Stock) Incentive Plan              All Other Stock Awards: Number of        Grant Date Fair    
+ Name  Threshold ($)        Target ($)        Maximum ($)        Grant Date     Shares of Stocks or Units (#)        Value of Stock Awards (1)    
+ Douglas L. Kennedy  $  330,000        $  600,000        $  990,000        3/20/2018        28,020     (A)  $  989,947    
+ Jeffrey J. Carfora     158,000           284,400           474,000        3/20/2018        13,416     (A)     473,987    
+ Robert A. Plante     105,000           180,000           315,000        3/20/2018        8,914     (B)     314,932    
+ John P. Babcock     250,000           450,000           750,000        3/20/2018        21,228     (A)     749,985    
+ Lisa P. Chalkan     67,500           108,000           202,500        3/20/2018        5,730     (B)     202,441    
+ (A)  Half is time-based vested and half is performance-based vested. 
+ (B)  Three quarters is time-based vested and one quarter is performance-based vested. For the 2019 performance year and beyond, these weightings will change to half time-based vested and half performance-based vested. 
+[END TABLE]
+Outstanding Equity Awards at Fiscal Year-End
+The following table represents stock awards outstanding for each named executive officer as of December 31, 2018.  The market value of shares that have not vested is calculated using our closing market price of $25.18 as of December 31, 2018.  There were no outstanding options for any of the named executive officers as of December 31, 2018.
+[BEGIN TABLE]
+       Stock Awards    
+ Name     Grant Date     Number of Shares That Have Not Vested           Market Value of Shares That Have Not Vested    
+ Name     Grant Date     Number of Shares That Have Not Vested           Market Value of Shares That Have Not Vested    
+ Douglas L. Kennedy     3/11/2016        6,891     (1)     $  173,515    
+       3/11/2017        9,974     (1)        251,145    
+       3/11/2017        2,660     (2)        66,979    
+       3/20/2018        14,010     (1)        352,772    
+       3/20/2018        14,010     (3)        352,772    
+ Jeffrey J. Carfora     3/11/2016        2,586     (1)     $  65,115    
+       3/11/2017        3,742     (1)        94,224    
+       3/11/2017        1,123     (2)        28,277    
+       3/20/2018        6,708     (1)        168,907    
+       3/20/2018        6,708     (3)        168,907    
+ Robert A. Plante     3/20/2018        6,686     (1)     $  168,353    
+       3/20/2018        2,228     (3)        56,101    
+ John P. Babcock     3/11/2014        5,137     (2)     $  129,350    
+       3/11/2016        4,914     (1)        123,735    
+       3/11/2017        5,541     (1)        139,522    
+       3/11/2017        1,995     (2)        50,234    
+       3/20/2018        10,614     (1)        267,261    
+       3/20/2018        10,614     (3)        267,261    
+ Lisa P. Chalkan     3/11/2016        871     (1)     $  21,932    
+       3/11/2016        1,567     (2)        39,457    
+       3/11/2017        1,696     (1)        42,705    
+       3/11/2017        1,356     (2)        34,144    
+       3/20/2018        4,298     (1)        108,224    
+       3/20/2018        1,432     (3)        36,058    
+    (1)  Vests in three equal annual commencing on the first anniversary of the date of grant and only if the executive continues to serve as an executive at such applicable vesting date. Upon termination of employment by reason of death, disability or retirement, or upon a change in control, all shares immediately vest. 
+    (2)  Vests in five equal annual installments beginning on the first anniversary of the date of grant and only if the executive continues to serve as an executive at such applicable vesting date. Upon termination of employment by reason of death, disability or retirement, or upon a change in control, all shares immediately vest. 
+    (3)  Performance-based restricted stock, which will cliff vest in three years based on the achievement of EPS growth over a three-year period compared to EPS growth of an established peer group. Upon termination of employment by reason of death or disability shares will vest at target. Upon a change in control, shares will vest at the greater of the target level or the level determined after conducting the performance calculation. 
+[END TABLE]
+ Option Exercises and Stock Vested
+The following table represents the vesting of restricted stock during 2018.  There were no stock options exercised by any named executive officers in 2018.
+[BEGIN TABLE]
+       Stock Awards    
+       Number of Shares Acquired on Vesting        Value Realized On Vesting (1)    
+       Number of Shares Acquired on Vesting        Value Realized On Vesting (1)    
+ Name     (#)        ($)    
+ Douglas L. Kennedy        30,196        $  994,036    
+ Jeffrey J. Carfora        10,091           327,312    
+ Robert A. Plante        -           -    
+ John P. Babcock        18,756           639,461    
+ Lisa P. Chalkan        4,603           155,862    
+[END TABLE]
+CEO Pay Ratio
+As required by Item 402(u) of SEC Regulation S-K, we are providing the following information: 
+For fiscal 2018, our last completed fiscal year:
+[BEGIN TABLE]
+▪ The median of the annual total compensation of all employees of our Company was $60,703; and 
+▪ The annual total compensation of Mr. Kennedy, our Chief Executive Officer, was $2,353,561. 
+[END TABLE]
+Based on this information, the ratio for 2018 of the annual total compensation of our Chief Executive Officer to the median of the annual total compensation of all employees is 39 to 1.
+We completed the following steps to identify the median of the annual total compensation of all our employees and to determine the annual total compensation of our median employee and CEO:
+[BEGIN TABLE]
+    1.  As of December 31, 2018, our employee population consisted of approximately 528 individuals, including any full-time, part-time, temporary, or seasonal employees employed on that date. 
+    2.  To find the median of the annual total compensation of all our employees, we used wages from our payroll records as reported to the Internal Revenue Service on Form W-2 for 2018. In making this determination, we annualized the compensation of full-time and part-time permanent employees who were employed on December 31, 2018, but did not work for us the entire year.  No full-time equivalent adjustments were made for part-time employees.  
+    3.  We identified a median cohort of seven employees using this compensation measure and methodology. For the median cohort, we added together all of the elements of such employees' compensation for 2018 in accordance with the requirements of Item 402(c)(2)(x) of Regulation S-K.  
+    4.  Based on the total compensation calculation outlined in Step 3, we selected the employee within the median cohort with the median total compensation. 
+    5.  With respect to the annual total compensation of our CEO, we used the amount reported in the "Total" column of our 2018 Summary Compensation Table. 
+[END TABLE]
+Potential Payments Upon Termination or Change in Control
+Peapack-Gladstone and the Bank have entered into employment agreements with the named executive officers, which set forth the terms of employment of the officers and provide for benefits in the event of termination without "cause."  Peapack-Gladstone and the Bank have also entered into change in control agreements with the named executive officers, each of which provide for benefits in the event a termination without "cause" or for "good reason" during a specified period following a merger or acquisition of Peapack-Gladstone. A detailed description of the employment agreements and change-in-control agreements may be found in the Compensation Discussion and Analysis section of this proxy under "Employment Contracts" and "Change in Control Agreements."
+The following table shows the potential payments under each named executive officer's change-in-control or employment agreement if he or she had terminated employment with the Company effective December 31, 2018, under each of the following retirement or termination circumstances: (1) death or disability; (2) voluntary resignation or dismissal for cause; (3) retirement; (4) dismissal without cause; and (5) dismissal without cause or resignation for good reason following a change-in-control of Peapack-Gladstone. These payments are considered estimates as they contain some assumptions regarding stock price, life expectancy, salary and non-incentive compensation amounts and income tax rates and laws.
+[BEGIN TABLE]
+ Compensation and/or Benefits Payable Upon Termination     Death or Disability        Voluntary Resignation or Dismissal For Cause        Retirement        Dismissal Without Cause(no Change in Control) (1) (2)        Dismissal Without Cause or Resignation For Good Reason (following a Change in Control) (1) (2) (3)    
+ Compensation and/or Benefits Payable Upon Termination     Death or Disability        Voluntary Resignation or Dismissal For Cause        Retirement        Dismissal Without Cause(no Change in Control) (1) (2)        Dismissal Without Cause or Resignation For Good Reason (following a Change in Control) (1) (2) (3)    
+ Douglas L. Kennedy                                                             
+ Cash Severance     $  -        $  -        $  -        $  1,390,000        $  3,705,000    
+ Equity Acceleration (4)        1,197,183           -           1,197,183           -           1,197,183    
+ Welfare Benefits Continuation        -           -           -           -           14,381    
+ Life Insurance Benefit (5) (6)        1,250,000           -           -           -           203,760    
+ Reduction in Payment (7)        -           -           -           -           -    
+ Total Benefit     $  2,447,183        $  -        $  1,197,183        $  1,390,000        $  5,120,324    
+ Jeffrey J. Carfora                                                             
+ Cash Severance     $  -        $  -        $  -        $  752,000        $  1,696,800    
+ Equity Acceleration (4)        525,430           -           525,430           -           525,430    
+ Welfare Benefits Continuation        -           -           -           -           14,385    
+ Life Insurance Benefit (5) (6)        721,026           -           -           -           113,174    
+ Reduction in Payment (7)        -           -           -           -           -    
+ Total Benefit     $  1,246,456        $  -        $  525,430        $  752,000        $  2,349,789    
+ Robert A. Plante                                                             
+ Cash Severance     $  -        $  -        $  -        $  -        $  920,000    
+ Equity Acceleration (4)        224,454           -           224,454           -           224,454    
+ Welfare Benefits Continuation        -           -           -           -           17,975    
+ Life Insurance Benefit (5) (6)        -           -           -           -           -    
+ Reduction in Payment (7)        -           -           -           -           141,891    
+ Total Benefit     $  224,454        $  -        $  224,454        $  -        $  1,020,538    
+ John P. Babcock                                                             
+ Cash Severance     $  -        $  -        $  -        $  1,090,000        $  2,535,000    
+ Equity Acceleration (4)        977,363           -           977,363           -           977,363    
+ Welfare Benefits Continuation        -           -           -           -           17,489    
+ Life Insurance Benefit (5) (6)        1,250,000           -           -           -           93,705    
+ Reduction in Payment (7)        -           -           -           -           56,923    
+ Total Benefit     $  2,227,363        $  -        $  977,363        $  1,090,000        $  3,566,634    
+ Lisa P. Chalkan                                                             
+ Cash Severance     $  -        $  -        $  -        $  -        $  850,000    
+ Equity Acceleration (4)        282,520           -           353,457           -           353,457    
+ Welfare Benefits Continuation        -           -           -           -           19,426    
+ Life Insurance Benefit (5) (6)        -           -           -           -           -    
+ Reduction in Payment (7)        -           -           -           -           -    
+ Total Benefit     $  282,520        $  -        $  353,457        $  -        $  1,222,883    
+[END TABLE]
+[BEGIN TABLE]
+  or (3) the conviction of a crime, other than a traffic violation, drunkenness, drug abuse, or excessive absenteeism other than for illness. 
+ (2)  The term "change in control" generally means (1) the acquisition of 30% or more of the voting power of the Company's securities, (2) the first purchase of the Company's common stock pursuant to a tender or exchange offer, (3) the shareholder approval of (a) a merger or consolidation of the Company into another corporation wherein the other corporation exercises control over the Company, (b) a sale or disposition of all or substantially all of the Company's assets or (c) a plan of liquidation or dissolution of the Company, (4) a change in board membership such that over a two-year period the directors constituting the Board at the beginning of such period do not constitute two-thirds of the Board of the Company or a successor corporation at the end of such period, or (5) a sale of (a) the common stock of the Company following which a person or entity other than the Company or its affiliates owns a majority thereof or (b) all or substantially all of the Company's assets. 
+ (3)  The term "good reason" generally means a change in job description, location, compensation or benefits. 
+ (4)  In 2016, our 2012 Long-Term Stock Incentive Plan was amended (the "Amended 2012 Plan") to provide that equity awards assumed by any acquiror will vest only upon specified termination events following a change in control.  If awards are not assumed by the acquiror, then outstanding awards will vest upon the change in control.  With respect to awards assumed by the surviving entity in connection with a change in control, if the grantee's employment is terminated without cause or, in certain cases, if the grantee resigns for good reason, within two years after the effective date of the change in control, then the grantee's outstanding options become fully vested, time-based vesting restrictions on outstanding awards lapse and unless otherwise provided in the agreement, outstanding performance-based awards will be deemed to have been earned at the target level, or at a level in excess of target in the Committee's discretion, and paid on a pro-rated basis based upon the length of time the grantee was employed during the performance period. The value of equity acceleration reported is based on the market price of $25.18 as of December 31, 2018. Named executive officers would have three years from the date of termination following a change in control to exercise any vested options. 
+ (5)  Peapack-Gladstone has purchased bank-owned life insurance and entered into a split-dollar plan with certain named executive officers and certain other employees to provide current and post-employment life insurance in an amount that ranges from $25,000 to 2.5 times the executive's annual base salary. A life insurance benefit of 2.5 times the executive's annual base salary vests if the executive becomes disabled prior to the termination of employment. A benefit of 2.5 times the executive's salary is paid if the executive dies while employed by Peapack-Gladstone.   
+ (6)  The life insurance benefit at dismissal without cause or resignation for good reason following a change in control represents the imputed income from December 2018 through the end of the executive's plan participation year (calculated on an actuarial basis) under Peapack-Gladstone's Split-Dollar Plan. Upon a change in control, the executive would vest in the benefit of 2.5 times the executive's annual base salary. 
+ (7)  In the event any payments to the named executive officers would exceed the amount that could be received without the imposition of an excise tax under Section 4999 of the Code, the payments will be reduced to the extent necessary to ensure that such payments will be limited to the greater of (1) the dollar amount that can be paid to the named executive officers without triggering an excise tax under Section 4999 of the Code, or (2) the greatest after-tax amount payable to the executive after taking into account any excise tax imposed under Section 4999 of the Code on the total payments. 
+[END TABLE]
+The greatest after-tax amount payable to the executive after taking into account any excise tax imposed under Section 4999 of the Code on the total payments to Messrs. Kennedy, Carfora, and Ms. Chalkan is greater than the dollar amount that can be paid to Messrs. Kennedy, Carfora, and Ms. Chalkan, without triggering an excise tax under Section 4999 of the Code. Accordingly, the payments to Messrs. Kennedy, Carfora, Plante and Ms. Chalkan in connection with a termination following a change in control on December 31, 2018 are not subject to a reduction.
+The dollar amount which can be paid to Messrs. Plante and Babcock without triggering an excise tax under Section 4999 of the Code is greater than the greatest after-tax amount payable to the executives after taking into account any excise tax imposed under Section 4999 of the Code on the total payments to Messrs. Plante and Babcock. Accordingly, the payments to Messrs. Plante and Babcock in connection with a termination following a change in control on December 31, 2018 are subject to a reduction.
+Section 16(a) Beneficial Ownership Reporting Compliance
+Section 16(a) of the Securities and Exchange Act requires that Peapack-Gladstone's executive officers, directors and persons who own more than ten percent of a registered class of Peapack-Gladstone's common stock, file reports of ownership and changes in ownership with the SEC. Based upon copies of reports furnished by these insiders of Peapack-Gladstone, all Section 16(a) reporting requirements applicable to insiders during 2018 were satisfied on a timely basis except for: one Form 4 (representing one transaction), which was filed late on behalf of Steven A. Cass, Board Director; one Form 4 (representing one transaction), which was filed late on behalf of Anthony J. Consi, II, Board Director; and one Form 4 (representing one transaction), which was filed late on behalf of Vincent A. Spero, Executive Vice President, Chief Lending Officer.   TRANSACTIONS WITH RELATED PERSONS
+Peapack-Gladstone uses the same policies and procedures for the review, approval and ratification of related persons transactions as described above under the caption "Director Independence." In addition to the matters discussed above under the caption "Director Independence," directors and officers and their associates were customers of and had transactions with the Bank during the year ended December 31, 2018, and it is expected that such persons will continue to have such transactions in the future. All deposit accounts, loans, and commitments comprising such transactions were made in the ordinary course of business of the Bank on substantially the same terms, including interest rates and collateral, as those prevailing at the time for comparable transactions with other persons not related to Peapack-Gladstone, and, in the opinion of management of Peapack-Gladstone, did not involve more than normal risks of collectability or present other unfavorable features. 
+SHAREHOLDER PROPOSALS
+New Jersey corporate law requires that the notice of shareholders' meeting (for either a regular or special meeting) specify the purpose or purposes of such meeting. Thus, any substantive proposals, including shareholder proposals, must be referred to in Peapack-Gladstone's notice of shareholders' meeting for such proposal to be properly considered at a meeting of Peapack-Gladstone. 
+Proposals of shareholders which are eligible under the rules of the SEC to be included in Peapack-Gladstone's year 2020 proxy materials must be received by the Secretary of Peapack-Gladstone no later than November 20, 2019. 
+Under the terms of our bylaws, a shareholder who intends to nominate a person for election to our Board or to present an item of business at the 2020 Annual Meeting (other than a proposal submitted for inclusion in our proxy materials) must deliver to the Secretary of Peapack-Gladstone Bank written notice of such business, including the information specified in the bylaws, between January 9, 2020 and February 8, 2020.  Such notice must meet the requirements in our bylaws. If Peapack-Gladstone advances its 2020 Annual Meeting date more than 30 days from the anniversary date of its 2019 Annual Meeting or delays it more than 70 days, then notice by the shareholder to be timely must be delivered not earlier than 90 days prior to the annual meeting date and not later than the close of business 10 days following the day on which the public announcement of the date of the meeting is made. If Peapack-Gladstone changes the date of its 2020 Annual Meeting in a manner that alters the deadline, Peapack-Gladstone will so state under Item 5 of the first quarterly report on Form 10-Q it files with the SEC after the date change or notify its shareholders by another reasonable means. 
+OTHER MATTERS
+The Board of Directors knows of no business that will be presented for consideration at the meeting other than that stated in this proxy statement. Should any other matter properly come before the meeting or any adjournment thereof, it is intended that proxies in the enclosed form will be voted in respect thereof in accordance with the judgment of the person or persons voting the proxies. Peapack-gladstone financial corporation Step 1: Go to www.envisionreports.com/PGC. Step 2: Click on Cast Your Vote or Request Materials. Step 3: Follow the instructions on the screen to log in. www.envisionreports.com/PGC Online Go to www.envisionreports.com/PGC or scan the QR code — login details are located in the shaded bar below. The Sample Company Shareholder Meeting Notice 030LWD + + Important Notice Regarding the Availability of Proxy Materials for the Peapack-Gladstone Financial Corporation Shareholder Meeting to be Held on Tuesday, April 30, 2019. Under Securities and Exchange Commission rules, you are receiving this notice that the proxy materials for the annual shareholders' meeting are available on the Internet. Follow the instructions below to view the materials and vote online or request a copy. The items to be voted on and location of the annual meeting are on the reverse side. Your vote is important! This communication presents only an overview of the more complete proxy materials that are available to you on the Internet. We encourage you to access and review all of the important information contained in the proxy materials before voting. The proxy statement and annual report to shareholders are available at: Obtaining a Copy of the Proxy Materials – If you want to receive a copy of the proxy materials, you must request one. There is no charge to you for requesting a copy. Please make your request as instructed on the reverse side on or before April 16, 2019 to facilitate timely delivery. 2 N O T Easy Online Access — View your proxy materials and vote. When you go online, you can also help the environment by consenting to receive electronic delivery of future materials. Votes submitted electronically must be received by 1:00 a.m., (Eastern), on April 30, 2019. Step 4: Make your selections as instructed on each screen for your delivery preferences. Step 5: Vote your shares.
+Step 1: Go to www.envisionreports.com/PGC. Step 2: Click on Cast Your Vote or Request Materials. Step 3: Follow the instructions on the screen to log in. www.envisionreports.com/PGC Online Go to www.envisionreports.com/PGC or scan the QR code — login details are located in the shaded bar below. The Sample Company Shareholder Meeting Notice 030LWD + + Important Notice Regarding the Availability of Proxy Materials for the Peapack-Gladstone Financial Corporation Shareholder Meeting to be Held on Tuesday, April 30, 2019. Under Securities and Exchange Commission rules, you are receiving this notice that the proxy materials for the annual shareholders' meeting are available on the Internet. Follow the instructions below to view the materials and vote online or request a copy. The items to be voted on and location of the annual meeting are on the reverse side. Your vote is important! This communication presents only an overview of the more complete proxy materials that are available to you on the Internet. We encourage you to access and review all of the important information contained in the proxy materials before voting. The proxy statement and annual report to shareholders are available at: Obtaining a Copy of the Proxy Materials – If you want to receive a copy of the proxy materials, you must request one. There is no charge to you for requesting a copy. Please make your request as instructed on the reverse side on or before April 16, 2019 to facilitate timely delivery. 2 N O T Easy Online Access — View your proxy materials and vote. When you go online, you can also help the environment by consenting to receive electronic delivery of future materials. Votes submitted electronically must be received by 1:00 a.m., (Eastern), on April 30, 2019. Step 4: Make your selections as instructed on each screen for your delivery preferences. Step 5: Vote your shares.
+Peapack-gladstone financial corporation 01 - Carmen M. Bowser 04 - Richard Daingerfield 07 - Steven A. Kass 02 - Dr. Susan A. Cole 05 - Edward A. Gramigna, Jr. 08 - Douglas L. Kennedy 03 - Anthony J. Consi, II 06 - Peter Horst 09 - Patrick J. Mullen For Withhold For Withhold For Withhold 1 U P X 10 - F. Duffield Meyercord 11 - Philip W. Smith, III 12 - Tony Spinelli 13 - Beth Welsh Using a black ink pen, mark your votes with an X as shown in this example. Please do not write outside the designated areas. 030LUF + + Proposals — The Board of Directors recommend a vote FOR all the nominees listed and FOR A Proposals 2 and 3. 2. To approve, on a non-binding basis, the compensation of the Company's named executive officers. 3. To ratify the appointment of Crowe LLP as the Company's independent registered public accounting firm for the year ending December 31, 2019. 1. Election of Directors: For Against Abstain Please sign exactly as name(s) appears hereon. Joint owners should each sign. When signing as attorney, executor, administrator, corporate officer, trustee, guardian, or custodian, please give full title. Date (mm/dd/yyyy) — Please print date below. Signature 1 — Please keep signature within the box. Signature 2 — Please keep signature within the box. B Authorized Signatures — This section must be completed for your vote to be counted. — Date and Sign Below qIF VOTING BY MAIL, SIGN, DETACH AND RETURN THE BOTTOM PORTION IN THE ENCLOSED ENVELOPE.q Annual Meeting Proxy Card For Against Abstain You may vote online or by phone instead of mailing this card. Online Go to www.envisionreports.com/PGC or scan the QR code — login details are located in the shaded bar below. Save paper, time and money! Sign up for electronic delivery at www.envisionreports.com/PGC Phone Call toll free 1-800-652-VOTE (8683) within the USA, US territories and Canada Votes submitted electronically must be received by 1:00 a.m., Eastern Time, on April 30, 2019. Your vote matters – here's how to vote!
+Directions to Peapack-Gladstone Financial Corporation's Annual Meeting  From points North: From points South:• Take 1-287 South to exit 22 toward US 202/US 206 N• Take 1-287 North to exit 22A US-202/US-206 S toward Pluckemin• Take jughandle on right• Take the exit toward Hills Drive• Turn left on US-202/US-206 S toward Pluckemin• Turn left onto Hills Drive• Take the exit toward Hills Drive• Destination will be on the left• Turn left onto Hills Drive• Destination will be on the left  Important notice regarding the Internet availability of proxy materials for the Annual Meeting of Shareholders. The material is available at: www.envisionreports.com/PGC   Small steps make an impact. Help the environment by consenting to receive electronic delivery, sign up at www.envisionreports.com/PGC• IF VOTING BY MAIL, SIGN, DETACH AND RETURN THE BOTTOM PORTION IN THE ENCLOSED ENVELOPE.• Peapack-Gladstone Financial Corporation  +  Notice of 2019 Annual Meeting of Shareholders Proxy Solicited by Board of Directors for Annual Meeting — April 30, 2019 Richard Daingerfield, Philip W. Smith III, Beth Welsh, or any of them, each with the power of substitution, are hereby authorized to represent and vote the shares of the undersigned, with all the powers which the undersigned would possess if personally present, at the Annual Meeting of Shareholders of Peapack- Gladstone Financial Corporation to be held on April 30, 2019 or at any postponement or adjournment thereof. Shares represented by this proxy will be voted by the shareholder. If no such directions are indicated, the Proxies will have authority to vote FOR the election of the Board of Directors and FOR items 2 and 3. In their discretion, the Proxies are authorized to vote upon such other business as may properly come before the meeting. (Items to be voted appear on reverse side)  Non-Voting Items C Change of Address — Please print new address below. Comments — Please print your comments below.  Meeting Attendance Mark box to the right if you plan to attend the Annual Meeting.  +
+ 

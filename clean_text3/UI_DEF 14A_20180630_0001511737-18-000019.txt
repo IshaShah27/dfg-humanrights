@@ -1,0 +1,822 @@
+
+Table of Contents
+UNITED STATES
+SECURITIES AND EXCHANGE COMMISSION
+Washington, D.C. 20549
+SCHEDULE 14A
+Proxy Statement Pursuant to Section 14(a) of the
+Securities Exchange Act of 1934
+Filed by the Registrant   ý                              Filed by a Party other than the Registrant   ☐
+Check the appropriate box:
+[BEGIN TABLE]
+☐   Preliminary Proxy Statement 
+☐   Confidential, for Use of the Commission Only (as permitted by Rule 14a-6(e)(2)) 
+ý   Definitive Proxy Statement 
+☐   Definitive Additional Materials 
+☐   Soliciting Material Pursuant to §240.14a-12 
+[END TABLE]
+UBIQUITI NETWORKS, INC.
+(Name of Registrant as Specified In Its Charter)
+(Name of Person(s) Filing Proxy Statement, if other than the Registrant) Table of Contents
+Payment of Filing Fee (Check the appropriate box):
+[BEGIN TABLE]
+☒   No fee required. 
+☐   Fee computed on table below per Exchange Act Rules 14a-6(i)(1) and 0-11. 
+    (1)   Title of each class of securities to which transaction applies:    
+    (1)   Title of each class of securities to which transaction applies:    
+    (2)   Aggregate number of securities to which transaction applies:    
+    (3)   Per unit price or other underlying value of transaction computed pursuant to Exchange Act Rule 0-11 (set forth the amount on which the filing fee is calculated and state how it was determined):    
+    (3)   Per unit price or other underlying value of transaction computed pursuant to Exchange Act Rule 0-11 (set forth the amount on which the filing fee is calculated and state how it was determined):    
+    (4)   Proposed maximum aggregate value of transaction:    
+    (5)   Total fee paid:    
+[END TABLE]
+[BEGIN TABLE]
+☐   Fee paid previously with preliminary materials. 
+☐   Check box if any part of the fee is offset as provided by Exchange Act Rule 0-11(a)(2) and identify the filing for which the offsetting fee was paid previously. Identify the previous filing by registration statement number, or the Form or Schedule and the date of its filing: 
+    (1)   Amount Previously Paid: 
+    (2)   Form, Schedule or Registration Statement No.: 
+    (3)   Filing Party: 
+    (4)   Date Filed: 
+[END TABLE]
+ Table of Contents
+Ubiquiti Networks, Inc.
+685 Third Avenue, 27th Floor
+New York, NY 10017
+(646) 780-7958
+October 26, 2018
+Dear Stockholders:
+We are pleased to invite you to attend our 2018 Annual Meeting of Stockholders to be held virtually on December 11, 2018 at 10:00 a.m. Eastern Time (the "Annual Meeting").
+The virtual Annual Meeting can be accessed by visiting www.virtualshareholdermeeting.com/UBNT2018, where you will be able to listen to the meeting live, submit questions and vote online. We believe that a virtual stockholder meeting provides greater access to those who may want to attend and therefore have chosen this over an in-person meeting.
+The matters to be considered at the meeting are described in detail in the attached proxy statement. You will have an opportunity to submit questions or comments on matters of interest to stockholders generally. Included with the proxy statement is a copy of our Annual Report on Form 10-K for the fiscal year ended June 30, 2018.
+Please use this opportunity to take part in the affairs of Ubiquiti Networks, Inc. by voting on the business to come before this meeting. Regardless of whether you plan to attend the meeting, we urge you to vote your proxy as soon as possible. Returning the proxy card does not deprive you of your right to attend the meeting and to vote your shares in person, and may save us from incurring additional proxy solicitation costs.
+Thank you for your ongoing support of Ubiquiti Networks, Inc. We look forward to your attendance at the virtual Annual Meeting.
+[BEGIN TABLE]
+  UBIQUITI NETWORKS, INC. 
+  Robert J. Pera 
+  Chief Executive Officer and Chairman of the Board 
+  New York, New York 
+[END TABLE]
+This notice of Annual Meeting, proxy statement and form of proxy are being distributed and made available to stockholders on or about October 26, 2018. Table of Contents
+Ubiquiti Networks, Inc.
+685 Third Avenue, 27th Floor
+New York, NY 10017
+(646) 780-7958
+NOTICE OF ANNUAL MEETING OF STOCKHOLDERS
+To Be Held on Tuesday, December 11, 2018
+The Annual Meeting of Stockholders of Ubiquiti Networks, Inc. will be held virtually at 10:00 a.m., Eastern Time, on December 11, 2018 for the following purposes (as more fully described in the proxy statement accompanying this notice):
+1.The election of two Class I directors to serve until the third annual meeting of our stockholders following their election or until their successors are duly elected and qualified;
+2.To ratify the appointment of KPMG LLP ("KPMG") as our independent registered public accountants for the fiscal year ending June 30, 2019
+3.To conduct a non-binding advisory vote to approve named executive officer compensation;
+4.To conduct a non-binding advisory vote on the frequency of holding future advisory stockholder vote on executive officer compensation; and
+5.To transact such other business as may properly come before the meeting or any adjournment thereof.
+The virtual Annual Meeting can be accessed by visiting www.virtualshareholdermeeting.com/UBNT2018, where you will be able to listen to the meeting live, submit questions and vote online. We believe that a virtual stockholder meeting provides greater access to those who may want to attend and therefore have chosen this over an in-person meeting.
+Stockholders of record at the close of business on October 16, 2018 are entitled to vote at the Annual Meeting and are cordially invited to attend the virtual meeting. However, to ensure your representation at the virtual meeting, you are urged to mark, sign and date and return the enclosed proxy as promptly as possible in the postage prepaid envelope enclosed for that purpose or vote on the internet or by telephone as described herein. If you attend the virtual meeting, you may vote in person even if you return a proxy.
+[BEGIN TABLE]
+  The Board of Directors 
+  New York, New York 
+  October 26, 2018 
+[END TABLE]
+ Table of Contents
+[BEGIN TABLE]
+TABLE OF CONTENTS   
+  Page 
+QUESTIONS AND ANSWERS ABOUT THE PROXY MATERIALS AND THE ANNUAL MEETING 7 
+Q: Why am I receiving these materials? 7 
+Q: What items of business will be voted on at the Annual Meeting? 7 
+Q: How does our Board recommend that I vote? 7 
+Q: What information is contained in these proxy materials? 7 
+Q: What shares can I vote? 8 
+Q: How many votes am I entitled to per share? 8 
+Q: What is the difference between holding shares as a stockholder of record and as a beneficial owner? 8 
+Q: How can I vote my shares in person at the virtual Annual Meeting? 8 
+Q: How can I vote my shares without attending the virtual Annual Meeting? 9 
+Q: Can I change my vote or revoke my proxy? 9 
+Q: Is my vote confidential? 9 
+Q: How can I attend the virtual Annual Meeting? 9 
+Q: How many shares must be present or represented to conduct business at the Annual Meeting? 9 
+Q: How are votes counted? 9 
+Q: What is the voting requirement to approve each of the proposals? 9 
+Q: Is cumulative voting permitted for the election of directors? 10 
+Q: What happens if additional matters are presented at the Annual Meeting? 10 
+Q: Who will serve as inspector of elections? 10 
+Q: Who will bear the cost of soliciting votes for the Annual Meeting? 10 
+Q: Where can I find the voting results of the Annual Meeting? 10 
+Q: How can I contact Ubiquiti's transfer agent? 10 
+Q: How do I obtain a separate set of proxy materials or request a single set for my household? 10 
+Q: How do I get electronic access to the proxy materials? 11 
+Q: What is the deadline to propose actions for consideration at next year's annual meeting of stockholders or to nominate individuals to serve as directors? 11 
+CORPORATE GOVERNANCE 13 
+Code of Business Conduct and Ethics 13 
+Director Independence 13 
+Board Composition 13 
+Board Leadership Structure 14 
+Board of Directors 14 
+Committees of the Board of Directors 14 
+Compensation Committee Interlocks and Insider Participation 16 
+Board's Role in Risk Oversight 16 
+Director Nominations 16 
+Stockholder Communications with our Board 16 
+PROPOSAL ONE ELECTION OF DIRECTORS 18 
+General 18 
+Information Regarding Nominees 18 
+Information Regarding Continuing Directors 18 
+Directors' Compensation 19 
+Required Vote 20 
+Recommendation 20 
+PROPOSAL TWO RATIFICATION OF THE APPOINTMENT OF INDEPENDENT REGISTERED PUBLIC ACCOUNTING FIRM 21 
+[END TABLE]
+ Table of Contents
+[BEGIN TABLE]
+TABLE OF CONTENTS   
+  Page 
+Changes in Company's Independent Registered Public Accounting Firm 21  
+Changes in Company's Independent Registered Public Accounting Firm 21  
+Required Vote 22 
+Recommendation 22 
+Audit and Non-Audit Fees 22 
+Audit Committee Pre-Approval Policies 22 
+PROPOSAL THREE NON-BINDING ADVISORY VOTE TO APPROVE NAMED EXECUTIVE OFFICER COMPENSATION 23 
+Required Vote 23 
+Recommendation 23 
+PROPOSAL FOUR NON-BINDING ADVISORY VOTE ON THE FREQUENCY OF HOLDING FUTURE ADVISORY STOCKHOLDER VOTES ON EXECUTIVE OFFICER COMPENSATION  24 
+Required Vote 24 
+Recommendation 24 
+REPORT OF THE AUDIT COMMITTEE 25 
+EXECUTIVE OFFICERS 26 
+EXECUTIVE COMPENSATION 27 
+Compensation Discussion and Analysis 27 
+Compensation Committee Report 31 
+Fiscal 2018 Summary Compensation Table 33 
+CEO Pay Ratio 32 
+Grants of Plan-Based Awards for Fiscal 2018 33 
+Outstanding Equity Awards at June 30, 2018 33 
+Option Exercises and Stock Vested in Fiscal 2018 33 
+Pension Benefits & Nonqualified Deferred Compensation 33 
+Employment Agreements 33 
+Potential Payments upon Termination or Change of Control 34 
+EQUITY COMPENSATION PLAN INFORMATION 37 
+CERTAIN RELATIONSHIPS AND RELATED PARTY TRANSACTIONS 38 
+Policies and Procedures for Related Party Transactions 38 
+SECTION 16(A) BENEFICIAL OWNERSHIP REPORTING COMPLIANCE 38 
+SECURITY OWNERSHIP OF CERTAIN BENEFICIAL OWNERS AND MANAGEMENT RELATED STOCKHOLDER MATTERS 38 
+OTHER MATTERS 39 
+[END TABLE]
+ Table of Contents
+Ubiquiti Networks, Inc.
+685 Third Avenue, 27th Floor
+New York, NY 10017
+(646) 780-  
+PROXY STATEMENT
+ QUESTIONS AND ANSWERS
+ABOUT THE PROXY MATERIALS AND THE ANNUAL MEETING
+[BEGIN TABLE]
+Q: Why am I receiving these materials? 
+[END TABLE]
+[BEGIN TABLE]
+A: Ubiquiti Networks, Inc.'s ("Company", "Ubiquiti", "we", "us" or "our") Board of Directors (our "Board") has made these materials available to you on the internet and has delivered printed proxy materials to you, in connection with the solicitation of proxies for use at the virtual annual meeting of stockholders, which will take place on December 11, 2018 at 10:00 a.m. Eastern Time (the "Annual Meeting"). As a stockholder, you are invited to attend the virtual Annual Meeting and are requested to vote on the items of business described in this proxy statement. The virtual Annual Meeting can be accessed by visiting www.virtualshareholdermeeting.com/UBNT2018, where you will be able to listen to the meeting live, submit questions and vote online. We believe that a virtual stockholder meeting provides greater access to those who may want to attend and therefore have chosen this over an in-person meeting. 
+[END TABLE]
+[BEGIN TABLE]
+Q: What items of business will be voted on at the Annual Meeting? 
+[END TABLE]
+[BEGIN TABLE]
+A: The items of business scheduled to be voted on at the Annual Meeting are: 
+[END TABLE]
+• The election of two Class I directors to serve until the third annual meeting of our stockholders following their election or until their respective successors are duly elected and qualified;
+• To ratify the appointment of KPMG as our independent registered public accountants for the fiscal year ending June 30, 2019 ("fiscal 2019"); and
+• To conduct a non-binding advisory vote to approve named executive officer compensation; and
+• To conduct a non-binding advisory vote on the frequency of holding an advisory stockholder vote on executive office compensation.
+We will also consider any other business that properly comes before the Annual Meeting or any adjournment thereof.
+[BEGIN TABLE]
+Q: How does our Board recommend that I vote? 
+[END TABLE]
+[BEGIN TABLE]
+A: Our Board recommends that you vote your shares: 
+[END TABLE]
+• "FOR" the election of our Class I director nominees, Mr. Michael E. Hurlston and Mr. Rafael Torres (Proposal No. 1).
+• "FOR" the ratification of the appointment of KPMG as our independent registered public accounting firm for fiscal 2019 (Proposal No. 2).
+• "FOR" the approval on an advisory and non-binding basis of the named executive officer compensation (Proposal No.3)
+• For "TWO YEARS" as the frequency of future stockholder votes on executive compensation, on an advisory and non-binding basis (Proposal No.4)
+[BEGIN TABLE]
+Q: What information is contained in these proxy materials? 
+[END TABLE]
+[BEGIN TABLE]
+A: You are receiving a proxy card, a copy of our Annual Report on Form 10-K (the "Annual Report") for the fiscal year ended June 30, 2018 ("fiscal 2018") and this proxy statement (collectively, the "proxy materials"). The information in this proxy statement relates to the  
+[END TABLE]
+ Table of Contents proposals to be voted on at the Annual Meeting, the voting process, the compensation of our directors and most highly paid executive officers, corporate governance and information on our Board and certain other required information.  
+[BEGIN TABLE]
+Q: What shares can I vote? 
+[END TABLE]
+[BEGIN TABLE]
+A: Each share of our common stock issued and outstanding as of the close of business on October 16, 2018 (the "Record Date") is entitled to be voted on all items being voted on at the Annual Meeting. You may vote all shares owned by you as of the Record Date, including (1) shares held directly in your name as the stockholder of record, and (2) shares held for you as the beneficial owner in street name through a broker, bank, trustee, or other nominee. On the Record Date there were 72,410,601 shares of our common stock issued and outstanding. 
+[END TABLE]
+[BEGIN TABLE]
+Q: How many votes am I entitled to per share? 
+[END TABLE]
+[BEGIN TABLE]
+A: For all matters described in this proxy statement for which your vote is being solicited, each holder of shares of common stock is entitled to one vote for each share of common stock held as of the Record Date. 
+[END TABLE]
+[BEGIN TABLE]
+Q: What is the difference between holding shares as a stockholder of record and as a beneficial owner? 
+[END TABLE]
+[BEGIN TABLE]
+A: Most of our stockholders hold their shares as a beneficial owner through a broker or other nominee rather than directly in their own name. As summarized below, there are some distinctions between shares held of record and those owned beneficially. 
+[END TABLE]
+Stockholder of Record
+If your shares are registered directly in your name with our transfer agent, Computershare Trust Company, N.A., you are considered, with respect to those shares, the stockholder of record, and we sent the proxy materials directly to you. As the stockholder of record, you have the right to grant your voting proxy directly to us or to vote in person at the Annual Meeting. You may also vote on the internet or by telephone, as described in the proxy materials and below under the heading "How can I vote my shares without attending the virtual Annual Meeting?"
+Beneficial Owner
+If your shares are held in an account at a brokerage firm, bank, broker-dealer, trust, or other similar organization, you are considered the beneficial owner of shares held in street name, and the proxy materials were or will be forwarded to you by that organization. As the beneficial owner, you have the right to direct your broker, bank, trustee, or other nominee how to vote your shares, and you are also invited to attend the virtual Annual Meeting.
+Since a beneficial owner is not the stockholder of record, you may not vote your shares in person at the Annual Meeting unless you obtain a "legal proxy" from the broker, bank, trustee, or other nominee that holds your shares giving you the right to vote the shares at the meeting. If you do not wish to vote in person or you will not be attending the Annual Meeting, you may direct your broker, bank trustee, or other nominee how to vote your shares. You may vote in accordance with the instructions provided by your broker, bank, trustee, or nominee, as described in the proxy materials and below under the heading "How can I vote my shares without attending the virtual Annual Meeting?"
+[BEGIN TABLE]
+Q: How can I vote my shares in person at the virtual Annual Meeting? 
+[END TABLE]
+[BEGIN TABLE]
+A: Shares held in your name as the stockholder of record may be voted by you in person at the virtual Annual Meeting. Shares held beneficially in street name may be voted by you in person at the virtual Annual Meeting only if you obtain a legal proxy from the  
+[END TABLE]
+broker, bank, trustee, or other nominee that holds your shares, giving you the right to vote the shares. Even if you plan to attend the virtual Annual Meeting, we recommend that you also submit your proxy or voting instructions as described below so that your vote will be counted if you later decide not to attend the meeting. If you are a stockholder of record, you may:
+• vote via the virtual meeting website—any stockholder can attend the virtual Annual Meeting by visiting www.virtualshareholdermeeting.com/UBNT2018, where stockholders may vote and submit questions during the meeting. The meeting starts at 10:00 a.m. (Eastern Time). Please have your 16-Digit Control Number to join the Annual Meeting. Instructions on how to attend and participate via the Internet, including how to demonstrate proof of stock ownership, are posted at www.proxyvote.com;
+• vote via telephone or Internet—in order to do so, please follow the instructions shown on your proxy card; or
+• vote by mail—complete, sign and date the proxy card enclosed herewith and return it before the Annual Meeting in the envelope provided. Table of Contents
+Votes submitted by telephone or Internet must be received by 11:59 pm Eastern Time on December 10, 2018. Submitting your proxy, whether via the Internet, by telephone, or by mail, will not affect your right to vote in person should you decide to attend the virtual Annual Meeting.  If you are not the stockholder of record, please refer to the voting instructions provided by your nominee to direct your nominee on how to vote your shares.
+[BEGIN TABLE]
+Q: How can I vote my shares without attending the virtual Annual Meeting? 
+[END TABLE]
+[BEGIN TABLE]
+A: Whether you hold shares directly as the stockholder of record or beneficially in street name, you may direct how your shares are voted without attending the virtual Annual Meeting. If you are a stockholder of record, you may vote by proxy. You can vote by proxy over the internet by following the instructions provided in the proxy materials, or, if you requested to receive printed proxy materials, you can also vote by mail or telephone pursuant to instructions provided on the proxy card. If you hold shares beneficially in street name, you may direct your nominee how to vote your shares over the internet by following the instructions provided in the proxy materials, or, if you requested to receive printed proxy materials, you can also direct your nominee how to vote your shares by telephone or mail by following the voting instruction card provided to you by your broker, bank, trustee, or other nominee. 
+[END TABLE]
+[BEGIN TABLE]
+Q: Can I change my vote or revoke my proxy? 
+[END TABLE]
+[BEGIN TABLE]
+A: You may change your vote at any time prior to the taking of the vote at the Annual Meeting. If you are the stockholder of record, you may change your vote or revoke your proxy by (1) granting a new proxy bearing a later date (which automatically revokes the earlier proxy) using any of the methods described above (and until the applicable deadline for each method), (2) providing a written notice of revocation to Vote Processing, c/o Broadridge, 51 Mercedes Way, Edgewood, NY 11717 prior to your shares being voted, or (3) attending the virtual Annual Meeting and voting in person. Attendance at the virtual meeting will not cause your previously granted proxy to be revoked unless you specifically so request. For shares you hold beneficially in street name, you may change your vote by submitting new voting instructions to your broker, bank, trustee, or other nominee following the instructions they provided, or, if you have obtained a legal proxy from your broker, bank, trustee, or other nominee giving you the right to vote your shares, by attending the virtual Annual Meeting and voting in person. 
+[END TABLE]
+[BEGIN TABLE]
+Q: Is my vote confidential? 
+[END TABLE]
+[BEGIN TABLE]
+A: Proxy instructions, ballots, and voting tabulations that identify individual stockholders are handled in a manner that protects your voting privacy. Your vote will not be disclosed either among our employees or to third parties, except: (1) as necessary to meet applicable legal requirements, (2) to allow for the tabulation of votes and certification of the vote, and (3) to facilitate a successful proxy solicitation. Occasionally, stockholders provide written comments on their proxy card, which are then forwarded to our management. 
+[END TABLE]
+[BEGIN TABLE]
+Q: How can I attend the virtual Annual Meeting? 
+[END TABLE]
+[BEGIN TABLE]
+A: Any stockholder can attend the virtual Annual Meeting by visiting www.virtualshareholdermeeting.com/UBNT2018, where stockholders may vote and submit questions during the meeting. Please have your 16-Digit Control Number to join the Annual Meeting. The virtual meeting will begin promptly at 10:00 a.m. Eastern Time on December 11, 2018. 
+[END TABLE]
+[BEGIN TABLE]
+Q: How many shares must be present or represented to conduct business at the Annual Meeting? 
+[END TABLE]
+[BEGIN TABLE]
+A: A majority of our issued and outstanding shares of common stock must be present in person or represented by proxy in order to hold the meeting and conduct business. This is called a quorum. Your shares will be counted for purposes of determining if there is a quorum, even if you wish to abstain from voting on some or all matters introduced at the meeting, if you are present and vote in person at the meeting or have properly submitted a proxy card. Both abstentions and broker non-votes (described below) are counted for the purpose of determining the presence of a quorum. 
+[END TABLE]
+[BEGIN TABLE]
+Q: How are votes counted? 
+[END TABLE]
+[BEGIN TABLE]
+A: In the election of directors (Proposal 1), you may vote "FOR" some or all of the nominees or your vote may be "WITHHELD" with respect to some or all of the nominees. 
+[END TABLE]
+For the ratification of the appointment of KPMG as our independent registered public accountants for the fiscal year ending June 30, 2019 (Proposal 2), and the non-binding advisory vote on NEO compensation (Proposal 3), you may vote "FOR," "AGAINST," or "ABSTAIN." If you elect to "ABSTAIN," the abstention has the same effect as a vote "AGAINST." If you  Table of Contents provide specific instructions with regard to certain items, your shares will be voted as you instruct on such items. If no instructions are indicated, the shares will be voted as recommended by our Board
+For the non-binding advisory vote on the frequency of future stockholder votes on executive compensation (Proposal 4), you may vote "ONE YEAR," "TWO YEARS", "THREE YEARS" or "ABSTAIN." Abstentions will have no effect on the outcome of the proposal. If you provide specific instructions with regard to certain items, your shares will be voted as you instruct on such items. If no instructions are indicated on a properly executed proxy card or over the telephone or internet, the shares will be voted as recommended by our board of directors. (See "How does our Board recommend that I vote?" above for additional information.)
+[BEGIN TABLE]
+Q: What is the voting requirement to approve each of the proposals? 
+[END TABLE]
+[BEGIN TABLE]
+A: A plurality of the shares present in person or represented by proxy at the meeting and entitled to vote is required for the election of directors, which means that the two nominees received the highest number of affirmative vote will be elected. The affirmative "FOR" vote of a majority of the shares present in person or represented by proxy at the meeting and entitled to vote on the proposal is required to approve the ratification of appointment of KPMG as our independent registered public accountants for the fiscal year ended June 30, 2019 (Proposal 2), and the non-binding advisory vote on NEO compensation (Proposal 3). The option, "1 YEAR", "2 YEARS" or "3 YEARS," that receives the most votes for the non-binding, advisory vote on the frequency of future stockholder votes on executive compensation (Proposal 4) will be considered the option selected by stockholders. 
+[END TABLE]
+If you hold shares beneficially in street name and do not provide your broker with voting instructions, your shares may constitute "broker non-votes." Generally, broker non-votes occur on a matter when a broker is not permitted to vote on that matter without instructions from the beneficial owner and instructions are not given. In tabulating the voting result for any particular proposal, shares that constitute broker non-votes are not considered votes "FOR" or "AGAINST" such proposal. Thus, broker non-votes will not affect the outcome of any matter being voted on at the meeting, assuming that a quorum is obtained. Abstentions are considered votes cast and thus have the same effect as votes against the matter. 
+We encourage you to provide instructions to your bank or brokerage firm by voting your proxy. This action ensures your shares will be voted at the meeting in accordance with your wishes.
+[BEGIN TABLE]
+Q: Is cumulative voting permitted for the election of directors? 
+[END TABLE]
+[BEGIN TABLE]
+A: No. You may not cumulate your votes for the election of directors. 
+[END TABLE]
+[BEGIN TABLE]
+Q: What happens if additional matters are presented at the Annual Meeting? 
+[END TABLE]
+[BEGIN TABLE]
+A: Other than the four items of business described in this proxy statement, we are not aware of any other business to be acted upon at the Annual Meeting. If you grant a proxy, the person named as proxy holder, Hartley Nisenbaum or Kevin Radigan, will have the discretion to vote your shares on any additional matters properly presented for a vote at the meeting or any adjournment thereof. If for any reason any nominee is not available as a candidate for director, the persons named as proxy holders will vote your proxy for such other candidate or candidates as may be nominated by our Board. 
+[END TABLE]
+[BEGIN TABLE]
+Q: Who will serve as inspector of elections? 
+[END TABLE]
+[BEGIN TABLE]
+A: The inspector of elections will be Broadridge Financial Solutions, Inc. Our transfer agent, Computershare Trust Company, N.A., will assist the inspector of elections with tabulating the votes. 
+[END TABLE]
+[BEGIN TABLE]
+Q: Who will bear the cost of soliciting votes for the Annual Meeting? 
+[END TABLE]
+[BEGIN TABLE]
+A: We will pay the entire cost of preparing, assembling, printing, mailing, and distributing these proxy materials and soliciting votes. If you choose to access the proxy materials and/or vote over the internet, you are responsible for internet access charges you may incur. If you choose to vote by telephone, you are responsible for telephone charges you may incur. In addition to the mailing of these proxy materials, the solicitation of proxies or votes may be made in person, by telephone or by electronic communication by our directors, officers, and employees, who will not receive any additional compensation for such solicitation activities. The estimated cost of the proxy materials is $13,000 plus out-of-pocket expenses. 
+[END TABLE]
+[BEGIN TABLE]
+Q: Where can I find the voting results of the Annual Meeting? 
+[END TABLE]
+[BEGIN TABLE]
+A: We will announce preliminary voting results at the Annual Meeting and publish them on our website at http://ir.ubnt.com/index.cfm. We will also disclose voting results on a Form 8-K filed with the Securities and Exchange Commission (the "SEC") within four business days after the Annual Meeting, which will also be available on our website. The inclusion of our  
+[END TABLE]
+ Table of Contents website address in this proxy statement does not include or incorporate by reference the information on our website into this proxy statement.
+[BEGIN TABLE]
+Q: How can I contact Ubiquiti's transfer agent? 
+[END TABLE]
+[BEGIN TABLE]
+A: You can contact our transfer agent by either writing Computershare Trust Company, N.A. c/o: Shareholder Services, by regular mail at P.O. Box 505000, Louisville, KY 40233; by overnight delivery at 462 South 4th Street Suite 1600 Louisville, KY 40202; or by telephoning (877) 373-6374 or (781) 575-3120. 
+[END TABLE]
+[BEGIN TABLE]
+Q: How do I obtain a separate set of proxy materials or request a single set for my household? 
+[END TABLE]
+[BEGIN TABLE]
+A: We have adopted a procedure approved by the SEC called "householding." Under this procedure, stockholders who have the same address and last name and do not participate in electronic delivery of proxy materials will receive only one copy of the notice and our annual report and proxy statement unless one or more of these stockholders notifies us that they wish to continue receiving individual copies. This procedure reduces our printing costs and postage fees. Each stockholder who participates in householding will continue to be able to access or receive a separate proxy card. 
+[END TABLE]
+To request a printed copy of the proxy materials, please contact us via the Internet (www.proxyvote.com), telephone (1-800-542-1061) or by email (sendmaterial@proxyvote.com) on or before November 30, 2018. If requesting material by email, please send a blank email with the 16-digit Control Number (located on the notice) in the subject line. Requests, instructions and other inquiries will NOT be forwarded to your investment advisor. If any stockholders in your household wish to receive a separate annual report and a separate proxy statement in the future, they may contact Ubiquiti Networks, Inc.
+Ubiquiti Networks, Inc.
+685 Third Avenue, 27th Floor
+New York, NY 10017
+(646) 780-7958
+Attn: Investor Relations
+Email: ir@ubnt.com
+Other stockholders who have multiple accounts in their names or who share an address with other stockholders can authorize us to discontinue mailings of multiple annual reports and proxy statements by contacting Investor Relations.
+[BEGIN TABLE]
+Q: How do I get electronic access to the proxy materials? 
+[END TABLE]
+[BEGIN TABLE]
+A: These proxy materials (including our Annual Report) are also available at https://materials.proxyvote.com/90347A and the SEC website at http://www.sec.gov. The information contained on these websites do not form any part of this proxy statement. 
+[END TABLE]
+[BEGIN TABLE]
+Q: What is the deadline to propose actions for consideration at next year's annual meeting of stockholders or to nominate individuals to serve as directors? 
+[END TABLE]
+[BEGIN TABLE]
+A: Stockholder Proposals: Stockholders may present proper proposals for inclusion in our proxy statement and for consideration at the next annual meeting of stockholders by submitting their proposals in writing to our Corporate Secretary in a timely manner. For a stockholder proposal to be considered for inclusion in our proxy statement for our 2019 Annual Meeting of Stockholders, our Corporate Secretary must receive the written proposal at our principal executive offices no later than June 28, 2019; provided, however, that in the event that we hold our 2019 Annual Meeting of Stockholders more than 30 days before or after the one-year anniversary date of the 2018 Annual Meeting, we will disclose the new deadline by which stockholder proposals must be received under Item 5 of our earliest possible Quarterly Report on Form 10-Q or, if impracticable, by any means reasonably calculated to inform stockholders. In addition, stockholder proposals must otherwise comply with the requirements of Rule 14a-8 of the Securities Exchange Act of 1934, as amended, (the "Exchange Act") regarding the inclusion of stockholder proposals in company-sponsored proxy materials. Proposals should be addressed to: 
+[END TABLE]
+Ubiquiti Networks, Inc.
+685 Third Avenue 27th  Floor
+New York, NY 10017
+Attn: Corporate Secretary Table of Contents
+Advanced Notice Procedures: Our bylaws also establish an advance notice procedure for stockholders who wish to present a proposal before an annual meeting of stockholders, but do not intend for the proposal to be included in our proxy statement. Our bylaws provide that the only business that may be conducted at an annual meeting is business that is: (1) specified in the notice of a meeting given by or at the direction of our Board, (2) otherwise properly brought before the meeting by or at the direction of our Board, or (3) properly brought before the meeting by a stockholder of record entitled to vote at the annual meeting who has delivered timely written notice to our Corporate Secretary, which notice must contain the information specified in our bylaws. To be timely for our 2019 Annual Meeting of Stockholders, our Corporate Secretary must receive the written notice at our principal executive offices:
+• no earlier than August 12, 2019, and
+• not later than the close of business on September 11, 2019.
+In the event that we hold our 2019 Annual Meeting of Stockholders more than 30 days before or 60 days after the one-year anniversary date of the 2018 Annual Meeting, then notice of a stockholder proposal that is not intended to be included in our proxy statement must be received no earlier than the 120th day prior to such annual meeting, and not later than the close of business on the later of the following two dates:
+• the 90th day before such annual meeting, or
+• the 10th day following the day on which public announcement of the date of such meeting is first made.
+If a stockholder who has notified us of his or her intention to present a proposal at an annual meeting does not appear to present his or her proposal at such meeting, we are not required to present the proposal for a vote at such meeting.
+Nomination of Director Candidates: You may propose director candidates for consideration by our Board. Any such recommendations should include the nominee's name and qualifications for membership on our Board, and should be directed to our Corporate Secretary at the address set forth above. For additional information regarding stockholder recommendations for director candidates, see "Corporate Governance—Director Nominations" below.
+To nominate a director, the stockholder must provide the information required by our Bylaws. In addition, the stockholder must give timely notice to our Corporate Secretary in accordance with our Bylaws, which, in general, require that the notice be received by our Corporate Secretary within the time period described above under "Advanced Notice Procedures" for stockholder proposals that are not intended to be included in our proxy statement.
+Copy of Bylaw Provisions: A copy of our Bylaws may be obtained by accessing our filings on the SEC's website at http://www.sec.gov. You may also contact our Corporate Secretary at our principal executive offices for a copy of the relevant bylaw provisions regarding the requirements for making stockholder proposals and nominating director candidates. Table of Contents
+ CORPORATE GOVERNANCE
+Code of Business Conduct and Ethics
+Our Board has adopted a Code of Business Conduct and Ethics for all employees, officers and directors. The full text of our Code of Business Conduct and Ethics is posted on the investor relations portion of our website http://ir.ubnt.com/company/corporate-governance. We intend to disclose future amendments to our Code of Business Conduct and Ethics, or certain waivers of such provisions, at the same location on our website identified above and also in public filings. The inclusion of our website address in this proxy statement does not include or incorporate by reference the information on our website into this proxy statement.
+Our Board also adopted a Code of Ethics for Principal Executive and Senior Financial Officers and Section 16 Officers. The full text of our Code of Ethics for Principal Executive and Senior Financial Officers and Section 16 Officers is posted on the investor relations portion of our website http://ir.ubnt.com/company/corporate-governance. We intend to disclose future amendments to our Code of Ethics for Principal Executive and Senior Financial Officers and Section 16 Officers, or certain waivers of such provisions, at the same location on our website identified above and also in public filings.
+  Director Independence 
+In October 2018, our Board undertook a review of the independence of our directors and considered whether any director has a material relationship with us that could compromise the director's ability to exercise independent judgment in carrying out the director's responsibilities, among the other criteria for "independent directors" as defined under the rules of the NASDAQ Stock Market LLC ("NASDAQ"). In evaluating the directors' independence, the Board considered the nature of any executive officer's personal investment interest in the director affiliated entities (active or passive), the level of involvement by the director or executive officer as a partner in the director affiliated entities, any special arrangements between the parties which would lead to a personal benefit, any personal benefits derived as a result of business relationships with the Company, any other personal benefit derived by any director or executive officer as a result of the disclosed relationships or any other relevant factors. As a result of this review, our Board determined that each of Messrs. Michael E. Hurlston, Ronald A. Sege and Rafael Torres, who are currently serving on our Board, are "independent directors" as defined under the rules of NASDAQ and constitute a majority of directors of our Board as required by the rules of NASDAQ. Additionally, our Board previously determined that Messrs. Michael E. Hurlston, Ronald A. Sege and Rafael Torres, who served on our Board during the last fiscal year, were "independent directors" as defined under the rules of NASDAQ, constituting a majority of independent directors of our Board during the last fiscal year as required by the rules of NASDAQ.
+ Board Composition
+Our Board is currently composed of four members. Our bylaws permit our Board to establish by resolution the authorized number of directors and four directors are currently authorized.
+Our directors are divided into three classes as nearly equal in size as is practicable, designated Class I, Class II and Class III. The term of office for each Class is three years. At each annual meeting of stockholders, each of the successors elected to replace the directors of a Class whose term shall have expired at such annual meeting shall be elected to hold office until the third annual meeting next succeeding his or her election and until his or her respective successor shall have been duly elected and qualified. Currently, the terms of the directors expire upon the election and qualification of successor directors at the annual meeting of stockholders to be held during 2018 for the Class I directors, 2019 for the Class II director and 2020 for the Class III director.
+[BEGIN TABLE]
+Class I Directors     Age     Position 
+Michael E. Hurlston (1)     52     Director 
+Rafael Torres (1)     50     Director 
+Class II Director     Age     Position 
+Ronald A. Sege (1)     61     Director 
+Class III Director     Age     Position 
+Robert J. Pera     40     Chief Executive Officer and Chairman of the Board 
+(1) Member of the audit committee, the compensation committee and the nominating and governance committee. 
+[END TABLE]
+ Table of Contents
+Board Leadership Structure
+Robert J. Pera is the Chairman of our Board and our largest stockholder. Mr. Pera has also served as our Chief Executive Officer since our company was founded. The Board believes that Mr. Pera brings a strategic perspective to the position of Chairman, and that it remains in the best interests of shareholders for him to continue to serve in that role.
+Ronald A. Sege is the lead independent director of the Board. In light of the size of our Board and the oversight provided by, and involvement of, our independent directors and Board committees in the leadership of our company, our Board considers that our current leadership structure and conduct combines appropriate leadership with the ability to conduct our business efficiently and with appropriate care and attention.
+Our Board has as an objective that its membership be composed of experienced and dedicated individuals with diversity of backgrounds, perspectives and skills. The nominating and governance committee selects candidates for director based on their independence, character, judgment, diversity of experience, business acumen and ability to act on behalf of all stockholders. In seeking qualified candidates, diversity of background, including diversity of gender, race, or ethnic or national origin is also a relevant factor in the selection process in order to promote a well-balanced board with varying perspectives. The nominating and governance committee believes that nominees for director should have experience that may be useful to us and our Board, such as experience in operational management, accounting and finance, legal and compliance, or industry and technology knowledge, as well as high personal and professional ethics and the willingness and ability to devote sufficient time to effectively carry out his or her duties as a director. The nominating and governance committee believes it appropriate for at least one, and preferably multiple, members of our Board to meet the criteria for an "audit committee financial expert" as defined by SEC rules, and for a majority of the members of our Board to meet the definition of "independent director" under the rules of NASDAQ. The nominating and governance committee also believes it appropriate for certain key members of our management to participate as members of our Board.
+Our Board is actively involved in oversight of risks that could affect us as further described in "Board's Role in Risk Oversight" below. This oversight is conducted primarily through the committees of our Board, as disclosed in the descriptions of each of the committees described in "Committees of the Board of Directors" below and in the charters of each of the committees, but our Board has retained responsibility for general oversight of risks. Our Board satisfies this responsibility through full reports by each committee chair regarding the committee's considerations and actions, as well as through regular reports directly from officers responsible for oversight of particular risks within our Company.
+ Board of Directors
+In fiscal 2018, our Board held eight meetings and also took action by written consent nine times. In fiscal 2018, all incumbent directors attended all of the meetings of the Board and committees on which such director served. 
+We do not have a policy regarding directors' attendance at the Annual Meeting of Stockholders, but we encourage our directors to attend the Annual Meeting. In fiscal 2018, our stockholders held an annual meeting on December 12, 2017.
+Committees of the Board of Directors 
+Our Board has appointed a nominating and governance committee, an audit committee, a compensation committee and management equity committee. Our Board believes that each member of each of the nominating and governance committee, the audit committee and the compensation committee meets the requirements for independence under the current requirements of NASDAQ, is a non-employee director as defined by Rule 16b-3 promulgated under the Exchange Act and is an outside director as defined pursuant to Section 162(m) of the Internal Revenue Code of 1986, as amended, or Internal Revenue Code. We believe that the respective charters and functioning of each of the nominating and governance committee, the audit committee and the compensation committee comply with the applicable requirements of NASDAQ and SEC rules and regulations. We intend to comply with future requirements to the extent they become applicable to us.
+Other than the management equity committee, our independent directors regularly schedule executive sessions of our Board and its committees in which management does not participate. In fiscal 2018, our independent directors met during every Board meeting in a separate executive session without any member of our management present.
+Nominating and governance committee. Our nominating and governance committee oversees and assists our Board in reviewing and recommending nominees for election as directors. Our nominating and governance committee's policy regarding the consideration of director candidates recommended by stockholders is set forth below under "Director Nominations". The nominating and governance committee also:
+• evaluates and makes recommendations regarding the organization and governance of our Board and its committees;
+• assesses the performance of members of our Board and makes recommendations regarding committee and chair assignments; Table of Contents
+• recommends desired qualifications for membership to our Board and conducts searches for potential members of our Board; and
+• reviews and makes recommendations with regard to our corporate governance guidelines.
+The members of our nominating and governance committee for fiscal 2018 were Messrs. Sege, Torres and Hurlston. Mr. Sege is the chairman of our nominating and governance committee. 
+The nominating and governance committee met five times during fiscal 2018 and also took one actions by unanimous written consent. The nominating and governance committee has adopted a written charter approved by our Board, which is available on our website at http://ir.ubnt.com/company/corporate-governance. The information contained on our website does not form any part of this proxy statement.
+Audit committee. The audit committee oversees our corporate accounting and financial reporting processes. The audit committee generally oversees:
+• our accounting and financial reporting processes as well as the audit and integrity of our financial statements;
+• the qualifications and independence of our independent registered public accounting firm;
+• the performance of our independent registered public accounting firm; and
+• our compliance with systems of disclosure controls and procedures, internal controls over financial reporting and compliance of our employees, directors and consultants with ethical standards adopted by us.
+The audit committee also has certain responsibilities, including without limitation, the following:
+• selects and hires the independent registered public accounting firm;
+• supervises and evaluates the independent registered public accounting firm;
+• evaluates the independence of the independent registered public accounting firm;
+• approves audit and non-audit services and fees;
+[BEGIN TABLE]
+• reviews financial statements and discusses with management and the independent registered public accounting firm our annual audited and quarterly financial statements, the results of the independent audit and the quarterly reviews, and the reports and certifications regarding internal controls over financial reporting and disclosure controls; and 
+[END TABLE]
+• reviews reports and communications from the independent registered public accounting firm.
+The members of our audit committee for fiscal 2018 were Messrs. Sege, Torres and Hurlston. Mr. Torres is the chairman of the audit committee. Our Board has determined that Mr. Torres is a financial expert as contemplated by the rules of the SEC implementing Section 407 of the Sarbanes-Oxley Act of 2002. Our Board has considered the independence and other characteristics of each member of our audit committee. The audit committee met seven times in fiscal 2018 and also took one actions by unanimous written consent. 
+The audit committee operates under a written charter adopted by our Board. A copy of the audit committee charter is available on our website at http://ir.ubnt.com/company/corporate-goverance. The information contained on our website does not form any part of this proxy statement.
+The Report of the Audit Committee is included in this proxy statement, see "Report of the Audit Committee" below.
+Compensation committee. The compensation committee oversees our corporate compensation policies, plans and benefits programs and has the responsibilities described in the "Executive Compensation-Compensation Discussion and Analysis" below.
+The members of our compensation committee for fiscal 2018 were Messrs. Sege, Torres and Hurlston. The compensation committee met four times during fiscal 2018 and took one action by unanimous written consent. See "Executive Compensation - Compensation Discussion and Analysis" and "Proposal One Election of Directors - Directors' Compensation" below for a description of our processes and procedures for the consideration and determination of executive and director compensation.
+The compensation committee operates under a written charter adopted by our Board. A copy of the compensation committee  Table of Contents charter is available on our website at http://ir.ubnt.com/company/corporate-governance. The information contained on our website does not form any part of this proxy statement.
+The Compensation Committee Report is included in this proxy statement, see "Compensation Committee Report" below.
+Management equity committee. Our Chief Executive Officer currently serves as the sole member of the management equity committee. The management equity committee is a secondary committee responsible for granting and issuing awards of options and restricted stock units, or RSUs, under the 2010 Equity Incentive Plan to eligible employees, other than to members of our Board and individuals designated by our Board as "Section 16 officers". In addition, the management equity committee may not make any awards to any one employee that total more than 10,000 shares of common stock. The management equity committee met eight times in fiscal 2018.
+Compensation Committee Interlocks and Insider Participation
+The members of our compensation committee for fiscal 2018 were Messrs. Sege, Torres and Hurlston. None of the former or current members of the compensation committee has at any time been one of our officers or employees. None of our executive officers serves, or in fiscal 2018, served as a member of a Board or compensation committee (or other committee serving an equivalent function) of any entity that has one or more executive officers who serve on our Board or compensation committee.
+Board's Role in Risk Oversight
+Our Board, as a whole and through its committees, has responsibility for the oversight of risk management. With the oversight of our full board of directors, our senior management is responsible for the day-to-day management of the material risks we face. In its oversight role, our Board has the responsibility to satisfy itself that the risk management processes designed and implemented by management are adequate and functioning as designed. Our Board holds strategic planning sessions with senior management to discuss strategies, key challenges, risks and opportunities for us. This involvement of our Board in setting our business strategy is a key part of its oversight of risk management, its assessment of management's appetite for risk, and its determination of what constitutes an appropriate level of risk for us. Additionally, our Board regularly receives updates from senior management and outside advisors regarding certain risks we face, including various operating risks. Our senior management attends meetings of our Board and its committees on a quarterly basis, and as is otherwise needed, and are available to address any questions or concerns raised by our Board on risk management and any other matters.
+Each of our board committees oversees certain aspects of risk management and reports their findings to the full board of directors on a quarterly basis, and as is otherwise needed. Our audit committee is responsible for overseeing risk management of financial matters, financial reporting, the adequacy of our risk-related internal controls, internal investigations, and enterprise risks, generally. Our compensation committee oversees risks related to compensation policies and practices, and is responsible for establishing and maintaining compensation policies and programs designed to create incentives consistent with our business strategy that do not encourage excessive risk-taking.
+In connection with its oversight of compensation-related risks, our compensation committee has reviewed an assessment by management of our compensation programs and practices for our employees, including our executive and non-executive programs and practices. In its review, the compensation committee evaluated whether our policies and programs encourage unnecessary or excessive risk-taking and controls, and how such policies and programs are structured with respect to risks and rewards, as well as controls designed to mitigate any risks. As a result of this review, the compensation committee determined any risks that may result from our compensation policies and practices for our employees are not reasonably likely to have a material adverse effect on us.
+Additional review or reporting on enterprise risks is conducted as needed or as requested by our Board or a committee thereof. 
+Director Nominations
+The nominating and governance committee nominates directors for election at each annual meeting of stockholders and nominates new directors for election by our Board to fill vacancies when they arise. The nominating and governance committee has the responsibility to identify, evaluate, recruit and nominate qualified candidates for election to our Board.
+Prior to each annual meeting of stockholders, the nominating and governance committee identifies nominees first by evaluating the current directors whose term will expire at the annual meeting and who are willing to continue in service. These candidates are evaluated based on the criteria described in "Board Leadership Structure" above, including as demonstrated by the candidate's prior service as a director. The nominating and governance committee also assesses the needs of our Board with respect to the particular talents and experience of its directors, as well as recommendations of directors regarding skills that could improve the overall quality and ability of our Board to carry out its functions. Specific qualities or experiences could include matters such as experience in our industry, financial or technological expertise, experience in situations comparable to ours, leadership experience and relevant geographical experience. The effectiveness of our Board's  Table of Contents diverse mix of skills and experiences is considered as part of each self-assessment of the Board.
+In the event that a director does not wish to continue in service, the nominating and governance committee determines not to re-nominate the director, or a vacancy is created on our Board as a result of a resignation, an increase in the size of our Board or other event, the committee will consider various candidates for board membership, including those suggested by the committee members, by other board members, by any executive search firm engaged by the committee and by stockholders. A stockholder who wishes to suggest a prospective nominee for our Board should notify our Corporate Secretary or any member of the committee in writing with any supporting material the stockholder considers appropriate.
+In addition, our Bylaws contain provisions that address the process by which a stockholder may nominate an individual to stand for election to our Board at our annual meeting of stockholders. To nominate a candidate for director, a stockholder must give timely notice in writing to our Corporate Secretary and otherwise comply with the provisions of our Bylaws. To be timely for our 2019 Annual Meeting of Stockholders, our Corporate Secretary must receive the written notice at our principal executive offices:
+• no earlier than August 12, 2019, and
+• not later than the close of business on September 11, 2019.
+In the event that we hold our 2019 Annual Meeting of Stockholders more than 30 days before or 60 days after the one-year anniversary date of the 2018 Annual Meeting, then the stockholders notice to nominate a candidate for director that is not intended to be included in our proxy statement must be received no earlier than the 120th day prior to such annual meeting, and not later than the close of business on the later of the following two dates:
+• the 90th day before such annual meeting, or
+• the 10th day following the day on which public announcement of the date of such meeting is first made.
+Information required by the Bylaws to be in the notice include the name and contact information for the candidate and the person making the nomination and other information about the nominee that must be disclosed in proxy solicitations under Section 14 of the Securities Exchange Act of 1934 and the related rules and regulations under that Section.
+Stockholder nominations must be made in accordance with the procedures outlined in, and include the information required by, our Bylaws and must be addressed to: Corporate Secretary, Ubiquiti Networks, Inc., 685 Third Avenue, 27th Floor, New York, New York 10017. You can obtain a copy of our Bylaws by writing to the Corporate Secretary at this address or by accessing our filings on the SEC's website at http://www.sec.gov.
+Stockholder Communications with our Board
+If you wish to communicate with our Board, you may send your communication in writing to: Corporate Secretary, Ubiquiti Networks, Inc., 685 Third Avenue, 27th Floor, New York, New York 10017. You must include your name and address in the written communication and indicate whether you are a stockholder of Ubiquiti. The Corporate Secretary will review any communication received from a stockholder, and all material communications from stockholders will be forwarded to the appropriate director or directors or committee of our Board based on the subject matter. Table of Contents
+ PROPOSAL ONE
+ELECTION OF DIRECTORS
+ General
+Our Class I directors' terms expires at the Annual Meeting. 
+Information Regarding Nominees
+Our Board nominated Michael E. Hurlston and Rafael Torres as nominees for election at the Annual Meeting as Class I directors of our Board until the third annual meeting of our stockholders following their election, or until their successors have been duly elected and qualified or until their earlier death, resignation or removal. Biographical information about each of the directors and Messrs. Hurlston and Torres is contained in the following section. A discussion of the qualifications, attributes and skills of the directors and the nominees that led our Board to the conclusion that they should serve or continue to serve as directors is also included in each of the directors' and the nominee's biographies.
+Each of Messrs. Hurlston and Torres has agreed to serve if elected, and we have no reason to believe that they will be unavailable to serve. In the event either of them is unable or declines to serve as a director at the time of the Annual Meeting, the proxies will be voted for any nominee who may be designated by our present Board to fill the vacancy.
+Except as set forth below, unless otherwise instructed, the persons appointed in the accompanying form of proxy will vote the proxies received by them for the nominees named below, who each is presently a member of our Board. In the event that the nominees becomes unavailable or unwilling to serve as a member of our Board, the proxy holders will vote in their discretion for a substitute nominees.
+The following table sets forth the name, age and position of our director nominee as of October 26, 2018:
+[BEGIN TABLE]
+Class I Directors   Age   Position 
+Michael E. Hurlston   52   Director 
+Rafael Torres   50   Director 
+[END TABLE]
+Michael E. Hurlston. Mr. Hurlston has served as one of our directors since August 2016. Mr. Hurlston currently serves as the Chief Executive Officer of Finisar Corporation, a leader in optical communications. From 2001 to October 2017, Mr. Hurlston held various senior leadership positions in sales, marketing and general management at Broadcom Limited, a leading developer and supplier of a broad range of semiconductor solutions ("Broadcom"), including his most recent role as Senior Vice President and General Manager of the Wireless Communications and Connectivity Division. Prior to joining Broadcom in 2001, Mr. Hurlston held senior positions at Radia Communications, a component developer of communication equipment, and Oren Semiconductor, a component developer for consumer electronics, for approximately four years. Mr. Hurlston is also a member of the advisory board of Vilynx. Mr. Hurlston holds a B.S. and M.S. in Electrical Engineering and an M.B.A from the University of California, Davis. We believe that Mr. Hurlston possesses specific attributes that qualify him to serve as a member of our Board, including his industry, marketing, sales and management experience.
+Rafael Torres. Mr. Torres has served as one of our directors since October 2013. From 2015 to July 2018, Mr. Torres served as the Chief Financial Officer of Instart Logic. Instart Logic is a cloud services company primarily focused on website and application speed and performance. From 2013 to 2015, Mr. Torres served as the Chief Financial Officer of OCZ Storage Solutions, a global provider of high-performance solid state storage solutions and computer components. From 2008 to 2013, Mr. Torres served as Chief Financial Officer and Vice President of Finance for Capella Photonics, a privately-held firm selling optical switching subsystems. From 2006 to 2008, Mr. Torres was the Chief Financial Officer and Vice President of Finance for Power Integrations, a provider of high-voltage analog integrated circuits for power conversion. From 2000 to 2006, Mr. Torres was Chief Financial Officer and Vice President of Finance for PLX Technology, a provider of semiconductor-based connectivity solutions. Mr. Torres holds a B.S. degree in Accounting from Santa Clara University and is a Certified Public Accountant (Inactive). We believe that Mr. Torres possesses specific attributes that qualify him to serve as a member of our Board, including his industry, operations, management, and finance experience.
+Information Regarding Continuing Directors
+The following table sets forth the names, ages and positions of our continuing directors as of October 26, 2018:
+[BEGIN TABLE]
+Class II Director   Age   Position 
+Ronald Sege   61   Director 
+Class III Director   Age   Position 
+Robert J. Pera   40   Chief Executive Officer and Chairman of Board 
+[END TABLE]
+Ronald A. Sege. Mr. Sege has served as our director since October 2012. Mr. Sege currently serves as the Operating Partner of Benhamou  Table of Contents
+Global Partners, a venture capital firm. From August 2010 to October 2018, Mr. Sege served as President, Chief Executive Officer and Chairman of Echelon Corporation, an energy control networking solutions provider. From 2008 to 2010, Mr. Sege was President, Chief Operating Officer and a member of the board of directors of 3COM Corporation. Mr. Sege was President and Chief Executive Officer of Tropos Networks, a provider of wireless broadband networks, from 2004 to 2008 and was the President and Chief Executive Officer of Ellacoya Networks, a provider of broadband service optimization solutions based on deep packet inspection technology, from 2001 to 2004. Earlier in Mr. Sege's career from 1998 to 2001, he was Executive Vice President at Lycos, an internet search engine. Prior to 1998, Mr. Sege spent 10 years at 3COM holding various executive vice president and vice president positions. Mr. Sege received his B.A. in Economics from Pomona College and earned an M.B.A. from the Harvard Business School. We believe that Mr. Sege possesses specific attributes that qualify him to serve as a member of our Board, including his industry and board leadership experience.
+Robert J. Pera. Mr. Pera founded our Company in October 2003 and our Company began current operations in 2005. Mr. Pera has served as our Chief Executive Officer and a member of our Board since our inception, and as our Chairman of the Board since December 2012. From January 2003 to February 2005, Mr. Pera was a wireless engineer with Apple, Inc., a consumer technology products company. Mr. Pera holds a B.A. in Japanese Language, a B.S. in Electrical Engineering and an M.S. degree in Electrical Engineering (emphasis in Digital Communications / RF Circuit Design) from the University of California, San Diego. We believe that Mr. Pera possesses specific attributes that qualify him to serve as Chairman of our Board, including the perspective and experience he brings as our Chief Executive Officer, one of our founders and our largest stockholder, which brings historical knowledge, technological and operational expertise, and continuity to our Board.
+Executive Officers and Directors
+For information regarding our officers, please see "Executive Officers" below. Information regarding our current continuing directors can be found immediately below.
+Committees of the Board of Directors
+For information regarding our Board committees, please see "Corporate Governance—Committees of the Board of Directors".
+Compensation Committee Interlocks and Insider Participation
+For information regarding compensation committee interlocks and insider participation, please see "Corporate Governance—Compensation Committee Interlocks and Insider Participation".
+Directors' Compensation
+The compensation committee is responsible for periodically reviewing nonemployee director compensation and benefits and recommends changes, if appropriate, to the Board based upon competitive market practices. 
+Our compensation committee approved a compensation package for our nonemployee directors beginning on October 17, 2016, based on the recommendation of Compensia, our compensation consultant, and our Chief Executive Officer. The compensation plan for our nonemployee directors after the new compensation package took effect on October 17, 2016 is as follows:
+[BEGIN TABLE]
+Annual Board Retainer (1) $  200,000 
+  (1)  The Annual Board Retainer is paid in cash and includes compensation for each board member's service on the Board, and, as applicable, service on the Audit Committee, the Compensation Committee, the Nominating and Governance Committee and service as a Chair of the applicable committee.    
+  (1)  The Annual Board Retainer is paid in cash and includes compensation for each board member's service on the Board, and, as applicable, service on the Audit Committee, the Compensation Committee, the Nominating and Governance Committee and service as a Chair of the applicable committee.    
+  (1)  The Annual Board Retainer is paid in cash and includes compensation for each board member's service on the Board, and, as applicable, service on the Audit Committee, the Compensation Committee, the Nominating and Governance Committee and service as a Chair of the applicable committee.    
+[END TABLE]
+We do not have a formal policy of reimbursing directors, but we reimburse them for travel, lodging and other reasonable expenses incurred in connection with their attendance at board of directors or committee meetings.
+The following table summarizes the information concerning compensation paid or accrued for services rendered to us by members of our Board for fiscal 2018. The table excludes Mr. Pera, who is a named executive officer and therefore did not receive any compensation from us in his role as director in fiscal 2018. We have omitted from this table the columns pertaining to stock awards and option awards because no stock options were awarded and no equity awards vested related to non-employee directors in fiscal 2018. Table of Contents
+[BEGIN TABLE]
+Name   Fees Earned  or Paid in    Cash (1)   Total  Compensation 
+Michael E. Hurlston   $ 200,000   $ 200,000 
+Ronald A. Sege     200,000     200,000 
+Rafael Torres     200,000     200,000 
+[END TABLE]
+[BEGIN TABLE]
+(1) This column includes fees earned in fiscal 2018 as well as certain director fees earned in fiscal 2018 but paid in July 2018, as follows: 
+[END TABLE]
+[BEGIN TABLE]
+Name   Fees Earned in Cash  in Fiscal 2018 and    Paid in Fiscal 2019   Fees Earned and  Paid in Cash in    Fiscal 2018
+Name   Fees Earned in Cash  in Fiscal 2018 and    Paid in Fiscal 2019   Fees Earned and  Paid in Cash in    Fiscal 2018
+Michael E. Hurlston   $ 50,000   $ 150,000 
+Ronald A. Sege     50,000     150,000 
+Rafael Torres     50,000     150,000 
+[END TABLE]
+Recommendation
+Our Board recommends a vote "FOR" the election to our Board of the foregoing nominees. Table of Contents
+PROPOSAL TWO
+RATIFICATION OF THE APPOINTMENT
+OF INDEPENDENT REGISTERED PUBLIC ACCOUNTING FIRM
+The audit committee of our Board has appointed KPMG as the independent registered public accounting firm to audit our consolidated financial statements for fiscal 2019. Since the fiscal year ended June 30, 2017, KPMG has served as our independent registered public accounting firm. Even if this appointment is ratified, the audit committee, in its discretion, may appoint another independent registered public accounting firm at any time during the year if the audit committee believes that such a change would be in the best interests of us and our stockholders. If the appointment is not ratified by our stockholders, the audit committee may reconsider whether it should appoint another independent registered public accounting firm. Representatives of KPMG are expected to attend the virtual Annual Meeting, where they will be available to respond to appropriate questions and, if they desire, to make a statement. As previously disclosed, the Company dismissed PricewaterhouseCoopers LLP ("PwC") as the Company's independent registered public accounting firm effective as of December 5, 2016, and on December 7, 2016, engaged KPMG to serve as the independent registered public accounting firm for the Company.
+Changes in Company's Independent Registered Public Accounting Firm. 
+As previously disclosed, on December 5, 2016, the audit committee of our Board decided that, effective immediately, it would dismiss PwC as the Company's independent registered public accounting firm. On December 7, 2016, the audit committee engaged KPMG as its independent registered public accounting firm for the fiscal year ending June 30, 2017. 
+The report of PwC on the Company's financial statements for the fiscal year ended June 30, 2016 did not contain an adverse opinion or disclaimer of opinion, and such report was not qualified or modified as to uncertainty, audit scope, or accounting principles.
+During the fiscal year ended June 30, 2016, and the subsequent interim period through December 5, 2016, the Company has not had any disagreements with PwC on any matter of accounting principles or practices, financial statement disclosure or auditing scope or procedure, which disagreements, if not resolved to PwC's satisfaction, would have caused PwC to make reference thereto in their report on the Company's financial statements for such years.
+During the fiscal year ended June 30, 2016, and the subsequent interim period through December 5, 2016, there were no reportable events, as defined in Item 304(a)(1)(v) of Regulation S-K, except as set forth below.
+As reported in the Company's Annual Report on Form 10-K for the year ended June 30, 2016, management concluded that the Company did not maintain effective internal control over financial reporting as of June 30, 2016, due to the material weaknesses described below.
+Management determined that the Company did not maintain an effective control environment, attributable to a lack of sufficient, competent personnel necessary for effective financial reporting. This resulted in the lack of comprehensive and up-to-date accounting policies and procedures, skepticism on the part of key accounting personnel, internal control training, leadership and adequate communication of roles and responsibilities. Growth in the complexity of the business without commensurate growth in the capabilities of the finance and accounting organization contributed to this deficiency.
+The Company's failure to maintain an effective control environment contributed to a second deficiency in the form of ineffectively designed and maintained controls required for safeguarding of the Company's funds and timely detection of improper transactions in the general ledger. Specifically, the Company's disbursement authorization policies were not updated timely for changes in personnel and positions, nor were authorization requirements clearly stated, including those for non-routine transactions.
+The Company's failure to maintain an effective control environment also contributed to a third deficiency in the form of ineffectively designed and maintained controls over user access and transaction privileges to modify and post entries to the general ledger and subsidiary ledgers. In particular, the scope of user access and transaction privileges to the general ledger and subsidiary ledgers is not sufficiently restricted to provide reasonable assurance of effective process and review controls over postings to the general ledger. Additionally, general ledger changes were completed without due consideration of collateral impacts on segregation of duties controls.
+The subject matter of these material weaknesses was discussed by the audit committee with PwC. The audit committee had authorized PwC to respond fully to the inquiries of the successor independent registered public accounting firm concerning these material weaknesses.
+As disclosed in the Company's Form 8-K dated December 8, 2016, the Company provided PwC a copy of the above disclosures in the Form 8-K and requested that PwC provide the Company with a letter addressed to the Securities and Exchange Commission stating whether PwC agreed with the statements above made by the Company in response to Item 304(a) of Regulation S-K.  A copy of PwC's letter dated December 7, 2016 furnished by PwC in response to that request was filed as Exhibit 16.1 to the Form 8-K. Table of Contents
+During the fiscal year ended June 30, 2016, and through the effective date of KPMG's engagement, the Company did not consult with KPMG regarding (a) the application of accounting principles to a specified transaction, either completed or proposed or (b) the type of audit opinion that might be rendered on the Company's financial statements, in either case where a written report was provided to the Company or oral advice provided that KPMG concluded was an important factor considered by the Company in reaching a decision as to any accounting, auditing or financial reporting issues. Additionally, during the fiscal year ended June 30, 2016, and through the effective date of their engagement, the Company did not consult with KPMG regarding any other matter that was either the subject of a disagreement between the Company and its former auditor or was a reportable event (as described in Item 304(a)(1)(iv) or Item 304(a)(1)(v) of Regulation S-K, respectively).
+Required Vote
+Ratification of the appointment of KPMG as our independent registered public accounting firm for fiscal 2019 requires the affirmative "FOR" vote of a majority of the shares present in person or represented by proxy at the meeting and entitled to vote on the proposal. Unless marked to the contrary, proxies received will be voted "FOR" ratification of the appointment of KPMG.
+Recommendation
+Our Board recommends a vote FOR the ratification of the appointment of KPMG as our independent registered public accounting firm for fiscal 2019.
+Audit and Non-Audit Fees 
+The following table presents aggregate fees for professional audit services rendered for us by KPMG for fiscal 2018 and fiscal 2017, respectively, as well as fees billed for other services rendered by KPMG, as applicable:
+[BEGIN TABLE]
+  Fiscal 2018   Fiscal 2017 
+Audit Fees (1) $ 1,599,000     $ 1,435,000 
+Audit-Related Fees (2)   115,000       - 
+Tax Fees (3)   300,000       - 
+Total (4) $ 2,014,000     $ 1,435,000 
+(1) Audit fees relate to professional services rendered in connection with the audit of our annual financial statements and internal control over financial reporting, quarterly review of financial statements included in our Quarterly Reports on Form 10-Q and audit services provided in connection with other statutory and regulatory filings and services that are typically provided by the independent registered public accounting firm in connection with statutory and regulatory filings or engagements for those fiscal years. The $1,435,000 audit fees for fiscal 2017 were incurred by KPMG from the time of its appointment on December 7, 2016 through June 30, 2017.  As previously reported, the audit committee of our Board dismissed PwC on December 5, 2016. An additional $45,000 and $400,270 was paid to PwC for audit services for fiscal 2018 and 2017, respectively. 
+(2) Audit-related fees comprise fees for professional services that are reasonably related to the performance of the worldwide audit or review of the company's financial statements and are not included in the fees reported in the table above under "Audit Fees". 
+(3) Tax fees relate to professional services rendered in connection with international tax consulting and planning services. 
+(4) In fiscal years 2018 and 2017, there were no services rendered that would be required to be disclosed under "all other fees" in the table above. 
+[END TABLE]
+Audit Committee Pre-Approval Policies
+The audit committee pre-approves all audit and permissible non-audit services provided by the independent registered public accounting firm. These services may include audit services, audit-related services, tax services and other services. The audit committee pre-approves services provided by the independent registered public accounting firm pursuant to its audit committee charter. In fiscal years 2017 and 2018, all fees identified above under the captions "Audit Fees," "Tax Fees" and "All Other Fees" that were billed by KPMG, as applicable, were approved by the audit committee in accordance with SEC requirements. Table of Contents
+PROPOSAL THREE
+NON-BINDING ADVISORY VOTE ON EXECUTIVE COMPENSATION
+The Dodd-Frank Wall Street Reform and Consumer Protection Act of 2010, (the "Dodd-Frank Act"), enables our stockholders to vote to approve, on a non-binding advisory basis, the compensation of our named executive officers as disclosed in accordance with the SEC's rules in the "Executive Compensation" section of this proxy statement. This proposal, commonly known as a "say-on-pay" proposal, gives our stockholders the opportunity to express their views on our named executive officers' compensation as a whole. This vote is not intended to address any specific item of compensation or any specific named executive officer, but rather the overall compensation of all of our named executive officers and the philosophy, policies and practices described in this proxy statement.
+The say-on-pay vote is advisory, and therefore not binding on us, the compensation committee or our Board. The say-on-pay vote will, however, provide information to us regarding investor sentiment about our executive compensation philosophy, policies and practices, which the compensation committee will be able to consider when determining executive compensation for the remainder of the current fiscal year and beyond. Our Board and our compensation committee value the opinions of our stockholders and to the extent there is any significant vote against the named executive officer compensation as disclosed in this proxy statement, we will communicate directly with stockholders to better understand the concerns that influenced the vote, consider our stockholders' concerns and the compensation committee will evaluate whether any actions are necessary to address those concerns.
+Following is a summary of some of the key points of our 2018 executive compensation program. See the "Executive Compensation" section below for more information.
+The compensation committee oversees the development and administration of our executive compensation program. In order to create long-term value for our stockholders, the executive compensation program is intended to reflect the following principles:
+• Total compensation opportunities should be competitive with market leaders. We believe that our total compensation programs should be competitive with market leaders so that we, as a lesser known company, can attract, retain and motivate talented executive officers who will help us to perform better than our competitors. We expect our executive officers to run a high-performance, efficient organization that rewards individual contributors for their ownership of various aspects of our business. We compensate our executive officers using the same philosophy.
+• Total compensation should be related to our performance. We believe that a significant portion of our executive officers' total compensation should be linked to achieving specified financial and business objectives that we believe will create stockholder value and provide incentives to our officers to work as a team.
+• Equity awards align the interests of our executive officers with those of our stockholders. We believe that in certain circumstances, an executive officer's total compensation should have an equity component because stock-based equity awards help reinforce the executive officer's long term interest in our overall performance and thereby align the interests of the executive officer with those of our stockholders. We do not generally provide refresher grants to our executive officers due to the ownership of common stock or options that the executive receives when commencing employment. To recognize the changes in our capital structure and management, we anticipate that the compensation committee will assess vested and unvested equity holdings regularly.
+We believe that the information we have provided above and within the Executive Compensation section of this proxy statement demonstrates that our executive compensation program was designed appropriately and is working to ensure management's interests are aligned with our stockholders' interests to support long-term value creation.
+Required Vote
+The advisory vote "FOR" approval of our executive compensation requires a majority of the shares present in person or represented by proxy and entitled to vote on each proposal at the annual meeting. As this is an advisory vote, the result will not be binding on the Company, our Board or the compensation committee, although our compensation committee will consider the outcome of the vote when evaluating our compensation principles, design and practices.
+ Recommendation
+Our Board recommends a vote "FOR" the following resolution at the Annual Meeting:
+"RESOLVED, that the Ubiquiti stockholders approve, on an advisory basis, the compensation of the named executive officers, as disclosed in Ubiquiti's Proxy Statement for the 2018 Annual Meeting of Stockholders pursuant to Item 402 of Regulation S-K promulgated by the Securities and Exchange Commission, including the Compensation Discussion and Analysis, the compensation tables and the other related disclosure." Table of Contents
+PROPOSAL FOUR
+NON-BINDING ADVISORY VOTE ON THE FREQUENCY
+OF HOLDING AN ADVISORY STOCKHOLDER VOTE ON EXECUTIVE COMPENSATION
+The Dodd-Frank Act also enables our stockholders to indicate, at least once every six years, how frequently we should seek a non-binding advisory stockholder vote on the compensation of our named executive officers, as disclosed pursuant to the SEC's compensation disclosure rules, such as Proposal Three. By voting on this Proposal Four, stockholders may indicate whether they would prefer a non-binding advisory stockholder vote on named executive officer compensation once every one, two, or three years. Stockholders may also abstain from voting.
+After careful consideration, our Board has determined that a non-binding advisory stockholder vote on executive compensation that occurs once every two years is the most appropriate alternative for us, and therefore our Board recommends that you vote for a non-binding advisory stockholder vote on executive compensation once every two years.
+In formulating its recommendation, our Board considered that given the nature of our compensation programs, a vote every two years would be sufficient for our stockholders to provide us with their input on our compensation philosophy, policies and practices. Such frequency provides regular input by stockholders, while allowing time to evaluate the effects of our compensation program on performance over a longer period.
+We understand that our stockholders may have different views as to what is the best approach for us, and we look forward to hearing from our stockholders on this proposal.
+Required Vote
+The option of one year, two years or three years that receives the highest number of votes cast by stockholders will be the frequency for the advisory vote on executive compensation that has been selected by stockholders. However, because this vote is advisory and not binding on us, the compensation committee or our Board, our Board may decide that it is in the best interests of our stockholders and us to hold an advisory vote on executive compensation more or less frequently than the option approved by our stockholders.
+Recommendation
+Our Board recommends a vote for "TWO YEARS" as the frequency with which stockholders are provided a non-binding advisory stockholder vote on executive compensation. Table of Contents
+REPORT OF THE AUDIT COMMITTEE
+The following report of the audit committee does not constitute soliciting material and shall not be deemed filed or incorporated by reference into any other filing by Ubiquiti under the Securities Act of 1933 or the Securities Exchange Act of 1934.
+The audit committee assists our Board in fulfilling its responsibility to oversee management's implementation of our financial reporting process. It is not the duty of the audit committee to plan or conduct audits or to determine that the financial statements are complete and accurate and are in accordance with generally accepted accounting principles. Management is responsible for the financial statements and the reporting process, including the system of internal controls and disclosure controls. The independent registered public accounting firm is responsible for expressing an opinion on the conformity of those financial statements with accounting principles generally accepted in the United States.
+In discharging its oversight role, the audit committee reviewed and discussed with our management and independent registered public accounting firm the audited financial statements contained in the 2018 Annual Report as well as management's assessment of internal control over financial reporting.
+The audit committee has also discussed with the independent registered public accounting firm the matters required to be discussed by AS No. 16, Communications with Audit Committees, as adopted by the Public Company Accounting Oversight Board (PCAOB), as amended by Statement of Auditing Standards No. 90. Audit Committee Communications. In addition, the audit committee discussed with the independent registered public accounting firm its independence from us and our management, including the matters in the written disclosures required by the applicable requirements of the PCAOB, and considered whether the provision of non-audit services was compatible with maintaining the registered public accounting firm's independence.
+Based upon these reviews and discussions, the audit committee recommended to our Board that the audited financial statements be included in our Annual Report for filing with the SEC.
+[BEGIN TABLE]
+  Respectfully submitted by the members of the audit committee of our Board: 
+    Michael E. Hurlston 
+    Ronald A. Sege 
+    Rafael Torres (Chairman) 
+[END TABLE]
+ Table of Contents
+ EXECUTIVE OFFICERS
+The following table sets forth the names, ages, as of October 26, 2018, and positions of our executive officers:
+[BEGIN TABLE]
+Name   Age     Position 
+Robert J. Pera     40     Chief Executive Officer 
+Benjamin Moore (1)     42     Vice President of Business Development 
+Kevin Radigan     60     Chief Accounting Officer 
+[END TABLE]
+(1) As previously disclosed in the Current Report on Form 8-K filed by the Company with the SEC on October 12, 2018, Mr. Moore has resigned as the Vice President of Business Development on October 10, 2018.
+Robert J. Pera.  Mr. Pera founded our company in October 2003 and our company began current operations in 2005. Mr. Pera has served as our Chief Executive Officer since our inception. From January 2003 to February 2005, Mr. Pera was a wireless engineer with Apple, Inc., a consumer technology products company. Mr. Pera holds a B.A. in Japanese Language, a B.S. in Electrical Engineering and an M.S. degree in Electrical Engineering (emphasis in Digital Communications / RF Circuit Design) from the University of California, San Diego.
+Benjamin Moore. Mr. Moore served as our Vice President of Business Development from May 2008 to October 2018. From February 2007 to April 2008, Mr. Moore served as a product manager in the IAS group within Laird Technologies. From June 2005 until February 2007, Mr. Moore served as a sales manager within Cushcraft Corporation until its acquisition by Laird Technologies. From April 2000 to June 2005, Mr. Moore served as general manager of Pacific Wireless, an antenna design company, until its acquisition by Cushcraft Corporation. Mr. Moore holds a B.A. in Business Management from Utah Valley University. As previously disclosed in the Current Report on Form 8-K filed by the Company with the SEC on October 12, 2018, Mr. Moore has resigned as the Vice President of Business Development on October 10, 2018.
+Kevin Radigan. Mr. Radigan has served as our Chief Accounting Officer since May 2016. From January 2012 to March 2016, Mr. Radigan served as Chief Financial Officer at American Medical Alert Corp. (dba Tunstall Americas), a supplier of connected healthcare products and services, where he was responsible for the finance and accounting department.  Previously, Mr. Radigan served in various finance and accounting positions in the pharmaceutical and electronics industries. Mr. Radigan has a Bachelor of Science in Accountancy degree from Long Island University. Table of Contents
+ EXECUTIVE COMPENSATION
+Compensation Discussion and Analysis
+The following discussion and analysis of compensation arrangements of our named executive officers for fiscal 2018 should be read together with the compensation tables and related disclosures set forth below. This discussion contains forward-looking statements that are based on our current plans, considerations, expectations, and determinations regarding future compensation programs. The actual amount and form of compensation and the compensation programs that we adopt may differ materially from currently planned programs as summarized in this discussion.
+Overview
+The compensation committee of our Board is responsible for establishing, implementing and monitoring our executive compensation program. Our Board or the compensation committee, as the case may be, seeks to ensure that the total compensation paid to our executive officers is fair and reasonable. Currently, we have two executive officers-our Chief Executive Officer and Chief Accounting Officer, whom we refer to as the named executive officers. Details of our fiscal 2018 compensation can be found in the Summary Compensation Table included in this proxy statement. We provide types of compensation and benefits (e.g., health care, life insurance, 401(k) plan) to our named executive officers similar to those we provide to our senior managers.
+This section describes our compensation program for our named executive officers. The discussion focuses on our executive compensation policies and decisions and the most important factors relevant to an analysis of these policies and decisions. We address why we believe our compensation program is appropriate for us and our stockholders and explain how executive compensation is determined.
+Compensation philosophy and objectives
+Historically, our compensation packages focused on the cash component of compensation with competitive salaries and a significant percentage of total cash compensation tied to a discretionary cash bonus given at the end of the year based on our performance. Some of our executive officers received equity awards or purchased founders' stock upon joining us, and the level of their ownership of our Company may be revisited from time to time to ensure it aligns with our executive compensation philosophy. As our organizational priorities continue to evolve, our compensation committee may re-evaluate each component of our executive compensation program on a quantitative and qualitative basis to determine if the program is achieving our objectives.
+Our executive compensation program is designed to attract talented, qualified executives to manage, grow and lead our Company and to motivate them to pursue and achieve our corporate objectives. Our existing compensation program includes short-term and long-term components, at-risk cash and equity elements, and performance payments in proportions that we believe will provide appropriate incentives to reward and retain our executives.
+Our philosophy towards executive compensation reflects the following principles:
+• Total compensation opportunities should be competitive with market leaders. We believe that our total compensation programs should be competitive with market leaders so that we, as a lesser known company, can attract, retain and motivate talented executive officers who will help us to perform better than our competitors. We expect our executive officers to run a high-performance, efficient organization that rewards individual contributors for their ownership of various aspects of our business. We compensate our executive officers using the same philosophy.
+• Total compensation should be related to our performance. We believe that a significant portion of our executive officers' total compensation should be linked to achieving specified financial and business objectives that we believe will create stockholder value and provide incentives to our officers to work as a team.
+• Equity awards align the interests of our executive officers with those of our stockholders. We believe that in certain circumstances, an executive officer's total compensation should have an equity component because stock-based equity awards help reinforce the executive officer's long term interest in our overall performance and thereby align the interests of the executive officer with those of our stockholders. We do not generally provide refresher grants to our executive officers due to the ownership of common stock or options that the executive receives when commencing employment. To recognize the changes in our capital structure and management, we anticipate that the compensation committee will assess vested and unvested equity holdings regularly.
+Based on these philosophies, we seek to reward our executive officers as and when we achieve our goals and objectives and to generate stockholder returns by providing performance-based compensation.
+Our executives' total compensation may vary from year to year based on our financial results and individual performance.
+Weighting of compensation components. We do not use predefined ratios in determining the allocation of compensation between base salary, bonus and equity components. Rather, we set each executive's total compensation based on our experience regarding market conditions, geographic considerations, our experience regarding market norms and other factors. Our compensation policies related to executive  Table of Contents compensation apply equally to all of our executive officers. Differences in compensation levels among our executives generally reflect differing skill sets, experience, responsibilities and relative contributions.
+Role of the compensation committee and executive officers in setting executive compensation.
+The initial compensation arrangements with our executive officers, including the named executive officers, have been the result of arm's-length negotiations with each individual executive. Individual compensation arrangements with executives have been influenced by a number of factors, including the following:
+• our need to fill a particular position;
+• our financial position and growth strategy at the time of hiring;
+• the individual's expertise and experience and prior compensation history; and
+• the competitive nature of the position.
+Fiscal 2018
+Components of executive compensation. In fiscal 2018, our executive compensation program consisted of the following components: base salary; short-term incentive compensation, or STI, consisting of cash bonuses and, in some cases, long-term equity-based incentive awards. We believe that each individual component is useful in achieving one or more of the objectives of our program. Together, we believe these components have been effective in achieving our overall objectives to date.
+• We use base salary to attract and retain executives; base salary levels reflect differences in job scope and responsibilities.
+• We provide cash bonuses to encourage executives to deliver on short-term corporate financial and operating goals and individual objectives; a significant portion of our executives' cash compensation is linked to the achievement of short-term objectives.
+• We in some cases use equity awards to encourage longer term perspective, reward innovation, provide alignment with stockholder interests, and attract and retain key talent.
+Chief Executive Officer. Mr. Pera, our Chief Executive Officer, holds a majority of our outstanding common stock. In July 2013, Mr. Pera determined to reduce his base salary to $0.00 per fiscal year. We did not grant Mr. Pera any equity awards in fiscal 2011 through fiscal 2018 as he was a majority stockholder of our company throughout those fiscal years. We pay 100% of the costs associated with Mr. Pera's general health and welfare benefits, as we do for all of our U.S.-based employees.
+VP of Business Development. Mr. Moore served as our Vice President of Business Development from May 2008 to October 2018 and our Chief Executive Officer set Mr. Moore's base salary at $130,000 in connection with the commencement of his employment. Our Board increased Mr. Moore's base salary to $150,000 in December 2009 and our compensation committee increased it to $200,000 in February 2010 as a result of its evaluation of his performance and contributions to our company and upon the recommendations of Mr. Pera. Our Board and compensation committee also approved the increase in Mr. Moore's base salary in recognition of Mr. Moore's increasing responsibilities. In February 2011, in connection with entering into an employment agreement with Mr. Moore, the compensation committee increased Mr. Moore's base salary to $212,000 in lieu of continuing to provide him with a monthly allowance for automobile related expenses. In August 2011, Mr. Moore's annual base salary was increased to $250,000 and was subsequently increased to $300,000 in July 2013. In July 2017, Mr. Moore's annual base salary was increased to $330,000. Prior to entering into the employment agreement with us in February 2011, we had no agreement with Mr. Moore to pay cash bonuses to him but have done so in fiscal years prior to fiscal 2010 and we anticipate we will do so in the future. In connection with his hiring in fiscal 2008, we granted Mr. Moore options to purchase 2,500,000 shares of our common stock at $0.05 per share. On March 16, 2012 we granted Mr. Moore 5,000 RSUs, all of which vested on December 31, 2012. On July 31, 2015, we granted Mr. Moore 3,030 RSUs. These RSUs vest or vested as follows: 758 RSUs vested on July 7, 2016; 758 RSUs vested on July 7, 2017; 757 RSUs vested on July 7, 2018; and the remaining 757 RSUs vest on July 7, 2019.  On July 29, 2016, we granted Mr. Moore 2,538 RSUs. These RSUs vest or vested as follows: 635 RSUs vested on July 8, 2017; 635 RSUs vested on July 8, 2018; 634 RSUs vest on July 8, 2019; and the remaining 634 RSUs vest on July 8, 2020. See "Grants of Plan-Based Awards for Fiscal 2018" and "Outstanding Equity Awards at June 30, 2018" for more information regarding the option and RSU grants to Mr. Moore. We also pay 100% of the costs associated with Mr. Moore's general health and welfare benefits, as we do for all of our U.S.-based employees.  As previously disclosed in the Current Report on Form 8-K filed by the Company with the SEC on October 12, 2018, Mr. Moore has resigned as the Vice President of Business Development on October 10, 2018. All unvested RSUs granted to Mr. Moore as of October 10, 2018 have been forfeited.
+Chief Accounting Officer. Mr. Radigan has served as our Chief Accounting Officer since May 2016 and our Chief Executive Officer set Mr. Radigan's base salary at $350,000, with an annual target bonus equal to $100,000, based on the discretion of our Board. In July 2017, Mr. Radigan's annual base salary was increased to $367,500. On August 16, 2018, we granted Mr. Radigan 2,361 RSUs. These RSUs vest as  Table of Contents follows: 591 RSUs vest on July 1, 2019; 590 RSUs vest on July 1, 2020; 590 RSUs vest on July 1, 2021; and the remaining 590 RSUs vest on July 1, 2022.  We also pay 100% of the costs associated with Mr. Radigan's general health and welfare benefits, as we do for all of our U.S.-based employees.
+Benefits. Our executives participate in our standard benefit plans, which are offered to all U.S.-based employees and include our 401(k) plan. We maintain a 401(k) retirement plan which is intended to be a tax qualified defined contribution plan under Section 401(k) of the Internal Revenue Code. In general, all of our U.S. employees are eligible to participate in the 401(k) plan following the start date of their employment, at the beginning of each calendar month. The 401(k) plan provides a salary deferral program pursuant to which participants may elect to reduce their current compensation by up to the statutorily prescribed limit, equal to $18,500 in 2018, and contribute the withheld amount to the 401(k) plan. We may, in our sole discretion, make discretionary profit sharing and/or matching contributions to the 401(k) plan on behalf of our employees who are eligible to participate in the 401(k) plan. It has been our practice to match up to 1% of an employee's annual salary, provided the employee contributes at least 4% of his or her salary. We offer this benefit to our named executive officers.
+Our executives have the opportunity to participate in our health and welfare benefit programs which include a group medical program, a group dental program, a vision program, life insurance, and disability insurance. These benefits are the same as those offered to all of our U.S.-based employees. Through our benefit programs, each of our named executive officers receives group term life insurance in an amount equal to the lessor of twice their annual salary or $500,000.
+Stock ownership guidelines. We do not currently have stock ownership guidelines.
+Consideration of Say-on-Pay Vote Results. The Company provides its stockholders with the opportunity to cast a advisory vote on executive compensation once every two years (a "say-on-pay proposal"). The compensation committee will continue to consider the results of the Company's say-on-pay votes when making future compensation decisions for the named executive officers.
+Compensation Approaches
+Compensation Committee. The compensation committee of our Board has overall responsibility for recommending to our Board the compensation of our Chief Executive Officer and determining the compensation of our other executive officers. Members of the committee are appointed by our Board. Currently, the committee consists of three members of our Board, Messrs. Hurlston, Sege and Torres. Our Board determined that each member of our compensation committee was and remains an outside director for purposes of Section 162(m) of the Internal Revenue Code, a "nonemployee" director for purposes of Rule 16b-3 under the Securities Act of 1934, as amended, or the Exchange Act and an "independent director" as that term is defined under the rules of NASDAQ.
+The fundamental responsibilities of our compensation committee are:
+[BEGIN TABLE]
+• to provide oversight of our compensation policies, plans and benefit programs including reviewing and making recommendations to our Board regarding compensation plans, as well as general compensation goals and guidelines for our executive officers and our Board; 
+• to review and determine all compensation arrangements for our executive officers (including our Chief Executive Officer) and to allocate total compensation among the various components of executive pay; 
+• to review and approve all equity compensation awards to our executive officers (including our Chief Executive Officer); and 
+• to oversee and direct our equity compensation plans, as applicable to our employees, including executive officers. 
+[END TABLE]
+The compensation committee has the authority to engage the services of outside consultants pursuant to the committee's charter. The compensation committee engaged Compensia, Inc. to serve as the compensation committee's independent compensation consultant for fiscal 2018.
+In determining each executive officer's compensation, our compensation committee will review our corporate financial performance and financial condition and assess the performance of the individual executive officer. The evaluation of individual performance is conducted by the compensation committee in the case of the Chief Executive Officer, and by the Chief Executive Officer in the case of other executives. The Chief Executive Officer meets with the compensation committee to discuss executive compensation matters and to make recommendations to the compensation committee with respect to other executives. The compensation committee may modify individual compensation components for executives other than the Chief Executive Officer after reviewing the Chief Executive Officer's recommendations. The compensation committee is not bound to, and may not always accept, the Chief Executive Officer's recommendations. The compensation committee also reviews the Chief Executive Officer's performance and confer with the full board of directors (excluding the Chief Executive Officer). The compensation committee then makes all final compensation decisions for executive officers and approves any equity incentive awards for all of our executive officers. In addition, it is the committee's practice to consult with the independent members of our Board prior to making material changes to our compensation policies. Table of Contents
+Although we may make many compensation decisions in the first quarter of the fiscal year, the compensation evaluation process is ongoing. Compensation discussions and decisions are designed to promote our fundamental business objectives and strategy. Evaluation of management performance and rewards are performed annually or more often as needed. The compensation committee has the discretion to adjust a component of compensation during the year in the event that it determines that circumstances warrant.
+Generally, we have granted options and RSUs following an executive officer's start date. However, this practice may vary depending on the specific facts and circumstances of each hire. The initial grants to each executive officer were principally based on the prevailing range of initial grants to our other executives with consideration given to the nature of the job and the individual's experience, as well as the current market conditions relating to equity ownership of officers in similar positions at similarly situated companies. Our compensation committee does not have any specific policy regarding the timing of equity awards and such awards have not historically been made regularly or automatically to our executive officers on an annual basis.
+Severance Compensation and Termination Protection
+See the sections entitled "-Employment Agreements" or "-Potential Payments upon Termination or Change of Control" for a description of agreements with, and the tables setting forth, the potential severance or change of control payments to be made to each named executive officer and definitions of key terms under these agreements. Our compensation committee believes that these change in control vesting and severance benefits could serve to minimize the distraction caused by a potential transaction involving a change in control and reduce the risk that an executive would leave his employment before a transaction is consummated.
+Accounting and Tax Considerations
+In August 2018, the Internal Revenue Service (IRS) issued guidance with respect to the changes made by the Tax Cuts and Job Act ("TCJA") to the rules under code Section 162(m), which limits the federal tax deduction of compensation paid in any fiscal year to the Chief Executive Officer, Chief Accounting Officer, and the three other most highly compensated officers. The TCJA expands the number of individuals covered by code Section 162(m) and eliminates the Section 162(m) "performance-based compensation" exception for taxable years beginning after December 31, 2017, except for otherwise qualified compensation payable pursuant to a written binding contract in effect on November 2, 2017 that is not subsequently materially modified in any material respect on or after such date. 
+While the compensation committee cannot predict how the deductibility limit may impact our compensation program in future years, the compensation committee intends to maintain an approach to executive compensation that strongly links pay to performance. In addition, while the compensation committee has not adopted a formal policy regarding tax deductibility of compensation paid to our named executive officers, the compensation committee intends to consider tax deductibility under Section 162(m) as a factor in compensation decisions. Table of Contents
+Compensation Committee Report
+The following report of the compensation committee does not constitute solicitation material, and shall not be deemed filed or incorporated by reference into any other filing by us under the Securities Act of 1933, or the Securities Exchange Act of 1934.
+The compensation committee has reviewed and discussed the Compensation Discussion and Analysis, as required by Item 402(b) of Regulations S-K, with our management. Based on this review and these discussions, the compensation committee recommended to our Board that the Compensation Discussion and Analysis be included in our annual report on Form 10-K and proxy statement on Schedule 14A.
+[BEGIN TABLE]
+  Respectfully submitted by the members of the compensation committee of our Board: 
+    Michael E. Hurlston (Chairman) 
+    Ronald A. Sege 
+    Rafael Torres  
+[END TABLE]
+ Table of Contents
+Fiscal 2018 Summary Compensation Table
+The following table provides information regarding the compensation of our principal executive officer, principal financial officer, and our other most highly compensated person serving as an executive officer as of June 30, 2018. We refer to these executive officers as our "named executive officers."
+[BEGIN TABLE]
+Name and Principal Position   Fiscal  Year     Salary     Bonus     Stock  Awards (1)     Option  Awards (1)     All Other  Compensation (4)     Total  Compensation 
+Robert J. Pera   2018   $ —     $ —     $ —     $ —     $ —     $ —   
+Chief Executive Officer   2017     —       —       —       —       —       —   
+    2016     —       —       —       —       —       —   
+Kevin Radigan   2018     367,500       100,000       —       —       5,675       473,175   
+Chief Accounting Officer (2)   2017     350,000       100,000       —       —       3,747       453,747   
+    2016     87,500       24,722       —       —       —       112,222   
+Benjamin Moore   2018     330,000       —       —       —       22,679       352,679   
+Vice President of Business Development (3)   2017     300,000       —       113,499       —       3,000       416,499   
+    2016     300,000       —       97,626       —       3,000       400,626   
+(1) The amounts in this column represent the aggregate grant date fair value of the RSUs or option awards, as applicable, computed in accordance with FASB Topic ASC 718. See the Notes to Consolidated Financial Statements contained in our Annual Report for fiscal 2018 for a discussion of assumptions made in determining the grant date fair value and compensation expense of our RSUs and stock options. For additional information, refer to the footnotes of our Consolidated Financial Statements contained in our Annual Report for fiscal 2018 for the assumptions made in the valuation of the RSUs and option awards. These amounts reflect our accounting expense for these awards, and do not correspond to the actual value that will be recognized by named executive officers. 
+(2) Mr. Radigan joined the Company on April 1, 2016 and was appointed as Chief Accounting Officer on May 3, 2016. Mr. Radigan received a prorated base salary based on an annual salary of $350,000. The bonuses that were earned in fiscal 2016 and fiscal 2017, were paid in July 2016 and July 2017, respectively. 
+(3) Mr. Moore did not earn any cash bonuses in fiscal 2016 and Mr. Moore's total compensation for fiscal 2016 was $400,626. Previous disclosure to the contrary was the result of an administrative error. As previously disclosed in the Current Report on Form 8-K filed by the Company with the SEC on October 12, 2018, Mr. Moore has resigned as the Vice President of Business Development on October 10, 2018.  
+(3) Mr. Moore did not earn any cash bonuses in fiscal 2016 and Mr. Moore's total compensation for fiscal 2016 was $400,626. Previous disclosure to the contrary was the result of an administrative error. As previously disclosed in the Current Report on Form 8-K filed by the Company with the SEC on October 12, 2018, Mr. Moore has resigned as the Vice President of Business Development on October 10, 2018.  
+(4) For Messrs. Radigan and Moore, amounts under this column for fiscal 2018 consist of the following: Mr. Radigan- employer contributions for 401(k) plan of $5,675; Mr. Moore- employer contributions for 401(k) plan of $3,300 and $19,379 for related to legal costs paid on behalf of Mr. Moore for personal matters. For Messrs. Radigan and Moore, amounts under this column for fiscal 2017 and 2016 consisted of only employer contributions for 401(k) plan. Previous disclosure to the contrary was the result of an administrative error. 
+[END TABLE]
+CEO Pay Ratio
+As required by Section 953(b) of the Dodd-Frank Wall Street Reform and Consumer Protection Act and applicable SEC rules, we have prepared the ratio of annual total compensation of our Chief Executive Officer, to the annual total compensation of the median employee of the Company.
+For fiscal year 2018, the total compensation for the median employee of the Company was $57,000.  Our Chief Executive Officer, Mr. Pera does not receive compensation from the Company and, as such, the ratio is 0 to 1.  
+The median employee was identified by reviewing the consistently applied compensation measure of annual cash base salary, per payroll records, for all Ubiquiti employees, including its consolidated subsidiaries, as of June 30 2018, which is the last pay period for the 2018 fiscal year. Any salaries denominated in foreign currencies were translated to U.S. dollars at the corresponding exchange rate as of June 30, 2018. We used the annual cash base salary as our consistently applied compensation measure as it represents the primary compensation component paid to all of our employees each fiscal year and is the one pay component that has a similar definition and is reported in a similar manner globally. All of the Company's full time and part time employees were included in the calculation and adjustments were made to annualize base salary for any employees not employed by Ubiquiti for the entire fiscal year or any unpaid leave during the fiscal year. Mr. Pera was excluded from the calculation of median employee for the purposes of this determination. Table of Contents
+After identifying the median employee based on the criteria described above, the total compensation for this employee was calculated using the same methodology that was used in the 2018 Summary Compensation Table. Total compensation during 2018 for this employee includes base salary and annual cash bonus for fiscal year 2018.
+This pay ratio is an estimate calculated in a manner consistent with SEC rules based on our payroll and employment records and the methodology described above. SEC rules do not specify a single methodology for identification of the median employee or calculation of the pay ratio, and other companies may use assumptions and methodologies that are different from those used by us in calculating their pay ratio. As such, the pay ratio reported by other companies may not be comparable to the pay ratio as reported above.
+Grants of Plan-Based Awards for Fiscal 2018
+There were no grants of plan-based awards to any of our named executive officers during the fiscal year ended June 30, 2018.
+Outstanding Equity Awards at June 30, 2018
+The following table presents certain information concerning outstanding equity awards held by each of our named executive officers at June 30, 2018. 
+[BEGIN TABLE]
+    Options Awards (1)   Stock Awards (1) 
+Name   Number of Securities Underlying Unexercised Options  Exercisable (#)  Number of Securities Underlying Unexercised Options Unexercisable   Equity Incentive Plans Awards; Number of Securities Underlying Unexercised Unearned Options (#)   Options Exercise Price ($)   Options Expiration Date   Number of Shares that Have Not Vested (#)   Market Value of Shares That Have Not Vested ($) (2) 
+Name   Number of Securities Underlying Unexercised Options  Exercisable (#)  Number of Securities Underlying Unexercised Options Unexercisable   Equity Incentive Plans Awards; Number of Securities Underlying Unexercised Unearned Options (#)   Options Exercise Price ($)   Options Expiration Date   Number of Shares that Have Not Vested (#)   Market Value of Shares That Have Not Vested ($) (2) 
+Robert J. Pera   —     —     —     —     —     —     —   
+Kevin Radigan   —     —     —     —     —     —     —   
+Benjamin Moore (2)   —     —     —     —     —     3,417     289,488   
+    Option Awards   Stock Awards 
+Name   Number of  Shares Acquired    on Exercise (#)   Value Realized  on Exercise ($)   Number of  Shares Acquired    on Vesting (#)   Value Realized  on Vesting ($) 
+Robert J. Pera   —     —     —     —   
+Kevin Radigan   —     —     —     —   
+Benjamin Moore (1)   1,316,964     91,989,935     1,393     73,063   
+[END TABLE]
+ Pension Benefits & Nonqualified Deferred Compensation
+We do not provide a pension plan for our employees and no named executive officers participated in a nonqualified deferred compensation plan during fiscal 2018. 
+Employment Agreements
+We currently have employment agreements with all of our named executive officers except our Chief Executive Officer. The employment agreements with our named executive officers provide for at will employment, base salary, term of the agreement, eligibility to participate in any of our bonus plans or programs, standard employee benefit plan participation and eligibility to receive stock option grants. The employment agreements contain certain severance and change of control benefits in favor of the executives. Table of Contents
+Benjamin Moore. In February 2011, we entered into an employment agreement with Benjamin Moore, our vice president, of business development. The agreement sets forth an initial annual base salary of $212,000, which was increased by our compensation committee to $250,000 in August 2011 and was subsequently increased to $300,000 in July 2013. In July 2017, Mr. Moore's annual base salary was increased to $330,000. He is eligible to receive a discretionary annual bonus, subject to individual and company performance goals to be determined by our compensation committee, in an amount determined by our compensation committee. The agreement also provides that Mr. Moore is eligible to participate in all of our employee benefit plans. The agreement provides that Mr. Moore is an at will employee and his employment may be terminated at any time by us or Mr. Moore. Provided the agreement is not terminated earlier pursuant to its terms, the agreement provides for an initial term of three years with automatic one year renewals unless either party provides notice of nonrenewal at least 60 days prior to the date of automatic renewal. As previously disclosed in the Current Report on Form 8-K filed by the Company with the SEC on October 12, 2018, Mr. Moore has resigned as the Vice President of Business Development on October 10, 2018. In addition, Mr. Moore is entitled to severance benefits upon termination of employment as described below under "- Potential Payments upon Termination or Change of Control."
+Kevin Radigan. Mr. Radigan has served as our Chief Accounting Officer since May 2016. In March 2016, we entered into an employment agreement with Mr. Radigan. The agreement set forth an initial annual base salary of $350,000, which was increased by our compensation committee to $367,500 in July 2017, and an annual target bonus equal to $100,000. The agreement provided that Mr. Radigan was an at-will employee and his employment may be terminated at any time by us or Mr. Radigan. In addition, Mr. Radigan is entitled to severance benefits upon termination of employment as described below under "- Potential Payments upon Termination or Change of Control."
+Potential Payments upon Termination or Change of Control
+We currently have employment agreements with Mr. Moore, our Vice President of Business Development and Mr. Radigan, our Chief Accounting Officer. The description and table that follow describe the payments and benefits that may be owed by us to these named executive officers upon our named executive officer's termination under certain circumstances.
+Employment Agreement with Mr. Moore
+The employment agreement with Mr. Moore provides that, if we terminate Mr. Moore's employment for Cause (as defined below), or if Mr. Moore terminates his employment other than for Good Reason (as defined below), we must pay Mr. Moore any base salary earned but not paid through the date of Mr. Moore's termination, but he will not be entitled to any other compensation or benefits from us except as may be required by law. Vesting of Mr. Moore's outstanding equity awards will cease on the date of Mr. Moore's termination.
+The employment agreement with Mr. Moore also provides that if we terminate Mr. Moore's employment other than for Cause and the termination occurs before or more than 24 months after a Change of Control (as defined below), then Mr. Moore will receive severance payments and partial acceleration of vesting of unvested equity awards. Mr. Moore will receive continued payments for six months of his base salary then in effect and acceleration of an additional six months of vesting of unvested equity awards held by Mr. Moore.
+Mr. Moore's employment agreement provides that if we terminate Mr. Moore's employment other than for Cause, death or disability or if Mr. Moore terminates his employment for Good Reason (as defined below), and the termination is within a 24-month period after a Change of Control, then Mr. Moore will receive a lump sum severance payment equivalent to six months of his base salary and target bonus then in effect and all unvested equity awards held by Mr. Moore will immediately become vested.
+In order to receive the severance benefits described above, the executive officer is obligated to provide us with an executed release of claims.
+The employment agreement also provides that for a period of one year after the termination of employment the executive officer will refrain from soliciting our employees to leave our company, solicit any of our customers or users, or harass or disparage us.
+For the purpose of the employment agreement with Mr. Moore, "Change of Control" means the occurrence of any of the following:
+[BEGIN TABLE]
+(i) any "person" (as such term is used in Sections 13(d) and 14(d) of the Securities Exchange Act of 1934, as amended) that is not a stockholder of Ubiquiti as of the date of such employment agreement becomes the "beneficial owner" (as defined under said Act), directly or indirectly, of securities of Ubiquiti representing 50% or more of the total voting power represented by Ubiquiti's then outstanding voting securities; or 
+(ii) a change in the composition of our Board occurring within a two-year period, as a result of which fewer than a majority of the directors are Incumbent Directors. "Incumbent Directors" shall mean directors who either (a) are our directors as of the date of such employment agreement, or (b) are elected, or nominated for election, to our Board with the affirmative votes of at least a majority of the Incumbent Directors at the time of such election or nomination (but shall not include an individual whose election or nomination is in connection with an actual or threatened proxy contest relating to the election of our directors); or 
+(iii) a merger or consolidation of Ubiquiti with any other corporation, other than a merger or consolidation which would result in the voting securities of Ubiquiti outstanding immediately prior thereto continuing to represent (either by remaining outstanding or  
+[END TABLE]
+ Table of Contents by being converted into voting securities of the surviving entity) at least 50% of the total voting power represented by our voting securities or such surviving entity outstanding immediately after such merger or consolidation.
+For the purpose of the employment agreement with Mr. Moore, "Cause" means, in general:
+[BEGIN TABLE]
+(i) the executive's willful act of fraud, embezzlement, dishonesty or other misconduct; 
+(ii) the executive's willful failure to perform his duties to Ubiquiti, failure to materially follow our policy as set forth in writing from time to time, or failure to follow the legal directives of Ubiquiti (other than failure to meet performance goals, objectives or measures), that, with respect to curable failures only, is not corrected within 30 days following written notice thereof to the executive by our Chief Executive Officer, such notice to state with specificity the nature of the failure; 
+(iii) the executive's misappropriation of any of our material assets; 
+(iv) the executive's conviction of, or a plea of "Guilty" or "No Contest" to a felony; 
+(v) the executive's use of alcohol or drugs so as to interfere with the performance of his duties; 
+(vi) the executive's material breach of such employment agreement or the confidential information agreement entered into with each named executive officer that, with respect to curable failures only, is not corrected within 30 days following written notice thereof to the executive by our Chief Executive Officer, such notice to state with specificity the nature of the material breach; 
+(vii) conduct which, in Ubiquiti's determination, is a material violation of executive's fiduciary obligations to us; or 
+(viii) the intentional material damage to any of our property. 
+[END TABLE]
+For the purpose of our employment agreement with Mr. Moore, "Good Reason" will generally exist if such executive officer resigns from his or her employment, unless otherwise agreed to in writing or by e-mail, within 60 days after the occurrence of any of the following:
+[BEGIN TABLE]
+(i) any reduction in his base salary or target bonus of 20% or more (other than temporary reductions applying to all of our senior executives); 
+(ii) a change in his position with Ubiquiti or successor company that substantially reduces his duties and responsibilities in his current executive position; 
+(iii) office relocation of more than 50 miles further from the executive's primary residence; or 
+(iv) any other material breach by us of our obligations to the executive under such agreement that is not corrected within 30 days following written notice to us by the executive, such notice to state with specificity the nature of the material breach. 
+[END TABLE]
+As previously disclosed in the Current Report on Form 8-K filed by the Company with the SEC on October 12, 2018, Mr. Moore has resigned as the Vice President of Business Development on October 10, 2018, and as such, is not entitled to the above severance benefits.
+Employment Agreement with Mr. Radigan
+The employment agreement with Mr. Radigan provides that, if we terminate Mr. Radigan other than for Cause (as defined below), or if Mr. Radigan terminates his employment for Good Reason (as defined below), Mr. Radigan will continue to receive his then-effective base salary during a six-month severance period (collectively, the "severance payment"), less applicable withholding and deductions, subject to certain reductions and conditions set forth in his employment agreement. In order to receive the severance payment, Mr. Radigan is obligated to provide us with an executed release of claims. 
+For the purpose of the employment agreement with Mr. Radigan, "Cause" means:
+[BEGIN TABLE]
+(i) intentional and material dishonesty in the performance of the executive's duties for the Company;  
+(ii) conduct (including conviction of or plea of nolo contendere to a felony) which has a direct and material adverse effect on the Company or its reputation;  
+(iii) material failure to perform the executive's reasonable duties or comply with his obligations under the employment agreement or the Company's confidential information and invention assignment agreement after receipt of written notice specifying the failure, if the executive does not remedy that failure within 10 days of receipt of written notice from the Company, which notice will state that failure to remedy such conduct may result in termination for Cause; or  
+(iv) an incurable material breach of the Company's confidential information and invention assignment agreement, including, without limitation, theft or other misappropriation of the Company's proprietary information. 
+[END TABLE]
+For the purpose of the employment agreement with Mr. Radigan, "Good Reason" means, without his consent: Table of Contents
+[BEGIN TABLE]
+(i) a material reduction of the executive's duties, position or responsibilities;  
+(ii) a more than 10% reduction by the Company in the executive's base salary as in effect immediately prior to such reduction (other than temporary reductions generally applicable to senior executives of the Company);  
+(iii) any material breach of Mr. Radigan's employment agreement by the Company; or  
+(iv) any office relocation to a location that is more than 50 miles further from the executive's primary residence. 
+[END TABLE]
+Potential Payments upon Termination or Change of Control 
+The following table shows the amounts our named executive officers with whom we have employment agreements would have received in the event of their termination, other than for Cause, following a Change of Control, or upon certain other events, assuming the termination took place on June 30, 2018, the last business day of our most recent completed fiscal year. 
+[BEGIN TABLE]
+        Involuntary Termination   
+Name   Benefits   Before or More Than  24 Months After Change of    Control  ($)     Within 24 Months After  Change of Control ($)   
+Benjamin Moore   Severance Payment (Salary)   $ 165,000     (1)   $ 165,000   (1) 
+    Severance Payment (Bonus)   —     (2)   —   (2) 
+Kevin Radigan   Severance Payment (Salary)   183,750     (3)   183,750   (3) 
+(1) The salary severance amount for Mr. Moore would be divided into 6 equal monthly payments if the executive officer were terminated without Cause before or more than 24 months after a Change of Control. The salary severance amount for Mr. Moore would be paid in a lump sum if the executive officer were terminated without Cause or if the Mr. Moore resigned for Good Reason within 24 months after a Change of Control. 
+(2) The amount of severance payment bonus to be determined by the compensation committee subject to achieving company and individual performance goals. 
+(3) The salary severance amount for Mr. Radigan would be divided into 6 equal monthly payments if the executive officer were terminated without Cause or if the Mr. Radigan resigned for Good Reason.  
+(3) The salary severance amount for Mr. Radigan would be divided into 6 equal monthly payments if the executive officer were terminated without Cause or if the Mr. Radigan resigned for Good Reason.  
+[END TABLE]
+ Table of Contents
+EQUITY COMPENSATION PLAN INFORMATION
+The following chart sets forth certain information as of June 30, 2018, with respect to our equity compensation plans, specifically our 2010 Equity Incentive Plan, or the 2010 Plan and the 2005 Equity Incentive Plan, or the 2005 Plan. Both the 2010 Plan and the 2005 Plan have been approved by our stockholders. 
+[BEGIN TABLE]
+Plan Category   Number of securities to be  issued upon exercise of    outstanding options,    warrants and rights     Weighted average  exercise price of    outstanding options,    warrants and rights (1)(2)   Number of securities  remaining available for    future issuance under    equity compensation plans (3) 
+Equity compensation plans approved by security holders     281,591   (4)(5)   $ 9.15       10,587,797   
+Equity compensation plans not approved by security holders     —         —       —   
+Total     281,591       $ 9.15       10,587,797   
+(1) These weighted-average exercise prices do not reflect the shares that will be issued upon the payment of outstanding awards of RSUs. 
+(2) The weighted-average remaining contractual term of the company's outstanding options as of June 30, 2018 and 2017 were 3.62 and 1.55 years, respectively. Previous disclosure to the contrary was the result of an administrative error.  
+(2) The weighted-average remaining contractual term of the company's outstanding options as of June 30, 2018 and 2017 were 3.62 and 1.55 years, respectively. Previous disclosure to the contrary was the result of an administrative error.  
+(3) Includes shares reserved for issuance under the 2010 Plan. The number of shares reserved for issuance under the 2010 Plan is increased from time to time in an amount equal to the number of shares subject to outstanding options under the 2005 Plan that are subsequently forfeited pursuant to the terms of the 2005 Plan. 
+(4) This number includes 281,591 shares subject to outstanding awards granted under the 2010 Plan, of which 137,491 shares were subject to outstanding options and 144,100 shares were subject to outstanding RSU awards.  
+(5) There were no outstanding options outstanding under the 2005 Plan. 
+[END TABLE]
+ Table of Contents
+CERTAIN RELATIONSHIPS AND RELATED PARTY TRANSACTIONS
+On November 13, 2013, the Company entered into an aircraft lease agreement (the "Aircraft Lease Agreement") with RJP Manageco LLC (the "Lessor"), a limited liability company owned by the Company's CEO, Robert J. Pera. Pursuant to the Aircraft Lease Agreement, the Company may lease an aircraft owned by the Lessor for Company business purposes. Under the Aircraft Lease Agreement, the aircraft may be leased at a rate of $5,000 per flight hour. This hourly rate does not include the cost of flight crew or on-board services, which the Company will purchase from a third-party provider. The Company recognized a total of approximately $1,600,000 in expenses pursuant to the Aircraft Lease Agreement during the fiscal year ended June 30, 2018. All expenses pursuant to the Aircraft Lease Agreement have been included in the Company's sales, general and administrative expenses in the Condensed Consolidated Statements of Operations.
+Other than Aircraft Lease Agreement discussed above, we did not have any transactions since the beginning of fiscal 2018 to which we were a party in which the amount involved exceeded or exceeds $120,000 and in which any of our directors, executive officers, holders of more than 5% of any class of our voting securities or any member of the immediate family of any of the foregoing persons, had or will have a direct or indirect material interest, other than compensation arrangements with directors and executive officers, which are described where required under the "Executive Compensation" section of this proxy statement.
+Policies and Procedures for Related Party Transactions
+As provided by the audit committee charter, the audit committee of our Board must review and approve any related party transaction. Furthermore, approval should be obtained prior to entering into the transaction when the audit committee is aware of such transaction. All of our directors, officers and employees are required to report to the audit committee any related party transaction prior to entering into the transaction.
+SECTION 16(A) BENEFICIAL OWNERSHIP REPORTING COMPLIANCE
+Section 16(a) of the Exchange Act requires our directors, executive officers and any persons holding more than 10% of a registered class of our equity securities to report initial ownership of such equity shares and any subsequent changes in ownership to the SEC. Such officers, directors and 10% stockholders are also required by SEC rules to furnish us with copies of all Section 16(a) forms they file. Specific due dates have been established by the SEC, and we are required to disclose in this proxy statement any failure to file required ownership reports by these dates. Based solely on our review of copies of such forms received, or written representations from certain reporting persons that no additional filings were required for such persons, we believe that, during fiscal 2018, our directors, executive officers and 10% stockholders complied with all Section 16(a) filing requirements. 
+ SECURITY OWNERSHIP OF CERTAIN BENEFICIAL OWNERS AND MANAGEMENT RELATED STOCKHOLDER MATTERS
+The following table sets forth certain information as of October 16, 2018, as to shares of our common stock beneficially owned by: (1) each person who is known by us to own beneficially more than 5% of our common stock, (2) each of our current named executive officers listed in the Summary Compensation Table, (3) each of our directors and nominees and (4) all our current directors and executive officers as a group. Unless otherwise stated below, the address of each beneficial owner listed on the table is c/o Ubiquiti Networks, Inc., 685 Third Avenue, 27th Floor, New York, New York 10017.
+We have determined beneficial ownership in accordance with the rules of the SEC. Except as indicated by the footnotes below, we believe, based on the information furnished to us, that the persons and entities named in the table below have sole voting and investment power with respect to all shares of common stock that they beneficially own, subject to applicable community property laws.
+The percentage of common stock beneficially owned is based on 72,410,601 shares outstanding as of October 16, 2018. In computing the number of shares of common stock beneficially owned by a person and the percentage ownership of that person, we deemed outstanding shares of common stock subject to options held by that person that are currently exercisable or exercisable within 60 days after October 16, 2018 and RSUs that will vest within 60 days after October 16, 2018. We did not deem these shares outstanding, however, for the purpose of computing the percentage ownership of any other person.  Table of Contents
+[BEGIN TABLE]
+Name and Address of Beneficial Owner   Number of Shares of  Common Stock    Beneficially Owned   Percentage of  Common Stock    Beneficially Owned   
+Named Executive Officers and Directors:           
+Robert J. Pera (1)   56,278,181     77.7% 
+Benjamin Moore (2)   673,206     *   
+Kevin Radigan (3)   —     N/A   
+Ronald A. Sege (4)   42,500     *   
+Rafael Torres (5)   10,000     *   
+Michael E. Hurlston   —     N/A   
+All directors and executive officers as a group (6 persons)   57,003,887     78.7% 
+Additional Beneficial Owner of More than 5% of our Common Stock           
+EdgePoint Investment Group Inc. (6)   3,763,572     5.20% 
+* Amount represents less than 1% of our common stock. 
+(1) As previously disclosed, Mr. Pera has entered into arrangements under which he has pledged up to 25% of the shares of common stock that he beneficially owns to secure loans with financial institutions. Mr. Pera had also indicated these loans have or will have various requirements to repay all or portion of the loan upon the occurrence of various events, including when the price of common stock goes below certain specified levels. Mr. Pera may need to sell shares of our common stock to meet these repayment requirements. Upon a default under one or more of these loans, the lender could sell the pledged shares into the market without limitation on volume or manner of sale. Sales of shares by Mr. Pera to reduce his loan balance or the lenders upon foreclosure are likely to adversely affect our stock price. 
+(2) Represents 673,206 shares of common stock 
+(3) On August 16, 2018, we granted Mr. Radigan 2,361 RSUs. These RSUs vest as follows: 591 RSUs vest on July 1, 2019; 590 RSUs vest on July 1, 2020; 590 RSUs vest on July 1, 2021; and the remaining 590 RSUs vest on July 1, 2022 
+(4) Represents 42,500 shares issuable upon the exercise of fully vested options of which 21,250 shares are held in a constructive trust for Eugenia Sege pursuant to the terms of a divorce decree dated December 17, 2017. 
+(5) Represents 10,000 shares of common stock 
+(6) All information about EdgePoint Investment Group Inc. ("EdgePoint") is based on a Schedule 13F filed with the SEC on August 13, 2018. The address of EdgePoint is 150 Bloor Street West, Suite 500, Toronto, Ontario M5S 2X9, Canada. As disclosed on the Schedule 13G filed on February 13, 2018, EdgePoint has shared voting power and investment power with respect to all shares of the common stock it beneficially owns.  
+(6) All information about EdgePoint Investment Group Inc. ("EdgePoint") is based on a Schedule 13F filed with the SEC on August 13, 2018. The address of EdgePoint is 150 Bloor Street West, Suite 500, Toronto, Ontario M5S 2X9, Canada. As disclosed on the Schedule 13G filed on February 13, 2018, EdgePoint has shared voting power and investment power with respect to all shares of the common stock it beneficially owns.  
+[END TABLE]
+OTHER MATTERS
+We are not aware of any other matters to be submitted at the 2018 Annual Meeting. If any other matters properly come before the 2018 Annual Meeting, it is the intention of the persons named in the proxy to vote the shares they represent as our Board may recommend. Discretionary authority with respect to such other matters is granted by a properly submitted proxy.
+It is important that your shares be represented at the 2018 Annual Meeting, regardless of the number of shares that you hold. You are, therefore, urged to vote as instructed on the proxy card you received, via the Internet or by telephone as promptly as possible to ensure your vote is recorded.
+[BEGIN TABLE]
+  The Board of Directors 
+  New York, New York 
+  October 26, 2018 
+[END TABLE]
+ Table of Contents Table of Contents
+41

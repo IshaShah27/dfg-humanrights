@@ -1,0 +1,857 @@
+
+UNITED STATES
+SECURITIES AND EXCHANGE COMMISSION
+WASHINGTON, D.C. 20549
+SCHEDULE 14A
+(RULE 14a-101)
+INFORMATION REQUIRED IN PROXY STATEMENT
+SCHEDULE 14A INFORMATION
+Proxy Statement Pursuant to Section 14(a) of the
+Securities Exchange Act of 1934
+[BEGIN TABLE]
+Filed by the Registrant: ☒ Filed by a party other than the Registrant: ☐ 
+[END TABLE]
+Check the appropriate box:
+[BEGIN TABLE]
+¨ Preliminary Proxy Statement 
+☐ Confidential, for Use of the Commission Only (as permitted by Rule 14a-6(e)(2)) 
+☒ Definitive Proxy Statement 
+☐ Definitive Additional Materials 
+☐ Soliciting Material Pursuant to §240.14a-12 
+[END TABLE]
+MIDWESTONE FINANCIAL GROUP, INC.
+(Name of Registrant as Specified in its Charter)
+(Name of Person(s) Filing Proxy Statement, if Other Than the Registrant)
+Payment of Filing Fee (Check the appropriate box):
+[BEGIN TABLE]
+☒ No fee required. 
+☐ Fee computed on table below per Exchange Act Rules 14a-6(i)(1) and 0-11. 
+[END TABLE]
+[BEGIN TABLE]
+(1) Title of each class of securities to which transaction applies: 
+(2) Aggregate number of securities to which transaction applies: 
+(3) Per unit price or other underlying value of transaction computed pursuant to Exchange Act Rule 0-11 (set forth the amount on which the filing fee is calculated and state how it was determined): 
+(4) Proposed maximum aggregate value of transaction: 
+(5) Total fee paid: 
+☐ Fee paid previously with preliminary materials. 
+☐ Check box if any part of the fee is offset as provided by Exchange Act Rule 0-11(a)(2) and identify the filing for which the offsetting fee was paid previously. Identify the previous filing by registration statement number, or the Form or Schedule and the date of its filing. 
+(1) Amount Previously Paid: 
+(2) Form, Schedule or Registration Statement No.: 
+(3) Filing Party: 
+(4) Date Filed: 
+[END TABLE]
+102 South Clinton St.
+Iowa City, Iowa 52240
+(319) 356-5800
+March 8, 2019 
+Dear Shareholder:
+On behalf of the board of directors and management of MidWestOne Financial Group, Inc., we cordially invite you to attend the annual meeting of shareholders of MidWestOne Financial Group, Inc. to be held at 2:00 p.m. on April 18, 2019, at the Graduate - Iowa City, located at 210 South Dubuque Street, Iowa City, Iowa 52240.
+This year we are using the Securities and Exchange Commission rule that allows us to furnish our proxy statement, Annual Report on Form 10-K for the year ended December 31, 2018, and proxy card to shareholders over the Internet. This means our shareholders will receive only a notice containing instructions on how to access the proxy materials over the Internet. If you receive this notice but would still like to request paper copies of the proxy materials, please follow the instructions on the notice or as provided in the proxy statement. By delivering proxy materials electronically to our shareholders, we can reduce the costs of printing and mailing our proxy materials.
+Our Nominating and Corporate Governance Committee has nominated four persons to serve as directors, two of whom are incumbent directors and two of whom are new nominees. We have also included a non-binding advisory proposal to approve the compensation of our named executive officers, or "say-on-pay" proposal. Finally, our Audit Committee has selected, and we recommend that you ratify the selection of, RSM US LLP to act as our independent registered public accounting firm for the year ending December 31, 2019. We recommend that you vote your shares for each of the four director nominees, in favor of the compensation arrangements of our named executive officers, and in favor of the ratification of our independent registered public accounting firm. At the meeting, we will also review our performance in 2018 and update you on how we are dealing with the current economic environment and our strategic plan as we move forward.
+We encourage you to attend the meeting in person. However, whether or not you plan to attend the meeting in person, please take the time to vote by following the instructions provided on the notice as soon as possible. This will assure that your shares are represented at the meeting. We look forward to seeing you at the meeting.
+[BEGIN TABLE]
+  Very truly yours,   
+  Kevin W. Monson   
+  Chairman of the Board   
+[END TABLE]
+102 South Clinton St.
+Iowa City, Iowa 52240
+NOTICE OF ANNUAL MEETING OF SHAREHOLDERS
+TO BE HELD APRIL 18, 2019 
+To Our Shareholders:
+The annual meeting of the shareholders of MidWestOne Financial Group, Inc. will be held at 2:00 p.m. on April 18, 2019, at the Graduate - Iowa City, located at 210 South Dubuque Street, Iowa City, Iowa 52240, for the following purposes:
+[BEGIN TABLE]
+1. to elect four Class III members of the board of directors for terms expiring in 2022; 
+2. to approve, on a non-binding, advisory basis, the compensation of our named executive officers, as described in the accompanying proxy statement, which is referred to as a "say-on-pay" proposal; 
+3. to ratify the appointment of RSM US LLP as our independent registered public accounting firm for the fiscal year ending December 31, 2019; and 
+4. to transact such other business as may properly be brought before the meeting and any adjournments or postponements of the meeting. 
+[END TABLE]
+Only shareholders of record on our books at the close of business on March 1, 2019, the record date for the annual meeting, are entitled to notice of, and to vote at, the annual meeting and any adjournments or postponements of the annual meeting. In the event there are an insufficient number of votes for a quorum or to approve or ratify any of the foregoing proposals at the time of the annual meeting, the meeting may be adjourned or postponed in order to permit us to further solicit proxies.
+[BEGIN TABLE]
+  By Order of the Board of Directors   
+  Kevin W. Monson   
+  Chairman of the Board   
+[END TABLE]
+Iowa City, Iowa
+March 8, 2019 
+WHETHER OR NOT YOU PLAN TO ATTEND THE ANNUAL MEETING IN PERSON, PLEASE TAKE THE TIME TO VOTE BY FOLLOWING THE INSTRUCTIONS PROVIDED ON THE NOTICE. WE HOPE THAT YOU WILL BE ABLE TO ATTEND THE MEETING, AND, IF YOU DO, YOU MAY VOTE YOUR SHARES IN PERSON IF YOU WISH. YOU MAY REVOKE YOUR PROXY AT ANY TIME PRIOR TO ITS EXERCISE.
+[BEGIN TABLE]
+Table Of Contents 
+    Page 
+Questions and Answers    1 
+Proposal 1: Election of Directors    5 
+Information About Nominees, Continuing Directors and Named Executive Officers    5 
+Corporate Governance and Board Matters    10 
+Audit Committee Report    13 
+Compensation Discussion and Analysis    14 
+Compensation Committee Report    22 
+Executive Compensation    23 
+Director Compensation    29 
+Proposal 2: Approval, on a Non-Binding, Advisory Basis, of Executive Compensation    32 
+Proposal 3: Ratification of Appointment of Independent Registered Public Accounting Firm    33 
+Security Ownership of Certain Beneficial Owners and Management    34 
+Section 16(a) Beneficial Ownership Reporting Compliance    35 
+Certain Relationships and Related-Person Transactions    35 
+Equity Compensation Plan Information    36 
+Shareholder Communications with the Board and Nomination and Proposal Procedures    36 
+Annual Report and Financial Statements; Other Information    37 
+[END TABLE]
+Table of Contents
+MIDWESTONE FINANCIAL GROUP, INC.
+PROXY STATEMENT
+ANNUAL MEETING OF SHAREHOLDERS
+APRIL 18, 2019 
+This proxy statement is being furnished to our shareholders in connection with the solicitation by our board of directors of proxies to be used at the annual meeting of shareholders to be held at 2:00 p.m. on April 18, 2019, at the Graduate - Iowa City, located at 210 South Dubuque Street, Iowa City, Iowa 52240, or at any adjournments or postponements of the meeting. This proxy statement, together with a copy of our Annual Report on Form 10-K for the year ended December 31, 2018, which we have filed with the Securities and Exchange Commission (the "SEC"), is first being transmitted or delivered to our shareholders on or about March 8, 2019.
+QUESTIONS AND ANSWERS
+The following is information regarding the meeting and the voting process, presented in a question and answer format. As used in this proxy statement, the terms "MidWestOne Financial," the "Company," "we," "our," and "us" all refer to MidWestOne Financial Group, Inc. and its consolidated subsidiaries. The terms "MidWestOne Bank" and the "Bank" refer to the Company's wholly-owned banking subsidiary, MidWestOne Bank, Iowa City, Iowa.
+[BEGIN TABLE]
+Q: What is a proxy statement? 
+A: A proxy statement is a document, such as this one, required by the SEC that, among other things, explains the items on which you are asked to vote on at the annual meeting of shareholders. 
+Q: Why did I receive access to the proxy materials? 
+A: We have made the proxy materials available to you over the Internet because on March 1, 2019, the record date for the annual meeting, you owned shares of MidWestOne Financial common stock. This proxy statement lists the matters that will be presented for consideration by our shareholders at the annual meeting to be held on April 18, 2019. It also gives you information concerning the matters to assist you in making an informed decision. 
+[END TABLE]
+If you vote pursuant to the instructions set forth in the notice and herein, you appoint the proxy holders as your representatives at the meeting. The proxy holders will vote your shares as you have instructed, thereby ensuring that your shares will be voted whether or not you attend the meeting. Even if you plan to attend the meeting, we ask that you instruct the proxies how to vote your shares in advance of the meeting just in case your plans change and you are unable to attend in person.
+If you have voted over the Internet or by telephone or signed and returned the proxy card and an issue comes up for a vote at the meeting that is not identified in the proxy materials, the proxy holders will vote your shares, pursuant to your proxy, in accordance with their judgment.
+[BEGIN TABLE]
+Q: Why did I receive a notice regarding the Internet availability of proxy materials instead of paper copies of the proxy materials? 
+[END TABLE]
+We are using the SEC's notice and access rule that allows us to furnish our proxy materials over the Internet to our shareholders instead of mailing paper copies of those materials to each shareholder. As a result, beginning on or about March 8, 2019, we sent our shareholders by mail a notice containing instructions on how to access our proxy materials over the Internet and vote. This notice is not a proxy card and cannot be used to vote your shares. If you received a notice this year, you will not receive paper copies of the proxy materials unless you request the materials by following the instructions on the notice. Table of Contents
+[BEGIN TABLE]
+Q: What matters will be voted on at the meeting? 
+A: You are being asked to vote on: (i) the election of four Class III members of our board of directors for terms expiring in 2022;(ii) the approval, on a non-binding, advisory basis, of the compensation of our named executive officers (which is referred to as a "say-on-pay" proposal); and (iii) the ratification of the appointment of RSM US LLP as our independent registered public accounting firm for the fiscal year ending December 31, 2019. These matters are more fully described in this proxy statement. 
+Q: How do I vote? 
+A: After reviewing this document, submit your proxy using any of the proxy voting methods indicated on the notice. You may vote by telephone, by Internet, by mail by completing, signing, dating and mailing the proxy card you received in the mail if you received paper copies of the proxy materials, or in person at the meeting. By submitting your proxy, you authorize the individuals named in it to represent you and vote your shares at the annual meeting in accordance with your instructions. Your vote is important. Whether or not you plan to attend the annual meeting, please vote by following the instructions on the notice. 
+[END TABLE]
+If you sign, date, and return your proxy card but do not mark the card to provide voting instructions, the shares represented by your proxy card will be voted "for" all four nominees named in this proxy statement, "for" the say-on-pay proposal, and "for" the ratification of the appointment of RSM US LLP as our independent registered public accounting firm for the fiscal year ending December 31, 2019.
+If you are a beneficial owner and a broker or other fiduciary is the record holder (which is usually referred to as "street name" ownership), then you received access to these proxy materials from the record holder of the shares that you beneficially own. The record holder should have given you instructions for directing how the record holder should vote your shares. It will then be the record holder's responsibility to vote your shares for you in the manner you direct.
+If you want to vote in person, please come to the meeting. We will distribute written ballots to anyone who wants to vote at the meeting. Please note, however, that if your shares are held in the name of a broker or other fiduciary (i.e., in street name), you will need to arrange to obtain a legal proxy from the record holder in order to vote in person at the meeting. Even if you plan to attend the annual meeting, we ask that you complete and return your proxy card, or vote by telephone or Internet, in advance of the annual meeting in case your plans change.
+[BEGIN TABLE]
+Q: If I hold shares in the name of a broker, who votes my shares? 
+A: Under the rules of various national and regional securities exchanges, brokers and other fiduciaries that hold securities on behalf of beneficial owners generally may vote on routine matters even if they have not received voting instructions from the beneficial owners for whom they hold securities, but are not permitted to vote on non-routine matters unless they have received such voting instructions. The ratification of the appointment of the Company's independent registered public accounting firm is considered to be a routine matter, and the election of directors and say-on-pay proposal are considered to be non-routine matters. Thus, if you do not provide instructions to your broker as to how it should vote the shares beneficially owned by you, your broker will be able to vote on the ratification of the appointment of RSM US LLP as our independent registered public accounting firm, but generally will not be permitted to vote on any of the other matters described in this proxy statement.  
+[END TABLE]
+We therefore encourage you to provide directions to your broker as to how you want your shares voted on all matters to be brought before the meeting. You should do this by carefully following the instructions your broker gives you concerning its procedures.
+[BEGIN TABLE]
+Q:  How will my shares of common stock held in the employee stock ownership plan be voted?  
+A:  We maintain an employee stock ownership plan ("ESOP") that owns 286,444, or 2.4% of the current outstanding shares of our common stock. Employees of the Company and the Bank participate in the ESOP. As of the record date, 286,444 shares have been allocated to ESOP participants. Each ESOP participant has the right to instruct the trustee of the plan how to vote the shares of our common stock allocated to his or her account under the ESOP. If an ESOP participant properly executes the voting instruction card, the ESOP trustee will vote the participant's shares in accordance with the participant's instructions. Shares of our common stock held in the ESOP, but not allocated to any participant's account,  
+[END TABLE]
+ Table of Contents and allocated shares for which no voting instructions are received from participants, will be voted by the trustee in proportion to the results of the votes cast on the issue by the participants and beneficiaries. 
+[BEGIN TABLE]
+Q: What does it mean if I receive more than one notice card? 
+A: It means that you have multiple holdings reflected in our stock transfer records and/or in accounts with stockbrokers. To vote all of your shares by proxy, please follow the separate voting instructions that you received for the shares of common stock held in each of your different accounts. 
+Q: What if I change my mind after I vote? 
+A: If you hold your shares in your own name, you may revoke your proxy and change your vote at any time before the polls close at the meeting. You may do this by: 
+• timely submitting another proxy via the telephone or Internet, if that is the method that you originally used to submit your proxy; 
+• signing another proxy card with a later date and returning that proxy card to Vote Processing, c/o Broadridge, 51 Mercedes Way, Edgewood, New York 11717, by mail; 
+• sending notice to us that you are revoking your proxy; or 
+• voting in person at the meeting. 
+[END TABLE]
+All written notices of revocation and other written communications with respect to revocation of proxies should be sent to: MidWestOne Financial Group, Inc., 102 South Clinton St., Iowa City, Iowa 52240, Attention: Corporate Secretary. If you hold your shares in the name of your broker or other fiduciary and desire to revoke your proxy, you will need to contact that party to revoke your proxy.
+[BEGIN TABLE]
+Q: How many votes do we need to hold the annual meeting? 
+A: The holders of a majority of the votes entitled to be cast as of the record date must be present in person or by proxy at the meeting in order to hold the meeting and conduct business. Votes are counted as present at the meeting if the shareholder either: 
+• is present and votes in person at the meeting; or 
+• has properly submitted a signed proxy card or other form of proxy (through the telephone or Internet). 
+[END TABLE]
+On March 1, 2019, the record date, there were 12,169,212 shares of common stock issued and outstanding. Therefore, at least 6,084,607 shares need to be present, in person or by proxy, at the annual meeting to hold the meeting and conduct business.
+[BEGIN TABLE]
+Q: What happens if a nominee is unable to stand for re-election? 
+A: The board may, by resolution, provide for a lesser number of directors or designate a substitute nominee. In the latter case, shares represented by proxies may be voted for a substitute nominee. Proxies cannot be voted for more than four nominees. We have no reason to believe any nominee will be unable to stand for re-election. 
+Q: What options do I have in voting on each of the proposals? 
+A: Except with respect to the election of directors, you may vote "for," "against" or "abstain" on each proposal properly brought before the meeting. In the election of directors, you may vote "for" or "withhold authority to vote for" each nominee.  
+Q: How many votes may I cast? 
+A: Generally, you are entitled to cast one vote for each share of stock you owned on the record date.  
+[END TABLE]
+ Table of Contents
+[BEGIN TABLE]
+Q: How many votes are needed for each proposal? 
+A: Except with respect to the election of directors, a majority of the votes cast at the meeting will approve each matter that arises at the annual meeting (meaning the number of shares voted "for" the proposal must exceed the number of shares voted "against" such proposal). Directors will be elected by a plurality of the votes cast, and the four individuals receiving the highest number of votes cast "for" their election will be elected as directors of MidWestOne. Please note, however, that because the say-on-pay vote is advisory, the outcome of such vote will not be binding on the board of directors or the Compensation Committee. 
+[END TABLE]
+Also, please remember that the election of directors and the say-on-pay proposal are both considered to be non-routine matters. As a result, if your shares are held by a broker or other fiduciary, it cannot vote your shares on these matters unless it has received voting instructions from you.
+Abstentions and broker non-votes, if any, will not be counted as votes cast, but will count for purposes of determining whether or not a quorum is present. Accordingly, so long as a quorum is present, abstentions and broker non-votes will have no effect on any of the matters presented for a vote at the annual meeting.
+[BEGIN TABLE]
+Q: Where do I find the voting results of the meeting? 
+A: If available, we will announce voting results at the meeting. The voting results also will be disclosed in a Form 8-K that we expect to file within four business days after the meeting. 
+Q: Who bears the cost of soliciting proxies? 
+A: We will bear the cost of soliciting proxies. In addition to solicitations by mail, our officers, directors or employees may solicit proxies in person or by telephone. These persons will not receive any special or additional compensation for soliciting proxies. We may reimburse brokerage houses and other custodians, nominees and fiduciaries for their reasonable out-of-pocket expenses for forwarding proxy and solicitation materials to shareholders. 
+[END TABLE]
+YOUR VOTE IS IMPORTANT. PLEASE VOTE BY INTERNET OR TELEPHONE OR RETURN YOUR MARKED AND SIGNED PROXY CARD PROMPTLY SO YOUR SHARES CAN BE REPRESENTED, EVEN IF YOU PLAN TO ATTEND THE MEETING IN PERSON. Table of Contents
+PROPOSAL 1:
+ELECTION OF DIRECTORS
+MidWestOne Financial's board of directors is divided into three classes. At the annual meeting to be held on April 18, 2019, you will be entitled to elect four directors for terms expiring in 2022, as described herein. We have no knowledge that any of the nominees will refuse or be unable to serve as directors, but if any of the nominees becomes unavailable for election, the holders of proxies reserve the right to substitute another person of their choice as a nominee when voting at the meeting.
+The Nominating and Corporate Governance Committee of our board of directors has nominated four persons for election at this annual meeting, two of whom are incumbent directors and two of whom are new nominees. These nominations were further approved by the full board. We did not receive any shareholder nominations for directors for the 2019 annual meeting. Set forth below is information concerning the nominees for election and for the other directors whose terms of office will continue after the meeting, including their age, year first elected or appointed as a director, position with MidWestOne Financial, qualifications to serve on the board and business experience. Unless otherwise specified, each position currently held by a nominee or director has been held for at least five years. The four nominees for director, if elected at the annual meeting, will serve for terms expiring in 2022.
+Unless authority to vote for the nominees is withheld, the shares represented by the proxies will be voted "for" the election of the nominees proposed by the board of directors.
+The board of directors recommends that you vote your shares "for" each of the nominees for director.
+INFORMATION ABOUT NOMINEES, CONTINUING DIRECTORS
+AND NAMED EXECUTIVE OFFICERS
+All directors will hold office for the terms indicated, or until their earlier death, resignation, removal or disqualification, and until their respective successors are duly elected and qualified. There are no arrangements or understandings between any of the nominees, directors or executive officers and any other person pursuant to which any of our nominees, directors or executive officers have been selected for their respective positions, except that Messrs. Albert and Weise and Mmes. Hauschildt and Stanoch were appointed to the board as required by certain provisions in the Company's bylaws that were negotiated in connection with the Company's acquisition of Central Bancshares, Inc. ("Central"), which occurred on May 1, 2015. No nominee, member of the board of directors or executive officer is related to any other nominee, member of the board of directors or executive officer, except for Tracy S. McCormick, who is the daughter of Director Emeritus W. Richard Summerwill and is also a blood relative of Director Emeritus John S. Koza. No nominee or director has been a director of another "public corporation" (i.e., subject to the reporting requirements of the Securities Exchange Act of 1934, as amended, or the "Exchange Act") or of any investment company within the past five years.
+On June 20, 2018, Mr. John M. Morrison, whose term of service as a director on the Company's board of directors was due to expire in 2020, informed the board that he was resigning from service as a director of the Company, effective October 1, 2018. On October 1, 2018, the board appointed Larry D. Albert to complete Mr. Morrison's unexpired term as a director .
+On December 20, 2018, Mr. Michael A. Hatch, whose term of service as a director on the Company's board of directors was due to expire in 2020, informed the board that he was resigning from service as a director of the Company, effective January 1, 2019. On December 27, 2018, upon the recommendation of the Nominating and Corporate Governance Committee, the board appointed Jennifer L. Hauschildt to complete the unexpired term of Mr. Hatch, effective January 1, 2019.
+On February 27, 2019, Mr. Richard J. Schwab, whose term of service as a director on the Company's board of directors expires in 2019, informed the board of his intention to retire from the board of directors at the conclusion of his term, and accordingly, has not been renominated for election at the 2019 annual meeting. In addition, Mr. Schwab will be retiring from the Bank's board of directors effective on the date of the 2019 annual meeting. In conjunction with Mr. Schwab's departure, a new nominee, Janet E. Godwin, has been nominated to fill the vacant seat created by Mr. Schwab's retirement.
+In addition, the Company's board of directors, upon consideration of their desire to increase the director membership to better represent larger market areas, did not renominate Mr. R. Scott Zaiser for election at the 2019 annual meeting. Mr. Zaiser has been a long-time member of the board, and a valued presence with the MidWestOne Financial organization, and we thank him for his service to the Company. In conjunction with Mr. Zaiser's departure, a new nominee, Matthew J. Hayek, has been nominated to fill the vacant seat. Table of Contents
+In accordance with the Agreement and Plan of Merger between the Company and ATBancorp, which is anticipated to close in the second quarter of 2019, the Company agreed to appoint two individuals designated by ATBancorp to the Company's board of directors, subject to the board's policies. ATBancorp has identified Douglas H. Greeff and Richard J. Hartig to fill these positions, and the Company has approved such appointments, effective upon the completion of the merger. The biographical information for both Mr. Greeff and Mr. Hartig have been included in this document following the biographies of the current directors and nominees.
+NOMINEES
+[BEGIN TABLE]
+Class III - Term Expiring 2022 
+      Director     
+  Name of Individual   Since   Position with MidWestOne Financial 
+  Janet E. Godwin   -   None 
+  Matthew J. Hayek   -   None 
+  Tracy S. McCormick   2011   Director of MidWestOne Financial and the Bank 
+  Kevin W. Monson   2005   Chairman of MidWestOne Financial and the Bank 
+[END TABLE]
+Janet E. Godwin. Ms. Godwin, 53, is the Chief Operating Officer of ACT, Inc., a nonprofit company and national leader in providing educational and career assessments, where she oversees assessment delivery, program management, audit, risk and security services. Ms. Godwin received a Bachelor's degree in English from the University of Oklahoma and a Master's degree in English from the University of Iowa, and has participated in the Advanced Management Program of the Wharton School at the University of Pennsylvania. She is a member of the Board of Education of the Iowa City Community School District and a board member of the Community Foundation of Johnson County, Iowa. Among other attributes, skills and qualifications, we consider Ms. Godwin to be a qualified candidate for service on the board and the Compensation Committee due to her business expertise and her strong ties and significant involvement in the Iowa City community.
+Matthew J. Hayek. Mr. Hayek, 49, is an attorney with Hayek, Moreland, Smith & Bergus, LLP, a general service law firm in Iowa City, where his practice focuses on business and real estate law. A fifth generation Iowa Citian, Mr. Hayek received a Bachelor's degree with honors in Social Sciences from the University of Michigan and a J.D. from the University of Michigan Law School. Prior to law school, he served for two years in Bolivia with the United States Peace Corps. He worked at law firms in Atlanta and Chicago before returning to Iowa City. He served on the City Council of Iowa City from 2008 to 2016 and as Mayor of Iowa City from 2010 to 2016. He has held leadership positions in various civic and nonprofit organizations and has received the Iowa State Bar Association Pro Bono Award. He currently serves on the board of directors of Oaknoll Retirement Residence. Among other attributes, skills and qualifications, we consider Mr. Hayek to be a qualified candidate for service on the board and the Nominating and Corporate Governance Committee due to his legal expertise and his significant involvement in the Iowa City community.
+Tracy S. McCormick. Ms. McCormick, 58, is the Chief Financial Officer and a director, positions she has held since March 2016, of Mill Creek Development Company, an urban planning and development company in Pasadena, California. She currently serves on the board of Folience, a private company based in Cedar Rapids, Iowa. Her prior experience includes a career in investment banking with J.P. Morgan & Co., Incorporated in New York, Chicago, and Los Angeles. Ms. McCormick is the daughter of our former Chairman and current Director Emeritus, W. Richard Summerwill, and became a director of the Company in 2011 following his retirement from the board. She became a director of the Bank upon the completion of our merger with Central in May 2015. Ms. McCormick received a Bachelor's degree in Economics and Communications from the University of Michigan and a M.Sc. in Economics from the London School of Economics and Political Science. We consider Ms. McCormick to be a qualified candidate for service on the board, the Audit Committee and the Compensation Committee due to her skills and expertise developed in investment banking and subsequent business experience.
+Kevin W. Monson. Mr. Monson, 67, is the Chairman of the Board of the Company and Chairman of the Board of the Bank. He served as the President, Managing Partner and the largest shareholder of Neumann Monson, Inc., an architectural services firm headquartered in Iowa City, from 1992 through 2017, and is currently the Chairman of the Board and a shareholder of Neumann Monson, Inc. He became a director of the Company and the Bank in 2005. Mr. Monson is also the majority partner in Tower Partners, a real estate investment partnership, and several other real estate investment corporations. We consider Mr. Monson to be a qualified candidate for service on the board and the Nominating and Corporate Governance Committee due to his skills and expertise developed as the head of a successful architectural firm and his knowledge of and prominence in the Iowa City market. Table of Contents
+CONTINUING DIRECTORS AND NAMED EXECUTIVE OFFICERS
+[BEGIN TABLE]
+Class I - Term Expiring 2020 
+      Director     
+  Name of Individual   Since   Position with MidWestOne Financial 
+  Larry D. Albert   2018(1)   Director of MidWestOne Financial and the Bank 
+  Charles N. Funk   2000   Director, President and Chief Executive Officer of MidWestOne Financial and the Bank 
+  Jennifer L. Hauschildt   2019(2)   Director of MidWestOne Financial and the Bank 
+  Douglas K. True   2017   Director of MidWestOne Financial and the Bank 
+(1) Mr. Albert became a director of the Company and the Bank upon the completion of the merger with Central on May 1, 2015, but ceased being a director of the Company upon the expiration of his term on April 21, 2016. He became a director of the Company again upon the retirement of Mr. John M. Morrison on October 1, 2018. 
+(2) Ms. Hauschildt became a director of the Company and the Bank upon the resignation of Mr. Michael A. Hatch on January 1, 2019. She became a director of the Bank on January 15, 2019. 
+Class II - Term Expiring 2021 
+      Director     
+  Name of Individual   Since   Position with MidWestOne Financial 
+  Richard R. Donohue   2008(1)   Director of MidWestOne Financial and the Bank 
+  Nathaniel J. Kaeding   2018   Director of MidWestOne Financial and the Bank 
+  Ruth E. Stanoch   2015   Director of MidWestOne Financial and the Bank 
+  Kurt R. Weise   2015   Director of MidWestOne Financial and the Bank 
+(1) Mr. Donohue became a director of the Company upon completion of the merger with the former MidWestOne Financial Group, Inc. on March 14, 2008. He had been a director of the former MidWestOne Financial since 1999. 
+[END TABLE]
+Larry D. Albert. Mr. Albert, 68, is a retired Executive Vice President of the Company, a position he held from May 2015, upon the completion of our merger with Central, until his retirement in September 2015. He previously served as Chief Executive Officer and as a director of Central Bank from 1996 to 2015, and served as a director of the Company from the completion of Central merger until April 21, 2016. Mr. Albert received his Bachelor's degree from Westmar University and his MBA from the University of St. Thomas. Among other attributes, skills and qualifications, we believe Mr. Albert is qualified for service on the board and the Audit Committee because, as a director of the Bank and former Chief Executive Officer of Central Bank, he is familiar with the Bank's business and industry and with Bank strategy.
+ Richard R. Donohue. Mr. Donohue, 69, is a retired Managing Partner of TD&T CPAs and Advisors, P.C. in Cedar Rapids, Iowa, a certified public accounting firm in which he was involved in all phases of the practice. Mr. Donohue joined the board of directors of the former MidWestOne Financial in 1999. He became a director of the Company upon completion of our merger with the former MidWestOne Financial in March 2008. Mr. Donohue was appointed to the board of directors of the Bank in 2009. We consider Mr. Donohue to be a qualified candidate for service on the board, the Audit Committee, and the Nominating and Corporate Governance Committee due to his business and financial accounting expertise acquired as the managing partner of a certified public accounting firm, as well as his knowledge of and prominence in our market area.
+Charles N. Funk. Mr. Funk, 64, is the President and Chief Executive Officer of the Company and the Bank, positions he has held since November 2000. Prior to that, he held positions as President and Central Region Manager and Chief Investment Officer for Brenton Bank-Des Moines. Mr. Funk has taught for the Colorado Graduate School of Banking in Boulder, Colorado, the Iowa School of Banking, and the Stonier Graduate School of Banking at Georgetown University. He previously served on the board of Folience and the American Bankers Association and was the Chairman of the Iowa Bankers Association in 2010 and 2011. Mr. Funk graduated with a Bachelor's degree from William Jewell College. We consider Mr. Funk to be a qualified candidate for service on the board due to his extensive expertise in the financial services industry, particularly in the state of Iowa, and intimate knowledge of MidWestOne Financial's business and operations and because of his role as the President and Chief Executive Officer of MidWestOne Financial and the Bank. Table of Contents
+Jennifer L. Hauschildt. Ms. Hauschildt, 49, is the Chief Information Officer - North America, a position she has held since August 2014, for Uponor, a leading provider of crosslinked polyethylene (PEX) plumbing, radiant heating/cooling, hydronic piping, pre-insulated piping and fire sprinkler systems for residential and commercial structures worldwide, located in Apple Valley, Minnesota. Prior to that, she was a consultant with The Hauschildt Group from October 2013 through August 2014. She is a board member of both the Minnesota High Tech Association Foundation, and the Dakota Workforce Investment Board. Ms. Hauschildt received her Bachelor's degree from Gustavus Adolphus College, and an MBA from the University of Minnesota. We consider Ms. Hauschildt to be a qualified candidate for service on the board and the Compensation Committee due to her extensive corporate experience, specifically relating to human resources and information technology.
+Nathaniel J. Kaeding. Mr. Kaeding, 36, is the Director of Business Development and Client Relations, a position he has held since August 2017, for Build to Suit, Inc., a construction management and real estate development firm based in Bettendorf and Coralville, Iowa. Prior to his role with Build to Suit, Inc., Mr. Kaeding served as the Director of Retail Development for the Iowa City Downtown District where he managed economic development and various marketing, branding and place-making initiatives for the District. Mr. Kaeding is an Iowa City native and attended the University of Iowa as an undergraduate where he earned both academic and athletic All-American honors as a member of the University of Iowa football team.  Mr. Kaeding was selected as the 65th pick in the 2004 NFL draft by the San Diego Chargers and enjoyed a nine-year career as a place-kicker in the NFL. Upon retirement from the NFL, Mr. Kaeding returned to Iowa City and earned an MBA from the University of Iowa. We consider Mr. Kaeding to be a qualified candidate for service on the board, the Audit Committee and the Nominating and Corporate Governance Committee due to his experience in the real estate industry, his strong ties within the Iowa City community, and his significant involvement in the Iowa City community.
+Ruth E. Stanoch. Ms. Stanoch, 60, has been a corporate affairs consultant since 2008. She became a director of the Company upon completion of our merger with Central in May 2015 and a director of the Bank in 2016. Among her prior experiences, in 2010, Ms. Stanoch served as the senior advisor to Minnesota's governor-elect, Mark Dayton, and from 1994 to 2007, was employed with Thomson Legal & Regulatory. Between 2010 and 2012, Ms. Stanoch also served on various committees of the Board of Directors of Archipelago Learning, Inc., a leading subscription-based online education company, which was a public company. She received her Bachelor's degree from the University of Minnesota, and was a policy fellow at the University of Minnesota's Humphrey Institute of Public Affairs. Among other attributes, skills and qualifications, we believe that Ms. Stanoch's extensive corporate experience, leadership at a large corporation and previous service on a public company board provide valuable experience to the Company's board, Compensation Committee, and Nominating and Corporate Governance Committee.
+Douglas K. True. Mr. True, 69, is the retired Senior Vice President for Finance and Operations and University Treasurer for the University of Iowa, positions he held from 1991 to 2016. Mr. True served as the chief financial officer of the University of Iowa and provided operational oversight and management direction for a broad range of non-academic units including human resources, facilities management and utilities. He also oversaw the operating and capital budgets of the University of Iowa with broad responsibility for financial management and controls of all university budgets. Mr. True received an MBA from Drake University. We consider Mr. True to be a qualified candidate for service on the board, Audit Committee and Compensation Committee due to his extensive business and financial accounting expertise, as well as his knowledge of and prominence in our market area. 
+ Kurt R. Weise. Mr. Weise, 62, is a retired Executive Vice President of the Company, a position he held from May 2015 upon completion of our merger with Central until December 2016. Mr. Weise joined the board of directors of Central in 1988, and he became a director of the Company and the Bank upon completion of our merger with Central in May 2015. Mr. Weise also served as the Chairman of the Board of Central Bank from 1994 until 2015 and as the President of Central from 1988 until 2015. Mr. Weise received his Bachelor's degree from Winona State University, and he is a Certified Public Accountant. Among other attributes, skills and qualifications, we believe that Mr. Weise's leadership as President of Central, his years of experience in finance and banking, and his status as a CPA enable him to bring valuable insight and knowledge to the Company's board.
+In addition, Mr. W. Richard Summerwill, who had served on our board of directors since our formation in 1983 and served as our long-time Chief Executive Officer prior to our merger with the former MidWestOne Financial in March 2008, and Mr. John S. Koza, who also had served on our board of directors since our formation in 1983 and retired from the board in 2014, both currently serve as non-voting Directors Emeriti.
+The following individuals are expected to become directors of the Company upon the completion of the merger with ATBancorp:
+Douglas H. Greeff. Mr. Greeff, 63, is the President of Greeff Advisory LLC in New York, New York, a shareholder advising service, as well as the Director and Executive Vice President of Omnisure LLC, a specialty finance company and customized payment plan provider for vehicle and home service contracts, and as a director and Interim Chief Financial Officer  Table of Contents of Microfinancial Inc., a publicly traded company that is a specialized commercial/consumer finance company. He also served as the Chief Financial Officer of Heyman Companies, and of Revlon, Inc., both of New York, New York. He is expected to become a director of the Company upon completion of our merger with ATBancorp. Mr. Greeff received his Bachelor's degree in Economics from Williams College, and completed a Master's program in Accounting at the NYU School of Business Administration. We consider Mr. Greeff to be a qualified candidate for service on the board and the Audit Committee due to his extensive finance and corporate experience.
+Richard J. Hartig. Mr. Hartig, 69, is Chairman of Hartig Drug Stores, a regional pharmacy chain, and founder of MedOne Healthcare Systems, a pharmacy benefits firm, both located in Dubuque, Iowa. He is expected to become a director of the Company upon completion of our merger with ATBancorp. He also served as a director of American Trust and Savings Bank since 1991. Mr. Hartig received his Bachelor's degree in Pharmacy and an MBA, both from Drake University. We consider Mr. Hartig to be a qualified candidate for service on the board, the Compensation Committee, and the Nominating and Corporate Governance Committee due to his experience as an entrepreneur and business owner with a lifelong Midwest presence.
+Finally, the following individuals serve as executive officers of MidWestOne Financial, five of whom are named in the compensation tables included in this proxy statement:
+Kevin E. Kramer. Mr. Kramer, 52, is Chief Operating Officer of the Company, a position he has held since October 2016. Prior to joining the Company, he had been with National Bank Holdings (NBHC) since 2011, where he served as Executive Vice President of Commercial Banking for Bank Midwest and Hillcrest Bank. In that capacity, he was responsible for commercial banking, business development management, treasury management, and client relationship management. Prior to that, he was employed as the Senior Vice President and Director, Commercial Strategy and Administration at UMB Financial Corporation, where he had been employed since 1995. Mr. Kramer has a Bachelor's degree in business administration from Benedictine College.
+Barry S. Ray. Mr. Ray, 47, is the Senior Vice President and Chief Financial Officer of the Company and the Bank, positions he has held since June 2018. From May 2006 until May 2018 he served as Chief Accounting Officer and Controller of Columbia State Bank, a subsidiary of Columbia Banking Systems, Inc. Prior to that, he was employed as a Business Analyst, Investment Operations, with Russell Investment Group from 2005 to 2006, and prior to that, was a Consulting Services Manager with RSM US LLP from 2000 to 2005. Mr. Ray served in the U.S. Navy, and received his Bachelor's degree from the University of Washington. He is a Certified Public Accountant.
+James M. Cantrell. Mr. Cantrell, 59, is Vice President, Chief Investment Officer and Treasurer of the Company and Senior Vice President, Chief Investment Officer and Treasurer of the Bank. He has also served as the Interim Chief Financial Officer of both the Company and the Bank between December 2017 and June 2018. He joined the Company in his current positions in July 2009. Prior to joining the Bank, he had been with Provident Bank in Baltimore, Maryland, since 2008, where he served as Senior Vice President and Director of Treasury Operations. In that capacity, he was responsible for management of asset/liability activities, investment portfolio accounting, and derivative activity and compliance. Prior to that, he was employed as the Senior Vice President and Treasurer of Mercantile-Safe Deposit and Trust Company in Baltimore, Maryland, where he had been employed since 2001. Mr. Cantrell has a Bachelor's degree in business and economics from Wittenberg University.
+Mitchell W. Cook. Mr. Cook, 54, is a Senior Regional President for the Minnesota and Wisconsin markets of the Company, a position he has held since May 2015.  Prior to MidWestOne's merger with Central, he served as the President and Chief Operating Officer of Central Bank since 2010. He began his career with Central in 2002 as a Commercial Lender. Prior to joining Central, Mr. Cook was involved in non-bank businesses in western Michigan, where he gained 15 years of experience in retail, wholesale distribution and manufacturing. Mr. Cook received his Bachelor's degree in economics from Colby College in Maine. Mr. Cook received his MBA in management information systems and strategic management from the Carlson School of Management at the University of Minnesota. He is also a graduate of the Graduate School of Banking in Madison, Wisconsin.
+Gary L. Sims. Mr. Sims, 57, is the Senior Vice President and Chief Credit Officer of the Company and the Bank, positions he has held since June 2018. From 2011 until June 2018, he served as Managing Director - Corporate and Institutional, and as the Chief Credit Officer of NBH Bank. Prior to that, he was employed as the Senior Credit Officer for Regions Bank in Dallas, Texas. Mr. Sims received a Bachelor of Business Administration degree in Finance from the University of North Texas, Denton, Texas.
+David E. Lindstrom. Mr. Lindstrom, 52, is the Senior Vice President, Retail Banking of the Bank, a position he has held since January 2018. Prior to his employment with the Bank, Mr. Lindstrom had been employed by BMO Harris Bank, a subsidiary of the Bank of Montreal, since 1989. From 2014 to January 2018, he served as Market President, West Market, of BMO Harris Bank, where he was responsible for growth across all business lines and being a key community contact for the bank. From 2012 to 2014, he was the Senior Vice President, Head of Retail banking and Regional Sales Manager; Northwest Region Minnesota  Table of Contents and Wisconsin for BMO Harris Bank. Mr. Lindstrom received his Bachelor's degree in economics from the University of Wisconsin, Madison.
+CORPORATE GOVERNANCE AND BOARD MATTERS
+General
+The board has adopted guidelines on significant corporate governance matters that, together with our Code of Business Conduct and Ethics and other policies, creates our corporate governance standards. Generally, the board oversees our business and monitors the performance of our management. In accordance with our corporate governance standards, the board does not involve itself in the day-to-day operations of MidWestOne Financial, which is monitored by our executive officers and management. Our directors fulfill their duties and responsibilities by attending regular meetings of the board, which convene at least on a quarterly basis, and through committee membership, which is discussed below. Our directors also discuss business and other matters with Mr. Funk, our President and Chief Executive Officer, other key executives and our principal external advisers (legal counsel, auditors and other consultants).
+With the exception of Messrs. Funk and Weise, each of our current directors and nominees is "independent," as defined under The Nasdaq Stock Market LLC's listing rules, and the board has determined that the independent directors do not have other relationships with us that prevent them from making objective, independent decisions. The board of directors has established an Audit Committee, a Nominating and Corporate Governance Committee and a Compensation Committee, each of which is made up solely of independent directors. The current charters of each of these committees are available on our website at www.midwestonefinancial.com. Our Code of Business Conduct and Ethics is also available on our website. Also posted on our website is a general description regarding our company and links to our filings with the SEC.
+Our board of directors held ten meetings during 2018. All of the directors attended at least 75% of the board meetings and meetings of committees of which they were members. While we do not have a specific policy regarding attendance at the annual shareholder meeting, all directors are encouraged and expected to attend the meeting. Last year's annual meeting was attended by all of the directors in office at such time, except for Mr. Morrison.
+Audit Committee
+In 2018, prior to the annual meeting of shareholders, the Audit Committee was comprised of Messrs. Donohue (Chairman), Schwab, and True, and Ms. McCormick. Following the 2018 annual meeting of shareholders, the Audit Committee has comprised of Messrs. Donohue (Chairman), Kaeding, Schwab, and True, and Ms. McCormick. It is anticipated that the composition of the Audit Committee will remain the same throughout 2019, except that Mr. Schwab will no longer serve on the Audit Committee upon his retirement from the board of directors in April 2019, Mr. Albert is expected to join the Audit Committee following the 2019 annual meeting of shareholders, and Mr. Greeff is expected to join the Audit Committee after his appointment to the board upon completion of the merger with ATBancorp. Each individual is considered to be "independent" under Nasdaq listing rules and the regulations of the SEC. The board of directors has determined that Mr. Donohue qualifies as an "audit committee financial expert" under the regulations of the SEC. The board has based this determination on Mr. Donohue's education and his professional experience as the managing partner of a certified public accounting firm.
+The functions performed by the Audit Committee include, among other things, the following:
+[BEGIN TABLE]
+• overseeing our accounting and financial reporting; 
+• selecting, appointing and overseeing our independent registered public accounting firm; 
+• reviewing actions by management on recommendations of the independent registered public accounting firm and internal auditors; 
+• meeting with management, the internal auditors and the independent registered public accounting firm to review the effectiveness of our system of internal controls and internal audit procedures; and 
+• reviewing reports of bank regulatory agencies and monitoring management's compliance with recommendations contained in those reports. 
+[END TABLE]
+To promote independence of the audit function, the Audit Committee consults separately and jointly with our independent registered public accounting firm, the internal auditors and management. We have adopted a written charter for the Audit Committee,  Table of Contents which sets forth its duties and responsibilities. The current charter is available on our website at www.midwestonefinancial.com. In 2018, the Audit Committee met fourteen times.
+Compensation Committee
+In 2018, prior to the annual meeting of shareholders, the Compensation Committee of MidWestOne Financial was comprised of Ms. McCormick (Chairperson), Ms. Stanoch and Messrs. West, Hatch, and True. Following the 2018 annual meeting of shareholders, the Compensation Committee of MidWestOne Financial was comprised of Ms. McCormick (Chairperson), Ms. Stanoch, and Messrs. Hatch and True. Mr. West left the Compensation Committee upon his retirement from the board of directors in April 2018. As mentioned elsewhere, Mr. Hatch resigned as a director as of December 31, 2018. Ms. Hauschildt joined the Compensation Committee in January 2019. It is anticipated that the composition of the Compensation Committee will remain the same throughout 2019, except that Ms. Godwin is expected to join the Compensation Committee following the 2019 annual meeting of shareholders, and Mr. Hartig is expected to join the Compensation Committee after his appointment to the board upon the completion of the merger with ATBancorp. Each individual served as an "independent" director as defined by Nasdaq listing requirements, an "outside" director pursuant to Section 162(m) of the Internal Revenue Code and a "non-employee" director under Section 16 of the Exchange Act. 
+The Compensation Committee reviews the performance of our Chief Executive Officer, Charles N. Funk, and determines the salary and bonus paid to him. It also reviews and determines the salaries and bonuses paid to our other Named Executive Officers ("NEOs"). The Compensation Committee relies upon Mr. Funk's assessment of each NEO's individual performance, which considers, as applicable, each executive's efforts in achieving his or her individual goals each year and the executive's overall success in the performance of his or her role in the organization. Individual and discretionary goals for NEOs are established by Mr. Funk in consultation with each executive officer which consider the strategic and financial objectives of the Company. The Compensation Committee also consults with management and its independent advisors on a variety of matters relative to overall executive compensation and respective performance of our NEOs. No executive officer participates in any recommendation, discussion, or decision with respect to his or her own compensation or benefits. Further, the Compensation Committee administers our overall executive compensation program including equity incentive plans, long-term incentive plans, and executive incentive bonus plans. As a result, it has ultimate responsibility for interpretation and oversight of those plans.
+The Compensation Committee's duties, responsibilities, and functions are further described in its charter. The Committee reviews its charter at least annually. It then recommends approval of the charter to the Company's board of directors. The Committee's charter is available on our website, www.midwestonefinancial.com. 
+The charter gives the Compensation Committee the authority to hire outside consultants and independent advisors to further its objectives and responsibilities. For the last several years and again in 2018, the Compensation Committee retained the independent compensation consultant services of F.W. Cook & Co., Chicago, Illinois, to provide expertise and serve as a resource with respect to current market activities involving executive compensation practices and procedures, and also to help analyze our executive compensation practices and procedures. F.W. Cook & Co. provides no other services to the Company, and the Compensation Committee believes F.W. Cook & Co. is independent as determined under applicable Nasdaq guidance.
+The Compensation Committee met four times during 2018, convening in January, February, August, and December. Ms. McCormick also met as needed with internal staff members and members of management as well as the Compensation Committee's independent advisors to prepare for committee meetings and to assemble compensation information for this proxy statement.
+Nominating and Corporate Governance Committee
+In 2018 the members of the Nominating and Corporate Governance Committee of MidWestOne Financial were Messrs. Schwab (Chairman), Donohue, Kaeding, and Zaiser, and Ms. Stanoch. It is anticipated that the composition of the Nominating and Corporate Governance Committee will remain the same throughout 2019, except that Mr. Schwab and Mr. Zaiser will no longer serve on the Nominating and Corporate Governance Committee upon their retirement from the board of directors in April 2019, Messrs. Monson and Hayek are expected to join the Nominating and Corporate Governance Committee following the 2019 annual meeting of shareholders, and Mr. Hartig is expected to join the Nominating and Corporate Governance Committee after his appointment to the board upon completion of the merger with ATBancorp. Each individual is considered "independent" under Nasdaq listing rules. The primary purposes of the Nominating and Corporate Governance Committee are to identify and recommend individuals to serve on our board of directors and to review and monitor our policies, procedures and structure as they relate to corporate governance. We have adopted a written charter for the Nominating and Corporate Governance Committee, which sets forth its duties and responsibilities. The current charter is available on our website at www.midwestonefinancial.com. In 2018, the Nominating and Corporate Governance Committee met one time. Table of Contents
+Director Nominations and Qualifications
+For the 2019 annual meeting, the Nominating and Corporate Governance Committee nominated for re-election to the board two incumbent directors whose current terms are set to expire at the 2019 annual meeting and two new nominees. These nominations were further approved by the full board. We did not receive any properly-made shareholder nominations for directorships for the 2019 annual meeting.
+The Nominating and Corporate Governance Committee evaluates all potential nominees for election, including incumbent directors, board nominees and any shareholder nominees included in the proxy statement, in the same manner. The Nominating and Corporate Governance Committee reviews qualified candidates for directors and focuses on those who present varied, complementary backgrounds that emphasize both business experience and community standing. While we do not have a separate diversity policy, the Nominating and Corporate Governance Committee does consider the diversity of our directors and nominees in terms of knowledge, experience, skills, expertise, and other demographics which may contribute to the board. The Nominating and Corporate Governance Committee also believes that directors should possess the highest personal and professional ethics. 
+The Nominating and Corporate Governance Committee has established the following minimum criteria, which it considers necessary for service on the board:
+[BEGIN TABLE]
+• Each nominee shall meet the minimum requirements for service on the board of directors contained in the Company's bylaws and articles of incorporation; 
+• Each nominee shall possess the highest personal and professional ethics, integrity and values; 
+• Each nominee shall have, in the Nominating and Corporate Governance Committee's opinion, a sufficient educational and professional background and have relevant past and current employment affiliations, board affiliations and experience for service on the board; 
+• Each nominee shall have demonstrated effective leadership and sound judgment in his or her professional life; 
+• Each nominee shall have a strong appreciation for the community-minded focus of the Company; 
+• Each nominee shall have exemplary management and communications skills. Most importantly, each nominee must possess the requisite skills and desire to work well within the board structure; 
+• Each nominee shall be free of conflicts of interest that would prevent him or her from serving on the board; 
+• Each nominee shall be expected to ensure that other existing and future commitments do not materially interfere with his or her service as a director of the Company; 
+• Each nominee shall review and agree to meet the standards and duties set forth in the Company's Code of Business Conduct and Ethics; 
+• Each nominee shall be willing to devote sufficient time to carrying out their duties and responsibilities effectively, and should be committed to serve on the board for an extended period of time; and, 
+• The "independence" of non-management nominees shall be taken into account so that at least a majority of the board of directors will be made up of directors who satisfy the independence standards set forth by Nasdaq. 
+[END TABLE]
+The committee identifies nominees by first evaluating the current members of the board whose term is set to expire at the upcoming annual shareholder meeting and who are willing to continue in service. Current members of the board with skills and experience that are relevant to our business and who are willing to continue in service are considered for re-nomination. If any member of the board does not wish to continue in service or if the committee or the board decides not to re-nominate a member for re-election, the committee would identify the desired skills and experience of a new nominee in light of the criteria above. Both Ms. Godwin and Mr. Hayek, the new nominees for election at the 2019 annual meeting of shareholders, were recommended to the board of directors by the President and Chief Executive Officer, Charles N. Funk.
+Board Leadership Structure
+The positions of Chairman of the Board and Chief Executive Officer of MidWestOne are currently held by separate individuals. We believe this is the most appropriate structure for our board at this time. The Chairman provides leadership to the board and works with the board to define its structure and activities in the fulfillment of its responsibilities. The Chairman sets the board agendas with board and management input, facilitates communication among directors, works with the Chief Executive Officer to provide an appropriate information flow between management and the board and presides at meetings of the board and shareholders. With the Chairman's assumption of these duties, the Chief Executive Officer may place a greater focus on our  Table of Contents strategic and operational activities. We also believe our board feels a greater sense of involvement and brings a wider source of perspective as a result of this structure, from which we benefit. 
+Independent Director Sessions
+The board of directors has created the position of a "lead" independent director, currently filled by Ms. McCormick. The Nominating and Corporate Governance Committee reviews this appointment annually, and the full board has the opportunity to ratify the committee's selection. It is expected that Ms. McCormick will continue to serve as lead director after the 2019 annual meeting of shareholders. The lead independent director assists the board in assuring effective corporate governance and serves as chairman of the independent director sessions. Consistent with Nasdaq listing rules, the independent directors regularly have the opportunity to meet without the non-independent directors present, and in 2018 there were two such sessions.
+Board's Role in Risk Oversight
+Risk is inherent with every business, and how well a business manages risk can ultimately determine its success. We face a number of risks, including general economic risks, credit risks, regulatory risks, audit risks, reputational risks and others, such as risks related to the unintentional effects our compensation plans may have on employee decision-making or the impact of competition. Management is responsible for the day-to-day management of risks the Company faces, while the board, as a whole and through its committees, has responsibility for the oversight of risk management. In its risk oversight role, the board of directors has the responsibility to satisfy itself that the risk management processes designed and implemented by management are adequate and functioning as designed.
+While the full board of directors is charged with ultimate oversight responsibility for risk management, various committees of the board and members of management also have responsibilities with respect to our risk oversight. In particular, the Audit Committee plays a large role in monitoring and assessing our financial, legal, and organizational risks, and receives regular reports from our senior officers regarding comprehensive organizational risk as well as particular areas of concern. The Enterprise Risk Management Committee also plays an important role in risk management, with oversight of the Company's overall risk framework, risk appetite, and the identification, measurement, and monitoring of key risks. The Compensation Committee monitors and assesses the various risks associated with compensation policies and oversees incentive plans to ensure a reasonable and manageable level of risk-taking consistent with our overall strategy. Additionally, our Chief Credit Officer and loan review staff are directly responsible for overseeing our credit risk.
+We believe that establishing the right "tone at the top" and providing for full and open communication between management and our board of directors are essential for effective risk management and oversight. Our executive management meets regularly with our other senior officers to discuss strategy and risks facing the Company. Senior officers attend many of the board meetings or, if not in attendance, are available to address any questions or concerns raised by the board on risk management-related and any other matters. Additionally, each of our board-level committees provides regular reports to the full board and apprises the board of our comprehensive risk profile and any areas of concern.
+Code of Ethics
+We have a Code of Business Conduct and Ethics in place that applies to all of our directors, officers and employees. The code sets forth the standard of ethics that we expect all of our directors, officers and employees to follow, including our Chief Executive Officer and Chief Financial Officer. The Code of Business Conduct and Ethics is posted on our website at www.midwestonefinancial.com. We intend to satisfy the disclosure requirements under Item 5.05(c) of Form 8-K regarding any amendment to or waiver of the code with respect to our Chief Executive Officer and Chief Financial Officer, and persons performing similar functions, by posting such information on our website.
+AUDIT COMMITTEE REPORT
+The Audit Committee is comprised of five members of the board of the Company. All the members of the Audit Committee are independent from management and the Company, as independence is currently defined in the Nasdaq listing requirements. The Audit Committee is governed by a charter. A copy of the charter is available on the Company's website.
+Company's management has the primary responsibility for the financial statements, for maintaining effective internal control over financial reporting and assessing the effectiveness of internal control over financial reporting. The Audit Committee discussed with management and the Company's independent registered accounting firm, which we refer to as the external auditor, the Company's annual and quarterly SEC reports on Forms 10-K and 10-Q including the financial statements and disclosures prior  Table of Contents to their public release. The Audit Committee also reviewed, where appropriate, other selected SEC filings and public disclosures regarding financial matters, such as earnings releases, prior to their public release. The Audit Committee discussed with Company management and the external auditor changes in accounting rules or standards that could materially impact the Company's financial statements and the implementation of those rules or standards. 
+The meetings of the Audit Committee are designed to facilitate and encourage communication among the Audit Committee, the Company, the Company's internal auditors and the Company's external auditor. The Audit Committee discussed with the Company's internal auditors and external auditor the overall scope for their respective audits. The Audit Committee meets with the internal auditors and external auditor, with and without management present, to discuss results of their examinations, their evaluations of the Company's internal control, and overall quality of the Company's financial reporting. 
+As part of its oversight responsibility, the Audit Committee periodically reviews the external auditor's qualifications, performance and independence in connection with the determination to retain the external auditor. In conducting the review for its 2019 recommendation to retain RSM US LLP as the external auditor, the Audit Committee considered factors including the professional qualifications of the external auditor, the external auditor's recent and historical performance related to the Company's audit, including a review of auditor performance feedback surveys completed by management, results of Public Company Accounting Oversight Board (PCAOB) examinations, and an evaluation of the external auditor's independence. RSM US LLP has been the external auditor for the Company since 2013.
+The Audit Committee has reviewed and discussed our audited financial statements for the year ended December 31, 2018 with our management and RSM US LLP, the independent registered public accounting firm that audited our financial statements for that period. The committee has also discussed with RSM US LLP the matters required to be discussed by Auditing Standards No. 1301, and has received and discussed the written disclosures and the letter from RSM US LLP required by PCAOB Rule 3526, Communication with Audit Committees Concerning Independence. Based on the review and discussions with management and RSM US LLP, the Audit Committee has recommended to the board that the audited financial statements be included in our Annual Report on Form 10-K for the year ended December 31, 2018 for filing with the SEC.
+Submitted by:
+The MidWestOne Financial Group, Inc. Audit Committee
+Richard R. Donohue (Chairman)
+Tracy S. McCormick
+Nathaniel J. Kaeding
+Richard J. Schwab
+Douglas K. True
+COMPENSATION DISCUSSION AND ANALYSIS
+Introduction
+This Compensation Discussion & Analysis ("CD&A") describes MidWestOne Financial Group's compensation philosophy and policies as applicable to the NEOs listed in the Summary Compensation Table on page 23. It explains the structure of each material element of compensation, and provides context for the more detailed disclosure tables and specific compensation amounts provided following this CD&A.
+MidWestOne Financial Group and MidWestOne Bank share an executive management team. The members of the executive management team, including the NEOs, are compensated by the Bank, not by MidWestOne Financial. The compensation packages of the NEOs are determined and approved by the Compensation Committee (the "Committee") based on the executives' performance and roles for both MidWestOne Financial and MidWestOne Bank.
+Named Executive Officers
+In this CD&A and the executive compensation tables that follow, our six "named executive officers" or "NEOs" in 2018 were:
+[BEGIN TABLE]
+• Charles N. Funk, President and Chief Executive Officer; 
+• Kevin E. Kramer, Chief Operating Officer; 
+• Barry S. Ray, Senior Vice President and Chief Financial Officer; 
+[END TABLE]
+ Table of Contents
+[BEGIN TABLE]
+• James M. Cantrell, Senior Vice President, Chief Investment Officer and Interim Chief Financial Officer (from December 7, 2017 to June 4, 2018 when Mr. Ray was hired); 
+• Mitchell W. Cook, Senior Regional President; and 
+• David E. Lindstrom, Senior Vice President, Retail Banking. 
+[END TABLE]
+Our Financial & Operational Performance
+Net income for 2018 was $30.4 million, or $2.48 per share, compared to net income of $18.7 million, or $1.55 per share, for the prior year. The 2018 results represented the best net income and earnings per share performance in the Company's history. Return on average assets of 0.93% and return on average tangible equity (a non-GAAP financial measure, compared to return on average equity for 2018 of 8.78%) of 11.86% for 2018 were improved from 2017 but below our strategic goals of 1.15% - 1.20% and 13.5% - 15.0%, respectively. Average loan growth in 2018 was 6.9% but contributed to only a 1.7% increase in net interest income as the Company's net interest margin compressed 21 basis points year-over-year. Credit quality improved as loan net charge-offs decreased to 0.26% of average loans from 0.51% in the prior year. The decline in net charge-offs and related reduction in the provision for loan losses had the largest impact on the Company's earnings improvement in 2018 compared to 2017. At year-end 2018, the Company's allowance for loan loss to total loans was 1.22% compared to 1.23% at the prior year-end. The Company's capital remained well in excess of regulatory guidelines, and tangible equity to tangible assets, net of deferred tax on intangibles (a non-GAAP financial measure, compared to total equity to total assets at year-end 2018 of 10.85%) was 8.80% at 2018 year-end, up from 8.44% at the prior year-end.  Return on average tangible equity and tangible equity to tangible assets, net of deferred tax on intangibles, are non-GAAP financial measures. See pages 33 through 35 of the Company's Form 10-K for the year ended December 31, 2018, for a reconciliation to the most comparable GAAP equivalent measures.
+2018 Say-On-Pay
+Say-on-pay is a mandatory but non-binding advisory shareholder vote on executive compensation as part of the Dodd-Frank Act. MidWestOne's say-on-pay results in 2018 were again among the highest of its peers at 97% of shareholders' votes cast. The overall support for our peers' compensation programs fell to an average of 89% in 2018, slightly lower than the Russell 3000 average of 93%. MidWestOne Financial, the board and the Committee pay careful attention to communications received from shareholders, including the results of these advisory votes. The Committee considered the results of the 2018 say-on-pay vote as one of the many factors in making 2018 compensation decisions and believes that the vote reflects the robust support of our shareholders with respect to the philosophy and methodology pursuant to which we compensate our executive officers. The Committee did not alter our compensation philosophy or methodology as a result of this vote.
+Compensation Philosophy and Objectives
+The Committee believes our executive compensation plans, programs and objectives support MidWestOne Financial's achievement of sustained, long-term financial success and the overall goal of increasing shareholder value. MidWestOne Financial's compensation program is designed to attract and retain executive management and key employees, motivate them to achieve desired performance, and reward them for excellent performance. The compensation program is not designed or intended to reward substandard performance. Accordingly, our executive compensation program is intended to align the interests of executive management and key employees with those of our shareholders without creating undue risk to the Company.
+MidWestOne Financial's executive compensation program is designed and structured to be consistent with the guiding philosophies, and to achieve the strategic objectives, as follows:
+[BEGIN TABLE]
+• deliver a consistent and competitive return to our shareholders; 
+• maintain an environment which encourages and promotes stability and a long-term perspective for both the Company and our management team; 
+• provide a competitive compensation program, which is motivating for officers and staff members, giving us the flexibility to: 
+◦ encourage the performance and success of each individual in support of our goals and strategic plan; 
+◦ allow the hiring and retention of key personnel who are critical to our long-term success; 
+◦ emphasize goal-based performance objectives, including incentive compensation programs aligned with management's strategic plan and focused efforts; and 
+◦ mitigate undue risk to the Company with respect to all compensation practices and programs; and 
+[END TABLE]
+ Table of Contents
+[BEGIN TABLE]
+• sustain exemplary management practices which: 
+◦ fulfill appropriate and necessary oversight responsibility to the constituents of MidWestOne Financial (shareholders, customers, employees, regulators, and communities); 
+◦ maintain the highest level of ethical standards and conduct according to our overall corporate policies; and 
+◦ avoid any implied or real conflict between management's responsibilities to the Company and each person's personal interests. 
+[END TABLE]
+The Committee believes that the compensation program for our NEOs should reflect, in large part, success as a management team rather than as individuals, with focus on: attaining key operating objectives with measurable results pertaining to loan, deposit, and total asset growth, asset quality, the growth and consistency of earnings; the provision of leadership and support to the many communities in which we serve; and ultimately an increased market price for our stock. Our compensation program provides balanced reward opportunities tied to performance outcomes that drive shareholder value. The Committee continues to be mindful of the importance of an executive compensation program which is designed to include incentives that do not threaten the value of MidWestOne Financial or the investments of our shareholders and has concluded that our compensation program is reasonably unlikely to have a material adverse effect on the Company. 
+Peer Group Benchmarking
+As noted previously, the Compensation Committee engaged the services of F.W. Cook & Co., an independent compensation consultant ("F.W. Cook"), to provide expertise and serve as a resource to the Committee. In connection with its work for the Committee during 2018, F.W. Cook assisted the Committee with an evaluation of an appropriate peer group of Midwestern financial institutions. The peer group companies were identified based on asset size, economic factors, and geographical area, and are intended to reflect the Company's asset size, business lines, and geographical footprint. The peer group changed slightly from last year as MainSource Financial Group, Inc. and Bank Mutual Corporation were acquired. They were replaced by Stock Yards Bancorp and First Business Financial Services. 
+The 2018 peer group included:
+[BEGIN TABLE]
+• Community Trust Bancorp, Inc., Pikeville, KY• Hills Bancorporation, Hills, IA   
+• Enterprise Financial Services Corp., Clayton, MO• Horizon Bancorp, Michigan City, IN   
+• First Busey Corporation, Champaign, IL• Lakeland Financial Corporation, Warsaw, IN   
+• First Financial Corporation, Terra Haute, IN• Mercantile Bank Corporation, Grand Rapids, MI   
+• First Business Financial Services, Madison, WI• QCR Holdings, Inc., Moline, IL   
+• First Merchants Corporation, Muncie, IN• Stock Yards Bancorp, Louisville, KY   
+• First Mid-Illinois Bancshares, Inc., Mattoon, IL• Waterstone Financial, Inc., Wauwatosa, WI   
+• German American Bancorp, Inc., Jasper, IN• West Bancorporation, West Des Moines, IA   
+• Heartland Financial USA, Inc., Dubuque, IA     
+[END TABLE]
+The Committee strives to maintain a total compensation position which is competitive and fair with respect to our regional peer banks, and, more specifically, aligns our NEOs' compensation with our financial performance relative to our peer group, with an objective of ranking within the top one-third of this group when supported by the Company's financial performance. The Committee, with the assistance of F.W. Cook, annually performs a detailed review of the Company's total compensation levels for NEOs by pay element to those of its peer group.
+Compensation Components
+General. There are four primary components to our executive officer compensation program: base salary, incentive bonus, equity awards and additional fringe benefits. In reviewing NEO compensation, the Committee considers and evaluates all components of the officer's total compensation with the intention of providing each executive with a competitive compensation package. The Committee considers the research and analysis conducted by F.W. Cook to ensure that the total compensation paid to each of our NEOs remains competitive with the total compensation paid by our peers. Further, the Committee considers any amounts an officer is entitled to receive upon retirement, termination or a change-in-control event.
+As described in more detail below, MidWestOne Financial has entered into employment agreements with each of our NEOs. The Committee believes these agreements serve to attract and retain key executives to MidWestOne Financial and that their terms allow each executive to focus on matters that are most important to the continued success of the Company. Table of Contents
+Base Salary. The Committee believes that competitive base salary for the NEOs is important to keep too much emphasis from being placed on short-term performance and short-term incentives. Base salaries of our NEOs are typically adjusted during the annual performance review process.
+In setting annual base salary, the Committee typically considers an executive's level of responsibility, individual performance during the prior year, internal pay equity and information concerning the compensation practices of our peer group. The Committee reviews Mr. Funk's performance during the prior year. Each NEO's performance is evaluated by reviewing performance appraisal information and recommendations made available by management. This review considers each NEO's achievement of individual goals and how his or her performance has contributed to the overall financial performance of the Company. Mr. Funk presents the performance evaluations and his recommendations for each NEO, other than himself, to the Committee. Ms. McCormick, the Committee's Chairperson, presents the same for Mr. Funk. Mr. Monson, the Chairman of the Company's board of directors, also provides feedback to the Committee about Mr. Funk's performance.
+The Committee also considers the evolving landscape of the banking environment regionally and nationally, the impact of the economy and increased regulation of our industry on our earnings, the return on average assets, and overall assets. The Committee also considers certain economic factors in the financial industry that are beyond the NEOs' control.
+Cash Incentive Awards-Bonus. The Committee determines annual cash incentive awards for our NEOs with consideration to the performance results outlined for each executive under the executive bonus plan. All of the NEOs were eligible to participate in the 2018 executive bonus plan. The executive bonus plan is designed to incentivize the achievement of individual and corporate financial goals while considering the mitigation of any risks which may affect the Company's overall financial performance.
+As part of its ongoing evaluation of the effectiveness of the Company's compensation program, the Committee approved certain refinements to its annual cash incentive component for the 2018 plan year.  In consultation with F.W. Cook, the Committee made adjustments to the NEOs' annual incentive potential in order to improve the alignment of executive pay with performance and to provide executives with a pay opportunity that is more competitively positioned with current practices in the banking industry.  The Committee established a threshold, target and exceptional level of incentive award opportunity that each NEO is eligible to earn, expressed as a percentage of base salary.  For each NEO, the Committee set quantitative and qualitative performance measures, ranges for each measure and the weight assigned to each measure, all designed to reflect the Company's strategic objectives.  Target goals are generally set at budget levels and are appropriately challenging.  The maximum payment an NEO can earn for exceptional performance is 150% of the target opportunity.  For performance below the threshold level of any goal, there is no incentive payment with respect to that goal. The Committee retains the discretion to increase or decrease the amount of a bonus or any incentive compensation plan payment if it determines that special circumstances existed during the year which warranted adjustment or payment of any bonus amount.
+The bonus and goal-setting process takes place annually. Mr. Funk provides recommendations with respect to members of management other than himself to Ms. McCormick for her initial review. Ms. McCormick, with input from Mr. Monson, discusses with the members of the Committee Mr. Funk's recommendations as well as factors applicable to Mr. Funk's annual bonus. Ms. McCormick then presents bonus plan recommendations to the Committee for its approval.
+ An overview of the 2018 executive bonus plans is presented in the table below. The performance components, respective weightings, and percentage of salary each NEO was eligible to earn for target 2018 performance, were as follows:
+[BEGIN TABLE]
+Name   Profitability Net Operating Income/EPS   Asset Quality   Deposit/Loan Growth Levels   Efficiency Ratio   Individual Goals Specific to NEO Role   Potential 2018 Total Bonus (as% of Base Salary) 
+Charles N. Funk   50%   15%   —   15%   20%   50% 
+Kevin E. Kramer   40%   15%   20%   10%   15%   40% 
+Barry S. Ray   50%   —   —   —   50%   33.33% 
+Mitchell W. Cook   35%   10%   45%   —   10%   33.33% 
+James M. Cantrell   40%   —   —   —   60%   33.33% 
+David E. Lindstrom   35%   —   25%   —   40%   33.33% 
+[END TABLE]
+Profitability, Net Operating Income and Earnings Per Share Component. The Committee uses net operating income and earnings per share to evaluate our profitability because these metrics focus on the financial performance of the Company, which in turn reflects shareholder value. Given its importance, the component is applied to all NEOs. The Committee set the target level for net operating income at $32,514,000 and earnings per share at $2.65. For 2018, the Committee determined that we achieved 75% of the target goal. Table of Contents
+ Asset Quality Performance Component. The Committee believes that favorable asset quality ratios are critical with respect to non-performing loans and net charge-offs and uses the regional peer group as a reference to monitor our success in this area. The bonus plans for 2018 for Messrs. Funk, Kramer, and Cook included asset quality goals. Messrs. Funk and Kramer were asked to improve company-wide asset quality ratios from year-end 2017 and to achieve a target level of performance of above the 50th percentile of our peer group for these ratios. Mr. Cook was asked to maintain the asset quality ratios of our Minneapolis/St. Paul region. Our peer group continued to improve in asset quality in 2018, and despite an overall improvement in credit quality, MidWestOne Financial remained in the lower end of peer range due to its non-performing assets to total loans ratio. The Committee determined that Messrs. Funk and Kramer did not reach the threshold level of performance for this component. Asset quality ratios in Mr. Cook's region remained stable, and the Committee determined that he achieved 100% of this target goal.
+Deposit and Loan Growth Performance Component. The Committee believes that core deposit and loan growth continue to be a necessary focus for the Company. In 2018, Mr. Kramer was assigned bank-wide targets for deposit and loan growth of 4.1% and 6.3% respectively. Mr. Cook was asked to meet targets of budgeted deposit and loan growth for the Minneapolis/St. Paul region, and Mr. Lindstrom was assigned a bank-wide target for budgeted retail deposit growth. MidWestOne Financial's deposit and loan growth during 2018 fell short of targeted goals, and the Committee determined that Mr. Kramer achieved 70% and 90% of his targets for deposit and loan growth, respectively. In evaluating the results of Mr. Cook's goals, the Committee determined that he achieved 100% and 150% of his targets for deposit and loan growth, respectively, and that Mr. Lindstrom achieved 56% of his retail banking target goal.
+Efficiency Ratio Component. The Committee believes that a focus on expense control and efficiency of operations is important in order to provide the best financial return for our shareholders.  As such, the Committee tied a portion of Messrs. Funk's and Kramer's bonus targets to MidWestOne Financial's efficiency ratio. For 2018, the target efficiency ratio was set at 60%. With the Company's efficiency ratio of 62.05% for 2018, the Committee determined that the executives did not achieve the threshold level of performance for this goal. Efficiency ratio is a non-GAAP financial measure. See pages 33 through 35  of the Company's Form 10-K for the year ended December 31, 2018, for a reconciliation to the most comparable GAAP equivalent measures.
+Additional Individual Performance and Discretionary Component. In addition to the above components, the Committee established individual goals for all of our NEOs which reflect objectives specific to the executive's role as well as additional corporate targets affected by each executive's performance. Furthermore, the Committee utilized a discretionary component that allows for consideration of additional quantitative and qualitative factors including risk management, merger and acquisition activity, strategic planning, credit quality, talent management, employee engagement, regulatory compliance, community involvement and leadership, and succession planning. The Committee assesses overall progress toward each of these goals while retaining discretion to reward other aspects of an NEO's performance during the year if merited. 
+The executive bonus plan included the following individual goals or discretionary component in 2018:
+[BEGIN TABLE]
+• With respect to Mr. Funk, the Committee considered his leadership in the continued execution of the Company's strategic plan, achievement of retail banking progress in the Minneapolis/St. Paul region, improvement in Company-wide employee engagement survey results, ongoing development and advancement of acquisition opportunities and senior management development. The Committee awarded Mr. Funk a payout of 150% of target for this component.  
+• With respect to Mr. Kramer, the Committee considered his leadership in the achievement of retail banking progress in the Minneapolis/St. Paul region, improvement in Company-wide employee engagement survey results, and extensive work on merger and credit-related activities. The Committee awarded Mr. Kramer a payout of 150% of target for this component. 
+• With respect to Mr. Ray, the Committee considered his leadership in the assessment and development of the Accounting Department structure in preparation for Company growth as well as his involvement with merger and acquisition strategy and execution. During his brief tenure with the Company, Mr. Ray has become an integral part of the senior management team. The Committee awarded him a discretionary bonus of $10,000 to reflect his significant contributions and performance.  
+• With respect to Mr. Cook, the Committee considered his leadership in achieving improved employee engagement survey results in the Minneapolis/St. Paul region. The Committee awarded Mr. Cook a payout of 80% of target for this goal.  
+• With respect to Mr. Cantrell, the Committee considered his continued success in the management of the investment portfolio relative to peers, his superior asset liability and net interest margin management, and his leadership as our  
+[END TABLE]
+ Table of Contents
+Interim Chief Financial Officer. The Committee awarded Mr. Cantrell a payout of 100% of target for investment portfolio management, 100% of target for asset liability and net interest margin management, and 150% of target for the discretionary component.
+[BEGIN TABLE]
+• With respect to Mr. Lindstrom, the Committee considered his management of retail banking integration in Minneapolis/St. Paul and Iowa as well as his oversight in retail strategy, planning, and execution. The Committee awarded Mr. Lindstrom a payout of 150% of target for retail integration and 100% of target for retail strategy and leadership. 
+[END TABLE]
+2018 Cash Incentive/Bonus Summary. Following the close of the calendar year of 2018, the Committee considered the progress of each executive's achievement toward the above stated performance and individual goals. Based on its evaluation of all executive bonus plan components, the Committee determined that these NEOs achieved the following overall percentage of their target bonus: Mr. Funk earned a payout of 67.5% of his target bonus, Mr. Kramer earned a payout of 68.5% of his target bonus, Mr. Cantrell earned a payout of 106.8% of his target bonus, Mr. Cook earned a payout of 103% of his target bonus, and Mr. Lindstrom earned a payout of 85.3% of his target bonus. Mr. Ray received a contractual bonus of $46,662 plus the $10,000 discretionary bonus described above.
+Long-Term Incentive Awards-Equity Awards. The board of directors and the Committee believe in management ownership of our common stock as an effective means to align the interests of management with those of the shareholders. Our current long-term incentive plan (the "2017 Equity Incentive Plan", or the "Plan") is intended to promote equity ownership in MidWestOne Financial by the directors and selected officers, to focus the management team on increasing value to the shareholders, to increase participants' proprietary interest in the success of the Company, and to encourage the retention of key employees for an extended period of time. The 2017 Equity Incentive Plan authorizes the issuance of the Company's common stock, including the granting of stock options and restricted stock units.
+All equity awards are at the discretion of the Committee in consideration of the position of the NEO, the officer's level of influence and the corresponding ability to contribute toward the success of the Company, individual and corporate performance and whether the respective goals were achieved, as well as the level of equity awards granted to individuals with similar positions at our peer companies.
+The Committee typically approves equity awards in January of each year in the form of restricted stock units. The timing of the equity grants coincides with the completion of annual performance evaluations and development of current-year bonus plans. The Committee reserves the right to grant additional equity awards at other times of the year in connection with the appointment of any new directors or officers or to compensate key employees for other significant or notable achievements. Up to 500,000 shares of the Company's common stock may be issued under the Plan. As of December 31, 2018, 445,660 shares were available for issuance. Awards vest, become exercisable, and contain such other terms and conditions as determined by the Committee and set forth in individual agreements with the employees receiving the awards. The Plan also allows for acceleration of vesting and exercise privileges upon a change in control or upon a participant's death, disability, or retirement. Awards are subject to forfeiture for violation of non-competition, non-solicitation, and other restrictive covenants.
+Prior to our adoption of the 2017 Equity Incentive Plan, the Committee issued awards under the 2008 Equity Incentive Plan. Under the 2008 Equity Incentive Plan, the Committee was permitted to grant up to 750,000 shares of equity to eligible persons under terms similar to the 2017 Equity Incentive Plan. Upon our adoption of the 2017 Equity Incentive Plan, no further awards could be issued under the 2008 Equity Incentive Plan
+All Other Compensation. We provide fringe benefits to executive officers and other employees which are intended to serve a different purpose than base salary, bonus and equity awards. While the benefits offered are competitive with the marketplace and help to attract and retain executives and employees, these benefits also provide financial security for employees for retirement as well as unforeseen life events such as illness, disability, or death and are generally those offered to other employees. There are some additional perquisites that may only be offered to executive officers. Subject to periodic review and regulatory developments, the Company plans to continue to offer fringe benefits, the amount of which shall be determined from time-to-time at the sole discretion of the Committee. Table of Contents
+The following table illustrates benefits and perquisites we provide to employees, including our NEOs:
+[BEGIN TABLE]
+  Executive Officers  Other Officers / Managers  Full-Time Employees
+  Executive Officers  Other Officers / Managers  Full-Time Employees
+Health Plans:           
+Life & Disability Insurance X   X   X 
+Medical/Dental/Vision Plans X   X   X 
+Retirement Plans:           
+401(k) Plan/Profit-Sharing X   X   X 
+Executive Deferred Compensation Plan X   X   Not Offered 
+ESOP X   X   X 
+Perquisites:           
+Automobile Allowance As Duties Require   As Duties Require   Not Offered 
+Country Club Membership As Duties Require   As Duties Require   Not Offered 
+[END TABLE]
+There is also a profit-sharing contribution component to the 401(k) plan which provides for an additional non-elective employer contribution to the retirement account of each participant. This contribution is discretionary and, if paid, is based on the Company's profitability in a given year and is allocated to participants per plan terms based on their annual compensation. No profit-sharing contribution was made to the plan for 2018.
+Employee Stock Ownership Plan. MidWestOne Financial sponsors a tax-qualified employee stock ownership plan, also known as the ESOP, designed primarily to reward eligible employees for their service to the Company in the form of a retirement benefit. As with the 401(k) plan, American Trust & Savings Bank of Dubuque, Iowa serves as the plan recordkeeper.
+Any benefits payable under the ESOP are based solely upon the statutorily limited amounts contributed for the benefit of the participants, along with any changes in the value of those contributions while they are held in the ESOP. The ESOP does not permit or require any contributions by participating employees. Subject to certain exceptions under the law, contributions to the ESOP are fully vested after six years of service with the Company. MidWestOne Financial makes an annual contribution which is allocated among all eligible employees of the Company, including executive officers. The ESOP contribution is calculated as a designated percentage of annual compensation each year. This contribution is discretionary in nature and is set and approved by the MidWestOne Financial board of directors each January. At its January 15, 2019 meeting, the Committee authorized an ESOP contribution for 2018 of 3.15% of the participant's eligible compensation. This compares to 2.75% in 2017 and 3.10% in 2016.
+Supplemental Executive Retirement Agreements (the "SERPs"). MidWestOne Financial provides certain of our executive officers with supplemental retirement benefits. The Committee believes these benefits encourage long-term executive retention while focusing our executives' efforts on consistent and sustainable Company performance, as such supplemental benefits are, pursuant to applicable tax rules, required to be unfunded, unsecured promises to pay the satisfaction of which is dependent on the Company's continuing financial success. In the case of insolvency of the Company, the executives participating in such arrangements would be treated as general unsecured creditors of the Company.
+ Mr. Funk has in place with the Company a supplemental retirement arrangement. Mr. Cook participates in a supplemental arrangement that was originally implemented by Central Bank. Table of Contents
+Pursuant to his individual agreement, Mr. Funk will receive a set dollar amount upon retirement from employment after attaining 65 years of age, subject to restrictive covenants for a period of 60 months following any retirement which results in payment of a supplemental retirement benefit. Upon such a retirement, Mr. Funk's benefit will be paid in a series of 180 monthly installments. Upon retirement at age 65, Mr. Funk will be eligible to receive $2,083 per month. If Mr. Funk continues working beyond age 65, he will receive the monthly benefit calculated at age 65 at the later date due to any postponed retirement event. The agreement provides for a full death benefit in the case of the executive's death while still employed by the Company.
+Mr. Cook's supplemental retirement agreement is designed to provide him with a benefit upon retirement at or after attaining age 65. The supplemental benefit is an account balance of $300,000. His normal retirement benefit is to be paid to him over five years with interest being credited on the unpaid balance during the payment period. If Mr. Cook is a "specified employee" as defined in the Internal Revenue Code at the time of retirement, his benefit commencement will be delayed until the date that is six months following his retirement. Mr. Cook's arrangements provide for an early retirement benefit as well as benefits upon a death or disability. If Mr. Cook were to retire during 2018, his early retirement benefit would be equal to $60,000. In the case of his death or disability, he or his representative, as the case may be, would be entitled to a benefit as outlined in his arrangement.
+Executive Deferred Compensation Plan. The Company maintains the Executive Deferred Compensation Plan which gives eligible executives, including our NEOs, the opportunity to defer a portion of their base salary. The plan was implemented to afford certain executives whose deferrals under our 401(k) plan are limited due to restrictions under the Internal Revenue Code an additional opportunity to save for their retirements on a tax-deferred basis. If an executive elects to defer a portion of his or her salary under the plan, such deferrals earn interest at a rate equal to the prime rate of interest as published in The Wall Street Journal (U.S. Edition) plus one percent. Account balances under the plan are always fully vested and the executive can elect to receive his or her account balance in a single lump sum or in installments paid over five or ten years. Upon a change in control, all unpaid account balances will be immediately paid in a single lump sum.
+Other Perquisites. We believe that perquisites for executive officers should be very limited and conservative in nature, both in scope and value. Consistent with this philosophy, MidWestOne Financial has generally provided nominal benefits to executives that are not available to other full-time officers and employees. This approach to perquisites is anticipated to continue in the future. We provide annual country club memberships for all regional and market presidents and certain commercial banking officers in each market. The country club benefit is for single memberships only and intended to extend the officer's external visibility and resulting business opportunities in their home community. An additional perquisite for certain officers includes a company automobile based on the needs of business travel. Messrs. Funk, Kramer, Ray, Cook, and Lindstrom have company cars assigned to them. We have disclosed the value of all perquisites to NEOs in the Summary Compensation Table even if these fall below the disclosure thresholds under the SEC rules. MidWestOne Financial plans to continue to offer limited perquisites as determined from time-to-time in the sole discretion of the Committee, provided such perquisites are not considered to be restricted or prohibited by any compensation regulations. 
+Compensation Decisions
+This section describes the decisions made by the Committee with respect to the compensation for NEOs for 2018 as well as certain decisions with respect to 2019 compensation.
+Base Salary. We review the base salaries of the NEOs annually, as described above. The salaries for 2019, determined by the Compensation Committee at the end of 2018, are set forth in the Summary Compensation Table and the table below:
+This table reflects base salaries of our NEOs which were earned in 2018 and those base salaries set for 2019:
+[BEGIN TABLE]
+Named Executive Officer   2018   2019 
+Charles N. Funk   $437,000   $455,000** 
+Kevin E. Kramer   $330,000   $340,000 
+Barry S. Ray   $280,000*   $285,000 
+Mitchell W. Cook   $214,500   $219,820 
+James M. Cantrell   $222,200   $228,950 
+David E. Lindstrom   $220,000*   $226,600 
+[END TABLE]
+* 2018 base salaries reflect annualized salaries versus base compensation earned in 2018. 
+** Effective July 1, 2019, Mr. Funk's salary will increase to $464,000. Table of Contents
+ Bonus. As described above, all of our NEOs received a bonus for 2018. 
+In early 2019, the Compensation Committee agreed on the terms of our 2019 bonus plan. Pursuant to that plan, Mr. Funk is eligible to receive a target bonus of 50% of his base salary, Mr. Kramer is eligible to receive a target bonus of 40% of his base salary, and Messrs. Ray, Cantrell, Cook, and Lindstrom are eligible to receive a target bonus of 33.33% of their base salaries.
+Equity Awards. We typically grant equity incentives to our eligible employees, including the NEOs, in January of each year. The equity incentives granted to the NEOs historically have vested in equal installments over four years and are typically subject to forfeiture until vested. When the equity awards are granted in the form of restricted stock units, the Company does not credit dividends or dividend equivalents for periods prior to the settlement date of such units.
+In January 2018, the Committee approved equity grants for its NEOs comprised solely of restricted stock units as shown in the "Grants of Plan Based Awards" table below. In addition to those equity grants, the Committee also approved an equity grant for Mr. Ray in connection with his initial employment with the Company.
+In January 2019, the Compensation Committee approved equity grants for its NEOs comprised solely of restricted stock units. The committee made the following awards:
+[BEGIN TABLE]
+• Mr. Funk was awarded 5,000 restricted stock units. 
+• Mr. Kramer was awarded 3,200 restricted stock units. 
+• Mr. Ray was awarded 2,000 restricted stock units. 
+• Mr. Cook was awarded 2,000 restricted stock units. 
+• Mr. Cantrell was awarded 2,000 restricted stock units. 
+• Mr. Lindstrom was awarded 2,000 restricted stock units. 
+[END TABLE]
+The restricted stock units granted to our NEOs in each of 2018 and 2019 will vest 25% on each of the first four anniversaries of the grant date with the exception of a portion of the restricted stock units awarded to Mr. Ray in 2018 as a part of his employment offer, which will vest over two years. Vesting of unvested restricted stock units is accelerated upon the death, disability or approved retirement of the executive, or upon a change in control of the Company if such awards are not otherwise assumed by the surviving entity or the executive's employment is terminated in connection with the change in control. The units are typically settled by delivery of the Company's common stock within 30 days of the vesting date. No dividends or dividend equivalents are credited to the executives for time periods prior to the settlement date of the units.
+Equity Ownership Guidelines. In consultation with its compensation consultant and advisor, F.W. Cook, the Compensation Committee in 2018 approved the continuation of established equity ownership guidelines for our non-executive board members and our NEOs. The guidelines were designed to more closely align the interests of our NEOs with those of the Company and its shareholders and to reflect the commitment of our non-executive board members to the success of the Company. The guidelines allow each executive the opportunity over three to five years, as described in the table below, to achieve compliance with the recommended equity ownership threshold.
+[BEGIN TABLE]
+Non-Executive Directors   5 times Annual Retainer   3 Years to Meet 
+Chief Executive Officer   5 times Annual Base Salary; includes unvested shares   5 Years to Meet 
+Chief Financial Officer   2 times Annual Base Salary; includes unvested shares   5 Years to Meet 
+Next 3 Named Executive Officers   3 times Annual Base Salary; includes unvested shares   5 Years to Meet 
+[END TABLE]
+COMPENSATION COMMITTEE REPORT
+The Compensation Committee of the MidWestOne Financial board of directors has submitted the following report for inclusion in this proxy statement:
+The Compensation Committee has reviewed and discussed the CD&A contained in this proxy statement with management. Based on the Committee's review and discussion with management, the Committee recommended that the board of directors approve and include the CD&A in this proxy statement. Table of Contents
+Submitted by:
+The MidWestOne Financial Group, Inc. Compensation Committee
+Tracy S. McCormick (Chairperson)
+Jennifer L. Hauschildt
+Ruth E. Stanoch
+Douglas K. True
+This report shall not be deemed to be incorporated by reference by any general statement incorporating by reference this Proxy Statement into any filing under the Securities Act of 1933 or the Securities Exchange Act of 1934, and shall not otherwise be deemed filed under such acts.
+EXECUTIVE COMPENSATION
+Summary Compensation Table
+The following table sets forth information concerning the compensation of our NEOs, which consist of our Chief Executive Officer, Chief Financial Officer, Interim Chief Executive Officer, and our next three most highly compensated executive officers in 2018. Except as otherwise required pursuant to SEC rules, the table sets forth the following information for the years ended December 31, 2018, 2017, and 2016: (i) the dollar value of base salary and bonus earned; (ii) the aggregate grant date fair value of stock and option awards granted at any time computed in accordance with FASB ASC Topic 718; (iii) all other compensation; and (iv) the dollar value of total compensation.
+[BEGIN TABLE]
+Name and Principal Position   Year(1)   Salary   Bonus(2)   Stock Awards(3)  Option Awards(3)  Non-Equity Incentive Plan Compen-sation   Change in Pension Value and Nonqual-ified Deferred Compen-sation Earnings(4)   All Other Compen-sation(5)   Total Compen-sation 
+Name and Principal Position   Year(1)   Salary   Bonus(2)   Stock Awards(3)  Option Awards(3)  Non-Equity Incentive Plan Compen-sation   Change in Pension Value and Nonqual-ified Deferred Compen-sation Earnings(4)   All Other Compen-sation(5)   Total Compen-sation 
+(a)   (b)   (c)   (d)   (e)   (f)   (g)   (h)   (i)   (j) 
+Charles N. Funk   2018   $ 437,000     $ —     $ 154,350     $ —     $ 147,488     $ 1,711     $ 33,068     $ 773,617   
+President and Chief   2017   422,000     —     182,550     —     —     1,543     32,381     638,474   
+Executive Officer   2016   422,000     —     132,250     —     —     1,386     28,144     583,780   
+Kevin E. Kramer   2018   $ 330,000     $ —     $ 98,784     $ —     $ 90,420     $ —     $ 28,838     $ 548,042   
+Chief Operating Officer   2017   320,000     114,000     109,530     —     —     —     73,963     617,493   
+Barry S. Ray(6)   2018   $ 162,256     $ 56,666     $ 255,870     $ —     $ —     $ —     $ 32,346     $ 507,138   
+Senior Vice President and                                     
+Chief Financial Officer                                     
+Mitchell W. Cook   2018   $ 214,500     $ —     $ 61,740     $ —     $ 73,623     $ —     $ 44,626     $ 394,489   
+Senior Regional President   2017   210,000     —     14,604     —     158,348     —     21,234     404,186   
+    2016   204,400     25,000     13,225     —     84,163     —     21,465     348,253   
+James M. Cantrell(6)   2018   $ 222,200     $ —     $ 61,740     $ —     $ 78,993     $ —     $ 17,991     $ 380,924   
+Vice President, Chief Investment   2017   214,200     35,664     65,718     —     —     —     14,459     330,041   
+Officer and Treasurer   2016   210,000     —     39,675     —     —     —     17,575     267,250   
+David E. Lindstrom   2018   $ 215,769     $ —     $ 61,740     $ —     $ 62,510     $ —     $ 8,751     $ 348,770   
+Senior Vice President, Retail                                     
+Banking                                     
+  Name   Perquisites(i)   401(k) Match  Supplemental Retirement Contribution   ESOP Contribution   Relocation Expenses   Total "All Other Compensation"  
+  Name   Perquisites(i)   401(k) Match  Supplemental Retirement Contribution   ESOP Contribution   Relocation Expenses   Total "All Other Compensation"  
+  Charles N. Funk   $ 6,679     $ 11,000     $ 6,727     $ 8,662     $ —     $ 33,068     
+  Kevin E. Kramer   9,176     11,000     —     8,662     —     28,838     
+  Barry S. Ray   2,836     2,333     —     —     27,177     32,346     
+  Mitchell W. Cook   4,964     11,000     20,000     8,662     —     44,626     
+  James M. Cantrell   —     9,868     —     8,123     —     17,991     
+  David E. Lindstrom   2,151     6,600     —     —     —     8,751     
+Name   Grant Date   Estimated Future Payouts Under Non-Equity Incentive Plan Awards (1)   All Other Stock Awards: # of Shares of Stock or Units   All Other Option Awards: # of Securities Underlying Options   Exercise or Base Price of Option Awards ($/sh)  Grant Date Fair Value of Stock Unit Awards 
+Threshold   Target   Maximum 
+(a)   (b)   (c)   (d)   (e)   (f)   (g)   (h)   (i) 
+Charles N. Funk   2/15/2018   —     —     —     5,000     —     $ —     $ 154,350   
+        $ 109,250     $ 218,500     $ 327,750     —     —     —     —   
+Kevin E. Kramer   2/15/2018   —     —     —     3,200     —     $ —     $ 98,784   
+        $ 66,000     $ 132,000     $ 198,000     —     —     —     —   
+Barry S. Ray   6/15/2018   —     —     —     5,000     —     $ —     $ 166,800   
+    11/15/2018   —     —     —     3,000     —     —     89,070   
+        $ 46,666     $ 93,324     $ 139,986     —     —     —     —   
+Mitchell W. Cook   2/15/2018   —     —     —     2,000     —     $ —     $ 61,740   
+        $ 35,714     $ 71,493     $ 107,143     —     —     —     —   
+James M. Cantrell   2/15/2018   —     —     —     2,000     —     $ —     $ 61,740   
+        $ 36,963     $ 73,993     $ 110,889     —     —     —     —   
+David E. Lindstrom   2/15/2018   —     —     —     2,000     —     $ —     $ 61,740   
+        $ 36,630     $ 73,326     $ 109,890     —     —     —     —   
+(1) The amounts set forth in the "Estimated Future Payouts Under Non-Equity Incentive Plan Awards" columns reflect the threshold and target payouts for performance under the bonus plan as described in the section titled "Cash Incentive Awards-Bonuses" in the CD&A above. The amount earned by each NEO for 2018 performance is included in the Summary Compensation Table in the column titled "Non-Equity Incentive Plan Compensation." 
+(2) Mr. Ray's fiscal year 2018 cash incentive includes a $46,666 minimum bonus pursuant to the terms of his offer letter at the time of hire. 
+[END TABLE]
+ Table of Contents
+Outstanding Equity Awards at Fiscal Year End
+The following table sets forth information concerning the exercisable and unexercisable stock options and restricted stock units at December 31, 2018, held by each NEO:
+[BEGIN TABLE]
+    Option Awards   Stock Awards 
+    Number of Securities  Underlying Unexercised Options  Option Exercise Price ($)   Option Expiration Date  # of Shares or Units of Stock that Have Not Vested(1)   Market Value of Shares or Units of Stock that Have Not Vested ($)(2) 
+    Number of Securities  Underlying Unexercised Options  Option Exercise Price ($)   Option Expiration Date  # of Shares or Units of Stock that Have Not Vested(1)   Market Value of Shares or Units of Stock that Have Not Vested ($)(2) 
+Name   Exercisable   Unexercisable         
+(a)   (b)   (c)   (d)   (e)   (f)   (g) 
+Charles N. Funk   —     —     $ —     —     12,500     $ 310,375   
+Kevin E. Kramer   —     —     $ —     —     6,450     $ 160,154   
+Barry S. Ray   —     —     $ —     —     8,000     $ 198,640   
+Mitchell W. Cook   —     —     $ —     —     2,550     $ 63,317   
+James M. Cantrell   —     —     $ —     —     4,475     $ 111,114   
+David E. Lindstrom   —     —     $ —     —     2,000     $ 49,660   
+  Name   2/15/2019       
+  Charles N. Funk   1,250         
+  James M. Cantrell   375         
+  Name   2/15/2019   2/15/2020       
+  Charles N. Funk   1,250     1,250         
+  Mitchell W. Cook   125     125         
+  James M. Cantrell   375     375         
+[END TABLE]
+The table below shows the remaining vesting schedule for unvested restricted stock units granted on November 15, 2016.
+[BEGIN TABLE]
+  Name   11/15/2019   11/15/2020           
+  Kevin E. Kramer   500     500             
+[END TABLE]
+The table below shows the remaining vesting schedule for unvested restricted stock units granted on February 15, 2017.
+[BEGIN TABLE]
+  Name   2/15/2019   2/15/2020   2/15/2021       
+  Charles N. Funk   1,250     1,250     1,250         
+  Kevin E. Kramer   750     750     750         
+  Mitchell W. Cook   100     100     100         
+  James M. Cantrell   450     450     450         
+[END TABLE]
+ The table below shows the remaining vesting schedule for unvested restricted stock units granted on February 15, 2018.
+[BEGIN TABLE]
+  Name   2/15/2019   2/15/2020   2/15/2021   2/15/2022   
+  Charles N. Funk   1,250     1,250     1,250     1,250     
+  Kevin E. Kramer   800     800     800     800     
+  Mitchell W. Cook   500     500     500     500     
+  James M. Cantrell   500     500     500     500     
+  David E. Lindstrom   500     500     500     500     
+[END TABLE]
+The table below shows the remaining vesting schedule for unvested restricted stock units granted on June 15, 2018.
+[BEGIN TABLE]
+  Name   6/15/2019   6/15/2020   6/15/2021   6/15/2022   
+  Barry S. Ray   2,000     2,000     500     500     
+[END TABLE]
+ Table of Contents
+The table below shows the remaining vesting schedule for unvested restricted stock units granted on November 15, 2018.
+[BEGIN TABLE]
+  Name   11/15/2019   11/15/2020           
+  Barry S. Ray   1,500     1,500             
+[END TABLE]
+[BEGIN TABLE]
+(2) The market value of shares is based on a closing stock price of $24.83 on December 31, 2018. 
+[END TABLE]
+Option Exercises and Stock Vested in 2018 
+The following table sets forth information concerning the exercise of options in 2018 by each NEO:
+[BEGIN TABLE]
+    Option Awards   Stock Awards 
+Name   # of Shares Acquired on Exercise   Value Realized Upon Exercise ($)   # of Shares Acquired on Vesting   Value Realized on Vesting ($) 
+(a)   (b)   (c)   (d)   (e) 
+Charles N. Funk   3,500     $ 50,645     5,000     $ 154,350   
+Kevin E. Kramer   —     —     1,250     37,998   
+Barry S. Ray   —     —     —     —   
+Mitchell W. Cook   —     —     475     14,368   
+James M. Cantrell   —     —     1,325     40,903   
+David E. Lindstrom   —     —     —     —   
+[END TABLE]
+Nonqualified Deferred Compensation Table
+The following table sets forth information concerning the benefits under the Company's supplemental retirement agreements at December 31, 2018, to which each NEO is entitled.
+[BEGIN TABLE]
+Name   Executive Contributions in Last FY ($)   Registrant Contributions in Last FY(1) ($)   Aggregate Earnings in Last FY(2) ($)   Aggregate Withdrawals / Distributions ($)   Aggregate Balance at Last FYE(3) ($) 
+(a)   (b)   (c)   (d)   (e)   (f) 
+Charles N. Funk   $ 60,000     $ 6,727     $ 23,550     $ —     $ 422,572   
+Kevin E. Kramer   —     —     —     —     —   
+Barry S. Ray   —     —     —     —     —   
+Mitchell W. Cook   —     20,000     —     —     80,000   
+James M. Cantrell   22,220     —     2,439     —     58,366   
+David E. Lindstrom   —     —     —     —     —   
+(1) The "Registrant Contributions in Last FY" column is also reported in the "All Other Compensation" column of the Summary Compensation Table for the fiscal year 2018. 
+(2) The "Aggregate Earnings in Last FY" column includes above-market interest also reported in the "Change in Pension Value and Nonqualified Deferred Compensation Earnings" column of the Summary Compensation Table for fiscal 2018. The above-market interest amount for Mr. Funk is $1,711. 
+(3) The "Aggregate Balance at Last FYE" column includes above-market interest also reported in the "Change in Pension Value and Nonqualified Deferred Compensation Earnings" column of the Summary Compensation Table for fiscal years 2017 and 2016. The above-market interest amounts for Mr. Funk for fiscal years 2017 and 2016 were $1,543 and $1,386, respectively.  
+[END TABLE]
+Potential Payments Upon Termination or Change in Control
+The following table sets forth information concerning potential payments and benefits under our compensation programs and benefit plans, including individual employment agreements, to which the NEOs would be entitled upon a termination of employment as of December 31, 2018. Except for payments and benefits provided by the employment agreements, all payments and benefits provided to any NEO upon termination of employment are the same as the payments and benefits provided to other eligible employees of MidWestOne Financial. For purposes of estimating the value of certain equity awards we have assumed a price per share of our common stock of $24.83, which was the closing price of our stock on December 31, 2018, the last trading day of the year. Table of Contents
+[BEGIN TABLE]
+    Cash Severance Payments   Equity Incentive Plan (1)   SERP   
+Charles N. Funk               
+Involuntary Termination(2)   $ 546,250     $ —     $ 2,033   (3)  
+Involuntary Termination in Connection with Change in Control(4)   1,461,220     310,375     2,033   (3)  
+Disability, Retirement or Change in Control(4)   —     310,375     2,033   (3)  
+Death   —     310,375     2,083   (5)  
+Kevin E. Kramer               
+Involuntary Termination(2)   $ 330,000     $ —     $ —     
+Involuntary Termination in Connection with Change in Control(4)   840,840     160,154     —     
+Death, Disability, Retirement or Change in Control(4)   —     160,154     —     
+Barry S. Ray               
+Involuntary Termination(2)   $ 280,000     $ —     $ —     
+Involuntary Termination in Connection with Change in Control(4)   673,324     198,640     —     
+Death, Disability, Retirement or Change in Control(4)   —     198,640     —     
+Mitchell W. Cook               
+Involuntary Termination(2)   $ 107,250     $ —     $ 60,000   (6)  
+Involuntary Termination in Connection with Change in Control(4)   144,069     63,317     60,000   (6)  
+Retirement or Change in Control(4)   —     63,317     60,000   (6)  
+Death or Disability   —     63,317     60,000   (7)  
+James M. Cantrell               
+Involuntary Termination(2)   $ 222,200     $ —     $ —     
+Involuntary Termination in Connection with Change in Control(4)   602,386     11,114     —     
+Disability, Retirement or Change in Control(4)   —     11,114     —     
+David E. Lindstrom               
+Involuntary Termination(2)   $ —     $ —     $ —     
+Involuntary Termination in Connection with Change in Control(4)   353,138     49,660     —     
+Disability, Retirement or Change in Control(4)   —     49,660     —     
+(1) This column reflects the value of unvested restricted stock unit awards that would vest (a) upon the executive's death or disability, (b) in connection with the executive's normal retirement (where approved by the Compensation Committee), or (c) in connection with a change in control if either the awards were not assumed and continued by the surviving organization or the executive had an Involuntary Termination. 
+(2) "Involuntary Termination" refers to a voluntary resignation by the executive for "good reason" or an involuntary termination by MidWestOne Financial other than for "cause" either of which occurs other than in connection with a change in control. 
+(3)  The amount reflected here is the reduced "early retirement" monthly benefit that would be paid to Mr. Funk in a series of 180 installments if his employment with the Company terminated other than for "cause" as of December 31, 2018.  
+(4) The employment agreements with our named executive officers include a provision that will limit the amount of payments or benefits received by an NEO in connection with a change in control to $1.00 less than the amount that would result in the application of an excise tax under applicable provisions of sections 280G and 4999 of the Internal Revenue Code. 
+(5) The amount reflected here is the "normal retirement" monthly benefit that would be paid to Mr. Funk's estate in a series of 180 installments if his employment with the Company terminated due to his death as of December 31, 2018. 
+(6) The amount reflected here would be paid to Mr. Cook upon a termination of employment during 2018 other than a termination by the Company for "cause" or Mr. Cook's death or disability. The amount would be paid in quarterly installments commencing the calendar quarter following termination and continuing for five years. 
+(7) The amount reflected here would be paid to Mr. Cook upon a termination of employment during 2018 as a result of his death or disability. The amount would be paid in quarterly installments commencing the calendar quarter following termination and continuing for five years. 
+[END TABLE]
+ Table of Contents
+Continued Health, Dental, and Vision Insurance. Pursuant to each applicable agreement, if an NEO terminated employment on December 31, 2018, he would be eligible to participate in our COBRA coverage program at the same monthly cost as would be charged to a continuing employee for comparable coverage. As of December 31, 2018, the incremental monthly cost of the continuing health dental, and vision coverage, based on each executive's current coverage elections, was $360.70 for Mr. Funk, $478.80 for Mr. Kramer, $225.94 for Mr. Ray, $264.96 for Mr. Cantrell, $381.92 for Mr. Cook, and $380.56 for Mr. Lindstrom. 
+Accrued Pay and Regular Retirement Benefits. The NEOs would be eligible to receive payments and benefits to the extent they are provided on a non-discriminatory basis to salaried employees generally upon termination of employment. These include:
+[BEGIN TABLE]
+• Accrued salary and PTO pay. 
+• Distributions of plan balances under our 401(k) plan and the executive deferred compensation plan. See "Nonqualified Deferred Compensation Table" on page 26 for information on current account balances and an overview of the deferred compensation plan. 
+[END TABLE]
+Retirement, Death and Disability. Generally speaking, and except as described with respect to the supplemental retirement benefits, a termination of employment due to retirement, death or disability does not entitle the NEOs to any payments or benefits that are not available to other employees. Following a termination due to death or disability, an employee (or his or her estate) shall be entitled to the following:
+[BEGIN TABLE]
+• All unvested stock options shall become immediately 100% vested and an employee shall have a period of one (1) year following such termination during which to exercise his or her vested stock options. 
+• Any unvested restricted stock units outstanding at the time of an employee's termination due to death or disability shall become immediately 100% vested upon such termination. 
+[END TABLE]
+As of the time of a termination of employment due to retirement at or after attaining age 65, all unvested stock options shall become immediately 100% vested.
+Employment Agreements - Messrs. Funk, Kramer, Ray, and Cantrell have entered into employment agreements with the Company that are substantially similar in form.
+The current term of the employment agreements for Messrs. Funk, Cantrell, and Kramer extends through December 31, 2019. Mr. Ray's employment agreement extends through December 31, 2020. Upon the occurrence of a change in control, the agreements will automatically remain in effect for two years following the change in control and will then terminate.
+The employment agreements provide for annual base salaries in place as of the execution of the agreements to be reviewed annually and may be adjusted at the discretion of the board. The agreements provide that the executives will be eligible to receive performance-based annual incentive bonuses, in accordance with MidWestOne Financial's annual incentive plan, and also to receive employee benefits on as favorable a basis as other similarly situated senior executives of MidWestOne Financial. The executives are also permitted to use a Company-provided automobile.
+The employment agreements provide for severance benefits in the event the executive is terminated by MidWestOne Financial other than for cause or by the executive for good reason ("Termination"). For a Termination during the employment period that does not occur in connection with a change in control of MidWestOne Financial, Mr. Funk would be entitled to receive an amount equal to 125% of his base salary and Messrs. Kramer, Ray, and Cantrell would be entitled to receive an amount equal to 100% of their base salary. For a Termination that occurs within six months before or within 24 months after a change in control of MidWestOne Financial ("Covered Period"), Mr. Funk would be entitled to receive an amount equal to 250% of his base salary plus bonus ("Base Compensation"), Messrs. Kramer, Ray, and Cantrell would be entitled to receive an amount equal to 200% of their Base Compensation. Any severance paid in connection with a Termination during a Covered Period would be paid in a single lump sum.
+Following any Termination, whether or not occurring during a Covered Period, the executives and their eligible dependents would also be entitled to continued coverage under the medical, dental, and vision plans of MidWestOne Financial for so long as each was eligible to and did elect COBRA continuation coverage. Each executive would be required to pay an amount for such coverage that is the same as what an active employee pays for such coverage. Table of Contents
+All severance benefits under the employment agreements are contingent upon the executive's execution and non-revocation of a general release and waiver of claims against MidWestOne Financial. Further, all of the employment agreements contain restrictive covenants prohibiting the unauthorized disclosure of confidential information of MidWestOne Financial by the executives during and after their employment with MidWestOne Financial, and prohibiting the executives from competing with MidWestOne Financial and from soliciting its employees or customers during employment and after termination of employment for any reason. The non-competition and non-solicitation provisions apply for a period of 15 months following any termination of employment.
+Employment Agreement - Mr. Cook. Mr. Cook is a party to an employment agreement with the Company that became effective on May 11, 2017 and extended through December 31, 2018. Beginning on January 1, 2019, the term of the agreement automatically extends for one-year periods unless either party elects not to renew. Upon the occurrence of a change in control, the agreement will automatically remain in effect for two years and will then terminate.
+Mr. Cook's agreement provides for an annual base salary to be reviewed annually and may be adjusted at the discretion of the board with eligibility to receive a performance-based annual incentive bonus and employee benefits on as favorable a basis as other similarly situated senior executives of MidWestOne Financial. Mr. Cook is permitted to use a Company-provided automobile.
+The employment agreement also provides for a severance benefit in the event of Mr. Cook's Termination. For a Termination that does not occur in connection with a change in control, Mr. Cook would be entitled to receive an amount equal to 50% of his annual base salary. For a Termination that occurs within a Covered Period, Mr. Cook would be entitled to receive an amount equal to 50% of his base salary plus bonus paid in a single lump sum.
+Mr. Cook's agreement also provides him and his eligible dependents, the opportunity to receive continued coverage under the medical, dental, and vision plans of MidWestOne Financial for so long as each was eligible to and did elect COBRA continuation coverage. Like the other NEOs, Mr. Cook would be required to pay an amount for such coverage that is the same as what an active employee pays for such coverage.
+Mr. Cook's severance benefit is contingent upon his execution and non-revocation of a general release and waiver of claims against MidWestOne Financial. Further, his employment agreement contains restrictive covenants prohibiting the unauthorized disclosure of confidential information of MidWestOne Financial and prohibiting him from competing with MidWestOne Financial or from soliciting its employees or customers. The duration of the restrictive covenants vary from 45 days to 12 months following a termination of employment.
+Change In Control Agreement - Mr. Lindstrom. Mr. Lindstrom is a party to a change in control agreement with the Company which became effective in conjunction with his acceptance of employment in 2018. The agreement provides for the payment of a severance benefit where the executive is terminated by the Company (or a successor) without cause or resigns for good reason within six months prior to or twelve months following a change in control. The severance benefit is equal to one hundred twenty-five percent of the sum of the executive's then-current base salary and the incentive bonus paid for the prior year. Mr. Lindstrom would be permitted to participate in COBRA coverage at the same cost as if he had remained employed by the Company. The agreement also requires the execution of a release of claims prior to the receipt of claims prior to receipt of any severance benefit and also contains a twelve-month non-solicitation provision
+DIRECTOR COMPENSATION
+The 2018 Director Fee Schedule was approved by the Committee with an effective date of April 1, 2018. Mr. Monson was MidWestOne's Chairman and as such, received a retainer fee of $6,250 per quarter and $1,250 for each regular board meeting attended in person. Each non-employee director was paid a retainer fee of $5,000 per quarter and $1,250 for each regular board meeting attended. Directors were entitled to $600 for each Audit Committee, Compensation Committee, and Nominating and Corporate Governance Committee meeting attended.  The Chair of the Audit Committee was entitled to a retainer of $1,250 per quarter and $600 for each meeting. The Chairs of the Compensation and Nominating and Corporate Governance Committees were entitled to a retainer of $1,000 per quarter and $250 for each meeting. The Committee approved a grant of 440 restricted stock units in 2018 for all non-executive directors.
+None of the directors receives any compensation or payment in connection with his or her service as a director other than compensation received by the Company as set forth below. Table of Contents
+The following table shows compensation information for MidWestOne Financial's directors who received director fees in 2018.
+[BEGIN TABLE]
+Name(1)   Fees Earned or Paid in Cash ($)   Stock Awards ($)(2)   Option Awards ($)   Change in Pension Value and Nonqualified Deferred Compensation Earnings(3)   All Other Compensation ($)(4)   Total ($) 
+(a)   (b)   (c)   (d)   (e)   (f)   (g) 
+Larry D. Albert(5)   $ 6,250     $ 14,564     $ —     $ —     $ 24,450     $ 45,264   
+Richard R. Donohue   41,000     14,564     —     8,249     10,600     74,413   
+Michael A. Hatch(6)   26,950     14,564     —     —     —     41,514   
+Nathaniel J. Kaeding(7)   23,433     14,564     —           6,600     44,597   
+Tracy S. McCormick   40,400     14,564     —     —     9,250     64,214   
+Kevin W. Monson   31,250     14,564     —     —     10,750     56,564   
+John M. Morrison(8)   17,500     14,564     —     —     —     32,064   
+Richard J. Schwab   38,450     14,564     —     —     11,400     64,414   
+Ruth E. Stanoch   30,000     14,564     —     —     9,150     53,714   
+Douglas K. True   37,200     14,564     —     —     9,600     61,364   
+Kurt R. Weise   27,000     14,564     —     —     9,050     50,614   
+Stephen L. West(9)   9,167     —     —     —     2,400     11,567   
+R. Scott Zaiser   27,600     14,564     —     2,298     9,600     54,062   
+(1) As our President and Chief Executive Officer, Mr. Funk receives no additional compensation for service on our board of directors. His compensation is included in the Executive Compensation section of this proxy statement found on pages 23 to 29. 
+(2) The amounts set forth in the "Stock Awards" column reflect the grant date fair value of restricted stock units awarded on May 15, 2018 valued in accordance with FASB ASC Topic 718. For Mr. Morrison, the Compensation Committee approved accelerating the vesting of restricted stock units for his retirement subject to the provisions of the award agreement. 
+(3) Amounts reported include above-market interest, as determined for purposes of proxy disclosure rules only, accrued under the Director Deferred Fee Plan during the year. 
+(4) These amounts include fees, if any, for service on the board of directors of MidWestOne Bank. 
+(5) Mr. Albert joined the board in October 2018. 
+(6) Mr. Hatch retired from the board in December 2018. 
+(7) Mr. Kaeding joined the board in April 2018. 
+(8) Mr. Morrison retired from the board in October 2018 
+(9) Mr. West retired from the board in April 2018. 
+[END TABLE]
+The table below summarizes each non-employee director's outstanding equity awards as of December 31, 2018.
+[BEGIN TABLE]
+        Option Awards 
+Name   Stock Awards   Exercisable   Unexercisable 
+Larry D. Albert   440     —     —   
+Richard R. Donohue   440     —     —   
+Michael A. Hatch   440     —     —   
+Nathaniel J. Kaeding   440     —     —   
+Tracy S. McCormick   440     —     —   
+Kevin W. Monson   440     —     —   
+John M. Morrison   —     —     —   
+Richard J. Schwab   440     —     —   
+Ruth E. Stanoch   440     —     —   
+Douglas K. True   440     —     —   
+Kurt R. Weise(1)   1,565     —     —   
+Stephen L. West   —     —     —   
+R. Scott Zaiser   440     —     —   
+(1) Amount for Mr. Weise includes outstanding employee equity awards. 
+[END TABLE]
+ Table of Contents
+Compensation Committee Interlocks and Insider Participation
+As discussed earlier, prior to the annual meeting in 2018, the Compensation Committee of MidWestOne Financial was comprised of Ms. McCormick (Chairperson), Ms. Stanoch and Messrs. West, Hatch, and True. Following the 2018 annual meeting of shareholders, the Compensation Committee of MidWestOne Financial was comprised of Ms. McCormick (Chairperson), Ms. Stanoch, and Messrs. Hatch and True. Mr. West left the committee upon his retirement from the board of directors in April 2018, and Mr. Hatch resigned as a director as of December 31, 2018. Ms. Hauschildt joined the Committee in January 2019. None of these individuals were an officer or employee of MidWestOne Financial or its subsidiaries in 2018, and none of these individuals is a former officer or employee of the organization. In addition, no executive officer served on the board of directors or compensation committee of any other corporation with respect to which any member of our Compensation Committee of the board of directors was engaged as an executive officer
+. Table of Contents
+PROPOSAL 2:
+APPROVAL, ON A NON-BINDING, ADVISORY BASIS, OF EXECUTIVE COMPENSATION
+As required by Section 14A of the Exchange Act, MidWestOne Financial is conducting a separate shareholder advisory vote to approve the compensation of the registrant's named executive officers, as disclosed pursuant to the SEC's compensation disclosure rules, commonly referred to as a "say-on-pay" vote. MidWestOne Financial currently conducts the "say-on-pay" vote every year.
+As described in more detail in the CD&A section of this proxy statement, the overall objectives of MidWestOne Financial's compensation programs have been to align executive officer compensation with the success of meeting long-term strategic operating and financial goals. Shareholders are urged to read carefully the CD&A section of this proxy statement, as well as the Summary Compensation Table and other related compensation tables and narrative disclosure that describe the compensation of our NEOs in 2018. The Compensation Committee and our board of directors believe that the policies and procedures articulated in the CD&A section are effective in implementing our compensation philosophy and achieving our goals, and that the compensation of our NEOs in 2018 reflects and supports these compensation policies and procedures.
+The following resolution is submitted for shareholder approval:
+"RESOLVED, that MidWestOne Financial Group, Inc.'s shareholders approve, on an advisory basis, the compensation of the Company's named executive officers, as described in the section captioned 'Compensation Discussion and Analysis' and the tabular disclosure and narrative discussion regarding named executive officer compensation under 'Executive Compensation' contained in the Company's proxy statement dated March 8, 2019."
+Approval of this resolution requires that the number of votes cast in favor of the resolution at the annual meeting exceed the number of votes cast against it. While this say-on-pay vote is required as provided in Section 14A of the Exchange Act, it is not binding on the Compensation Committee or our board of directors and may not be construed as overruling any decision by the Compensation Committee or our board. However, the Compensation Committee will take into account the outcome of the vote when considering future compensation arrangements.
+The board of directors recommends shareholders vote to approve the overall compensation of our NEOs, as described in this proxy statement, by voting "for" this proposal. Proxies properly submitted will be voted "for" this proposal unless shareholders specify otherwise. Table of Contents
+PROPOSAL 3:
+RATIFICATION OF APPOINTMENT OF 
+INDEPENDENT REGISTERED PUBLIC ACCOUNTING FIRM
+Shareholders are also being asked to adopt a resolution to ratify the appointment of RSM US LLP as our independent registered public accounting firm for the year ending December 31, 2019. If the appointment of RSM US LLP is not ratified by shareholders, the matter of the appointment of an independent registered public accounting firm will be considered by the Audit Committee and our board of directors. A representative from RSM US LLP is expected to be present at the annual meeting and will have an opportunity to make a statement if he or she so desires, as well as to respond to appropriate questions that may be asked by shareholders.
+The board of directors recommends that shareholders vote "for" the proposal to ratify the appointment of RSM US LLP as our independent auditors for the year ending December 31, 2019. Proxies properly submitted will be voted "for" this proposal unless shareholders specify otherwise.
+Accountant Fees
+During the period covering the fiscal years ended December 31, 2018 and 2017, RSM US LLP performed the following professional services for the Company for which we paid the following amounts.
+[BEGIN TABLE]
+      2018   2017 
+Audit Fees(1)   $ 461,646     $ 439,342   
+Audit-Related Fees(2)   38,912     119,251   
+Tax Fees(3)   72,404     116,099   
+All Other Fees(4)   —     1,500   
+Total Fees   $ 572,962     $ 676,192   
+(1) Audit fees consist of fees for professional services provided for the audit of the Company's annual financial statements and review of financial statements included in the Company's Quarterly Reports on Form 10-Q, Annual Report on Form 10-K and related proxy statement and services normally provided by the independent auditor in connection with statutory and regulatory filings or engagements. 
+(2) Audit-related fees represent assurance and related services that are reasonably related to the performance of the audit or review of the Company's financial statements. 
+(3) Tax fees represent fees for professional services related to tax compliance, preparation of original federal and state tax returns, claims for refunds, tax advice, and tax planning services. 
+(4) The aggregate other fees billed to the Company by RSM US LLP for the fiscal year ended December 31, 2017 related to preparation of the Company's 2016 Form 5500. 
+[END TABLE]
+Audit Committee Pre-Approval Policy
+Among other things, the Audit Committee is responsible for appointing, setting compensation for and overseeing the work of the independent registered public accounting firm. The Audit Committee's policy is to pre-approve all audit and permissible non-audit services provided by its independent auditors, and all such services provided in 2017 and 2018 were approved. These services include audit and audit-related services, tax services, and other services. The Audit Committee may also pre-approve particular services on a case-by-case basis that the committee had not already specifically approved. Table of Contents
+SECURITY OWNERSHIP OF CERTAIN BENEFICIAL OWNERS AND MANAGEMENT
+The following table sets forth certain information with respect to the beneficial ownership of our common stock at February 14, 2019, by each director, nominee, and NEO, and by all directors and executive officers of MidWestOne Financial as a group. Beneficial ownership has been determined for this purpose in accordance with Rule 13d-3 under the Exchange Act, under which a person is deemed to be the beneficial owner of securities if he or she has or shares voting power or investment power in respect of such securities or has the right to acquire beneficial ownership of securities within 60 days of February 14, 2019. For purposes of calculating each person's percentage ownership, common stock issuable pursuant to options exercisable and restricted stock unit awards that are unvested but will settle within 60 days are included as outstanding and beneficially owned for that person or group, but are not deemed outstanding for the purposes of computing the percentage ownership of any other person. The address of each person included in the table is 102 South Clinton Street, Iowa City, Iowa 52240.
+[BEGIN TABLE]
+Name of Individual or Number of Individuals in Group  Amount and Nature of Beneficial Ownership (1)  Percent of Class(2)
+Name of Individual or Number of Individuals in Group  Amount and Nature of Beneficial Ownership (1)  Percent of Class(2)
+Directors and Nominees:         
+Charles N. Funk   103,110   (3)  *   
+Larry D. Albert   9,189   (4)  *   
+Richard R. Donohue   34,974   (5)  *   
+Janet E. Godwin   —     —   
+Jennifer L. Hauschildt   —     —   
+Matthew J. Hayek   1,260     *   
+Nathaniel J. Kaeding   150     *   
+Tracy S. McCormick   83,904     *   
+Kevin W. Monson   82,512     *   
+Richard J. Schwab   2,400   (6)  *   
+Ruth E. Stanoch   2,600     *   
+Douglas K. True   2,000   (7)  *   
+Kurt R. Weise   30,300   (8)  *   
+R. Scott Zaiser   11,949   (9)  *   
+Other Named Executive Officers         
+Kevin E. Kramer   3,713   (10)  *   
+Barry S. Ray   —     —   
+James M. Cantrell   11,375   (11)  *   
+Mitchell W. Cook   21,711   (12)  *   
+David E. Lindstrom   —     —   
+All directors, nominees and executive officers as a group (18 persons)   401,147     3.3% 
+(1) The information contained in this column is based upon information furnished to us by the persons named above and as shown on our transfer records. The nature of beneficial ownership for shares shown in this column, unless otherwise noted, represents sole voting and investment power. 
+(2) The total number of shares of common stock issued and outstanding on February 14, 2019, was 12,149,226. 
+(3) Includes 4,331 shares allocated to his ESOP account, 93,779 shares for which Mr. Funk shares voting and investment power with his spouse, and 5,000 restricted stock unit awards that are unvested but will settle within 60 days of February 14, 2019. 
+(4) Includes 9,189 shares for which Mr. Albert shares voting and investment power with his spouse. 
+(5) Includes 20,469 shares owned by Mr. Donohue's spouse. 
+(6) Includes 2,400 shares held in an IRA for Mr. Schwab. 
+(7) Includes 1,600 shares for which Mr. True shares voting and investment power with his spouse. 
+(8) Includes 14,500 shares owned by Mr. Weise's spouse, 14,000 shares held in his revocable trust, 487 shares allocated to his ESOP account, and 375 restricted stock unit awards that are unvested but will settle within 60 days of February 14, 2019. 
+(9) Includes 121 shares owned by a corporation over which Mr. Zaiser has control. Also includes 9,000 shares pledged for collateral on a loan from MidWestOne Bank. 
+[END TABLE]
+ Table of Contents
+[BEGIN TABLE]
+(10) Includes 1,000 shares held in his IRA, 815 shares for which Mr. Kramer shares voting and investment power with his spouse, and 1,550 restricted stock unit awards that are unvested but will settle within 60 days of February 14, 2019. 
+(11) Includes 500 shares held in his IRA and 2,187 shares allocated to his ESOP account. Also includes 6,988 shares for which Mr. Cantrell shares voting and investment power with his spouse and 1,700 restricted stock unit awards that are unvested but will settle within 60 days of February 14, 2019.  
+(12) Includes 636 shares allocated to his ESOP account. Also includes 20,350 shares for which Mr. Cook shares voting and investment power with his spouse and 725 restricted stock unit awards that are unvested but will settle within 60 days of February 14, 2019. 
+[END TABLE]
+Other Beneficial Owners
+The following table sets forth certain information on each person known to the Company to be the beneficial owner of more than 5% of the Company's common stock. 
+[BEGIN TABLE]
+Name and Address   Amount and Nature of Beneficial Ownership  Percent of Class(1)
+Name and Address   Amount and Nature of Beneficial Ownership  Percent of Class(1)
+John S. Koza 209 Lexington Avenue Iowa City, Iowa 52246  822,400   (2)  6.8% 
+Royce & Associates, LP 745 Fifth Avenue New York, New York 10151  616,372   (3)  5.1% 
+Royce & Associates, LP 745 Fifth Avenue New York, New York 10151  616,372   (3)  5.1% 
+(3) Based on a Schedule 13G filed with the SEC on January 15, 2019. 
+[END TABLE]
+SECTION 16(a) BENEFICIAL OWNERSHIP REPORTING COMPLIANCE
+Section 16(a) of the Exchange Act requires that our executive officers, directors and persons who own more than 10% of our common stock file reports of ownership and changes in ownership with the SEC. They are also required to furnish us with copies of all Section 16(a) forms they file. Based solely on our review of the copies of such forms and, if appropriate, representations made to us by any reporting person concerning whether a Form 5 was required to be filed for 2018, we are not aware that any of our directors, executive officers or 10% shareholders failed to comply with the filing requirements of Section 16(a) during 2018, except for Mr. Funk, a director and President and Chief Executive Officer of MidWestOne Financial, who filed a late Form 4 with respect to one transaction.
+CERTAIN RELATIONSHIPS AND RELATED-PERSON TRANSACTIONS
+Our directors and executive officers and their associates were customers of, and had transactions with, MidWestOne Financial and our subsidiaries in the ordinary course of business during 2018. Additional transactions may be expected to take place in the future. All outstanding loans, commitments to loan, transactions in repurchase agreements, certificates of deposit and depository relationships were in the ordinary course of business and were made on substantially the same terms, including interest rates, collateral and repayment terms on the extension of credit, as those prevailing at the time for comparable transactions with other persons not related to MidWestOne Financial or MidWestOne Bank, and did not involve more than the normal risk of collectibility or present other unfavorable features. All such loans are approved by MidWestOne Bank's board of directors in accordance with bank regulatory requirements. Additionally, the Audit Committee considers other non-lending transactions between a director and MidWestOne Financial, including its subsidiaries, to ensure that such transactions do not affect a director's independence.
+Additionally, pursuant to the Audit Committee's written charter, the committee evaluates and pre-approves any non‑lending, material transaction between MidWestOne Financial and any director or officer. The charter does not provide any thresholds as to when a proposed transaction needs to be pre-approved, but the committee evaluates those proposed transactions that may affect a director's independence or create a perception that the transaction was not fair to MidWestOne Financial or not done at arm's length. Generally, transactions which would not require disclosure in our proxy statement under SEC rules and regulations (without regard to the amount involved) do not require the committee's pre-approval. A director may not participate  Table of Contents in any discussion or approval by the committee of any related-party transaction with respect to which he or she is a related party, but must provide to the committee all material information reasonably requested concerning the transaction.
+In December 2018, Kevin W. Monson, Chairman of the Board of the Company and the Bank, as manager and member of a limited liability company, purchased from the Company a former office building in Iowa City, Iowa, which had been used for overflow office space by the Company, for the amount of $1.4 million. In accordance with Company policy requirements, the transaction and supporting valuation documentation was reviewed and received pre-approval from the Audit Committee at their meeting on November 13, 2018.
+EQUITY COMPENSATION PLAN INFORMATION
+The table below sets forth the following information as of December 31, 2018 for: (i) all equity compensation plans previously approved by our shareholders; and (ii) all equity compensation plans not previously approved by our shareholders:
+[BEGIN TABLE]
+(a) the number of securities to be issued upon the exercise of outstanding options, warrants and rights; 
+(b) the weighted-average exercise price of such outstanding options, warrants and rights; and 
+(c) other than securities to be issued upon the exercise of such outstanding options, warrants and rights, the number of securities remaining available for future issuance under the plans. 
+[END TABLE]
+Additional information regarding stock option plans is presented in Note 15 - Stock Compensation Plans in the notes to our consolidated financial statements, which are included in our Annual Report on Form 10-K for the year ended December 31, 2018.
+[BEGIN TABLE]
+    Number of securities to be issued upon exercise of outstanding options, warrants and rights (1)   Weighted-average exercise price of outstanding options, warrants and rights (1)   Number of securities remaining available for future issuance under equity compensation plans (excluding securities reflected in column (a)) 
+    (a)   (b)   (c) 
+Equity compensation plans approved by securityholders   83,750     $ —     445,660   
+Equity compensation plans not approved by securityholders   —     —     —   
+Total   83,750     $ —     445,660   
+(1) The number of securities to be issued as shown in column (a) represents no outstanding options and 83,750 nonvested restricted stock units. The weighted-average exercise price shown in column (b) reflects only the weighted-average exercise price of the outstanding options and does not take into account the grant date fair value of the outstanding nonvested restricted stock units. 
+[END TABLE]
+SHAREHOLDER COMMUNICATIONS WITH THE BOARD AND
+NOMINATION AND PROPOSAL PROCEDURES
+General Communications with the Board
+Shareholders may contact MidWestOne Financial's board of directors by contacting the Corporate Secretary at MidWestOne Financial Group, Inc., 102 South Clinton Street, P.O. Box 1700, Iowa City, Iowa 52244-1700 or (319) 356-5800. All communications will be forwarded directly to either the Chairman of the Board, the chairman of the Audit Committee or the Chief Executive Officer, as appropriate, unless they are primarily commercial in nature or related to an improper or irrelevant topic.
+Nominations for Director
+In accordance with our bylaws, a shareholder may nominate a director for election to the board at an annual meeting of shareholders by delivering written notice of the proposed director nomination to our Corporate Secretary, at the above address, not less than 60 days nor more than 90 days in advance of the first anniversary date (month and day) of the previous year's annual meeting (which in the case of the 2020 annual meeting of shareholders, will be no earlier than January 19, 2020, and no later than February 18, 2020). Such nominations must include the following information with respect to each nominee: name; age; business and residential address; principal occupation or employment; the class and number of shares of the Company's stock which are beneficially owned by him or her; and any other information relating to him or her that would be required to be disclosed on  Table of Contents
+Schedule 13D pursuant to regulations under the Exchange Act and pursuant to Regulation 14A under the Exchange Act. In addition, the following information about the shareholder making the nomination must be included: name and address; name and principal address of any other beneficial shareholders known by him or her to support the shareholder's nominee; and the class and number of shares of MidWestOne Financial's stock which are beneficially owned by all such persons. Our board of directors may reject any nomination by a shareholder, and the proposed nomination will not be accepted if presented at the shareholder meeting, if such nomination is not timely made in accordance with the foregoing requirements. 
+Other Shareholder Proposals
+In accordance with our bylaws, a shareholder may propose other business to be considered at an annual meeting of shareholders by delivering written notice of the proposed business to our Corporate Secretary, at the above address, not less than 60 days nor more than 90 days in advance of the first anniversary date (month and day) of the previous year's annual meeting (which in the case of the 2020 annual meeting of shareholders, will be no earlier than January 19, 2020, and no later than February 18, 2020). Such notice to the Corporate Secretary must include: a brief description of the business desired to be brought before the annual meeting; the reasons for conducting such business at the annual meeting; any material interest in such business of such shareholder; and the beneficial owner, if any, on whose behalf the proposal is made. In addition, the following information about the shareholder making the proposal must be included: name and address of the shareholder and any other beneficial owner on whose behalf the proposal is brought; and the class and number of shares of MidWestOne Financial's capital stock that are owned beneficially and of record by all such persons. Our board of directors may reject any proposal by a shareholder, and the proposal will not be accepted if presented at the shareholder meeting, if such proposal is not timely made in accordance with the foregoing requirements. 
+For all other shareholder proposals to be considered for inclusion in our proxy statement and form of proxy relating to our annual meeting of shareholders to be held in 2020, shareholder proposals must be received by our Corporate Secretary, at the above address, no later than 120 calendar days before the date our proxy statement was released to shareholders in connection with the 2019 annual shareholders meeting (which will be November 19, 2019), and must otherwise comply with the rules and regulations set forth by the SEC.
+ANNUAL REPORT AND FINANCIAL STATEMENTS; OTHER INFORMATION
+A copy of our Annual Report on Form 10-K for the year ended December 31, 2018, which includes our financial statements as of and for the year ended December 31, 2018, preceded or accompanies this proxy statement. 
+If you would like a copy of our corporate governance guidelines, board committee charters or our Code of Business Conduct and Ethics, we will send you one without charge. Please write to:
+Mr. Kenneth R. Urmie
+Corporate Secretary
+MidWestOne Financial Group, Inc.
+102 South Clinton St.
+P.O. Box 1700
+Iowa City, Iowa 52244-1700
+* * * * *
+ALL SHAREHOLDERS ARE URGED TO SIGN, DATE AND MAIL THEIR PROXIES, VOTE BY TELEPHONE OR VOTE BY INTERNET, AS DESCRIBED IN THE NOTICE, PROMPTLY.  

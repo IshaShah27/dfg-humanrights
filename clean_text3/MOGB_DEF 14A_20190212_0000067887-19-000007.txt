@@ -1,0 +1,1021 @@
+
+INFORMATION REQUIRED IN PROXY STATEMENT
+SCHEDULE 14A INFORMATION
+Proxy Statement Pursuant to Section 14(a) of the Securities Exchange Act of 1934
+(Amendment No.    )
+Filed by the Registrant  n                    Filed by a Party other than the Registrant  ☐
+Check the appropriate box:
+[BEGIN TABLE]
+☐ Preliminary Proxy Statement 
+☐ Confidential, for Use of the Commission Only (as permitted by Rule 14a-6(e)(2)) 
+n Definitive Proxy Statement 
+☐ Definitive Additional Materials 
+☐ Soliciting Material Pursuant to §240.14a-12 
+[END TABLE]
+Moog Inc.
+(Name of Registrant as Specified In Its Charter)
+(Name of Person(s) Filing Proxy Statement, if other than the Registrant)
+Payment of Filing Fee (Check the appropriate box):
+[BEGIN TABLE]
+n No fee required. 
+☐ Fee computed on table below per Exchange Act Rules 14a-6(i)(1) and 0-11. 
+    1)      Title of each class of securities to which transaction applies: 
+    2)      Aggregate number of securities to which transaction applies: 
+    3)      Per unit price or other underlying value of transaction computed pursuant to Exchange Act Rule 0-11 (set forth the amount on which the filing fee is calculated and state how it was determined): 
+    4)      Proposed maximum aggregate value of transaction: 
+    5)      Total fee paid: 
+☐ Fee paid previously with preliminary materials. 
+☐ Check box if any part of the fee is offset as provided by Exchange Act Rule 0-11(a)(2) and identify the filing for which the offsetting fee was paid previously. Identify the previous filing by registration statement number, or the Form or Schedule and the date of its filing. 
+    1)      Amount Previously Paid: 
+    2)      Form, Schedule or Registration Statement No.: 
+    3)      Filing Party: 
+    4)      Date Filed: 
+[END TABLE]
+EAST AURORA, NEW YORK 14052
+PROXY STATEMENT
+NOTICE OF ANNUAL MEETING OF SHAREHOLDERS
+TO BE HELD ON FEBRUARY 12, 2019 
+AT THE ALFOND INN
+300 E. NEW ENGLAND AVENUE, WINTER PARK, FLORIDA 32789 
+ TABLE OF CONTENTS                             
+[BEGIN TABLE]
+NOTICE OF ANNUAL MEETING OF SHAREHOLDERS 1 
+GENERAL INFORMATION 2 
+RECORD DATE AND OUTSTANDING SHARES 2 
+VOTING RIGHTS AND INSTRUCTIONS 2 
+CERTAIN BENEFICIAL OWNERS 4 
+Security Ownership - Over 5% of Class 4 
+Security Ownership - Directors and Officers 5 
+PROPOSAL 1 - ELECTION OF DIRECTORS 6 
+Nominees for Election as Directors at the Annual Meeting 6 
+Directors with Terms Continuing Beyond Annual Meeting 7 
+CORPORATE GOVERNANCE 8 
+COMPENSATION OF DIRECTORS 13 
+2018 DIRECTOR COMPENSATION 13 
+COMPENSATION DISCUSSION AND ANALYSIS 15 
+Introduction 15 
+Executive Summary 15 
+Compensation Philosophy and Objectives 16 
+Roles and Governance 16 
+Market Assessment 17 
+Direct Compensation Components of the Executive Compensation Program 18 
+Other Benefits and Perquisites  19 
+Competitive Analysis of Total Direct Compensation  20 
+The Process Used to Determine Compensation 21 
+RISK REVIEW 23 
+THE EXECUTIVE COMPENSATION COMMITTEE REPORT 23 
+2018 EXECUTIVE COMPENSATION DATA 24 
+Distinguishing "Awarded" Pay from "Reported" Pay  24 
+2018 SUMMARY COMPENSATION TABLE 25 
+2018 GRANTS OF PLAN-BASED AWARDS 27 
+OUTSTANDING EQUITY AWARDS AT 2018 FISCAL YEAR-END 28 
+2018 OPTION AND SAR EVERCISES AND STOCK VESTED 30 
+EQUITY COMPENSATION PLAN INFORMATION 31 
+PENSION BENEFITS 32 
+2018 PENSION BENEFITS TABLE 34 
+2018 NON-QUALIFIED DEFERRED COMPENSATION 34 
+POTENTIAL PAYMENTS UPON TERMINATION OR CHANGE IN CONTROL 35 
+CEO PAY RATIO 38 
+DIRECTORS AND OFFICERS INDEMNIFICATION INSURANCE 39 
+AUDIT COMMITTEE REPORT 39 
+AUDIT FEES AND PRE-APPROVAL POLICY 40 
+PROPOSAL 2 - RATIFICATION OF INDEPENDENT REGISTERED PUBLIC ACCOUNTING FIRM 40 
+PROPOSALS OF SHAREHOLDERS FOR 2020 ANNUAL MEETING 41 
+[END TABLE]
+East Aurora, New York 14052-0018
+NOTICE OF ANNUAL MEETING OF SHAREHOLDERS
+NOTICE IS HEREBY GIVEN that the Annual Meeting of Shareholders of Moog Inc. will be held in the Alfond Inn, 300 E. New England Avenue, Winter Park, Florida 32789, on Tuesday, February 12, 2019, at 9:00 a.m. EST, for the following purposes:
+1.    To elect two directors of the Company, one of whom will be a Class A director elected by the holders of Class A shares and one of whom will be a Class B director elected by the holders of Class B shares. Both the Class A director as well as the Class B director will serve three-year terms expiring in 2022, or until the election and qualification of their successors.
+2.    To consider and ratify the selection of Ernst & Young LLP, independent registered certified public accountants, as auditors of the Company for the 2019 fiscal year.
+3.    To consider and transact such other business as may properly come before the meeting or any adjournment or adjournments thereof.
+The Board of Directors has fixed the close of business on December 18, 2018 as the record date for determining which shareholders shall be entitled to notice of and to vote at such meeting.
+SHAREHOLDERS WHO WILL BE UNABLE TO BE PRESENT PERSONALLY MAY ATTEND THE MEETING BY PROXY. SHAREHOLDERS WHO WILL VOTE BY PROXY ARE REQUESTED TO DATE, MARK, SIGN AND RETURN THE ENCLOSED PROXY OR USE THE INTERNET OR TELEPHONE VOTING OPTIONS AS DESCRIBED ON THE PROXY CARD. THE PROXY MAY BE REVOKED AT ANY TIME BEFORE IT IS VOTED.
+By Order of the Board of Directors
+ Robert J. Olivieri, Secretary
+Dated: East Aurora, New York
+January 16, 2019 
+IMPORTANT NOTICE REGARDING THE AVAILABILITY OF PROXY MATERIALS FOR THE ANNUAL MEETING OF SHAREHOLDERS TO BE HELD FEBRUARY 12, 2019:
+This Proxy Statement and the 2018 Annual Report to Shareholders are available for review online at http://www.moog.com/investors.
+East Aurora, New York 14052-0018
+PROXY STATEMENT
+FOR THE ANNUAL MEETING OF SHAREHOLDERS
+TO BE HELD IN THE ALFOND INN 
+300 E. NEW ENGLAND AVENUE, WINTER PARK, FLORIDA 32789 
+ON FEBRUARY 12, 2019 
+GENERAL INFORMATION
+This Proxy Statement is furnished to shareholders of record on December 18, 2018 by the Board of Directors of Moog Inc. (the "Company"), in connection with the solicitation of proxies for use at the Annual Meeting of Shareholders on February 12, 2019, at 9:00 a.m. EST, and at any adjournments thereof, for the purposes set forth in the accompanying Notice of Annual Meeting of Shareholders. This Proxy Statement and accompanying proxy will be mailed to shareholders on or about January 16, 2019. 
+If the enclosed form of proxy is properly executed and returned, the shares represented thereby will be voted in accordance with the instructions thereon. Unless otherwise specified, the proxy will be deemed to confer authority to vote the shares represented by the proxy in accordance with the recommendations of the Board of Directors.
+Any proxy given pursuant to this solicitation may be revoked by the person giving it insofar as it has not been exercised. Any revocation may be made in person at the meeting, or by submitting a proxy bearing a date subsequent to that on the proxy to be revoked, or by written notification to the Secretary of the Company, Robert J. Olivieri, c/o Hodgson Russ LLP, The Guaranty Building, 140 Pearl Street, Suite 100, Buffalo, New York 14202. 
+RECORD DATE AND OUTSTANDING SHARES
+The Board of Directors has fixed the close of business on December 18, 2018 as the record date for determining the holders of common stock entitled to notice of and to vote at the meeting. On December 18, 2018, the Company had outstanding and entitled to vote a total of 32,928,746 shares of Class A common stock ("Class A shares") and 4,146,245 shares of Class B common stock ("Class B shares").
+VOTING RIGHTS AND INSTRUCTIONS
+Holders of a majority of each of the Class A and Class B shares issued and outstanding and entitled to vote, present in person or represented by proxy, will constitute a quorum at the meeting.
+Holders of Class A shares are entitled to elect at least 25% of the Board of Directors, rounded up to the nearest whole number, so long as the number of outstanding Class A shares is at least 10% of the number of outstanding shares of both classes of common stock. Currently, the holders of Class A shares are entitled, as a class, to elect two directors of the Company, and the holders of the Class B shares are entitled, as a class, to elect the remaining six directors. Other than on matters relating to the election of directors or as required by law, where the holders of Class A shares and Class B shares vote as separate classes, the record holder of each outstanding Class A share is entitled to a one-tenth vote per share, and the record holder of each outstanding Class B share is entitled to one vote per share on all matters to be brought before the meeting.
+The Class A  directors and Class B directors will be elected by a plurality of the votes cast by the respective class. The ratification of the auditors and other matters submitted to the meeting that would not require a separate class vote by law may be adopted by a majority of the Class A and Class B shares, voting together as a single class, cast in favor of or against the proposal, a quorum of holders of Class A shares and Class B shares being present.
+Shares held in a brokerage account or by another nominee are considered held in "street name" by the shareholder. A broker or nominee holding shares for a shareholder in "street name" may not vote on matters such as the election of directors, unless the broker or nominee receives specific voting instructions from the shareholder. As a result, absent specific instructions, brokers or nominees may not vote a shareholder's shares on Proposal 1, the election of directors. Such shares will be considered "broker non-votes" for such proposal. Broker non-votes in connection with the election of one or more nominees for director will not constitute a vote cast and will therefore have no effect on the outcome of the vote. In addition, with respect to Proposal 1, the election of directors, a "withhold" vote will not constitute a vote cast and therefore will not affect the outcome of the vote on the election of directors. In accordance with New York law, abstentions and broker non-votes are also not counted in determining the votes cast in favor of or against Proposal 2, the ratification of the selection of Ernst & Young LLP as independent auditors of the Company for the 2019 fiscal year and therefore will not affect the outcome of such vote.
+Therefore, it is particularly important for shareholders holding shares in "street name" to instruct their brokers as to how they wish to vote their shares.
+CERTAIN BENEFICIAL OWNERS
+SECURITY OWNERSHIP — OVER 5% OF CLASS
+The only persons known by the Company to own beneficially more than five percent of the Class A shares or Class B shares as of 12/18/2018 are set forth below.
+[BEGIN TABLE]
+Name and Address of Beneficial Owner   Class A Common Stock  Class B Common Stock (1)
+Name and Address of Beneficial Owner   Class A Common Stock  Class B Common Stock (1)
+Amount and Nature of Beneficial Ownership  Percent of Class  Amount and Nature of Beneficial Ownership  Percent of Class
+Amount and Nature of Beneficial Ownership  Percent of Class  Amount and Nature of Beneficial Ownership  Percent of Class
+  BlackRock, Inc. (2)   5,625,125     17.1   —     — 
+55 East 52nd Street                 
+New York, NY 10055                 
+  FMR LLC (2)   3,261,735     9.9   —     — 
+245 Summer Street                 
+Boston, MA 02210                 
+  The Vanguard Group, Inc. (2)   3,116,898     9.5   —     — 
+100 Vanguard Blvd.                 
+Malvern, PA 19355                 
+  Moog Inc. Retirement Savings Plan "RSP" (3)   —     —   1,412,106     34.1 
+c/o Moog Inc.                 
+Jamison Rd.                 
+East Aurora, NY 14052                 
+Moog Inc. Stock Employee Compensation Trust, as amended "SECT" (2) (4)   425,148     1.3   927,441     22.4 
+c/o Moog Inc.                 
+Jamison Rd.                 
+East Aurora, NY 14052                 
+Moog Inc. Supplemental Retirement Plan Trust, as amended "Trust" (2) (5)   —     —   876,170     21.1 
+c/o Moog Inc.                 
+Jamison Rd.                 
+East Aurora, NY 14052                 
+(2) Holdings are derived from the most recent Schedule 13D or 13G filings and, to the extent applicable, are updated for aggregate positions reported by Bloomberg L.P. based upon the most recent Schedule 13F filings. 
+(3) These shares are allocated to individual participants under the RSP and are voted by Great-West Trust Company, LLC, Greenwood Village, Colorado, the Trustee as of the record date, as directed by the participants to whom such shares are allocated. Any allocated shares as to which voting instructions are not received will be voted in accordance with instructions on the proxy card. As of December 18, 2018, a total of 46,707 of the allocated Class B shares were allocated to accounts of officers and are included in the shares reported in the table on the next page for "All directors and officers as a group." 
+(4) The SECT acquires Class A shares and Class B shares that become available for subsequent use in the RSP or other Moog employee benefit plans. The SECT will terminate on the earlier of (a) the date the SECT no longer holds any assets or (b) a date specified in a written notice given by the Board of Directors to the Trustee. The Trustee of the SECT is Robert T. Brady. The Trustee's powers and rights include, among others, the right to retain or sell SECT assets; borrow from the Company or third party lenders upon direction from an administrative committee and enter into related loan agreements; vote or give consent with respect to securities held by the SECT in the Trustee's sole discretion; employ accountants and advisors as may be reasonably necessary; utilize a custodian to hold, but not manage or invest, assets held by the SECT; and consult with legal counsel. 
+(5) The Trust was established in 1992 as a funding vehicle for the Moog Inc. Plan to Equalize Retirement Income and Supplemental Retirement Plan (the "SERP"), and the assets of the Trust, including the Class B shares held by the Trust, are available to fund the Moog's obligations under the SERP and held for the benefit of the participants of the SERP. The Trustee of the Trust is John B. Drenning. The Trustee has the sole power to direct the vote and to dispose or direct the disposition of all of the 876,170 Class B shares held by the Trust. 
+[END TABLE]
+SECURITY OWNERSHIP – DIRECTORS AND OFFICERS
+The beneficial ownership of each director, each named executive officer ("NEO"), and for "all directors and officers as a group" as of December 18, 2018 is provided in the following table. Unless otherwise indicated, the persons named have sole voting and investment power with respect to the securities beneficially owned. Beneficial ownership includes securities which could be acquired pursuant to currently exercisable stock appreciation rights ("SARs"), or SARs that become exercisable within 60 days of December 18, 2018.
+[BEGIN TABLE]
+  Class A Common StockClass B Common Stock (1)
+  Class A Common StockClass B Common Stock (1)
+  Amount and Nature of Beneficial OwnershipAmount and Nature of Beneficial Ownership
+  Amount and Nature of Beneficial OwnershipAmount and Nature of Beneficial Ownership
+Name of Beneficial Owner Shares Shares Subject to Options/SARs Exercisable within  60 days (2)(3)Total SharesPercent Of ClassShares Shares Subject to Options/SARs Exercisable within  60 days (2)(3) Total SharesPercent  Of Class
+Name of Beneficial Owner Shares Shares Subject to Options/SARs Exercisable within  60 days (2)(3)Total SharesPercent Of ClassShares Shares Subject to Options/SARs Exercisable within  60 days (2)(3) Total SharesPercent  Of Class
+Directors                 
+Donald R. Fishback 46,514   44,591   91,105   * 1,486   1,203   2,689   * 
+William G. Gisel, Jr. —   1,312   1,312   * 3,086   320   3,406   * 
+Peter J. Gundermann (nominee) —   3,539   3,539   * 3,086   320   3,406   * 
+Kraig H. Kayser 24,466   3,539   28,005   * 3,086   320   3,406   * 
+R. Bradley Lawrence (nominee) —   —   —   * 4,086   320   4,406   * 
+Brian J. Lipke 6,853   3,539   10,392   * 3,086   320   3,406   * 
+  Brenda L. Reichelderfer  —   —   —   * 3,086   —   3,086   * 
+John R. Scannell (4) 26,324   55,234   81,558   * 3,907   1,980   5,887   * 
+  Named Executive Officers (5)                 
+  Richard A. Aubrecht (6) 40,860   14,138   54,998   * 79,135   1,203   80,338   1.9 
+Mark J. Trabert 231   1,152   1,383   * 1,762   1,203   2,965   * 
+R. Eric Burghardt 856   5,141   5,997   * 1,762   1,203   2,965   * 
+  All directors and officers as a group (17 persons) (7) 155,431   192,216   347,647   1.1 115,202   12,481   127,683   3.1 
+(1) Class B shares are convertible into Class A shares on a share-for-share basis. 
+(2) Includes shares related to SARs. The number of shares issuable upon exercise of SARs is calculated for net settlement based upon the excess of the market price on December 18, 2018 over the exercise price of the SARs. 
+(3) Excludes performance-based restricted stock units ("PSUs") held but not earned as NEOs may not direct the voting of their PSUs. The number and terms of PSUs awarded to each NEO are provided in greater detail in the Compensation Discussion and Analysis ("CD&A") and 2018 Grant of Plan-Based Awards table. 
+(4) Eileen Scannell, Mr. Scannell's spouse, is the beneficial owner of 26,057 Class A shares, which are not included in the numbers reported. 
+(5) Messrs. Fishback and Scannell are also Named Executive Officers. Beneficial ownership information for each appears under the heading "Directors" above. 
+(6) Nancy Aubrecht, Dr. Aubrecht's spouse, is the beneficial owner of 4,307 Class A shares and 3,708 Class B shares, which are not included in the numbers reported. 
+(7) "All directors and officers as a group" consists of the directors, the NEOs and all other executive officers as of December 18, 2018. Balances do not include shares held by spouses, or as custodian or trustee for minors, as to which beneficial interest has been disclaimed. Certain officers and directors of the Company have entered into an agreement among themselves and with the RSP, the Employee Retirement Plan ("ERP") and the Company, which provides that prior to selling Class B shares obtained through exercise of a non-statutory option, the non-selling officers and directors, the RSP, the ERP and the Company have an option to purchase the shares being sold. 
+[END TABLE]
+SECTION 16(A) BENEFICIAL OWNERSHIP REPORTING COMPLIANCE
+Except as noted below, during fiscal 2018, the executive officers and directors of the Company timely filed with the Securities and Exchange Commission the required reports under Section 16(A) of the Securities Exchange Act of 1934 regarding their beneficial ownership of Company securities. The gifts of Class A shares in November 2017, December 2017, July 2018 and August 2018 as well as the gift of Class B shares in August 2018 by Dr. Aubrecht, a Vice President of the Company, and his spouse, were reported on a late Form 4 filed on November 15, 2018. As a practical matter, the Company assists its officers and directors by monitoring transactions and completing and filing Section 16 reports on their behalf.
+PROPOSAL 1 — ELECTION OF DIRECTORS
+The Board of Directors is comprised of two classes of directors, Class A directors and Class B directors, elected by holders of Class A shares and holders of Class B shares, respectively. Within each class of directors there exist three subclasses, such that each of the subclasses is nearly equal in number.
+Two directors are to be elected at the meeting, of which one is to be a Class A director elected by the holders of the outstanding Class A shares, and of which one is to be a Class B director elected by the holders of the outstanding Class B shares. The two nominees will be elected to hold office for a three year term expiring in 2022, or until the election and qualification of their successors.
+For each properly executed proxy, the persons named in the enclosed proxy will vote Class A shares for the election of the Class A nominee named in the following table, and Class B shares for the election of the Class B nominee named in the following table, unless the proxy directs otherwise or is revoked. In the event any of the nominees should be unable to serve as a director, the proxy will be voted in accordance with the best judgment of the person or persons acting under it. It is not expected that any of the nominees will be unable to serve. Proxies cannot be voted for a greater number of persons than the number of nominees named.
+The Company's current Board of Directors, including the nominees for director, share certain characteristics, experience and capabilities critical to effective board membership. Sound business judgment essential to intelligent and effective decision-making, experience at the policy-making level, relevant educational background, integrity, honesty and the ability to work collaboratively are some of the attributes possessed that qualify them to serve on the Board. The specific employment and leadership experiences, knowledge and capabilities of both the nominees for director and standing directors are further described in their biographies on the following pages.
+Certain information regarding nominees for Class A and Class B directors, as well as those Class A and Class B directors whose terms of office continue beyond the date of the 2019 Annual Meeting of Shareholders, is set forth in the following tables. All of the nominees have previously served as directors and have been elected as directors at prior annual meetings. 
+NOMINEES FOR ELECTION AS DIRECTORS AT THE ANNUAL MEETING
+[BEGIN TABLE]
+Name   Age   First Elected Director  Expiration of Proposed Term  Position 
+Name   Age   First Elected Director  Expiration of Proposed Term  Position 
+Nominees for Class B Director                 
+Peter J. Gundermann   56   2009   2022   Director 
+Nominee for Class A Director                 
+Bradley R. Lawrence   71   2015   2022   Director 
+[END TABLE]
+DIRECTORS WITH TERMS CONTINUING BEYOND ANNUAL MEETING
+[BEGIN TABLE]
+Name   Age   First Elected Director  Expiration of Term  Position 
+Name   Age   First Elected Director  Expiration of Term  Position 
+Class B Directors                 
+Donald R. Fishback   62   2015   2021   Vice President; Chief Financial Officer; and Director  
+William G. Gisel, Jr.   66   2012   2021   Director 
+Brian J. Lipke   67   2003   2021   Director 
+Brenda L. Reichelderfer   60   2016   2020   Director 
+John R. Scannell   55   2012   2020   Chief Executive Officer; Chairman of the Board; and Director  
+Class A Directors                 
+Kraig H. Kayser   58   1998   2020   Director 
+[END TABLE]
+CORPORATE GOVERNANCE
+CORPORATE GOVERNANCE GUIDELINES
+Our Board of Directors and management are committed to effective corporate governance practices. Our Corporate Governance Guidelines describe the governance principles and procedures by which the Board functions. The Board annually reviews the Corporate Governance Guidelines and the Board committee charters in response to corporate governance developments, including regulatory changes, and recommendations by directors in connection with Board and committee evaluations.
+Our Corporate Governance Guidelines and our Board committee charters are available on our website at www.moog.com by selecting Investors and then Corporate Governance. Shareholders may request a free printed copy of our Corporate Governance Guidelines from our Investor Relations department by contacting them by telephone at (716) 687-4225 or by e-mail to investorrelations@moog.com.
+BUSINESS ETHICS CODE OF CONDUCT
+We have a written code of business ethics and conduct which applies to all directors, officers and employees. Our Statement of Business Ethics is available on our website at www.moog.com by selecting Investors and then Corporate Governance Guidelines. Shareholders may request a free printed copy of our Statement of Business Ethics from our Investor Relations department by contacting them by telephone at (716) 687-4225 or by e-mail to investorrelations@moog.com.
+COMMUNICATIONS WITH DIRECTORS
+The Board of Directors has provided a process by which shareholders or other interested parties can communicate with the Board of Directors, with the non-management directors as a group or with the chair of the Board of Directors executive sessions. All such questions or inquiries should be directed to the Secretary of the Company, Robert J. Olivieri, c/o Hodgson Russ LLP, The Guaranty Building, 140 Pearl Street, Suite 100, Buffalo, New York 14202. Mr. Olivieri will review and communicate pertinent inquiries to the Board or, if requested, the non-management directors as a group or the chair of the Board of Directors executive sessions.
+LEADERSHIP STRUCTURE
+John R. Scannell was named Chief Executive Officer in December 2011 and Chairman of the Board in January 2014. The Board has determined that at this time it is in the best interest of the Company and its shareholders for one person to serve as Chairman of the Board and Chief Executive Officer and that it is unnecessary at this time to designate a specific lead independent director. The Company believes this is the appropriate leadership structure because Mr. Scannell is able to employ the experience and perspective gained over the past 28 years in his various roles of increasing responsibility at the Company to guide the Board effectively and efficiently in managing the property, affairs and business of the Company. While the Board believes this is the most appropriate structure at this time, it recognizes that there may be circumstances in the future that would lead to separate individuals serving in each capacity.
+BOARD ROLE IN RISK OVERSIGHT
+The Board is responsible for consideration and oversight of the risks facing the Company, managing this both directly and through standing committees of the Board. The Board is kept informed by various reports provided to it on a regular basis, including reports made by management at the Board and committee meetings. The Audit Committee performs a central oversight role with respect to financial and compliance risks and regularly reviews these risks with the full Board. The Executive Compensation Committee reviews and discusses with management the impact of the Company's compensation policies and practices on risk taking within the Company. The committee roles are discussed in more detail later in this Proxy Statement.
+STOCK OWNERSHIP GUIDELINE
+In August 2018, the Board adopted stock ownership guidelines for the Company's chief executive officer, other members of the Company's management executive team and the directors of the Company. Pursuant to these stock ownership guidelines, each director is expected to own shares of the Company's stock having a value equal to at least three times the annual cash component of his or her director fee. Similarly, pursuant to these stock ownership guidelines, the Company's CEO and the other member of the Company's management executive team are expected to own shares of the Company's stock having a value equal to at least five times and three times, respectively, of his or her annual salary. In calculating stock ownership value, all direct holdings as well as the share value equivalent of vested options and SARs are considered. Currently there is no time limit to achieve the expected level of share ownership pursuant to these stock ownership guidelines.
+DIRECTOR INDEPENDENCE
+Under the independence standards set forth at 303A.02 of the New York Stock Exchange Listed Company Manual, the Board of Directors has affirmatively determined that the non-management directors consisting of Messrs. William G. Gisel, Jr., Peter J. Gundermann, Kraig H. Kayser, Bradley R. Lawrence, Brian J. Lipke, and Ms. Brenda L. Reichelderfer are independent. Under these standards, the Board has also determined that all standing Board committees, other than the Executive Committee, are composed entirely of independent directors.
+EXECUTIVE SESSIONS
+The Company's Corporate Governance Guidelines provide that the non-management directors meet without management at regularly scheduled executive sessions. Generally, these sessions take place prior to, or following, regularly scheduled Board meetings. Each executive session is chaired by an independent director. Kraig H. Kayser was the chair for each of the executive sessions held during fiscal 2018. The Audit Committee meets with the Company's independent auditors in regularly scheduled executive sessions, with the Audit Committee chairperson presiding over such sessions.
+BOARD OF DIRECTORS COMMITTEE MEETINGS AND MEMBERS
+During fiscal 2018, the Board of Directors held eight meetings. The following were the standing committees of the Board of Directors for fiscal 2018 and the number of meetings each committee held during fiscal 2018:
+[BEGIN TABLE]
+Director Audit Committee Executive CommitteeExecutive Compensation Committee Nominating and   Governance   Committee 
+Director Audit Committee Executive CommitteeExecutive Compensation Committee Nominating and   Governance   Committee 
+Richard A. Aubrecht * — M — — 
+Donald R. Fishback — M — — 
+William G. Gisel, Jr. — — C M 
+Peter J. Gundermann M — M — 
+Kraig H. Kayser C — — M 
+Bradley R. Lawrence M — M — 
+Brian J. Lipke — — M C 
+Brenda L. Reichelderfer M — — M 
+John R. Scannell — C — — 
+Number of Meetings Held 5 — 2 1 
+[END TABLE]
+* Dr. Aubrecht's term as a director ended in February 2018                    C = Chair / M = Member
+In addition to these formal meetings, the Board and its standing committees may also act by unanimous written consent when appropriate. For various reasons, Board members may not be able to attend a Board meeting in person or by teleconference. All Board members are provided information related to each of the agenda items before each meeting, and, therefore, can provide counsel outside the confines of regularly scheduled meetings. Each director attended at least 75% of the aggregate of the Board of Directors meetings and the committee meetings of which committee he or she was a member during fiscal 2018. 
+It is the Company's policy that, to the extent reasonably practicable, Board members are expected to attend shareholder meetings. All of the directors attended the 2018 Annual Meeting of Shareholders.
+NOMINATING AND GOVERNANCE COMMITTEE
+The Nominating and Governance Committee is composed solely of independent directors, and participates in the search for qualified directors. The criteria for selecting nominees for election as directors of the Company includes experience in the operation of large public or private organizations, as well as accomplishments, education, capabilities, high personal and professional integrity and the willingness to represent the interests of all shareholders and not of any special interest group. From time to time, the Nominating and Governance Committee will engage a professional search firm, to which it pays a fee, to assist in identifying and evaluating potential nominees. After conducting an initial evaluation of a candidate, the Nominating and Governance Committee will interview that candidate if it believes the candidate might be suitable to be a director and will also ask the candidate to meet with other directors and management. If the Nominating and Governance Committee believes a candidate would be a valuable addition to the Board of Directors, it will recommend to the full Board that candidate's nomination for election.
+The Nominating and Governance Committee does not have a formal written policy with regard to considering diversity in identifying nominees for director, but, when considering director candidates, it seeks individuals with backgrounds and capabilities that, when combined with those of the Company's other directors, bring a broad range of complementary skills, expertise, industry and regulatory knowledge, and diversity of perspectives to build a capable, responsive and effective Board. Diversity considerations for a director nominee may vary at any time according to the particular area of expertise being sought to complement the existing Board composition.
+A shareholder wishing to nominate a candidate should forward the candidate's name and a detailed background of the candidate's qualifications to the Secretary of the Company in accordance with the procedures outlined in the Company's by-laws. In making a nomination, shareholders should take into consideration the criteria set forth above and in the Company's Corporate Governance Guidelines. The Nominating and Governance Committee will use the same process for evaluating candidates for director regardless of source of such nomination, including from a shareholder. The Board of Directors has adopted a written charter for the Nominating and Governance Committee. A copy of the charter is available on the Company's website.
+The Nominating and Governance Committee held one meeting in fiscal 2018 and on November 12, 2018, met and nominated Messrs. Gundermann and Lawrence for election at the 2019 Annual Meeting of Shareholders.
+AUDIT COMMITTEE
+The Audit Committee is responsible for assisting the Board of Directors in monitoring the integrity of the Company's financial statements, the Company's compliance with legal and regulatory requirements, the Independent Registered Public Accounting Firm's qualifications and independence, and the performance of the Company's internal audit function and the Independent Registered Public Accounting Firm. The Audit Committee has the sole authority to retain and terminate the Independent Registered Public Accounting Firm and is directly responsible for the compensation and oversight of the work of the Independent Registered Public Accounting Firm. The Independent Registered Public Accounting Firm reports directly to the Audit Committee. The Audit Committee reviews and discusses with management and the Independent Registered Public Accounting Firm the annual audited and quarterly financial statements, the disclosures in the Company's annual and quarterly reports under the heading "Management's Discussion and Analysis of Financial Condition and Results of Operations," critical accounting policies and practices used by the Company, the Company's internal control over financial reporting, and the Company's major financial risk exposures. The Board of Directors has adopted a written charter for the Audit Committee, which is available on the Company's website.
+All of the Audit Committee members meet the independence and experience requirements of the New York Stock Exchange and the Securities and Exchange Commission. The Board has determined all Audit Committee members are audit committee financial experts under the rules of the Securities and Exchange Commission. The Audit Committee held five meetings in fiscal 2018, in person and by telephone conference. On a regular basis, the Audit Committee met with the Company's internal auditors and met separately with the Independent Registered Public Accounting Firm and management.
+EXECUTIVE COMPENSATION COMMITTEE
+The Executive Compensation Committee is responsible for discharging the Board of Directors' duties relating to executive compensation, including making all decisions regarding compensation of the executive officers and is responsible for administering the Company's executive compensation program. The Executive Compensation Committee reviews both short-term and long-term corporate goals and objectives with respect to compensation of the CEO and the other executive officers. The Executive Compensation Committee also reviews and discusses with management the impact of Moog's compensation policies and practices on risk-taking within the Company. The Executive Compensation Committee evaluates, at least once a year, the performance of the CEO and other executive officers in light of these goals and objectives and, based on these evaluations, approves the compensation of the CEO and the other executive officers. The Executive Compensation Committee also reviews and recommends to the Board incentive compensation plans that are subject to the Board's approval.
+The Executive Compensation Committee is responsible for approving stock incentive awards to executive officers and key employees. The Executive Compensation Committee reviews management recommendations regarding awards to both executive officers and key employees, evaluating such potential awards in relation to overall compensation levels. The Executive Compensation Committee also reviews such awards with consideration for the potential dilution to shareholders, and limits stock awards such that the potential dilutive effect is within normally accepted practice. With regard to stock incentive grants to directors, such grants are approved by the full Board of Directors. The Executive Compensation Committee held two meetings in fiscal 2018.
+All of the Executive Compensation Committee members meet the independence requirements of the New York Stock Exchange. The Board of Directors has adopted a written charter for the Executive Compensation Committee. A copy of the charter is available on the Company's website.
+During fiscal 2018, the Executive Compensation Committee utilized data provided in a report prepared by Korn Ferry-Hay Group ("KFHG"), an independent professional compensation consulting firm, to assist and guide the Executive Compensation Committee. The KFHG data was used to compare Moog's executive compensation program with current industry trends, and to benchmark individual officer compensation levels against our peer group and KFHG's wider executive database. This report was also used to establish the compensation level of our CEO. Our CEO makes recommendations to the Executive Compensation Committee regarding the compensation levels of other executive officers.
+Moog used KFHG for compensation consultation services, which are provided independently of the services to the Executive Compensation Committee. The amount of fees for these additional services performed by KFHG was approximately $93,000 for fiscal 2018. The Executive Compensation Committee has assessed the independence of KFHG pursuant to New York Stock Exchange rules and concluded that no conflict of interest exists that would prevent KFHG from independently providing services to the Executive Compensation Committee.
+Additional information regarding the Executive Compensation Committee's processes and procedures for establishing and overseeing executive compensation is disclosed in the "Compensation Discussion and Analysis" section.
+EXECUTIVE COMPENSATION COMMITTEE INTERLOCKS AND INSIDER PARTICIPATION
+None of the members of the Executive Compensation Committee was an officer or employee of Moog during the last fiscal year, was formerly an officer of Moog, or has any relationships with Moog requiring disclosure under any paragraph of Item 404 of Regulation S-K. Since the beginning of the last fiscal year, no executive officer of Moog has served on the compensation committee of any company that employs a director of Moog.
+RELATED PARTY TRANSACTIONS
+We use a combination of Company policies and established review procedures, including adherence to New York Stock Exchange Listing standards, to ensure related party transactions are reviewed, approved and ratified, as appropriate. We do not maintain these policies and procedures under a single written policy.
+The Nominating and Governance Committee is responsible for developing, recommending and reviewing annually the Company's Corporate Governance Guidelines to comply with state and federal laws and regulations, and with New York Stock Exchange Listing Standards. The Board of Directors is further required to meet the independence standards set forth in the New York Stock Exchange Listed Company Manual. The Audit Committee is responsible for the review, approval or ratification of any related party transactions as noted in the "Compliance Oversight Responsibilities" section of the Charter of the Audit Committee of the Board of Directors. Our Statement of Business Ethics, which applies to all directors, executive officers and employees, provides guidance on matters such as conflicts of interest and procurement integrity, among others.
+We require that each director and executive officer complete a questionnaire quarterly. The questionnaire requires positive written affirmation regarding related party transactions that may constitute a conflict of interest, including: any transaction or proposed transaction in excess of $120,000 involving the director or executive officer or an immediate family member and the Company, a subsidiary or any pension or retirement savings plan; any indebtedness to the Company; dealings with competitors, suppliers or customers; any interest in real or personal property in which the Company also has an interest; and the potential sale of any real or personal property or business venture or opportunity that will be presented to the Company for consideration. In addition, we collect quarterly updates to this questionnaire throughout the year. We review each questionnaire to identify any transactions or relationships that may constitute a conflict of interest, require disclosure, or affect an independence determination.
+Any such transactions with the directors, executive officers, their immediate family members or any 5% shareholder are reviewed by the Audit Committee, and, when necessary, the full Board of Directors. These reviews are intended to ensure any such transactions are conducted on terms as fair as if they were on an arm's length basis and do not conflict with the director's or executive officer's responsibilities to the Company. If the Audit Committee or Board of Directors were to determine that a transaction is not on terms as fair as if it were on an arm's length basis, the transaction would be modified such that the transaction were as fair as if it were on an arm's length basis. The Audit Committee and Board of Directors place significant reliance on their collective business judgment, experience and expertise in their review and deliberations.
+For situations in which it is either clear that a conflict of interest exists or there is a potential conflict of interest, the related director or executive officer is obligated to recuse himself from any discussion on the business arrangement. That director or executive officer does not participate in approving or not approving the related transaction. The remaining members of the Board of Directors make those determinations.
+During fiscal 2018, there was no related party transaction required to be reported under Item 404(a) of Regulation S-K that was required to be reviewed as a related party transaction under the Company's policies and procedures. 
+OTHER DIRECTORSHIPS
+Current directors and director nominees of the Company are presently serving or have served at any time during the past five years on the following boards of directors of other publicly traded companies: 
+[BEGIN TABLE]
+Director    Company 
+William G. Gisel, Jr.    KeyCorp, Mod-Pac Corporation (1) 
+Peter J. Gundermann    Astronics Corporation 
+Kraig H. Kayser    Seneca Foods Corporation 
+R. Bradley Lawrence    Esterline Technologies Corporation (2) 
+Brian J. Lipke    Gibraltar Industries, Inc. (3) 
+Brenda L. Reichelderfer    Federal Signal Corporation, Meggitt PLC (4) 
+John R. Scannell    Albany International, M&T Bank Corporation 
+(1) Mod-Pac Corporation completed a going-private transaction on September 30, 2013. 
+(2) As of March 2014, Mr. Lawrence no longer serves as a director of Esterline Technologies Corporation as he retired at the conclusion of the 2014 annual meeting. 
+(3) As of June 2015, Mr. Lipke no longer serves as a director of Gibraltar Industries, Inc. as he retired from the board in his capacity as Executive Chairman. 
+(4) As of April 2017, Ms. Reichelderfer no longer serves as a director of Meggitt PLC as she retired from the board immediately preceding the 2017 annual meeting.  
+[END TABLE]
+WEBSITE ACCESS TO INFORMATION
+The Company's internet address is www.moog.com. The Company has posted to the investor information portion of its website its Corporate Governance Guidelines, Board committee charters (including the charters of its Audit, Executive Compensation and Nominating and Governance Committees) and Statement of Business Ethics. This information is available in print to any shareholder upon request. All requests for these documents should be made to the Company's Investor Relations department by calling (716) 687-4225 or by email to investorrelations@moog.com.
+COMPENSATION OF DIRECTORS
+The aggregate cash remuneration for attending Board and committee meetings for all non-management directors, excluding reimbursement of out-of-pocket expenses, was $480,000 for fiscal 2018.
+During fiscal 2018, stock awards with a grant date fair value of $80,005 were granted to all non-management directors under the 2014 Moog Inc. Long Term Incentive Plan (the "2014 LTI Plan"), which provides that awards in a certain number of underlying Class A shares or Class B shares may be granted to non-employee directors. Messrs. Gisel, Gundermann, Kayser, Lawrence, Lipke, and Ms. Reichelderfer each were granted 972 Class B shares.
+— 2018 DIRECTOR COMPENSATION —
+[BEGIN TABLE]
+  Name Fees Earned or Paid in CashStock Awards (1)All Other CompensationTotal 
+  Name Fees Earned or Paid in CashStock Awards (1)All Other CompensationTotal 
+William G. Gisel, Jr. $80,000 $80,005 — $160,005 
+Peter J. Gundermann $80,000 $80,005 — $160,005 
+Kraig H. Kayser $80,000 $80,005 — $160,005 
+R. Bradley Lawrence $80,000 $80,005 — $160,005 
+Brian J. Lipke $80,000 $80,005 — $160,005 
+Brenda L. Reichelderfer $80,000 $80,005 — $160,005 
+  Name Grant DateCommon Stock Number of              Shares Awarded  Market Price      on Grant Date 
+  Name Grant DateCommon Stock Number of              Shares Awarded  Market Price      on Grant Date 
+William G. Gisel, Jr. 11/14/2017 Class B 972 $82.31 
+Peter J. Gundermann 11/14/2017 Class B 972 $82.31 
+Kraig H. Kayser 11/14/2017 Class B 972 $82.31 
+R. Bradley Lawrence 11/14/2017 Class B 972 $82.31 
+Brian J. Lipke 11/14/2017 Class B 972 $82.31 
+Brenda L. Reichelderfer 11/14/2017 Class B 972 $82.31 
+   Name SARs on Moog Class B SharesSARs on Moog Class A Shares
+   Name SARs on Moog Class B SharesSARs on Moog Class A Shares
+William G. Gisel, Jr. 2,500 5,500 
+Peter J. Gundermann 2,500 9,625 
+Kraig H. Kayser 2,500 11,125 
+R. Bradley Lawrence 2,500 — 
+Brian J. Lipke 2,500 11,125 
+Brenda L. Reichelderfer — — 
+[END TABLE]
+INDEMNIFICATION AGREEMENTS
+Moog has indemnification agreements with our directors. These agreements provide that directors are covered under our directors and officers liability insurance, which indemnifies directors to the extent permitted by law and allows for the advance of funds to directors to cover expenses subject to reimbursement if it is later determined indemnification is not permitted.
+DEFERRED COMPENSATION PLAN
+This plan allows non-employee directors to defer all or part of the director's cash fees. Directors deferring cash fees must notify the Company of any changes to the elections to defer fees for a calendar year by the end of the preceding calendar year, with new directors having 30 days to make such an election. Directors deferring cash fees accrue interest monthly at the average of the six month Treasury bill rate. During fiscal 2018, two directors participated in this plan. The table below shows the amounts deferred for fiscal 2018.
+[BEGIN TABLE]
+   Name 2018 Fees Percent Deferred        Payment of Deferred Fees from Prior Years        
+   Name 2018 Fees Percent Deferred        Payment of Deferred Fees from Prior Years        
+William G. Gisel, Jr. 100% — 
+Peter J. Gundermann — — 
+Kraig H. Kayser 100% — 
+R. Bradley Lawrence — — 
+Brian J. Lipke — — 
+Brenda L. Reichelderfer — — 
+[END TABLE]
+COMPENSATION DISCUSSION AND ANALYSIS
+INTRODUCTION
+This CD&A provides detailed information about the compensation arrangements for the Company's NEOs:
+[BEGIN TABLE]
+• John R. Scannell — Chief Executive Officer; Chairman of the Board; and Director  
+• Donald R. Fishback — Vice President; Chief Financial Officer; and Director   
+• Richard A. Aubrecht — Vice President* 
+• Mark J. Trabert — Vice President; President, Aircraft Controls  
+• R. Eric Burghardt —  Vice President; President, Aircraft Controls * Dr. Aubrecht served as Vice Chairman of the Board and Director through February 2018. 
+[END TABLE]
+This CD&A includes the Executive Compensation Committee's compensation philosophy, the objectives of our compensation program and a discussion of each element of compensation paid to the NEOs for our most recent fiscal year.
+EXECUTIVE SUMMARY
+The objective of the Company's executive compensation program is to provide a compensation package that will attract, retain, motivate and reward superior executives who must operate in a highly competitive and technologically challenging environment.
+2018 Performance
+2018 was a good year for our operations.  Consolidated sales were up 8% shared by each of our three segments.  Consolidated earnings per share, adjusted for tax reform and the restructuring of our wind pitch controls business, were $4.57 compared with $3.90 per share in 2017.  GAAP EPS in 2018 was $2.68.  Adjusted operating margins increased for Aircraft Controls and Industrial Controls.  Cash flow from operations in 2018 was affected by the acceleration of $85 million of incremental contributions into our U.S. Defined Benefit Pension Plan resulting in the plan being fully funded.  We made two strategic acquisitions using $70 million of capital and we bought back 1.0 million shares of Company stock for a total of $76 million resulting in fewer shares outstanding for EPS purposes.  Finally, we initiated paying a quarterly dividend in the third quarter reflecting our confidence in the long-term future of the business.
+2018 Executive Compensation Assessment
+The Executive Compensation Committee uses data provided by KFHG, our compensation consultant, to establish competitive salaries for each of the NEOs. Information regarding the compensation consultant and this analysis is provided in greater detail throughout the CD&A.
+In our total direct compensation programs (detailed on page 20), each of the three major elements, base salary, short term incentive ("STI"), and long term incentive ("LTI"), are considered independently. However, the Executive Compensation Committee also considers how our total compensation compares with the total compensation of comparable executives in peer organizations.
+In summary, the key aspects of the Company's compensation for the NEOs are as follows: 
+[BEGIN TABLE]
+• Total Direct Compensation for all NEOs between 38% and 79% of peer group medians, with an average of 61%; 
+• Base salaries between 96% and 113% of the peer-group medians, with an average of 106%; 
+• Base salary increases tied to market benchmarks, time in position and individual job performance; 
+• STI, paid in cash & stock, according to increase in earnings per share ("EPS") and free cash flow ("FCF") conversion; 
+• A supplemental bonus adjustment paid to all STI participants to account for the substantial timing effect of the Tax Cuts and Jobs Act across fiscal years; 
+• Value of LTI (SAR and PSU awards) between 27% and 62% of peer group median LTIs, with an average of 43%; 
+• SAR and PSU awards link NEO compensation to long-term shareholder interests; 
+• Shares related to outstanding unexercised stock options and SARs are approximately 0.9% of total outstanding shares; 
+• Shares related to outstanding PSU awards are approximately 0.2% of total outstanding shares; 
+• Company policy prevents re-pricing option grants and SAR awards; 
+• Change in control agreements are double triggered. 
+[END TABLE]
+The Role of Shareholder Say-On-Pay Votes
+The Company provides its shareholders with the opportunity to cast an advisory vote every three years on its executive compensation program (referred to as a "say-on-pay proposal"). At the Company's Annual Meeting of Shareholders held on February 14, 2018, approximately 97% of the votes cast on the say-on-pay proposal at that meeting were voted in favor of the proposal. The Executive Compensation Committee believes this result affirms shareholders' support of the Company's approach to executive compensation, and therefore maintained this approach in fiscal 2018. The Executive Compensation Committee will continue to consider the outcome of the Company's say-on-pay votes when making future compensation decisions for the NEOs.
+COMPENSATION PHILOSOPHY AND OBJECTIVES
+The main objective of the Company's executive compensation program is to provide a compensation package that will attract, retain, motivate and reward superior executives who must operate in a highly competitive and technologically challenging environment.
+Moog seeks to do this by linking annual changes in executive compensation to overall Company performance, as well as each individual's contribution to the results achieved. The emphasis on overall Company performance is intended to align the executives' financial interests with the interests of shareholders. Moog also seeks fairness in total compensation with reference to external comparisons, internal comparisons and the relationship between management and non-management remuneration.
+The Company's executive compensation program aims to take a balanced approach. On the one hand, we recognize that near-term shareholder value can be created by the achievement of near-term results. To reward near-term success, annual salary increases are linked to market rates and individual job performance, and the STI payments reflects annual increases in EPS and FCF conversion. These targets are independent of each other and the payment received under the STI plan ultimately depends on performance against these two criteria. "On target" performance would be EPS growth of 10% and FCF conversion of 100%. The STI is comprised of a cash and stock element, typically paid out in a ratio of cash to stock of 2:1. On the other hand, the Company's business, particularly in aerospace and defense, requires that executives make decisions and commitments where benefits, in financial terms, take years to develop. The LTI awards are intended to reward long-term success and to align executives' financial interests with those of long-term shareholders through the award of performance-based restricted stock unit ("PSU") awards in conjunction with SARs under the 2014 LTI Plan. The PSUs vest conditionally based on a three-year performance period, using total sales and operating margin targets.
+The Company believes that its total executive compensation program maintains alignment between both short and long term incentives and Company performance and the interests of shareholders. The metrics selected for linkage to these plans were chosen because of their profile within the Company as key performance indicators.
+ROLES AND GOVERNANCE
+ The Executive Compensation Committee
+The Executive Compensation Committee of the Board is composed solely of independent, non-employee directors. The Executive Compensation Committee meets to determine CEO compensation, and has final approval on all elements of officer compensation. Any changes in benefit plans which affect executive officers are presented to the Executive Compensation Committee for review and approval, prior to presentation to the entire Board.
+For fiscal 2018, this committee was comprised of the following members:
+[BEGIN TABLE]
+• William G. Gisel, Jr., Chair 
+• Peter J. Gundermann 
+• R. Bradley Lawrence 
+• Brian J. Lipke 
+[END TABLE]
+Independent Consultant
+The Executive Compensation Committee selects and retains the services of KFHG, our compensation consultant, to provide professional advice on the Company's executive officer compensation. KFHG is retained directly by the Executive Compensation Committee and works directly with the Executive Compensation Committee's chairman. KFHG advises on the design of compensation arrangements and provides an independent market assessment of peer companies, using KFHG's Job Evaluation methodology and general industry compensation and practices.
+The compensation consultant works with management to collect information, to solicit management's input and to understand Moog's plans, goals and actual performance. The consulting relationship is reviewed by the Executive Compensation Committee annually to determine its satisfaction with the services and advice provided by the compensation consultant.
+See "Executive Compensation Committee" on page 10 for more information about the services provided by KFHG and its independence.
+MARKET ASSESSMENT 
+The Basis of Comparison
+As part of their review process, KFHG makes comparisons of the Company's compensation program to two groups of companies. The first comparison is with KFHG's proprietary Industrial Executive Compensation Report. The second comparison is with a group of seventeen companies whose businesses are similar to Moog's and whose revenues are reasonably comparable. KFHG reviews this peer group each year and recommends changes where appropriate. 
+One change to the peer group was made in fiscal 2018; Orbital ATK was removed following their acquisition by Northrop Grumman. 
+Orbital ATK was replaced by AMETEK, Inc. who was selected on the basis that they manufacture electronic instruments and electromechanical devices worldwide offering, amongst other things, advanced instruments for the process, power, industrial and aerospace markets, with revenue of a broadly comparable level to Moog and cite Moog as a peer.
+The full list of peers for fiscal 2018 is shown below.
+[BEGIN TABLE]
+AAR CORP. Hexcel Corporation 
+Actuant Corporation Kaman Corporation 
+Aerojet Rocketdyne Holdings, Inc. Regal-Beloit Corporation 
+AMETEK, Inc. Spirit AeroSystems, Inc. 
+Crane Co. Teledyne Technologies, Inc. 
+Cubic Corporation Transdigm Group Incorporated 
+Curtiss-Wright Corporation Triumph Group, Inc. 
+Esterline Technologies Corporation Woodward, Inc. 
+HEICO Corporation   
+[END TABLE]
+DIRECT COMPENSATION COMPONENTS OF THE EXECUTIVE COMPENSATION PROGRAM
+ Base Salary
+Both the Executive Compensation Committee and the Company use KFHG's Job Evaluation methodology for professional roles, including its NEOs. The KFHG's Job Evaluation methodology is an analytical, factor-based scheme that measures the relative importance of jobs by assigning them points within an organization. Each NEO has an evaluation score that is used to benchmark compensation. KFHG provides annual peer-company salary data, as well as data from their wider executive compensation survey. This information provides the basis for determining a competitive base salary for each position. NEOs' base salaries are reviewed annually, and adjustments are based on a comparison with market benchmarks, time in position and individual job performance.
+Short Term Incentive (STI)
+The Company's senior leadership, both managerial and technical, numbers approximately 370 persons. This entire group, including the NEOs, participates in the STI plan in which cash and stock bonus payouts each year are a function of the year-over-year percentage growth in the Company's earnings per share, and free cash flow conversion. A simple formula is used to determine the bonus amounts payable under the STI, which are dependent upon EPS growth and FCF conversion. Any payout depends entirely on these two elements. The two elements operate independently of each other and there are no individual performance incentives in the formula. Fiscal 2018 is the first year in which the STI payouts were distributed in both cash and stock, in the form of Class B shares. The ratio of cash bonus to the stock bonus award is 2:1 in favor of cash.
+The Company uses these two metrics to underscore the importance of collaboration at all levels of leadership. The Company supplies products to a diverse array of customers in a variety of global markets. The common thread is that the technology used in our high-performance precision control and fluid flow systems, and our other key technical resources, are transferable from one segment to another in response to fluctuating customer demands. Having our senior leadership focus on "what's good for the Company" has been an important factor in the Company's consistent performance. See page 21 for a detailed explanation of the STI calculation method.
+In fiscal 2018, the Board approved a supplemental bonus, paid to all STI participants also in the ratio of 2:1, cash to Class B shares, to counter the substantial one-time adverse effects of the Tax Cuts and Jobs Act. The amount of the supplemental bonus in fiscal 2018 will be deducted from the fiscal 2019 STI payouts.
+Long Term Incentive (LTI)
+Moog Inc. 2014 Long Term Incentive Plan
+In January 2015, the 2014 LTI Plan was approved by shareholders, providing for the grant of awards covering 2,000,000 Class A or Class B shares of stock. While we believe our prior long-term incentive arrangements have been effective, the 2014 LTI Plan was implemented to provide a more flexible framework that permits the development and implementation of a variety of stock-based incentives, which enable the Company to base awards on key performance metrics as well as to further align our LTI compensation with our peers and shareholder interests.
+The LTI awards granted in fiscal 2018 continued to consist of SARs so as to provide continuity with prior grants, aligning awards to share price increases over the medium to long term, along with PSUs so as to provide an equity compensation element that is linked to key performance indicators. The number of PSUs that will vest depend on growth and profitability performance, which will be measured at the end of a three-year performance period. 
+All awards in fiscal 2018 were granted in Class B shares.
+The number of annual SARs and PSUs awarded was determined utilizing KFHG peer company survey data as part of the analysis. Individual performance is not used to determine the number of SAR or PSU awards.
+Moog Inc. 2008 Stock Appreciation Rights Plan ("2008 SAR Plan")
+Issuances of new awards under the 2008 SAR Plan terminated on January 7, 2015 following shareholder approval of the 2014 LTI Plan. The 2008 SAR Plan covers outstanding SARs, which confer a benefit based on appreciation in value of Class A shares, and are settled in the form of Class A shares.
+The purpose of the 2008 SAR Plan was to promote the long-term success of the Company and to create shareholder value by (a) encouraging non-employee directors, officers and key executives performing service for the Company to focus on critical long-range objectives, (b) encouraging the attraction and retention of eligible participants with exceptional qualifications, and (c) linking participants directly to shareholder interests through ownership of the Company. Individual performance was not used to determine the number of SARs awarded under this plan.
+OTHER BENEFITS AND PERQUISITES
+Retirement Programs
+The Company believes that a retirement plan is a key element in attracting and retaining employees at all levels of the organization. The Company has provided a defined benefit retirement plan in the past, but U.S. employees hired after January 1, 2008 are now covered under a defined contribution plan. The Company maintains benefits to participants under both the defined benefit plan and defined contribution plan. A new supplemental plan was introduced in 2016, replacing the previous plan for new officer appointments. Each NEO participates in the U.S. defined benefit retirement plan and all participate in either a defined benefit or defined contribution supplemental plan. The defined benefit retirement plan and the supplemental plans are described in more detail along with officers' other pension benefits on pages 32 to 34. The value of pension benefits for each NEO can be found in the table on page 34.
+Medical Coverage
+The NEOs participate in the same health insurance programs available to all employees. In addition, our executive officers have coverage under an enhanced medical insurance policy that generally covers all unpaid healthcare expenses deductible under IRS guidelines. This supplemental coverage plan was established in accordance with industry practice for senior executives. We believe that conforming in this way to industry standards aids in executive retention.
+Vacation, Disability and Group Life Insurance
+NEOs participate in the same vacation, disability and life insurance programs as all other Moog employees. Life insurance coverage for employees is based upon a multiple of salary, with the multiple for the NEOs generally being two and a half times annual salary.
+Termination Benefits
+NEOs and other members of executive management are provided termination benefit agreements that are triggered under certain circumstances, including upon a termination of employment in connection with a change in control. Under these agreements, executive officers receive salary continuance for up to three years based upon length of service; STI on a prorated basis in the year of termination; and medical coverage, life and disability benefits and club dues for one year. These agreements are designed to retain executives and provide continuity of management in the event of a change in control. The Company believes that these severance and change in control benefits are required to attract and retain executive talent in a marketplace where such benefits are commonly offered. Further information can be found under the heading "Potential Payments Upon Termination or Change in Control" section on pages 35 to 37.
+Other Benefits
+The Company reimburses fees for membership in certain private clubs so that the Company's executives have these facilities available for entertaining customers, conducting Company business and fulfilling community responsibilities.
+COMPETITIVE ANALYSIS OF TOTAL DIRECT COMPENSATION
+The following tables compare the compensation elements for the Company's NEOs in fiscal 2018 to those of executives in comparable positions in the peer group identified by KFHG. Total Direct Compensation, as reported here, includes salary paid, STI and bonus paid in cash and stock, and the grant date fair market value of SARs and PSUs awarded, represented in thousands of dollars.
+[BEGIN TABLE]
+Name & Principal Position Base Salary STI (1) LTI (2) 
+  Moog Peer  Group  Median Ratio Moog Peer  Group  Median Ratio Moog Peer  Group  Median Ratio 
+John R. Scannell $917 $958 96% $292 $1,208 24% $900 $3,336 27% 
+Chief Executive Officer; Chairman of the Board; and Director                    
+Donald R. Fishback $569 $511 111% $181 $422 43% $300 $832 36% 
+Vice President; Chief Financial Officer; and Director                    
+Richard A. Aubrecht $566 $500 113% $180 $496 36% $300 $764 39% 
+Vice President                   
+Mark J. Trabert $421 $425 99% $134 $347 39% $300 $578 52% 
+Vice President; President, Aircraft Controls                   
+R. Eric Burghardt $421 $381 111% $134 $274 49% $300 $483 62% 
+Vice President; President, Aircraft Controls                    
+Name & Principal Position   Total Direct Compensation 
+  Moog Peer  Group  Median Ratio 
+John R. Scannell   $2,109 $5,617 38% 
+Chief Executive Officer; Chairman of the Board; and Director          
+Donald R. Fishback   $1,051 $1,759 60% 
+Vice President; Chief Financial Officer; and Director          
+Richard A. Aubrecht   $1,046 $1,646 64% 
+Vice President         
+Mark J. Trabert   $855 $1,364 63% 
+Vice President; President, Aircraft Controls         
+R. Eric Burghardt   $855 $1,077 79% 
+Vice President; President, Aircraft Controls          
+(1) The STI column includes cash and stock paid under the STI plan and supplemental bonus paid to all STI participants for fiscal 2018 for purposes of the executive compensation competitive analysis. The stock amounts included here are disclosed within the Stock Awards column of the Summary Compensation Table, reported on page 25. 
+(2) The LTI column includes the grant date fair market value of SARs and PSUs award in fiscal 2018. 
+[END TABLE]
+THE PROCESS USED TO DETERMINE COMPENSATION
+Base Salary
+The process for setting annual base salaries is one whereby the CEO makes recommendations for all other officers' merit-based salary increases and, occasionally, base salary adjustments needed to position an executive officer appropriately against market benchmarks. The Executive Compensation Committee approves or adjusts those recommendations for a final determination. As part of this process, the CEO prepares a performance appraisal for each executive officer, including himself, which is reviewed in detail by the Executive Compensation Committee. These performance appraisals take into consideration:
+[BEGIN TABLE]
+• the outcomes achieved by the business unit or functional area for which the officer is responsible; 
+• the conduct and contribution of the officer and the organization he manages in achieving overall Company results; and 
+• the officer's achievements in developing organizational strength for the future. 
+[END TABLE]
+In developing his recommendations for base salary increases and adjustments for the calendar year for the NEOs in 2018, the CEO was also guided by the pay increase made across other Moog sites worldwide. During fiscal 2018, all NEOs received an increase to base salary of 3%.
+The Executive Compensation Committee is mindful of the IRS limitation on deductibility of compensation over $1 million, but also recognizes the need to retain flexibility to make compensation decisions that may exceed this limit. One executive officer's compensation for fiscal 2018 exceeded the IRS limitation.
+Short Term Incentive (STI)
+Annual bonuses paid to senior executives are developed in accordance with the STI plan introduced in fiscal 2016 in which there are approximately 370 participants. For this group, payments under the STI plan are paid based on growth in EPS and FCF. 
+The bonus amount payable to each participant is determined by multiplying the participant's base salary by the sum of the following: (i) the product of the percentage growth in EPS for the fiscal year and a multiplier based on the participant's position; plus (ii) the product of actual FCF performance for the fiscal year and a multiplier based on the participant's position, as expressed in the following formula:
+Base Salary x [(% Increase in EPS x EPS Growth Multiplier) + (Actual% FCF performance x FCF Multiplier)] = Total Bonus
+There are multiple levels used within the plan for each performance multiplier which vary based on a participant's responsibilities. Last year, an enhancement was introduced to the STI, increasing the overall payment by 50%. For fiscal 2018, this enhancement was built into the base formula by increasing each of the multipliers by 50%.
+During fiscal 2018, there were 9 executive officers, including the NEOs, who were responsible for the overall management and success of the Company and were eligible to receive a bonus that is equal to the participant's base salary at year end multiplied by the sum of (i) the percentage improvement in EPS times a factor of 3.375, and (ii) the FCF performance achieved multiplied by 0.1125. Payments under the STI Plan are subject to an overall cap of 75% of base salary, inclusive of both cash and stock bonus awarded. Beginning in fiscal 2018, STI payouts were distributed in both cash and stock in a ratio of 2:1 in favor of cash. Stock bonuses were awarded in the form of Class B shares. 
+The multipliers are used to achieve bonus payments which, in years of strong earnings growth and free cash flow conversion, are somewhat comparable to the bonus plans for executives in other companies in the peer group identified by KFHG. To improve the competitiveness of the STI plan upon review against Moog's peer group, the Executive Compensation Committee agreed to enhance the STI plan by increasing the performance multipliers as referenced above and incorporating a stock bonus award to the plan. This stock bonus is reflected in the following table as part of the total incentive paid.
+For fiscal 2018, although business performance was positive, "one-off" adverse factors such as the Tax Cuts and Jobs Act meant that the STI plan would have paid out very little, due to earnings per share not growing over fiscal 2017, and free cash flow being well below target. However, the one-off nature of these factors would likely mean that performance in fiscal 2019 would result in NEO STI payments hitting the overall STI plan cap of 75% of the base salary. 
+Accordingly, to provide a competitive bonus in fiscal 2018 and to provide a more balanced approach across fiscal 2018 and 2019, the Board approved a supplemental bonus for all STI plan participants, which would be added to the STI due to be paid for fiscal 2018 performance under the existing STI plan rules. This supplemental bonus will be deducted from the STI payments that will be made in fiscal 2019 and is also payable to participants in a ratio of cash to Class B shares of 2 to 1.
+For fiscal 2018, officers received a total STI payment of 31.60% of base salary, split in the ratio 2:1 between cash and Class B shares. The 31.60% consisted of a total of 0.90% from the STI plan and a supplemental bonus of 30.70%. This supplemental bonus will be offset against fiscal 2019 STI payments.
+The Company's EPS increase, FCF performance and NEO bonus history over the last three years is as follows:
+[BEGIN TABLE]
+Year EPS Increase%                FCF%                NEO Bonus%    
+2018 —   8.0% 31.60% 
+2017 12.4% 101.1% 53.25% 
+2016 3.6% 120.0% 17.10% 
+[END TABLE]
+Long Term Incentive (LTI)
+The Company believes that stock ownership on the part of executive officers serves to align the leadership of the Company with the interest of shareholders. The Board of Directors has appointed the Executive Compensation Committee to administer all components of executive compensation, including equity-based compensation plans. These responsibilities include the authority to construe and interpret the terms of the plans and awards granted under them, to determine the persons eligible to receive awards, when each award will be granted and the terms of each award, including the award amounts granted. No awards may be re-priced in accordance with the terms of the Company's outstanding plans.
+During fiscal 2018, the CEO was awarded 18,543 SARs and 5,468 PSUs. All other officers were awarded 6,181 SARs and  1,823 PSUs. These awards were granted under the 2014 LTI Plan and both SARs and PSUs were awarded using Class B stock. The PSUs will vest at the end of a three-year performance period and the number of PSUs earned will be determined based upon the level of performance achieved against two performance criteria. PSUs have the potential to be earned between zero and two times the number of target units awarded.
+The Executive Compensation Committee has not used a formulaic approach, but in years when performance is considered adequate, the Executive Compensation Committee has invited the CEO to make recommendations for SAR and PSU awards for all executive officers other than himself. These recommendations were either approved or adjusted by the Executive Compensation Committee. With regard to the CEO, SAR and PSU awards were determined by the Executive Compensation Committee. A total of 120,622 SARs and 33,778 PSUs were awarded to all eligible executives in fiscal 2018, resulting in a "burn rate" of less than 1% based on the diluted weighted-average shares outstanding.
+A SAR award contains such terms and conditions as determined by the Executive Compensation Committee, subject to the terms of the 2014 LTI Plan, including the date on which the SARs become exercisable and the expiration date of the SARs. The exercise price of a SAR on Class B shares will be equal to the fair market value of one Class B stock share as defined in the 2014 LTI Plan.
+SARs vest and become exercisable pursuant to the terms and conditions outlined in each participant's award agreement, as determined by the Executive Compensation Committee. SARs do not become exercisable earlier than the first anniversary of the date of grant, and vested SAR awards will be exercisable by participants only until the tenth anniversary of the date of grant. The total number of shares of Moog stock subject to options and SARs that may be awarded to any one employee during any fiscal year of the Company may not exceed 100,000 shares.
+A PSU award also contains such terms and conditions as determined by the Executive Compensation Committee, subject to the terms of the 2014 LTI Plan, including the dates on which the PSUs vest and settle, the performance criteria which the awards are based on, and the way in which awards will be linked to performance targets. The fair market value realized upon settlement of earned PSUs is defined in the same manner as described above for SARs.
+PSUs vest and settle pursuant to the terms and conditions outlined in each participant's award agreement, as determined by the Executive Compensation Committee. PSUs do not vest earlier than the end of the three year performance period, at which time they vest in accordance with the level of performance attained upon certification by the Executive Compensation Committee. For the fiscal 2018 grant, the performance measures used for PSUs were sales growth and margin. The total number of shares of Moog stock subject to PSUs that may be awarded to any one employee during any fiscal year of the Company may not exceed 100,000 shares.
+The Executive Compensation Committee, in collaboration with the CEO, selected a pattern of award distributions where all officers except the CEO were awarded the same number of SARs and PSUs. KFHG analysis indicates that the value of the Company's awards in SARs and PSUs is below the median of peer companies.
+The Executive Compensation Committee remains mindful of the relationship between the number of stock-based compensation awards granted and the shares outstanding. As of  fiscal 2018 year-end, the shares related to the Company's outstanding unexercised option and SAR awards were approximately 0.9% of the total outstanding shares and those related to the Company's outstanding unvested PSU awards were approximately 0.2% of the total outstanding shares. It is important to note that while option grants are equivalent to resulting Company shares, the same is not true for SARs. The shares related to outstanding SAR awards are based upon the market price on September 28, 2018.
+RISK REVIEW
+In formulating and evaluating the Company's executive compensation program, the Executive Compensation Committee considers whether the program promotes excessive risk-taking. The Executive Compensation Committee believes the components of the Company's executive compensation program:
+[BEGIN TABLE]
+• Provide an appropriate mix of fixed and variable pay; 
+• Balance short-term operational performance with long-term increases in shareholder value; 
+• Reinforce a performance-oriented environment; and 
+• Encourage recruitment and retention of key executives. 
+[END TABLE]
+The Executive Compensation Committee of the Board of Directors has followed consistent practices over the years and the members of the Executive Compensation Committee have not seen any evidence that our compensation programs create risks that are reasonably likely to have a material adverse effect on our Company. The Executive Compensation Committee believes the leadership of the Company is not provided with incentives which would result in leadership taking unreasonable risks in order to achieve short term results at the expense of the long-term health and welfare of the shareholders' investment. Additional policies are in place to further reduce the likelihood of excessive risk-taking, such as the insider trading policy, which prohibits key insiders, including officers, from engaging in short sales or hedging transactions involving the Company's securities.
+THE EXECUTIVE COMPENSATION COMMITTEE REPORT
+The Executive Compensation Committee of the Board of Directors has reviewed and discussed this CD&A with the Company's management. Based on this review and these discussions with management, the Executive Compensation Committee recommended to the Board of Directors that the CD&A be included in this Proxy Statement.
+Executive Compensation Committee Members:
+[BEGIN TABLE]
+William G. Gisel, Jr., Chair Bradley R. Lawrence 
+Peter J. Gundermann Brian J. Lipke 
+[END TABLE]
+2018 EXECUTIVE COMPENSATION DATA
+DISTINGUISHING "AWARDED" PAY FROM "REPORTED" PAY
+In reviewing our executive compensation, it is important to distinguish the reported compensation provided to our named executives in fiscal 2018 from the compensation that was actually awarded to our NEOs in fiscal 2018. We have provided the following additional compensation table in order to remove the volatility related to the effects of changes in actuarial assumptions on the value of the NEOs' pension benefits as required to be disclosed in the Summary Compensation Table. This table is not a substitute for the 2018 Summary Compensation Table, which appears on page 25.
+The table below shows the compensation awarded to each of our NEOs for fiscal 2018. This table includes:
+[BEGIN TABLE]
+• Salaries paid during fiscal 2018; 
+• SARs and PSUs awarded in fiscal 2018 under the LTI; 
+• Stock bonuses earned for fiscal 2018 under the STI; 
+• Bonus and non-equity incentive compensation paid in cash earned for fiscal 2018 under the STI, and 
+• All other compensation. 
+Name and Principal Position Year(1) Salary(2) Bonus(3) Stock Awards(4) SAR Awards(5) Non-Equity Incentive Plan Compensation(6) All Other Compensation(7) Total 
+John R. Scannell 2018 $ 917,145   $ 189,086   $ 547,352   $ 450,010   $ 5,543   $ 25,090   $ 2,134,226   
+Chief Executive Officer; Chairman of the Board; and Director  2017 $ 880,350   $ 159,210   $ 358,240   $ 448,439   $ 318,420   $ 22,055   $ 2,186,714   
+2016 $ 830,523   $ —   $ 243,550   $ 306,110   $ 142,019   $ 40,233   $ 1,562,435   
+Donald R. Fishback 2018 $ 569,384   $ 117,389   $ 210,425   $ 150,003   $ 3,441   $ 387,087   $ 1,437,729   
+Vice President; Chief Financial Officer; and Director  2017 $ 546,546   $ 98,842   $ 179,120   $ 224,219   $ 197,684   $ 328,191   $ 1,574,602   
+2016 $ 515,611   $ —   $ 162,368   $ 204,074   $ 88,170   $ 41,184   $ 1,011,407   
+Richard A. Aubrecht 2018 $ 565,708   $ 116,631   $ 210,053   $ 150,003   $ 3,419   $ 13,872   $ 1,059,686   
+Vice President 2017 $ 549,229   $ 98,204   $ 179,120   $ 224,219   $ 196,407   $ 14,078   $ 1,261,257   
+2016 n/a n/a n/a n/a n/a n/a n/a  
+Mark J. Trabert 2018 $ 421,273   $ 86,853   $ 194,756   $ 150,003   $ 2,546   $ 190,659   $ 1,046,090   
+Vice President; President, Aircraft Controls 2017 $ 409,006   $ 73,131   $ 179,120   $ 224,219   $ 146,262   $ 184,312   $ 1,216,050   
+2016 $ 400,005   $ —   $ 162,368   $ 204,074   $ 68,401   $ 220,164   $ 1,055,012   
+R. Eric Burghardt 2018 $ 421,210   $ 86,840   $ 194,756   $ 150,003   $ 2,546   $ 186,739   $ 1,042,094   
+Vice President; President, Aircraft Controls  2017 $ 408,959   $ 73,120   $ 179,120   $ 224,219   $ 146,240   $ 182,507   $ 1,214,165   
+2016 $ 400,005   $ —   $ 162,368   $ 204,074   $ 68,401   $ 224,483   $ 1,059,331   
+(1) The years reported are the Company's fiscal years ended September 29, 2018, September 30, 2017 and October 1, 2016. 
+(2) Includes amounts, if any, deferred at the direction of the executive officer pursuant to the Company's 401(k) Plan. 
+(3) With respect to fiscal 2018, this column shows the cash portion of the supplemental bonus awarded as part of the fiscal 2018 STI to all STI plan participants as described on page 21. Includes amounts, if any, deferred at the direction of the executive officer pursuant to the Company's 401(k) Plan. 
+(4) This column shows the aggregate grant date fair value computed in accordance with ASC 718 for the PSUs granted under the LTI for the fiscal years reported and, for purposes of fiscal 2018, the stock bonus payable as part of the STI, including the stock bonus portion of the supplemental bonus awarded as part of the STI for fiscal 2018. With respect to the LTI award, this value is based on the fair value of the equity-based award multiplied by the number of securities underlying the target PSUs and, represents the amount that the Company expects to expense for accounting purposes over the award's vesting schedule. With respect to the LTI awards, the amounts do not reflect the actual amounts that may be realized by the executive officers. A discussion of the assumptions used in calculating these values may be found in Note 16 to the audited financial statements in Moog's Annual Report on Form 10-K for the fiscal year ended September 29, 2018. 
+(5) This column shows the aggregate grant date fair value computed in accordance with ASC 718 for SAR awards granted under the LTI for fiscal years reported. The amount is based on the fair value of the equity-based award as determined using the Black-Scholes option-pricing model multiplied by the number of securities underlying the SAR awards. The amounts do not reflect the actual amounts that may be realized by the executive officers. A discussion of the assumptions used in calculating these values may be found in Note 16 to the audited financial statements in Moog's Annual Report on Form 10-K for the fiscal year ended September 29, 2018. 
+(6) This column shows the cash portion of the STI compensation (other than the cash portion of the supplemental bonus awarded as part of the fiscal 2018 STI, which is reported on the Bonus column), as described on page 21, for the fiscal years reported. Includes amounts, if any, deferred at the direction of the executive officer pursuant to the Company's 401(k) Plan. 
+(7) The table on page 26 shows the components of this column, which generally include group life and executive insurance premiums, Company contributions to the Company's defined contribution plans and other perquisites. The amounts represent the amount paid by, or the incremental cost to, the Company. 
+[END TABLE]
+— 2018 SUMMARY COMPENSATION TABLE —
+The table below presents dollar amounts computed as required under SEC rules.
+The amounts shown for equity-based awards reflect the aggregate grant date fair value. These amounts do not reflect the current or prospective value of these awards to the executive.
+The amounts shown under the column "Change in Pension Value and Non-Qualified Deferred Compensation Earnings" reflect the change in the actuarial present value of each NEO's retirement benefits. The values for fiscal 2018 reflect the STI plan described on page 21, the impact of changes in interest rates on actuarial present value calculations, years of credited service and changes in compensation levels.
+[BEGIN TABLE]
+Name and Principal Position Year(1) Salary(2) Bonus(3) Stock Awards(4) SAR Awards(5) Non-Equity Incentive Plan Compensation(6) Change in Pension Value and Non-Qualified Deferred Compensation Earnings(7) All Other Compensation(8) Total 
+John R. Scannell 2018 $ 917,145   $ 189,086   $ 547,352   $ 450,010   $ 5,543   $ 1,137,501   $ 25,090   $ 3,271,727   
+Chief Executive Officer; Chairman of the Board; and Director  2017 $ 880,350   $ 159,210   $ 358,240   $ 448,439   $ 318,420   $ 1,046,878   $ 22,055   $ 3,233,592   
+2016 $ 830,523   $ —   $ 243,550   $ 306,110   $ 142,019   $ 1,924,399   $ 40,233   $ 3,486,834   
+Donald R. Fishback 2018 $ 569,384   $ 117,389   $ 210,425   $ 150,003   $ 3,441   $ 396,530   $ 387,087   $ 1,834,259   
+Vice President; Chief Financial Officer; and Director  2017 $ 546,546   $ 98,842   $ 179,120   $ 224,219   $ 197,684   $ 35,347   $ 328,191   $ 1,609,949   
+2016 $ 515,611   $ —   $ 162,368   $ 204,074   $ 88,170   $ 837,380   $ 41,184   $ 1,848,787   
+Richard A. Aubrecht 2018 $ 565,708   $ 116,631   $ 210,053   $ 150,003   $ 3,419   $ —   $ 13,872   $ 1,059,686   
+Vice President 2017 $ 549,229   $ 98,204   $ 179,120   $ 224,219   $ 196,407   $ 1,613   $ 14,078   $ 1,262,870   
+2016 n/a   n/a   n/a   n/a   n/a   n/a   n/a   n/a    
+Mark J. Trabert 2018 $ 421,273   $ 86,853   $ 194,756   $ 150,003   $ 2,546   $ 117,704   $ 190,659   $ 1,163,794   
+Vice President; President, Aircraft Controls 2017 $ 409,006   $ 73,131   $ 179,120   $ 224,219   $ 146,262   $ 61,421   $ 184,312   $ 1,277,471   
+2016 $ 400,005   $ —   $ 162,368   $ 204,074   $ 68,401   $ 198,179   $ 220,164   $ 1,253,191   
+R. Eric Burghardt 2018 $ 421,210   $ 86,840   $ 194,756   $ 150,003   $ 2,546   $ 138,320   $ 186,739   $ 1,180,414   
+Vice President; President, Aircraft Controls  2017 $ 408,959   $ 73,120   $ 179,120   $ 224,219   $ 146,240   $ 64,749   $ 182,507   $ 1,278,914   
+2016 $ 400,005   $ —   $ 162,368   $ 204,074   $ 68,401   $ 207,960   $ 224,483   $ 1,267,291   
+[END TABLE]
+[BEGIN TABLE]
+(1) The years reported are the Company's fiscal years ended September 29, 2018, September 30, 2017 and October 1, 2016. 
+(2) Includes amounts, if any, deferred at the direction of the executive officer pursuant to the Company's 401(k) Plan. 
+(3) With respect to fiscal 2018, this column shows the cash portion of the supplemental bonus awarded as part of the fiscal 2018 STI to all STI plan participants as described on page 21. Includes amounts, if any, deferred at the direction of the executive officer pursuant to the Company's 401(k) Plan. 
+(4) This column shows the aggregate grant date fair value computed in accordance with ASC 718 for the PSUs granted under the LTI for the fiscal years reported and, for purposes of fiscal 2018, the stock bonus payable as part of the STI, including the stock bonus portion of the supplemental bonus awarded as part of the STI for fiscal 2018. With respect to the LTI award, this value is based on the fair value of the equity-based award multiplied by the number of securities underlying the target PSUs and represents the amount that the Company expects to expense for accounting purposes over the award's vesting schedule. With respect to the LTI awards, the amounts do not reflect the actual amounts that may be realized by the executive officers. A discussion of the assumptions used in calculating these values may be found in Note 16 to the audited financial statements in Moog's Annual Report on Form 10-K for the fiscal year ended September 29, 2018. 
+(5) This column shows the aggregate grant date fair value computed in accordance with ASC 718 for SAR awards granted under the LTI for fiscal years reported. The amount is based on the fair value of the equity-based award as determined using the Black-Scholes option-pricing model multiplied by the number of securities underlying the SAR awards. The amounts do not reflect the actual amounts that may be realized by the executive officers. A discussion of the assumptions used in calculating these values may be found in Note 16 to the audited financial statements in Moog's Annual Report on Form 10-K for the fiscal year ended September 29, 2018. 
+(6) This column shows the cash portion of the STI compensation (other than the cash portion of the supplemental bonus awarded as part of the fiscal 2018 STI, which is reported on the Bonus column), as described on page 21, for the fiscal years reported. Includes amounts, if any, deferred at the direction of the executive officer pursuant to the Company's 401(k) Plan. 
+(7) The aggregate change in actuarial present value is determined using mortality rates, interest rate and other assumptions consistent with those used in our financial statements. The amounts in this column represent the aggregate change in the actuarial present value of the officer's accumulated retirement benefits under the ERP and the Moog Inc. Plan to Equalize Retirement Income and Supplemental Retirement Plan ("PERI-SERP") and above-market or preferential earnings under the Moog Inc. Defined Contribution Supplemental Executive Retirement Plan ("DC SERP"). See the Pension Benefits table and Non-Qualified Deferred Compensation table on page 34 for additional information.  
+[END TABLE]
+[BEGIN TABLE]
+(8) The table below shows the components of this column, which generally include group life and executive insurance premiums, Company contributions to the Company's defined contribution plans, including under the DC SERP, and other perquisites. The amounts represent the amount paid by, or the incremental cost to, the Company. 
+Name Year Group Life Insurance Premium Executive  Medical Premiums Executive Disability Premiums Company Contributions - Defined Contribution Plan(s)(1) Miscellaneous Compensation(2) 
+John R. Scannell 2018 $5,462 $7,564 $2,340   $ 1,144   $8,580 
+Donald R. Fishback 2018 $3,391 $7,564 $2,340   $ 367,860   $5,932 
+Richard A. Aubrecht 2018 $3,369 $6,964 $2,340   $ 1,199   — 
+Mark J. Trabert 2018 $2,509 $7,339 $2,268   $ 169,447   $9,096 
+R. Eric Burghardt 2018 $2,509 $7,564 $2,268   $ 169,128   $5,270 
+(1) The amounts include Company match contributions to the Company's defined contribution plan for each NEO and, for Messrs. Fishback, Trabert, and Burghardt, include Company contributions to the DC SERP. 
+(2) Miscellaneous Compensation principally consists of perquisites such as club dues and auto expenses. 
+[END TABLE]
+— 2018 GRANTS OF PLAN-BASED AWARDS —
+The following table summarizes the grants of plan-based awards made to the NEOs in the Summary Compensation Table during the fiscal year ended September 29, 2018.
+[BEGIN TABLE]
+Name & Type of Award Grant Date(1)Estimated Possible Payouts Under Non-Equity Incentive Plan Awards Estimated Future Payouts Under Equity Incentive Plan AwardsUnderlying Common StockNumber of SARs Awarded(4)Exercise Price of SAR Awards(5)Grant Date Fair Value Awards(6)
+Name & Type of Award Grant Date(1)Estimated Possible Payouts Under Non-Equity Incentive Plan Awards Estimated Future Payouts Under Equity Incentive Plan AwardsUnderlying Common StockNumber of SARs Awarded(4)Exercise Price of SAR Awards(5)Grant Date Fair Value Awards(6)
+Name & Type of Award Grant Date(1)Estimated Possible Payouts Under Non-Equity Incentive Plan Awards Estimated Future Payouts Under Equity Incentive Plan AwardsUnderlying Common StockNumber of SARs Awarded(4)Exercise Price of SAR Awards(5)Grant Date Fair Value Awards(6)
+Threshold Target Maximum Threshold Target Maximum 
+STI(2) n/a $ —   $ 278,533   $ 461,912   $ —   $ 137,188   $ 230,956   Class B       
+PSU(3) 11/14/2017       —   5,468   10,936   Class B     $450,071 
+SAR 11/14/2017             Class B 18,543 $82.31 $450,010 
+STI(2) n/a $ —   $ 172,928   $ 286,780   $ —   $ 85,174   $ 143,390   Class B       
+PSU(3) 11/14/2017       —   1,823   3,646   Class B     $150,051 
+SAR 11/14/2017             Class B 6,181 $82.31 $150,003 
+STI(2) n/a $ —   $ 171,812   $ 284,929   $ —   $ 84,624   $ 142,464   Class B       
+PSU(3) 11/14/2017       —   1,823   3,646   Class B     $150,051 
+SAR 11/14/2017             Class B 6,181 $82.31 $150,003 
+STI(2) n/a $ —   $ 127,014   $ 210,637   $ —   $ 62,559   $ 105,318   Class B       
+PSU(3) 11/14/2017       —   1,823   3,646   Class B     $150,051 
+SAR 11/14/2017             Class B 6,181 $82.31 $150,003 
+STI(2) n/a $ —   $ 126,995   $ 210,605   $ —   $ 62,550   $ 105,303   Class B       
+PSU(3) 11/14/2017       —   1,823   3,646   Class B     $150,051 
+SAR 11/14/2017             Class B 6,181 $82.31 $150,003 
+(1) The grant date is the date the Board of Directors ratifies the Executive Compensation Committee's approval of the awards. 
+(2) Actual amounts paid in cash under the STI plan in fiscal 2018 are reflected in the Summary Compensation Table under the Non-Equity Incentive Plan Compensation column on page 25. Actual amount of stock earned under the STI plan in fiscal 2018 is reflected in the Summary Compensation Table as part of the amount shown in the Stock Award column. The amounts shown for the maximum possible payouts under the Non-Equity Incentive Plan Awards represent the cap that payments are subject to under the STI plan, as described on page 21.  
+(3) The NEOs were granted PSUs in fiscal 2018 that could convert into Class B shares of Company stock at the end of the three-year performance period based on two equally-weighted performance criteria. Each criterion has specified threshold, target and maximum performance payout levels such that performance below threshold results in no PSUs being earned, performance at target results in 50% of the PSUs being earned and performance at maximum results in 100% of the PSUs being earned. Proportional adjustment(s) will be applied for performance falling between threshold and target or target and maximum payout. Accordingly, the NEOs may receive between 0% and 200% of the target number of PSUs granted at the end of the performance period. 
+(4) The amounts shown for SAR awards represent the number of SARs granted to each officer during fiscal 2018. SARs were granted for Class B shares and vest in equal increments over three years. 
+(5) The exercise price of a SAR on Class B shares will be equal to the fair market value of one Class B stock share as defined in the 2014 LTI Plan. 
+(6) This column shows the aggregate grant date fair value computed in accordance with ASC 718. For SAR awards, the amount is based on the fair value of the equity-based award as determined using the Black-Scholes option-pricing model multiplied by the number of securities underlying the SAR awards. For PSUs, the actual value of units received will depend on the Company's performance and market value of common stock at the time of settlement. The grant date fair value is based on the fair value of the equity-based award multiplied by the number of securities underlying the target PSUs. This represents the amount that the Company expects to expense for accounting purposes over the award's vesting schedule. The amounts do not reflect the actual amounts that may be realized by the executive officers. Assumptions made in the calculations of these amounts may be found in Note 16 to the audited financial statements in the Company's Annual Report on Form 10-K for the fiscal year ended September 29, 2018. 
+[END TABLE]
+— OUTSTANDING EQUITY AWARDS AT 2018 FISCAL YEAR-END —
+[BEGIN TABLE]
+  Option/SAR Awards(1) Stock Awards 
+Name Grant DateCommon StockNumber of Securities Underlying Unexercised Options/ SARs - ExercisableNumber of Securities Underlying Unexercised Options/ SARs - UnexercisableExercise PriceExpiration DateGrant DateCommon StockNumber of Unvested PSUsMarket Value of Unvested PSUs(2)
+Name Grant DateCommon StockNumber of Securities Underlying Unexercised Options/ SARs - ExercisableNumber of Securities Underlying Unexercised Options/ SARs - UnexercisableExercise PriceExpiration DateGrant DateCommon StockNumber of Unvested PSUsMarket Value of Unvested PSUs(2)
+Name Grant DateCommon StockNumber of Securities Underlying Unexercised Options/ SARs - ExercisableNumber of Securities Underlying Unexercised Options/ SARs - UnexercisableExercise PriceExpiration DateGrant DateCommon StockNumber of Unvested PSUsMarket Value of Unvested PSUs(2)
+Name Grant DateCommon StockNumber of Securities Underlying Unexercised Options/ SARs - ExercisableNumber of Securities Underlying Unexercised Options/ SARs - UnexercisableExercise PriceExpiration DateGrant DateCommon StockNumber of Unvested PSUsMarket Value of Unvested PSUs(2)
+Scannell 10/31/2008 Class A 20,500   —   $ 35.120   10/31/2018 11/15/2016 Class B 5,000   $ 416,250   
+  12/1/2009 Class A 15,375   —   $ 26.660   12/1/2019 11/14/2017 Class B 5,468   $ 455,211   
+  11/30/2010 Class A 20,500   —   $ 36.860   11/30/2020         
+  11/30/2011 Class A 27,000   —   $ 41.820   11/30/2021             
+  11/27/2012 Class A 31,791   —   $ 36.410   11/27/2022         
+  11/11/2013 Class A 15,000   —   $ 61.690   11/11/2023         
+  11/11/2014 Class A 15,000   —   $ 74.380   11/11/2024         
+  11/17/2015 Class A 3,334   1,666   $ 63.040   11/17/2025         
+  11/17/2015 Class B 6,667   3,333   $ 65.900   11/17/2025         
+  11/15/2016 Class B 6,667   13,333   $ 71.648   11/15/2026         
+  11/14/2017 Class B —   18,543   $ 82.310   11/14/2027         
+Fishback 12/1/2009 Class A 15,375   —   $ 26.660   12/1/2019 11/15/2016 Class B 2,500   $ 208,125   
+  11/30/2010 Class A 20,500   —   $ 36.860   11/30/2020 11/14/2017 Class B 1,823   $ 151,765   
+  11/30/2011 Class A 20,500   —   $ 41.820   11/30/2021         
+  11/27/2012 Class A 20,500   —   $ 36.410   11/27/2022         
+  11/11/2013 Class A 10,000   —   $ 61.690   11/11/2023         
+  11/11/2014 Class A 10,000   —   $ 74.380   11/11/2024         
+  11/17/2015 Class A 2,222   1,111   $ 63.040   11/17/2025         
+  11/17/2015 Class B 4,445   2,222   $ 65.900   11/17/2025         
+  11/15/2016 Class B 3,334   6,666   $ 71.648   11/15/2026         
+  11/14/2017 Class B —   6,181   $ 82.310   11/14/2027         
+Aubrecht 11/27/2012 Class A 20,500   —   $ 36.410   11/27/2022 11/15/2016 Class B 2,500   $ 208,125   
+  11/11/2013 Class A 10,000   —   $ 61.690   11/11/2023 11/14/2017 Class B 1,823   $ 151,765   
+  11/11/2014 Class A 10,000   —   $ 74.380   11/11/2024         
+  11/17/2015 Class A 2,222   1,111   $ 63.040   11/17/2025         
+  11/17/2015 Class B 4,445   2,222   $ 65.900   11/17/2025         
+  11/15/2016 Class B 3,334   6,666   $ 71.648   11/15/2026             
+  11/14/2017 Class B —   6,181   $ 82.310   11/14/2027             
+Trabert 11/11/2013 Class A 2,000   —   $ 61.690   11/11/2023 11/15/2016 Class B 2,500   $ 208,125   
+  11/11/2014 Class A 2,000   —   $ 74.380   11/11/2024 11/14/2017 Class B 1,823   $ 151,765   
+  11/17/2015 Class A 2,222   1,111   $ 63.040   11/17/2025         
+  11/17/2015 Class B 4,445   2,222   $ 65.900   11/17/2025         
+  11/15/2016 Class B 3,334   6,666   $ 71.648   11/15/2026         
+  11/14/2017 Class B —   6,181   $ 82.310   11/14/2027         
+Burghardt 11/30/2011 Class A 4,000   —   $ 41.820   11/30/2021 11/15/2016 Class B 2,500   $ 207,900   
+  11/27/2012 Class A 4,000   —   $ 36.410   11/27/2022 11/14/2017 Class B 1,823   $ 151,765   
+  11/11/2013 Class A 2,000   —   $ 61.690   11/11/2023         
+  11/11/2014 Class A 2,000   —   $ 74.380   11/11/2024         
+  11/17/2015 Class A 2,222   1,111   $ 63.040   11/17/2025         
+  11/17/2015 Class B 4,445   2,222   $ 65.900   11/17/2025             
+  11/15/2016 Class B 3,334   6,666   $ 71.648   11/15/2026             
+  11/14/2017 Class B —   6,181   $ 82.310   11/14/2027         
+[END TABLE]
+— OUTSTANDING EQUITY AWARDS VESTING SCHEDULE TABLE —
+[BEGIN TABLE]
+Name Option/SAR Awards   Stock Awards 
+Grant Date Class of Common StockVesting Schedule   Grant Date Class of Common StockVesting Schedule(1)
+Grant Date Class of Common StockVesting Schedule   Grant Date Class of Common StockVesting Schedule(1)
+Scannell 10/31/2008 Class A 33% in 2009, 2010 and 2011   11/15/2016 Class B 100% in 2019 
+  12/1/2009 Class A 33% in 2010, 2011 and 2012   11/14/2017 Class B 100% in 2020 
+  11/30/2010 Class A 33% in 2011, 2012 and 2013         
+  11/30/2011 Class A 33% in 2012, 2013 and 2014         
+  11/27/2012 Class A 33% in 2013, 2014 and 2015         
+  11/11/2013 Class A 33% in 2014, 2015 and 2016         
+  11/11/2014 Class A 33% in 2015, 2016 and 2017         
+  11/17/2015 Class A 33% in 2016, 2017 and 2018         
+  11/17/2015 Class B 33% in 2016, 2017 and 2018         
+  11/15/2016 Class B 33% in 2017, 2018 and 2019         
+  11/14/2017 Class B 33% in 2018, 2019 and 2020         
+Fishback 12/1/2009 Class A 33% in 2010, 2011 and 2012   11/15/2016 Class B 100% in 2019 
+  11/30/2010 Class A 33% in 2011, 2012 and 2013   11/14/2017 Class B 100% in 2020 
+  11/30/2011 Class A 33% in 2012, 2013 and 2014         
+  11/27/2012 Class A 33% in 2013, 2014 and 2015         
+  11/11/2013 Class A 33% in 2014, 2015 and 2016         
+  11/11/2014 Class A 33% in 2015, 2016 and 2017         
+  11/17/2015 Class A 33% in 2016, 2017 and 2018         
+  11/17/2015 Class B 33% in 2016, 2017 and 2018         
+  11/15/2016 Class B 33% in 2017, 2018 and 2019         
+  11/14/2017 Class B 33% in 2018, 2019 and 2020         
+Aubrecht 11/27/2012 Class A 33% in 2013, 2014 and 2015   11/15/2016 Class B 100% in 2019 
+  11/11/2013 Class A 33% in 2014, 2015 and 2016   11/14/2017 Class B 100% in 2020 
+  11/11/2014 Class A 33% in 2015, 2016 and 2017         
+  11/17/2015 Class A 33% in 2016, 2017 and 2018         
+  11/17/2015 Class B 33% in 2016, 2017 and 2018         
+  11/15/2016 Class B 33% in 2017, 2018 and 2019         
+  11/14/2017 Class B 33% in 2018, 2019 and 2020         
+Trabert 11/11/2013 Class A 33% in 2014, 2015 and 2016   11/15/2016 Class B 100% in 2019 
+  11/11/2014 Class A 33% in 2015, 2016 and 2017   11/14/2017 Class B 100% in 2020 
+  11/17/2015 Class A 33% in 2016, 2017 and 2018         
+  11/17/2015 Class B 33% in 2016, 2017 and 2018         
+  11/15/2016 Class B 33% in 2017, 2018 and 2019         
+  11/14/2017 Class B 33% in 2018, 2019 and 2020         
+Burghardt 11/30/2011 Class A 33% in 2012, 2013 and 2014   11/15/2016 Class B 100% in 2019 
+  11/27/2012 Class A 33% in 2013, 2014 and 2015   11/14/2017 Class B 100% in 2020 
+  11/11/2013 Class A 33% in 2014, 2015 and 2016         
+  11/11/2014 Class A 33% in 2015, 2016 and 2017         
+  11/17/2015 Class A 33% in 2016, 2017 and 2018         
+  11/17/2015 Class B 33% in 2016, 2017 and 2018         
+  11/15/2016 Class B 33% in 2017, 2018 and 2019         
+  11/14/2017 Class B 33% in 2018, 2019 and 2020         
+[END TABLE]
+— 2018 OPTION AND SAR EXERCISES AND STOCK VESTED —
+The following table provides information for the executive officers named in the Summary Compensation Table regarding the exercises of stock options and SARs and stock awards that vested during the fiscal year ended September 29, 2018.
+[BEGIN TABLE]
+  Option / SAR Awards Stock Awards 
+Name Number of Shares Acquired on Exercise(1)Value Realized on ExerciseNumber of Shares Acquired on VestingValue Realized  on Vesting(5)
+Name Number of Shares Acquired on Exercise(1)Value Realized on ExerciseNumber of Shares Acquired on VestingValue Realized  on Vesting(5)
+John R. Scannell (2) 20,250   $ 749,858   1,576   $ 134,733   
+Donald R. Fishback (3) 23,394   $ 1,109,987   1,051   $ 89,849   
+Richard A. Aubrecht (4) 41,000   $ 1,851,868   1,051   $ 89,849   
+Mark J. Trabert —   —   1,051   $ 89,849   
+R. Eric Burghardt —   —   1,051   $ 89,849   
+(1) For SARs that were exercised, the number of shares in this column reflects the nominal number of shares that were subject to SARs. The number of shares actually received upon exercise of SARs was lower and represented the value realized on exercise divided by the market value at the time of exercise. 
+(2) The following details Mr. Scannell's stock option and/or SAR exercises in fiscal 2018: 
+Exercise Date Grant Date Type of Award Number of Options/SARs Exercised Exercise Price Amount Realized 
+11/20/2017 11/26/2007 Stock Option 20,250 $42.45 $749,858 
+(3) The following details Mr. Fishback's stock option and/or SAR exercises in fiscal 2018: 
+Exercise Date Grant Date Type of Award Number of Options/SARs Exercised Exercise Price Amount Realized 
+11/26/2017 11/26/2007 Stock Option 2,894 $42.45 $111,332 
+8/22/2018 10/31/2008 SAR 10,000 $35.12 $451,824 
+9/28/2018 10/31/2008 SAR 10,500 $35.12 $546,831 
+(4) The following details Dr. Aubrecht's stock option and/or SAR exercises in fiscal 2018: 
+Exercise Date Grant Date Type of Award Number of Options/SARs Exercised Exercise Price Amount Realized 
+11/8/2017 11/30/2010 SAR 20,500 $36.86 $976,767 
+11/8/2017 11/30/2011 SAR 20,500 $41.82 $875,101 
+[END TABLE]
+[BEGIN TABLE]
+(5)   Based on the closing price of the Company's common stock on the date that the stock award vested. 
+[END TABLE]
+EQUITY COMPENSATION PLAN INFORMATION
+The Company maintains the 2008 SAR Plan and the 2014 LTI Plan. Set forth below is information as of September 29, 2018 regarding equity compensation awards and the resultant shares that may be issued under those plans. As of September 29, 2018, all outstanding awards and all grants remaining available for future issuance may result in the issuance of either Class A or Class B shares.
+[BEGIN TABLE]
+Plan Category Number of Securities to be Issued Upon Exercise of Outstanding Options, Warrants and Rights(1)Weighted-Average Exercise Price of Outstanding Options, Warrants and RightsNumber of Options,  Warrants and Rights  Remaining Available for  Issuance Under Equity  Compensation Plans(2) 
+Plan Category Number of Securities to be Issued Upon Exercise of Outstanding Options, Warrants and Rights(1)Weighted-Average Exercise Price of Outstanding Options, Warrants and RightsNumber of Options,  Warrants and Rights  Remaining Available for  Issuance Under Equity  Compensation Plans(2) 
+Plan Category Number of Securities to be Issued Upon Exercise of Outstanding Options, Warrants and Rights(1)Weighted-Average Exercise Price of Outstanding Options, Warrants and RightsNumber of Options,  Warrants and Rights  Remaining Available for  Issuance Under Equity  Compensation Plans(2) 
+Plan Category Number of Securities to be Issued Upon Exercise of Outstanding Options, Warrants and Rights(1)Weighted-Average Exercise Price of Outstanding Options, Warrants and RightsNumber of Options,  Warrants and Rights  Remaining Available for  Issuance Under Equity  Compensation Plans(2) 
+  Equity Compensation Plans   Approved by Security Holders 408,601 $57.56 1,424,878 
+  Equity Compensation Plans   Not Approved by Security Holders (3) — — — 
+Total 408,601 $57.56 1,424,878 
+(2) At the fiscal 2018 year-end, the number of options, warrants and rights remaining available for future issuance by plan were 1,424,878 available for the 2014 LTI Plan. There are no options, warrants and rights remaining available for issuance under the 2008 SAR Plan. 
+(3) The Company has no equity compensation plans that have not been approved by security holders.  
+[END TABLE]
+PENSION BENEFITS
+The Company maintains the Moog Inc. Employees' Retirement Plan ("ERP"), a tax-qualified defined benefit retirement plan. The ERP is funded by employer contributions and currently all of the NEOs participate in the ERP.
+Compensation used to determine the benefit accrual available to U.S. based executive officers under the qualified defined benefit plan is limited to $270,000 in base compensation for the plan year ending September 29, 2018.
+The Internal Revenue Code limits the benefits that may be paid from the ERP. The Company maintains two supplemental retirement plans, the Moog Inc. Plan to Equalize Retirement Income and Supplemental Executive Retirement Plan ("PERI-SERP") and the Moog Inc. Defined Contribution Supplemental Executive Retirement Plan ("DC SERP") for certain executive officers, including the NEOs, to bridge the gap between legally mandated limits on qualified pension plan benefits and the retirement benefits offered at comparable public companies, and to provide participants with supplemental benefits. Each NEO participates in the PERI-SERP, while Messrs. Fishback, Trabert, and Burghardt also participate in the DC SERP.
+While the Company formally funds the ERP, the PERI-SERP and the DC SERP are not formally funded. Rabbi Trusts, however, were established under which certain funds have been set aside to satisfy some of the obligations under the PERI-SERP and DC SERP. If the funds in the Rabbi Trusts are insufficient to pay amounts payable under the PERI-SERP and DC SERP, the Company will pay the difference.
+MOOG INC. EMPLOYEES' RETIREMENT PLAN
+Under the ERP, benefits are generally payable monthly upon retirement to participating employees of the Company. These benefits are based upon compensation and years of service and subject to limitations imposed by the Employee Retirement Income Security Act of 1974 ("ERISA") and the Internal Revenue Code. The ERP is administered by a Retirement Plan Committee and covers all eligible employees with one year of service and a minimum of 1,000 hours of employment. New U.S. based employees hired on or after January 1, 2008 are not eligible to participate in the ERP. New U.S. based employees hired after that date are covered under a defined contribution plan.
+Benefits payable under the ERP are determined on the basis of compensation and credited years of service. A participant's accrued benefit is equal to the sum of the participant's prior service benefit, if any, and the participant's future service benefit.
+A participant is entitled to a prior service benefit if the participant was actively employed on or after January 1, 1998 (or retired as of January 1, 1998) and was employed by the Company before October 1, 1990. The prior service benefit is 1.15% of the first $20,000 of prior service compensation, plus 1.75% of prior service compensation in excess of $20,000, multiplied by the participant's prior service. "Prior service compensation" is the greater of (i) the participant's basic annual rate of pay on January 1, 1988, and (ii) the amount of the participant's annual rate of pay plus overtime and shift differential received in the calendar year ending December 31, 1989, not to exceed $150,000. "Prior service" is the number of years and completed months of credited service with the Company through October 1, 1990.
+A participant's future service benefit is computed separately for each year of credited service beginning with October 1, 1990, or the participant's date of hire, if later, and is equal to 1.15% of the participant's future service compensation not in excess of $20,000, plus 1.75% of the participant's future service compensation in excess of $20,000. In any event, after a participant is credited with 35 years of combined prior service and future service, the participant's benefit for each year of future service will be 1.75% of future service compensation. "Future service compensation" with respect to a plan year is the amount of basic annual pay, plus any overtime or shift differential, a participant receives in the calendar year ending within that plan year. The maximum dollar amount of future service compensation that may be used for ERP purposes is set by law and adjusted periodically. The maximum dollar amount is $270,000 for the plan year ending September 29, 2018.
+Any participant who entered the ERP before the 2002 plan year and retires with five years or more of service will receive a minimum pension benefit. If the participant joined the ERP before October 1, 2002 and retires at age 65 with 15 or more years of vesting service, the minimum pension benefit will be at least $2,400 per year. If the participant joined the ERP before October 1, 2002 and retires at age 65 with between 5 and 15 years of service, the minimum pension benefit will be a prorated portion of the $2,400 per year minimum benefit.
+A participant generally may retire and begin receiving ERP benefits at normal retirement age (age 65). A participant also may retire and begin receiving plan benefits on the first day of any month coincident with or next following the participant's 55th birthday, but only if the participant has completed 15 years of vesting service. The amount of a participant's monthly ERP benefit, however, will be discounted or reduced .5% for each month the early retirement benefit commences before normal retirement age.
+MOOG INC. SUPPLEMENTAL RETIREMENT PLANS
+Effective August 9, 2017, the Company combined the Moog Inc. Plan to Equalize Retirement Income ("PERI") into the Moog Inc. Supplemental Retirement Plan ("DB SERP") and renamed this combined plan the Moog Inc. Plan to Equalize Retirement Income and Supplemental Retirement Plan ("PERI-SERP"). The PERI-SERP provides for supplemental retirement benefits to eligible Company officers, including the NEOs. The PERI-SERP plan document includes separate subsections that set out the rights and provisions attributable to, and maintains the benefits of, both the DB SERP and the PERI. Messrs. Scannell and Fishback and Dr. Aubrecht have accrued DB SERP benefits, while Messrs. Trabert and Burghardt have accrued PERI benefits under the PERI-SERP.  
+Assuming a participant qualifies for full benefits, the DB SERP payment upon retirement is equal to 65% of the officer's compensation, less any benefits payable under the ERP, certain benefits payable under other Company-sponsored retirement programs, and reduced further by one-half the primary Social Security benefit payable at age 65. All DB SERP benefits are assumed to be paid monthly in accordance with the plan document. DB SERP benefits payable to officers who have service with overseas subsidiaries of the Company are adjusted to account for benefits in subsidiary and national pension and social security plans. For the purposes of determining DB SERP benefits, an eligible officer's compensation generally is the sum of (i) the average of the officer's highest consecutive three-year base salary prior to retirement plus (ii) the officer's highest annual profit share/bonus within the ten fiscal years prior to retirement.
+To vest in DB SERP benefits, eligible officers must generally have (i) at least 10 years of service with the Company and (ii) attained (a) age 65 or (b) age 60 with a total combined age and years of service equal to at least 90. Full DB SERP benefits are payable when the participant reaches age 65 with at least 25 years of service. Officers who became participants in the DB SERP on or before November 30, 2011 generally vest in DB SERP benefits if the officer has (i) at least ten years of service and (ii) attained (a) age 65 or (b) age 57 with total combined age and years of service equal to at least 90. Officers who became participants in the DB SERP on or before November 30, 2011 are eligible for unreduced benefits upon reaching age 57 with at least 25 years of service. 
+In the event of disability, or an involuntary termination or change in control after a participant has at least ten years of service with the Company, participants also become vested in DB SERP benefits. A termination where there has been an adverse change in duties, responsibilities, status, pay or perquisites without participant consent within two years of a change in control of the Company, as defined by the PERI-SERP, is deemed an involuntary termination, as is a termination where the participant's pay has been diminished or reduced to a greater extent than the other executives of the Company. In addition, if a married participant dies before commencing DB SERP benefits, the participant's surviving spouse is entitled to a spousal DB SERP benefit, which shall be payable in the form of a life annuity, if (i) the participant has at least five years of service, and (ii) the participant and his or her surviving spouse have been married for at least twelve months prior to the participant's death. In the event of the participant's involuntary termination for cause, the DB SERP benefits, whether vested or unvested, are immediately forfeited. 
+PERI benefits under the PERI-SERP are intended to supplement benefits provided under the ERP by providing additional benefits that would be payable under the ERP if not for the compensation limitations imposed by the IRS. A participant vests in his or her PERI benefits if the participant retires from the Company on or after reaching his or her Earlier Retirement Date or Normal Retirement Date, as those terms are defined in the ERP.  In the event the participant becomes disabled, the participant will become 100% vested in his or her PERI benefit.  If a married participant dies before commencing PERI benefits, the participant's surviving spouse is entitled to a spousal PERI benefit to the extent the surviving spouse is entitled to pre-retirement survivor benefits under the ERP.
+The DC SERP provides supplemental retirement benefits to a select group of officers. The Company may make a company contribution on behalf of an eligible officer each pay period equal to a specified percentage of gross base salary. The Company may also make a discretionary contribution on behalf of one or more eligible officers. In addition, in the event that a participant incurs an "involuntary termination of employment" following the occurrence of a "company transaction" (as those terms are defined in the First Amendment to the DC SERP), the Company is required to make a "company transaction contribution" (as that term is defined in the First Amendment to the DC SERP) on behalf of an eligible participant.  A "company transaction contribution" will be computed as the product of (i) the number of full months by which the date of the eligible participant's involuntary termination of employment precedes his or her 68th birthday, times (ii) 54% of the participant's monthly gross base salary as in effect at the time of his or her involuntary termination of employment.  To be eligible to receive a company transaction contribution, an individual must have been a participant in the DC SERP on the effective date of the First Amendment to the DC SERP and granted, pursuant to the terms of the DC SERP, the right to receive a required company contribution under the DC SERP from the Company of greater than 0% of gross base salary.  Given these requirements, Messrs. Trabert and Burghardt would be eligible to receive a company transaction contribution upon their involuntary termination following a company transaction, but Mr. Fishback would not be eligible.  A participant in the DC SERP becomes vested after 3 years of service or in the event of death, change in control or disability. In general, the DC SERP benefit is paid in either a lump sum or annual installments, except that (i) a participant's entire vested benefit will be paid to him or her in a lump sum upon a change in control, and (ii) any amounts attributable to a company transaction contribution will be paid to the officer in a lump sum following his or her involuntary termination of employment.
+— 2018 PENSION BENEFITS TABLE —
+The years of credited service and present value of accumulated benefits for the NEOs under the ERP and the PERI-SERP are:
+[BEGIN TABLE]
+Name Plan Name Number of Years  Credited Service (1)Present Value of Accumulated Benefits (2)Payments During Last Fiscal Year
+Name Plan Name Number of Years  Credited Service (1)Present Value of Accumulated Benefits (2)Payments During Last Fiscal Year
+Name Plan Name Number of Years  Credited Service (1)Present Value of Accumulated Benefits (2)Payments During Last Fiscal Year
+John R. Scannell ERP 15.167   $ 550,407     —   
+  PERI-SERP (4) 26.667   $ 10,539,072     —   
+Donald R. Fishback (3) ERP 37.167   $ 1,207,426     —   
+  PERI-SERP (4) 37.167   $ 6,313,492     —   
+Richard A. Aubrecht (3) ERP 46.833   $ 1,779,273     —   
+  PERI-SERP (4) 39.750   $ 3,851,676     $ 124,509   
+Mark J. Trabert (3) ERP 33.750   $ 855,084     —   
+  PERI-SERP (4) 5.000   $ 76,058     —   
+R. Eric Burghardt (3) ERP 29.583   $ 918,099     —   
+  PERI-SERP (4) 7.000   $ 85,226     —   
+(3) Eligible for early retirement under the ERP. 
+(4) Messrs. Scannell and Fishback and Dr. Aubrecht have accrued DB SERP benefits, while Messrs. Trabert and Burghardt have accrued PERI benefits under the PERI-SERP.   
+[END TABLE]
+— 2018 NON-QUALIFIED DEFERRED COMPENSATION —
+[BEGIN TABLE]
+Name Executive Contributions in Last Fiscal Year(1)Registrant Contributions in Last Fiscal Year(2)Aggregate Earnings in Last Fiscal Year(3)Aggregate Withdrawals/ DistributionsAggregate Balance at Last FYE  
+Name Executive Contributions in Last Fiscal Year(1)Registrant Contributions in Last Fiscal Year(2)Aggregate Earnings in Last Fiscal Year(3)Aggregate Withdrawals/ DistributionsAggregate Balance at Last FYE  
+Name Executive Contributions in Last Fiscal Year(1)Registrant Contributions in Last Fiscal Year(2)Aggregate Earnings in Last Fiscal Year(3)Aggregate Withdrawals/ DistributionsAggregate Balance at Last FYE  
+John R. Scannell —   —     —   —   —   
+Donald R. Fishback —   $ 366,672     $ 21,084   —   $ 672,944   
+Richard A. Aubrecht —   —     —   —   —   
+Mark J. Trabert —   $ 168,097     $ 58,946   —   $ 613,392   
+R. Eric Burghardt —   $ 168,072     $ 78,314   —   $ 637,213   
+(2) Registrant Contributions in fiscal 2018 are reported in the All Other Compensation column of the Summary Compensation Table on page 25. 
+(3) Aggregate Earnings in fiscal 2018 are reported in the Change in Pension Value and Non-Qualified Deferred Compensation Earnings column of the Summary Compensation Table on page 25. DC SERP participants are permitted to direct the investment of their DC SERP accounts among the investment options made available by the Company with respect to the DC SERP.  Earnings are determined by reference to the investment performance of the investments selected by a participant.  A participant may modify his or her investment election, on a prospective basis, at any time. 
+[END TABLE]
+POTENTIAL PAYMENTS UPON TERMINATION OR CHANGE IN CONTROL
+ EMPLOYMENT, SEVERANCE AND CHANGE IN CONTROL
+The Company has entered into Employment Termination Benefits Agreements ("Termination Agreements") with its executive officers. These Termination Agreements cover termination as a result of death, disability, retirement, termination for cause, voluntary and involuntary termination of employment, as well as involuntary termination after a change in control. The following is a summary of the termination benefits provided under various circumstances. A discussion of the executive officers' pension benefits under these various circumstances, including a discussion of the company transaction contribution under the DC SERP, can be found under "Pension Benefits" which begins on page 32.
+PAYMENT UPON DEATH, DISABILITY OR RETIREMENT
+In the event of the death of an officer, the estate or surviving spouse will receive a payment of six months' salary, a STI payment pro-rated to the last day of the month in which the officer's death occurs, and any unused vested vacation. A payment of approximately two times annual salary will be paid under the Company's Group Life Insurance plan, subject to a cap of $4,000,000. The estate or surviving spouse will receive payments under the Company's pension and 401(k) plans, and all unexpired stock options and SARs will fully vest, and the estate or surviving spouse will have one year to exercise unexpired ISOs and two years to exercise unexpired NQSOs and SARs. Unvested PSUs will be paid out at target, pro-rated for the number of full quarters completed prior to death within the performance period.
+In the event an officer becomes disabled or retires, the officer is entitled to the same benefits, as described above, with the exception of life insurance, salary continuation, STI payment and PSU settlement. If the officer becomes disabled, the officer also will receive payments under the Company's disability plan. STI will be paid on a pro-rated basis for full months of service prior to the date of disability. Unvested PSUs will be forfeited.
+If the officer retires, the officer will receive all benefits provided generally by the Company to its executives upon retirement, including benefits under any retirement or supplemental retirement plans and insurance benefits provided upon retirement. STI will be paid on a pro-rated basis for full months of service prior to the date of retirement. Unvested PSUs will remain available to be earned at the end of the performance period, subject to the performance criteria and pro-rated for the number of full years completed prior to retirement within the performance period.
+PAYMENT UPON TERMINATION FOR CAUSE
+Under the Termination Agreements, "cause" is considered a harmful act or omission constituting a willful and a continuing failure to perform material and essential employment obligations, conviction of a felony, willful perpetration of common law fraud, or any willful misconduct or bad faith omission constituting dishonesty, fraud or immoral conduct, which is materially injurious to the financial condition or business reputation of the Company. If terminated for "cause," the officer is entitled to all benefits vested under retirement plans, and payment of unused vested vacation. The officer is not entitled to STI, no severance is provided and all stock options, SARs and PSUs expire.
+PAYMENT UPON VOLUNTARY TERMINATION
+When an officer voluntarily terminates employment with the Company, the officer is entitled to receive all pension benefits accrued under any retirement or supplemental retirement plans up to the date of termination (subject to the rules referenced above in the PERI-SERP description), and payment for all unused vested vacation. The officer is entitled to exercise all ISOs within one year of termination and all NQSOs within two years of termination. All unexpired vested SARs are exercisable within ninety days of termination and all unvested SARs and PSUs will expire at the close of business on the date of termination.
+PAYMENT UPON INVOLUNTARY TERMINATION WITHOUT CAUSE AND AFTER A CHANGE IN CONTROL
+The termination benefits provided to an officer under the Termination Agreements in the case of involuntary termination without cause and in the event of involuntary termination after a change in control are the same, except each event references a different credited years of service table to determine salary continuance. The officer will receive salary continuance for no less than 12 months and no more than 36 months, depending on length of service. STI will be paid on a pro-rated basis for service up to the date of termination, and any unused vested vacation will be paid. The Company will pay, for one year after involuntary termination without cause or involuntary termination after a change in control, medical, life and disability premiums on behalf of the officer, one year of auto related expenses, as well as one year of club membership dues for which reimbursement was provided by the Company. The officer is entitled to all vested benefits under any retirement or supplemental retirement plans. Upon involuntary termination without cause, the officer is entitled to exercise all ISOs within one year of termination and all NQSOs within two years of termination. All unexpired vested SARs are exercisable within ninety days of termination and all unvested SARs and PSUs will expire at the close of business on the date of termination. Upon involuntary termination after a change in control, all unexpired stock options and SARs will fully vest and the officer is entitled to exercise all ISOs within one year of termination and all NQSOs and SARs within two years of termination. All unvested PSUs will fully vest and will be paid out at the maximum level of performance.
+The Termination Agreements provide that an officer cannot compete with the Company during the term of the Termination Agreement, and in the event of an involuntary termination after a change in control, until the last payment of any benefits to the officer under the Termination Agreement. Each Termination Agreement also requires each officer not to disclose confidential information of the Company during the term of the Termination Agreement or thereafter.
+The following table shows potential payments to the NEOs upon disability and death, voluntary termination, involuntary termination without cause or involuntary termination following a change in control. The amounts shown assume that the termination was effective September 29, 2018, the last business day of the Company's most recent fiscal year end. The actual amounts to be paid can only be determined at the actual time of an officer's termination.
+[BEGIN TABLE]
+Name Type of Payment Death Disability or Retirement Voluntary Termination Involuntary Termination Without Cause Involuntary Termination After a Change   in Control 
+Scannell Severance (1)   —     —     —     $ 2,369,291     $ 2,751,435   
+  Salary Continuance (2)   $ 458,573     —     —     —     —   
+  STI (3)   $ 291,910     $ 291,910     —     $ 291,910     $ 291,910   
+  Insurance Coverage (4)   —     —     —     $ 34,416     $ 34,416   
+  Other perquisites (5)   —     —     —     $ 13,580     $ 13,580   
+  Stock Option & SAR awards (6)   $ 6,804,354     $ 6,804,354     $ 6,536,205     $ 6,804,354     $ 6,804,354   
+  Stock awards (7)   $ 429,920     —     —     —     $ 1,742,922   
+  Company transaction contribution under DC SERP (8)   —     —     —     —     —   
+  Total   $ 7,984,756     $ 7,096,264     $ 6,536,205     $ 9,513,551     $ 11,638,616   
+Fishback Severance (1)   —     —     —     $ 1,708,152     $ 1,708,152   
+  Salary Continuance (2)   $ 284,692     —     —     —     —   
+  STI (3)   $ 181,203     $ 181,203     —     $ 181,203     $ 181,203   
+  Insurance Coverage (4)   —     —     —     $ 32,345     $ 32,345   
+  Other perquisites (5)   —     —     —     $ 10,932     $ 10,932   
+  Stock Option & SAR awards (6)   $ 4,512,330     $ 4,512,330     $ 4,365,154     $ 4,512,330     $ 4,512,330   
+  Stock awards (7)   $ 189,645     —     —     —     719,780   
+  Company transaction contribution under DC SERP (8)   —     —     —     —     —   
+  Total   $ 5,167,870     $ 4,693,533     $ 4,365,154     $ 6,444,962     $ 7,164,742   
+Aubrecht Severance (1)   —     —     —     $ 1,697,124     $ 1,697,124   
+  Salary Continuance (2)   $ 282,854     —     —     —     —   
+  STI (3)   $ 180,052     $ 180,052     —     $ 180,052     $ 180,052   
+  Insurance Coverage (4)   —     —     —     $ 25,364     $ 25,364   
+  Other perquisites (5)   —     —     —     $ 5,000     $ 5,000   
+  Stock Option & SAR awards (6)   $ 1,688,608     $ 1,688,608     $ 1,541,432     $ 1,688,608     $ 1,688,608   
+  Stock awards (7)   $ 189,645     —     —     —     719,780   
+  Company transaction contribution under DC SERP (8)   —     —     —     —     —   
+  Total   $ 2,341,159     $ 1,868,660     $ 1,541,432     $ 3,596,149     $ 4,315,929   
+[END TABLE]
+[BEGIN TABLE]
+Name Type of Payment Death Disability or Retirement Voluntary Termination Involuntary Termination Without Cause Involuntary Termination After a Change   in Control 
+Trabert Severance (1)   —     —     —     $ 1,263,819     $ 1,263,819   
+  Salary Continuance (2)   $ 210,637     —     —     —     —   
+  STI (3)   $ 134,104     $ 134,104     —     $ 134,104     $ 134,104   
+  Insurance Coverage (4)   —     —     —     $ 24,843     $ 24,843   
+  Other perquisites (5)   —     —     —     $ 14,096     $ 14,096   
+  Stock Option & SAR awards (6)   $ 385,668     $ 385,668     $ 238,492     $ 385,668     $ 385,668   
+  Stock awards (7)   $ 189,645     —     —     —     $ 719,780   
+  Company transaction contribution under DC SERP (8)   —     —     —     —     $ 1,944,519   
+  Total   $ 920,053     $ 519,772     $ 238,492     $ 1,822,529     $ 4,486,828   
+Burghardt Severance (1)   —     —     —     $ 1,193,428     $ 1,263,630   
+  Salary Continuance (2)   $ 210,605     —     —     —     —   
+  STI (3)   $ 134,091     $ 134,091     —     $ 134,091     $ 134,091   
+  Insurance Coverage (4)   —     —     —     $ 25,032     $ 25,032   
+  Other perquisites (5)   —     —     —     $ 10,270     $ 10,270   
+  Stock Option & SAR awards (6)   $ 760,508     $ 760,508     $ 613,332     $ 760,508     $ 760,508   
+  Stock awards (7)   $ 189,645     —     —     —     $ 719,780   
+  Company transaction contribution under DC SERP (8)   —     —     —     —     $ 1,854,344   
+  Total   $ 1,294,849     $ 894,599     $ 613,332     $ 2,123,329     $ 4,767,655   
+(1) Severance payments for all NEOs under an involuntary termination due to a change in control would be 36 months, and are reflected in the table above. In the event of an involuntary termination (no change in control), severance payments for Mr. Scannell would be 31 months, Mr. Burghardt would be 34 months, and for Messrs. Fishback and Trabert and Dr. Aubrecht would be 36 months. 
+(2) Represents payment of base salary for a period of six months to the NEO's surviving spouse or estate. 
+(3) For years when there is STI, termination benefits would include those STI payments for all except voluntary termination. STI is comprised of the Bonus, Non-Equity Incentive Compensation, and a portion of Stock Awards columns included in the Summary Compensation Table. 
+(4) For purposes of determining premiums for medical, life and disability coverage, the premiums paid in fiscal 2018 are reflected. In the event of death, the estate or beneficiary of the officers will receive a life insurance payment pursuant to a plan covering all employees, subject to a cap of $4,000,000. In the event of disability, the officers are covered under a disability plan for all employees, which for officers provides up to 70% of pay until normal retirement age. 
+(5) For purposes of determining other perquisites the amount paid in fiscal 2018 for club dues and auto expenses are reflected and outplacement services have been estimated at $5,000.  
+(6) This is the value of outstanding, in the money stock option and SAR awards at September 29, 2018. The value was determined using September 28, 2018 Class A and Class B market prices. For stock options, the value was calculated by multiplying the market price by shares which can be acquired assuming all such options were exercised less the exercise price of the option. For SARs, the value was calculated for the increase in the market price over the exercise price. 
+(7) This is the value of outstanding PSU awards at September 29, 2018 that would vest and become payable without performance conditions upon termination. The value was determined using September 28, 2018 Class A and Class B market prices and was calculated by multiplying the market price by shares which would be acquired upon vest. 
+(8) Pursuant to the terms of the DC SERP, Messrs. Trabert and Burghardt would each be eligible to receive a "company transaction contribution" upon their "involuntary termination from employment" following the occurrence of a "company transaction" (as those terms are defined in the First Amendment to the DC SERP). See "Moog Inc. Supplemental Retirement Plans" above for a more complete discussion of the requirements for eligibility for, and computation of, a "company transaction contribution" under the DC SERP.  
+[END TABLE]
+CEO PAY RATIO
+As required by the Dodd-Frank Act and Regulation S-K of the Exchange Act, the following information discloses the relationship of the annual total compensation of our CEO, as set forth in the Summary Compensation Table, to that of the annual total compensation of our median employee.
+The Company identified the median employee as of July 1, 2018. As of this date, the Company had 11,430 employees located in 27 countries.  As permitted by SEC regulation, the median employee determination excluded approximately 550 individuals who became employees as a result of the VUES Brno s.r.o and the Electro-Optical Imaging, Inc. acquisitions that were completed within fiscal 2018.
+Base wages paid to all employees, excluding the CEO, annualized for employees hired within the year, were utilized to determine the median employee. Base wages were used as the consistenly applied compensation measure to determine the median employee as the variable pay programs are uniform across the Company. After identifying the median employee, the Company calculated the annual total compensation of the median employee under the same methodology used for the NEOs as set forth in the 2018 Summary Compensation Table. The annual total compensation for our median employee was then compared to 2018 Summary Compensation Table total compensation reported for Mr. Scannell, our CEO. 
+[BEGIN TABLE]
+Fiscal 2018 annual total compensation of our CEO $ 3,271,727   
+Fiscal 2018 annual total compensation of our median employee $ 51,732   
+Fiscal 2018 CEO Pay Ratio 63 : 1   
+[END TABLE]
+The Company's fiscal 2018 ratio described above is a reasonable estimate calculated in a manner consistent with Item 402(u) of Regulation S-K based upon the Company's payroll and employment records and the methodologies described above. The SEC rules permit companies to employ various methodologies, exclusions and reasonable estimates to derive the pay ratio calculation representative of their respective employee populations and compensation practices. Based upon this variability, the estimated ratio reported above should not be interpreted as a basis for comparison between companies.
+DIRECTORS AND OFFICERS INDEMNIFICATION INSURANCE
+On November 30, 2004, the Board of Directors approved indemnification agreements for officers, directors and key employees. The indemnification agreement provides that officers, directors and key employees will be indemnified for expenses, investigative costs and judgments arising from threatened, pending or completed legal proceedings. The form of the indemnification agreement was filed with the Securities and Exchange Commission as an exhibit to the Company's Current Report on Form 8-K filed on December 1, 2004.
+On November 1, 2018 the Company renewed an officers and directors indemnification insurance coverage through policies written by the Chubb Group, Travelers, AIG, AWAC, XL Caitlin, Zurich, Sompo and Argo. The renewal was for a one-year period at an annual premium of $664,678. The policy provides indemnification benefits and the payment of expenses in actions instituted against any director or officer of the Company for claimed liability arising out of their conduct in such capacities. No payments or claims of indemnification or expenses have been made under any such insurance policies purchased by the Company at any time.
+AUDIT COMMITTEE REPORT
+The Audit Committee is composed solely of independent directors, as determined by the Board of Directors under the rules of the Securities and Exchange Commission, the New York Stock Exchange listing standards, and the Company's standards for director independence. The Board of Directors has determined that each member of the Audit Committee is an "audit committee financial expert," as defined under applicable federal law and regulations. The Board of Directors has adopted a written charter for the Audit Committee, which is available on the Company's website. The Audit Committee has sole authority to appoint, terminate or replace the Company's independent registered public accounting firm, which reports directly to the Audit Committee.
+The Audit Committee reviews the Company's financial statements and the Company's financial reporting process. Management has the primary responsibility for the Company's financial statements and internal control over financial reporting, as well as disclosure controls and procedures.
+In this context, the Audit Committee reviewed and discussed with management and Ernst & Young LLP, the Company's independent registered public accounting firm, the Company's audited consolidated financial statements for the fiscal year ended September 29, 2018. In addition, the Audit Committee discussed with the independent registered public accounting firm the matters required to be discussed by the Statement on Auditing Standards No. 1301, Communications with Audit Committees, as amended or supplemented.
+The Audit Committee has received the written disclosures and the letter from the independent registered public accounting firm required by the applicable requirements of the Public Accounting Oversight Board regarding the independent public accounting firm's communications with the Audit Committee concerning independence, and the Audit Committee discussed with the independent registered public accounting firm that firm's independence.
+Based on the Audit Committee's review and discussions referred to above, the Audit Committee recommended to the Board of Directors that the audited consolidated financial statements be included in the Company's Annual Report on Form 10-K, for the fiscal year ended September 29, 2018, filed with the Securities and Exchange Commission.
+[BEGIN TABLE]
+Kraig H. Kayser, Chair      R. Bradley Lawrence 
+Peter J. Gundermann      Brenda L. Reichelderfer 
+[END TABLE]
+— AUDIT FEES AND PRE-APPROVAL POLICY —
+The following table sets forth the fees incurred by the Company related to the services of the Company's principal Independent Registered Public Accounting Firm, Ernst & Young LLP for the fiscal years ended September 29, 2018 and September 30, 2017:
+[BEGIN TABLE]
+  Fiscal Year Ended Fiscal Year Ended 
+  September 29, 2018 September 30, 2017 
+Audit Fees   $ 2,520,223     $ 2,005,440   
+Audit-Related Fees (1)   $ 12,340     —   
+Tax Fees (2)   $ 147,147     $ 140,886   
+All Other Fees (3)   $ 930     —   
+Total   $ 2,680,640     $ 2,146,326   
+(1) Audit-related fees are associated with assurance and due diligence related services 
+(2) Tax fees relate to services associated with tax planning and compliance. 
+(3) All other fees are associated with all other services other than audit, other accounting and tax services 
+[END TABLE]
+The Audit Committee pre-approves all auditing services and permitted non-audit services (including the fees and terms thereof) to be performed for the Company by its Independent Registered Public Accounting Firm, subject to any de minimis exceptions described in the Exchange Act which are approved by the Audit Committee. The Audit Committee may form and delegate authority to subcommittees consisting of one or more members when appropriate, including the authority to grant pre-approvals of audit and permitted non-audit services, provided that decisions of such subcommittee to grant pre-approvals shall be presented to the full Audit Committee at its next scheduled meeting. None of the services described above were approved by the Audit Committee under the de minimis exception provided by SEC Regulation S-X, Rule 2-01(c)(7).
+PROPOSAL 2 — RATIFICATION OF INDEPENDENT REGISTERED PUBLIC ACCOUNTING FIRM
+The Board of Directors, on the recommendation of the Audit Committee, has selected Ernst & Young LLP, an independent registered public accounting firm, to continue as independent auditors of the Company for the 2019 fiscal year. Although shareholder approval of the appointment of the independent registered public accounting firm is not required by law, the Board considers the selection of the independent auditor to be an important matter of shareholder concern and is submitting the selection of Ernst & Young LLP for ratification by shareholders as a matter of good corporate practice. Even if the appointment is ratified, the Board, in its discretion and on the recommendation of the Audit Committee, may direct the appointment of a different independent registered public accounting firm at any time during the year if the Board determines that such a change would be in the Company's and its shareholders' best interests. Representatives of Ernst & Young LLP, who will be available at the shareholders meeting, will be given the opportunity to make a statement if they so desire, and will be available to respond to appropriate questions.
+The Board of Directors recommends a vote "FOR" ratification of Ernst & Young LLP as auditors for fiscal year 2019.
+PROPOSALS OF SHAREHOLDERS FOR 2020 ANNUAL MEETING
+To be considered for inclusion in the proxy materials for the 2020 Annual Meeting of Shareholders, shareholder proposals must be received by the Secretary of the Company no later than September 18, 2019. Under the Company's by-laws, if a shareholder wishes to nominate a director or bring other business before the shareholders at the 2020 Annual Meeting without having a proposal included in the Proxy Statement for that meeting, the shareholder must notify the Secretary of the Company in writing between October 15, 2019 and November 14, 2019, and the notice must contain the specific information required by the Company's by-laws. A copy of the Company's by-laws can be obtained without charge from the Treasurer of the Company, East Aurora, New York, 14052.
+Section 1.06 of the Company's by-laws provides that proposals may be properly brought before an annual meeting by a shareholder of record (both at the time notice of the proposal is given by the shareholder and as of the record date of the annual meeting in question) of any shares of the Company entitled to vote at the annual meeting if the shareholder provides timely notice of the proposal to the Secretary of the Company in accordance with the requirements of the by-laws. A shareholder making a proposal at an annual meeting must be present at such meeting in person, and the business brought before an annual meeting must also be a proper matter for shareholder action under the New York Business Corporation Law.
+A shareholder's notice to the Secretary of the Company must set forth certain information regarding the shareholder and the proposal, including the name and address of the shareholder, a brief description of the business the shareholder desires to bring before the annual meeting and the reasons for conducting such business at such annual meeting, the class or series and number of shares beneficially owned by the shareholder, the names and addresses of other shareholders known to support such proposal and any material interest of the shareholder in such proposal.
+Section 1.06 further provides that nominations of candidates for election as directors of the Company at any annual meeting of shareholders may be made by a shareholder of record (both at the time notice of such nomination is given by the shareholder and as of the record date of the annual meeting in question) of any shares of the Company entitled to vote at the annual meeting for the election of directors if the shareholder provides timely notice to the Secretary of the Company in accordance with the requirements of the by-laws. A shareholder may nominate a candidate for election as a director only as to such class of director whose election the shareholder would be entitled to vote thereon at an annual meeting of shareholders. Any shareholder who desires to make a nomination must be present in person at the annual meeting.
+In addition to the information required in a notice of a proposal, a notice to the Secretary with respect to nominations must contain certain information regarding each proposed nominee for director, including, the nominee's name, age, business and residence address, principal occupation, the class or series and number of shares of the Company beneficially owned by the nominee and a consent of the nominee to serve as a director, if elected. The notice must also provide a description of any arrangements or understandings between the nominating shareholder and each nominee and such other information concerning the nominee as required pursuant to the rules and regulations promulgated under the Securities Exchange Act of 1934, as amended.
+Further information regarding proposals or nominations by shareholders can be found in Section 1.06 of the Company's by-laws. If the Board of Directors or a designated committee determines that any proposal or nomination was not made in a timely fashion or fails to meet the information requirements of Section 1.06 of the Company's by-laws in any material respect, such proposal or nomination will not be considered.
+As of the date of this Proxy Statement, the Board of Directors does not intend to present, and has not been informed that any other person intends to present, any matter for action at this meeting other than those specifically referred to in this Proxy Statement. If other matters properly come before the meeting, it is intended that the holders of the proxies will act with respect thereto in accordance with their best judgment.
+The cost of this solicitation of proxies will be borne by the Company. The Company may request brokerage houses, nominees, custodians and fiduciaries to forward soliciting material to the beneficial owners of stock held of record, and will reimburse such persons for any reasonable expense in forwarding the material. The Company anticipates hiring Alliance Advisors LLC to assist in the solicitation of proxies for a fee anticipated to be $6,500, plus disbursements. In addition, officers, directors and employees of the Company may solicit proxies personally or by telephone and will not receive any additional compensation.
+Copies of the 2018 Annual Report to Shareholders, which includes the Company's Annual Report on Form 10-K for the fiscal year ended September 29, 2018, are being mailed to shareholders, as are this Proxy Statement, proxy card and Notice of Annual Meeting of Shareholders. Additional copies may be obtained, without charge, from the Treasurer of the Company, East Aurora, New York 14052.
+By Order of the Board of Directors
+Robert J. Olivieri, Secretary
+Dated:  East Aurora, New York
+January 16, 2019 
+[BEGIN TABLE]
+ Shareowner Services    P.O. Box 64945    St. Paul, MN 55164-0945                 Class A Shares 
+            Vote by Internet, Telephone or Mail 24 Hours a Day, 7 Days a Week
+            Vote by Internet, Telephone or Mail 24 Hours a Day, 7 Days a Week
+            Your phone or Internet vote authorizes the named   proxies to vote your shares in the same manner as if you marked, signed and returned your proxy card. 
+          : INTERNET – www.proxypush.com/moga  Use the Internet to vote your proxy until 6:00 p.m. (ET) on February 11, 2019.
+          ( PHONE - 1-866-883-3382 Use a touch-tone telephone to vote your proxy until 6:00 p.m. (ET) on February 11, 2019.
+          * MAIL – Mark, sign and date your proxy card and return it in the postage-paid envelope provided.
+          If you vote your proxy by Internet or by Telephone, you do NOT need to mail back your Proxy Card. 
+TO VOTE BY MAIL ON ALL ITEMS BELOW,  SIMPLY SIGN, DATE, AND RETURN THIS PROXY CARD. 
+ò Please detach here  ò 
+The Board of Directors Recommends a Vote FOR Proposals 1 and 2. 
+Proposal 1. Election of directors: Class A Director — Term Expiring 202201 Bradley R. Lawrence o Vote FOR nomineeo WITHHOLD AUTHORITY TO vote for nominee listed to the left
+Proposal 1. Election of directors: Class A Director — Term Expiring 202201 Bradley R. Lawrence o Vote FOR nomineeo WITHHOLD AUTHORITY TO vote for nominee listed to the left
+Proposal 2. Ratification of Ernst & Young LLP as auditors for Moog Inc. for the 2019 fiscal yearo For   o Against o Abstain 
+FOR PROPOSALS 1 AND 2.                   
+Address Change? Mark box, sign, and indicate changes below: o                 
+          Date             
+          Signature(s) in Box       
+          Please sign exactly as your name(s) appears on Proxy. If held in joint tenancy, all persons should sign. Trustees, adminis­trators, etc., should include title and authority. Corporations should provide full name of corporation and title of authorized officer signing the Proxy. 
+[END TABLE]
+[BEGIN TABLE]
+  ANNUAL MEETING OF SHAREHOLDERS   
+  February 12, 2019   
+  9:00 am EST   
+    The Alfond Inn     
+    300 E. New England Avenue     
+    Winter Park, Florida 32789     
+Moog Inc.       
+c/o Equiniti Trust Company       
+Shareowner Services       
+P.O. Box 64873 CLASS A SHARES PROXY 
+St. Paul, MN  55164-0873 
+This proxy is solicited by the Board of Directors for use at the Annual Meeting on February 12, 2019. 
+The Class A shares of stock you hold in your account will be voted as you specify on the reverse side. 
+If the proxy is signed and no choice is specified, the proxy will be voted "FOR" Proposals 1 and 2. 
+By signing the proxy, you revoke all prior proxies and appoint Donald R. Fishback, John R. Scannell, and Robert J. Olivieri, and each of them as proxies with full power of substitution, to vote your Class A shares on the matters shown on the reverse side and any other matters which may come before the Annual Meeting and all adjournments. 
+Please mark, sign, date, and return the proxy card promptly using the enclosed envelope, unless you have voted using the Internet or Telephone options. 
+    See reverse for voting instructions.     
+[END TABLE]
+[BEGIN TABLE]
+ Shareowner Services    P.O. Box 64945    St. Paul, MN 55164-0945                 Class B Shares 
+            Vote by Internet, Telephone or Mail 24 Hours a Day, 7 Days a Week
+            Vote by Internet, Telephone or Mail 24 Hours a Day, 7 Days a Week
+            Your phone or Internet vote authorizes the named   proxies to vote your shares in the same manner as if you marked, signed and returned your proxy card. 
+          : INTERNET – www.proxypush.com/moga  Use the Internet to vote your proxy with respect to your (i) RSP Shares and ESPP Shares until 6:00 p.m. (ET) on February 7, 2019 and (ii) all other Class B shares  until 6:00 p.m. (ET) on February 11, 2019.
+          ( PHONE - 1-866-883-3382 Use a touch-tone telephone to vote your proxy with respect to your (i) RSP Shares and ESPP Shares until 6:00 p.m. (ET) on February 7, 2019 and (ii) all other Class B shares until 6:00 p.m. (ET) on February 11, 2019.
+          * MAIL – Mark, sign and date your proxy card and return it in the postage-paid envelope provided.
+          * MAIL – Mark, sign and date your proxy card and return it in the postage-paid envelope provided.
+TO VOTE BY MAIL ON ALL ITEMS BELOW,  SIMPLY SIGN, DATE, AND RETURN THIS PROXY CARD. 
+ò Please detach here   ò 
+The Board of Directors Recommends a Vote FOR Proposals 1 and 2. 
+Proposal 1. Election of directors: Class B Director — Term Expiring 202201 Peter J. Gundermann o Vote FOR nomineeo WITHHOLD AUTHORITY TO vote for nominee listed to the left
+Proposal 1. Election of directors: Class B Director — Term Expiring 202201 Peter J. Gundermann o Vote FOR nomineeo WITHHOLD AUTHORITY TO vote for nominee listed to the left
+Proposal 2. Ratification of Ernst & Young LLP as auditors for Moog Inc. for the 2019 fiscal yearo For   o Against o Abstain 
+FOR PROPOSALS 1 AND 2.                   
+Address Change? Mark box, sign, and indicate changes below: o                 
+          Date             
+          Signature(s) in Box       
+          Please sign exactly as your name(s) appears on Proxy. If held in joint tenancy, all persons should sign. Trustees, adminis­trators, etc., should include title and authority. Corporations should provide full name of corporation and title of authorized officer signing the Proxy. 
+[END TABLE]
+[BEGIN TABLE]
+  ANNUAL MEETING OF SHAREHOLDERS   
+  February 12, 2019   
+  9:00 am EST   
+    The Alfond Inn     
+    300 E. New England Avenue     
+    Winter Park, Florida 32789     
+Moog Inc.       
+c/o Equiniti Trust Company       
+Shareowner Services       
+P.O. Box 64873 CLASS B SHARES PROXY 
+St. Paul, MN  55164-0873 
+This proxy is solicited by the Board of Directors for use at the Annual Meeting on February 12, 2019. 
+This proxy (including these voting instructions) covers (i) all Class B shares credited to the undersigned in the Moog Inc. Retirement Savings Plan (the "RSP" and such Class B shares being the "RSP Shares") as to which the undersigned has the right to give voting instructions under the RSP, (ii) all Class B shares acquired by the undersigned under the Moog Inc. Employee Stock Purchase Plan (the "ESPP" and such Class B shares being the "ESPP Shares"), and (iii) all other Class B shares held by the undersigned.  
+The RSP Shares will be voted by the Trustee, Great-West Trust Company, LLC, in accordance with the voting instructions indicated on the reverse. If no voting instructions are received, the RSP Shares will be voted by the Trustee of the RSP in accordance with the rules of the RSP. The ESPP Shares and all other Class B shares will be voted as you specify on the reverse side. 
+The voting cutoff for the RSP Shares and ESPP Shares held by the undersigned is 6:00 p.m. (ET) on February 7, 2019.  The voting cutoff for all other Class B shares held by the undersigned is 6:00 p.m. (ET) on February 11, 2019. 
+If the proxy is signed and no choice is specified, the proxy will be voted "FOR" Proposals 1 and 2. 
+With respect to any Class B shares held by the undersigned, other than any RSP Shares, by signing the proxy, you revoke all prior proxies and appoint Donald R. Fishback, John R. Scannell, and Robert J. Olivieri, and each of them as proxies with full power of substitution, to vote your Class B shares on the matters shown on the reverse side and any other matters which may come before the Annual Meeting and all adjournments. 
+Please mark, sign, date, and return the proxy card promptly using the enclosed envelope, unless you have voted using the Internet or Telephone options. 
+    See reverse for voting instructions.     
+[END TABLE]
+ 

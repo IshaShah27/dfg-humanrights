@@ -1,0 +1,929 @@
+
+SCHEDULE 14A INFORMATION
+Proxy Statement Pursuant to Section 14(a)
+of the Securities Exchange Act of 1934
+(Amendment No.    )
+Filed by the Registrant   ☒
+Filed by a Party other than the Registrant  
+Check the appropriate box:
+¨    Preliminary Proxy Statement
+¨    Confidential, for Use of the Commission Only (as Permitted by Rule 14a-6(e)(2))
+þ    Definitive Proxy Statement
+¨    Definitive Additional Materials
+¨    Soliciting Material under § 240.14a-  
+NIC INC.
+(Name of Registrant as Specified In Its Charter)
+(Name of Person(s) Filing Proxy Statement, if other than the Registrant)
+Payment of Filing Fee (Check the appropriate box):
+þ    No fee required.
+¨    Fee computed on table below per Exchange Act Rules 14a-6(i)(1) and 0-11.
+(1)Title of each class of securities to which transaction applies:
+______________________________________________________________________________
+(2)Aggregate number of securities to which transaction applies:
+________________________________________________________________________
+(3)Per unit price or other underlying value of transaction computed pursuant to Exchange Act Rule 0-11 (set forth the amount on which the filing fee is calculated and state how it was determined):
+______________________________________________________________________________
+(4)Proposed maximum aggregate value of transaction:
+______________________________________________________________________________
+(5)Total fee paid:
+______________________________________________________________________________
+¨    Fee paid previously with preliminary materials.
+¨    Check box if any part of the fee is offset as provided by Exchange Act Rule 0-11(a)(2) and identify the filing for which the offsetting fee was paid previously. Identify the previous filing by registration statement number, or the Form or Schedule and the date of its filing.
+(1)Amount previously paid:
+______________________________________________________________________________
+(2)Form, Schedule or Registration Statement No.:
+______________________________________________________________________________
+(3)Filing Party:
+______________________________________________________________________________
+(4)Date Filed:
+______________________________________________________________________________
+NIC INC.
+25501 West Valley Parkway, Suite 300
+Olathe, Kansas 66061
+_________________
+Notice of 2019 Annual Meeting of Stockholders
+Time and Date:    10:00 a.m., Central Daylight Time, on Tuesday, May 7, 2019 
+Place:    The Oread Hotel
+1200 Oread Ave., Lawrence, KS 66044
+Items of Business:    
+[BEGIN TABLE]
+• To elect the director nominees of NIC Inc. (the "Company") as directors; 
+[END TABLE]
+[BEGIN TABLE]
+• To consider and cast an advisory vote upon the approval of the compensation paid to the Company's named executive officers as disclosed in these materials;  
+[END TABLE]
+[BEGIN TABLE]
+• To consider and vote upon the ratification of the appointment of Ernst & Young LLP as the Company's independent registered public accounting firm for the year ending December 31, 2019; and 
+[END TABLE]
+[BEGIN TABLE]
+• To transact such other business as may properly come before the Annual Meeting or any adjournments or postponements of the Annual Meeting. 
+[END TABLE]
+[BEGIN TABLE]
+Record Date: You can vote if you were a stockholder of record at the close of business on March 8, 2019. 
+[END TABLE]
+[BEGIN TABLE]
+Materials to Review: We are distributing our proxy materials to our stockholders primarily via the internet under the "Notice and Access" rules of the Securities and Exchange Commission ("SEC").  This approach saves printing and mailing costs and reduces the environmental impact of our Annual Meeting, while providing a convenient way to access the materials and vote.  On March 22, 2019, we mailed a Notice of Internet Availability of Proxy Materials to stockholders of record at the close of business on March 8, 2019, containing instructions about how to access our proxy materials and vote online or vote by telephone.   
+Proxy Voting: Important.  Please review the instructions on each of your voting options described in this Proxy Statement and in the notice you received by mail.  Whether or not you plan to attend the Annual Meeting, please vote your shares at your earliest convenience.   
+[END TABLE]
+By Order of the Board of Directors
+William Van Asselt
+General Counsel
+March 22, 2019 
+i
+CONTENTS
+[BEGIN TABLE]
+  Page 
+NOTICE OF 2019 ANNUAL MEETING OF STOCKHOLDERS i 
+GENERAL INFORMATION 1 
+STRUCTURE AND PRACTICES OF THE BOARD OF DIRECTORS 9 
+DIRECTOR COMPENSATION 16 
+REPORT OF THE AUDIT COMMITTEE 19 
+ELECTION OF DIRECTORS (PROPOSAL NO. 1) 21 
+EXECUTIVE COMPENSATION 26 
+REPORT OF THE COMPENSATION COMMITTEE 26 
+COMPENSATION DISCUSSION AND ANALYSIS 27 
+COMPENSATION TABLES AND RELATED DISCLOSURE 41 
+SUMMARY COMPENSATION TABLE 41 
+GRANTS OF PLAN-BASED AWARDS IN FISCAL 2018 43 
+OUTSTANDING EQUITY AWARDS AT 2018 FISCAL YEAR-END 45 
+OPTION EXERCISES AND STOCK VESTED IN FISCAL 2018 47 
+REQUIRED PAY RATIO DISCLOSURE 47 
+EMPLOYMENT AGREEMENTS AND SEVERANCE PAYMENTS 49 
+EXECUTIVE OFFICERS 56 
+SECURITY OWNERSHIP OF CERTAIN BENEFICIAL OWNERS AND MANAGEMENT 58 
+ADVISORY VOTE ON EXECUTIVE COMPENSATION (PROPOSAL NO. 2) 61 
+RATIFICATION OF APPOINTMENT OF INDEPENDENT REGISTERED PUBLIC ACCOUNTING FIRM (PROPOSAL NO. 3) 62 
+SUBMISSION OF STOCKHOLDER PROPOSALS 64 
+SECTION 16(a) BENEFICIAL OWNERSHIP REPORTING COMPLIANCE 64 
+COMPENSATION COMMITTEE INTERLOCKS AND INSIDER PARTICIPATION 64 
+CERTAIN RELATIONSHIPS AND RELATED TRANSACTIONS 65 
+OTHER BUSINESS 67 
+[END TABLE]
+ii
+NIC INC.
+25501 West Valley Parkway, Suite 300
+Olathe, Kansas 66061
+_________________
+PROXY STATEMENT
+FOR
+2019 ANNUAL MEETING OF STOCKHOLDERS
+GENERAL INFORMATION
+Why am I receiving these materials?
+NIC Inc. ("NIC" or the "Company" or "we") has made these materials available to you on the internet or, upon your request, has delivered printed versions of these materials to you by mail, in connection with the Company's solicitation of proxies for use at the 2019 annual meeting of stockholders (the "Annual Meeting") to be held on Tuesday, May 7, 2019 at 10:00 a.m., local time, and at any adjournment or postponement thereof.  These materials were first sent or made available to stockholders on March 22, 2019.  You are invited to attend the Annual Meeting and are requested to vote on the proposals described in this proxy statement (the "Proxy Statement").  The Annual Meeting will be held at the The Oread Hotel, 1200 Oread Ave., Lawrence, KS 66044.
+What is included in these materials?
+These materials include:
+[BEGIN TABLE]
+• This Proxy Statement for the Annual Meeting; and 
+• The Company's Annual Report on Form 10-K for the year ended December 31, 2018, as filed with the SEC on February 21, 2019 (the "Annual Report"). 
+[END TABLE]
+If you requested printed versions by mail, these materials also include the proxy card or vote instruction form for the Annual Meeting.
+What are the Board's recommendations?
+The Board of Directors ("Board of Directors" or "Board") recommends that you vote your shares:
+[BEGIN TABLE]
+1. "FOR" each of the nominees named herein for director (Proposal No. 1); 
+[END TABLE]
+[BEGIN TABLE]
+2. "FOR" the approval on an advisory basis of the compensation paid to the Company's named executive officers, as disclosed in these proxy materials (Proposal No. 2); and 
+[END TABLE]
+[BEGIN TABLE]
+3.  "FOR" the ratification of the appointment of Ernst & Young LLP as the Company's independent registered public accounting firm for the year ending December 31, 2019 (Proposal No. 3). 
+[END TABLE]
+ Where are the Company's principal executive offices located, and what is the Company's main telephone number?
+The Company's principal executive offices are located at 25501 West Valley Parkway, Suite 300, Olathe, Kansas 66061.  The Company's main telephone number is (877) 234-3468.
+Why did I receive a one-page notice in the mail regarding the internet availability of proxy materials instead of a full set of proxy materials?
+Pursuant to rules adopted by the SEC, the Company uses the internet as the primary means of furnishing proxy materials to stockholders.  Accordingly, the Company is sending the Notice of Internet Availability of Proxy Materials (the "Notice") to the Company's stockholders.  All stockholders will have the ability to access the proxy materials on the website referred to in the Notice or request a printed set of the proxy materials.  Instructions on how to access the proxy materials over the internet or to request a printed copy may be found in the Notice.  In addition, stockholders may request to receive proxy materials in printed form by mail or electronically by email on an ongoing basis.  The Company encourages stockholders to take advantage of the availability of the proxy materials on the internet to help reduce the environmental impact of its annual meetings.
+I share an address with another stockholder, and we received only one paper copy of the proxy materials.  How may I obtain an additional copy of the proxy materials?
+The Company has adopted a procedure called "householding," which the SEC has approved.  Under this procedure, the Company is delivering a single copy of the Notice and, if applicable, this Proxy Statement and the Annual Report, to multiple stockholders who share the same address unless the Company has received contrary instructions from one or more of the stockholders.  This procedure reduces the Company's printing and mailing costs, and the environmental impact of the Company's annual meetings.  Stockholders who participate in householding will continue to be able to access and receive separate proxy cards.  Upon written or oral request, the Company will deliver promptly a separate copy of the Notice and, if applicable, this Proxy Statement and the Annual Report to any stockholder at a shared address to which the Company delivered a single copy of any of these documents.
+To receive a separate copy of the Notice and, if applicable, this Proxy Statement and the Annual Report, stockholders may write or call the Company at the following address and telephone number:
+NIC Corporate Secretary 
+25501 West Valley Parkway, Suite 300
+Olathe, Kansas 66061
+(877) 234-3468
+Stockholders who hold shares in "street name" (as described below) may contact their brokerage firm, bank, broker-dealer or other similar organization to request information about householding.
+If you and other residents at your address have been receiving multiple copies of the Notice and, if applicable, our Annual Report and Proxy Statement, and desire to receive only a single copy of these materials, you may contact your broker, bank or other nominee or contact us at the above address or telephone number. How can I get electronic access to the proxy materials?
+The Notice will provide you with instructions regarding how to:
+[BEGIN TABLE]
+• View on the internet the Company's proxy materials for the Annual Meeting; and 
+• Instruct the Company to send future proxy materials to you by email. 
+[END TABLE]
+The Company's proxy materials are also available on the Company's website at  www.egov.com/investor-relations.
+Choosing to receive future proxy materials by email will save us the cost of printing and mailing documents to you and will reduce the impact of our annual meetings on the environment.  If you choose to receive future proxy materials by email, you will receive an email message next year with instructions containing a link to those materials and a link to the proxy voting website.  Your election to receive proxy materials by email will remain in effect until you terminate it.
+Who can vote?
+Your vote is very important.  You can vote your shares at the Annual Meeting if you are present in person or represented by proxy.  Stockholders of record as of the close of business on March 8, 2019 (also referred to as the Record Date) are entitled to vote. On that date, approximately 67,527,469 shares of Common Stock were outstanding and eligible to vote.
+How many votes do I have?
+On each matter presented at the Annual Meeting, you are entitled to one vote for each share of Common Stock owned by you at the close of business on the Record Date.
+What is the difference between a stockholder of record and a beneficial owner?
+Most NIC stockholders hold their shares through a broker, bank, or other nominee rather than directly in their own names.  As summarized below, there are some distinctions between shares held of record and those owned beneficially.
+Stockholder of Record.  If your shares are registered directly in your name with our transfer agent, Computershare Trust Company, N.A., you are considered the stockholder of record with respect to those shares, and the Notice was sent directly to you by NIC.  If you request printed copies of the proxy materials by mail, you will receive a proxy card.
+Beneficial Owner of Shares Held in Street Name.  If your shares are held in a brokerage account at a brokerage firm, bank, broker-dealer or similar organization, then you are the "beneficial owner" of shares held in "street name," and a Notice was forwarded to you by that organization.  The organization holding your account is considered the stockholder of record for purposes of voting at the Annual Meeting.  As a beneficial owner, you have the right to instruct that organization on how to vote your shares.  Those instructions are contained in a "voting instruction form."  If you request printed copies of the proxy materials by mail, you will receive a voting instruction form.  As a beneficial owner, you are also invited to attend the Annual Meeting.  However, because you are not the stockholder of record, you may not vote your shares in  person at the Annual Meeting, unless you obtain a legal proxy from your broker, bank, or other nominee and present it to the inspectors of election at the Annual Meeting with your ballot.
+If I am a stockholder of record of the Company's shares, how do I vote?
+If you are a stockholder of record, there are four ways to vote:
+Internet Voting.  You may vote by proxy via the internet by following the instructions provided in the Notice.
+Telephone Voting. You may vote by proxy by calling the toll-free number found on the proxy card.
+Voting by Mail.  If you requested printed copies of the proxy materials by mail, you may vote by proxy by filling out the proxy card and returning it in the envelope provided.
+Voting in Person.  You may vote in person at the Annual Meeting.  The Company will give you a ballot when you arrive.
+Proxies submitted over the internet or by telephone must be received by the deadline set forth on the proxy card. In order to ensure they are voted at the Annual Meeting, proxies submitted by mail must be received by the Company prior to May 7, 2019.
+If I am a beneficial owner of the Company's shares held in street name, how do I vote?
+If you are a beneficial owner of shares held in street name, there are four ways to vote:
+Internet Voting.  You may vote by proxy via the internet by visiting www.proxyvote.com and entering the control number found in the Notice or the voting instruction form.
+Telephone Voting.  You may vote by proxy by calling the toll-free number found on the voting instruction form.
+Voting by Mail.  If you requested printed copies of the proxy materials by mail, you may vote by proxy by filling out the voting instruction form and returning it in the envelope provided.
+Voting in Person.  If you wish to vote in person at the Annual Meeting, you must obtain a legal proxy from your broker, bank, or other nominee.  Please contact your broker, bank, or other nominee for instructions regarding obtaining a legal proxy.
+What is the quorum requirement for the Annual Meeting?
+A majority of the shares entitled to vote at the Annual Meeting must be present at the Annual Meeting in person or by proxy for the transaction of business.  This is called a quorum.  Your shares will be counted for purposes of determining whether there is a quorum if you:
+[BEGIN TABLE]
+• Are entitled to vote and you are present in person at the Annual Meeting; or 
+• Have properly voted on the internet, by telephone or by submitting a proxy card or vote instruction form by mail. 
+[END TABLE]
+ If a quorum is not present, the Annual Meeting will be adjourned until a quorum is obtained.
+How are proxies voted?
+All shares represented by valid proxies received in time for the Annual Meeting in accordance with applicable deadlines will be voted and, where a stockholder specifies by means of the proxy a choice with respect to any matter to be acted upon, the shares will be voted in accordance with the stockholder's instructions.
+What happens if I do not give specific voting instructions?
+Stockholders of Record. If you are a stockholder of record and you:
+[BEGIN TABLE]
+• Indicate when voting on the internet or by telephone that you wish to vote as recommended by the Board; or 
+• Sign and return a proxy card without giving specific voting instructions, then the persons named as proxy holders will vote your shares in the manner recommended by the Board on all matters presented in this Proxy Statement and as the proxy holders may determine in their discretion with respect to any other matters properly presented for a vote at the Annual Meeting. 
+[END TABLE]
+Beneficial Owners of Shares Held in Street Name. If you are a beneficial owner of shares held in street name and do not provide the organization that holds your shares with specific voting instructions then, under applicable rules, the organization that holds your shares may generally vote on "routine" matters but cannot vote on "non-routine" matters.  If the organization that holds your shares does not receive instructions from you on how to vote your shares on a non-routine matter, that organization will inform the inspectors of election that it does not have the authority to vote on this matter with respect to your shares.  This is generally referred to as a "broker non-vote."
+What ballot measures are considered "routine" or "non-routine"?
+The ratification of the appointment of Ernst & Young LLP as the Company's independent registered public accounting firm for the year ending December 31, 2019 (Proposal No. 3) is a matter considered routine under applicable rules.  A broker or other nominee may generally vote on routine matters, and therefore no broker non-votes are expected to exist in connection with Proposal No. 3.
+The election of directors (Proposal No. 1) and the non-binding advisory resolution approving the Company's executive compensation (Proposal No. 2) are matters considered non-routine under applicable rules.  A broker or other nominee cannot vote without instructions on non-routine matters, and therefore broker non-votes may exist in connection with Proposals No. 1 and No. 2.
+What vote is required to approve each of the proposals?
+With respect to the election of directors (Proposal No. 1), directors are elected by a plurality of the votes cast for the election of directors at the Annual Meeting and the director nominees who receive the most votes will be elected.  However, under the Company's majority vote policy for the election of directors, in any uncontested election of directors, any nominee who receives a greater number of votes "withheld" from his or her election than votes "for" such election is required to tender his or her resignation to the Board of Directors. The Corporate Governance and Nominating Committee is required to promptly consider the  resignation and make a recommendation to the Board of Directors with respect to the tendered resignation. The Board of Directors is required to take action with respect to this recommendation. Any director who tenders his or her resignation to the Board of Directors will not participate in the committee's consideration or Board action regarding whether to accept such tendered resignation. The policy is more fully described below under the "Structure and Practices of the Board of Directors —Governance Principles and Code of Business Conduct and Ethics—Majority Vote Policy" section of this Proxy Statement.
+Approval of Proposals No. 2 (advisory vote on executive compensation) and No. 3 (ratification of independent registered public accounting firm) require the affirmative vote of the holders of a majority of all of the outstanding shares of Common Stock present or represented at the Annual Meeting and entitled to vote thereon.
+How are abstentions and broker non-votes counted?
+Abstentions and broker non-votes are counted for purposes of determining whether a quorum is present.
+Directors are elected by a plurality of the votes cast for the election of directors at the Annual Meeting, with the nominees obtaining the most votes being elected.  Because there is no minimum vote required for the election of directors, abstentions or withhold votes and broker non-votes will be entirely excluded from the vote and will have no effect on its outcome. However, under the Company's majority vote policy for the election of directors, in any uncontested election of directors, any nominee who receives a greater number of votes "withheld" from his or her election than votes "for" such election shall be subject to the procedures described above.
+Abstentions are counted in determining the total number of shares present in person or represented by proxy and entitled to vote thereon with respect to a proposal that requires the affirmative vote of a majority of such shares and, therefore, will have the same effect as a vote against: (i) the proposal to approve, on an advisory basis, the compensation of our named executive officers as disclosed in these materials; and (ii) the proposal to ratify the appointment of Ernst & Young LLP as our independent registered public accounting firm for the year ending December 31, 2019.  Broker non-votes are not counted in determining the number of shares present in person or represented by proxy and entitled to vote thereon with respect to a proposal that requires the affirmative vote of a majority of such shares and, therefore, will not affect the outcome of the voting on these proposals.
+What are the effects of the advisory votes?
+The vote of the stockholders regarding the compensation of our named executive officers as disclosed in these materials is an advisory vote, and the results will not be binding on the Board of Directors or the Company.  However, the Board of Directors and the Compensation Committee, which is comprised of independent directors, will consider the outcome of the vote when making future executive compensation decisions.
+The vote of the stockholders regarding the frequency of future advisory votes on the compensation of our named executive officers is also an advisory vote, and the results will not be binding on the Board of Directors or the Company. However, the Board of Directors and the Compensation Committee will consider the outcome of the vote when deciding on the frequency of future advisory votes on the compensation of our named executive officers. Can I change my vote after I have voted?
+Stockholders of Record. Yes, you may revoke your prior proxy and change your vote on a later date via the internet or by telephone (in which case only your latest internet or telephone proxy submitted prior to the applicable deadline will be counted), by signing and returning a new proxy card with a later date prior to the applicable deadline, or by attending the Annual Meeting and voting in person.  However, your attendance at the Annual Meeting will not automatically revoke your prior proxy, unless you properly vote at the Annual Meeting.  In addition, you may specifically request that your prior proxy be revoked by delivering to the Company's Corporate Secretary at 25501 West Valley Parkway, Suite 300, Olathe, Kansas 66061, a written notice of revocation prior to the date of the Annual Meeting.
+Beneficial Owners of Shares Held in Street Name. If you are the beneficial owner of shares held in "street name" by your broker, bank or other nominee and you have instructed such broker, bank or other nominee to vote your shares, you must follow directions received from such broker, bank or other nominee to change those instructions.
+Who are the proxies who will vote my shares at the Annual Meeting if I timely return my proxy card?
+The Company has designated Harry H. Herington, the Company's Chairman of the Board and Chief Executive Officer, and Stephen M. Kovzan, the Company's Chief Financial Officer, with full power of substitution, to vote the authorized proxies during the Annual Meeting.
+Is my vote confidential?
+It is the Company's policy to maintain the confidentiality of proxy cards, ballots, and voting tabulations that identify individual stockholders, except they may be disclosed to officers, directors, authorized employees, and retained advisors to the Company, and where disclosure is mandated by law and in other limited circumstances.
+Where can I find the voting results of the Annual Meeting?
+The Company intends to announce preliminary voting results at the Annual Meeting and disclose final results in a current report on Form 8-K or quarterly report on Form 10-Q filed with the SEC within four business days after the Annual Meeting.  If final results are not yet known within that four business day period, the Company will disclose preliminary voting results on Form 8-K and file an amendment to that Form 8-K to disclose the final results within four business days after such final results are known.
+Who is paying for the cost of this proxy solicitation?
+The Company is paying the costs of the solicitation of proxies.  The Company has retained Broadridge Investor Communication Services to assist in the distribution of proxy materials and tally the vote.  NIC may supplement the proxy solicitations by additional communications, which may include communications by mail, fax, telephone or personal delivery or by otherwise furnishing such communications to stockholders on the internet, but no additional compensation will be paid to directors, officers or employees for such solicitation.  The Company will request brokers, banks and other nominees who hold shares of NIC common stock in their names to furnish the Notice and, if requested, printed proxy materials, to beneficial owners of the shares and will reimburse such brokers, banks and nominees for their reasonable expenses incurred in forwarding solicitation materials to such beneficial owners. Who can help answer my questions?
+If you have any questions about the matters proposed in this Proxy Statement or the procedures for voting your shares, you should contact:
+NIC Inc.
+Attention: Corporate Secretary
+25501 West Valley Parkway, Suite 300
+Olathe, Kansas 66061
+(877) 234-3468 _________________
+STRUCTURE AND PRACTICES OF THE BOARD OF DIRECTORS
+_________________
+NIC's business and affairs are managed under the direction of the Board of Directors.  Currently, there are nine directors:  Harry H. Herington; Art N. Burtscher; Venmal (Raji) Arasu; C. Brad Henry; Alexander C. Kemper; William M. Lyons; Anthony Scott, Jayaprakash Vijayan and Pete Wilson.  All of the directors are standing for election and their biographies appear on pages 21 to 25.
+Governance Principles and Code of Business Conduct and Ethics
+The Board of Directors has adopted Governance Principles that address the practices of the Board and, together with the Company's Certificate of Incorporation, Bylaws and Board Committee charters, provide the framework for governance of NIC.  The Company has also adopted a Code of Business Conduct and Ethics, which applies to all employees, directors and officers, including the Chief Executive Officer and the Chief Financial Officer.
+The Governance Principles are available on the Company's website at http://www.egov.com/investor-relations/governance-principles and the Code of Business Conduct and Ethics is available on the Company's website at http://www.egov.com/investor-relations/code-of-business-conduct-and-ethics.
+If you would like to receive a paper copy of the Governance Principles or the Code of Business Conduct and Ethics by mail, send your request in writing to the Corporate Secretary, NIC Inc., 25501 West Valley Parkway, Suite 300, Olathe, Kansas 66061.  The Company intends to disclose any changes in or waivers from its Code of Business Conduct and Ethics by posting such information on its website or by filing a Form 8-K with the SEC, as required.
+Majority Vote Policy
+The Governance Principles include a majority vote policy for the election of directors. Pursuant to this policy, in any uncontested election of directors, any nominee who receives a greater number of votes "withheld" from his or her election than votes "for" such election shall promptly tender his or her resignation to the Board of Directors following certification of the stockholder vote. The Corporate Governance and Nominating Committee shall promptly consider the resignation and make a recommendation to the Board of Directors with respect to the tendered resignation. In considering whether to accept or reject the tendered resignation, the Corporate Governance and Nominating Committee shall consider all factors it deems relevant and appropriate.
+The Board of Directors will act on the Corporate Governance and Nominating Committee's recommendation no later than 90 days after the certification of the stockholder vote. Any director who tenders his or her resignation to the Board of Directors will not participate in the Corporate Governance and Nominating Committee's consideration or Board action regarding whether to accept such tendered resignation.
+We will promptly disclose the Board of Directors' decision whether to accept the resignation as tendered (providing a full explanation of the process by which the decision was reached and, if applicable, the reasons for rejecting the tendered resignation) in a press release, a filing with the SEC, if required, or in another broadly disseminated means of communication. Meetings of the Board
+In 2018, the NIC Board of Directors had six regularly scheduled meetings and three special meetings, for a total of nine meetings. Each of the Company's directors attended 94% or more of the Board and committee meetings to which the director was assigned that were held during the fiscal year (or portion of the fiscal year during which he or she served as a director or committee member). In addition, management and the directors communicate informally on a variety of topics, including suggestions for Board or committee agenda items, recent developments, and other matters of interest to the directors.  The Board has access to management at all times.  Directors standing for election are encouraged to attend the Annual Meeting of Stockholders.  All nine directors standing for election at the 2018 Annual Meeting of Stockholders attended the meeting in person.
+Independence
+The Board evaluates the independence of each director in accordance with applicable laws and regulations, the listing standards of The Nasdaq Stock Market, LLC ("Nasdaq") and the criteria set forth in NIC's Code of Business Conduct and Ethics and Governance Principles.  These standards include evaluating material relationships with NIC, if any, to the best of each director's knowledge, including vendor, supplier, consulting, legal, banking, accounting, charitable and family relationships.  Based on the recommendation of the Corporate Governance and Nominating Committee, the Board of Directors has determined that all of the directors, except Mr. Herington, are independent as required by applicable laws and regulations, by the listing standards of Nasdaq and by NIC's Governance Principles.  The Board has also assessed the independence of the members of the Audit, Compensation, and Corporate Governance and Nominating Committees based on applicable laws and regulations, the listing standards of Nasdaq and NIC's Governance Principles and has found all members of those committees to be independent.  The Board's findings are included in the discussion of the committees below.
+Stockholder Communications with Directors
+A stockholder who would like to communicate directly with the Board, a committee of the Board or with an individual director, should send the communication to:
+NIC Inc.
+Board of Directors [or committee name or director's name, as appropriate]
+25501 West Valley Parkway, Suite 300
+Olathe, Kansas 66061
+Also, stockholders can contact the Board of Directors at board@egov.com.
+NIC will forward all such stockholder correspondence to the Board, committee or individual director, as appropriate.  This process has been approved by the independent directors of NIC.
+Board Leadership Structure
+Harry H. Herington serves as the Company's Chairman of the Board and Chief Executive Officer.  Art N. Burtscher serves as the Lead Independent Director.  The Board believes that combining the positions of Chairman of the Board and Chief Executive Officer and having a Lead Independent Director provide an efficient and effective leadership model for the Company, combining clarity on strategy and decision-making  with effective independent oversight.  The Board believes that the combined role of Chairman of the Board and Chief Executive Officer promotes unified leadership and direction for the Company and provides a single leader to guide the Company in executing the Company's business strategy.  The Board does not believe that the Board's independence is compromised by having a single person serve as Chairman of the Board and Chief Executive Officer.  The Board believes that having a Lead Independent Director ensures that a strong, independent director leads the Board's independent directors and is a single point of contact for the Chairman on most routine Board items, especially between meetings.  The Board believes this structure avoids the management issues that often arise when the Chairman of the Board and Chief Executive Officer duties are separated.  Further, a Lead Independent Director helps facilitate dialogue between the Board and stockholders by specifically identifying an independent director available for consultation and communication.
+Pursuant to the Company's Bylaws, the Chairman of the Board is responsible for presiding over all meetings of the Board of Directors and performs such other duties and may exercise such other powers as from time to time may be assigned to him or her by the Bylaws or by the Board or which he believes are appropriate.  The Lead Independent Director's powers, duties and responsibilities established by the Board include the following:  (a) calling and presiding at executive sessions of the Board at which only independent directors are permitted to be present, along with other persons invited to attend such sessions by the Lead Independent Director or a majority of the  independent directors; (b)  presiding at all meetings of the Board at which the Chairman of the Board is not present, including executive sessions of the independent directors; (c) having the authority to call meetings of the independent directors; (d) serving as liaison between the Chairman of the Board and the independent directors; (e) reviewing and/or supplementing materials sent to the Board that are initially prepared by or under the direction of the Chairman of the Board; (f) reviewing and/or supplementing meeting agendas for the Board that are initially prepared by or under the direction of the Chairman of the Board; (g) reviewing meeting schedules that are initially prepared by or under the direction of the Chairman of the Board in order to assure that there is sufficient time for discussion of all agenda items; (h) making recommendations to the Board regarding the structure of Board meetings; (i) recommending matters for consideration by the Board; (j) if requested by major stockholders, ensuring availability for consultation and direct communication as an independent point of contact; (k) collaborating with the Chairman of the Board on recommending tasks to be assigned to the appropriate committees; (l) with the approval of the Corporate Governance and Nominating Committee, overseeing the annual evaluation of the Board and its committees; (m) having the right to engage legal, financial and other advisers to represent the independent directors; (n) mentoring new independent directors; (o) with the approval of the Corporate Governance and Nominating Committee, making certain the CEO development and succession planning process is robust; (p) evaluating the Board education program; and (q) collaborating with the Chairman in facilitating consensus among Board members on key issues.
+Cybersecurity Risk Oversight
+The Board recognizes the importance of maintaining the trust and confidence of our government partners and their citizens, our stockholders, customers and employees. The Board devotes significant time and attention to the oversight of cybersecurity and information security risk. In particular, the Board receives regular reporting on cybersecurity and information security risks from the Company's Chief Security Officer. The Board also receives presentations throughout the year on cybersecurity and information security topics. The Company and Boards' commitment to cybersecurity and information security is evidenced by its appointment of the Company's Chief Security Officer as an Executive Officer of the Company.  Risk Oversight
+The Board has delegated to the Audit Committee, consisting solely of independent directors, the responsibility to oversee the assessment and management of the Company's risks, including reviewing with management significant risk exposures potentially facing the Company and the policies and steps implemented by management to identify, assess, manage and monitor such exposures.  The Company's Compensation Committee, consisting solely of independent directors, is responsible for overseeing the management of risks relating to the Company's compensation plans and arrangements and reporting to the Audit Committee and the Board.  The Board is regularly informed through committee reports regarding the Company's risks, and reviews and discusses such risks in overseeing the Company's business strategy and operations.
+Committees of the Board
+As described below, there are three standing committees of the Board.  Each committee's responsibilities, including those responsibilities delegated to such committee by the Board, are governed by a charter that is available on the Company's website at http://www.egov.com/investor-relations , or by sending your request in writing to the Corporate Secretary, NIC Inc., 25501 West Valley Parkway, Suite 300, Olathe, Kansas 66061.
+The table below shows the members of each Committee of the Board:
+[BEGIN TABLE]
+Audit Committee  Compensation Committee  Corporate Governance and Nominating Committee 
+Audit Committee  Compensation Committee  Corporate Governance and Nominating Committee 
+Art N. Burtscher, Chairman   Alexander C. Kemper, Chairman   William M. Lyons, Chairman 
+Venmal (Raji) Arasu   Art N. Burtscher   Venmal (Raji) Arasu 
+Alexander C. Kemper   C. Brad Henry   C. Brad Henry 
+William M. Lyons    Jayaprakash Vijayan   Anthony Scott 
+Anthony Scott   Pete Wilson   Pete Wilson 
+Jayaprakash Vijayan         
+[END TABLE]
+The Audit Committee oversees management's responsibility for the integrity of the Company's accounting and financial reporting and systems of internal controls.  The Committee also oversees the performance of the Company's independent registered public accounting firm and the Company's compliance with legal and regulatory requirements.  In addition, the Committee has the responsibility to oversee the assessment and management of the Company's risks.  The Audit Committee met five times during 2018.  The report of the Audit Committee is included in this Proxy Statement starting on page 19.
+The Board of Directors has determined that all of the members of the Audit Committee are independent as required by applicable laws and regulations, the listing standards of Nasdaq and NIC's Governance Principles.  The Board of Directors has determined that at least one member of the Committee, Mr. Burtscher, qualifies as an "audit committee financial expert." The Compensation Committee
+The Compensation Committee is responsible for the establishment and oversight of the Company's executive compensation program.  The Committee also has responsibility for general oversight of the Company's compensation policies and practices for all employees, particularly with respect to how such policies relate to the achievement of Company business goals and the Company's management of risk.  It is the responsibility of the Committee to review, recommend and approve changes to the Company's compensation policies and benefits programs and to otherwise ensure that the Company's compensation philosophy is consistent with the Company's best interests and is properly implemented.  The Committee establishes the compensation levels of the Company's Chief Executive Officer and the Company's other executive officers, and reviews and makes recommendations to the Board regarding the level and form of the Company's director compensation.  The Committee also administers the Company's stock plans, including the 2014 Amended and Restated Stock Compensation Plan (the "2014 Stock Compensation Plan") and the Amended and Restated Employee Stock Purchase Plan (the "Employee Stock Purchase Plan").  The Committee also administers the NIC Inc. Executive Incentive Plan.  Finally, the Committee performs other duties related to compensation that the Board from time to time may assign.  The Compensation Committee held six meetings in 2018.  The Board of Directors has determined that all of the members of the Committee are independent as required by applicable laws and regulations, the listing standards of Nasdaq and NIC's Governance Principles.
+The Compensation Committee may delegate any of its responsibilities to sub-committees and may delegate day-to-day administration of incentive and employee benefit plans to appropriate Company personnel.  In addition, upon occasion, matters have been escalated from the Compensation Committee to the full Board of Directors for action when permitted under applicable SEC and Nasdaq rules and regulations.  The executive officers receive assignments from the Compensation Committee, for example, researching compensation levels for employees, executives or directors at companies in comparable industries or of comparable size in terms of number of employees, annual revenues or market capitalization.  The Compensation Committee also tasks the executive team with the first, and subsequent, drafts of the executive compensation plan each year and with drafting revisions based upon Committee guidance.
+The Compensation Committee has reviewed, with management, the design and operation of the Company's compensation arrangements, including the performance objectives and target levels used in connection with incentive awards and maximum caps on performance-based pay for the Executive Leadership Team (as defined below), and has evaluated the relationship between the Company's risk management and these arrangements.  The Compensation Committee believes that the Company's compensation policies and practices do not encourage unnecessary or excessive risk taking and that any risks arising from the Company's compensation policies and practices for its employees are not reasonably likely to have a material adverse effect on the Company.
+The Committee has the authority to retain, approve fees for and terminate advisors, consultants and legal counsel as it deems necessary to assist in the fulfillment of its responsibilities.  Prior to engaging any such advisor, consultant or legal counsel, the Compensation Committee conducts an independence assessment of such advisor pursuant to applicable Nasdaq and SEC rules, but the Compensation Committee retains discretion to engage any such advisor, without regard to its independence, after considering the findings in such assessment.  The Compensation Committee also reviews and discusses with the appropriate officers of the Company any disclosures required under applicable SEC rules regarding conflicts of interest with respect to such advisors. In November 2015, as further discussed below, the Compensation Committee, with the assistance of the executive team, engaged Semler Brossy Consulting Group, LLC ("SBCG") to assess the Company's management compensation structure, including executive compensation, for future periods and to perform peer review analysis among other public companies engaged in the information technology services industries with similar annual revenues, number of employees, market capitalization and other financial metrics.  SBCG undertook similar analyses in January 2017 with respect to the compensation of the Company's non-employee directors.  In addition, in October 2018, the Compensation Committee engaged SBCG to advise the Committee regarding executive compensation. As required under applicable SEC rules, the Company reviewed the relationships among SBCG and the Company's directors and executive officers in order to assess whether the work performed by SBCG raised any conflicts of interest.  The Company did not identify any such conflicts of interest in its inquiry of these parties as a part of this assessment.
+The Corporate Governance and Nominating Committee
+The Corporate Governance and Nominating Committee met four times in 2018.  The Board of Directors has determined that all of the members of the Committee are independent as required by applicable laws and regulations, the listing standards of Nasdaq and NIC's Governance Principles.  The Committee focuses on two primary areas: corporate governance and nomination of directors.
+The Committee provides oversight and guidance to the Board of Directors to ensure that the membership, structure, policies, and practices of the Board and its committees facilitate the effective exercise of the Board's role in the governance of the Company.  The Committee reviews and evaluates the policies and practices with respect to the size, composition, independence and functioning of the Board and its committees and reflects those policies and practices in NIC's Governance Principles, which can be found on the Company's website.  The Committee also oversees the Company's stock ownership guidelines for non-employee directors and certain executive officers.
+Nomination of Directors
+The Corporate Governance and Nominating Committee evaluates the qualifications of candidates for election as directors.  In exploring potential candidates for directors, the Committee considers individuals recommended by members of the Committee, other directors, members of management, stockholders, self-nominated individuals and a third-party search firm, which assists the Committee in identifying and evaluating potential nominees and arranges for Board interviews of several solicited candidates.  In nominating candidates, the Committee takes into consideration such factors as it deems appropriate on a case-by-case basis.  A discussion of factors that the Committee may consider is included under "Election of Directors" in this Proxy Statement beginning on page 21.
+The Committee will consider Board nominees recommended by stockholders who provide the recommendation in accordance with the procedures in the Bylaws for stockholder nominations of directors.  The Committee intends to apply the same standards in considering candidates submitted by stockholders and self-nominated individuals as it does in evaluating candidates submitted by members of the Board of Directors and members of management.
+The Bylaws require that a stockholder who wishes to nominate an individual for election as a director at the Company's 2020 Annual Meeting of Stockholders must give the Company advance written notice no earlier than 120 days and no later than 90 days prior to the anniversary date of this year's Annual Meeting.  Accordingly, notice of any director nomination that a stockholder intends to present at the Company's 2020 Annual Meeting must be received at the Company's principal executive offices not earlier than January 8,  2020 and not later than February 7, 2020.   The Bylaws also require a stockholder who wishes to nominate an individual or himself or herself for election as a director to provide certain specified information.  This specified information includes, among other things, certain information about the stockholder and certain information about the nominee, such as the nominee's name, address, principal occupation, relationship with the nominating stockholder, a completed questionnaire and the nominee's written consent to being named a nominee and to serve as a director if elected.
+Stockholders may request a copy of the Bylaw requirements from:
+Corporate Secretary
+NIC Inc.
+25501 West Valley Parkway, Suite 300
+Olathe, Kansas 66061
+Notice of any director nominations for this year's Annual Meeting must have been received no earlier than January 1, 2019 and no later than January 31, 2019.  NIC did not receive any stockholder nominations of directors within this time frame.
+The Board has determined that a majority of the Board members are independent directors.  Each nominee for director is an existing director standing for re-election.
+Involvement in Certain Legal Proceedings
+In connection with a settlement with the SEC in 2011 resolving its investigation related to the reimbursement and disclosure by the Company of expenses to Jeffery S. Fraser, the Company's former Chairman of the Board and Chief Executive Officer, the Company and Harry H. Herington, Chairman of the Board and Chief Executive Officer, consented to a permanent injunction against future violations of certain provisions of the federal securities laws and SEC rules which are set forth in exhibits to the Current Report on Form 8-K filed by the Company with the SEC on January 12, 2011 describing the settlement. _________________
+DIRECTOR COMPENSATION
+_________________
+In January 2017, after three years of the Company operating under its previous director compensation program, the Compensation Committee engaged SBCG to update its assessment of director compensation.  For this study, SBCG used the same peer group of companies that it used when the Compensation Committee engaged SBCG for an executive compensation study in November 2015. SBCG determined that director cash and equity compensation levels, and by extension, total compensation levels were low compared to the peer group median. In addition, general committee compensation and committee chair compensation were both low compared to market. Based on the results of the study and on the recommendation of the Compensation Committee, the Board approved the Company's current compensation program for directors for fiscal year 2018. For a list of peer group companies, refer to the "Peer Group" section of the Compensation Discussion and Analysis ("CD&A") in this Proxy Statement beginning on page 27.
+Under the Company's current director compensation program, directors are entitled to the following cash compensation:  (1) an annual cash retainer of $45,000, (2) an annual cash retainer premium for committee chairs of $15,000 for the Audit Committee, $10,000 for the Compensation Committee and $7,500 for the Corporate Governance and Nominating Committee, (3) an annual cash retainer premium for committee members of $7,500 for the Audit Committee, $5,000 for the Compensation Committee and $3,750 for the Corporate Governance and Nominating Committee, and (4) an annual cash retainer premium of $10,000 for the Lead Independent Director.  New directors receive a prorated retainer for the portion of the year served on the Board until the next Annual Meeting of Stockholders.  From an equity compensation standpoint, the Company's Board compensation program provides for an annual grant of service-based restricted stock with a grant date fair value of $100,000, which vests after one year.  The ratio of equity to cash compensation is approximately 70% to 30%, which is in line with SBCG's recommendation and with the Compensation Committee's philosophy that a preponderance of total value should come from equity compensation.
+Upon first joining the Board, any new director will receive an award of restricted stock with an equivalent fair market value of $25,000 on the date of the award, which vests after one year.  Directors are entitled to cash dividends on shares of unvested restricted stock (including initial and annual share grants) in the same amount and at the same time as dividends are paid to other holders of the Company's common stock.
+Directors who are also executive officers of the Company do not receive compensation for service on the Board of Directors.  Therefore, Mr. Herington is not listed in the Director Compensation table below.
+All directors are eligible to participate in the Company's 2014 Stock Compensation Plan.  Non-employee directors are not eligible to participate in the Company's Employee Stock Purchase Plan.  Directors are reimbursed for travel expenses and other out-of-pocket costs incurred in connection with their attendance at meetings.
+In March 2011, the Company adopted a stock ownership policy applicable to non-employee directors and the Company's Executive Leadership Team, as further discussed in the CD&A. The following table provides information on the compensation of non-employee directors in 2018. 
+[BEGIN TABLE]
+Director Compensation in Fiscal 2018 (1) 
+Name   Fees Earned or Paid in Cash ($)  Stock Awards ($)(2)  All Other Compensation ($)(3)  Total ($) 
+Name   Fees Earned or Paid in Cash ($)  Stock Awards ($)(2)  All Other Compensation ($)(3)  Total ($) 
+Art N. Burtscher   75,000   99,987   1,918   176,905 
+Venmal (Raji) Arasu   53,750   99,987   1,918   155,655 
+Karen S. Evans (4)   56,250   99,987   889   157,126 
+Ross C. Hartley (5)   45,000   —   889   45,889 
+C. Brad Henry   53,750   99,987   1,918   155,655 
+Alexander C. Kemper   62,500   99,987   1,918   164,405 
+William M. Lyons   60,000   99,987   1,918   161,905 
+Anthony Scott (6)   40,633   24,995   252   65,880 
+Jayaprakash Vijayan (6)   40,633   24,995   252   65,880 
+Pete Wilson   53,750   99,987   1,918   155,655 
+[END TABLE]
+[BEGIN TABLE]
+(2) Amounts reported in the Stock Awards column represent the aggregate grant date fair value of such awards, computed in accordance with FASB ASC Topic 718. As of December 31, 2018, each non-employee director held the number of restricted stock shares set forth beside his or her name below. 
+Mr. Burtscher 6,430     Mr. Kemper 6,430   
+Ms. Arasu 6,430     Mr. Lyons 6,430   
+Ms. Evans —     Mr. Scott 1,572   
+Mr. Hartley —     Mr. Vijayan 1,572   
+Governor Henry 6,430     Governor Wilson 6,430   
+[END TABLE]
+The Board determines the terms and conditions of any such equity awards, including those that apply upon the termination of a non-employee director's service as a Board member.
+[BEGIN TABLE]
+(3) All Other Compensation represents cash dividends declared on unvested shares of restricted stock. The aggregate amount of dividends paid was $0.32 per share ($0.08 per share on a quarterly basis), declared by the Company in February, May, July and October 2018, as applicable. 
+[END TABLE]
+[BEGIN TABLE]
+(4) Mrs. Evans resigned and received $157,126 for services through the expiration of her term on August 29, 2018. 
+[END TABLE]
+[BEGIN TABLE]
+(5) Mr. Hartley retired and received $45,889 for services through the expiration of his term on June 6, 2018. 
+[END TABLE]
+[BEGIN TABLE]
+(6) Mr. Scott and Mr. Vijayan joined the Board on June 6, 2018 and were each granted a one-time new director equity award of 1,572 restricted stock shares and pro-rated annual compensation. 
+[END TABLE]
+ _________________
+REPORT OF THE AUDIT COMMITTEE
+_________________
+In the performance of its oversight function, the Audit Committee has reviewed and discussed with management and the independent registered public accounting firm the audited consolidated financial statements of the Company for the year ended December 31, 2018 and the effectiveness of the Company's internal control over financial reporting as of December 31, 2018.
+In addition, the Audit Committee has received from and discussed with management and the independent registered public accounting firm various communications that the independent registered public accounting firm is required to provide to the Audit Committee, including the matters required by the Public Company Accounting Oversight Board, or PCAOB, Auditing Standard No. 1301, "Communications with Audit Committees," as modified or supplemented.  Finally, the Audit Committee has received the written disclosures and the letter from the independent registered public accounting firm required by applicable requirements of the PCAOB regarding the independent registered public accounting firm's communications with the Audit Committee concerning independence, and has discussed with the independent registered public accounting firm its independence.
+The members of the Audit Committee are not full-time employees of the Company and are not performing the functions of auditors or accountants.  As such, it is not the duty or responsibility of the Committee or its members to conduct "field work" or other types of auditing or accounting reviews or procedures or to set auditor independence standards.  Members of the Audit Committee necessarily rely on the information provided to them by management, internal audit and the independent registered public accounting firm.
+Based upon the reports and discussions described in this report, in reliance on management, internal audit and the independent registered public accounting firm, and subject to the limitations of our role, the Audit Committee recommended to the Board, and the Board has approved, the inclusion of the audited financial statements referred to above in the Company's Annual Report on Form 10-K.
+Respectfully submitted,
+The Audit Committee
+Art N. Burtscher (Chairman)
+Venmal (Raji) Arasu
+Alexander C. Kemper
+William M. Lyons
+Anthony Scott
+Jayaprakash Vijayan Employee Complaint Procedures for Accounting and Auditing Matters
+The Board has adopted a Reporting Hotline Policy (which includes employee complaint procedures for accounting and auditing matters) for the Company's employees and others, which can be found on the Company's website.  This document contains procedures for the Audit Committee to oversee the process for handling Reporting Hotline complaints regarding internal accounting controls or auditing matters, or possible illegal, unethical or improper conduct as part of a Company-wide effort to allow for the confidential and anonymous submission by employees, contractors, suppliers and others of reports regarding such matters. The Company has retained the services of NAVEX Global Inc. (formerly Ethicspoint.com) to provide an anonymous hotline reporting service independent of the Company.  This service also allows employees and others to file an anonymous report of misconduct by web form, telephone or mail.  The website address and telephone number for submitting concerns or complaints are egov.ethicspoint.com and (855) 290-3374.  Concerns or complaints can also be mailed to:
+NAVEX Global Inc.
+6000 Meadows Road, Suite 200
+Lake Oswego, OR 97035 _________________
+ELECTION OF DIRECTORS (PROPOSAL NO. 1)
+_________________
+The Board of Directors currently consists of nine directors.  Each of the nominees listed below is an incumbent director. The nomination of all nine nominees to serve for a one-year term was recommended by the Corporate Governance and Nominating Committee and approved by the Board of Directors.  The nine nominees receiving the most votes will be elected.  Abstentions and broker non-votes have no effect on the election.  Proxies cannot be voted for a greater number of persons than the number of nominees named on the enclosed form of proxy, and stockholders may not cumulate their votes in the election of directors.
+Each nominee has consented to stand for election and the Board does not anticipate that any nominee will be unavailable to serve.  However, if any nominee becomes unavailable to serve at the time of the Annual Meeting, the Board of Directors may provide for a lesser number of directors or designate substitute nominees.  If substitute nominees are designated, the persons named in the enclosed proxy will vote proxies for the remaining nominees and any substitute nominees, unless otherwise instructed by a stockholder.
+We have a majority vote policy for the election of directors. In an uncontested election, any nominee for director who receives a greater number of votes "withheld" from his or her election than votes "for" such election is required to tender his or her resignation to the Board of Directors.  The policy is more fully described above under the "Structure and Practices of the Board of Directors —Governance Principles and Code of Business Conduct and Ethics—Majority Vote Policy" section of this Proxy Statement.
+If you wish to vote for or withhold your vote from all nominees, please mark the corresponding box on your proxy card.  If you do not wish your shares to be voted for a particular nominee, you should note that nominee's name in the exception space provided on the proxy card.  The following biographies provide information about each nominee's principal occupation and business experience, age, and other directorships, as well as current NIC Board committee memberships.
+The Board of Directors, upon the recommendation of the Corporate Governance and Nominating Committee, recommends a vote FOR each of the nominees.
+[BEGIN TABLE]
+Name Age Position 
+Harry H. Herington 59 Chairman of the Board and Chief Executive Officer 
+Art N. Burtscher 68 Lead Independent Director 
+Venmal (Raji) Arasu 49 Director 
+C. Brad Henry 55 Director 
+Alexander C. Kemper 53 Director 
+William M. Lyons 63 Director 
+Anthony Scott 66 Director 
+Jayaprakash Vijayan 46 Director 
+Pete Wilson 85 Director 
+[END TABLE]
+ The following is a brief description of the business experience of each nominee for director and a brief discussion of the specific experience, qualifications, attributes or skills that led to the conclusion that the nominee should serve as a director for the Company, in light of the Company's business and structure.  In nominating candidates, the Committee takes into consideration such factors as it deems appropriate on a case-by-case basis, which may include experience, knowledge, skills, expertise, integrity, diversity of background and perspective,  ability to make independent analytical inquiries, understanding of the Company's business environment, the interplay of the candidate's experience with that of the other Board members and willingness to devote adequate time and effort to Board responsibilities. While the Company does not have a formal diversity policy, the Company believes that the Board's deliberative process benefits from a reasonable diversity of backgrounds and perspectives. In reviewing the re-nomination of incumbent directors, the Committee also considers their participation at meetings, their understanding of NIC's business and the environment within which the Company operates, their attendance, and their independence and relationships, if any, with the Company.
+Harry H. Herington became the Company's Chief Executive Officer in February 2008 and became the Chairman of the Board in May 2008.  He was elected to the Board of Directors in 2006.  Mr. Herington served as President from May 2006 until February 2008 and as Chief Operating Officer from May 2002 until October 2006.  He served as one of the Company's directors from May 1998 to February 1999.  He has also served as President of NICUSA, Inc., a wholly owned subsidiary of the Company, since 1998 and served as a manager of various subsidiaries of NICUSA, Inc. until January 2016. In addition, Mr. Herington has held numerous positions of authority and responsibility with the Company since 1995 as well as several positions of authority with other business and government organizations, which enables him to provide valuable leadership and insight into the Company's strategic direction. By reason of his early involvement and efforts, Mr. Herington is considered a founder of NIC as it became a national company.  Mr. Herington is also involved in numerous civic and non-profit activities.  Mr. Herington holds a B.S. degree from Wichita State University in Kansas and a J.D. degree from the University of Kansas School of Law.
+Art N. Burtscher has served as one of the Company's directors since 2004, and was elected Lead Independent Director in February 2008.  He chairs the Audit Committee.  Mr. Burtscher currently serves as a consultant to Westwood Trust--Western Region, a wholly-owned subsidiary of Westwood Holdings Group, LLC and a provider of trust services and a sponsor of common trust funds, where he served as President from 2012 to 2018.  He served as Senior Vice President of Westwood Trust from 2010 through 2012.  Mr. Burtscher served as Chairman of McCarthy Group Advisors, L.L.C., an Omaha-based investment advisory firm, from 2004 to 2010. From 2000 to 2004, he was President of McCarthy Group Asset Management.  He has more than 30 years of financial services experience, including 13 years as President of Great Western Bank, N.A.  Mr. Burtscher currently serves on the boards of directors of American National Bank, Jet Linx, LLC and the Silverstone Group. Mr. Burtscher's extensive experience in the financial services industry enables him to provide valuable contributions to the Board regarding financial, business and investment matters and to serve as the audit committee financial expert. He graduated from Fort Hays State University in Kansas with a B.S. in Business Administration and is a graduate of the School of Mortgage Banking. Venmal (Raji) Arasu has served as one of the Company's directors since 2015.  Ms. Arasu is currently Senior Vice President, Intuit Platform of Intuit Inc. (Nasdaq: INTU), Intuit Inc. is a business and financial software company that develops and sells financial, accounting, tax preparation software and related services for small businesses, accountants and individuals.  In her role she leads an organization that builds critical platforms and services for the different business units at Intuit.  Ms. Arasu previously served as the Chief Technology Officer for StubHub, Inc., the online and mobile ticketing marketplace subsidiary of eBay Inc. (Nasdaq: EBAY), from November 2011 to January 2016.  At eBay, she also served as the Vice President of Engineering, Managed Marketplaces from 2010 to 2011, the Vice President of Engineering, Trading from 2008 to 2010, and in other positions of increasing authority from 2001 to 2008.  Prior to joining eBay, Ms. Arasu served in positions of increasing authority at numerous technology companies.  She is also actively involved in civic and non-profit organizations focused on empowering women in technology.  The Board relies on Ms. Arasu's extensive experience in technology, including the areas of mobile technologies, payment processing, and the development process, in guiding the Company's business strategy.  Ms. Arasu holds a Bachelor's degree in Computer Engineering from Pune University, in Pune, India.
+C. Brad Henry has served as one of the Company's directors since 2011. Governor Henry is currently of counsel to the national business law firm of Spencer Fane LLP and a founding member of Henry-Adams Companies, LLC, a general and business development consulting firm. In 2010, Governor Henry was appointed by President Barack Obama to the six-member Council of Governors, which works closely with the Secretary of Defense, the Secretary of Homeland Security, and other defense and national security advisors on the synchronization and integration of state and federal military services.  He served as governor of the State of Oklahoma for two consecutive terms ending in 2011, the maximum allowed under Oklahoma law. Governor Henry previously served as Chairman of the Council of State Governments, the Southern Growth Policies Board, and the Interstate Oil and Gas Compact Commission, and he currently serves on the boards of the Center for Consumer Recovery, Inc., and the Muscular Dystrophy Association, and was a charter member of the Governors' Council of the Bipartisan Policy Center.  Prior to his election as governor, he practiced law and served 10 years in the Oklahoma State Senate, chairing the Senate Judiciary Committee and serving as vice-chair of the Senate Economic Development Committee.  The Board relies upon Governor Henry's extensive experience in state government and industry in guiding the Company's business strategy.  Governor Henry holds a bachelor's degree in economics from the University of Oklahoma and a J.D. degree from the University of Oklahoma School of Law, where he served as managing editor of the Law Review.
+Alexander C. Kemper has served as one of the Company's directors since 2007.  He chairs the Compensation Committee.  Mr. Kemper is the chairman of the board of The Collectors Fund, a private equity fund focused on alternative asset classes, and serves as chairman and chief executive officer of C2FO, a leading global marketplace for working capital.  He founded Perfect Commerce Inc., an application service provider for internet sourcing and procurement tools and related professional services, and served as chairman and chief executive officer from 2000 to 2006.  Under his leadership, Perfect Commerce created the Open Supplier NetworkTM (OSNTM) and became the largest and fastest growing provider of on-demand supplier relationship management (SRM) technology in the United States.  Before founding Perfect Commerce, Mr. Kemper was the chairman of the board and CEO of UMB Bank, N.A. and CEO of UMB Financial Corp., a Nasdaq-traded financial services company with assets of more than $20 billion. He is an active angel and venture investor and currently serves on several corporate boards, including UMB Financial Corp. (Nasdaq: UMBF), AXA Art, USA (NYSE: AXA), Sipvine and Dwolla. Mr. Kemper has extensive experience in finance, banking, investment, management and board service, as well as extensive experience with technology companies, which enables him to provide valuable guidance to his fellow directors on such matters. Mr. Kemper holds a B.A. degree from Northwestern University. William M. Lyons has served as one of the Company's directors since 2009. He chairs the Corporate Governance and Nominating Committee.  Mr. Lyons was president and chief executive officer of American Century Companies, Inc., a Kansas City-based investment manager, until his retirement in March 2007. Mr. Lyons joined American Century in 1987 as assistant general counsel and during his tenure also served as its general counsel, executive vice president, and chief operating officer. Mr. Lyons was named president in 1997 and chief executive officer in 2000. Mr. Lyons also served as a director of American Century Companies, Inc. and numerous investment companies affiliated with American Century Companies, Inc. While at American Century, Mr. Lyons also was a senior executive of several operating subsidiaries, including American Century Investment Management, Inc., American Century Investment Services, Inc., and American Century Services Corp. He is currently a member of the board of directors of Morningstar, Inc. (Nasdaq: MORN) and other civic and not-for-profit entities. Mr. Lyons's leadership of American Centuries Companies, Inc. through a period of substantial growth enables him to provide valuable guidance to the Board on business strategy and financial matters. Mr. Lyons holds a bachelor's degree in history from Yale University and a J.D. degree from Northwestern University School of Law.
+Anthony Scott has served as one of the Company's directors since 2018. He is currently a senior data privacy and cybersecurity advisor with the global law firm of Squire Patton Boggs, headquartered in Cleveland, a position that he has held since September 2017. Mr. Scott is also a Managing Partner for Ridge-Lane L.P., where he has served since August 2018. Mr. Scott formerly served as the third Chief Information Officer of the United States under President Barack Obama from February 2015 until January 2017. In addition, from September 2013 through February 2015, he led the global information technology group at VMware, and from February 2008 until May 2013, he served as CIO at Microsoft (Nasdaq: MSFT). Prior to serving as the CIO of Microsoft, he was the CIO at The Walt Disney Company (NYSE: DIS), and was the first Chief Technology Officer of Information Systems & Services at General Motors Corporation (NYSE: GM).  He previously held senior management positions in IT at Bristol Myers Squibb (NYSE: BMY) and Sun Microsystems (Nasdaq: SUNW).  Mr. Scott holds a Bachelor of Arts degree in Information Systems from the University of San Francisco and a Juris Doctor degree from Santa Clara University. 
+Jayaprakash Vijayan has served as one of the Company's directors since 2018. He is the former CIO of Tesla Inc. (Nasdaq: TSLA) and is currently the Founder and Chief Executive Officer of Tekion Corp. (2016 to present), an innovative startup technology company serving the automotive retail industry. He served at Tesla from 2012-2016 and was responsible for the company's information systems, including applications, infrastructure, network, operations, and corporate and product security. Prior to Tesla, Mr. Vijayan led the IT Business Applications organization for VMware, Inc. (NYSE: VMW) and led product development teams for Oracle (NYSE: ORCL). Mr. Vijayan holds a B.S. and M.S. in Geology from the University of Madras in Chennai, Tamil Nadu, India. Pete Wilson has served as one of the Company's directors since 1999. Governor Wilson served as Governor of the State of California from 1991 until 1999.  Prior to serving as Governor of California, Governor Wilson served in the U.S. Senate for eight years, representing the State of California from 1983 to 1991, and served as the mayor of San Diego, California from 1971 to 1983.  Governor Wilson is a principal at Wilson Walsh Consulting Group, a business consulting firm.  He is also of counsel to Browne George Ross LLP. Governor Wilson is also a director of The Irvine Company, and U.S. TelePacific Corp, and is a director and founder of the California Mentoring Foundation. He is a former member of the California State Chamber of Commerce Board of Directors, and a member and Founding Chair of the Southern California Leadership Council.  Governor Wilson is a Distinguished Visiting Fellow of the Hoover Institution at Stanford University, and serves as a Trustee of the Ronald Reagan Presidential Foundation, the Richard Nixon Foundation, and the Criminal Justice Legal Foundation. He is past Chair (current Capital Campaign Chair) of the National World War II Museum.  Governor Wilson is also a former member of the Defense Policy Board (advisory to the Secretary of Defense) and the President's Foreign Intelligence Advisory Board and formerly served on the Thomas Weisel Partners board of advisors.  The Board draws upon Governor Wilson's extensive experience inside and outside government in overseeing the Company's business strategy and developing relationships with government partners.  He received his undergraduate degree from Yale University and his law degree from Boalt Hall (University of California at Berkeley).  After graduating from Yale, Governor Wilson spent three years in the Marine Corps as an infantry officer.
+The Board of Directors, upon the recommendation of the Corporate Governance and Nominating Committee, recommends a vote FOR the election of Messrs. Herington, Burtscher, Henry, Kemper, Lyons, Scott, Vijayan and Wilson and Ms. Arasu. _________________
+EXECUTIVE COMPENSATION
+_________________
+REPORT OF THE COMPENSATION COMMITTEE
+_________________
+The Committee has reviewed and discussed the Compensation Discussion and Analysis ("CD&A") portion of this Proxy Statement with management.  Based on the Committee's review and discussions, the Committee has recommended to the Board of Directors that the CD&A be included in this Proxy Statement and incorporated by reference in the Company's Annual Report on Form 10-K.
+Respectfully submitted,
+The Compensation Committee
+Alexander C. Kemper (Chairman)
+Art N. Burtscher
+C. Brad Henry
+Jayaprakash Vijayan
+Pete Wilson _________________
+COMPENSATION DISCUSSION AND ANALYSIS
+_________________
+Introduction
+This CD&A describes our executive compensation programs and compensation decisions in 2018. Our named executive officers ("executive officers" or "NEOs") included our four Executive Leadership Team members and one member of our Senior Management Steering Group, who for 2018 were:
+[BEGIN TABLE]
+Name Title 
+Harry H. Herington Chairman of the Board and Chief Executive Officer ("CEO") 
+Stephen M. Kovzan Chief Financial Officer ("CFO") 
+Robert W. Knapp, Jr.1 Chief Operating Officer ("COO") 
+Jayne Friedland Holland Chief Security Officer ("CSO") 
+William A. Van Asselt General Counsel and Secretary 
+[END TABLE]
+Mr. Herington, in his role as CEO, has formally designated an Executive Leadership Team, comprised of the Company's most experienced senior executives having the most knowledge about the Company and its operations.  The Executive Leadership Team provides advice and counsel to Mr. Herington on a regular basis and assists in formulating strategy and tactics for furthering the Company's business.  Executive Leadership Team members for 2018 were Messrs. Herington, Kovzan, and Knapp and Ms. Holland.
+Mr. Herington has also formally designated a Senior Management Steering Group to provide a forum for discussing risks and opportunities identified by the various NIC divisions that might affect the growth and stability of the Company.  The Senior Management Steering Group is comprised of the Executive Leadership Team, as well as Mr. Van Asselt and Mr. Doug Rogers, Senior Vice President of Business Development.  Mr. Herington regularly consults with this broader group of senior management.
+Philosophy and Objectives 
+The philosophy underlying the Company's executive compensation program is to link total compensation with both short- and long-term Company performance and increase stockholder value through profitable growth and the execution of specific strategies.  Superior performance by our executive team is essential to these goals, so we have structured our executive pay programs to attract and retain talented, highly-qualified executives, to reward performance through incentive compensation and to align the interests of executives and stockholders through longer-term equity-based compensation.  The Company's Compensation Committee (referred to in this CD&A as the "Committee") has adopted a straightforward approach to executive compensation, whereby material components of pay are tied to elements of the Company's financial performance. The Committee structures its compensation programs to align executive and stockholder interests, by fostering a team-based environment that recognizes the Company's entrepreneurial history and strong record of financial performance.
+1 Mr. Knapp stepped down as the Company's Chief Operating Officer effective January 27, 2019. The Committee considers input from our CEO and CFO regarding the responsibilities and accomplishments of individual executive officers, and recommendations regarding salary, bonus, equity compensation, performance goals and overall compensation levels for executive officers. Our CEO, CFO and other executive officers attended portions of Committee meetings throughout the year in order to provide information and help explain data relating to matters considered by the Committee.  Executive officers, however, were not present during deliberations or determination of their respective compensation or during executive sessions. All decisions regarding the compensation of executive officers ultimately were made solely by the Committee, which considered these recommendations and exercised its discretion to modify certain recommended adjustments or awards based on a number of factors considered by the Committee. 
+The Committee has the authority to retain outside consultants or advisors as it deems necessary to provide desired expertise and counsel. The Committee retains a compensation consultant approximately every three years to provide updated information and analysis to the Committee.  The Committee has periodically engaged the services of Semler Brossy Consulting Group ("SBCG") as its compensation consultant, including for 2016, which resulted in a compensation study that was utilized by the Committee in connection with 2018 executive compensation decisions. SBCG reports directly and exclusively to the Committee and provides advice regarding current and emerging best practices with regard to executive compensation. Specifically, the Committee asked SBCG to review and update the peer group used to benchmark executive compensation levels; and perform a competitive assessment of target pay opportunities for the Executive Leadership Team against the peer group and broader market survey data.
+Also, the Committee considers carefully the views and input of stockholders, including previous "say on pay" results, when determining executive pay.  At last year's annual meeting, stockholders voted strongly in favor of the Company's approach to executive compensation – 97% of the votes cast on the advisory 'say on pay' resolution were voted in favor of the resolution. The Committee believes this affirms that our stockholders generally support the Company's approach to executive compensation. Accordingly, the Committee has taken no specific actions to modify our executive compensation program as a direct result of these non-binding, advisory votes but, rather, has continued to oversee the program in accordance with its best judgment and stated governing principles.
+Peer Group 
+The peer group developed pursuant to the SBCG study consisted of 18 companies in similar businesses and of comparable size to NIC at the time.  The 18 members of the peer group used for the 2016 study were as follows:
+[BEGIN TABLE]
+ACI Worldwide, Inc. (ACIW) LogMeIn, Inc. (LOGM) 
+Blackbaud Inc. (BLKB) Perficient Inc. (PRFT) 
+Bottomline Technologies, Inc. (EPAY) Stamps.com, Inc. (STMP) 
+CoStar Group Inc. (CSGP) Tyler Technologies Inc. (TYL) 
+DHI Group, Inc. (DHX) VASCO Data Security International, Inc. (VDSI) ** 
+Ebix, Inc.(EBIX) XO Group Inc. (XOXO)* 
+j2 Global, Inc. (JCOM) DealerTrack Holdings Inc. (TRAK)* 
+Liquidity Services, Inc. (LQDT) EPIQ Systems Inc. (EPIQ)* 
+LivePerson Inc. (LPSN) Higher One Holdings, Inc. (ONE)* 
+[END TABLE]
+* Since the 2016 study this Company has been acquired or taken private. ** Since the 2016 study this Company changed its name to OneSpan and now trades under the ticker symbol OSPN.
+SBCG's 2016 study indicated that total pay opportunities (cash, annual cash incentive and long-term equity incentives) for the four members of the Executive Leadership Team were generally at the low end of the competitive range compared to the peer group ("market"), with the largest shortcoming attributable to long-term equity-based incentives.  At the Committee's direction, SBCG looked to the 25th and 50th percentiles of market as key competitive pay boundaries for NIC, with the 25th percentile as the low end of the competitive range, and the 50th percentile as the high end, taking into consideration NIC's overall size compared to many peer group members.  To this end, SBCG's study indicated that NIC's annual revenue was somewhat below the median of peers, with other measures of company size and scope, such as market value and profitability above peer medians, and assets and employee count below peer medians.  Specifically, the study indicated that:
+[BEGIN TABLE]
+• Base salaries were generally at the 25th percentile of market for the CEO, CFO and CSO, and below the 25th percentile for the COO; 
+• Target total annual cash compensation (i.e., base salary and annual cash incentive) was at the 25th percentile of market for the CEO and below the 25th percentile for the CFO, COO and CSO; and 
+• Target total annual compensation, inclusive of long-term, equity-based incentives, was below the 25th percentile for total pay for all four members of the Executive Leadership Team. 
+[END TABLE]
+In terms of mix of pay between cash and equity, SBCG's study indicated that long-term equity incentive opportunities were light in the overall mix of pay relative to competitive practice. SBCG recommended long-term equity incentives as the most natural lever to ensure the overall competitiveness of the Company's executive compensation program going forward, and in doing so, linking incremental pay to longer-term Company performance and shareholder value.
+For 2016, the Committee did not make any changes to the basic structure of the Company's executive compensation program, but the Committee did approve certain changes to executive compensation as more fully described in the proxy statement for the 2017 annual meeting of stockholders filed with the SEC on March 17, 2017. The underlying intention of these changes was to increase total pay opportunities for the Executive Leadership team, in the aggregate, to more closely align with the 25th percentile levels of market.  Among the changes, the Committee increased base salaries of the Executive Leadership Team, made certain modifications to the annual cash incentive and long-term equity incentives components to increase target incentive percentages. In addition, the Committee adjusted certain performance levels used to evaluate Company performance to reflect past and expected future performance of the Company.
+Components of Our Executive Compensation Program
+The Committee has maintained a very consistent approach and structure for compensation of the specified members of the Executive Leadership Team since 2008, with modest adjustments from year to year, determined by the Committee, to maintain strong alignment with our business objectives and organizational context.  The primary components of our executive compensation program are as follows: 
+[BEGIN TABLE]
+Type   Component   Objective 
+Base Salary   Fixed portion of compensation; reviewed annually.   Provide competitive pay reflective of an executive's role, responsibilities and individual performance in order to attract and retain top talent. 
+Short-Term Incentive   Annual cash incentive; performance-based cash opportunity; amount varies based on company performance.   Drive achievement of annual corporate goals. 
+Long-Term Incentive   Service-based and performance-based restricted stock awards, subject to time-based vesting requirements and certain performance-conditions.   Promote achievement of long-term corporate goals through operating performance objectives over a three-year period, encourage ownership stake, and promote retention.  
+Long-Term Incentive   Service-based and performance-based restricted stock awards, subject to time-based vesting requirements and certain performance-conditions.   Promote achievement of long-term corporate goals through operating performance objectives over a three-year period, encourage ownership stake, and promote retention.  
+[END TABLE]
+Annual cash incentives. As further discussed below under "The Executive Incentive Plan and Tax Considerations,"  the 2018 annual cash incentive was granted under the Management Annual Incentive Plan for Senior Executives, or ("MAIPSE"), which establishes initial performance requirements, or the "outer layer," pursuant to which an executive may earn the right to receive the maximum award under the NIC Inc. Executive Incentive Plan, which provides an upper limit on cash bonuses to be awarded upon achievement of certain objective performance goals.  The outer layer component of the MAIPSE for 2018 was as follows:  positive net income, as reported on NIC's consolidated statement of income for the 2018 fiscal year, or total revenues, as reported on NIC's consolidated statement of income, that equal or exceed $336.5 million for the 2018 fiscal year.  NIC achieved both qualifications for the 2018 fiscal year and thus the executives achieved the maximum incentive award possible, which is the lesser of (a) 200% of the officer's base salary on the last day of 2018, or (b) $2.5 million, as step one in the process.
+As the next step in the process, the yearly "inner layer" component of the MAIPSE establishes the criteria within which the Committee would exercise its discretion for awards based upon attainment of Company financial goals that will be used to determine actual award amounts that are below the maximum incentive award.  The Committee in effect uses its "negative discretion" to reduce the maximum awards, as it deems appropriate, based on the Company's financial performance relative to these pre-determined criteria.  Within these boundaries, the Committee has discretion to vary the actual awards to take into consideration the particular events of the year in coming to its final award for each executive officer.  The following is a discussion of the inner layer component of the MAIPSE. The 2018 MAIPSE measures annual Company performance using the following key financial metrics as performance criteria (dollar amounts in millions):
+[BEGIN TABLE]
+  Performance Levels   
+Performance Criteria Threshold Target Maximum Weighting 
+Operating income $60.4 $67.1 $73.8 67% 
+Total revenues $326.2 $343.4 $360.6 33% 
+[END TABLE]
+For 2018, the Committee retained "target" performance levels for the Company for operating income and total revenues based upon the Company's 2018 annual budget approved by the Board of Directors. Threshold levels were set at 90% of the target level for operating income and 95% of the target level for total revenues. Superior levels were set at 110% of the target level for operating income and 105% of the target level for total revenues. Management and the Committee believe that these metrics drive stockholder value in the near term and comprise a strong pay-for-performance relationship.  The definitions of operating income and total revenues are consistent with those terms defined in generally accepted accounting principles and may be derived directly from the face of the consolidated statements of income included in the Company's Annual Report on Form 10-K for the applicable annual period.
+Performance of the Company at the target level is intended to result in an annual cash incentive at a specified percentage of the executive's base salary. The Committee also determined a range of possible cash incentives above and below target performance for achieving "threshold" and "superior" performance.  For amounts between the threshold and target levels or between the target and superior levels, straight line interpolation is to be used.  No payments are to be awarded under the plan with respect to a performance criterion if threshold performance with respect to that criterion is not achieved, and no additional payments are to be awarded for performance in excess of the superior level. For 2018, the Committee maintained the 2017 percentage levels of base salary for determining potential payouts to be awarded to the members of the Executive Leadership Team with the exception of the CSO for which the Committee increased the 2018 percentage levels of base salary (from 15%, 30% and 50% to 27.5%, 55% and 91.9%.) The percentage levels used by the Committee for the Executive Leadership Team members were as follows:
+[BEGIN TABLE]
+Name Base Salary Threshold Cash Incentive as a% of Base SalaryTarget Cash Incentive as a% of Base SalarySuperior Cash Incentive as a% of Base Salary
+Name Base Salary Threshold Cash Incentive as a% of Base SalaryTarget Cash Incentive as a% of Base SalarySuperior Cash Incentive as a% of Base Salary
+Name Base Salary Threshold Cash Incentive as a% of Base SalaryTarget Cash Incentive as a% of Base SalarySuperior Cash Incentive as a% of Base Salary
+Harry H. Herington $500,000 50% 100% 167% 
+Robert W. Knapp, Jr. $325,000 37.5% 75% 125% 
+Stephen M. Kovzan $325,000 32.5% 65% 108.6% 
+Jayne Friedland Holland $315,000 27.5% 55% 91.9% 
+[END TABLE]
+Threshold performance for incentive awards under each performance criterion was 0.5 times target in 2018 and for superior performance each criterion was 2 times target, the same as in 2017 and 2016.  However, the maximum total incentive payout for the two performance criteria when combined was capped at 1.67 times target, also the same as in 2017 and 2016.
+For 2018, the Company achieved total operating income of $75.1 million and total revenues of $344.9 million, which resulted in annual cash incentive payments above target pay levels. Based on the  Company's 2018 actual financial performance in relation to the performance criteria and performance levels, the following annual cash incentive awards were paid in early 2019:
+[BEGIN TABLE]
+Name 2018 Annual Cash Incentive Paid2018% Annual Cash Incentive As a% of Base Salary
+Name 2018 Annual Cash Incentive Paid2018% Annual Cash Incentive As a% of Base Salary
+Harry H. Herington $835,000 167% 
+Robert W. Knapp, Jr. $407,063 125.3% 
+Stephen M. Kovzan $352,788 108.6% 
+Jayne Friedland Holland $289,328 91.9% 
+[END TABLE]
+Long-term, equity-based incentives.  As determined by the Committee, the Company's long-term, equity-based incentive for the specified members of the Executive Leadership Team included in the executive compensation program provides for annual restricted stock grants with a service-based component and a Company performance component to compensate executives with regard to the Company's long-term growth objectives.
+Service-Based Component
+Service-based restricted stock awards vest ratably over a four-year service period following the date of grant.  There is no performance component tied to the service-based award.  The members of the Executive Leadership Team are entitled to cash dividends on shares of unvested service-based restricted stock in the same amount and at the same time as dividends are paid to other holders of the Company's common stock.  The Company believes that restricted shares further the alignment of executive interests with those of stockholders, foster share ownership and wealth creation and provide significant retention value.  Further, restricted shares provide a degree of certainty in an otherwise performance-based equity portfolio.
+For 2018, the Committee maintained the 2017 annual amount of service-based restricted stock to be awarded to the members of the Executive Leadership Team with the exception of the CSO. The Committee increased the 2018 percentage level of base salary for the CSO from 50% to 75%. The annual amount, as a percentage of base salary, was as follows: CEO (150%), COO (95%), CFO (75%), and CSO (75%).  The amounts of service-based restricted stock awarded to each specified member of the Executive Leadership Team were consistent with the recommendations of management.  The differences in percentage of base salary for each specified member of the Executive Leadership Team reflect differences in the scope of duties and responsibilities and, in part, the "gap to market" for total long-term equity incentive compensation determined in the 2016 SBCG study.
+On February 22, 2018, the Committee granted the specified members of the Executive Leadership Team the following awards of service-based restricted stock for 2018 based upon the above percentages of base salary (the closing market price of the Company's common stock on February 22, 2018 was $13.70 per share):
+[BEGIN TABLE]
+Name Service-Based Restricted Shares
+Name Service-Based Restricted Shares
+Harry H. Herington 54,744 shares 
+Robert W. Knapp, Jr. 22,536 shares 
+Stephen M. Kovzan 17,791 shares 
+Jayne Friedland Holland 17,244 shares 
+[END TABLE]
+ Performance-Based Component
+The performance-based equity incentive provides for annual grants of restricted stock tied to three-year performance periods. A new three-year period is intended to begin each year.  At the end of each three-year period, the members of the Executive Leadership Team receive a number of shares per a pre-defined schedule of threshold, target and superior Company performance.  Each level of performance is associated with a pre-defined payout, expressed as a percentage of base salary.
+Pursuant to the terms of the performance-based equity grant agreements, the members of the Executive Leadership Team have the opportunity to earn dividend equivalent shares for any cash dividends declared by the Company during the performance period and before any shares are paid under the agreement.
+The 2018 performance component measures long-term Company performance using the following performance criteria:
+[BEGIN TABLE]
+  Performance Levels   
+Performance Criteria Threshold Target Maximum Weighting 
+Operating income growth (three-year compound annual growth rate ("CAGR")) 5% 10% 15% 33.33% 
+Total revenue growth (three-year CAGR)  5% 10% 15% 33.33% 
+Total revenue growth (three-year CAGR)  5% 10% 15% 33.33% 
+Return on invested capital ("ROIC") (three-year average) 30% 35% 40% 33.34% 
+[END TABLE]
+Performance of the Company at threshold, target or superior levels is intended to result in a share-based incentive at a specified percentage of the executive's base salary. For each performance measure, no shares are awarded if threshold performance is not achieved, and no additional shares are awarded for performance in excess of the superior level.  For amounts between the threshold and target levels or between the target and superior levels, straight line interpolation, rounded up to the next whole share, will be used to determine the portion of the award that becomes vested. The percentage levels used by the Committee for Executive Leadership Team members are as follows: 
+[BEGIN TABLE]
+Name Base Salary Threshold Equity Incentive as a% of Base SalaryTarget Equity Incentive as a% of Base SalarySuperior Equity Incentive as a% of Base Salary
+Name Base Salary Threshold Equity Incentive as a% of Base SalaryTarget Equity Incentive as a% of Base SalarySuperior Equity Incentive as a% of Base Salary
+Name Base Salary Threshold Equity Incentive as a% of Base SalaryTarget Equity Incentive as a% of Base SalarySuperior Equity Incentive as a% of Base Salary
+Harry H. Herington $500,000 75% 150% 250% 
+Robert W. Knapp, Jr. $325,000 47.5% 95% 158.7% 
+Stephen M. Kovzan $325,000 37.5% 75% 125% 
+Jayne Friedland Holland $315,000 25% 50% 83.5% 
+[END TABLE]
+Threshold performance for incentive awards under each performance criterion remained at 0.5 times target in 2018, and for superior performance each criterion remained at 2 times.  However, the maximum total incentive payout for all three performance criteria when combined was capped at 1.67 times target, the same as in 2017 and 2016.  These levels were consistent with the levels approved by the Committee for the annual cash incentive, as further discussed above.
+2018 Performance-based Grants - On February 22, 2018, the Committee granted the specified members of the Executive Leadership Team the following awards of performance-based restricted stock for 2018 pursuant to the terms of the long-term equity incentive (the closing market price of the Company's common stock on February 22, 2018 was $13.70 per share):
+[BEGIN TABLE]
+Name Performance-Based Restricted Shares Granted (1) 
+Harry H. Herington 91,241 shares 
+Robert W. Knapp, Jr. 37,636 shares 
+Stephen M. Kovzan 29,654 shares 
+Jayne Friedland Holland 19,199 shares 
+[END TABLE]
+[BEGIN TABLE]
+(1) Represents the maximum number of performance-based restricted shares able to be earned by the NEO at the end of the three-year performance period ending December 31, 2020 pursuant to the terms of the long-term equity incentive.  The actual number of shares earned will be based on the Company's performance as indicated above over the three-year period ending December 31, 2020.  No shares will vest if threshold performance is not achieved, and no additional shares will vest for performance in excess of the superior level. 
+[END TABLE]
+Pursuant to the terms of the 2018 performance-based equity grant agreement, at the end of the three-year performance period, each specified member of the Executive Leadership Team may receive an additional number of shares ("Dividend Shares") determined as follows: (1) as of each date (the "Dividend Payment Date") that the Company would otherwise pay a declared cash dividend on the total number of shares set forth in the agreement, the Company credits a number of Dividend Shares to a notional account established for the benefit of each specified member of the Executive Leadership Team, and the number of Dividend Shares so credited is calculated by dividing the amount of such hypothetical cash dividend payment by the fair market value of the Company's common stock on the Dividend Payment Date (rounded down to the nearest whole Dividend Share); and (2) on the date some or all of the shares are paid under the agreement, a pro rata number of notional Dividend Shares will be converted into an equivalent number of Dividend Shares earned and paid to each specified member of the Executive Leadership Team based upon the actual number of underlying shares vested during the performance period. 2018 Performance-based Payouts – The end of the 2018 fiscal year marked the completion of the three-year performance period for performance-based restricted stock awards granted in 2016. The following table sets forth performance levels for the performance criteria included in the long-term equity incentive grant made to the Executive Leadership Team in 2016 and actual results for the three-year period ended December 31, 2018:
+[BEGIN TABLE]
+  Performance Levels Three-Year Actual Results 
+Performance Criteria Threshold Target Superior 
+Operating income (three-year CAGR) 5% 10% 15% 3.7% 
+Total revenue (three-year CAGR) 5% 10% 15% 5.7% 
+Cash flow return on invested capital, excluding income taxes paid (three-year average) 30% 35% 40% 36.4% 
+[END TABLE]
+Based on the Company's performance as indicated above over the three-year period ended December 31, 2018, the actual total shares earned by the Executive Leadership Team were as follows:
+[BEGIN TABLE]
+Name Restricted Shares Vested Dividend Shares Earned Total Shares 
+Harry H. Herington 33,312   2,176   35,488   
+Robert W. Knapp, Jr. 13,713   893   14,606   
+Stephen M. Kovzan 10,826   704   11,530   
+Jayne Friedland Holland 6,995   453   7,448   
+[END TABLE]
+The Executive Compensation Program for William A. Van Asselt
+William A. Van Asselt is General Counsel and a member of the Senior Management Steering Group. Mr. Van Asselt is the primary officer responsible for the Company's compliance with the applicable laws and regulations under which the Company operates. Mr. Van Asselt's 2018 compensation program differed from the Executive Leadership Team primarily because he did not participate in a performance-based equity incentive plan in 2018.  The other components of Mr. Van Asselt's compensation program include base salary, a short-term annual incentive (i.e., annual cash bonus), and a long-term, service-based equity incentive, as described below.
+Base salary.  The Committee increased Mr. Van Asselt's annual base salary by 3% in January 2018 to $291,750.
+Annual cash incentive.  Under the terms of Mr. Van Asselt's Profit Sharing and Incentive Program, Mr. Van Asselt's annual cash incentive award is based on a pre-established Company annual operating income goal and the award amount is calculated as a percentage of Mr. Van Asselt's base salary, which was recommended by the CEO to, and approved in its sole discretion by, the Committee.  Mr. Van Asselt's annual cash incentive target was 25% of his base salary for fiscal 2018.  If the pre-established Company annual operating income goal had not been achieved, no annual cash incentive would have been paid, unless  otherwise provided.  Based on the achievement of the 2018 Company operating income goal, the Company paid the annual cash incentive payment to Mr. Van Asselt totaling $72,938 in early 2019.
+Long-term, service-based equity incentive.  Mr. Van Asselt's long-term, equity-based incentive is comprised of an annual service-based restricted stock grant, in the amount of a percentage of his base salary, designed to strengthen his long-term commitment to the success of the Company, to promote ownership in the Company, and to motivate him to make significant contributions to the Company that increase stockholder value.  Under the terms of Mr. Van Asselt's Profit Sharing and Incentive Program, the annual amount of service-based restricted stock to be awarded was a percentage of annual base salary recommended by the CEO to, and approved in its sole discretion by, the Committee.  Mr. Van Asselt's 2018 long-term, equity-based incentive target was 35% of his base salary on the grant date of the award.  Service-based restricted stock awards vest ratably over a four-year service period following the date of grant.  On January 28, 2019, the Committee granted Mr. Van Asselt 7,226 shares of service-based restricted stock for 2018 pursuant to the terms of the long-term incentive plan (the closing market price of the Company's common stock on January 28, 2019 was $14.13 per share).
+Executive Perquisites for 2018
+Other components of executive compensation beyond base salary, annual cash incentives and long-term equity-based incentives include Company-paid executive life and disability insurance premiums for Messrs. Herington, Kovzan, Knapp and Van Asselt and Ms. Holland pursuant to the terms of their employment agreements. With respect to these perquisites, the Committee considered the cost of each perquisite and the total amount of compensation otherwise provided to each executive.
+Stock Ownership Requirements for Executive Leadership Team Members and Non-Employee Directors
+In 2011, the Board of Directors approved a stock ownership policy, which is administered by the Corporate Governance and Nominating Committee.  Both the Board and management believe such a policy generally represents a progressive governance posture and can help underscore a principal objective of equity-based compensation by fostering alignment of Board and management interests with those of stockholders.  The policy is based on a "multiple of" approach to stock ownership whereby ownership guidelines for the members of the Executive Leadership Team are based on a multiple of base salary and for non-employee directors are based on a multiple of annual cash retainer.  The policy's stock ownership requirements for each participant are as follows:
+[BEGIN TABLE]
+• Non-employee directors: four (4) times annual cash retainer 
+• CEO: six (6) times annual base salary 
+• The Company's CFO, COO and CSO: three (3) times annual base salary 
+[END TABLE]
+NIC common stock that is vested and owned by the participant will count toward satisfaction of the policy's requirements.  Stock owned by the participant includes shares owned outright (i.e., held individually or as co-owner with a spouse) and shares beneficially owned but held in trust or in another entity for the benefit of the participant and his or her immediate family.  Unvested equity awards do not count toward satisfaction of the policy's requirements.  During times that the minimum ownership requirement is not attained, the participant is required to retain at least 50% (or such other percentage as subsequently set by the Corporate Governance and Nominating Committee) of net shares of common stock delivered through  the Company's equity compensation plans.  Net shares of common stock refer to those shares that remain after shares are forfeited, sold or netted to pay any withholding taxes with respect to the vesting of any restricted stock.  The policy contains a hardship provision administered by the Corporate Governance and Nominating Committee.
+All non-employee directors and members of the Executive Leadership Team subject to the stock ownership requirements described herein currently meet such requirements, with the exception of Mr. Anthony Scott and Mr. Jayaprakash Vijayan, whom were appointed to the Board of Directors in June 2018.  Mr. Scott and Mr. Vijayan are within the grace period allowed under the policy to come into compliance with the policy.
+Prohibition of Hedging in Company Stock
+All employees and non-employee directors of the Company are prohibited from trading in puts, calls or similar hedging options on the Company's stock, or selling the Company's stock "short," as described in the Company's Trading and Disclosure of Non-Public Information Policy.
+Employment Agreements with Named Executive Officers
+On February 5, 2013, the Company entered into employment agreements with each of Messrs. Herington, Kovzan, and Knapp. The employment agreements each have substantially the same terms, except with respect to job titles and responsibilities and the amount payable to each executive officer. Each of the employment agreements has a three-year term, and unless notice is provided at least six months prior to the end of the respective term, automatically renews for additional three-year terms. On May 5, 2015, the Company entered into an employment agreement with Ms. Holland, which included terms consistent with the employment agreements of the other executive officers, when she was promoted to the Executive Leadership Team.
+On July 27, 2015, the Company entered into the first amendment to the employment agreements with each of Messrs. Herington, Kovzan and Knapp, and Ms. Holland.  Each of the amendments is identical and makes the following changes to the employment agreements: (a) acknowledges the indemnification agreement previously entered into between the Company and the executive, clarifies that the executive shall be an officer covered by the indemnification agreement, and requires that such indemnification agreement be maintained throughout the period of the employment agreement; and (b) clarifies that any notice to the executive from the Company intending to terminate the executive's employment for cause must include the facts and circumstances that are the basis for the termination.
+On July 29, 2018, the Company entered into an employment agreement with Mr. Van Asselt on terms substantially similar to the other executive officers, except that Mr. Van Asselt did not participate in a performance-based equity incentive plan in 2018. 
+The Committee believes that the employment agreements include certain provisions that reflect strong corporate governance practices, as well as protect stockholders' interests in the event of a change of control of NIC or certain accounting restatements.  The employment agreements include a "double trigger" severance right under which an executive would only be entitled to severance payments in connection with a change of control if the executive terminates his employment for "Good Reason" or NIC terminates the executive without "Cause" (as each of those terms are defined in the agreement).  The Committee believes this provision protects stockholders' interests in the event of a change of control by, among other things, ensuring continuity in management following the transaction.  The employment agreements also contain a  clawback provision under which NIC may recoup incentive compensation paid to the executive in the event of an accounting restatement under certain circumstances.  The provision is based upon the requirements of the Dodd-Frank Wall Street Reform and Consumer Protection Act of 2010 and will apply following the SEC's adoption of final rules regarding the same.
+The employment agreements also provide additional protections to executives for certain compensation and benefits in the event of termination. The Company has also included termination provisions in the various plans and award agreements relating to incentive compensation in which the named executive officers participate, which provisions will apply to the extent not covered by the employment agreements, such as in the case of death, disability or retirement.  These provisions are described below under "Employment Agreements and Severance Payments." The Committee believes these arrangements are reasonable and appropriate to retain and focus executives during periods of potential uncertainty.
+The employment agreements also provide the executives with a contractual right to certain compensation and benefits consistent with NIC's historical pay practices, such as rights to paid vacation and minimum target levels for incentive compensation based upon the executives' base salaries.  The Committee believes these additional rights are appropriate given NIC's historical and anticipated future pay practices.
+In addition, each named executive officer has entered into indemnification agreements with NIC, each in a form approved by the Company's Board and previously disclosed by the Company.  The Company has also entered into a form of the indemnification agreement with each of its directors.  The Company's Board has further authorized the Company to enter into the form of indemnification agreement with future directors and executive officers of the Company and other persons or categories of persons that may be designated from time to time by the Board.  The indemnification agreement supplements and clarifies existing indemnification provisions of the Company's Certificate of Incorporation and Bylaws and, in general, provides for indemnification to the fullest extent permitted by law, subject to the terms and conditions provided in the indemnification agreement.  The indemnification agreement also establishes processes and procedures for indemnification claims, advancement of expenses and costs and other determinations with respect to indemnification.
+For additional discussion of employment agreements with executive officers, refer to the discussion below set forth under "Employment Agreements and Severance Payments."
+Realized Equity Compensation
+It is important to recognize the difference between the compensation reported in the Summary Compensation Table ("SCT") on page 41 included in the Stock Awards column and compensation actually realized by our NEOs related to long-term equity awards. This supplemental information is important because a significant portion of equity compensation reported in the SCT is an incentive for future performance, which, with respect to the performance-based restricted stock awards, only provides an economic benefit if the applicable performance goals are achieved.
+The Stock Awards column in the SCT includes the grant date fair value of equity awards granted to our NEOs in 2018. The value that may be potentially realized from these equity awards in the future may differ from the grant date fair value required to be reported in the SCT. The greatest drivers of differences in the reported and realized value for long-term equity awards include our stock price performance, the performance assumptions used on the grant date for performance-based grants and the vesting and dividend-equivalent shares earned based on the actual performance of the Company over the three-year performance period of the performance-based grant.  The pay of our CEO, as reported in the SCT, reflects the reported value of long-term equity awards at grant and not the value actually realized by him from these awards. Because a significant portion of the reported compensation of our CEO represents potential pay, we believe it is useful to supplement the information provided in the SCT by also looking at the pay that our CEO actually realized during the year.
+The following table reports base salary, annual incentive earned, performance-based restricted stock awards vested in each respective year and the vesting of service-based restricted stock awards regardless of when they were granted:
+[BEGIN TABLE]
+Name and   Principal Position  Year   Salary ($)  Annual Cash Incentive ($)   Long-term Equity Vesting ($)  All Other Compensation (Including Perquisites) ($)  Total Realized Pay ($) 
+Name and   Principal Position  Year   Salary ($)  Annual Cash Incentive ($)   Long-term Equity Vesting ($)  All Other Compensation (Including Perquisites) ($)  Total Realized Pay ($) 
+Harry H. Herington   2018   500,000     835,000     480,031     134,544     1,949,575   
+CEO   2017   500,000     783,781     1,637,921     117,741     3,039,443   
+    2016   497,438     788,510     1,496,782     204,159     2,986,889   
+• Reported pay includes base salary, actual annual cash incentive earned in the applicable year, the grant date fair value of long-term equity awards granted in the applicable year and all other compensation, each as reported in the 2018 SCT on page 41. 
+[END TABLE]
+ 2017. Based on the Company's actual performance during this performance period, the value realized from this equity award was zero, which is reflected in the decrease in the amount included in the "Long-term Equity Vesting ($)" column for 2018 in the table above.  _________________
+COMPENSATION TABLES AND RELATED DISCLOSURE
+_________________
+The following Summary Compensation Table summarizes the compensation of our NEOs in accordance with SEC rules.
+[BEGIN TABLE]
+SUMMARY COMPENSATION TABLE (1) 
+Name and   Principal Position  Year   Salary ($)  Bonus ($)  Stock Awards ($)(2)  Non-Equity Incentive Plan Compensation ($)(3)  All Other Compensation (Including Perquisites) ($)(4)  Total ($) 
+Name and   Principal Position  Year   Salary ($)  Bonus ($)  Stock Awards ($)(2)  Non-Equity Incentive Plan Compensation ($)(3)  All Other Compensation (Including Perquisites) ($)(4)  Total ($) 
+Harry H. Herington   2018   500,000     —   875,268     835,000     134,544     2,344,812   
+Chairman, Chief   2017   500,000     —   1,286,099     783,781     117,741     2,687,621   
+Executive Officer   2016   497,438     —   1,306,849     788,510     204,159     2,796,956   
+Stephen M. Kovzan   2018   325,000     —   284,451     352,788     54,230     1,016,469   
+Chief Financial Officer   2017   325,000     —   417,977     331,148     49,150     1,123,275   
+    2016   322,625     —   424,715     333,145     76,795     1,157,280   
+Robert W. Knapp, Jr.   2018   325,000     —   360,315     407,063     63,276     1,155,654   
+Chief Operating Officer   2017   325,000     —   529,450     382,093     54,434     1,290,977   
+    2016   322,625     —   537,976     384,399     83,103     1,328,103   
+Jayne Friedland Holland   2018   315,000     —   262,551     289,328     45,947     912,826   
+Chief Security Officer   2017   315,000     —   270,083     148,135     39,405     772,623   
+    2016   313,875     —   371,829     149,028     48,858     883,590   
+William A. Van Asselt   2018   291,750     —   99,127     72,938     14,716     478,531   
+General Counsel   2017   283,250     —   96,228     70,813     12,796     463,087   
+    2016   272,917     —   142,468     68,750     16,470     500,605   
+[END TABLE]
+[BEGIN TABLE]
+Name 2018 ($) 2017 ($) 2016 ($) 
+Herington 1,999,995 2,000,002 2,000,013 
+Kovzan 649,997 649,988 650,005 
+Knapp 824,356 824,361 824,351 
+Holland 499,269 420,523 517,914 
+(3) For 2018, for Messrs. Herington, Kovzan and Knapp and Ms. Holland, amount consists of compensation earned in 2018, based on the Company's fiscal 2018 financial performance, but paid in 2019 under the Company's MAIPSE. For Mr. Van Asselt, the amount in 2018 consists of compensation earned in 2018, based on the Company's fiscal 2018 performance, but paid in 2019 under the terms of his Profit Sharing and Incentive Program.  For additional information regarding the Company's annual cash incentive plans, refer to the "Annual Case Incentives" section of the CD&A in this Proxy Statement beginning on page 27. 
+(4) All other compensation (including perquisites) for 2018 consists of the following: 
+Name Executive Life & Disability Insurance ($)Cash Dividends Paid: Service-based Equity Awards ($)(A)Dividend Equivalents: Performance-based Equity Awards ($)(B)Employer 401(k Match ($)Total Other Compensation ($)
+Name Executive Life & Disability Insurance ($)Cash Dividends Paid: Service-based Equity Awards ($)(A)Dividend Equivalents: Performance-based Equity Awards ($)(B)Employer 401(k Match ($)Total Other Compensation ($)
+Name Executive Life & Disability Insurance ($)Cash Dividends Paid: Service-based Equity Awards ($)(A)Dividend Equivalents: Performance-based Equity Awards ($)(B)Employer 401(k Match ($)Total Other Compensation ($)
+Herington 20,012   35,201   70,081   9,250   134,544   
+Kovzan 10,779   11,425   22,776   9,250   54,230   
+Knapp 10,877   14,242   28,907   9,250   63,276   
+Holland 11,337   10,614   14,746   9,250   45,947   
+Van Asselt 1,106   4,360   —   9,250   14,716   
+(B) This column reflects dividend and dividend equivalents declared on shares subject to each outstanding performance-based restricted stock award during the year, based upon the maximum number of shares which may become vested under the performance-based restricted stock award; Under each award agreement relating to the performance-based restricted stock awards, the actual dividend is payable to the named executive officer in the form of shares of Company common stock at the end of the three-year performance period for each award, but only to the extent the underlying shares have vested. At the end of the three-year performance period and on the date some or all of the shares vest under the award, a pro rata number of notional dividend shares will be converted into an equivalent number of dividend shares earned and shall be paid to the named executive officers based upon the actual number of underlying shares vested during the performance period.  No cash dividends or dividend equivalents are paid on any performance-based restricted stock awards during the three-year performance period. The amounts shown do not reflect any forfeitures at the end of the respective performance period of dividends previously declared on shares of performance-based restricted stock. 
+[END TABLE]
+ GRANTS OF PLAN-BASED AWARDS IN FISCAL 2018
+The following table sets forth information concerning grants of restricted stock awards and incentive plan awards to the named executive officers during the fiscal year ended December 31, 2018.
+[BEGIN TABLE]
+Name Grant Date Estimated Possible Payouts Under Non-Equity Incentive Plan AwardsEstimated Future Payouts Under Equity Incentive Plan AwardsAll Other Stock Awards: Number of Shares of Stock or Units (#)(3)Grant Date Fair Value of Stock and Option Awards ($)(4)
+Name Grant Date Estimated Possible Payouts Under Non-Equity Incentive Plan AwardsEstimated Future Payouts Under Equity Incentive Plan AwardsAll Other Stock Awards: Number of Shares of Stock or Units (#)(3)Grant Date Fair Value of Stock and Option Awards ($)(4)
+Name Grant Date Estimated Possible Payouts Under Non-Equity Incentive Plan AwardsEstimated Future Payouts Under Equity Incentive Plan AwardsAll Other Stock Awards: Number of Shares of Stock or Units (#)(3)Grant Date Fair Value of Stock and Option Awards ($)(4)
+Threshold ($)(1)Target ($)(1)Maximum ($)(1)Threshold (#)(2)Target (#)(2)Maximum (#)(2)
+Threshold ($)(1)Target ($)(1)Maximum ($)(1)Threshold (#)(2)Target (#)(2)Maximum (#)(2)
+Harry H.  Herington2/22/18 250,000 500,000 835,000 — — — — — 
+  2/22/18 — — — 27,372 54,744 91,241 — 125,275 
+  2/22/18 — — — — — — 54,744 749,993 
+Stephen M. Kovzan2/22/18 105,625 211,250 352,950 — — — — — 
+  2/22/18 — — — 8,896 17,791 29,654 — 40,714 
+  2/22/18 — — — — — — 17,791 243,737 
+Robert W.  Knapp, Jr.2/22/18 121,875 243,750 406,250 — — — — — 
+Robert W.  Knapp, Jr.2/22/18 121,875 243,750 406,250 — — — — — 
+  2/22/18 — — — 11,268 22,536 37,636 — 51,572 
+  2/22/18 — — — — — — 22,536 308,743 
+Jayne  Friedland Holland2/22/18 86,625 173,250 289,485 — — — — — 
+  2/22/18 — — — 5,748 11,496 19,199 — 26,308 
+  2/22/18 — — — — — — 17,244 236,243 
+William A.  Van Asselt2/22/18 — 72,938 — — — — — — 
+  1/28/18 — — — — — — 5,918 99,127 
+[END TABLE]
+[BEGIN TABLE]
+(4) Represents the aggregate grant date fair value of such awards, computed in accordance with FASB ASC Topic 718. Pursuant to SEC rules, the amounts shown reflect the probable outcome of performance conditions that affect the vesting of awards granted to the named executive officers. For assumptions used in determining these values, refer to Note 12 in the Notes to Consolidated Financial Statements included in our Annual Report on Form 10-K for the year ended December 31, 2018. 
+[END TABLE]
+ OUTSTANDING EQUITY AWARDS AT 2018 FISCAL YEAR-END
+The following table sets forth information concerning outstanding restricted stock awards for the named executive officers at December 31, 2018.
+[BEGIN TABLE]
+      Option Awards   Stock Awards 
+Name Grant Date Number of Securities Underlying Unexercised Options (#) Exercisable Number of Securities Underlying Unexercised Options (#) Unexercisable Equity Incentive Plan Awards: Number of Securities Underlying Unexercised Unearned  Options (#) Option Exercise Price ($) Option Expiration Date   Number of Shares or Units of Stock That Have Not Vested (#) Market Value of Shares or Units of Stock That Have Not Vested ($)(1) Equity Incentive Plan Awards: Number of Unearned Shares, Units or Other Rights That Have Not Vested (#) Equity Incentive Plan Awards: Market or Payout Value of Unearned Shares, Units or Other Rights That Have Not Vested ($)(1) 
+Harry H. Herington 2/23/15 — — — — — (2) 8,408 104,932 — — 
+2/22/16 — — — — — (2) 21,283 265,612 — — 
+2/22/16 — — — — — (3) — — 70,943 885,369 
+2/22/17 — — — — — (2) 25,568 319,089 — — 
+2/22/17 — — — — — (4) — — 56,819 709,101 
+2/22/18 — — — — — (2) 54,744 683,205 — — 
+2/22/18 — — — — — (5) — — 91,241 1,138,688 
+Stephen M. Kovzan 2/23/15 — — — — — (2) 2,684 33,496 — — 
+2/22/16 — — — — — (2) 6,917 86,324 — — 
+2/22/16 — — — — — (3) — — 23,057 287,751 
+2/22/17 — — — — — (2) 8,310 103,709 — — 
+2/22/17 — — — — — (4) — — 18,466 230,456 
+2/22/18 — — — — — (2) 17,791 222,032 — — 
+2/22/18 — — — — — (5) — — 29,654 370,082 
+Robert W. Knapp, Jr. 2/23/15 — — — — — (2) 2,684 33,496 — — 
+2/22/16 — — — — — (2) 8,761 109,337 — — 
+2/22/16 — — — — — (3) — — 29,263 365,202 
+2/22/17 — — — — — (2) 10,526 131,364 — — 
+2/22/17 — — — — — (4) — — 23,437 292,494 
+2/22/18 — — — — — (2) 22,536 281,249 — — 
+2/22/18 — — — — — (5) — — 37,636 469,697 
+Jayne Friedland Holland 7/17/15 — — — — — (2) 1,402 17,497 — — 
+1/20/16 — — — — — (2) 2,596 32,398 — — 
+2/22/16 — — — — — (2) 4,469 55,773 — — 
+2/22/16 — — — — — (3) — — 14,928 186,301 
+2/22/17 — — — — — (2) 5,370 67,017 — — 
+2/22/17 — — — — — (4) — — 11,956 149,211 
+2/22/18 — — — — — (2) 17,244 215,205 — — 
+2/22/18 — — — — — (5) — — 19,199 239,604 
+William A. Van Asselt 2/23/15 — — — — — (2) 878 10,957 — — 
+1/20/16 — — — — — (2) 1,999 24,948 — — 
+2/22/16 — — — — — (2) 1,915 23,899 — — 
+1/30/17 — — — — — (2) 2,916 36,392 — — 
+1/28/18 — — — — — (2) 5,918 73,857 — — 
+(1) The closing sales price per share of the Company's Common Stock on December 31, 2018, was $12.48. 
+[END TABLE]
+[BEGIN TABLE]
+(2) Service-based restricted stock awards granted in 2015, 2016, 2017 and 2018. The award vests 25% on the first, second, third and fourth anniversaries of the grant date, contingent upon the NEO's continued employment on the vesting dates. 
+(3) Performance-based restricted stock award granted on February 22, 2016. The number represents the maximum number of shares which may vest based on the three-year performance period that began on January 1, 2016 and end on December 31, 2018. The shares earned during this performance period vested on February 22, 2019. 
+(4) Performance-based restricted stock award granted on February 22, 2017. The number represents the maximum number of shares which may vest based on the three-year performance period that began on January 1, 2017 and ending on December 31, 2019. If the performance criteria are met, awards are issued in stock in the first quarter following the end of the performance period and are subject to service-based vesting through February 22, 2020.  
+(5) Performance-based restricted stock award granted on February 22, 2018. The number represents the maximum number of shares which may vest based on the three-year performance period that began on January 1, 2018 and ending on December 31, 2020. If the performance criteria are met, awards are issued in stock in the first quarter following the end of the performance period and are subject to service-based vesting through February 22, 2021. Performance criteria and calculation of performance awards are described in CD&A of this Proxy Statement. 
+[END TABLE]
+  OPTION EXERCISES AND STOCK VESTED IN FISCAL 2018
+The following table sets forth information concerning shares of restricted stock acquired on vesting by the named executive officers during the fiscal year ended December 31, 2018.
+[BEGIN TABLE]
+  Option Awards Stock Awards 
+Name Number of Shares Acquired on Exercise (#) Value Realized on Exercise ($)Number of Shares Acquired on Vesting (#)Value Realized on Vesting (1) ($)
+Name Number of Shares Acquired on Exercise (#) Value Realized on Exercise ($)Number of Shares Acquired on Vesting (#)Value Realized on Vesting (1) ($)
+Name Number of Shares Acquired on Exercise (#) Value Realized on Exercise ($)Number of Shares Acquired on Vesting (#)Value Realized on Vesting (1) ($)
+Harry H. Herington — — 34,981 480,031 
+Stephen M. Kovzan — — 11,273 154,692 
+Robert W. Knapp, Jr. — — 12,935 177,462 
+Jayne Friedland Holland — — 9,527 143,766 
+William A. Van Asselt — — 4,153 63,316 
+[END TABLE]
+REQUIRED PAY RATIO DISCLOSURE
+ Pursuant to a mandate of the  Dodd-Frank Wall Street Reform and Consumer Protection Act, the SEC adopted a rule requiring annual disclosure of the ratio of the total annual compensation of the Company's CEO to the median employee's annual total compensation. Set forth below for 2018 is a comparison of (i) the median of the annual total compensation of all employees of the Company and its consolidated subsidiaries (except the CEO of the Company) and (ii) the annual total compensation of the CEO. The median of the annual total compensation and the pay ratio described below are reasonable estimates calculated by the Company in a manner consistent with Item 402(u) of Regulation S-K.
+We estimate that the median of the annual total compensation of all employees of the Company and its consolidated subsidiaries (except our CEO) was approximately $81,962 for 2018. The annual total compensation of Harry H. Herington, our CEO, as reported in the Summary Compensation Table included in this Proxy Statement, was $2,344,812 for 2018.
+Based on this information, we estimate that the ratio of the annual total compensation of our CEO to the median of the annual total compensation of all employees was 29 to 1 for 2018. This compares to a ratio of 33 to 1 for 2017.
+To identify the median of the annual total compensation of all our employees, as well as to determine the annual total compensation of our median employee and our CEO, we used the following methodology and made the following material assumptions, adjustments, and estimates: 1.              We determined that, as of December 31, 2018, our employee population consisted of approximately 913 individuals, all of whom are located in the United States. This population consisted of our full-time and part-time employees.
+2.              To identify the "median employee" from our employee population, we compared the amount of salary and wages of our employees as reflected in our payroll records as reported to the Internal Revenue Service for the safe harbor provision for 401(k) discrimination testing, annualized for employees who were employed on December 31, 2018 but did not work for us for all of 2018.
+3.              We did not make any cost-of-living adjustments in identifying the "median employee."
+4.              Once we identified our median employee, we included the elements of such employee's compensation for 2018 determined in accordance with the requirements of Item 402(c)(2)(x) of Regulation S-K, resulting in annual total compensation of $81,962. With respect to the annual total compensation of our CEO, we used the amount reported in the "Total" column of our 2018 Summary Compensation Table included in this Proxy Statement, which was calculated in accordance with the same requirements of Item 402(c)(2)(x) of Regulation S-K. _________________
+EMPLOYMENT AGREEMENTS AND SEVERANCE PAYMENTS
+_________________
+Employment Agreements
+             On February 5, 2013, the Company entered into employment agreements with each of Messrs. Herington, Kovzan and Knapp.  On July 27, 2015, the Company entered into the first amendment to the employment agreements with each of Messrs. Herington, Kovzan and Knapp. Ms. Holland, who was appointed an Executive Officer in May 2015, entered into an employment agreement with the Company on terms consistent with the employment agreements of the other executive officers. Ms. Holland also executed an amendment. On July 29, 2018, the Company and Mr. Van Asselt executed an employment agreement on terms consistent with the as-amended employment agreements of the other executive officers, except that Mr. Van Asselt did not participate in a performance-based equity incentive plan in 2018. The Compensation Committee determined that the employment agreements were appropriate and desirable for the reasons set forth under "CD&A – Employment Agreements with Named Executive Officers" in this Proxy Statement beginning on page 37.
+             The employment agreements each have substantially the same terms, except with respect to job titles and responsibilities, amounts paid to executives and certain performance-based incentive components. In connection with entering into the employment agreements, Messrs. Herington, Kovzan, Knapp and Van Asselt and Ms. Holland have each entered into a proprietary information and inventions agreement and a non-competition agreement, each of which are substantially similar to the prior forms of agreements entered into between each executive and the Company.  If the executive's employment with the Company terminates for any reason, the agreements provide collectively that the executive:  (a) will not use any of the Company's proprietary information without the Company's prior written consent; (b) will not use any confidential information to compete against the Company or any of the Company's employees; (c) will not, for three years following termination, solicit any of the Company's employees or customers; and (d) will not, for two years following termination, own (whether in whole or part), aid, or render services to, directly or indirectly, or engage in certain activities with respect to, any competitor of NIC.
+             Under the employment agreements, Messrs. Herington, Kovzan, Knapp and Van Asselt and Ms. Holland are entitled to a minimum annual base salary, which may be increased by the Compensation Committee, as well as other benefits that are generally available to NIC employees.  Each executive is also entitled to: (a) paid vacation; (b) reimbursement of reasonable and necessary business expenses incurred by the executive in connection with his duties in accordance with the Company's policies; and (c) participate in and receive benefits under executive life insurance and disability policies.  Messrs. Herington, Kovzan, Knapp and Van Asselt and Ms. Holland are also entitled to participate, at a level commensurate with his or her position, in the Company's annual performance-based cash bonus plan and long-term equity incentive plan.  For Mr. Herington, the minimum target amount payable under the annual performance-based cash bonus plan is 100% of the executive's salary and the minimum target amounts under the service-based and performance-based components of the long-term equity incentive plan are 150% of the executive's salary.  For Mr. Kovzan, the minimum target amount payable under the annual performance-based cash bonus plan is 65% of the executive's salary and the minimum target amounts under both the service-based and performance-based components of the long-term incentive plan are 75% of the executive's salary.  For Mr. Knapp, the minimum target amount payable under the annual performance-based cash bonus plan is 75% of the executive's salary and the minimum target amounts under both the service-based and performance-based components of the long-term incentive plan are 95% of the executive's salary.  For Ms. Holland, the  minimum target amount payable under the annual performance-based cash incentive plan is 55% of the executive's salary and the minimum target amounts payable under both the service-based and performance-based components of the long-term equity incentive plan are 50% of the executive's salary. For Mr. Van Asselt, the minimum target amount payable under the service-based component of the long-term equity incentive plan is 35% of the executive's salary. 
+             Each of the employment agreements has a three-year term, and unless notice is provided at least six months prior to the end of the respective term, automatically renews for additional three-year terms.
+ Payments upon Termination of Employment or Change of Control
+The following discussion summarizes each of the employment agreements and describes the payments and benefits that would be provided to each of the named executive officers if their employment was terminated, including termination in connection with a change of control of NIC, in each case, as of December 31, 2018.
+Under the aforementioned employment agreements, the Company may terminate the employment of the executive at any time, with or without "Cause," or the executive may voluntarily terminate his employment for "Good Reason" or at any time and for any reason.  "Cause" is defined in the employment agreements as the executive's conviction of any felony or willful and deliberate failure to perform such executive's customary duties in a manner consistent with the manner reasonably prescribed by the Board (other than any failure resulting from incapacity due to physical or mental illness, disability or death).  "Good Reason" is defined in the employment agreements generally as: (a) any material reduction in the executive's compensation; (b) requiring the executive to relocate more than 60 miles from the Company's current location; or (c) any material breach of the employment agreement by the Company.
+Cash Severance Payments – Employment Agreements. Under the employment agreements, upon the executive's termination for any reason, the executive will receive: (a) accrued and unpaid salary through the termination date; (b) any earned but unpaid annual bonus for a previously completed fiscal year (but not for the year in which the termination occurs); (c) reimbursement of reimbursable expenses; (d) COBRA continuation coverage benefits and other employee benefits through the termination date; (e) any other amounts and benefits that the executive is entitled to receive under any Company employee benefit plan or program in accordance with the terms and provisions of such plan or program, except to the extent such amounts and benefits are determined pursuant to the employment agreement; and (f) such other compensation, if any, which the Company's Board of Directors may elect to pay or grant (collectively, the "Base Termination Benefits").  If the Company terminates the executive for Cause, or the executive voluntarily terminates his employment without Good Reason, the executive would only be entitled to the foregoing benefits.
+Under the employment agreements, if the Company terminates the executive without Cause or if the executive resigns for Good Reason, the executive is entitled to receive, in addition to the Base Termination Benefits, the amounts described under "Severance", "Life, Health and Other Benefits" and "Annual Incentive Plan" in Note 1 to the table below.
+             As described further below, the executive may also be entitled to certain severance pay if a "Change of Control" of the Company occurs, and within either the six-month period ending on the date of the "Change of Control" or the 18-month period beginning on the date of the "Change of Control," the executive's employment is terminated without Cause or the executive terminates employment for Good Reason.  In such event, the executive is entitled to receive, in addition to the Base Termination Benefits, the amounts described under "Severance", "Life, Health and Other Benefits" and "Annual Incentive Plan" in  Note 6 to the table below. The employment agreements provide for reductions in the amounts payable to the extent the present value of compensation would more likely than not be non-deductible under Section 280G of the Internal Revenue Code.
+             Under the employment agreements, a "Change of Control" will be deemed to have occurred if: (a) any person (other than a trustee or a fiduciary holding securities under the Company's employee benefit plan) becomes the beneficial owner (as that term is defined in Rule 13d-3 under the Exchange Act) of 30% or more of the Company's Common Stock; (b) a merger or consolidation of the Company is consummated with another company, other than a merger or consolidation in which the stockholders of the Company own 50% or more of the voting stock of the surviving corporation; (c) "Continuing Directors" (defined to include current Board members and future directors approved by a majority of continuing directors) no longer constitute at least a majority of the Company's Board; (d) the sale of all or substantially all of the assets of the Company; or (e) the liquidation or dissolution of the Company.
+             Under the employment agreements, in the event of the executive's death, the executive's designated beneficiaries will be entitled to receive, in addition to the Base Termination Benefits, the amounts described under "Life, Health and Other Benefits" in Note 4 to the table below.
+             If the Company terminates the executive's employment due to disability (as defined in the Company's disability policies), the executive is entitled to receive under the employment agreement and the Company's disability policies, in addition to the Base Termination Benefits, the amounts described under "Severance" and "Life, Health and Other Benefits" in Note 5 to the table below.
+Cash Severance Payments – Annual Incentive Plan. Messrs. Herington, Kovzan, Knapp and Van Asselt and Ms. Holland are each eligible participants under the Company's annual cash incentive plans, which provide each executive with an annual cash incentive payment generally based on a percentage of his/her base salary if and to the extent pre-established Company performance goals are met for a given one-year performance period.  The performance goals and potential payment amounts are established on an annual basis.
+             Under the plans, if the executive voluntarily terminates his/her employment prior to the end of the applicable performance period (other than for Good Reason, which is governed by his/her employment agreement, or retirement) or if the executive's employment is terminated for "Cause" prior to the end of the applicable performance period, all amounts payable to the executive under the annual cash incentive plan are forfeited.  The plan references the executive's employment agreement for the definition of "Cause."  If the executive's employment is terminated prior to the end of the performance period due to retirement, death or disability, the executive will be entitled to the amounts described under "Annual Incentive Plan" in Notes 3, 4 and 5 to the table below, respectively.  Under the employment agreements, payments of incentive cash compensation for the applicable year of a termination of employment relating to a "Change of Control" would be governed by the employment agreements rather than the annual cash incentive plan.
+             Restricted Stock. Messrs. Herington, Kovzan, Knapp and Van Asselt and Ms. Holland have restricted stock agreements for each year awards are granted that govern the terms of each of the executive's restricted stock awards granted under the Company's 2014 Stock Compensation Plan.  The executives have one form of agreement requires no execution by the recipient, applies automatically upon award, and is the same for all Company recipients of service-based restricted stock awards granted under the 2014 Stock Compensation Plan.  This agreement governs the terms of the executive's service-based restricted stock awards (the "Service-Based Restricted Stock Agreement").  The service-based restricted stock awards do  not contain a performance component and vest ratably over a four-year service period following the date of grant. 
+Messrs. Herington, Kovzan and Knapp and Ms. Holland also have a separate form of agreement governs the terms of the executive's performance-based restricted stock awards (the "Performance-Based Restricted Stock Agreement") and a copy of the agreement is executed by the executive in connection with the grant of performance-based stock each year.  The performance-based restricted stock awards are tied to a three-year performance period and the actual number of shares (including dividend shares payable for such awards), if any, vested at the end of the period is based on pre-established Company performance goals.  The Performance-Based Restricted Stock Agreements entered into by Messrs. Herington, Kovzan, and Knapp and Ms. Holland are of substantially the same form, except for provisions regarding the number of shares to be awarded at the end of the performance period.
+The treatment of restricted stock upon termination of employment is governed by the employment agreements and the Restricted Stock Agreements described above. Under the employment agreements, if the Company terminates the executive without Cause or if the executive resigns for Good Reason, the executive is entitled to receive, with respect to equity incentives, the amounts described under "Service-Based Restricted Stock" and "Performance-Based Restricted Stock" in Note 1 to the table below.
+             Under the employment agreements, if a Change of Control of the Company occurs, and within either the six-month period ending on the date of the Change of Control or the 18-month period beginning on the date of the Change of Control, the executive's employment is terminated without Cause or the executive terminates employment for Good Reason, the executive will receive, with respect to equity incentives, the amounts described under "Service-Based Restricted Stock" and "Performance-Based Restricted Stock" in Note 6 to the table below. The employment agreements provide for reductions in the amounts payable to the extent the present value of compensation would more likely than not be non-deductible under Section 280G of the Internal Revenue Code.
+             The Service-Based Restricted Stock Agreements and Performance-Based Restricted Stock Agreements continue to apply to a Change of Control or termination of employment from and after February 5, 2013 only to the extent that the employment agreements are not applicable.  Under the Service-Based Restricted Stock Agreements, if the executive's employment is terminated for any reason, including retirement, death or disability, all outstanding unvested shares of restricted stock under the Service-Based Restricted Stock Agreement are forfeited.  Under the Performance-Based Restricted Stock Agreements, if the executive's employment is terminated for any reason, other than in the case of death, disability or a Change of Control (as described above), all undelivered shares of restricted stock under the Performance-Based Restricted Stock Agreement are forfeited (including dividend shares payable for such awards), provided that if the executive's employment is terminated for death or disability, the executive is entitled to a pro rata portion of the undelivered shares (including dividend shares payable for such awards) based upon the number of months the executive was employed during the performance period and the Company's actual performance (only if such performance levels were met).
+The following table is a summary of the aforementioned payments and benefits that would be provided to each of the named executive officers if (i) their employment was terminated or (ii) their employment was terminated in connection with a change of control of NIC, in each case, as of December 31, 2018. 
+[BEGIN TABLE]
+Name and Form of Payment  Involuntary Termination w/o Cause or Voluntary Termination w/ Good Reason  Involuntary Termination for Cause or Voluntary Termination w/o Good Reason  Retirement   Death   Disability   Involuntary Termination in Connection w/ Change of Control
+Name and Form of Payment  Involuntary Termination w/o Cause or Voluntary Termination w/ Good Reason  Involuntary Termination for Cause or Voluntary Termination w/o Good Reason  Retirement   Death   Disability   Involuntary Termination in Connection w/ Change of Control
+    (Note 1)   (Note 2)   (Note 3)   (Note 4)   (Note 5)   (Note 6) 
+Harry H. Herington                         
+Severance   $ 2,670,000     —     —     —     $ 1,540,000     $ 2,670,000   
+Life, Health & Other     Benefits  68,023     38,462     38,462     1,038,462     83,104     68,023   
+Life, Health & Other     Benefits  68,023     38,462     38,462     1,038,462     83,104     68,023   
+Annual Incentive Plan   835,000     835,000     835,000     835,000     835,000     500,000   
+Service-Based     Restricted Stock  1,372,837     —     —     —     —     1,372,837   
+Performance-Based     Restricted Stock  516,738     —     —     516,738     516,738     1,706,862   
+Total   $ 5,462,598     $ 873,462     $ 873,462     $ 2,390,200     $ 2,974,842     $ 6,317,722   
+Severance   $ 1,355,575     —     —     —     $ 1,526,200     $ 1,355,575   
+Life, Health & Other     Benefits  54,561     25,000     25,000     675,000     60,050     54,561   
+Annual Incentive Plan   211,250     352,788     352,788     352,788     352,788     211,250   
+Service-Based     Restricted Stock  445,561     —     —     —     —     445,561   
+Performance-Based     Restricted Stock  167,852     —     —     192,344     167,852     554,663   
+Total   $ 2,234,799     $ 377,788     $ 377,788     $ 1,220,132     $ 2,106,890     $ 2,621,610   
+Robert W. Knapp, Jr.                         
+Severance   $ 1,464,125     $ —     $ —     $ —     $ 1,540,000     $ 1,464,125   
+Life, Health & Other     Benefits  54,561     25,000     25,000     675,000     60,148     54,561   
+Life, Health & Other     Benefits  54,561     25,000     25,000     675,000     60,148     54,561   
+Annual Incentive Plan   407,063     407,063     407,063     407,063     407,063     243,750   
+Service-Based     Restricted Stock  555,447     —     —     —     —     555,447   
+Performance-Based     Restricted Stock  212,661     —     —     212,661     212,661     702,660   
+Total   $ 2,693,857     $ 432,063     $ 432,063     $ 1,294,724     $ 2,219,872     $ 3,020,543   
+Severance   $ 1,208,655     $ —     $ —     $ —     $ 1,313,800     $ 1,208,655   
+Life, Health & Other     Benefits  53,792     24,231     24,231     654,231     60,198     53,792   
+Annual Incentive Plan   289,328     289,328     289,328     289,328     289,328     173,250   
+Service-Based     Restricted Stock  387,891     —     —     —     —     387,891   
+Performance-Based     Restricted Stock  108,399     —     —     108,399     108,399     358,409   
+Total   $ 2,048,065     $ 313,559     $ 313,559     $ 1,051,958     $ 1,771,725     $ 2,181,997   
+William Van Asselt                         
+Severance   $ 729,375     0     0     0     $ 1,279,444     $ 729,375   
+Life, Health & Other     Benefits  49,198     19,637     19,637     603,137     44,723     49,198   
+Life, Health & Other     Benefits  49,198     19,637     19,637     603,137     44,723     49,198   
+Annual Incentive Plan   72,938     72,938     72,938     72,938     72,938     72,938   
+Service-Based     Restricted Stock  170,052     0     0     0     0     170,052   
+Performance-Based     Restricted Stock  —     0     0     —     —     —   
+Total   $ 1,021,563     $ 92,575     $ 92,575     $ 676,075     $ 1,397,105     $ 1,021,563   
+(6) "Severance" amount includes a lump sum payment equal to the sum of: (i) two (2) times the executive's base salary in effect on the date of termination; and (ii) two (2) times the largest cash award received by the executive under the Annual Incentive Plan during the immediately preceding three annual incentive periods.  "Life,  
+[END TABLE]
+ Health and Other Benefits" amount includes: (i) payment of accrued paid vacation time; and (ii) a lump sum payment equal to 150% of the Company's portion of the annual costs (determined as of the date of termination) associated with providing the executive and eligible family members with medical and health benefits coverage under the Company's group health plans.  "Annual Incentive Plan" amount includes the amount of any cash award under the Annual Incentive Plan payable for the year of the executive's termination as if target performance had been achieved.  "Service-Based Restricted Stock" amount includes the market value of unvested service-based restricted stock subject to accelerated vesting.  "Performance-Based Restricted Stock" amount includes the market value of unvested performance-based restricted stock subject to accelerated vesting, which vests as if target performance for such awards had been achieved.
+[BEGIN TABLE]
+(7) Market value is based on the closing sales price per share of the Company's Common Stock on December 31, 2018 of $12.48 per share. 
+[END TABLE]
+ _________________
+EXECUTIVE OFFICERS
+_________________
+Below is certain information as of December 31, 2018, regarding the executive officers of the Company who are not directors.  Mr. Herington, Chief Executive Officer, is profiled under the Directors section which begins on page 21, because he also serves as Chairman of the Board of Directors. Executive officers serve at the pleasure of the Board of Directors.
+[BEGIN TABLE]
+Name Age Positions with the Company 
+Harry H. Herington 59 Chief Executive Officer 
+Stephen M. Kovzan 50 Chief Financial Officer 
+Robert W. Knapp, Jr. 50 Chief Operating Officer 
+Jayne Friedland Holland 55 Chief Security Officer 
+William A. Van Asselt 44 General Counsel and Secretary 
+[END TABLE]
+Stephen M. Kovzan has served as the Company's Chief Financial Officer since August 2007. Mr. Kovzan joined the Company in October 1999 and served as the Company's Controller until September 2000, at which time he became the Company's Vice President of Financial Operations and Chief Accounting Officer, serving as such until August 2007.    Mr. Kovzan currently serves as a manager and officer of various subsidiaries of NICUSA, Inc. Prior to joining the Company, Mr. Kovzan served as a business assurance manager with PricewaterhouseCoopers LLP.  Mr. Kovzan is a Certified Public Accountant and holds a B.S. in business administration from the University of Tulsa and an M.S. in business from the University of Kansas.
+Robert W. Knapp, Jr. was the Company's Chief Operating Officer from February 2012 until he stepped down on January 27, 2019.  From February 2009 until this appointment to Chief Operating Officer, he served as the Company's Executive Vice President.  Mr. Knapp joined the Company in November 1999 and served in various management capacities, including Director of Marketing for the Company's Indiana portal subsidiary, President and General Manager of the Company's Kansas portal subsidiary, Regional Manager, and Vice President of Portal Operations.  Mr. Knapp also served as a manager of various subsidiaries of NICUSA, Inc. Prior to joining the Company, Mr. Knapp was a director of information systems with Alltel.  Mr. Knapp holds a B.S. in business administration and an M.B.A from the University of Tulsa.
+Jayne Friedland Holland was appointed to the position of Chief Security Officer in May 2015. From December 2006 until this appointment, she served as the Company's Chief Security Officer and Associate General Counsel. Ms. Holland joined the Company in June 2005 as Associate General Counsel of the Company. In her role as Chief Security Officer, she oversees the Company's security management program. Prior to joining the Company, Ms. Holland served as Vice President and General Counsel for ESI and began her career as a litigator in New Orleans with McGlinchey  Stafford PLLC. Ms. Holland holds a B.A. degree in Political Science from Newcomb College of Tulane University and a J.D. degree from Tulane University School of Law. William A. Van Asselt was appointed to the position of General Counsel in January 2016. From March 2014 until this appointment, he served as the Company's Deputy General Counsel. Mr. Van Asselt joined the Company in June 2010 as Associate General Counsel. Prior to joining the Company, Mr. Van Asselt practiced law at Lathrop & Gage LLP, and previously at Hogan Lovells in Washington D.C. where his practice focused on contract negotiations, corporate mergers & acquisitions, telecommunications law and corporate governance. Prior to attending law school, Mr. Van Asselt served as the Executive Director for the Martin Luther King, Jr. National Memorial Project Foundation in Washington D.C. Mr. Van Asselt holds a B.A. degree in Political Science from the University of Missouri and a J.D. degree from Harvard Law School. _______________
+SECURITY OWNERSHIP OF CERTAIN BENEFICIAL OWNERS AND MANAGEMENT
+_________________
+The following table sets forth, as of March 8, 2019, certain information about shares of the Company's Common Stock beneficially owned by (i) each director; (ii) each stockholder who the Company knows is a beneficial owner of more than 5% of the outstanding shares of the Company's Common Stock (based on SEC filings); (iii) the named executive officers, and (iv) all directors and executive officers as a group.  Unless otherwise provided in the table below, the mailing address of the 5% beneficial owners is NIC Inc., 25501 West Valley Parkway, Suite 300, Olathe, Kansas 66061.
+[BEGIN TABLE]
+  Shares Beneficially Owned (1) 
+  Number   Percentage (2)   
+Named Executive Officers and Directors         
+Harry H. Herington (3)...................................................................... 853,287   1.3% 
+Stephen M. Kovzan (4)..................................................................... 194,047   *   
+Robert W. Knapp, Jr. (5)................................................................... 52,957   *   
+Jayne Friedland Holland (6).............................................................. 108,178   *   
+William A. Van Asselt (7)................................................................. 27,046   *   
+Art N. Burtscher (8).......................................................................... 232,557   *   
+Pete Wilson (9)................................................................................ 82,520   *   
+William M. Lyons (10)...................................................................... 65,841   *   
+Alexander C. Kemper (11)................................................................ 53,345   *   
+C. Brad Henry (12)............................................................................ 36,902   *   
+Venmal (Raji) Arasu (13).................................................................. 22,830   *   
+Anthony Scott (14)........................................................................... 1,572   *   
+Jayaprakash Vijayan (15).................................................................. 1,572   *   
+All executive officers and directors as a group (14 persons) (16) 1,743,059   2.6% 
+5% Stockholders     
+BlackRock, Inc. (17)......................................................................... 9,998,406   14.8% 
+55 East 52nd Street     
+New York, New York 10055     
+The Vanguard Group, Inc. (18)......................................................... 6,886,563   10.2% 
+100 Vanguard Blvd.         
+Malvern, Pennsylvania 19355         
+Brown Capital Management, LLC (19)............................................ 5,043,418   7.5% 
+1201 N. Calvert Street     
+Baltimore, Maryland 21202     
+* Less than 1% 
+[END TABLE]
+[BEGIN TABLE]
+(1) This table is based upon information supplied by officers, directors, principal stockholders and the Company's transfer agent, and information contained in Schedules 13D and 13G filed with the SEC. Unless otherwise noted in the footnotes to this table, the Company believes each of the stockholders named in this table has sole voting and investment power with respect to the shares indicated as beneficially owned.  Applicable percentages are based on 67,527,469 shares of the Company's Common Stock outstanding as of March 8, 2019, adjusted as required by the rules promulgated by the SEC. 
+(2) For purposes of determining percentages of shares beneficially owned, the Company does not include in the number of outstanding shares those shares subject to performance-based restricted awards which are not scheduled to vest within 60 days of March 9, 2019, because the holders of such shares have no voting or disposition rights with respect to the shares.  All shares subject to service-based restricted stock awards, which have voting rights, are included in outstanding shares. 
+(3) Shares beneficially owned by Mr. Herington include 853,287 shares directly owned, including 112,172 shares of unvested service-based restricted stock. 
+(4) Shares beneficially owned by Mr. Kovzan include 194,047 shares directly owned, including 36,457 shares of unvested service-based restricted stock. 
+(5) Shares beneficially owned by Mr. Knapp include 52,957 shares directly owned and no shares of unvested service-based restricted stock.  Mr. Knapp stepped down as the Company's Chief Operating Officer effective January 27, 2019. 
+(6) Shares beneficially owned by Ms. Holland include 108,178 shares directly owned, including 35,127 shares of unvested service-based restricted stock. 
+(7) Shares beneficially owned by Mr. Van Asselt include 27,046 shares directly owned, including 15,567 shares of unvested service-based restricted stock. 
+(8) Shares beneficially owned by Mr. Burtscher include 232,557 shares directly owned, including 6,430 shares of unvested service-based restricted stock. 
+(9) Shares beneficially owned by Governor Wilson include 82,520 shares directly owned, including 6,430 shares of unvested service-based restricted stock. 
+(10) Shares beneficially owned by Mr. Lyons include 65,841 shares directly owned, including 6,430 shares of unvested service-based restricted stock. 
+(11) Shares beneficially owned by Mr. Kemper include 53,345 shares directly owned, including 6,430 shares of unvested service-based restricted stock and 10,000 shares owned by the 2012 Alexander Charles Kemper Family Irrevocable Trust for which Mr. Kemper's spouse is the trustee. 
+(12) Shares beneficially owned by Governor Henry include 36,902 shares directly owned, including 6,430 shares of unvested service-based restricted stock. 
+(13) Shares beneficially owned by Ms. Arasu include 22,830 shares directly owned, including 6,430 shares of unvested service-based restricted stock. 
+(14) Shares beneficially owned by Mr. Scott include 1,572 shares directly owned, all of which are shares of unvested service-based restricted stock. 
+(15) Shares beneficially owned by Mr. Vijayan include 1,572 shares directly owned, all of which are shares of unvested service-based restricted stock. 
+(16) Shares held by all executive officers and directors as a group include 250,902 shares of unvested service-based restricted stock. 
+[END TABLE]
+[BEGIN TABLE]
+(17) Based on information set forth in Amendment No. 10 to the Schedule 13G filed with the SEC on January 31, 2019.  According to the Schedule 13G, shares beneficially owned by BlackRock, Inc. include 9,998,406 shares owned by various investment advisory clients of BlackRock, Inc. which is deemed to be a beneficial owner of those shares pursuant to Rule 13d-3 under the Exchange Act due to its discretionary power to make investment decisions over such shares for its clients and its ability to vote such shares. 
+(18) Based on information set forth in Amendment No. 7 to the Schedule 13G filed with the SEC on February 11, 2019.  According to the Schedule 13G, shares beneficially owned by Vanguard Group, Inc. include 6,886,563 shares owned by various investment advisory clients of Vanguard Group, Inc. which is deemed to be a beneficial owner of those shares pursuant to Rule 13d-3 under the Exchange Act due to its discretionary power to make investment decisions over such shares for its clients and its ability to vote such shares. 
+(19) Based on information set forth in Amendment No. 12 to the Schedule 13G filed with the SEC on February 14, 2019.  According to the Schedule 13G, shares beneficially owned by Brown Capital Management, LLC include 5,043,418 shares owned by various investment advisory clients of Brown Capital Management, LLC, which is deemed to be a beneficial owner of those shares pursuant to Rule 13d-3 under the Exchange Act due to its discretionary power to make investment decisions over such shares for its clients and its ability to vote such shares. 
+[END TABLE]
+The SEC requires the Company's directors and officers, and stockholders who own more than 5% of the Company's Common Stock, to report their ownership of the Company's Common Stock and any changes in that ownership to the SEC and Nasdaq.  Officers and directors, and stockholders owning more than 5% of the Company's Common Stock, must provide the Company with copies of all such forms that they file. _________________
+ADVISORY VOTE ON EXECUTIVE COMPENSATION 
+ (PROPOSAL NO. 2)
+_________________
+As required by Section 14A of the Exchange Act, the Company is asking stockholders to approve, on an advisory basis, the compensation for the named executive officers disclosed in these materials.  This proposal, commonly referred to as a "say on pay" proposal, gives stockholders the opportunity to express their views on the compensation of the named executive officers.  This vote is not intended to address any specific item of compensation, but rather the overall compensation of the named executive officers and the Company's compensation program.
+The Company is asking stockholders to approve the 2018 compensation of our named executive officers as disclosed in these materials by adopting the following advisory resolution at the 2019 Annual Meeting:
+"RESOLVED, that in the advisory opinion of a majority of the stockholders of the Company voting the compensation paid to the Company's named executive officers, as disclosed in this Proxy Statement pursuant to Item 402 of Regulation S-K, including the Compensation Discussion and Analysis, compensation tables and narrative discussion, is hereby APPROVED."
+At the Company's prior Annual Meeting of Stockholders held in May 2018, 97% of the votes cast on the "say on pay" resolution were voted in favor of the resolution.
+As described in detail under "Compensation Discussion and Analysis" the Company's compensation program is designed to motivate its executives to evolve and grow a successful company.  The Company believes that its executive compensation program, with its balance of short-term incentives (including performance-based cash bonus awards) and long-term incentives (including service-based and performance-based restricted stock that vests over a period of years), which was influenced by evaluating the executive compensation of peer companies and the broader market, rewards sustained performance that is aligned with long-term stockholder interests.  Stockholders are encouraged to read the "Executive Compensation," "Compensation Discussion and Analysis" and "Employment Agreements and Severance Payments" sections of this Proxy Statement, the accompanying compensation tables and related narrative disclosure included in the "Compensation Tables" section of this Proxy Statement and the other compensation-related disclosure contained elsewhere in this Proxy Statement for more information regarding our executive compensation program.
+Although this vote is non-binding, the Board of Directors and the Compensation Committee, which is comprised of independent directors, will continue to consider the outcome of the vote when making future executive compensation decisions.  The Company currently submits the compensation of named executive officers to an advisory vote of stockholders on an annual basis.
+The Board of Directors unanimously recommends that stockholders advise the Company with a vote FOR approval of the compensation paid to the Company's named executive officers, as disclosed in this Proxy Statement pursuant to Item 402 of Regulation S-K, including the Compensation Discussion and Analysis, compensation tables and narrative discussion. _________________
+RATIFICATION OF APPOINTMENT OF INDEPENDENT REGISTERED PUBLIC ACCOUNTING FIRM
+(PROPOSAL NO. 3)
+_________________
+The Audit Committee has appointed Ernst & Young LLP ("E&Y") to serve as the Company's independent registered public accounting firm for the year ending December 31, 2019. Although the ratification of the Audit Committee's selection of E&Y is not required under our bylaws or other legal requirements, we are submitting the appointment of E&Y to the stockholders as a matter of good corporate practice. If the stockholders fail to ratify the appointment, the Audit Committee will reconsider the appointment when determining the independent registered public accounting firm for the subsequent fiscal year. Even if the selection is ratified, the Audit Committee, in its discretion, may direct the appointment of a new independent accounting firm at any time during the year if the Audit Committee feels that such a change would be in the best interests of the Company and its stockholders.
+Fees
+Fees billed to the Company by E&Y for services incurred related to fiscal year 2018 and 2017 were as follows:
+[BEGIN TABLE]
+  2018   2017   
+Audit fees $ 612,747     $ 551,864     
+Audit-related fees 251,100     244,000     
+Tax fees 224,522     198,326     
+All other fees —     29,442     
+Total fees $ 1,088,369     $ 1,023,632     
+[END TABLE]
+Audit fees include audits of the annual consolidated financial statements on Form 10-K and reviews of quarterly consolidated financial statements on Form 10-Q, as well as the audit of the Company's internal control over financial reporting required by Section 404 of the Sarbanes-Oxley Act of 2002.  For fiscal year 2018, audit fees also included approximately $75,000 in fees for non-recurring accounting consultation matters. Audit-related fees primarily include audits of financial statements for certain subsidiaries of the Company and for fiscal year 2018, also include the Company's SOC 1, Type II examination, the Company's SOC 2, Type II examination.  Tax fees consist primarily of fees billed for tax compliance and, to a lesser extent, tax advice. All other fees consists of accounting consultation matters. Audit Committee Pre-Approval Policy
+The Audit Committee has adopted policies and procedures for the pre-approval of audit, audit-related, tax and other permissible non-audit services (specifically described in appendices to the policy) that may be provided by the Company's independent registered public accounting firm to the Company and its subsidiaries.  Such services are pre-approved up to a specified fee limit. Any service not included in the specified list of services must be submitted to the Audit Committee for pre-approval. To ensure prompt handling of unforeseeable or unexpected matters that arise between Audit Committee meetings, the Audit Committee has delegated authority to its Chairman, and/or to such other members of the Audit Committee as the Chairman shall from time to time designate, to review and, if appropriate, approve in advance, any request for the independent registered public accounting firm to provide permissible services. All such pre-approvals must be reported to the Audit Committee at the next Committee meeting.
+The Vice President of Internal Audit monitors services provided by the independent registered public accounting firm and overall compliance with the pre-approval policy. The Vice President of Internal Audit reports periodically to the Audit Committee about the status of outstanding engagements, including actual services provided and associated fees, and must promptly report any noncompliance with the pre-approval policy to the Chairman of the Audit Committee.
+The Company expects that representatives of E&Y will be present at the Annual Meeting.  They will have the opportunity to make a statement if they so desire and are expected to be available to respond to appropriate questions.
+The affirmative vote of the holders of a majority of all the outstanding shares of Common Stock present or represented at the Annual Meeting and entitled to vote thereon is required to ratify the appointment of E&Y as the Company's independent registered public accounting firm for the year ending December 31, 2019. Proxies solicited by the Board will be voted in favor of ratification unless a stockholder has indicated otherwise on the proxy.  If this appointment is not ratified by the stockholders, the Audit Committee will reconsider the appointment.
+The Board of Directors recommends a vote FOR ratification of the appointment of Ernst & Young LLP as the Company's independent registered public accounting firm for the year ending December 31, 2019. _________________
+SUBMISSION OF STOCKHOLDER PROPOSALS
+_________________
+A stockholder may submit a proposal for inclusion in the Company's 2020 Proxy Statement.  For the proposal to be considered, the Company must receive the proposal no later than November 23, 2019.   All proposals must comply with the rules of the SEC for eligibility and type of stockholder proposal.  Stockholder proposals should be addressed to:
+Corporate Secretary
+NIC Inc.
+25501 West Valley Parkway, Suite 300
+Olathe, Kansas 66061
+If a stockholder does not wish to submit a proposal for inclusion in next year's proxy statement, but instead wishes to present it directly at the 2020 Annual Meeting, NIC's Bylaws require that the Company receive the proposal no earlier than January 8, 2020 and not later than February 7, 2020, and that the stockholder submitting the proposal and the proposal meet certain requirements specified by the Bylaws.  Requests for a copy of the Bylaw requirements should be addressed to the Corporate Secretary at the address provided above.
+_________________
+SECTION 16(a) BENEFICIAL OWNERSHIP REPORTING COMPLIANCE
+_________________
+Based solely on review of the copies of such reports and written representations provided to the Company, the Company believes that all required filings in 2018 were made in a timely fashion.
+_________________
+COMPENSATION COMMITTEE INTERLOCKS AND INSIDER PARTICIPATION
+_________________
+None of the persons who served on the Company's Compensation Committee during the last completed fiscal year (Art. N. Burtscher, Venmal (Raji) Arasu, C. Brad Henry, Alexander C. Kemper, Jayaprakash Vijayan and Pete Wilson) (i) was formerly an officer of the Company; (ii) during the last fiscal year, was an officer or employee of the Company; or (iii) had any relationship requiring disclosure under Item 404 of Regulation S-K.
+None of the Company's executive officers, during the last completed fiscal year, served as a (i) member of the compensation committee of another entity, one of whose executive officers served on the Company's Compensation Committee; (ii) director of another entity, one of whose executive officers served on the Company's Compensation Committee; or (iii) member of the compensation committee of another entity, one of whose executive officers served as the Company's director. _________________
+CERTAIN RELATIONSHIPS AND RELATED TRANSACTIONS
+_________________
+Policy and Procedures with Respect to Related Person Transactions
+NIC has adopted a written policy governing the review, approval or ratification of "Related Person Transactions," as described below (the "Policy").
+Related Person Transactions
+For the purposes of the Policy, a "Related Person Transaction" is a transaction, arrangement or relationship (or any series of similar transactions, arrangements or relationships) in which the Company (including any of its subsidiaries) was, is or will be a participant and in which any Related Person had, has or will have a direct or indirect material interest.
+For purposes of the Policy, a "Related Person" means: (1) any person who is, or at any time since the beginning of NIC's last fiscal year was, a director or executive officer of NIC or a nominee to become a director of NIC; (2) any person who is known to be the beneficial owner of more than 5% of any class of NIC's voting securities; (3) any immediate family member of any of the foregoing persons (as defined in the Policy) and any person (other than a tenant or employee) sharing the household of any of the foregoing persons; and (4) any firm, corporation or other entity in which any of the foregoing persons is employed or is a general partner or principal or in a similar position or in which such person has a 5% or greater beneficial ownership interest.
+Approval Procedures
+Related Person Transactions that are identified as such prior to their consummation or amendment shall be consummated or amended only if the following steps are taken:
+[BEGIN TABLE]
+(1) Prior to entering into the Related Person Transaction (a) the Related Person, (b) the director, executive officer, nominee or beneficial owner who is an immediate family member of the Related Person, or (c) the business unit or function/department leader responsible for the potential Related Person Transaction shall provide notice to the Corporate Governance and Nominating Committee (the "Committee") of the facts and circumstances of the proposed Related Person Transaction, including certain information specified in the Policy.  The Committee will assess whether the proposed transaction is a Related Person Transaction for purposes of this policy. 
+(2) If the Committee determines that the proposed transaction is a Related Person Transaction, the proposed Related Person Transaction shall be submitted to the Committee for consideration at the next Committee meeting or, in those instances in which the Committee, in consultation with the Chief Executive Officer or the Chief Financial Officer, determines that it is not practicable or desirable for NIC to wait until the next Committee meeting, to the Chair of the Committee (who will possess delegated authority to act between Committee meetings). 
+(3) The Committee, or where submitted to the Chair, the Chair, shall consider all of the relevant facts and circumstances available to the Committee or the Chair.  No member of the Committee shall participate in any review, consideration or approval of any Related Person Transaction  
+[END TABLE]
+ with respect to which such member or any of his or her immediate family members is the Related Person.  The Committee (or the Chair) shall approve only those Related Person Transactions that are in, or are not inconsistent with, the best interests of NIC and its stockholders, as the Committee (or the Chair) determines in good faith.
+[BEGIN TABLE]
+(4) The Chair of the Committee shall report to the Committee at the next Committee meeting any approval under this policy pursuant to delegated authority. 
+[END TABLE]
+Ratification Procedures
+Under the Policy, the Company's accounting department, under the supervision of the Chief Financial Officer, shall produce periodic reports as the Chair of the Committee shall direct, but no less often than annually, of any amounts paid or payable to, or received or receivable from, any Related Person.
+In the event the Chief Executive Officer or Chief Financial Officer, or any other executive officer becomes aware, as a result of the reports described above or otherwise, of a Related Person Transaction that has not been previously approved or previously ratified under the Policy:
+[BEGIN TABLE]
+(1) If the transaction is pending or ongoing, it will be submitted to the Committee or Chair of the Committee promptly, and the Committee or Chair shall consider all of the relevant facts and circumstances available to the Committee or the Chair.  The Committee shall not ratify any Related Person Transaction that is not in the best interests of the Company and its stockholders.  Based on this analysis, the Committee or the Chair shall evaluate all options, including but not limited to ratification, amendment or termination of the Related Person Transaction; and 
+(2) If the transaction is completed, the Committee or Chair shall evaluate the transaction, taking into account all of the relevant facts and circumstances available to the Committee or Chair, to determine if rescission of the transaction and/or any disciplinary action is appropriate, and shall request an evaluation of NIC's controls and procedures to ascertain the reason the transaction was not submitted to the Committee or Chair for prior approval and whether any changes to these procedures are recommended. 
+[END TABLE]
+Review of Ongoing Transactions
+At the Committee's first meeting of each fiscal year, the Committee shall review any previously approved or ratified Related Person Transactions that remain ongoing and have a remaining term of more than six months or remaining amounts payable to or receivable from NIC.  Based on all relevant facts and circumstances, taking into consideration NIC's contractual obligations, the Committee shall determine if it is in the best interests of NIC and its stockholders to continue, modify or terminate the Related Person Transaction.
+Charitable Contributions
+Proposed charitable contributions, or pledges of charitable contributions, by NIC to a charitable or non-profit organization in which a Related Person has a material interest shall be subject to prior review and approval by the Committee at the next Committee meeting or, in those instances in which the Committee, in consultation with the Chief Executive Officer or the Chief Financial Officer, determines that it is not practicable or desirable for the Company to wait until the next Committee meeting, by the Chair.  In addition, each named executive officer (as defined above) shall report to the Committee on a quarterly basis, charitable  contributions in excess of $120,000, in the aggregate, by NIC's named executive officers and their spouses to a charitable or non-profit organization identified on the roster of Related Persons.
+Disclosure
+All Related Person Transactions that are required to be disclosed in NIC's filings with the SEC, as required by the Securities Act of 1933 and the Exchange Act and related rules and regulations, shall be so disclosed in accordance with such laws, rules and regulations.
+_________________
+OTHER BUSINESS
+_________________
+The Board of Directors knows of no other business which will be presented at the meeting.  If any other business is properly brought before the Annual Meeting, the proxy holders will have discretionary authority to vote on any such other business.
+WHETHER OR NOT YOU INTEND TO BE PRESENT AT THE ANNUAL MEETING, YOU ARE ENCOURAGED TO VOTE AT YOUR EARLIEST CONVENIENCE.
+By order of the Board of Directors:
+William Van Asselt
+General Counsel
+Olathe, Kansas
+March 22, 2019  

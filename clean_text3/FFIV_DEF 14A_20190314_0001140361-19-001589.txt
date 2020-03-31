@@ -1,0 +1,355 @@
+
+[BEGIN TABLE]
+ Filed by the Registrant ☒    Filed by a party other than the Registrant o  
+[END TABLE]
+[BEGIN TABLE]
+ o   Preliminary Proxy Statement o   Confidential, for Use of the Commission Only (as permitted by Rule 14a-6(e)(2))   
+ ☒   Definitive Proxy Statement o   Definitive Additional Materials o   Soliciting Material Under Rule 14a-12  
+[END TABLE]
+[BEGIN TABLE]
+ ☒    No fee required o   Fee computed on table below per Exchange Act Rules 14a-6(i)(1) and 0-11  
+     (1)    Title of each class of securities to which transaction applies:  
+     (2)   Aggregate number of securities to which transaction applies:  
+     (3)   Per unit price or other underlying value of transaction computed pursuant to Exchange Act Rule 0-11 (set forth the amount on which the filing fee is calculated and state how it was determined):  
+     (4)   Proposed maximum aggregate value of transaction:  
+     (5)   Total fee paid:  
+ o   Fee paid previously with preliminary materials.  
+ o   Check box if any part of the fee is offset as provided by Exchange Act Rule 0-11(a)(2) and identify the filing for which the offsetting fee was paid previously. Identify the previous filing by registration statement number, or the Form or Schedule and the date of its filing.  
+     (1)   Amount previously paid:  
+     (2)   Form, Schedule or Registration Statement No.:  
+     (3)   Filing party:  
+     (4)   Date Filed:  
+[END TABLE]
+[BEGIN TABLE]
+ Date   March 14, 2019  
+ Time   11:00 a.m. Pacific Time  
+ Place   F5 Networks, Inc., 351 Elliott Avenue West, Seattle, Washington 98119  
+ Record Date   January 7, 2019. Only shareholders of record at the close of business on the record date are entitled to notice of, and to vote at, the annual meeting.  
+ Items of Business   1.   to elect 11 directors nominated by the Board of Directors of the Company to hold office until the annual meeting of shareholders for fiscal year 2019;  
+     2.   to approve the F5 Networks, Inc. 2014 Incentive Plan as amended and restated to increase the number of shares of common stock issuable under the 2014 Plan by an additional 1,750,000 shares;  
+     3.   to approve the F5 Networks, Inc. 2011 Employee Stock Purchase Plan as amended and restated to increase the number of shares of common stock issuable under the ESPP by an additional 2,000,000 shares;  
+     4.   to ratify the selection of PricewaterhouseCoopers LLP as the Company's independent registered public accounting firm for fiscal year 2019;  
+     5.   to approve, on an advisory basis, the compensation of our named executive officers;  
+     6.   to transact such other business as may properly come before the meeting and any adjournments or postponements thereof.  
+ Virtual Opportunity   You may also attend the Annual Meeting online, including submitting questions, at www.virtualshareholdermeeting.com/FFIV2019. You will not be able to vote within the virtual opportunity. If you wish to vote, please follow the proxy voting instructions provided.  
+[END TABLE]
+[BEGIN TABLE]
+     By Order of the Board of Directors,  
+     SCOT F. ROGERS Secretary  
+[END TABLE]
+[BEGIN TABLE]
+ VOTE BY INTERNET   VOTE BY TELEPHONE  
+ www.proxyvote.com  24 hours a day/7 days a week   1-800-690-6903 via touch tone  24 hours a day/7 days a week  
+ Use the Internet to transmit your voting instructions and for electronic delivery of information up until 11:59 p.m. Eastern Time on March 13, 2019. Have your proxy card in hand when you access the web site and follow the instructions to obtain your records and to create an electronic voting instruction form.   Use any touch-tone telephone to transmit your voting instructions up until 11:59 p.m. Eastern Time on March 13, 2019. Have your proxy card in hand when you call and then follow the instructions.  
+[END TABLE]
+[BEGIN TABLE]
+ Proposal   Board Vote Recommendation   Page References for More Detail  
+ Proposal 1. To elect 11 directors nominated by the Board to hold office until the annual meeting of shareholders for fiscal year 2019   FOR (each nominee)   pp. 46  
+ Proposal 2. To approve the F5 Networks, Inc. 2014 Incentive Plan as amended and restated to increase the number of shares of common stock issuable under the 2014 Plan by an additional 1,750,000   FOR   pp. 47  
+ Proposal 3. To approve the F5 Networks, Inc. 2011 Employee Stock Purchase Plan as amended and restated to increase the number of shares of common stock issuable under the ESPP by an additional 2,000,000 shares   FOR   pp. 53  
+ Proposal 4. To ratify the selection of PricewaterhouseCoopers LLP as the Company's independent registered public accounting firm for fiscal year 2019   FOR   pp. 57  
+ Proposal 5. Advisory vote to approve the compensation of our named executive officers   FOR   pp. 58  
+[END TABLE]
+[BEGIN TABLE]
+ Independent Board Chair   Majority Voting for All Directors  
+ 9 of 12 Board Members (including nominees) are Independent   Annual Board Self-Assessment Process  
+ Declassified Board — all Directors elected annually beginning at the annual meeting for fiscal year 2015   Independent Directors Meet Without Management Present  
+ Share Ownership Guidelines for Executives & Directors   Prohibition on Hedging, Pledging and Short Sale of Company Stock  
+[END TABLE]
+[BEGIN TABLE]
+Name Age  Director Since  Occupation  Independent  Other Public Boards  Audit  Compensation  Nominating & Governance  
+A. Gary Ames 74   7/2004   Retired President and Chief Executive Officer, MediaOne International ✔     M C 
+Sandra E. Bergeron 60   1/2013   Board Member, Sophos Group PLC and Lead  Independent Director,  Qualys, Inc. ✔ X   C M 
+Deborah L. Bevier 67   7/2006   Principal, DL Bevier Consulting LLC ✔   M M   
+Michel Combes 56   7/2018   Chief Executive Officer,  Sprint ✔ X     M 
+Michael L. Dreyer 55   10/2012   Chief Operations Officer, Silicon Valley Bank ✔ X M   M 
+Alan J. Higginson 71   5/1996   Chairman of the Board, F5 Networks, Inc.; Former Chairman, Hubspan, Inc. ✔     M M 
+Peter S. Klein 56   3/2015   Board Member, Denali  Therapeutics. Retired Chief Financial Officer, Microsoft ✔ X M, F     
+François Locoh-Donou 47   4/2017   President and Chief Executive Officer, F5 Networks, Inc.           
+John McAdam 67   7/2000   Board Member at Tableau  Software and Nutanix.  Former President and  Chief Executive Officer,  F5 Networks, Inc.   X       
+Nikhil Mehta 41   1/2019   Chief Executive Officer, Gainsight, Inc.            
+Marie E. Myers 50   1/2019   Chief Financial Officer, UiPath Inc.  ✔   M, F     
+[END TABLE]
+   7
+[BEGIN TABLE]
+ Proposal    Vote Required*   Broker Discretionary Voting Allowed  
+ Proposal 1 — Election of 11 directors nominated by the Board to hold office until the annual meeting of shareholders for fiscal year 2019 and until his or her successor is elected and qualified   Majority of Votes Cast   No  
+ Proposal 2 — To approve the F5 Networks, Inc. 2014 Incentive Plan as amended and restated to increase the number of shares of common stock issuable under the 2014 Plan by an additional 1,750,000 shares   Majority of Votes Cast   No  
+ Proposal 3 — To approve the F5 Networks, Inc. 2011 Employee Stock Purchase Plan as amended and restated to increase the number of shares of common stock issuable under the ESPP by an additional 2,000,000 shares   Majority of Votes Cast   No  
+ Proposal 4 — Advisory vote to ratify the selection of PricewaterhouseCoopers LLP as the Company's independent registered public accounting firm for fiscal year 2019   Majority of Votes Cast   Yes  
+ Proposal 5 — Advisory vote to approve the compensation of our named executive officers   Majority of Votes Cast   No  
+[END TABLE]
+  10
+[BEGIN TABLE]
+ Name   Director Since   
+ A. Gary Ames   7/2004  
+ Sandra E. Bergeron   1/2013  
+ Deborah L. Bevier   7/2006  
+ Michel Combes   7/2018  
+ Michael L. Dreyer   10/2012  
+ Alan J. Higginson   5/1996  
+ Peter S. Klein   3/2015  
+ François Locoh-Donou   4/2017  
+ John McAdam   7/2000  
+ Nikhil Mehta   1/2019  
+ Marie E. Myers   1/2019  
+[END TABLE]
+     16
+[BEGIN TABLE]
+Name(1) Fees Earned or Paid in Cash ($)(2)  Stock Awards ($)(3)  Total ($)  
+A. Gary Ames $ 97,500   $ 250,077   $ 347,577   
+Sandra E. Bergeron $ 97,500   $ 250,077   $ 347,577   
+Deborah L. Bevier $ 92,500   $ 250,077   $ 342,577   
+Jonathan C. Chadwick $ 100,000   $ 250,077   $ 350,077   
+Michel Combes $ 15,337   $ 250,099   $ 265,436   
+Michael L. Dreyer $ 92,500   $ 250,077   $ 342,577   
+Alan J. Higginson $ 185,000   $ 250,077   $ 435,077   
+Peter S. Klein $ 80,000   $ 250,077   $ 330,077   
+John McAdam $ 60,000   $ 250,077   $ 310,077   
+Stephen M. Smith $ 29,514     —   $ 29,514   
+[END TABLE]
+[BEGIN TABLE]
+Name Annual Retainers ($)  Board and Committee Chair Fees ($)  Member Committee Fees ($)  Total ($)  
+A. Gary Ames $ 60,000   $ 12,500   $ 25,000   $ 97,500   
+Sandra E. Bergeron $ 60,000   $ 12,500   $ 25,000   $ 97,500   
+Deborah L. Bevier $ 60,000   $ 0   $ 32,500   $ 92,500   
+Jonathan C. Chadwick $ 60,000   $ 20,000   $ 20,000   $ 100,000   
+Michel Combes $ 12,692   $ 0   $ 2,644   $  15,336   
+Michael L. Dreyer $ 60,000   $ 0   $ 32,500   $ 92,500   
+Alan J. Higginson $ 60,000   $ 100,000   $ 25,000   $ 185,000   
+Peter S. Klein $ 60,000   $ 0   $ 20,000   $ 80,000   
+John McAdam $ 60,000   $ 0   $ 0   $ 60,000   
+Stephen M. Smith $ 20,833   $ 0   $ 8,680   $  29,513   
+[END TABLE]
+[BEGIN TABLE]
+     Sandra Bergeron, Chair A. Gary Ames  Deborah L. Bevier  Alan J. Higginson  
+[END TABLE]
+     24
+[BEGIN TABLE]
+ Akamai Technologies, Inc.   FireEye, Inc.   ServiceNow, Inc.  
+ Arista Networks, Inc.   Fortinet, Inc.   Splunk Inc.  
+ Autodesk, Inc.   Juniper Networks, Inc.   Symantec Corporation  
+ CA, Inc.   NetApp, Inc.   VeriSign, Inc.  
+ Check Point Software Technologies Ltd.   Palo Alto Networks, Inc.   Workday, Inc.  
+ Citrix Systems, Inc.   Red Hat, Inc.      
+[END TABLE]
+[BEGIN TABLE]
+  Weight Performance Formula Examples% of Revenue Target Achieved   70%   90     90     100     70     70% of EBITDA Target Achieved   30%   85     105     120     90     75   
+Total% Achieved         88.5     93.0     106.0     27.0     0   
+[END TABLE]
+[BEGIN TABLE]
+  Base Salary   
+  Annual Rate Incentive Plan% of Base Salary 
+  2018 2017 2018 
+François Locoh-Donou $ 810,000     130%   130% 
+Frank Pelzer $ 490,000     —     90% 
+Andrew Reinland $ 500,000     90%   90% 
+Steve McMillan $ 475,000     —     90% 
+Tom Fountain $ 490,000     —     100% 
+Ana White $ 406,500     —     60% 
+John DiLullo $ 482,000     100%   100% 
+[END TABLE]
+[BEGIN TABLE]
+Level  Total Revenue  Metric% Payout  Transformation  Metric% Payout  Relative  TSR Rank Metric% Payout  
+Threshold  $ 1.73B     80%   +15%   50% 25th Percentile    50% 
+Target  $ 2.16B     100%   +25%   100% 50th Percentile    100% 
+Maximum  $ 4.32B     200%   +50%   200% >75th Percentile    200% 
+[END TABLE]
+[BEGIN TABLE]
+  2018 Equity Awards Target Value 
+François Locoh-Donou   45,606   $ 5,500,000   
+Andrew Reinland   20,730   $ 2,500,000   
+John DiLullo   20,730   $ 2,500,000   
+[END TABLE]
+[BEGIN TABLE]
+  New Hire Equity  Awards Target Value 
+Frank Pelzer   31,067   $ 5,300,000   
+Steve McMillan   29,022   $ 3,500,000   
+Tom Fountain   22,065   $ 3,200,000   
+Ana White   20,686   $ 3,000,000   
+[END TABLE]
+[BEGIN TABLE]
+ President and Chief Executive Officer   5x base salary  
+ All Other Executive Officers.   2x base salary  
+[END TABLE]
+  33
+[BEGIN TABLE]
+Name and Principal Position Year Salary ($) Bonus ($) Stock Awards ($)(7) Non-Equity Incentive Plan Compensation ($)(8) All Other Compensation ($)(9) Total ($)(10)  
+François Locoh-Donou President and Chief Executive Officer    2018   $ 810,000     —   $ 4,991,565   $ 1,055,482     —   $ 6,857,047   
+  2017   $ 375,000   $ 800,000   $ 9,853,912   $ 463,353   $ 400,000   $ 11,892,265   
+Frank Pelzer(1)  Executive VP and Chief Financial Officer    2018   $ 180,294   $ 500,000 (6)  $ 5,300,030   $ 158,463     —   $ 6,140,587   
+Andrew Reinland(2) Former Executive VP and Chief Financial Officer    2018   $ 373,762     —   $ 3,898,470   $ 227,876   $ 4,400   $ 4,504,508   
+  2017   $ 477,000     —   $ 4,807,327   $ 514,542   $ 7,194   $ 5,806,063   
+  2016   $ 450,000     —   $ 2,923,267   $ 388,409   $ 4,200   $ 3,765,876   
+Steve McMillan(3) Executive VP of Global Services    2018   $ 464,343   $ 300,000 (6)  $ 3,500,053   $ 419,094   $ 3,150   $ 4,686,640   
+Tom Fountain(4) Executive VP and Chief Strategy Officer    2018   $ 348,968   $ 500,000 (6)  $ 3,200,087   $ 347,777   $ 4,400   $ 4,401,232   
+Ana White(5) Executive VP and Chief Human Resources Officer    2018   $ 280,380   $ 400,000 (6)  $ 3,000,091   $ 166,933   $ 4,400   $ 3,851,804   
+John DiLullo(2) Former Executive VP of Worldwide Sales    2018   $ 322,756     —   $ 3,499,211   $ 244,080   $ 4,400   $ 4,070,447   
+  2017   $ 468,000     —   $ 2,687,685   $ 556,968   $ 4,400   $ 3,717,053   
+  2016   $ 361,068     —   $ 4,500,025   $ 407,590   $ 4,200   $ 5,272,883   
+[END TABLE]
+ 35
+[BEGIN TABLE]
+      Estimated Possible Payouts Under Non-equity Incentive Plan Awards(2)  Estimated Possible Payouts Under Equity Incentive Plan Awards(5)  All Other Stock Awards: Number of Shares of Stock or Units (#)(6) Grant Date Fair Value of Stock Awards ($)(9) 
+Name Grant Date  Approval Date Threshold ($) Target ($) Maximum ($) Threshold (#) Target (#) Maximum (#) 
+François Locoh-Donou   11/1/2017(1)    10/27/2017     —     —     —     —     —     —     22,803   $ 2,750,042   
+    10/19/2017(1)(3)    10/19/2017     —     —     —     4,317     5,397     10,793     —   $ 633,495   
+    12/6/2017(1)(4)    12/6/2017     —     —     —     5,843     9,976     19,953     —   $ 1,608,028   
+              $ 842,400   $ 1,053,000   $ 2,106,000     —     —     —     —     —   
+Frank Pelzer   8/1/2018(1)    7/27/2018     —     —     —     —     —     —     31,067   $ 5,300,030   
+              $ 127,938   $ 159,923   $ 319,846     —     —     —     —     —   
+Andrew Reinland   11/1/2017(1)    10/27/2017     —     —     —     —     —     —     10,365   $ 1,250,019   
+    10/19/2017(1)(3)    10/19/2017     —     —     —     6,526     8,157     16,314     —   $ 957,550   
+    12/6/2017(1)(4)    12/6/2017     —     —     —     2,656     4,535     9,069     —   $ 731,039   
+    12/6/2017(7)    12/6/2017                                         7,301   $ 959,862   
+              $ 360,000   $ 450,000   $ 900,000     —     —     —     —     —   
+Tom Fountain   2/1/2018(1)    1/26/2018     —     —     —     —     —     —     22,065   $ 3,200,087   
+              $ 278,756   $ 348,444   $ 696,889     —     —     —     —     —   
+Steve McMillan   11/1/2017(1)    10/27/2017     —     —     —     —     —     —     29,022   $ 3,500,053   
+              $ 334,565   $ 418,207   $ 836,413     —     —     —     —     —   
+Ana White   2/1/2018(1)    1/26/2018     —     —     —     —     —     —     20,686   $ 3,000,091   
+              $ 133,874   $ 167,343   $ 334,685     —     —     —     —     —   
+John DiLullo   11/1/2017(1)    10/27/2017     —     —     —     —     —     —     10,365   $ 1,250,019   
+    10/19/2017(1)(3)    10/19/2017     —     —     —     1,971     2,464     4,928     —   $ 289,249   
+    12/6/2017(1)(4)    12/6/2017     —     —     —     2,656     4,535     9,069     —   $ 731,039   
+    5/3/2018(7)    5/3/2018                                         7,301   $ 1,228,904   
+              $ 385,600   $ 482,000   $ 964,000     —     —     —     —     —   
+              $ 500,000   $ 1,000,000 (8)  $ 2,000,000     —     —     —     —     —   
+[END TABLE]
+[BEGIN TABLE]
+  Year Ended September 30, 2018 
+      Expected Volatility   
+Grant Date Fair Value per Share Expected  Term (in years) Risk-Free Interest  Rate F5 Networks Index Members Expected Dividend 
+December 6, 2017                                      
+Tranche 1 $ 181.94     0.82     1.61%   21.71%   20.59%   —   
+Tranche 2 $ 180.92     1.82     1.76%   24.98%   23.19%   —   
+Tranche 3 $ 184.48     2.82     1.89%   25.32%   24.83%   —   
+Tranche 4 $ 186.51     3.82     2.00%   26.05%   24.12%   —   
+[END TABLE]
+[BEGIN TABLE]
+  Stock Awards(1) 
+Name Number of Shares or Units of Stock That Have Not Vested (#) Market Value of Shares or Units of Stock That Have Not Vested ($)(5) Equity Incentive Plan Awards: Number of Unearned Shares, Units or Other Rights That Have Not Vested (#) Equity Incentive Plan Awards:  Market or Payout Value of Unearned Shares, Units or Other Rights That Have Not Vested ($)(5) 
+François Locoh-Donou   65,154 (2)  $ 12,993,011     37,644 (6)  $ 7,506,966   
+Frank Pelzer   31,067 (3)  $  6,195,381     —   $  —   
+Andrew Reinland(4)   —     —     —   $ —   
+Tom Fountain   22,065 (3)  $ 4,400,202     —   $ —   
+Steve McMillan   29,022 (3)  $ 5,787,567     —   $ —   
+Ana White   20,686 (3)  $ 4,125,202     —   $ —   
+John DiLullo(4)   —     —     —   $ —   
+[END TABLE]
+[BEGIN TABLE]
+  Stock Awards(1)  
+Name Number of Shares Acquired on Vesting (#)  Value Realized on Vesting ($)(2)  
+François Locoh-Donou   36,299   $  5,829,982   
+Frank Pelzer   —     —   
+Andrew Reinland   30,467   $ 4,667,512   
+Steve McMillan   —     —   
+Tom Fountain   —     —   
+Ana White   —     —   
+John DiLullo   19,901   $  3,051,895   
+[END TABLE]
+ 39
+[BEGIN TABLE]
+Name Benefit Change of Control ($) Termination After Change of Control($)(4) 
+François Locoh-Donou Severance Amount(2)   —   $ 3,726,000   
+  Accelerated Vesting of RSUs(3) $ 20,499,977     —   
+  Benefit coverage continuation   —   $ 28,112   
+  Outplacement services   —   $ 25,000   
+  Total $ 20,499,977   $ 3,779,112   
+Frank Pelzer Severance Amount(2)   —   $ 931,000   
+  Accelerated Vesting of RSUs(3) $ 6,195,381     —   
+  Benefit coverage continuation   —   $ 28,112   
+  Outplacement services   —   $ 25,000   
+  Total $ 6,195,381   $ 984,112   
+Tom Fountain Severance Amount(2)   —   $ 980,000   
+  Accelerated Vesting of RSUs(3) $ 4,400,202     —   
+  Benefit coverage continuation   —   $ 28,112   
+  Outplacement services   —   $ 25,000   
+  Total $ 4,400,202   $ 1,033,112   
+Steve McMillan Severance Amount(2)   —   $ 902,500   
+  Accelerated Vesting of RSUs(3) $ 5,787,567     —   
+  Benefit coverage continuation   —   $ 28,112   
+  Outplacement services   —   $ 25,000   
+  Total $ 5,787,567   $ 955,612   
+Ana White Severance Amount(2)   —   $ 650,400   
+  Accelerated Vesting of RSUs(3) $ 4,125,202     —   
+  Benefit coverage continuation   —   $ 23,816   
+  Outplacement services   —   $ 25,000   
+  Total $ 4,125,202   $ 699,216   
+[END TABLE]
+ 41
+[BEGIN TABLE]
+     Deborah L. Bevier Jonathan C. Chadwick, Chair  Michael L. Dreyer Peter S. Klein  
+[END TABLE]
+[BEGIN TABLE]
+  Years Ended September 30,  
+Fee Category 2018  2017  
+Audit Fees $ 2,409,708   $ 2,169,973   
+Audit-Related Fees $  99,500   $  148,253   
+Tax Fees $  98,781   $  127,224   
+All Other Fees $  64,319   $ 5,400   
+Total Fees $ 2,672,308   $ 2,450,850   
+[END TABLE]
+[BEGIN TABLE]
+Name and Address(1) Number of Shares of Common Stock Beneficially Owned(2)  Percent of Common Stock Outstanding(2)  
+BlackRock, Inc.(3) 55 East 52nd Street, New York, New York 10055    4,545,510     7.6% 
+The Vanguard Group(4) 100 Vanguard Blvd., Malvern, PA 19355    6,354,968     10.6% 
+François Locoh-Donou(5)   28,298       * 
+Frank Pelzer(6)    581       * 
+Andrew Reinland   532       * 
+Tom Fountain(7)   6,318       * 
+Stephen McMillan(8)   4,329       * 
+Ana White(9)   5,729       * 
+John DiLullo   600       * 
+A. Gary Ames   12,553       * 
+Sandra E. Bergeron   2,000       * 
+Deborah L. Bevier   7,152       * 
+Jonathan C. Chadwick   7,969       * 
+Michel Combes   0       * 
+Michael L. Dreyer   5,679       * 
+Alan J. Higginson   9,840       * 
+Peter S. Klein   5,036       * 
+John McAdam   9,017       * 
+Nikhil Mehta   0       * 
+Marie E. Myers   0       * 
+All directors and executive officers as a group (21 people)(10)   134,290       * 
+[END TABLE]
+[BEGIN TABLE]
+  Column A Column B Column C 
+Plan Category Number of  securities to  be issued  upon exercise  of outstanding  options and  rights  Weighted-average exercise  price of  outstanding options  and rights  Number of securities  remaining  available for  future issuance  under equity  compensation  plans (total  securities  authorized but  unissued under  the plans, less Column A) 
+Equity compensation plans approved by security holders(1)   1,263,350 (2)  $ 3.68 (3)    2,615,750 (4)  
+Equity compensation plans not approved by security holders(5)   49   $ 3.95     —   
+Total   1,263,399   $ 3.76     2,615,750   
+[END TABLE]
+  47
+[BEGIN TABLE]
+  Current Status Reflecting  Share Repurchase  Program Excluding Impact of  Share Repurchase  Program 
+Annual Run Rate   2.34%   2.16% 
+Shareholder Dilution    4.68%   3.77% 
+Shareholder Dilution (including additional 1,750,000 shares for Amended Plan)   7.26%   5.88% 
+[END TABLE]
+  50
+[BEGIN TABLE]
+Name and Position/Group Number of Options Granted 
+François Locoh-Donou President and Chief Executive Officer    0   
+Frank Pelzer Executive VP and Chief Financial Officer    0   
+Andrew Reinland Former Executive VP and Chief Financial Officer    0   
+Steve McMillan Executive VP of Global Services    0   
+Tom Fountain Executive VP and Chief Strategy Officer    0   
+Ana White Executive VP and Chief Human Resources Officer    0   
+John DiLullo Former Executive VP of Worldwide Sales    0   
+Executive Group   0   
+Non-Executive Director Group   75,000   
+Non-Executive Officer Employee Group   0   
+[END TABLE]
+         60
+[BEGIN TABLE]
+     By Order of the Board of Directors  
+     Scot F. Rogers Secretary  
+[END TABLE]
+ A- A- A- A- A- A- A- A- A- A- A- A- B- B- B- B- B- B- B- B-8
+[BEGIN TABLE]
+ HISTORY:   ORIGINALLY ADOPTED BY BOARD OF DIRECTORS APRIL 5, 1999 ORIGINALLY APPROVED BY SHAREHOLDERS MAY, 1999  AMENDMENT ADOPTED BY BOARD OF DIRECTORS JANUARY 26, 2004 AMENDMENT ADOPTED BY SHAREHOLDERS APRIL 29, 2004 SECOND AMENDMENT ADOPTED BY BOARD OF DIRECTORS JANUARY 7, 2009 SECOND AMENDMENT ADOPTED BY SHAREHOLDERS MARCH 12, 2009 AMENDMENT ADOPTED BY BOARD OF DIRECTORS SEPTEMBER 9, 2010 AMENDMENT AND RESTATEMENT ADOPTED BY BOARD OF DIRECTORS JULY 14, 2011 AMENDMENT AND RESTATEMENT ADOPTED BY BOARD OF DIRECTORS JANUARY 5, 2015 AMENDMENT AND RESTATEMENT ADOPTED BY SHAREHOLDERS MARCH 12, 2015  AMENDMENT AND RESTATEMENT ADOPTED BY BOARD OF DIRECTORS JANUARY 18, 2019   
+ TERMINATION DATE:   NONE  
+[END TABLE]
+B-  

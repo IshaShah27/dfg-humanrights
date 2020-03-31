@@ -1,0 +1,675 @@
+ 
+Table of Contents
+UNITED STATES
+SECURITIES AND EXCHANGE COMMISSION
+Washington, D.C. 20549
+SCHEDULE 14A INFORMATION
+Proxy Statement Pursuant to Section 14(a) of the Securities Exchange Act of 1934
+(Amendment No. )
+Filed by the Registrant ☒                                                     Filed by a Party other than the Registrant ☐
+Check the appropriate box:
+☐  Preliminary Proxy Statement
+☐  Confidential, for Use of the Commission Only (as permitted by Rule 14a-6(e)(2))
+☒  Definitive Proxy Statement
+☐  Definitive Additional Materials
+☐  Soliciting Material under Rule 14a-12
+OPTICAL CABLE CORPORATION
+(Name of registrant as specified in its charter)
+(Name of person(s) filing proxy statement, if other than the registrant)
+Payment of Filing Fee (Check the appropriate box):
+☒   No fee required.
+☐   Fee computed on table below per Exchange Act Rules 14a-6(i)(4) and 0-11.
+(1)  Title of each class of securities to which transaction applies:
+(2)  Aggregate number of securities to which transaction applies:
+(3)  Per unit price or other underlying value of transaction computed pursuant to Exchange Act Rule 0-11 (set forth the amount on which the filing fee is calculated and state how it was determined):
+(4)  Proposed maximum aggregate value of transaction:
+(5)  Total fee paid:
+☐   Fee paid previously with preliminary materials.
+☐   Check box if any part of the fee is offset as provided by Exchange Act Rule 0-11(a)(2) and identify the filing for which the offsetting fee was paid previously. Identify the previous filing by registration statement number, or the Form or Schedule and the date of its filing.
+(1)  Amount Previously Paid:
+(2)  Form, Schedule or Registration Statement No.:
+(3)  Filing Party:
+(4)  Date Filed:
+OPTICAL CABLE CORPORATION 
+5290 CONCOURSE DRIVE 
+ROANOKE, VIRGINIA 24019 
+February 27, 2019
+Dear Shareholder:
+You are cordially invited to attend the annual meeting of shareholders of Optical Cable Corporation (the "Company" or "OCC®"), to be held on Tuesday, March 26, 2019, at 10:00 a.m. local time at the Green Ridge Recreation Center, 7415 Wood Haven Road, Roanoke, Virginia.
+At the annual meeting of shareholders, you are being asked to do the following:
+[BEGIN TABLE]
+   (1)   elect the Company's board of directors from the slate of directors nominated in accordance with the Company's bylaws to serve until the next annual meeting of shareholders;  
+[END TABLE]
+[BEGIN TABLE]
+   (2)   ratify the appointment of Brown, Edwards & Company, L.L.P. as the independent registered public accounting firm for the Company for fiscal year 2019;  
+[END TABLE]
+[BEGIN TABLE]
+   (3)   approve, on a non-binding advisory basis, the compensation paid to our named executive officers; and  
+[END TABLE]
+[BEGIN TABLE]
+   (4)   vote, on a non-binding advisory basis, on the frequency of future advisory votes on named executive officer compensation.  
+[END TABLE]
+We also will be pleased to report on the affairs of the Company.
+ Whether or not you are able to attend, it is important that your shares be represented and voted at this meeting. Submitting the proxy before the annual meeting will not preclude you from voting in person at the annual meeting if you should decide to attend. Your prompt response would be greatly appreciated.
+[BEGIN TABLE]
+   Sincerely,  
+   /s/ Neil D. Wilkin, Jr.  
+   Neil D. Wilkin, Jr.  
+   Chairman of the Board of Directors,  
+   President and Chief Executive Officer  
+[END TABLE]
+YOUR VOTE IS IMPORTANT 
+Even if you plan to attend the meeting, please make sure to vote. You may vote by one of the following methods: (1) completing, signing and returning promptly the enclosed proxy in the envelope provided; (2) going online to http://www.proxyvote.com, as appropriate, and following the online instructions or (3) in person if you so desire even if you have previously sent in your proxy or voted online. Please note that the method by which you vote last will be the vote the Company counts. 
+OPTICAL CABLE CORPORATION 
+Notice of Annual Meeting of Shareholders 
+March 26, 2019
+TO THE SHAREHOLDERS:
+NOTICE IS HEREBY GIVEN that the annual meeting of shareholders of Optical Cable Corporation, a Virginia corporation (the "Company" or "OCC®"), is scheduled to be held on Tuesday, March 26, 2019 at 10:00 a.m. local time at the Green Ridge Recreation Center, 7415 Wood Haven Road, Roanoke, Virginia for the following purposes:
+[BEGIN TABLE]
+   1.   to elect six directors from the slate of directors nominated in accordance with the Company's bylaws to serve until the next annual meeting of shareholders and until their successors are duly elected and qualified;  
+[END TABLE]
+[BEGIN TABLE]
+   2.   to ratify the appointment of Brown, Edwards & Company, L.L.P. as the independent registered public accounting firm for the Company for fiscal year 2019;  
+[END TABLE]
+[BEGIN TABLE]
+   3.   to approve, on a non-binding advisory basis, the compensation paid to our named executive officers;  
+[END TABLE]
+[BEGIN TABLE]
+   4.   to vote, on a non-binding advisory basis, on the frequency of future advisory votes on named executive officer compensation; and  
+[END TABLE]
+[BEGIN TABLE]
+   5.   to transact such other business as may properly come before the meeting and any adjournment thereof.  
+[END TABLE]
+Only shareholders of record at the close of business on January 25, 2019, are entitled to notice of and to vote at the annual meeting and any adjournment thereof. All shareholders are cordially invited to attend the annual meeting in person. However, to assure your representation at the meeting, you are urged to vote by completing, signing and dating the enclosed form of proxy and returning it promptly in the envelope provided or by voting online. Shareholders attending the meeting may revoke their proxy and vote in person.
+[BEGIN TABLE]
+   FOR THE BOARD OF DIRECTORS  
+   /s/ Tracy G. Smith  
+   Tracy G. Smith  
+   Corporate Secretary  
+[END TABLE]
+Roanoke, Virginia
+February 27, 2019  
+TABLE OF CONTENTS
+[BEGIN TABLE]
+    Page 
+ PROXY SUMMARY   1  
+ PROXY STATEMENT   3  
+ Proxy Solicitation   3  
+ Revocability and Voting of Proxy   3  
+ Record Date, Voting Procedures, Quorum, Abstentions, and Broker Voting   4  
+ PROPOSAL NO. 1  ELECTION OF DIRECTORS   6  
+ Code of Ethics   8  
+ Equity Ownership and Retention Policy for Non-employee Directors   9  
+ Meetings of the Board of Directors and Committees   9  
+ Board Leadership Structure and Lead Director   11  
+ The Board of Director's Role in Risk Oversight   11  
+ PROPOSAL NO. 2 RATIFICATION OF APPOINTMENT OF INDEPENDENT REGISTERED PUBLIC ACCOUNTING FIRM FOR FISCAL YEAR 2019   12  
+ PROPOSAL NO. 3 NON-BINDING SHAREHOLDER ADVISORY VOTE ON EXECUTIVE COMPENSATION   12  
+ PROPOSAL NO. 4 NON-BINDING SHAREHOLDER ADVISORY VOTE ON THE FREQUENCY OF HOLDING A NON-BINDING ADVISORY VOTE ON EXECUTIVE COMPENSATION   13  
+ BENEFICIAL OWNERSHIP OF SECURITIES   13  
+ EXECUTIVE OFFICERS   15  
+ DIRECTOR COMPENSATION   16  
+ Overview   16  
+ Methodology of Determining Non-Employee Director Compensation   16  
+ Compensation of Directors   18  
+ Non-Employee Director Compensation Table   18  
+ EXECUTIVE COMPENSATION   19  
+ Overview   19  
+ Compensation Philosophy and Strategy   19  
+ Compensation Committee Role   19  
+ Compensation Philosophy   20  
+ Compensation Strategy   21  
+ Say on Pay Results and Considerations   22  
+ Say When on Pay Considerations   22  
+[END TABLE]
+[BEGIN TABLE]
+ Criteria for Compensation Levels   22  
+ Methodology of Determining Executive Compensation   23  
+ Compensation of Executive Officers   24  
+ Base Salary   24  
+ Annual Short-term Incentive Opportunity   25  
+ Long-term Equity Incentive Compensation   25  
+ Summary Compensation Table   26  
+ Stock Option Grants   27  
+ Outstanding Equity Awards Table at Fiscal Year End   27  
+ Stock Option Exercises   27  
+ Summary of Equity Compensation Plans   27  
+ Equity Compensation Plan Information   28  
+ Equity Ownership and Retention Policy for the Leadership Team   28  
+ Employment Agreements   29  
+ Section 162(m) of the Internal Revenue Code   30  
+ REPORT OF THE AUDIT COMMITTEE   30  
+ INDEPENDENT REGISTERED PUBLIC ACCOUNTING FIRM   32  
+ Principal Accounting Fees   32  
+ Audit Committee Pre-Approval of Audit and Permissible Non-audit Services of Independent Registered Public Accounting Firm   32  
+ COMPLIANCE WITH SECTION 16(a) OF THE SECURITIES ACT OF 1934   32  
+ CERTAIN RELATIONSHIPS AND RELATED TRANSACTIONS   33  
+ OTHER MATTERS   33  
+ NOMINATIONS AND PROPOSALS BY SHAREHOLDERS FOR 2020 ANNUAL MEETING   33  
+ Proposals for Inclusion in the Company's Proxy Statement   33  
+ Nominations and Proposals not included in the Company's Proxy Statement but intended to be brought before the Company's annual meeting   33  
+ ANNUAL REPORT   34  
+ FURTHER INFORMATION   34  
+[END TABLE]
+[BEGIN TABLE]
+    PROXY SUMMARY  
+[END TABLE]
+This summary highlights information contained elsewhere in this Proxy Statement. This summary does not contain all of the information you should consider. Please read the entire Proxy Statement carefully before voting.
+[BEGIN TABLE]
+ Annual Shareholders Meeting     Meeting Agenda  
+ Date   March 26, 2019● Election of 6 directors● Ratification of Brown, Edwards & Company, L.L.P. as our independent registered public accounting firm for fiscal year 2019● Advisory vote on executive compensation● Advisory vote on the frequency of future advisory votes on executive compensation● Transact other business that may properly come before the meeting  
+ Date   March 26, 2019● Election of 6 directors● Ratification of Brown, Edwards & Company, L.L.P. as our independent registered public accounting firm for fiscal year 2019● Advisory vote on executive compensation● Advisory vote on the frequency of future advisory votes on executive compensation● Transact other business that may properly come before the meeting  
+ Time   10:00 a.m. Eastern Time    
+ Place   Green Ridge Recreation Center   			7415 Wood Haven Road   			Roanoke, Virginia 24019      
+ Record date    January 25, 2019    
+ Voting   Shareholders as of the record date are entitled to vote. Each share of common stock is entitled to one vote for each director nominee and one vote for each of the proposals to be voted on.    
+[END TABLE]
+[BEGIN TABLE]
+ Voting Matters and Vote Recommendation  
+[END TABLE]
+[BEGIN TABLE]
+   Item           Board   			recommendation     Reasons for recommendation     More   			information  
+  1.    Election of 6 directors     FOR       The Board and the Nominating and Corporate Governance Committee believe that the 6 Board candidates possess the skills, experience, and diversity to effectively monitor performance, provide oversight, and advise management on the Company's long-term strategy.     Page 6  
+  2.   Ratification of the selection of Brown, Edwards & Company, L.L.P. as the Company's independent registered public accounting firm for fiscal year 2019       FOR     Based on the Audit Committee's assessment of Brown, Edwards & Company, L.L.P.'s qualifications and performance, the Audit Committee believes that Brown, Edwards & Company, L.L.P.'s retention for fiscal year 2019 is in the best interests of the Company.       Page 12  
+  3.   Advisory vote on executive compensation       FOR       The Company's executive compensation programs demonstrate the Company's pay for performance philosophy.       Page 12  
+  4.   Advisory vote on frequency of future advisory votes on executive compensation     FOR     The Board believes that an annual advisory vote is the most effective frequency for seeking shareholder advisory votes on executive compensation.     Page 13  
+[END TABLE]
+[BEGIN TABLE]
+ Company Management Profile  
+[END TABLE]
+See Page 6 – "Election of Directors" for more information. 
+The following table provides summary information about each director nominee. Each director is elected annually by a plurality of votes cast.
+[BEGIN TABLE]
+ Name         Director           Committee memberships   Up for re-election at current Annual   
+Occupation    Age    since    Independent       AC     CC     NCGC    Meeting 
+ Neil D. Wilkin, Jr.     55     2001     No                   Yes  
+ Chairman of the Board,                                
+ President and CEO, Optical Cable Corporation                                
+ President and CEO, Optical Cable Corporation                                
+ Randall H. Frazier     67     1996     Yes                     Yes  
+ President,                                
+ River Acceptance, LLC                                
+ John M. Holland     73     1996     Yes                    Yes  
+ Principal and Founder,                                
+ Holland Technical Services & President, Equine Welfare Alliance                                
+ Holland Technical Services & President, Equine Welfare Alliance                                
+ Holland Technical Services & President, Equine Welfare Alliance                                
+ John A. Nygren     70     2016     Yes                      Yes  
+ Retired, former President and CEO, ChemTreat, Inc.                                
+ Retired, former President and CEO, ChemTreat, Inc.                                
+ Craig H. Weber     59     2002     Yes                      Yes  
+ CEO and President,                                
+ Home Care Delivered, Inc.                                
+ John B. Williamson, III     64     2004     Yes                      Yes  
+ Chairman of the Board,                                
+ RGC Resources, Inc.                                
+[END TABLE]
+[BEGIN TABLE]
+ AC   Audit Committee      Chair  
+ CC   Compensation Committee      Member  
+ NCGC   Nominating and Corporate Governance Committee      Financial Expert  
+[END TABLE]
+OPTICAL CABLE CORPORATION
+5290 CONCOURSE DRIVE 
+ROANOKE, VIRGINIA 24019 
+PROXY STATEMENT
+FOR 
+ANNUAL MEETING OF SHAREHOLDERS 
+MARCH 26, 2019 
+Proxy Solicitation 
+This proxy statement is furnished to the holders of Optical Cable Corporation, a Virginia corporation (the "Company" or "OCC®"), common stock, no par value ("Common Shares"), in connection with the solicitation by the Board of Directors of the Company (sometimes referred to herein as the "Board" or the "Board of Directors") of proxies for use at the annual meeting of shareholders to be held on Tuesday, March 26, 2019, or at any adjournment thereof, pursuant to the accompanying Notice of Annual Meeting of Shareholders. The purposes of the meeting and the matters to be acted upon are set forth herein and in the accompanying Notice of Annual Meeting of Shareholders. The Board of Directors is not currently aware of any other matters that will properly come before the annual meeting.
+Proxies for use at the annual meeting are being solicited by and on behalf of the Board of Directors of the Company. These proxy solicitation materials are first being mailed on or about March 5, 2019 to all shareholders entitled to vote at the annual meeting. Proxies will be solicited chiefly by mail, but are also available on the Company's website at www.occfiber.com/investor-relations/ under "Proxy Materials". The Company will make arrangements with brokerage houses and other custodians, nominees and fiduciaries to send proxies and proxy materials to the beneficial owners of the shares and will reimburse them for their reasonable out-of-pocket expenses in so doing. Should it appear desirable to do so in order to ensure adequate representation of shares at the annual meeting, solicitations may be made by mail or by telephone, facsimile, e-mail, or personal interviews by Directors, officers and regular employees of the Company, none of whom will receive additional compensation for these services. All expenses incurred in connection with this solicitation will be borne by the Company. The Company's 2018 Annual Report and the Company's Annual Report on Form 10-K for the fiscal year ended October 31, 2018, are not proxy soliciting materials.
+Revocability and Voting of Proxy 
+A shareholder may revoke the authority granted by his or her execution of a proxy at any time before the effective exercise of such proxy by filing with the Corporate Secretary of the Company a written notice of revocation or a duly executed proxy bearing a later date, or by voting in person at the annual meeting. The Company's Common Shares represented by executed and unrevoked proxies will be voted in accordance with the choice or instructions specified thereon. If no specifications are given, the shares represented thereby will be voted as follows:
+  FOR the six directors nominated in accordance with the Company's bylaws to serve until the next annual meeting of shareholders and until their successors are duly elected and qualified;
+  FOR the ratification of Brown, Edwards & Company, L.L.P. as the independent registered public accounting firm for the Company;    FOR the approval, on a non-binding advisory basis, of the compensation paid to our named executive officers;
+FOR the holding, on a non-binding advisory basis, of an annual advisory vote on executive compensation; and in accordance with the best judgment of the Board of Directors on any other matters which may properly come before the annual meeting.  
+Record Date, Voting Procedures, Quorum, Abstentions, and Broker Voting 
+Only shareholders of record at the close of business on January 25, 2019 (the "record date") are entitled to notice of and to vote at the annual meeting. As of the record date, 7,694,129 Common Shares were issued and outstanding. Each Common Share is entitled to one vote on all matters that may properly come before the annual meeting.
+ A majority of votes entitled to be cast on a particular matter, represented in person or by proxy, constitutes a quorum for purposes of the annual meeting. Once a Common Share is represented for any purpose at a meeting, it is deemed present for quorum purposes for the remainder of the meeting and any adjournment thereof, unless a new record date is set for the adjournment. Abstentions will be counted in determining the existence of a quorum, but Common Shares held by a broker, as nominee, and not voted on any matter will not be counted for such purpose.
+[BEGIN TABLE]
+ Voting Matter     Voting Standard  
+ Election of six directors.     Plurality, which means the six persons receiving the most votes cast are elected. Broker non-votes will have no effect on the election of directors, which is by plurality of the votes cast in person or by proxy. Brokers may vote their shares in favor of directors ONLY so long as they have voting instructions from the beneficial owners of the shares.  
+ Ratification of the appointment of Brown, Edwards & Company, L.L.P. as our independent registered public accounting firm for the 2019 fiscal year.     Majority of the shares of common stock present in person or represented by proxy and entitled to vote on the matter at this annual meeting. Abstentions from voting on this proposal will have the same effect as a vote against this proposal. Brokers may vote their shares on this proposal even if they have NOT received instructions (ratification of the appointment of the independent auditor is considered a "routine" matter for which a broker may exercise discretionary voting power). Broker non-votes will not be treated as votes cast on this matter, and therefore will not have any effect on determining the outcome.  
+ Approval, on a non-binding advisory basis, of the compensation paid to our named executive officers.     Majority of the shares of common stock present in person or represented by proxy and entitled to vote on the matter at this annual meeting. Abstentions from voting on this proposal will have the same effect as a vote against this proposal. Brokers may vote their shares on this proposal ONLY if they have voting instructions from the beneficial owners. Broker non-votes will not be treated as votes cast on this matter, and therefore will not have any effect on determining the outcome.  
+ Vote, on a non-binding advisory basis, on the frequency of future advisory votes on named executive officer compensation.     Plurality, which means the option of one year, two years, or three years, that receives the highest number of votes cast will be the frequency of the advisory vote on executive compensation that has been selected by the Shareholders. Broker non-votes will have no effect on the determination of the frequency of the advisory vote, which is by plurality of the votes cast in person or by proxy. Brokers may vote their shares on this proposal ONLY so long as they have voting instructions from the beneficial owners of the shares.  
+[END TABLE]
+Votes at the annual meeting will be tabulated by "Inspectors of Election" appointed by the Company.
+PROPOSAL NO. 1  ELECTION OF DIRECTORS 
+The Board, currently comprised of six members, has nominated six persons for election as Directors. Unless otherwise specified, the proxy will be voted in favor of the persons named below to serve until the next annual meeting and until their successors are elected and qualified. Each person named below is now a Director of the Company. In the event any of the nominees are unable to serve as a Director, the shares represented by the proxy will be voted for the person, if any, who is designated by the Board of Directors to replace the nominee. All nominees have consented to be named and have indicated their intent to serve if elected. The Board of Directors has no reason to believe that any of the nominees will be unable to serve or that any vacancy on the Board of Directors will occur as a result of a nominee being unable to serve.
+The names of the nominees and certain other information about the nominees are set forth below:
+[BEGIN TABLE]
+ Nominee   Age   Director Since   Office Held with Company  
+ Neil D. Wilkin, Jr.   55   2001   Chairman of the Board of Directors, President and Chief Executive Officer  
+ Randall H. Frazier   67   1996   Director  
+ John M. Holland   73   1996   Director  
+ John A. Nygren   70   2016   Director  
+ Craig H. Weber   59   2002   Director  
+ John B. Williamson, III   64   2004   Director  
+[END TABLE]
+Mr. Wilkin is Chairman of the Board of Directors, President and Chief Executive Officer of the Company. He was named Chairman of the Board and Chief Executive Officer in September 2003, in addition to his previously held positions as President and as a member of the Board of Directors. Mr. Wilkin first became a Director and was named Chief Financial Officer and Senior Vice President of the Company in September 2001. In December 2001, Mr. Wilkin became Acting-President in addition to his role as Chief Financial Officer, and on April 11, 2002 he was named President by the Board of Directors. Prior to joining the Company, Mr. Wilkin served as Chief Financial Officer of a nationally licensed, internet-based real estate brokerage company. Prior to that, Mr. Wilkin practiced law concentrating on mergers and acquisitions, corporate finance, and general corporate matters. He worked at two law firms: McGuireWoods LLP in Richmond, Virginia and Kirkland & Ellis in Washington, D.C. Mr. Wilkin practiced with Coopers & Lybrand (a predecessor to PricewaterhouseCoopers) as a CPA before returning to graduate business school and law school. Mr. Wilkin serves on the board of directors of Carilion Clinic, a not-for-profit health care organization based in Roanoke, Virginia. Mr. Wilkin earned his MBA from the Darden School at the University of Virginia, is a graduate of the University of Virginia School of Law, and received his undergraduate degree from the McIntire School of Commerce at the University of Virginia.
+In determining nominations to the Board of Directors, the Nominating Committee considered Mr. Wilkin's experience leading the Company since December 2001, his industry specific knowledge and experience, and his business, entrepreneurial, financial and legal background, as well as his experience with public reporting companies, as essential and important qualities beneficial to the Board.
+Mr. Frazier was elected a Director of the Company in 1996. Mr. Frazier is currently President of River Acceptance, LLC. The primary business of River Acceptance, LLC is to provide leading edge recycling solutions for used and obsolete electronic devices. Mr. Frazier has been self-employed in various chemical and engineering businesses throughout the years and was previously a senior chemist with E. I. du Pont de Nemours and Company ("DuPont"). Mr. Frazier earned a bachelor's degree in chemistry from Virginia Military Institute.
+In determining nominations to the Board of Directors, the Nominating Committee considered Mr. Frazier's experience serving the Company's Board since April 1996 and his broad business and entrepreneurial background, as well as his manufacturing experience, as essential and important qualities beneficial to the Board.
+Mr. Holland was elected a Director of the Company in 1996. Mr. Holland is a Principal and Founder of Holland Technical Services, a software and automation consulting firm specializing in the manufacturing industry that he founded in 2002. Mr. Holland is also the President of the Equine Welfare Alliance, a non-profit umbrella organization with approximately 300 member organizations. Mr. Holland was President of Cybermotion, Inc., a company he co-founded in 1984. Mr. Holland's previous experience includes being employed by the Electro-Optics Product Division of ITT where he was responsible for the design of the earliest fiber optic systems and the development of automated manufacturing systems for optical fiber. Mr. Holland holds numerous patents in fiber optics and robotics and is the author of three books including Designing Autonomous Mobile Robots – Inside the Mind of an Intelligent Machine.
+In determining nominations to the Board of Directors, the Nominating Committee considered Mr. Holland's experience serving the Company's Board since April 1996, his fiber optic systems background and his expertise with automated manufacturing systems like those used by the Company, as essential and important qualities beneficial to the Board.
+Mr. Nygren was President and CEO of ChemTreat, Inc. from 2000 until his retirement in 2010, first becoming President in 1990. During Mr. Nygren's leadership and tenure, ChemTreat grew dramatically, culminating with the sale of ChemTreat to Danaher Corporation in 2007 for $436 million. Mr. Nygren joined ChemTreat in 1976 as Manager of Technical Services and was the chief architect of ChemTreat's core technologies. Mr. Nygren served as Technical Director and Vice President of Technology, prior to being named ChemTreat's President in 1990. Prior to joining ChemTreat, Mr. Nygren served as Technical Service manager at Hercules Inc. from 1973 to 1976, and Research and Development Group Leader at Drew Chemical Corporation from 1971 to 1973. He is author of numerous papers in the water treatment discipline and holder of several patents. He served on the external advisory board for the School of Chemical Engineering and Life Sciences at Virginia Commonwealth University. His professional affiliations include the American Institute of Chemical Engineers and the National Association of Corrosion Engineers. Mr. Nygren earned his bachelor of science degree in chemical engineering from Cornell University.
+In determining nominations to the Board of Directors, the Nominating Committee considered Mr. Nygren's experience serving the Company's Board since March 2016, his business, sales, manufacturing and technical experience and background, as well as his leadership in growing a middle-market manufacturing company, as essential and important qualities beneficial to the Board.
+Mr. Weber was elected a Director of the Company in 2002. Since January 2014, Mr. Weber has been Chief Executive Officer and President of Home Care Delivered, Inc., a medical supply company serving patients cared for at home throughout the United States. Mr. Weber is a member of the Board of Directors of Home Care Delivered, Inc., and was Chairman of its Audit, Compensation and Independent Committees from 2012 to December 2013, and Chief Financial Officer and Executive VP/Corporate Development from 2008 to 2010. Mr. Weber's previous business experience includes Chief Executive Officer of a business and technology consulting company, President of a document imaging technology company, Chief Operating Officer of a nationally licensed real estate brokerage company, and VP-Business Development and chief legal, human resources and administrative officer for a national distributor of pharmaceuticals and other products. Earlier in his career, Mr. Weber practiced corporate law for 12 years as a partner at McGuireWoods and as an associate at Sullivan & Cromwell where he specialized in corporate finance, mergers & acquisitions, banking and general corporate matters. Mr. Weber earned his MBA from the College of William and Mary, his law degree from the University of Virginia, and his undergraduate degree from Cornell University.
+In determining nominations to the Board of Directors, the Nominating Committee considered Mr. Weber's experience serving the Company's Board since February 2002, and his business, entrepreneurial, financial and legal background, as well as his experience with public reporting companies, as essential and important qualities beneficial to the Board.
+Mr. Williamson was elected a Director of the Company in 2004. Mr. Williamson is Chairman of the Board of RGC Resources, Inc. (Nasdaq GM: RGCO) located in Roanoke, Virginia. RGC Resources provides natural gas sales and related services in western Virginia. Mr. Williamson joined the predecessor to RGC Resources in 1992 and has served in a number of leadership capacities with that company, including Vice President of Rates and Finance, before becoming Chief Executive Officer and President in 1998, and later being named Chairman. Mr. Williamson held the positions of President and Chief Executive Officer through February 3, 2014. Mr. Williamson serves on the board of directors of Corning Natural Gas Holdings (OTCBB: CNIG.OB), Luna Innovations Incorporated (Nasdaq CM: LUNA), Valley Management, Inc., Lawrence Transportation, Bank of Botetourt (OTCQB: BORT), and H.L. Lawson & Sons, Inc. Mr. Williamson earned his MBA from the College of William and Mary and received his undergraduate degree from Virginia Commonwealth University.
+In determining nominations to the Board of Directors, the Nominating Committee considered Mr. Williamson's experience serving the Company's Board since July 2004, and his broad business and financial background, as well as his experience with public reporting companies, as essential and important qualities beneficial to the Board.
+Code of Ethics 
+The Company has a Code of Business Conduct and Ethics that applies to each of the Company's directors, officers and employees. A copy of the Code of Business Conduct and Ethics can be found on the Company's website at www.occfiber.com/investor-relations/ under "Corporate Governance". The Code of Business Conduct and Ethics sets forth the Company's policies and expectations on a number of topics, including: Compliance with Laws, Rules and Regulations; Conflicts of Interest; Insider Trading; Corporate Opportunities; Competition and Fair Dealing; Discrimination and Harassment; Social Responsibility and Human Rights; Health and Safety; Record-Keeping; Confidentiality; Protection and Proper Use of Company Assets; Prohibition Against Payments to Government Personnel; Waivers of the Code of Business Conduct and Ethics; Amendments; Reporting any Illegal or Unethical Behavior; and Compliance Procedures.
+The Board of Directors of the Company reviews the Code of Business Conduct and Ethics on an as needed basis, and changes or amends the Code of Business Conduct and Ethics as appropriate.
+The Company has a Code of Ethics for Chief Executive Officer and Senior Financial Officers which applies to the President and Chief Executive Officer, the Chief Financial Officer, Vice President of Finance, Corporate Controller and the Director of Taxation. The Code of Ethics for Chief Executive Officer and Senior Financial Officers, as amended, can be found on the Company's website at www.occfiber.com/investor-relations/ under "Corporate Governance". Under the Code of Ethics for Chief Executive Officer and Senior Financial Officers, the Chief Executive Officer and senior financial officers have agreed to abide by principles governing their professional and ethical conduct.
+The Board of Directors of the Company reviews the Code of Ethics for Chief Executive Officer and Senior Financial Officers on an as needed basis, and changes or amends the Code of Ethics for Chief Executive Officer and Senior Financial Officers as appropriate.  
+Equity Ownership and Retention Policy for Non-employee Directors
+The Company has an Equity Ownership and Retention Policy for Non-Employee Directors. The policy is applicable to all non-employee members of the Company's Board. This policy requires each non-employee member of the Board to accumulate over a set period and retain a minimum value of the Company's Common Shares and also to retain minimum percentages of the Company's Common Shares awarded to them under any equity compensation plan of the Company. The intention of this policy is to ensure non-employee members of the Board have wealth at risk in the Company's Common Shares, further aligning the interests of the Board with those of the shareholders. A copy of the Equity Ownership and Retention Policy for Non-Employee Directors can be found on the Company's website at www.occfiber.com/investor-relations/ under "Corporate Governance".
+Meetings of the Board of Directors and Committees
+The Board of Directors held a total of six meetings during the Company's fiscal year ended October 31, 2018. Each Director attended in person or telephonically at least 75% of the meetings held by the Board of Directors and all committees thereof on which each Director served or, in the event that membership was for a partial year, at least 75% of the meetings occurring during the period of membership. It is the policy of the Company that every Director attend annual meetings of shareholders. All of the Directors of the Company attended the last annual meeting of shareholders.
+The Board of Directors has determined that each of Messrs. Frazier, Holland, Nygren, Weber and Williamson qualify as independent directors. The Board considers the listing standards and rules of the Nasdaq Stock Market, Inc. ("Nasdaq") and the U.S. Securities and Exchange Commission ("SEC") in determining independence.
+Shareholders may send communications to the Board of Directors by mailing such communications addressed to Board of Directors (or addressed to a specific individual director), c/o Optical Cable Corporation, 5290 Concourse Drive, Roanoke, Virginia 24019.
+The Board of Directors has established three standing committees: the Audit Committee, the Compensation Committee, and the Nominating and Corporate Governance Committee.
+The Audit Committee is comprised of Messrs. Nygren, Weber and Williamson. Messrs. Nygren, Weber and Williamson are all considered independent by the Company. The Company considers the corporate governance guidelines of Nasdaq and the SEC when determining independence. Each of Messrs. Nygren, Weber and Williamson are financially sophisticated. Mr. Williamson qualifies as an Audit Committee Financial Expert, as such term is defined under Item 407(d) of Regulation S-K, and has been designated the Audit Committee Financial Expert. He is also the Audit Committee Chairman. Mr. Weber also qualifies as an Audit Committee Financial Expert, as such term is defined by Item 470(d)(5) of Regulation S-K, and is designated as a second Audit Committee Financial Expert. The Audit Committee met four times during the fiscal year.
+The Audit Committee operates under a written charter adopted by the Board of Directors which can be found on the Company's website at www.occfiber.com/investor-relations/ under "Corporate Governance". The charter provides the Audit Committee with governance authority over the Company's financial statements and over compliance with legal and regulatory requirements pertaining to financial statements, accounting and financial reporting processes and external audits. The charter can be found on the Company's website at www.occfiber.com/investor-relations/ under "Corporate Governance". The Audit Committee: selects the independent registered public accounting firm of the Company; pre-approves the audit and permitted non-audit services provided by the Company's independent registered public accounting firm; discusses and reviews the scope and the fees of the prospective annual audit; reviews the audit plan and the results of the annual audit with the Company's independent registered public accounting firm; reviews compliance with existing major financial policies of the Company; reviews the adequacy of the financial organization of the Company; reviews management's procedures and policies relative to the adequacy of the Company's internal control over financial reporting, and compliance with federal and state laws relating to accounting practices; and is notified of material proposed transactions, if any, with related parties. The Audit Committee meets no less frequently than quarterly.
+The Compensation Committee is comprised of Messrs. Frazier, Nygren, Weber and Williamson. All of the members of the Compensation Committee are considered independent under the applicable SEC and Nasdaq rules. The Compensation Committee met two times during the fiscal year. The Compensation Committee and Board of Directors, as appropriate, administer the Optical Cable Corporation 2017 Stock Incentive Plan (the "2017 Plan") as amended, its predecessor the Optical Cable Corporation Second Amended and Restated 2011 Stock Incentive Plan (the "2011 Plan"), together with other predecessor and successor plans (collectively, the "stock incentive plans"). Since December 2001, the Compensation Committee has consisted of only non-employee Directors. Mr. Weber is the Compensation Committee Chairman.
+The Compensation Committee operates under a written charter adopted by the Board of Directors which can be found on the Company's website at www.occfiber.com/investor-relations/ under "Corporate Governance". The Compensation Committee: reviews and approves all compensation for the President and Chief Executive Officer (the "CEO") on an annual basis; establishes the individual goals for the CEO to be used for determining incentive compensation for the CEO on an annual basis; reviews and approves all compensation for other executive officers of the Company on an annual basis; reviews recommendations made by the CEO with respect to compensation for other senior officers other than the CEO and other executive officers on an annual basis; reviews and approves the CEO's employment agreement and also employment agreements for other executive officers; reviews recommendations made by the CEO with respect to, and approves and administers, the criteria used for determining annual management incentive bonus compensation, if any, for senior officers of the Company (other than the CEO and other executive officers); administers the Company's stock incentive plans on behalf of the Board of Directors, including the approval of equity grants made pursuant to such plans; carries out related responsibilities required by the rules of Nasdaq and the SEC, as applicable, including reviewing the description of the Committee's processes and procedures for the consideration and determination of executive compensation to be included in the Company's annual proxy statement or annual report on Form 10-K filed with the SEC; oversees, in consultation with management, compliance with tax, accounting and regulatory requirements with respect to the Company's overall executive compensation program; makes recommendations to the Board regarding matters related to any shareholder advisory vote on executive compensation (say-on-pay); retains or obtains the advice of one or more compensation consultants, legal counsel or other advisors; and assesses and determines the independence of compensation consultants, legal counsel and other advisors.
+The Nominating and Corporate Governance Committee is comprised of Messrs. Holland, Frazier and Nygren. All of the members of the Nominating and Corporate Governance Committee are considered independent by the Company. The Company considers the corporate governance guidelines of Nasdaq and the SEC when determining independence. The Nominating and Corporate Governance Committee met one time during the fiscal year. Mr. Frazier is the Nominating and Corporate Governance Committee Chairman.
+The Nominating and Corporate Governance Committee operates under a written charter adopted by the Board of Directors, which can be found on the Company's website at www.occfiber.com/investor-relations/ under "Corporate Governance". The Nominating and Corporate Governance Committee: reviews the qualifications of candidates to serve on the Board of Directors and for each election of Directors recommends nominees for consideration by the full Board of Directors; reviews and makes recommendations to the Board of Directors on matters of Director independence and corporate governance of the Board; and has such other duties as may be requested by the Board or the Chairman of the Board of Directors. The Nominating and Corporate Governance Committee considers diversity in identifying nominees for directors. In defining "diversity", the Nominating and Corporate Governance Committee considers an individual's background, reputation, professional experience, education and skill, civic involvement, race, gender and/or national origin. The Company does not have a written policy with regard to the consideration of diversity in identifying director nominees.
+Board Leadership Structure and Lead Director
+Our Board leadership structure is currently composed of a combined Chairman of the Board of Directors and Chief Executive Officer, an independent Audit Committee Chairman, an independent Compensation Committee Chairman, and an independent Nominating and Corporate Governance Chairman.
+Mr. Wilkin is Chairman of the Board of Directors, President and Chief Executive Officer of the Company. He was named Chairman of the Board and Chief Executive Officer in September 2003, in addition to his previously held positions as President and as a member of the Board of Directors.
+After careful consideration, our Board of Directors has determined that at this time it is appropriate for the Chairman and the CEO to be the same individual. The Board of Directors has also determined, for the reasons set forth herein, that a lead independent director is not necessary and has not appointed one at this time. In making these determinations, the Board of Directors considered the relative size of the Company, the size of the Board of Directors and the fact that all remaining members of the Board of Directors are independent Directors. The Board believes that having a combined role, considering the Company's size, enhances the ability to provide insight and direction on important strategic initiatives to both management and the Board, and to ensure that they act with a common purpose. The Company also believes that its overall corporate governance policies and practices adequately address any governance concerns raised by the dual CEO and Chairman role. Separating the roles would potentially result in less effective management and governance processes through undesirable duplication of work and, in worst case, lead to a blurring of the current clear lines of responsibility.
+The Board of Director's Role in Risk Oversight
+Our Board of Directors has primary responsibility for overall risk oversight. The Board and the Company's management each have distinct roles in the identification, assessment, oversight and management of potential risks that could affect the Company's ability to achieve its strategic and financial objectives. Our corporate governance policies provide that the Board shall assess major risk factors relating to the Company and its performance, and review measures to mitigate and address such risks. To facilitate effective oversight, the various committees of the Board meet periodically and report to the full Board regarding potential risks to the Company, as well as the Company's strategy for managing those risks to an appropriate level. However, while each of the committees contributes to the risk management oversight function by assisting the Board in the manner described, the Board itself remains responsible for the oversight of the Company's overall risk management program. We believe that this structure ensures that our Board is fully aware of, and appropriately oversees, the Company's significant risks.
+The Board believes that its current leadership structure best facilitates its oversight of risk by combining independent leadership, through independent Board committees, and majority independent Board composition, with an experienced Chairman and Chief Executive Officer who has intimate knowledge of our business, history, and the complex challenges we face. The Chairman and Chief Executive Officer's in-depth understanding of these matters and involvement in the day-to-day management of the Company uniquely positions him to promptly identify and raise key business risks to the Board, call special meetings of the Board when necessary to address critical issues, and focus the Board's attention on areas of concern. The independent committee chairs and other directors also are experienced professionals or executives who can and regularly do raise issues for Board consideration and review, and are not hesitant to challenge management. The Board believes there is a well-functioning and effective balance between the independent Board members and the Chairman and Chief Executive Officer, which enhances risk oversight.
+The Board of Directors exercises its oversight responsibility for risk both directly and through its three standing committees. Throughout the year, the Board and each committee spend a portion of their time reviewing and discussing specific risk topics. The full Board is kept informed of each committee's risk oversight and related activities through regular oral reports from the committee chairs or committee meeting minutes available for review by all directors. Strategic, operational and competitive risks also are presented and discussed at the Board's quarterly meetings, and more often as needed. Periodically, the Board conducts a review of our long-term strategic plans and other members of senior management report on our top risks and the steps management has taken or will take to mitigate these risks. In addition, legal counsel updates the Board on material legal and regulatory matters as requested by the Board. On a regular basis between Board meetings, our Chairman and Chief Executive Officer reports to the Board on the critical issues faced and recent developments as deemed necessary. These reports may include a discussion of business risks and/or a discussion regarding enterprise risk.
+The Audit Committee meets regularly with our Chief Executive Officer, Chief Financial Officer, independent registered public accounting firm and legal counsel to discuss our major financial risk exposures, financial reporting, internal controls, credit and liquidity risk and compliance risk. The Audit Committee meets regularly in separate executive session with the independent registered public accounting firm, as well as with committee members only, to facilitate a full and candid discussion of risk and other governance issues.
+The Compensation Committee is responsible for overseeing human capital and compensation risks, including evaluating and assessing risks arising from our compensation policies and practices for employees and ensuring executive compensation is aligned with performance. The Compensation Committee also is charged with monitoring our incentive and equity-based compensation plans.
+THE BOARD OF DIRECTORS UNANIMOUSLY RECOMMENDS A VOTE FOR THE ELECTION OF THE DIRECTORS NAMED ON THE PROXY. 
+PROPOSAL NO. 2  RATIFICATION OF APPOINTMENT OF INDEPENDENT REGISTERED PUBLIC ACCOUNTING FIRM FOR FISCAL YEAR 2019
+The Audit Committee has selected, subject to ratification by the shareholders, the firm of Brown, Edwards & Company, L.L.P. as the Company's independent registered public accounting firm for fiscal year 2019. Although action by the shareholders in this matter is not required, the Board of Directors believes that it is appropriate to seek shareholder ratification of this appointment. In the event the shareholders do not ratify the selection of Brown, Edwards & Company, L.L.P., the selection of another independent registered public accounting firm will be considered by the Audit Committee.
+A representative of Brown, Edwards & Company, L.L.P. is expected to attend the annual meeting of shareholders. The representative will have the opportunity to make a statement, if he so desires, and will be available to respond to appropriate questions from shareholders.
+THE BOARD OF DIRECTORS UNANIMOUSLY RECOMMENDS A VOTE FOR RATIFICATION OF BROWN, EDWARDS & COMPANY, L.L.P. AS THE COMPANY'S INDEPENDENT REGISTERED PUBLIC ACCOUNTING FIRM FOR FISCAL YEAR 2019.
+PROPOSAL NO. 3  NON-BINDING SHAREHOLDER ADVISORY VOTE ON EXECUTIVE COMPENSATION
+The Dodd-Frank Wall Street Reform and Consumer Protection Act of 2010, or the Dodd-Frank Act, enables our shareholders to vote to approve, on an advisory (non-binding) basis, the compensation of our named executive officers as disclosed in this proxy statement in accordance with Section 14A of the Exchange Act. See Executive Compensation below for additional information related to the compensation of the Company's named executive officers.
+We believe that our executive compensation is competitive within our industry, consistent with executive compensation of companies similarly sized and with similar complexities, and strongly aligned with the long-term interests of our shareholders. Our executive compensation has been designed to promote a performance-based culture and ensure long-term value creation by aligning the interests of our executive officers with those of our shareholders by linking a substantial portion of their compensation to the Company's performance. The Compensation Committee annually reviews the compensation programs for our named executive officers to ensure they achieve the desired goals of aligning our executive compensation structure with our shareholders' interests and current market practices.
+As an advisory vote, this proposal is not binding upon the Company or our Board of Directors. However, our Board of Directors and Compensation Committee value the opinions expressed by shareholders in their vote on this proposal. Consequently, the Compensation Committee intends to take into account the outcome of the vote when considering future executive compensation decisions for our executive officers.
+THE BOARD OF DIRECTORS UNANIMOUSLY RECOMMENDS A VOTE FOR APPROVAL OF NAMED EXECUTIVE OFFICER COMPENSATION.
+PROPOSAL NO. 4  NON-BINDING SHAREHOLDER ADVISORY VOTE ON THE FREQUENCY OF HOLDING A NON-BINDING ADVISORY VOTE ON EXECUTIVE COMPENSATION
+In accordance with Section 14A of the Exchange Act, the Company is seeking the input of its shareholders on the frequency with which shareholders will hold a non-binding advisory vote on the compensation of its named executive officers. Shareholders may indicate their preference as to whether the advisory vote on the compensation of the Company's named executive officers should occur (1) once every year, (2) once every two years or (3) once every three years.
+After careful consideration, the Board of Directors has determined that the frequency of the non-binding advisory vote on the compensation of the Company's named executive officers should be once every year.      
+Although the results of this vote will have an impact on how frequently the Company holds an advisory vote on named executive officer compensation, this vote is non-binding upon the Company or our Board of Directors. The Board of Directors may decide, after considering the results of this vote that it is in the best interest of the Company's shareholders to hold the advisory vote on named executive officer compensation with a different frequency than the option selected by the Company's shareholders.
+The Company's shareholders may cast a vote on the preferred voting frequency by selecting the option of once every year, once every two years or once every three years (or may abstain from voting) in response to this proposal.
+THE BOARD OF DIRECTORS RECOMMENDS A VOTE FOR HOLDING AN ADVISORY VOTE ON EXECUTIVE COMPENSATION ONCE EVERY YEAR.
+BENEFICIAL OWNERSHIP OF SECURITIES
+Except as noted below, the following table sets forth information as of January 25, 2019, regarding the beneficial ownership of the Company's Common Shares of (i) each person made known to the Company through public filings made with the SEC to be the beneficial owner, within the meaning of Section 13(d) of the Exchange Act of more than 5% of the outstanding Common Shares, (ii) each director and nominee of the Company, (iii) each current executive officer of the Company named in the Summary Compensation Table (see "Executive Compensation") and (iv) all executive officers and Directors and nominees of the Company as a group. Others may be included in the table below as deemed appropriate. Unless otherwise indicated, the address of each named beneficial owner is c/o Optical Cable Corporation, 5290 Concourse Drive, Roanoke, Virginia 24019.
+Except to the extent indicated in the footnotes, each of the beneficial owners named below has sole voting and investment power with respect to the shares listed. In computing the number and percentage of shares beneficially owned by each person, the Company has included any shares of common stock that could be acquired within 60 days of January 25, 2019.
+[BEGIN TABLE]
+ Name and Address     No. of Shares       Percent of Class    
+ Neil D. Wilkin, Jr.      1,010,000  (1)     13.1% 
+ Tracy G. Smith      330,205  (2)     4.3% 
+ Randall H. Frazier      59,561  (3)     *   
+ John M. Holland      98,680       1.3% 
+ John A. Nygren      38,960  (4)     *   
+ Craig H. Weber      171,380  (5)     2.2% 
+ John B. Williamson, III      140,260  (6)     1.8% 
+ Dimensional Fund Advisors LP      447,679  (7)     5.8% 
+ R. Ted Weschler      768,500  (8)     10.0% 
+ David R. Goode      105,000  (9)     1.4% 
+ All Directors and executive officers as a group (7 persons)      1,849,046       24.0% 
+[END TABLE]
+[BEGIN TABLE]
+ *   Less than 1%  
+[END TABLE]
+[BEGIN TABLE]
+ (1)   Includes 301,751 shares of restricted stock still subject to vesting as of January 25, 2019. See the "Executive Officer Compensation" section of this proxy statement for a description of vesting criteria of these restricted share awards. Mr. Wilkin's holdings include 22,595 Common Shares indirectly purchased by Mr. Wilkin at various times in open-market and private transactions by Wilkin Capital Fund I, LLC, which is owned by an individual retirement account for the benefit of Mr. Wilkin. Mr. Wilkin disclaims beneficial ownership of 1,060 shares held by his children and which are excluded from the number of shares set forth in the table above. In October 2007, and in connection with the exercise of certain warrants to purchase shares of OCC, and separately in June 2016, Mr. Wilkin entered into loan agreements (as later amended and refinanced) and currently has 250,000 shares pledged as security for these loans, which total approximately $335,660. In addition to the purchase price paid for shares directly or indirectly purchased by him, as of January 25, 2019, Mr. Wilkin has paid approximately $880,000 in total to OCC or taxing authorities since fiscal year 2003 to retain vesting restricted shares of OCC, rather than exercising an option to "net vest" by surrendering shares (in lieu of paying cash) to satisfy required tax withholding amounts. These withholding tax amounts are based on the required federal income tax withholding rate (typically 22% - 25%) and do not include additional federal income taxes actually paid on such vesting shares. On January 31, 2019, Mr. Wilkin surrendered 70,743 shares of OCC (in lieu of paying cash) to satisfy required withholding tax obligations by "net vesting" in connection with the vesting of performance-based restricted shares.  Mr. Wilkin beneficially owned 939,257 shares of common stock as of February 22, 2019.  
+ (2)   Includes 124,582 shares of restricted stock still subject to vesting as of January 25, 2019. See the "Executive Officer Compensation" section of this proxy statement for a description of vesting criteria of these restricted share awards. Ms. Smith owns 3,250 Common Shares jointly with her husband, who shares voting and investment power as to those shares. Of the 3,250 Common Shares she owns jointly with her husband, 2,500 were acquired upon exercise of warrants (warrants purchased by Ms. Smith from third parties in arm's length transactions). On January 31, 2019, Ms. Smith surrendered 35,280 shares of OCC (in lieu of paying cash) to satisfy required withholding tax obligations by "net vesting" in connection with the vesting of performance-based restricted shares.  Ms. Smith beneficially owned 294,925 shares of common stock as of February 22, 2019.  
+ (3)   Mr. Frazier has pledged 59,561 of his Common Shares as security for a loan.  
+[END TABLE]
+[BEGIN TABLE]
+ (4)   The Common Shares owned by Mr. Nygren include 10,888 Common Shares purchased in open-market transactions at various times. All of Mr. Nygren's shares are held jointly with his wife, who shares voting and investment power as to those shares.  
+ (5)   Mr. Weber's holdings include 57,625 Common Shares which he purchased in open-market transactions at various times and 7,500 Common Shares which he acquired upon exercise of warrants (warrants purchased by Mr. Weber from third parties in arm's length transactions).  
+ (6)   Mr. Williamson owns 34,005 Common Shares jointly with his wife, who shares voting and investment power as to those shares. Of these 34,005 Common Shares, Mr. Williamson acquired 5,000 upon exercise of warrants (warrants purchased by Mr. Williamson in a private transaction), and Mr. Williamson purchased 26,943 in open-market transactions at various times.  
+ (7)   Dimensional Fund Advisors LP's address is Palisades West, Building One, 6300 Bee Cave Road, Austin, Texas 78746. Common Share ownership information reflected in the table is as of December 31, 2018 and is based on the Form SC 13G/A filed by Dimensional Fund Advisors LP with the SEC on February 8, 2019.   
+ (8)   R. Ted Weschler's address is 404B East Main Street, Charlottesville, Virginia 22902. Common Share ownership information reflected in the table is as of December 31, 2018 and is based on the Form SC 13G/A filed by R. Ted Weschler with the SEC on February 14, 2019.    
+ (8)   R. Ted Weschler's address is 404B East Main Street, Charlottesville, Virginia 22902. Common Share ownership information reflected in the table is as of December 31, 2018 and is based on the Form SC 13G/A filed by R. Ted Weschler with the SEC on February 14, 2019.    
+ (9)   David R. Goode is a strategic financial investor. Mr. Goode's address is 150 Main Street, Suite 1700, Norfolk, Virginia 23510. Common Share ownership information in the table is as of January 25, 2019, based on Company inquiry.  
+[END TABLE]
+As of January 25, 2019, employees of the Company and members of the Board of Directors owned approximately 38.2% of the shares issued and outstanding, including shares still subject to potential forfeiture based on vesting requirements.
+EXECUTIVE OFFICERS 
+The current executive officers of the Company are: Neil D. Wilkin, Jr., Chairman of the Board, President and Chief Executive Officer and Tracy G. Smith, Senior Vice President and Chief Financial Officer. Please see the "Election of Directors" section of this proxy statement for certain information concerning Mr. Wilkin.
+Tracy G. Smith, age 51, became the Senior Vice President and Chief Financial Officer on July 9, 2008. Prior to becoming Senior Vice President and Chief Financial Officer, Ms. Smith served as the Company's Vice President and Chief Financial Officer from September 16, 2003 through July 8, 2008. Prior to becoming Vice President and Chief Financial Officer, Ms. Smith served as the Company's Controller from May 1, 2002 through September 15, 2003. Ms. Smith was named Corporate Secretary of the Company effective June 22, 2004. Prior to joining the Company, Ms. Smith was the Corporate Controller for RBX Corporation. Ms. Smith is a CPA and has over 12 years of experience in public accounting with KPMG LLP. Ms. Smith left KPMG LLP in December of 2001. Ms. Smith holds a bachelor of science degree in business with a major in accounting from Virginia Polytechnic Institute and State University.
+There are no family relationships among the directors or executive officers of the Company.
+DIRECTOR COMPENSATION
+Overview
+The Company seeks to recruit and retain qualified non-employee Board members that are able to positively contribute to the success of the Company for the benefit of the Company's various stakeholders, the most important of which are its shareholders, but also includes the Company's customers, its employees, and the communities in which the Company operates.
+Non-employee directors of the Company receive cash and share-based compensation for their service to OCC. Share-based compensation is granted under the Company's 2017 Plan, and previously under predecessor plans.
+The Compensation Committee of the Board of Directors recommends annual compensation for non-employee Board members, administers the 2017 Plan and successor stock incentive plans, and administered the 2011 Plan, and other predecessor stock incentive plans. The Board approves compensation for non-employee Board members, typically each year after the annual meeting of shareholders, including stock award grants to non-employee directors.
+Share-based compensation is an important part of non-employee Board member compensation, since it aligns the financial interests of the members of the Board with the shareholders.
+The 2017 Plan permits various methods of providing share-based compensation to non-employee directors. The Compensation Committee and the Board prefer that share-based compensation for non-employee directors be in the form of stock awards. The Compensation Committee and the Board believe that the use of stock awards, rather than stock options (by way of example), tends to be less dilutive to shareholders and also may tend to result in a lower expense to the Company under current U.S. generally accepted accounting principles. Stock award grants require the non-employee directors to pay cash taxes on non-cash taxable income unlike stock options (by way of example), which also demonstrates a financial commitment by the non-employee directors.
+The Compensation Committee engages a compensation consultant to assist in establishing appropriate compensation levels for non-employee directors. Typically, such a compensation consultant is engaged every year.
+Methodology of Determining Non-Employee Director Compensation
+An outside compensation consultant with a nationally recognized firm was engaged by the Compensation Committee to make recommendations regarding appropriate compensation levels for non-employee directors for fiscal year 2018.
+Prior to the engagement of the compensation consultant, the Compensation Committee and the Company determined that no conflict of interest existed between the Company and its employees and the compensation consultant and its employees. The outside consultant is also engaged by the Company to assist with benefits administration related to the Company's 401(k) Plan and with the annual Directors and Officers Insurance renewal.
+The compensation consultant created a revenue-based peer group by considering similar-sized public companies, as well as considering industry and company type (i.e., manufacturing and/or technology companies), which was reviewed and approved by the Compensation Committee. In addition to revenue, other financial factors are considered in evaluating the appropriateness of the peer group including EBITDA, net income, market capitalization, and return on equity.
+The peer group contained 16 public companies in addition to OCC. The peer group used by the compensation consultant for recommendations regarding non-employee director compensation is the same peer group used by the compensation consultant for recommendations regarding executive compensation. The compensation consultant provided data regarding ranges of retainers for members of the Board and the committees, retainers for committee chairman, meeting fees, and share-based compensation.
+The compensation consultant also provided data to the Compensation Committee regarding an additional peer group (with 10 public companies in addition to OCC) for purposes of evaluating the appropriateness of the peer group selected for use for fiscal year 2018 and the recommendations made by the compensation consultant.
+The Compensation Committee decided to target non-employee Board member compensation for fiscal year 2018 at or about the 25th percentile of the revenue-based peer group recommended by the compensation consultant. Using this approach, the Compensation Committee decided on recommended non-employee director compensation.
+The Compensation Committee approved and recommended to the Board for consideration and approval, the dollar amount of the following for non-employee Board members:
+[BEGIN TABLE]
+● Annual cash retainer for Board membership, Audit Committee membership, Compensation Committee membership, and Nominating and Corporate Governance Committee membership.  
+● Cash fee per meeting for Board meetings, Audit Committee meetings, Compensation Committee meetings, and Nominating and Corporate Governance Committee meetings.  
+● Annual cash retainer for the chairman of the Audit Committee, the chairman of the Compensation Committee, and the chairman of the Nominating and Corporate Governance Committee.  
+● Dollar value of annual share-based compensation for Board membership.  
+[END TABLE]
+The Board of Directors approved the Compensation Committee's recommendations at the Board meeting immediately following the annual meeting of shareholders on March 27, 2018, at which point the non-director compensation was effective until the next annual meeting of shareholders.
+Share-based compensation to non-employee directors is issued in accordance with the Optical Cable Corporation Amended and Restated Policy for the Timing of Equity Compensation Grants Under Stock Incentive Plans, adopted by the Compensation Committee and approved by the Board on March 29, 2016 (the "Timing Policy"). Generally, the Timing Policy anticipates annual equity grants for non-employee directors to occur on or about the first business day of April.
+The actual number of Common Shares issued to a non-employee Board member is calculated by using the average closing price per share during the 20 trading dates immediately preceding April 1, divided by the dollar value of the share-based compensation to be received by the Board member. During fiscal year 2018, the Company granted stock awards on April 2, 2018 under the 2017 Plan. Common Shares issued to non-employee directors as a portion of their retainer for service on the Board vest over a one-year period.
+The Company has an Equity Ownership and Retention Policy for Non-Employee Directors. The policy is applicable to all non-employee members of the Company's Board. The intention of this policy is to ensure non-employee members of the Board have wealth at risk in the Company's Common Shares, further aligning the interests of the Board with those of the shareholders. A copy of the Equity Ownership and Retention Policy for Non-Employee Directors can be found on the Company's website at www.occfiber.com/investor-relations/ under "Corporate Governance".
+Compensation of Directors
+Each non-employee director was paid a retainer of $35,000 cash and 7,162 Common Shares in April 2018 as compensation for their service during the year. Members of the Audit Committee, the Compensation Committee, and the Nominating and Corporate Governance Committee of the Board of Directors of the Company were each paid an annual cash retainer of $3,500, $3,000 and $500, respectively. The Chairmen of the Audit Committee, the Compensation Committee, and the Nominating and Corporate Governance Committee were each paid an additional annual cash retainer of $7,500, $5,000, and $2,500, respectively, for their service as chairmen.
+Each non-employee director also was paid meeting fees for each Board meeting and committee meeting (of which he was a member) that he attended. Board members and committee members were paid $500 for each Board and nominating and corporate governance committee meeting and $1,000 for each audit committee and compensation committee meeting that he attended. Additionally, Board members attending committee meetings of which they are not members, at the request of the Chairman of the Board in order to increase efficiency of Board meetings, were paid $500 for their attendance at such meetings. The Company reimbursed the non-employee directors for their reasonable out-of-pocket expenses related to attending meetings of the Board of Directors or any of its committees. The Company does not provide pensions, medical benefits or other benefit programs to non-employee directors.
+The Chairman, President and Chief Executive Officer did not receive any compensation for his services as Director, but does receive compensation as an employee of the Company. No other employees of the Company are members of the Board of Directors.
+Non-Employee Director Compensation Table
+The following table details the total compensation earned by the Company's non-employee directors during the fiscal year ended October 31, 2018:
+[BEGIN TABLE]
+ Name     Retainers Paid  in Cash (1)       Meeting Fees Paid in Cash (2)       Stock Awards ($) (3)       Total    
+ Name     Retainers Paid  in Cash (1)       Meeting Fees Paid in Cash (2)       Stock Awards ($) (3)       Total    
+ John A. Nygren      42,000       9,500       20,054       71,554   
+ Craig H. Weber      46,500       9,000       20,054       75,554   
+ John B. Williamson, III      49,000       9,000       20,054       78,054   
+[END TABLE]
+[BEGIN TABLE]
+ (1)  Includes retainers for board and committee memberships and committee chairmanships as described above.  
+ (2)  Board and committee meeting fees as described above.   
+ (3)  Amounts represent the fair value on the grant date of April 2, 2018 determined in accordance with FASB ASC Topic 718.  Number of Common Shares issued as compensation based on restricted stock grant of $20,000.  Directors are responsible for paying income taxes on non-cash share-based compensation.  
+[END TABLE]
+EXECUTIVE COMPENSATION
+Overview
+The Company seeks to recruit and retain qualified executives and employees that are able to positively contribute to the success of the Company for the benefit of the Company's various stakeholders, the most important of which are its shareholders, but also including the Company's customers, its employees, and the communities in which the Company operates.
+OCC's executive compensation program is intended to align the financial interests of OCC's executives with the interests of our shareholders by rewarding short-term and long-term performance that meets or exceeds the goals and budgets established with the objective of increasing long-term shareholder value.
+Consistent with our pay for performance philosophy, the total compensation received by our executive officers will vary based on corporate performance measured against annual and long-term performance goals. Our named executive officers' total compensation is comprised of a mix of base salary, annual cash incentive compensation, and long-term share-based incentive compensation.
+Share-based compensation is an important part of executive compensation, since it closely aligns the financial interests of the executives with the interests of our shareholders. Share-based compensation is granted under the 2017 Plan, was granted under the 2011 Plan for fiscal year 2017, and was previously granted under other predecessor stock incentive plans. Share-based incentive compensation includes primarily long-term performance-based vesting grants and has only consisted of long-term performance-based vesting grants for executives and employees since fiscal year 2017.
+The 2017 Plan and its predecessor, the 2011 Plan, permit various methods of providing share-based compensation to participants. The Compensation Committee prefers that share-based compensation for executives and other employees be in the form of restricted stock awards. The Compensation Committee believes that the use of restricted stock awards, rather than stock options (by way of example), tends to be less dilutive to shareholders and also may tend to result in a lower expense to the Company under current U.S. generally accepted accounting principles.
+When restricted stock award grants vest, participants incur a cash income tax withholding liability on non-cash taxable income (unlike stock options, by way of example). A participant can either "net vest" by surrendering a portion of the vesting Common Shares to cover his or her tax withholding liability or pay the tax withholding liability in cash to retain all of the vesting Common Shares, with the latter demonstrating an additional financial commitment by the participant.
+The Company is a "smaller reporting company" as defined by the U.S. Securities and Exchange Commission ("SEC"), and is therefore not required to provide, and does not purport to provide, all of the disclosures required for a "Compensation Discussion and Analysis" as set forth in rules promulgated by the SEC.
+Compensation Philosophy and Strategy 
+Compensation Committee Role
+The Compensation Committee of the Board of Directors reviews and approves all compensation for the President and Chief Executive Officer (the "CEO") and other named executive officers (currently only the Senior Vice President and Chief Financial Officer ("CFO")), including base salary, annual cash incentive compensation, and long-term share-based incentive compensation. The Compensation Committee administers the Company's stock incentive plans and approves all employee equity compensation granted under the 2017 Plan, its predecessor the 2011 Plan, and other predecessor stock incentive plans.
+The Compensation Committee also reviews recommendations of the CEO regarding compensation of other members of the senior leadership team of the Company (other than the named executive officers, which are currently the CEO and the CFO), and has such other duties as set forth in the charter of the Compensation Committee, approved by the Board and which can be found on the Company's website at www.occfiber.com/investor-relations/ under "Corporate Governance".
+The Compensation Committee engages a compensation consultant to assist in establishing appropriate compensation levels for executives. Typically, a compensation consultant is engaged every year.
+Compensation levels for executive officers are generally reviewed annually, but may be reviewed more often as deemed appropriate.
+Compensation Philosophy 
+The Company's Compensation Philosophy is used by the Compensation Committee in reviewing and approving executive compensation, and also applies to other members of the Company's leadership team, as well as to other employees (where appropriate).
+The Company's Compensation Philosophy is as follows:
+OCC's Compensation Philosophy are ideals used in creating appropriate compensation and performance-based reward opportunities for the Company's leadership team, as well as all other employees, and consists of the following five principles:
+[BEGIN TABLE]
+• Provide Competitive Compensation. OCC believes that competitive compensation is an integral component of its overall business and human resource strategies.  OCC's compensation plans are designed to be competitive and to promote the hiring and retention of highly qualified personnel necessary to execute OCC's strategies and achieve its objectives.  
+[END TABLE]
+[BEGIN TABLE]
+• Pay for Performance. OCC's compensation plans are designed to recognize and reward employees for both individual and group contributions and results relative to short-term and long-term goals and objectives.   
+[END TABLE]
+[BEGIN TABLE]
+• Focus on Long-Term Shareholder Value Creation. OCC believes that to build a truly great business, team members must focus on creating and executing strategies designed to create long-term shareholder value—in addition to achieving short-term performance. OCC's compensation plans are designed to have a meaningful portion of compensation based on the creation and execution of strategies intended to generate long-term shareholder value.  
+[END TABLE]
+[BEGIN TABLE]
+• Create Culture of Ownership. OCC believes that long-term share-based incentives, where appropriate, are an important component of compensation to retain key personnel and to directly align the financial interests of the team with the interests of shareholders. OCC's compensation plans are designed to provide the opportunity for leadership team members to earn a meaningful ownership interest in OCC. OCC has adopted an Equity Ownership and Retention Policy for Employees, consistent with this philosophy (see the Company's website at www.occfiber.com/investor-relations/ under "Corporate Governance").  
+[END TABLE]
+[BEGIN TABLE]
+• Create Fair Compensation Plans. The Company believes that it is important that the compensation plans are designed and administered in a consistent and fair manner to promote equal opportunities for all similarly situated employees.  
+[END TABLE]
+Compensation Strategy
+The Compensation Committee uses the Company's Compensation Strategy to implement the Company's five principles of OCC's Compensation Philosophy when reviewing and approving executive compensation. OCC also uses the Compensation Strategy to implement the OCC Compensation Philosophy in connection with compensation decisions for other members of the Company's leadership team, as well as to other employees (as appropriate).
+The Company's Compensation Strategy is as follows:
+OCC's Compensation Strategy is a guideline to be used to implement the five principles of OCC's Compensation Philosophy.
+[BEGIN TABLE]
+• OCC will periodically use third party consultants and available databases as appropriate to review general and industry-specific compensation ranges for various positions, and to review compensation practices and appropriate benefit offerings in order to provide appropriate and competitive compensation to OCC's employees.  
+• Generally, compensation for each position will be established within the range of compensation for similar positions in similarly situated companies. The Company's organization size (in terms of revenue and other financial factors as appropriate), type of operation, and complexity will be taken into account, and therefore similarly situated companies includes companies of similar size, type of operation, and complexity whether or not such companies are in OCC's industry.  
+• As a pay-for-performance company, OCC will consider individual performance, team performance, and the performance of the Company, as appropriate, when making any decisions regarding changes in compensation.  
+• OCC will consider an individual's scope of responsibilities, and his or her knowledge and experience (including industry specific knowledge and experience), to the extent such knowledge and experience contributes to OCC's ability to achieve its business objectives, when making decisions regarding compensation.  
+• OCC will provide appropriate annual short-term bonus opportunities for employees, so individual employees are rewarded for the positive individual and group contributions to OCC's success for the benefit of the Company's stakeholders, including shareholders.  
+• Selective granting of share-based compensation to leadership team members and certain other employees aligning employees' financial interests with the long-term interests of OCC's shareholders.  
+• Generally, long-term share-based compensation will contain primarily performance-based vesting to encourage long-term performance and employee retention.  
+• Generally, OCC prefers that share-based compensation be in the form of restricted stock awards for employees. OCC believes restricted stock awards tend to be less dilutive to shareholders (compared to stock options, for example) and may tend to have less impact on the Company's income statement under U.S. generally accepted accounting principles (compared to stock options, for example).  
+• Generally, performance-based compensation (annual short-term and share-based long-term) will make up a larger percentage of total compensation for employees with a broader scope of responsibilities and/or the ability to significantly impact the financial and/or operational success of the Company.    
+[END TABLE]
+[BEGIN TABLE]
+• Performance award opportunities will increase or decrease in unison with short- and long-term individual and corporate results.  
+• OCC considers all elements of compensation (base salary, annual short-term performance incentives, long-term share-based incentives and benefits) in total when determining the appropriate level of compensation.  
+• OCC considers the impact and fairness on OCC's entry level and front-line employees when establishing pay ranges for such positions, and when establishing benefits for all employees.  
+• OCC's leadership team, working with OCC's human resources team, is responsible for ensuring that OCC's compensation and benefit plans are administered fairly and consistently, providing equal opportunities for employees.  
+[END TABLE]
+Say on Pay Results and Considerations 
+The Company provides its shareholders the opportunity to cast an annual non-binding advisory vote on executive compensation (a "say-on-pay proposal"). The Company and the Company's Compensation Committee consider the outcome of the Company's say-on-pay proposal when making future compensation decisions for the executive officers of the Company.
+In connection with the Company's 2018 annual meeting of shareholders, the proposal to approve the executive compensation of the Company's executive officers named in the Company's proxy statement dated March 27, 2018 received 4,093,759 votes in favor, or 89.5% of votes cast (including abstentions and excluding broker non-votes). Although these votes are advisory (and therefore not binding on the Company), the Company and the Compensation Committee carefully review these results each year and consider them, along with other communications from shareholders relating to our compensation practices, in making future compensation decisions for executive officers of the Company.
+Say When on Pay Considerations 
+The Company provides its shareholders the opportunity to cast a non-binding advisory vote once every six years on the frequency of future advisory votes on named executive compensation (a "say-when-on-pay proposal"). The Company and the Company's Compensation Committee consider the outcome of the Company's say-when-on-pay proposal when making future decisions regarding the frequency of future advisory votes on compensation for the executive officers of the Company.
+Criteria for Compensation Levels
+OCC has always sought to attract and retain qualified executives and employees able to positively contribute to the success of the Company for the benefit of its various stakeholders, most importantly shareholders. OCC uses the five principles of OCC's Compensation Philosophy and the guidelines set forth in OCC's Compensation Strategy to accomplish this goal.
+The Compensation Committee reviews and approves OCC's Compensation Philosophy and Compensation Strategy set forth above.
+The Compensation Committee uses the five principles of OCC's Compensation Philosophy and the guidelines set forth in OCC's Compensation Strategy, in establishing compensation levels for the Company's named executive officers (the President and Chief Executive Officer, and the Senior Vice President and Chief Financial Officer), and when administering the Company's stock incentive plans.
+The Compensation Committee in establishing compensation levels for the CEO and the CFO, and the Company in establishing compensation levels for other members of the leadership team, considers many factors, including, but not limited to: (i) the individual's abilities and performance that advance the Company's annual and long-term goals, execution of the Company's business strategies, contributions to positive financial results, and contributions to the development of the management team and other employees, (ii) performance in his or her areas of responsibility, such as design and development of strategies to create long-term shareholder value, sales and business development, product development, efficient management of operations and systems, implementation of appropriate changes and improvements to operations and systems, personnel management, financial management, and strategic decision making, (iii) experience of the individual in his or her area of expertise, and (iv) competitiveness of compensation relative to the same or a similar position at similarly situated companies in terms of size and complexity, both inside and outside of the fiber optic and copper cabling and connectivity industries.
+Compensation levels for executive officers and other members of the leadership team are generally reviewed annually, but may be reviewed anytime deemed appropriate.
+Methodology of Determining Executive Compensation
+An outside compensation consultant with a nationally recognized firm was engaged by the Compensation Committee to compile and analyze data and to advise the Compensation Committee regarding appropriate compensation levels for the Company's named executive officers, namely, the President and Chief Executive Officer, and the Senior Vice President and Chief Financial Officer for fiscal year 2018.
+Prior to the engagement of the compensation consultant, the Compensation Committee and the Company determined that no conflict of interest existed between the Company and its employees and the compensation consultant and its employees. The outside consultant is also engaged by the Company to assist with benefits administration related to the Company's 401(k) Plan and with the annual Directors and Officers Insurance renewal.
+The compensation consultant created a revenue-based peer group by considering similar-sized public companies, as well as considering industry and company type (i.e., manufacturing and/or technology companies). The Compensation Committee reviewed and approved the peer group. In addition to revenue, other financial factors are considered in evaluating the appropriateness of the peer group including EBITDA, net income, market capitalization, and return on equity.
+In creating the recommended peer group, the compensation consultant researched public companies in the technology and/or manufacturing industries with a revenue range approximately one-half to two times the revenue of the Company. The compensation consultant provided various comparison financial data regarding each company included in the recommended peer group, including revenue, EBITDA, net income, market capitalization, and return on equity, as well as statistical summary data for each measure.
+The peer group contained 16 public companies in addition to OCC. The peer group used by the compensation consultant for recommendations regarding executive compensation is the same peer group used by the compensation consultant for recommendations regarding non-employee director compensation.
+The compensation consultant also provided data to the Compensation Committee regarding an additional peer group (with 10 public companies in addition to OCC) for purposes of evaluating the appropriateness of the peer group selected for use for fiscal year 2018 and the recommendations made by the compensation consultant.
+The compensation consultant also provided the Compensation Committee with compensation data using published survey data, which uses databases that include both public and non-public companies, for similar-sized manufacturing companies.
+The compensation consultant provided data regarding ranges of base salary, annual short-term incentive compensation (amounts paid and target awards), and long-term equity incentive compensation, for each of the executive officers.
+The compensation consultant also provided similar data and analysis regarding compensation for all members of OCC's leadership team. The CEO uses this data in establishing compensation levels for members of the senior leadership team. The Compensation Committee reviewed data and advised the CEO regarding compensation for the senior members of the leadership team (the CEO's direct reports), other than the CFO, whose compensation is set by the Compensation Committee.
+The Compensation Committee decided to target executive compensation for fiscal year 2018 within a range approximately between the 25th and the 50th percentile of the revenue-based peer group recommended by the compensation consultant.
+The Compensation Committee also reviewed data and recommendations of the compensation consultant regarding vesting periods and mix (performance-based vesting and time-based vesting) of long-term share-based compensation.
+Using this approach, the Compensation Committee decided on executive compensation levels for the year, including base salary, annual short-term incentive opportunity, and long-term share-based compensation.
+The CEO used a similar approach to decide on compensation levels for the year for other members of the leadership team (other than the CEO and CFO), using published survey data as recommended and provided by the compensation consultant.
+Share-based compensation to executives is issued in accordance with the Optical Cable Corporation Amended and Restated Policy for the Timing of Equity Compensation Grants Under Stock Incentive Plans, adopted by the Compensation Committee and approved by the Board on March 29, 2016. Generally, the Timing Policy anticipates annual equity grants for executives to occur on or about the first business day after January 15 of each year.
+The actual number of Common Shares issued to an executive is calculated by using the average closing price per share during the 20 trading dates immediately preceding the first business day after January 15, divided by the dollar value of the share-based compensation to be received by the executive. During fiscal year 2018, the Company granted stock awards to certain employees on January 29, 2018 under the 2017 Plan.
+The Company has an Equity Ownership and Retention Policy for Employees. The policy is applicable to all employees receiving share-based compensation.  The intention of this policy is to ensure members of the leadership team, and other employees receiving share-based compensation have wealth at risk in the Company's Common Shares, further aligning the interests of the employees with those of the shareholders.  A copy of the Equity Ownership and Retention Policy for Employees can be found on the Company's website at www.occfiber.com/investor-relations/ under "Corporate Governance".
+Compensation of Executive Officers 
+Executive officer compensation for fiscal year 2018 was comprised of three components: base salary, annual short-term incentive compensation opportunity, and long-term share-based compensation pursuant to the terms of the 2017 Plan. OCC's fiscal year 2018 was November 1, 2017 to October 31, 2018.
+Base Salary
+Mr. Wilkin's annual base salary during fiscal year 2018 was $442,000, an annual base salary rate effective since December 16, 2014. During the period from September 1, 2015 through October 31, 2016, Mr. Wilkin voluntarily reduced his annual base salary to $410,000, a decrease of 7.24% from his base salary of $442,000. This pay reduction was voluntary, did not amend Mr. Wilkin's employment agreement, and could be prospectively reversed by Mr. Wilkin at his discretion. The pay reduction was ultimately reversed by Mr. Wilkin at the request of the Compensation Committee, effective November 1, 2016.
+Ms. Smith's annual base salary during fiscal year 2018 was $280,000, an annual base salary rate effective since March 1, 2017.
+Annual Short-term Incentive Opportunity
+The Compensation Committee together with the CEO (other than for himself and the CFO), each year establish a Senior Leadership Team Annual Bonus Criteria (the "SLT ABC") for the members of the senior leadership team.  The SLT ABC for fiscal year 2018 set forth quantitative corporate and team goals based on consolidated sales and EBITDA, as well as other goals based on certain team members' areas of responsibility, and a return on equity target for the CEO.  Payment of any compensation under the SLT ABC is subject to a minimum financial performance trigger, and achievement of certain levels of financial performance for the goals established.  Compensation earned is levered up or down based on performance relative to the quantitative corporate and team goals, and qualitative goals compared to the bonus criteria.
+The quantitative corporate and team goals are established by the Compensation Committee based on the annual budget approved by the Board of Directors. The Board tends to set what it considers to be stretch goals in the budget for purposes of a member of the leadership team earning his or her target annual short-term incentive compensation.
+Mr. Wilkin's annual short-term incentive bonus opportunity for fiscal year 2018 under the SLT ABC was 75% of his base salary as of October 31, 2018. Of the total amount of Mr. Wilkin's bonus opportunity, 60% was based on an EBITDA goal, 30% was based on a consolidated net sales goal, and 10% was based on return on equity. Mr. Wilkin's employment agreement sets his annual bonus opportunity target at 100% of annual base salary. Mr. Wilkin voluntarily offered and agreed to an annual bonus target percentage for fiscal year 2018 that is less than the annual bonus target set forth in his employment agreement, but this was not intended to, and did not, amend or modify his employment agreement. Mr. Wilkin's annual bonus opportunity target remains at 100% of annual base salary for all purposes under his employment agreement.
+Based on the Company's performance and that of Ms. Smith, a short-term incentive bonus in the amount of $357,871 was paid to Mr. Wilkin for fiscal year 2018.
+Ms. Smith's annual short-term incentive bonus opportunity for fiscal year 2018 under the SLT ABC was 55% of her base salary as of October 31, 2018. Of the total amount of Ms. Smith's bonus opportunity, 60% was based on an EBITDA goal, 30% was based on a consolidated net sales goal, and 10% was based on her individual performance.
+Based on the Company's performance, a short-term incentive bonus in the amount of $164,450 was paid to Ms. Smith for fiscal year 2018.
+Long-term Equity Incentive Compensation 
+The Compensation Committee each year considers long-term equity incentive grants under the 2017 Plan (or predecessor stock incentive plans) based on recommendations by the compensation consultant. The Compensation Committee designs share-based compensation to align the financial interests of the leadership team with the interests of the shareholders and to attract and retain key employees. Share-based compensation may be a mix of performance-based vesting and time-based vesting compensation. All share-based compensation in fiscal years 2018 and 2017 was performance-based vesting compensation.
+The Compensation Committee sets a dollar amount of long-term equity incentive compensation for each executive. The actual number of Common Shares issued to a participant is calculated by using the average closing price per share during the 20 trading dates immediately preceding the first business day after January 15, divided by the dollar value of the share-based compensation to be received by the executive.
+In fiscal year 2018, Mr. Wilkin was granted a restricted stock award of 120,232 Common Shares based on a $290,000 amount of long-term equity compensation under the 2017 Plan, and Ms. Smith was granted a restricted stock award of 51,824 Common Shares based on a $125,000 amount of long-term equity compensation under the 2017 Plan, with all such shares being subject to performance-based vesting over almost five years.
+In fiscal year 2017, Mr. Wilkin was granted a restricted stock award of 92,964 Common Shares based on a $290,000 amount of long-term equity compensation under the 2011 Plan, and Ms. Smith was granted a restricted stock award of 40,071 Common Shares based on a $125,000 amount of long-term equity compensation under the 2011 Plan, with all such shares being subject to performance-based vesting over almost five years.
+Summary Compensation Table 
+The following table sets forth information concerning compensation paid by the Company to the Chief Executive Officer and to all other named executive officers of the Company whose total salary and bonus exceeded $100,000 for the fiscal year ended October 31, 2018.
+For purposes of this table and subsequent tables, fiscal year 2018 means November 1, 2017 through October 31, 2018 and fiscal year 2017 means November 1, 2016 through October 31, 2017.
+Summary Compensation Table
+[BEGIN TABLE]
+ Name and Principal Position     Fiscal Years     Annual  Salary ($)       Annual  Bonus ($)       Restricted Share  Awards ($)(1)       All Other  Compensation ($)(2)       Total ($)    
+ Name and Principal Position     Fiscal Years     Annual  Salary ($)       Annual  Bonus ($)       Restricted Share  Awards ($)(1)       All Other  Compensation ($)(2)       Total ($)    
+ Chairman of the Board,     2017    $ 442,000     $ —     $ 320,726     $ 17,743     $ 780,469   
+ President and Chief Executive Officer                                              
+ Tracy G. Smith     2018    $ 280,000     $ 164,450     $ 129,560     $ 18,300     $ 592,310   
+ Senior Vice President and     2017    $ 276,667     $ —     $ 138,245     $ 17,287     $ 432,199   
+ Chief Financial Officer                                              
+[END TABLE]
+[BEGIN TABLE]
+ (1)   These amounts represent the aggregate grant date fair value.   
+[END TABLE]
+[BEGIN TABLE]
+ (2)   These amounts represent insurance premiums and medical benefits paid or accrued by the Company on behalf of the individual executive officers and the Company's paid or accrued contributions to the Company's 401(k) retirement savings plan on behalf of the individual executive officers during the fiscal year.  
+ (3)   Mr. Wilkin paid to OCC over $17,000 and $14,000, respectively, in cash withholding taxes related to restricted shares vesting during fiscal years 2018 and 2017 to retain vesting restricted shares of OCC, rather than exercising a "net vesting" option to surrender shares (in lieu of paying cash) to satisfy required tax withholding amounts. The withholding tax amount paid in fiscal years 2018 and 2017 is based on a 22% and a 25% federal income tax withholding rate, respectively, and does not include additional federal income taxes actually paid on non-cash income from vesting shares.  
+[END TABLE]
+Stock Option Grants 
+The Company has not granted any stock options since June 2002. All unexercised option contracts issued by the Company expired in fiscal year 2012.
+Outstanding Equity Awards Table at Fiscal Year End
+The following table provides information concerning unvested restricted shares of the Company's Common Shares held by the named executive officers of the Company as of October 31, 2018:
+[BEGIN TABLE]
+     Stock Awards    
+ Name     Number of Shares  of Stock That Have Not Vested       Market Value of Shares  of Stock That Have Not  Vested (1)    
+ Name     Number of Shares  of Stock That Have Not Vested       Market Value of Shares  of Stock That Have Not  Vested (1)    
+ Name     Number of Shares  of Stock That Have Not Vested       Market Value of Shares  of Stock That Have Not  Vested (1)    
+[END TABLE]
+[BEGIN TABLE]
+ (1)   The market value of the stock awards is based on the closing market price of the Company's Common Shares as of October 31, 2018, which was $4.75.  
+[END TABLE]
+Stock Option Exercises
+All unexercised option contracts issued by the Company expired in fiscal year 2012.
+Summary of Equity Compensation Plans
+A summary of OCC's equity compensation plan as of October 31, 2018 follows:
+[BEGIN TABLE]
+     (a)         (b)       (c)      
+ Plan Category     Number of securities to be issued upon exercise of outstanding options, warrants and rights (1)         Weighted-average exercise price of outstanding options, warrants and rights       Number of securities remaining available for future issuance under equity compensation plans (excluding securities reflected in column (a))      
+ Equity compensation plans:                              
+ Second Amended & Restated 2011 Stock Incentive Plan      529,619    shares    $ —       —    shares  
+ 2017 Stock Incentive Plan      498,083    shares    $ —       205,445    shares  
+ Total      1,027,702    shares    $ —       205,445    shares  
+[END TABLE]
+[BEGIN TABLE]
+ (1)   Includes restricted shares that are issued and outstanding, but have not yet vested and are subject to forfeiture. The Company had no outstanding options, warrants, stock appreciation rights or other incentive awards outstanding at October 31, 2018.  
+[END TABLE]
+The term "shares" in the table above means our Common Shares.
+Equity compensation for employees for fiscal year 2018 was granted under the 2017 Plan in January 2018. Equity compensation for non-employee directors for fiscal year 2018 was granted under the 2017 Plan in April 2018.
+The 2017 Plan is used for equity compensation awards for employees, non-employee directors and consultants.
+Equity Compensation Plan Information
+The Company uses long-term incentive equity grants to provide appropriate share-based incentives to key employees to accomplish the Company's strategic goals and build long-term shareholder value, to strengthen the desire of such key employees to remain with the Company, and to align the personal financial interests of such key employees with those of the Company's shareholders. The Compensation Committee believes that equity awards are particularly appropriate in light of the nature of the Company's business and long-term business plans.
+Long-term equity incentive grants are made pursuant to the 2017 Plan, and predecessor stock incentive plans. The Compensation Committee receives recommendations from the President and Chief Executive Officer for employees (other than the President and Chief Executive Officer and the other executive officer) eligible to receive long-term equity incentive grants. The Compensation Committee reviews the recommendations ensuring that proposed long-term equity incentive grants are consistent with accomplishing the Company's long-term objectives, and approves all long-term equity incentive grants made to employees (proposing and approving long-term equity incentive grants for the President and Chief Executive Officer and the other executive officer). Individual performance and Company performance are considered in awarding long-term incentive equity compensation. The Compensation Committee and the Board believe that the use of stock awards, rather than stock options (for example), tend to be less dilutive to shareholders and also may tend to result in a lower expense to the Company under current U.S. generally accepted accounting principles. No stock options have been awarded since June 2002.
+As of October 31, 2018, the Company had 205,445 shares which are available for grant as long-term incentive equity grants under the 2017 Plan.
+Effective March 29, 2016, the Compensation Committee of the Board of Directors approved and recommended to the Board, and the Board of Directors adopted, the Optical Cable Corporation Amended and Restated Policy for the Timing of Equity Compensation Grants Under Stock Incentive Plans. Generally, the Timing Policy anticipates annual equity grants for key employees to occur on or about the first business day after January 15. During fiscal year 2018, the Company granted restricted stock awards under the 2017 Plan, to certain employees on January 29, 2018.
+Equity Ownership and Retention Policy for the Leadership Team
+The Company has an Equity Ownership and Retention Policy for Employees. This policy is applicable to all employees receiving long-term equity incentive grants, including each of the named executive officers, certain other members of the Company's Leadership Team and certain other key employees. This policy requires each Leadership Team member holding a position of vice president or above to accumulate over a set period and retain a minimum value of Common Shares of the Company. For the President and Chief Executive Officer, the requirement is to acquire and hold common shares of Optical Cable Corporation with an aggregate fair market value of no less than five times his then current annual base salary and for the Chief Financial Officer, the requirement is to acquire and hold common shares of Optical Cable Corporation with an aggregate fair market value of no less than three times her then current annual base salary.
+This policy also requires all employees receiving long-term equity incentive grants, including each of the named executive officers, other members of the Leadership Team and certain other key employees, to retain minimum percentages of Common Shares of the Company awarded to them under any stock incentive plan. While employed by the Company in the capacity of the Chief Executive Officer or the Chief Financial Officer, he or she shall retain equity in the Company equal to 75% of all equity shares granted to the Chief Executive Officer or Chief Financial Officer pursuant to any equity incentive program of the Company until the minimum equity ownership requirement has been met and maintained. After the minimum equity ownership requirement has been met and maintained, the Chief Executive Officer or the Chief Financial Officer is required to retain at least 50% of all equity shares granted them pursuant to any equity incentive program of the Company.
+The intent of this policy is to ensure all employees receiving long-term equity incentive grants have wealth at risk in the Company's Common Shares, further aligning the interests of the management team and other employees receiving long-term equity incentive grants with those of the shareholders. A copy of the Equity Ownership and Retention Policy for Employees can be found on the Company's website at www.occfiber.com/investor-relations/ under "Corporate Governance".  The President and Chief Executive Officer and the Compensation Committee evaluate relative to current best practices, and may consider changing from time to time, which members of the leadership team and other employees will be eligible for future long-term incentive equity grants and be subject to the Equity Ownership and Retention Policy for Employees.
+Employment Agreements 
+Neil D. Wilkin, Jr. (Chairman of the Board, President and Chief Executive Officer) 
+Mr. Wilkin is employed pursuant to an amended and restated employment agreement dated as of April 11, 2011, further amended on December 18, 2012 and March 14, 2014, approved by the Compensation Committee. Under the terms of this employment agreement, Mr. Wilkin is paid an annual base salary, which may be increased periodically, and an annual bonus target equal to 100% of his annual base salary, which may be increased periodically. The bonus target was 75% for fiscal year 2018, without amending the terms of Mr. Wilkin's employment agreement for any purpose. The amount of the annual bonus target and the criteria for its award are set forth in the Company's senior leadership team annual bonus criteria. Mr. Wilkin's employment agreement also anticipates that he will participate in grants of long-term equity compensation awarded from time to time to senior executives pursuant to equity participation plans, including grants under the 2017 Plan and any successor stock incentive plans. The initial term of Mr. Wilkin's amended and restated employment agreement was set to end on October 31, 2014; however, the agreement is extended for one year on each November 1, beginning on November 1, 2012, unless the Company or Mr. Wilkin provides the other party with prior written notice of the intention to not renew and extend the agreement. As of November 1, 2018, the current term of Mr. Wilkin's amended and restated employment agreement shall end on October 31, 2021. Mr. Wilkin's employment agreement provides for severance compensation under certain circumstances, as described in the employment agreement.
+Tracy G. Smith (Senior Vice President and Chief Financial Officer) 
+Ms. Smith is employed pursuant to an amended and restated employment agreement, dated as of April 11, 2011, further amended on December 18, 2012 and March 14, 2014, proposed by the President and Chief Executive Officer and approved by the Compensation Committee. Under the terms of this employment agreement, Ms. Smith is paid an annual base salary, which may be increased periodically and an annual bonus target equal to 55% of her annual base salary, which may be increased periodically. The bonus target was 55% for fiscal year 2018. The amount of the annual bonus target and the criteria for its award are set forth in the Company's senior leadership team annual bonus criteria. Ms. Smith's employment agreement also anticipates that she will participate in grants of long-term equity compensation awarded from time to time to senior executives pursuant to equity participation plans, including grants under the 2017 Plan and any successor stock incentive plans. The initial term of Ms. Smith's amended and restated employment agreement was set to end on October 31, 2014; however, the agreement is renewed and extended for one year on each November 1, beginning on November 1, 2012, unless the Company or Ms. Smith provides the other party with prior written notice of the intention to not renew and extend the agreement. As of November 1, 2018, the current term of Ms. Smith's amended and restated employment agreement shall end on October 31, 2021. Ms. Smith's employment agreement provides for severance compensation under certain circumstances, as described in the employment agreement.
+Section 162(m) of the Internal Revenue Code
+The Company is subject to Section 162(m) of the Internal Revenue Code of 1986, as amended by the Tax Cuts and Jobs Act, which became effective as of January 1, 2018. Section 162(m) of the Internal Revenue Code of 1986, as amended, precludes the deductibility of a named executive officer's compensation that exceeds $1,000,000 per year. The Tax Cuts and Jobs Act modified Section 162(m) provisions, including the elimination of the "performance-based exception" that previously allowed certain performance-based compensation meeting specific requirements to qualify for full tax deductibility by the Company. As a result of the tax law changes, compensation paid to designated "covered executives", including current and former NEOs, in excess of $1,000,000 per individual will generally not be deductible, whether or not it is performance-based. Although the Compensation Committee has historically attempted to structure executive compensation to preserve deductibility, it also reserves the right to provide compensation that may not be fully deductible in order to maintain flexibility in compensating named executive officers in a manner consistent with our compensation philosophy, as deemed appropriate. The Compensation Committee believes that shareholder interests are best served by not restricting the Compensation Committee's discretion in this regard, even though such compensation may result in non-deductible compensation expenses to the Company.
+REPORT OF THE AUDIT COMMITTEE
+Messrs. Nygren, Weber and Williamson are members of the Audit Committee. Each of the members of the Audit Committee is considered independent under the listing standards of Nasdaq and under the SEC's audit committee independence standards. Mr. Williamson serves as Chairman of the Audit Committee.
+The Audit Committee operates under a written charter adopted by the Company's Board of Directors. A copy of the charter is available on the Company's website at http://www.occfiber.com/investor-relations/. The charter was last amended effective September 7, 2018. 
+Management is responsible for the Company's internal control over financial reporting and the financial reporting process and preparing the Company's consolidated financial statements. The Company's independent registered public accounting firm, Brown, Edwards & Company, L.L.P., is responsible for planning and performing an independent audit of the Company's consolidated financial statements in accordance with the standards of the Public Company Accounting Oversight Board (PCAOB), forming and expressing an opinion about whether the consolidated financial statements are presented fairly, in all material respects, in conformity with U.S. generally accepted accounting principles, and the issuance of their auditors' report thereon. The Audit Committee's responsibility is to monitor and oversee these processes.
+In this context, the Audit Committee has met and held discussions with management and the independent registered public accounting firm. Management represented to the Audit Committee that the Company's consolidated financial statements were prepared in accordance with U.S. generally accepted accounting principles, and the Audit Committee has reviewed and discussed the audited consolidated financial statements with management and the independent registered public accounting firm. The independent registered public accounting firm discussed with the Audit Committee matters required to be communicated by applicable auditing standards.
+These discussions included, among other things:
+[BEGIN TABLE]
+• the independent registered public accounting firm's judgments about the quality, not just the acceptability, of the Company's accounting principles as applied in the Company's consolidated financial statements;  
+[END TABLE]
+[BEGIN TABLE]
+• the critical accounting policies and practices used by the Company;  
+[END TABLE]
+[BEGIN TABLE]
+• any alternative treatments within U.S. generally accepted accounting principles for policies and practices related to material items that have been discussed with management, including ramifications of the use of such alternative disclosures and treatments and the treatment preferred by the independent registered public accounting firm;  
+• methods used to account for significant or unusual transactions;  
+• the effect of significant accounting policies in controversial or emerging areas for which there is a lack of authoritative guidance or consensus;  
+• the process used by management in formulating particularly sensitive accounting estimates and the basis for the firm's conclusions regarding the reasonableness of these estimates;  
+• any disagreements with management over the application of accounting principles, the basis for management's accounting estimates, and the disclosures in the consolidated financial statements;  
+• any audit adjustments and any uncorrected consolidated financial statement misstatements; and  
+• other material written communications between the independent registered public accounting firm and management.  
+[END TABLE]
+The independent registered public accounting firm also communicated to the Audit Committee in writing any relationships between the independent registered public accounting firm and the Company and persons in financial reporting oversight roles at the Company and provided confirmation of their independence with respect to the Company as required under PCAOB Rules and relevant professional and regulatory standards.
+The Company is required to comply with Section 404(a) of the Sarbanes-Oxley Act of 2002 ("Section 404(a)"). Section 404(a) requires: (i) the Company's management to state its responsibility for establishing and maintaining an adequate internal control structure and procedures for financial reporting, and (ii) the Company's management to assess at the end of each fiscal year the effectiveness of the Company's internal control structure and procedures for financial reporting.
+The Company's management team engaged its independent registered public accounting firm to assist with Section 404(a) compliance. Specifically, the independent registered public accounting firm performed testing of the effectiveness of certain key aspects of the Company's internal control structure and procedures for financial reporting. The Company's management team completed its required assessment of the Company's internal control structure and procedures for financial reporting as of October 31, 2018. The Audit Committee has been involved in the appropriate oversight of management's Section 404(a) compliance program.
+Based on the Audit Committee's discussion with management and the independent registered public accounting firm and the Audit Committee's review of the representation of management regarding the audited consolidated financial statements and of the report of the independent registered public accounting firm, the Audit Committee recommended to the Board of Directors, and the Board has approved, that the audited consolidated financial statements be included in the Company's Annual Report on Form 10-K for the fiscal year ended October 31, 2018, for filing with the Securities and Exchange Commission.
+Respectfully submitted,
+John B. Williamson, III,
+Chairman of the Audit Committee
+John A. Nygren,
+Member of the Audit Committee
+Craig H. Weber,
+Member of the Audit Committee
+INDEPENDENT REGISTERED PUBLIC ACCOUNTING FIRM
+Principal Accounting Fees
+The following table sets forth the amount of fees billed or expected to be billed for services rendered by Brown, Edwards & Company, L.L.P., the Company's independent registered public accounting firm, for the fiscal years ended October 31, 2018 and 2017:
+[BEGIN TABLE]
+     2018       2017    
+     Amount       Amount    
+ Audit fees (1)    $ 191,600     $ 174,777   
+ Audit related fees (2)     ─        3,070   
+ Tax fees (3)      18,084       20,197   
+ All other fees (4)      16,119       15,256   
+ Total fees    $ 225,803     $ 213,300   
+[END TABLE]
+[BEGIN TABLE]
+ (1)   Audit fees include annual financial statement audit and limited quarterly review services in 2018 and 2017.   
+ (2)   Audit related fees include issuance of consent for registration statement on Form S-8 in 2017.  
+ (3)   Tax fees include income tax provision review and federal tax return review in 2018 and 2017.  
+ (4)   All other fees include benefit plan audit and limited internal control test work.  
+[END TABLE]
+Audit Committee Pre-Approval of Audit and Permissible Non-audit Services of Independent Registered Public Accounting Firm
+As stated in the Audit Committee charter, the Audit Committee must pre-approve all audit and permitted non-audit services provided by the Company's independent registered public accounting firm. During fiscal year 2018, the Audit Committee pre-approved all of the services provided by Brown, Edwards & Company, L.L.P. The Audit Committee has considered the provisions of all non-audit services by Brown, Edwards & Company, L.L.P. and has determined that the services are compatible with maintaining Brown, Edwards & Company, L.L.P.'s independence.
+COMPLIANCE WITH SECTION 16(a) OF THE SECURITIES ACT OF 1934
+Section 16(a) of the Exchange Act requires the Company's executive officers, Directors and persons who own more than ten percent of a registered class of the Company's equity securities to file reports of ownership and changes in ownership with the Securities and Exchange Commission. Executive officers, Directors and greater than ten percent shareholders are required by the regulation to furnish the Company with copies of the Section 16(a) forms which they file.
+To the Company's knowledge, based solely on review of copies of reports furnished to the Company and written representations from executive officers and Directors regarding reports required to be filed during the fiscal year ended October 31, 2018, all Section 16(a) filing requirements applicable to the Company's executive officers and Directors were complied with by such persons, except that a Form 4 was filed late on one occasion for one of the Directors during fiscal year 2018. The Company has not been provided with copies of Section 16(a) forms for any greater than ten percent beneficial owners, nor has the Company otherwise been made aware of the existence of any greater than ten percent beneficial owners that existed during or as of the year ended October 31, 2018.
+CERTAIN RELATIONSHIPS AND RELATED TRANSACTIONS 
+During the year ended October 31, 2018, the Company incurred fees associated with consulting services provided by Mr. Holland, a member of the Company's Board of Directors, totaling $33,705 for various engineering projects. Additionally, during the fiscal year ended October 31, 2018, the Company sold certain items to Mr. Frazier, a member of the Company's Board of Directors, at fair market value and in arms-length transactions, in exchange for approximately $420.
+OTHER MATTERS
+The Board of Directors knows of no other business to be acted upon at the annual meeting or properly before the meeting other than those matters referred to in this proxy statement. If any other matters properly come before the annual meeting, it is the intention of the persons named in the enclosed proxy to vote the shares they represent in accordance with their best judgment.
+NOMINATIONS AND PROPOSALS BY SHAREHOLDERS FOR 2020 ANNUAL MEETING 
+The Company's bylaws, and in certain cases U.S. securities laws and the rules and regulations thereunder, including Rule 14a-8, prescribe the procedures that a shareholder must follow to nominate directors for election at an annual meeting or to bring other business before an annual meeting and if desired, to have such proposals included in the Company's proxy statement. The Chairman of the meeting may refuse to acknowledge the nomination of any person as a director or any other proposal by a shareholder not made in compliance with these procedures. In addition, no proposal will be included in any proxy statement of the Company unless the shareholder submitting a proposal to be included in the proxy statement follows the procedures outlined below. A copy of the bylaws may be obtained without charge, upon written request to Ms. Tracy G. Smith, Corporate Secretary, Optical Cable Corporation, 5290 Concourse Drive, Roanoke, Virginia 24019.
+Proposals for Inclusion in the Company's Proxy Statement
+Shareholder proposals to be included in the proxy statement for the Company's annual meeting of shareholders in 2020 must be received by Ms. Tracy G. Smith, Corporate Secretary, Optical Cable Corporation, 5290 Concourse Drive, Roanoke, Virginia 24019. Pursuant to Rule 14a-8 under the Securities Exchange Act, a shareholder must submit the proposal at least 120 days before the date of the anniversary of the Company's proxy statement for the previous year's annual meeting.
+Nominations and Proposals not Included in the Company's Proxy Statement but Intended to be Brought Before the Company's Annual Meeting
+Shareholder proposals not included in the proxy statement for the Company's annual meeting of shareholders in 2020 must be received by Ms. Tracy G. Smith, Corporate Secretary, Optical Cable Corporation, 5290 Concourse Drive, Roanoke, Virginia 24019. Pursuant to the Company's bylaws, shareholder proposals to be presented at the Company's 2020 annual meeting of shareholders must be received not less than 120 days nor more than 150 days before the date of the anniversary of the immediately preceding annual meeting of shareholders; provided, however, that if the date of the annual meeting is more than 30 days before or more than 60 days after such anniversary date, notice by the shareholder to be timely must be so delivered, or mailed and received, not later than the 120th day prior to such annual meeting or, if later, the 10th day following the day on which public disclosure of the date of such annual meeting was first made.
+ANNUAL REPORT 
+      A copy of the Company's annual report for the fiscal year ended October 31, 2018, including the financial statements and notes thereto, is being mailed to the shareholders of record along with this proxy statement and is also available on the Company's website at www.occfiber.com/investor-relations/ under "Proxy Materials". The annual report is not incorporated by reference in this proxy statement and is not considered to be part of the proxy material.
+FURTHER INFORMATION 
+The Company will provide without charge to each person from whom a proxy is solicited by the Board of Directors, upon the written request of any such person, a copy of the Company's annual report on Form 10-K, including the financial statements and notes thereto, required to be filed with the U.S. Securities and Exchange Commission pursuant to the Exchange Act for the Company's fiscal year ended October 31, 2018.  These materials are available on-line at www.occfiber.com/investor-relations/ under "Proxy Materials".  You may also call the Company toll free at 1-800-622-7711, e-mail the Company at investorrelations@occfiber.com or write to the Company at 5290 Concourse Drive, Roanoke, Virginia 24019, attention Tracy G. Smith, Corporate Secretary, to receive a free copy of the proxy materials.  Additionally, the Company's SEC filings are available to the public on the SEC Internet site (www.sec.gov). 
+Upon request, the Company will also furnish any other exhibit of the annual report on Form 10-K upon advance payment of reasonable out-of-pocket expenses of the Company related to the Company's furnishing of such exhibit. Requests for copies of any exhibit should be directed to the Company at its principal executive offices, 5290 Concourse Drive, Roanoke, Virginia 24019, attention Tracy G. Smith, Corporate Secretary. 
+[BEGIN TABLE]
+   By Order of the Board of Directors  
+   /s/ Tracy G. Smith  
+   Tracy G. Smith Corporate Secretary  
+   Tracy G. Smith Corporate Secretary  
+[END TABLE]
+Date: February 27, 2019
+OPTICAL CABLE CORPORATION 
+Proxy Solicited on Behalf of the Board of Directors of Optical Cable 
+Corporation for the Annual Meeting of Shareholders to be Held March 26, 2019 
+ NOTICE OF INTERNET AVAILABILITY OF PROXY MATERIAL AND VOTING: 
+The Notice of Meeting, proxy statement and proxy card are available at www.occfiber.com/investor-relations/ under "Proxy Materials".
+You may vote by one of the following methods:
+[BEGIN TABLE]
+   (1)   completing, signing and returning promptly the enclosed proxy in the envelope provided;  
+   (2)   going online to http://www.proxyvote.com, as appropriate, and following the online instructions; or  
+   (3)   in person if you so desire even if you have previously sent in your proxy or voted online.  
+[END TABLE]
+The method by which you vote last will be the vote the Company counts.
+If you intend to vote by using this proxy card, please sign, date and mail your proxy card in the envelope provided as soon as possible.
+The undersigned appoints Neil D. Wilkin, Jr. and Tracy G. Smith, or either of them, with full power of substitution, to attend the annual meeting of shareholders of Optical Cable Corporation (the "Company") on March 26, 2019, and at any adjournments thereof, and to vote all shares which the undersigned would be entitled to vote if personally present upon the following matters set forth in the Notice of Annual Meeting and proxy statement.
+[BEGIN TABLE]
+ 1.   Election of Directors      
+   ☐   FOR the SIX nominees listed below (except as marked to the contrary below)   ☐   WITHHOLD AUTHORITY to Vote for the SIX nominees listed below  
+   ☐   FOR the SIX nominees listed below (except as marked to the contrary below)   ☐   WITHHOLD AUTHORITY to Vote for the SIX nominees listed below  
+[END TABLE]
+[BEGIN TABLE]
+ 2.   To ratify the appointment of Brown, Edwards & Company, L.L.P. as the independent registered public accounting firm for the Company for fiscal year 2019.  
+   ☐   FOR this proposal   ☐   AGAINST this proposal   ☐   ABSTAIN  
+[END TABLE]
+[BEGIN TABLE]
+ 3.   Non-binding advisory vote to approve named executive officer compensation.  
+   ☐   FOR this proposal   ☐   AGAINST this proposal   ☐   ABSTAIN  
+[END TABLE]
+[BEGIN TABLE]
+ 4.   Non-binding advisory vote to approve the frequency of future advisory votes on named executive officer compensation.  
+   ☐   1 year   ☐   2 year   ☐   3 year   ☐   ABSTAIN  
+[END TABLE]
+[BEGIN TABLE]
+ 5.   In their discretion, upon such other business as may properly come before the meeting and any adjournments thereof.  
+[END TABLE]
+[BEGIN TABLE]
+   PLEASE DATE, SIGN AND RETURN PROXY PROMPTLY.  
+   Receipt of Notice of Annual Meeting and Proxy Statement is hereby acknowledged.  
+   Shareholder's Signature  
+   Joint Holder's Signature (if applicable)  
+   Date:                                                  
+   When properly executed, this proxy will be voted in the manner directed herein. If no direction is made, this proxy will be voted FOR the election of the nominees of the Board of Directors in the election of Directors, FOR proposal 2 above, FOR proposal 3 above, for 1 year frequency on proposal 4 above, and in accordance with the judgment of the person(s) voting the proxy upon such other matters properly coming before the meeting and any adjournments thereof. Please sign exactly as name(s) appear above.  
+[END TABLE]
+ 

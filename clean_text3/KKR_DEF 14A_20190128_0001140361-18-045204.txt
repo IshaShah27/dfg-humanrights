@@ -1,0 +1,145 @@
+
+[BEGIN TABLE]
+ Filed by the Registrant ☒   Filed by a Party other than the Registrant  o  
+[END TABLE]
+[BEGIN TABLE]
+ Payment of Filing Fee (Check the appropriate box):  
+ ☒   No fee required.  
+  o   Fee computed on table below per Exchange Act Rules 14a-6(i)(1) and 0-11.  
+     (1)   Title of each class of securities to which transaction applies:  
+     (2)   Aggregate number of securities to which transaction applies:  
+     (3)   Per unit price or other underlying value of transaction computed pursuant to Exchange Act Rule 0-11 (set forth the amount on which the filing fee is calculated and state how it was determined):  
+     (4)   Proposed maximum aggregate value of transaction:  
+     (5)   Total fee paid:  
+  o   Fee paid previously with preliminary materials.  
+  o   Check box if any part of the fee is offset as provided by Exchange Act Rule 0-11(a)(2) and identify the filing for which the offsetting fee was paid previously. Identify the previous filing by registration statement number, or the Form or Schedule and the date of its filing.  
+     (1)   Amount Previously Paid:  
+     (2)   Form, Schedule or Registration Statement No.:  
+     (3)   Filing Party:  
+     (4)   Date Filed:  
+[END TABLE]
+[BEGIN TABLE]
+     Sincerely,  
+     /s/ David J. Sorkin  
+     David J. Sorkin  
+     General Counsel and Secretary  
+[END TABLE]
+[BEGIN TABLE]
+  Page 
+RECORD DATE AND QUORUM REQUIREMENTS   1   
+VOTING PROCEDURES   2   
+QUESTIONS AND ANSWERS ABOUT THE SPECIAL MEETING AND VOTING   4   
+PROPOSAL 1: APPROVAL OF THE KKR & CO. INC. 2019 EQUITY INCENTIVE PLAN   7   
+SECURITY OWNERSHIP OF CERTAIN BENEFICIAL OWNERS AND MANAGEMENT   11   
+EXECUTIVE COMPENSATION   13   
+OTHER BUSINESS   28   
+STOCKHOLDER PROPOSALS FOR THE 2019 ANNUAL MEETING   28   
+HOUSEHOLDING OF PROXY MATERIALS   28   
+APPENDIX A: KKR & CO. INC. 2019 EQUITY INCENTIVE PLAN   A-1   
+[END TABLE]
+i          
+[BEGIN TABLE]
+  Class A Common Stock  Beneficially Owned(1) KKR Group  Partnership Units and  Class C Common Stock  Beneficially Owned(1)(2) Percentage of  Combined Class A  and Class C  Beneficial  Ownership(4) 
+Name(3) Number Percent Number Percent 
+KKR Holdings(5)   2,677       *   299,081,239     100.0%   35.8% 
+ValueAct Capital MFB Holdings, L.P.(6)   49,700,000     9.3%   —     —     5.9   
+FMR LLC(7)   33,735,482     6.3     —     —     4.0   
+Henry R. Kravis(5)(8)(9)   16,965,126     3.2     299,081,239     100.0     37.8   
+George R. Roberts(5)(8)(9)   12,858,598     2.4     299,081,239     100.0     37.3   
+Joseph Y. Bae   1,711,649       *   7,665,735     2.6     1.1   
+Scott C. Nuttall   1,639,936       *   10,851,555     3.6     1.5   
+Mary N. Dillon   481       *   —     —       * 
+David C. Drummond   32,339       *   —     —       * 
+Joseph A. Grundfest   66,955       *   —     —       * 
+John B. Hess   140,555       *   —     —       * 
+Xavier Niel   4,022       *   —     —       * 
+Patricia F. Russo   59,955       *   —     —       * 
+Thomas M. Schoewe   67,555       *   —     —       * 
+Robert W. Scully   121,955       *   —     —       * 
+William J. Janetschek   266,124       *   3,020,000     1.0       * 
+David J. Sorkin   321,407       *   3,093,593     1.0       * 
+Todd A. Fisher   1,711,302       *   7,968,035     2.7     1.2   
+Directors and executive officers as a group (14 persons)   29,586,814     5.5%   299,081,239     100.0%   39.3% 
+[END TABLE]
+       18
+[BEGIN TABLE]
+Name and Principal Position Year Salary  ($) Bonus  ($) Stock Awards  ($)(2) All Other  Compensation  ($)(3) Total  ($) 
+Henry R. Kravis Co-Chief Executive Officer  2017   300,000     —     44,650,000     68,484,271 (4)    113,434,271   
+2016   300,000     —     —     63,541,599     63,841,599   
+2015   300,000     —     —     51,994,055     52,294,055   
+George R. Roberts Co-Chief Executive Officer  2017   300,000     —     44,650,000     68,761,704 (5)    113,711,704   
+2016   300,000     —     —     63,637,400     63,937,400   
+2015   300,000     —     —     52,064,278     52,364,278   
+Joseph Y. Bae Co-President and Co-Chief Operating Officer  2017   300,000     7,385,000     121,302,000     14,919,102 (6)(7)    143,906,102   
+Scott C. Nuttall Co-President and Co-Chief Operating Officer  2017   300,000     7,385,000     121,302,000     15,364,186 (6)(7)(9)    144,351,186   
+William J. Janetschek Chief Financial Officer  2017   300,000     2,747,500 (1)    967,419     6,655,362 (6)    10,670,281   
+2016   300,000     2,455,000     7,813,846     5,196,063     15,764,909   
+2015   300,000     2,325,000     3,676,867     2,705,105     9,006,972   
+David J. Sorkin General Counsel  2017   300,000     2,747,500 (1)    967,419     3,389,709 (6)    7,404,628   
+2016   300,000     2,455,000     7,841,425     1,695,934     12,292,359   
+2015   300,000     2,390,000     3,676,867     1,396,629     7,763,496   
+Todd A. Fisher Chief Administrative Officer  2017   300,000     3,500,000     —     9,014,143 (6)(8)    12,814,143   
+2016   300,000     3,585,000     12,880,497     15,660,918     32,426,415   
+2015   300,000     3,485,000     3,600,328     10,622,133     18,007,461   
+[END TABLE]
+[BEGIN TABLE]
+Name Grant Date All Other  Stock Awards:  Number of  Shares of Stock  or Units  (#) Grant Date  Fair Value of  Stock and  Option Awards  ($)(4) 
+Henry R. Kravis 11/02/17   2,500,000 (1)  $    44,650,000   
+George R. Roberts 11/02/17   2,500,000 (1)  $ 44,650,000   
+Joseph Y. Bae 11/02/17   4,850,000 (1)  $ 84,972,000   
+11/02/17   4,000,000 (2)  $ 36,330,000   
+Scott C. Nuttall 11/02/17   4,850,000 (1)  $ 84,972,000   
+11/02/17   4,000,000 (2)  $ 36,330,000   
+William J. Janetschek 02/21/17   67,463 (3)  $ 967,419   
+David J. Sorkin 02/21/17   67,463 (3)  $ 967,419   
+Todd A. Fisher 02/21/17   117,173 (3)  $ — (5)  
+[END TABLE]
+  22
+[BEGIN TABLE]
+  Stock Awards  
+Name Number of Shares  or Units of Stock  that Have Not Vested  (#) Market Value of Shares  or Units of Stock  that Have Not Vested  ($)(1) 
+Henry R. Kravis   2,500,000 (2)  $ 52,650,000   
+George R. Roberts   2,500,000 (2)  $ 52,650,000   
+Joseph Y. Bae   10,341,659 (3)  $ 217,795,339   
+Scott C. Nuttall   10,546,390 (4)  $ 222,106,973   
+William J. Janetschek   619,545 (5)  $ 13,047,618   
+David J. Sorkin   620,926 (6)  $ 13,076,702   
+Todd A. Fisher   —     —   
+[END TABLE]
+[BEGIN TABLE]
+  Stock Awards  
+Name Number of Shares  Acquired on Vesting  (#)(1) Value Realized  on Vesting  ($)(2) 
+Henry R. Kravis   —     —   
+George R. Roberts   —     —   
+Joseph Y. Bae   496,626   $ 9,227,692   
+Scott C. Nuttall   567,267   $ 10,555,677   
+William J. Janetschek   215,750   $ 4,006,823   
+David J. Sorkin   215,960   $ 4,010,651   
+Todd A. Fisher   316,333   $ 5,887,351   
+[END TABLE]
+ 25
+[BEGIN TABLE]
+Name Fees Earned  or Paid in Cash  ($) Stock  Awards  ($)(1) Total  ($) 
+David C. Drummond   75,000     150,000     225,000   
+Joseph A. Grundfest   125,000     150,000     275,000   
+John B. Hess   75,000     150,000     225,000   
+Patricia F. Russo   75,000     150,000     225,000   
+Thomas M. Schoewe   100,000     150,000     250,000   
+Robert W. Scully   115,000     150,000     265,000   
+[END TABLE]
+[BEGIN TABLE]
+Name Grant Date(1) Stock  Awards  (#) Grant Date  Fair Value  ($)(2) Total Number of  Unvested Restricted  Equity Awards on  December 31, 2017  (#) 
+David C. Drummond 10/27/2017   7,372     150,000     7,372   
+Joseph A. Grundfest 10/27/2017   7,372     150,000     7,372   
+John B. Hess 10/27/2017   7,372     150,000     7,372   
+Patricia F. Russo 10/27/2017   7,372     150,000     7,372   
+Thomas M. Schoewe 10/27/2017   7,372     150,000     7,372   
+Robert W. Scully 10/27/2017   7,372     150,000     7,372   
+[END TABLE]
+[BEGIN TABLE]
+  Number of  Securities to be  Issued Upon Exercise  of Outstanding  Options, Warrants  and Rights(1) Weighted-Average  Exercise Price  of Outstanding  Options, Warrants  and Rights Number of  Securities Remaining  Available for Future  Issuance Under Equity  Compensation Plans  (excluding securities  reflected in the first  column)(2) 
+Equity Compensation Plans Approved by Security Holders   51,475,176     —     27,313,068   
+Equity Compensation Plans Not Approved by Security Holders   —     —     —   
+Total   51,475,176     —     27,313,068   
+[END TABLE]
+  A- A- A- A- A- A- A- A-  

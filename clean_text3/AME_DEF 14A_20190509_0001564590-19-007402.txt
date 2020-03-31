@@ -1,0 +1,948 @@
+ 
+SCHEDULE 14A INFORMATION
+Proxy Statement Pursuant to Section 14(a) of the
+Securities Exchange Act of 1934
+(Amendment No.     )
+Filed by the Registrant  ☒                             Filed by a Party other than the Registrant  ☐
+Check the appropriate box:
+[BEGIN TABLE]
+ ☐     Preliminary Proxy Statement 
+ ☐     Confidential, for Use of the Commission Only (as permitted by Rule 14a-6(e)(2)) 
+ ☒     Definitive Proxy Statement 
+ ☐     Definitive Additional Materials 
+ ☐     Soliciting Material Pursuant to § 240.14a-12 
+[END TABLE]
+AMETEK, Inc.
+(Name of Registrant as Specified In Its Charter)
+(Name of Person(s) Filing Proxy Statement, if other than the Registrant)
+Payment of Filing Fee (Check the appropriate box):
+[BEGIN TABLE]
+ ☒     No fee required. 
+ ☐     $125 per Exchange Act Rules 0-11(c)(1)(ii), 14a-6(i)(1), 14a-6(i)(2) or Item 22(a)(2) of Schedule 14A. 
+ ☐     Fee computed on table below per Exchange Act Rules 14a-6(i)(4) and 0-11. 
+       (1)     Title of each class of securities to which transaction applies:       
+       (1)     Title of each class of securities to which transaction applies:       
+       (2)     Aggregate number of securities to which transaction applies:       
+       (3)     Per unit price or other underlying value of transaction computed pursuant to Exchange Act Rule 0-11 (Set forth the amount on which the filing fee is calculated and state how it was determined):       
+       (4)     Proposed maximum aggregate value of transaction:       
+       (5)     Total fee paid:       
+ ☐     Fee paid previously with preliminary materials 
+ ☐     Check box if any part of the fee is offset as provided by Exchange Act Rule 0-11 (a)(2) and identify the filing for which the offsetting fee was paid previously. Identify the previous filing by registration statement number, or the Form or Schedule and the date of its filing. 
+       (1)     Amount Previously Paid:       
+       (1)     Amount Previously Paid:       
+       (2)     Form, Schedule or Registration Statement No.:       
+       (3)     Filing Party:       
+       (4)     Date Filed:       
+[END TABLE]
+Notice of 2019
+Annual Meeting of Stockholders
+Proxy Statement
+NOTICE OF ANNUAL MEETING OF STOCKHOLDERS
+Thursday, May 9, 2019
+11:00 a.m. Eastern Daylight Time
+JW Marriott Essex House
+160 Central Park South
+New York, NY 10019
+Dear Fellow Stockholder:
+On behalf of the Board of Directors, it is my pleasure to invite you to attend the 2019 Annual Meeting of Stockholders of AMETEK, Inc. At the meeting, you will be asked to:
+[BEGIN TABLE]
+    1.  Elect three Directors for a term of three years; 
+    2.  Approve an amendment to our Amended and Restated Certificate of Incorporation to affirm a majority voting standard for uncontested elections of Directors; 
+    3.  Cast an advisory vote to approve the compensation of our named executive officers; 
+    4.  Ratify the appointment of Ernst & Young LLP as our independent registered public accounting firm for 2019; and 
+    5.  Transact any other business properly brought before the meeting. 
+[END TABLE]
+Only stockholders of record at the close of business on March 11, 2019 will be entitled to vote at the meeting. Your vote is important. You can vote in one of four ways: (1) via the Internet, (2) by telephone using a toll-free number, (3) by marking, signing and dating your proxy card, and returning it promptly in the enclosed envelope, or (4) by casting your vote in person at the meeting. Please refer to your proxy card for specific proxy voting instructions.
+We have enclosed and posted on our website with this proxy statement our Annual Report on Form 10-K for the fiscal year ended December 31, 2018.
+We hope that you take advantage of the convenience and cost savings of voting by computer or by telephone. A sizable electronic response would significantly reduce return-postage fees.
+Whether you expect to attend the meeting or not, we urge you to vote your shares via the Internet, by telephone or by mailing your proxy as soon as possible. Submitting your proxy now will not prevent you from voting your stock at the meeting if you want to, as your proxy is revocable at your option. We appreciate your interest in AMETEK.
+Sincerely,
+[BEGIN TABLE]
+ David A. Zapico 
+ Chairman and Chief Executive Officer 
+[END TABLE]
+Berwyn, Pennsylvania
+Dated: March 13, 2019
+IMPORTANT NOTICE REGARDING THE AVAILABILITY OF PROXY MATERIALS FOR THE
+ANNUAL MEETING OF STOCKHOLDERS TO BE HELD ON MAY 9, 2019
+Our Notice of 2019 Annual Meeting of Stockholders and Proxy Statement are available at: http://www.ametek.com/2019proxy
+Principal executive offices
+1100 Cassatt Road
+Berwyn, Pennsylvania 19312-1177
+PROXY STATEMENT
+We are mailing this proxy statement and proxy card to our stockholders of record as of March 11, 2019 on or about March 13, 2019. The Board of Directors is soliciting proxies in connection with the election of Directors and other actions to be taken at the meeting and at any adjournment or postponement of the meeting. The Board of Directors encourages you to read this proxy statement and to vote on the matters to be considered at the meeting.
+TABLE OF CONTENTS
+[BEGIN TABLE]
+       Page 
+ Proxy Summary     1 
+ Voting Procedures     3 
+ Corporate Governance     4 
+ Stockholder Proposals and Director Nominations for the 2020 Annual Meeting     12 
+ Report of the Audit Committee     13 
+ Election of Directors (Proposal 1 on Proxy Card)     14 
+ Approve an Amendment to our Amended and Restated Certificate of Incorporation (Proposal 2  on Proxy Card)     14 
+ Approve an Amendment to our Amended and Restated Certificate of Incorporation (Proposal 2  on Proxy Card)     14 
+ Advisory Approval of the Company's Executive Compensation (Proposal 3 on Proxy Card)     15 
+ Ratification of Appointment of Independent Registered Public Accounting Firm (Proposal 4 on Proxy Card)     16 
+ The Board of Directors     18 
+ Executive Officers     21 
+ Executive Compensation:       
+ Compensation Discussion and Analysis     22 
+ Report of the Compensation Committee     31 
+ Compensation Tables     32 
+ Potential Payments Upon Termination or Change of Control     41 
+ Stock Ownership of Executive Officers and Directors     45 
+ Beneficial Ownership of Principal Stockholders     46 
+ Compliance with Section 16(a) of the Securities Exchange Act of 1934     46 
+ Other Business     47 
+ Multiple Stockholders Sharing the Same Address     47 
+ Electronic Distribution of Proxy Statements and Annual Reports     47 
+ Appendix A: Proposed Amendment to our Certificate of Incorporation     A-1 
+[END TABLE]
+PROXY SUMMARY
+This summary highlights information contained elsewhere in this proxy statement.  This summary does not contain all of the information you should consider, and you should read the entire proxy statement before voting. 
+VOTING MATTERS
+[BEGIN TABLE]
+   Proposals for Voting   Board Vote Recommendation    Vote Required  Page Reference 
+   Proposals for Voting   Board Vote Recommendation    Vote Required  Page Reference 
+ Elect three Directors  FOR each nominee  Majority of votes cast  14 
+ Amend our Amended and Restated Certificate of Incorporation    FOR  80% of all outstanding shares of our stock  14 
+ Advisory vote on executive compensation  FOR  Majority of votes cast  15 
+ Ratify the appointment of Ernst & Young LLP as our independent registered public accounting firm   FOR  Majority of votes cast  16 
+[END TABLE]
+The following table provides summary information about each director nominee. The nominees receiving a majority of the votes cast at the meeting will be elected as Directors, in accordance with our Corporate Governance Guidelines described on page 5.
+During 2018, each nominee attended at least 75% of the meetings of the Board and Committees on which the nominee served.
+[BEGIN TABLE]
+   Name    Age    Director Since    Independent    Committee Membership 
+   Name    Age    Director Since    Independent    Committee Membership 
+ Ruby R. Chandy  57  2013  Yes  Compensation 
+   Steven W. Kohlhagen    71    2006    Yes  Audit, Corporate Governance/Nominating 
+   Steven W. Kohlhagen    71    2006    Yes  Audit, Corporate Governance/Nominating 
+ David A. Zapico  54  2016  No  None 
+[END TABLE]
+We are asking stockholders to adopt an amendment to our Amended and Restated Certificate of Incorporation (our "Certificate of Incorporation") to affirm a majority voting standard for uncontested elections of Directors. While our Corporate Governance Guidelines already provide for majority voting in uncontested Director elections, our Certificate of Incorporation provides that Directors be elected by a plurality vote standard. As part of its ongoing review of our corporate governance practices and to ensure that we continue to observe a majority vote standard and eliminate the possibility of a conflict between the Certificate of Incorporation and our Corporate Governance Guidelines, our Board has unanimously adopted resolutions approving, and recommending that stockholders approve at the meeting, an amendment to the Certificate of Incorporation to replace the plurality vote standard with a majority vote standard for uncontested elections of Directors.
+AMETEK, INC. 2019 Proxy Statement    1
+ADVISORY VOTE ON EXECUTIVE COMPENSATION
+We are asking stockholders to approve a non-binding advisory resolution relating to our named executive officers' compensation for fiscal 2018, commonly referred to as "say-on-pay."  Last year, of the total votes cast, not including abstentions and broker non-votes, 95% were in favor of approving our named executive officers' compensation.  The design of our 2018 executive compensation program continued to emphasize total return to our stockholders.  We enhanced the long-term incentive portion of our executive compensation program in 2018 by introducing performance-based stock awards. 
+INDEPENDENT REGISTERED PUBLIC ACCOUNTING FIRM
+We are asking stockholders to approve the selection of Ernst & Young LLP as our independent registered public accounting firm for 2019.  Last year, of the total votes cast, not including abstentions, 96% were in favor of approving Ernst & Young as our independent registered public accounting firm for 2018.
+2    AMETEK, INC. 2019 Proxy Statement  
+VOTING PROCEDURES
+Your vote is very important. It is important that your views be represented whether or not you attend the meeting. Stockholders who hold shares of our common stock through a broker, bank or other holder of record receive proxy materials and a Voting Instruction Form – either electronically or by mail – before each annual meeting. For your vote to be counted, you need to communicate your voting decisions to your broker, bank or other holder of record before the date of this meeting.
+Who can vote? Stockholders of record as of the close of business on March 11, 2019 are entitled to vote. On that date, 227,518,736 shares of our common stock were issued and outstanding and eligible to vote. Each share is entitled to one vote on each matter presented at the meeting. We have no other class or series of stock currently outstanding other than our common stock.
+How do I vote? You can vote your shares at the meeting if you are present in person or represented by proxy. You can designate the individuals named on the enclosed proxy card as your proxies by mailing a properly executed proxy card, via the Internet or by telephone. You may revoke your proxy at any time before the meeting by delivering written notice to the Corporate Secretary, by submitting a proxy card bearing a later date, or by appearing in person and casting a ballot at the meeting.
+To submit your proxy by mail, indicate your voting choices, sign and date your proxy card and return it in the postage-paid envelope provided. You may vote via the Internet or by telephone by following the instructions on your proxy card. Your Internet or telephone vote authorizes the persons named on the proxy card to vote your shares in the same manner as if you marked, signed and returned the proxy card to us.
+If you hold your shares through a broker, bank or other holder of record, that institution will send you separate instructions describing the procedure for voting your shares.
+What shares are represented by the proxy card? The proxy card represents all the shares registered in your name. If you participate in the AMETEK, Inc. Investors' Choice Dividend Reinvestment & Direct Stock Purchase and Sale Plan, the card also represents any full shares held in your account. If you are an employee who owns our common stock through an AMETEK employee savings plan and also hold shares in your own name, you will receive a single proxy card for the plan shares, which are attributable to the units that you hold in the plan, and the shares registered in your name. Your proxy card or proxy submitted through the Internet or by telephone will serve as voting instructions to the plan trustee.
+How are shares voted? If you return a properly executed proxy card or submit voting instructions via the Internet or by telephone before voting at the meeting is closed, the individuals named as proxies on the enclosed proxy card will vote in accordance with the directions you provide. If you return a signed and dated proxy card but do not indicate how the shares are to be voted, those shares will be voted as recommended by the Board of Directors. A valid proxy card or a vote via the Internet or by telephone also authorizes the individuals named as proxies to vote your shares in their discretion on any other matters which, although not described in the proxy statement, are properly presented for action at the meeting.
+If your shares are held by a broker, bank or other holder of record, please refer to the instructions it provides for voting your shares. If you want to vote those shares in person at the meeting, you must bring a signed proxy from the broker, bank or other holder of record giving you the right to vote the shares.
+If you are an employee who owns our common stock through an AMETEK employee savings plan and you do not return a proxy card or otherwise give voting instructions for the plan shares, the trustee will vote those shares in the same proportion as the shares for which the trustee receives voting instructions from other participants in that plan. To enable the savings plan trustee to tabulate the vote of the plan shares prior to the meeting, your proxy voting instructions must be received by May 6, 2019 if you are voting online or by phone, or by May 3, 2019 if you are voting by mail.
+How many votes are required? A majority of the shares of our outstanding common stock entitled to vote at the meeting must be represented in person or by proxy in order to have a quorum present at the meeting. Abstentions and "broker non-votes" are counted as present and entitled to vote for purposes of determining a quorum. A "broker non-vote" occurs when a bank, broker or other holder of record holding shares for a beneficial owner does not vote 
+AMETEK, INC. 2019 Proxy Statement    3
+on a particular proposal because that holder does not have discretionary voting power for the particular proposal and has not received instructions from the beneficial owner. If a quorum is not present, the meeting will be rescheduled for a later date.
+Proposal 1: Elect three Directors for a term of three years.
+Directors will be elected by the vote of a majority of the votes cast at the meeting. This means that a nominee will be elected if the number of votes cast "for" that nominee exceeds the number of votes "against" that nominee.  Any shares not voted, whether by abstention, broker non-votes or otherwise, will not be counted as votes cast and will have no effect on the vote.
+Proposal 2: Approve an amendment to our Certificate of Incorporation to affirm majority voting for uncontested elections of Directors.
+Pursuant to our Certificate of Incorporation, the affirmative vote of holders of at least 80% of all outstanding shares of our common stock is required in order for the proposed amendment to the Certificate of Incorporation to be adopted.  Abstentions and broker non-votes have the effect of votes against this proposal.
+Proposal 3: Cast an advisory vote to approve the compensation of our named executive officers.
+The advisory approval of our executive compensation requires the affirmative vote of the holders of a majority of eligible shares present at the meeting, in person or by proxy, and voting on the matter.  The advisory vote on executive compensation is not binding upon us. However, the Board and Compensation Committee will take into account the outcome of this vote when considering future executive compensation arrangements.  Abstentions and broker non-votes are not counted as votes for or against this proposal.
+Proposal 4: Ratify the appointment of Ernst & Young LLP as our independent registered public accounting firm for 2019.
+The advisory approval of the appointment of Ernst & Young LLP requires the affirmative vote of the holders of a majority of eligible shares present at the meeting, in person or by proxy, and voting on the matter.  Abstentions and broker non-votes are not counted as votes for or against this proposal.  Because the ratification of the appointment of the independent registered public accounting firm is a matter on which a bank, broker or other holder of record is generally empowered to vote, no broker non-votes are expected to exist in connection with this proposal.
+Who will tabulate the vote? Broadridge Financial Solutions will tally the vote, which will be certified by an independent inspector of election.
+Is my vote confidential? It is our policy to maintain the confidentiality of proxy cards, ballots and voting tabulations that identify individual stockholders, except where disclosure is mandated by law and in other limited circumstances.
+Who is the proxy solicitor? We have retained Georgeson LLC to assist in the distribution of proxy materials and solicitation of votes. We will pay Georgeson LLC a fee of $11,500, plus reimbursement of reasonable out-of-pocket expenses.
+CORPORATE GOVERNANCE
+In accordance with the Delaware General Corporation Law and our Certificate of Incorporation and By-Laws, our business and affairs are managed under the direction of the Board of Directors. We provide information to the Directors about our business through, among other things, operating, financial and other reports, as well as other documents presented at meetings of the Board of Directors and Committees of the Board.
+Our Board of Directors currently consists of eight members. They are Thomas A. Amato, Ruby R. Chandy, Anthony J. Conti, Steven W. Kohlhagen, Gretchen W. McClain, Elizabeth R. Varet, Dennis K. Williams, and David A. Zapico. The biographies of our Directors appear on pages 19 and 20. The Board is divided into three classes with staggered terms of three years each, so that the term of one class expires at each Annual Meeting of Stockholders.
+4    AMETEK, INC. 2019 Proxy Statement  
+Corporate Governance Guidelines and Codes of Ethics. The Board of Directors has adopted Corporate Governance Guidelines that address the practices of the Board and specify criteria to assist the Board in determining Director independence. These criteria supplement the listing standards of the New York Stock Exchange (NYSE) and the regulations of the Securities and Exchange Commission (SEC). Our Code of Ethics and Business Conduct sets forth rules of conduct that apply to all of our Directors, officers and employees. We also have adopted a separate Code of Ethical Conduct for our Chief Executive Officer and senior financial officers. The Guidelines and Codes are available at the Investors section of our corporate website, www.ametek.com, as well as in printed form, free of charge to any stockholder who requests them, by writing or telephoning the Investor Relations Department, AMETEK, Inc., 1100 Cassatt Road, Berwyn, PA 19312-1177 (Telephone Number: 1-800-473-1286). The Board of Directors and our management do not intend to grant any waivers of the provisions of either Code. In the unlikely event a waiver for a Director or an executive officer occurs, the action will be disclosed promptly at our website address provided above. If the Guidelines or the Codes are amended, the revised versions also will be posted on our website.
+Meetings of the Board. Our Board of Directors has four regularly scheduled meetings each year. Special meetings are held as necessary. In addition, management and the Directors frequently communicate informally on a variety of topics, including suggestions for Board or Committee agenda items, recent developments and other matters of interest to the Directors.
+Directors are expected to attend all meetings of the Board and each Committee on which they serve and are expected to attend the annual meeting. Our Board met a total of eight times in 2018, half in person and half by telephone. Each of the Directors attended at least 75% of the meetings of the Board and the Committees to which the Director was assigned. All the Directors attended the 2018 Annual Meeting of Stockholders.
+Independence. The Board of Directors has affirmatively determined that no director, other than Mr. Zapico, our chief executive officer, has a material relationship with us, either directly or as a partner, stockholder or officer of an organization that has a relationship with us.  Accordingly, seven of our eight current directors are "independent" directors based on an affirmative determination by our Board in accordance with the listing standards of the NYSE and the SEC rules. The Board has further determined that each member of the Audit, Compensation and Corporate Governance/Nominating Committees is independent within the meaning of the NYSE rules. The members of the Audit Committee also satisfy SEC regulatory independence requirements for audit committee members.
+The Board established the following standards to assist it in determining Director independence: A Director will not be deemed independent if: 
+[BEGIN TABLE]
+• within the previous three years or currently, o  the Director has been employed by us;  
+    o  someone in the Director's immediate family has been employed by us as an executive officer;  
+    o  the Director or someone in her/his immediate family has been employed as an executive officer of another entity that concurrently has or had as a member of its compensation committee of the board of directors any of our present executive officers;  
+    o  the Director is a current partner or employee of a firm that is our internal or external auditor;  
+    o  someone in the Director's immediate family is a current partner of such a firm; 
+    o  someone in the Director's immediate family is a current employee of such a firm and personally works on our audit; or o  the Director or someone in the Director's immediate family is a former partner or employee of such a firm and personally worked on our audit within the last three years; or 
+• the Director received, or someone in the Director's immediate family received, during any twelve-month period within the last three years, more than $120,000 in direct compensation from us, other than Director and committee fees and pension or other forms of deferred compensation for prior service (provided such compensation is not contingent in any way on continued service) and, in the case of an immediate family member, other than compensation for service as our employee (other than an executive officer).  
+[END TABLE]
+The following commercial or charitable relationships will not be considered material relationships: (i) if the Director is a current employee or holder of more than ten percent of the equity of, or someone in her/his immediate family is a current executive officer or holder of more than ten percent of the equity of, another company that has made payments to, or received payments from us for property or services in an amount which, in any of the last three fiscal years of the other company, does not exceed $1 million or two percent of the other company's consolidated 
+AMETEK, INC. 2019 Proxy Statement    5
+gross revenues, whichever is greater, or (ii) if the Director is a current executive officer of a charitable organization, and we made charitable contributions to the charitable organization in any of the charitable organization's last three fiscal years that do not exceed $1 million or two percent of the charitable organization's consolidated gross revenues, whichever is greater. For the purposes of these categorical standards, the terms "immediate family member" and "executive officer" have the meanings set forth in the NYSE's corporate governance rules.
+All independent Directors satisfied these categorical standards.
+Communication with Non-Management Directors and Audit Committee. Stockholders and other parties who wish to communicate with the non-management Directors may do so by calling 1-877-263-8357 (in the United States and Canada) or 1-610-889-5271. If you prefer to communicate in writing, address your correspondence to the Corporate Secretary, Attention: Non-Management Directors, AMETEK, Inc., 1100 Cassatt Road, Berwyn, PA 19312-1177.
+You may address complaints regarding accounting, internal accounting controls or auditing matters to the Audit Committee online at www.ametekhotline.com or by calling 1-855-5AMETEK (1-855-526-3835). The website provides the option to choose your language, as well as a list of international toll-free numbers by country.
+Committees of the Board. Our Board has established three Committees whose principal responsibilities are briefly described below.  The specific responsibilities of each Committee are outlined in more detail in its charter, which is available at the Investors section of our corporate website, www.ametek.com, as well as in printed form, free of charge to any stockholder who requests them, by writing or telephoning the Investor Relations Department, AMETEK, Inc., 1100 Cassatt Road, Berwyn, PA 19312-1177 (Telephone Number: 1-800-473-1286). Each Committee conducts an annual assessment to assist it in evaluating whether, among other things, it has sufficient information, resources and time to fulfill its obligations and whether it is performing its obligations effectively. Each Committee may retain advisors to assist it in carrying out its responsibilities.
+The membership of each Committee as of March 11, 2019 is listed below.
+[BEGIN TABLE]
+      Audit    Compensation  Corporate Governance/ Nominating 
+      Audit    Compensation  Corporate Governance/ Nominating 
+ Thomas A. Amato        C 
+ Ruby R. Chandy       Anthony J. Conti  C*    Steven W. Kohlhagen• *       Gretchen W. McClain• *       Elizabeth R. Varet       Dennis K. Williams     C    David A. Zapico          
+ Number of meetings in 2018  8  5  4 
+[END TABLE]
+Audit Committee 
+All members of the Audit Committee are audit committee financial experts.  The Audit Committee has the sole authority to retain, compensate, terminate, oversee and evaluate our independent auditors. In addition, the Audit Committee is responsible for:
+[BEGIN TABLE]
+• review and approval in advance of all audit and lawfully permitted non-audit services performed by the independent auditors; 
+• review and discussion with management and the independent auditors regarding the annual audited financial statements and quarterly financial statements included in our SEC filings and quarterly sales and earnings announcements; 
+• oversight of our compliance with legal and regulatory requirements; 
+• oversight of risk management; 
+[END TABLE]
+6    AMETEK, INC. 2019 Proxy Statement  
+[BEGIN TABLE]
+• review of the performance of our internal audit function; 
+• meeting separately with the independent auditors and our internal auditors as often as deemed necessary or appropriate by the Committee; and 
+• review of major issues regarding accounting principles, financial statement presentation and the adequacy of internal controls. 
+[END TABLE]
+Compensation Committee 
+The Compensation Committee is responsible for, among other things:
+[BEGIN TABLE]
+• establishment and periodic review of our compensation philosophy and the adequacy of the compensation plans for our officers and other employees; 
+• establishment of compensation arrangements and incentive goals for officers at the Corporate Vice President level and above and administration of compensation plans; 
+• review of the performance of officers at the Corporate Vice President level and above and award of incentive compensation, exercising discretion and adjusting compensation arrangements as appropriate; 
+• review and monitoring of management development and succession plans; and 
+• periodic review of the compensation of non-employee Directors. 
+[END TABLE]
+The Committee, in setting compensation for our Chief Executive Officer, will review and evaluate our Chief Executive Officer's performance and leadership, taking each of into account the views of other members of the Board. The Compensation Committee charter provides that, with the participation of our Chief Executive Officer, the Committee is to evaluate the performance of other officers and determine compensation for these officers. In this regard, Compensation Committee meetings are regularly attended by our Chief Executive Officer. Our Chief Executive Officer does not participate in the determination of his own compensation. The Compensation Committee has authority under the charter to retain and set compensation for compensation consultants and other advisors that the Committee may engage. The Compensation Committee charter does not provide for delegation of the Committee's duties and responsibilities other than to one or more members of the Committee when appropriate.
+Management engaged Pay Governance LLC to provide executive and Director compensation consulting services. Pay Governance provided no other services for us. The Compensation Committee has assessed the independence of Pay Governance pursuant to SEC rules and concluded that Pay Governance's work does not raise any conflict of interest issues. See "Compensation Discussion and Analysis – 2018 Compensation – Determination of Competitive Compensation" for further information regarding Pay Governance's services.
+Corporate Governance/Nominating Committee
+The Corporate Governance/Nominating Committee is responsible for, among other things:
+[BEGIN TABLE]
+• selection of nominees for election as Directors, subject to approval by the Board; 
+• recommendation of a Director to serve as Chairperson of the Board; 
+• recommendation to the Board of the responsibilities of Board Committees and each Committee's membership; 
+• oversight of the annual evaluation of the Board and the Audit and Compensation Committees; and 
+• review and assessment of the adequacy of our Corporate Governance Guidelines and Code of Ethics and Business Conduct. 
+[END TABLE]
+Board Leadership Structure.  In July 2017, Mr. Zapico was elected Chairman of the Board, in addition to his position as Chief Executive Officer.  In addition to Mr. Zapico, we have experienced Committee Chairs and, since July 2017, a Lead Independent Director.  The Board believes that a combined Chairman and CEO is in the best interest of our Company as our Chairman and CEO serves as a bridge between management and the Board, ensuring that both groups act with a common vision and strategy.  Further, the combined Chairman and CEO leadership structure provides clear leadership for our Company, with a single person setting the tone and having primary responsibility for managing our operations.  We believe that splitting the role of CEO and Chairman of the Board would create the potential for confusion or duplication of efforts, and could impair our ability to develop and 
+AMETEK, INC. 2019 Proxy Statement    7
+implement strategy. In contrast, we believe that our current leadership structure enhances the Chairman and CEO's ability to provide insight and direction on important strategic initiatives to both management and the independent Directors.
+Our Board and Committee composition ensures independence and protects against too much power being placed with the Chairman and Chief Executive Officer. Currently, all of our Directors (other than Mr. Zapico) and each member of the Audit, Corporate Governance/Nominating and Compensation Committees meet the independence requirements of the NYSE and our Corporate Governance Guidelines' categorical standards for determining Director independence. Additionally, the members of the Audit Committee also satisfy SEC regulatory independence requirements for audit committee members.  Pursuant to our Corporate Governance Guidelines, each independent Director has the ability to raise questions directly with management and request that topics be placed on the Board agenda for discussion. Currently, independent Directors directly oversee such critical matters as the integrity of our financial statements, the compensation of executive management, the selection and evaluation of Directors and the development and implementation of our corporate governance policies and structures. Further, the Compensation Committee conducts an annual performance review of our Chief Executive Officer and, based upon this review, approves our Chief Executive Officer's annual compensation, including salary, bonus, incentive and equity compensation.
+If our Chairman is not a non-management independent director, our Corporate Governance Guidelines provide that an independent director will serve as our Lead Independent Director. Mr. Conti is our Lead Independent Director and, in this role, his powers and duties include the following: presiding at all meetings when the Chairman is not present, including executive sessions of independent Directors; serving as liaison between the Chairman and the independent Directors; calling meetings of the independent Directors as needed; communicating to the Chairman regarding the quality, quantity, appropriateness and timeliness of information sent to the Board; working with the Chairman to establish Board agendas; working with the Chairman to optimize the number, frequency and conduct of Board meetings, as well as meeting schedules; retaining outside advisors and consultants to the Board as needed; and being available, if required by the management team, for consultation and communication with our stockholders.
+It is our policy that independent Directors meet in executive session at least once a year outside of the presence of any management Directors or any other members of our management. Our Lead Independent Director chairs these sessions.  During executive sessions, the Directors may consider such matters as they deem appropriate. Following each executive session, the results of the deliberations and any recommendations are communicated to the full Board of Directors.
+Risk Oversight. In accordance with NYSE rules and our Audit Committee's charter, our Audit Committee has primary responsibility for overseeing risk management for AMETEK. Nevertheless, our entire Board of Directors, and each other Committee of the Board, is actively involved in overseeing risk management. Our Board of Directors, and each of its Committees, regularly consider various potential risks at their meetings during discussion of our operations and consideration of matters for approval. In addition, we have an active risk management program. A committee composed of senior executives, including the Chairman and Chief Executive Officer, the Chief Financial Officer, the Comptroller and the Group Presidents, reviews our internal risks, including those relating to our operations, strategy, financial condition, compliance and employees, and our external risks, including those relating to our markets, geographic locations, cyber security, regulatory environment, and economic outlook. The committee analyzes various potential risks for severity, likelihood and manageability, and develops action plans to address those risks. The committee's findings are presented to the Audit Committee of the Board on a quarterly basis and to the full Board of Directors annually.
+Consideration of Director Candidates. The Corporate Governance/Nominating Committee seeks candidates for Director positions who help create a collective membership on the Board with varied backgrounds, experience, skills, knowledge and perspective. In addition, Directors should have experience in positions with a high degree of responsibility, be leaders in the companies or institutions with which they are affiliated, and be selected based upon contributions that they can make to AMETEK. The Committee also seeks a Board that reflects diversity, including but not limited to race, gender, ethnicity, age and experience. This is implemented by the Committee when it annually considers diversity in the composition of the Board prior to recommending candidates for nomination as Directors. The Committee solicits input from Directors regarding their views on the sufficiency of Board diversity. This occurs through the annual self-assessment process. The Committee assesses the effectiveness of Board diversity by considering the various skills, experiences, knowledge, backgrounds and perspectives of the members 
+8    AMETEK, INC. 2019 Proxy Statement of the Board of Directors. The Committee then considers whether the Board possesses, in its judgment, a sufficient diversity of those attributes.
+Stockholders can recommend qualified candidates for Director by writing to the Corporate Secretary, AMETEK, Inc., 1100 Cassatt Road, Berwyn, PA 19312-1177. Stockholder submissions must include the following information: (1) the name of the candidate and the information about the individual that would be required to be included in a proxy statement under the SEC rules; (2) information about the relationship between the candidate and the recommending stockholder; (3) the consent of the candidate to serve as a Director; and (4) proof of the number of shares of our common stock that the recommending stockholder owns and the length of time that the shares have been owned. To enable consideration of a candidate in connection with the 2020 Annual Meeting, a stockholder must submit materials relating to the recommended candidate no later than November 14, 2019. In considering any candidate proposed by a stockholder, the Corporate Governance/Nominating Committee will reach a conclusion based on the criteria described above in the same manner as for other candidates. The Corporate Governance/Nominating Committee also may seek additional information regarding the candidate. After full consideration by the Corporate Governance/Nominating Committee, the stockholder proponent will be notified of the decision of the Committee.
+In addition, we adopted "proxy access," which, under certain circumstances, allows a stockholder or group of up to twenty stockholders who have owned at least 3% of our common stock for at least three years to submit director nominees (up to the greater of two Directors or 20% of the Board) for inclusion in our proxy materials if the stockholder(s) and the nominee(s) satisfy the requirements specified in our By-Laws. Stockholders who wish to nominate directors for inclusion in our proxy materials or directly at an annual meeting of stockholders in accordance with the procedures in our By-Laws should follow the instructions under the "Stockholder Proposals and Director Nominations for the 2020 Annual Meeting" section of this proxy statement.
+Director Compensation. Standard compensation arrangements for Directors are described below.
+[BEGIN TABLE]
+• Fees – In 2018, non-employee Directors received an annual base cash retainer of $90,000. Additional annual retainers are paid to the Lead Independent Director and the Chairs of our three Committees as shown in the table below.  Each annual retainer is payable in advance in equal quarterly installments. There were no additional fees for attendance at the Board or Committee meetings. 
+[END TABLE]
+[BEGIN TABLE]
+ Lead Independent Director  $30,000 
+ Audit Committee Chair  $20,000 
+ Compensation Committee Chair  $15,000 
+ Corporate Governance/Nominating Committee Chair  $15,000 
+[END TABLE]
+[BEGIN TABLE]
+• On November 9, 2018, based on data provided by Pay Governance, our independent compensation consultant, our Board approved an increase in fees paid to non-employee Directors effective January 1, 2019 as follows: 
+• the value of the annual long-term incentive awards increased from a target value of $145,000 to a target value of $155,000 and  
+• the annual cash retainer increased from $90,000 to $100,000. 
+• Restricted Stock – On May 8, 2018, under our 2011 Omnibus Incentive Compensation Plan, each non-employee Director received a restricted stock award of 1,930 shares of our common stock. These restricted shares vest on the earliest to occur of: 
+• the closing price of our common stock on any five consecutive trading days equaling or exceeding $146.90, 
+• the death or disability of the Director, 
+• the Director's termination of service as a member of our Board of Directors in connection with a change of control, or 
+• the second anniversary of the date of grant, namely May 8, 2020, provided the Director has served continuously through that date. 
+[END TABLE]
+AMETEK, INC. 2019 Proxy Statement    9
+[BEGIN TABLE]
+• Restricted Stock Vestings – On May 4, 2018, the two-year cliff vesting of the restricted stock granted on May 4, 2016 to Messrs. Conti, Kohlhagen, Malone and Williams, and Mses. Chandy, McClain and Varet, occurred. The total value realized on vesting is equal to (1) the closing price per share of our common stock on May 4, 2018 ($71.50), multiplied by the number of shares acquired on vesting, (2) the dividends accrued since the date of award, and (3) the interest accrued on these dividends. 
+[END TABLE]
+The following table provides information regarding Director compensation in 2018, which reflects the standard compensation described above and certain other payments. The table does not include compensation for reimbursement of travel expenses related to attending Board, Committee and AMETEK business meetings, and approved educational seminars. In addition, the table does not address compensation for Mr. Zapico, which is addressed under "Executive Compensation" beginning on page 22. Mr. Zapico did not receive additional compensation for serving as a Director in 2018.
+10    AMETEK, INC. 2019 Proxy Statement  
+DIRECTOR COMPENSATION – 2018
+[BEGIN TABLE]
+ Name     Fees Earned or Paid in Cash (1)     Stock Awards (2)     Option Awards     Non-Equity Incentive Plan Compensation     Change in Pension Value and Nonqualified Deferred Compensation Earnings     All Other Compensation     Total    
+ Name     Fees Earned or Paid in Cash (1)     Stock Awards (2)     Option Awards     Non-Equity Incentive Plan Compensation     Change in Pension Value and Nonqualified Deferred Compensation Earnings     All Other Compensation     Total    
+    Thomas A. Amato        $99,684           $141,759           -           -           -           -           $241,443    
+ Ruby R. Chandy        90,000           141,759           -           -           -           $993           232,752    
+ Anthony J. Conti        140,000           141,759           -           -           -           993           282,752    
+ Steven W. Kohlhagen        90,000           141,759           -           -           -           993           232,752    
+ James R. Malone (3)        37,212           -           -           -           -           2,254           39,466    
+ Gretchen W. McClain        90,000           141,759           -           -           -           993           232,752    
+ Elizabeth R. Varet        90,000           141,759           -           -           -           993           232,752    
+ Dennis K. Williams        105,000           141,759           -           -           -           993           247,752    
+ (1)  The amounts shown are the annual base cash retainer and retainer premium fees and include amounts that have been deferred under the deferred compensation plan for Directors. 
+ (2)  The amounts shown for stock awards relate to restricted shares granted under our 2011 Omnibus Incentive Compensation Plan. These amounts are equal to the grant date fair value, computed in accordance with Financial Accounting Standards Board Accounting Standards Codification Topic 718, Compensation—Stock Compensation, which we refer to below as "ASC 718," but without giving effect to estimated forfeitures related to service-based vesting conditions. At December 31, 2018, the non-management members of the Board held both restricted stock awards and options to purchase the number of shares of our common stock set forth next to their names in the chart below: 
+ Name  Stock Awards  Outstanding Options 
+ Thomas A. Amato  5,510  - 
+ Ruby R. Chandy  4,970  19,530 
+ Anthony J. Conti  4,970  25,825 
+ Steven W. Kohlhagen  4,970  25,825 
+ James R. Malone  -  - 
+ Gretchen W. McClain  4,970  4,650 
+ Elizabeth R. Varet  4,970  19,530 
+ Dennis K. Williams  4,970  25,825 
+ (3)  Mr. Malone retired from our Board on May 8, 2018. 
+[END TABLE]
+Directors who first became members of the Board prior to July 22, 2004 participate in our Death Benefit Program for Directors. Mr. Malone and Ms. Varet participate in this program. Under this program, each non-employee Director has an individual agreement that pays the Director (or the Director's beneficiary in the event of the Director's death) an annual amount equal to 100% of that Director's highest annual rate of cash compensation during the Director's service with the Board. The payments are made for 10 years beginning at the earlier of (a) the Director's being retired and having attained age 70 or (b) the Director's death. The program is funded by individual life insurance policies that we purchased on the lives of the Directors. In addition, non-employee Directors who first became members of the Board prior to July 27, 2005 have a group term life insurance benefit of $50,000. We retain the right to terminate any of the individual agreements under certain circumstances.
+AMETEK, INC. 2019 Proxy Statement    11
+Directors are able to participate in a deferred compensation plan for Directors. Ms. McClain participates in this plan. Under this plan, a Director may defer payment of his or her fees into a notional investment in the same investments available in The AMETEK Retirement & Savings Plan, commonly referred to as the "AMETEK 401(k) Plan," plus an interest-bearing account. One of the investment options is a notional fund consisting of our common stock. A Director generally may elect to have the value of his or her account distributed following retirement, either in a lump sum or in up to fifteen annual installments, or in the form of an in-service distribution, payable either in a lump sum or in up to fifteen annual installments commencing on a date specified by the Director in his or her distribution election. Payments may commence sooner upon the Director's earlier separation from service, upon the death of the Director, in the event of an unforeseeable financial emergency or upon a change of control. Payments from the notional common stock fund are made in shares of our common stock, while payments from all other investments are paid in cash.
+Mandatory Retirement. The retirement policy for our Board prohibits a Director from standing for re-election following his or her 75th birthday.
+Certain Relationships and Related Transactions. Under our written related party transactions policy, transactions that would require disclosure under SEC regulations must be approved in advance by the Audit Committee.  Prior to entering into a transaction covered by the policy, the person proposing to enter into the transaction must provide a notice to our Vice President – Audit Services, who must promptly forward the notice to the Chair of the Audit Committee. Following such inquiry as the Audit Committee deems appropriate, the transaction is permissible if the Audit Committee finds that, notwithstanding the involvement of a related person, there is an appropriate business reason to approve the transaction.
+We had no related party transactions in 2018.  To our knowledge, no related party transactions are currently proposed. 
+STOCKHOLDER PROPOSALS AND DIRECTOR NOMINATIONS
+FOR THE 2020 ANNUAL MEETING
+Advance Notice Procedures for Stockholder Proposals and Director Nominations Not Intended for Inclusion in the Proxy Statement for the 2020 Annual Meeting
+In accordance with our By-Laws, stockholders must give us notice relating to nominations for Director or proposed business to be considered at our 2020 Annual Meeting of Stockholders, other than in connection with a proxy access nomination, no earlier than January 10, 2020 and no later than February 9, 2020. These requirements do not affect the deadline for submitting stockholder proposals or director nominations for inclusion in the proxy statement, or for recommending candidates for consideration by the Corporate Governance/Nominating Committee, nor do they apply to questions a stockholder may wish to ask at the meeting.
+Director Nominations for Inclusion in the Proxy Statement for the 2020 Annual Meeting
+In accordance with our By-Laws, a stockholder or group of up to twenty stockholders who have owned at least 3% of our common stock for at least three years may submit director nominees (up to the greater of two Directors or 20% of the Board) for inclusion in our proxy materials if the stockholder(s) provide timely written notice of such nomination(s) and the stockholder(s) and the nominee(s) satisfy the requirements specified in our By-Laws. To be timely for inclusion in our proxy materials for the 2020 Annual Meeting of Stockholders, notice must be received by the Corporate Secretary at our principal executive offices no earlier than the close of business on October 15, 2019, and no later than the close of business on November 14, 2019. The notice must contain the information required by our By-Laws, and the stockholder(s) and nominee(s) must comply with the information and other requirements in our By-Laws relating to the inclusion of stockholder nominees in our proxy materials.
+Stockholders may request a copy of the By-Law provisions discussed above from the Corporate Secretary, AMETEK, Inc., 1100 Cassatt Road, Berwyn, PA 19312-1177.
+Stockholder Proposals for the 2020 Proxy Statement
+To be considered for inclusion in the proxy statement for the 2020 Annual Meeting of Stockholders, stockholder proposals must be received at our executive offices no later than November 14, 2019.
+12    AMETEK, INC. 2019 Proxy Statement  
+REPORT OF THE AUDIT COMMITTEE
+The responsibilities of the Audit Committee are set forth in its charter, which is accessible at the Investors section of our corporate website, www.ametek.com. Among other things, the charter charges the Committee with the responsibility for reviewing our audited financial statements and the financial reporting process. In fulfilling its oversight responsibilities, the Committee reviewed with management and Ernst & Young LLP, our independent registered public accounting firm, the audited financial statements contained in our 2018 Annual Report on Form 10-K. The Committee discussed with Ernst & Young LLP the matters required to be discussed by the Statement on Auditing Standards No. 16, Communications with Audit Committees, as adopted by the Public Company Accounting Oversight Board.
+In addition, the Committee received the written disclosures and letter from Ernst & Young LLP in accordance with the applicable standards of the Public Company Accounting Oversight Board, and has discussed with Ernst & Young LLP its independence.
+The Committee discussed with our internal auditors and Ernst & Young LLP the overall scope and plans for their respective audits. The Committee met with the internal auditors and Ernst & Young LLP, with and without management present, to discuss the results of their examinations, their evaluations of our disclosure control process and internal control over financial reporting, and the overall quality of our financial reporting. The Committee held eight meetings during 2018, which included telephonic meetings prior to quarterly earnings announcements.
+Based on the reviews and discussions referred to above, the Committee recommended to the Board of Directors, and the Board approved, the inclusion of the audited financial statements in our Annual Report on Form 10-K for the fiscal year ended December 31, 2018, for filing with the Securities and Exchange Commission.
+Respectfully submitted,
+The Audit Committee:
+Anthony J. Conti, Chair
+Steven W. Kohlhagen
+Gretchen W. McClain
+Dated: March 13, 2019
+AMETEK, INC. 2019 Proxy Statement    13
+ELECTION OF DIRECTORS
+(Proposal 1 on Proxy Card)
+The nominees for election at this year's meeting are Ruby R. Chandy, Steven W. Kohlhagen and David A. Zapico, who have been nominated to serve as Class I Directors and, if elected, will serve until the 2022 Annual Meeting. There are no other nominees competing for their seats on the Board. This means we have an uncontested election.
+If a quorum is present, Directors in uncontested elections are elected by a majority of the votes cast, in person or by proxy. This means that the nominees will be elected if they receive more "for" votes than "against" votes. Votes marked "for" a nominee will be counted in favor of that nominee. Votes marked "abstain" will have no effect on the vote since a majority of the votes cast at the meeting is required for the election of each nominee. Since we do not have cumulative voting, you may not cast all of your votes "for" a single Director nominee. In accordance with our Corporate Governance Guidelines, any nominee for Director who does not receive a majority of votes cast shall immediately tender his or her resignation for consideration by the Corporate Governance/Nominating Committee of the Board of Directors. The Committee will promptly consider the resignation tendered by the Director and will recommend to the Board whether to accept the tendered resignation or reject it. In considering whether to accept or reject the tendered resignation, the Committee will weigh all factors it deems relevant, including the reasons for the "against" votes by stockholders, the length of service and qualifications of the Director, and the Director's contributions to AMETEK. No Director whose tendered resignation is under consideration will participate in the deliberation process as a member of the Corporate Governance/Nominating Committee or the process of the Board described below. The Board will act on the Corporate Governance/Nominating Committee's recommendation within 120 days following certification of the stockholders' vote and will promptly disclose (by press release, filing of a Current Report on Form 8-K or any other public means of disclosure deemed appropriate) its decision regarding whether to accept the Director's resignation offer. In considering the Corporate Governance/Nominating Committee's recommendation, the Board will weigh the factors considered by the Committee and any additional information deemed relevant by the Board. If any Directors' resignations are accepted by the Board, the Corporate Governance/Nominating Committee will recommend to the Board whether to fill such vacancy or vacancies or to reduce the size of the Board.
+If any nominee is unable to serve, the shares represented by all valid proxies will be voted for the election of such other person as the Board may nominate, unless the Board determines to reduce the number of Directors. The Directors' biographies are set forth on pages 19 and 20, and a summary of their skills and attributes is set forth on page 18.
+Your Board of Directors Recommends a Vote FOR Each of the Nominees.
+APPROVAL OF AN AMENDMENT TO THE CERTIFICATE OF INCORPORATION 
+TO AFFIRM A MAJORITY VOTING standard FOR UNCONTESTED 
+ELECTIONS OF DIRECTORS 
+(Proposal 2 on Proxy Card)
+Our Board has proposed, and recommends that stockholders adopt, an amendment to our Certificate of Incorporation to provide formally for majority voting for uncontested elections of Directors.
+In 2014, we amended our Corporate Governance Guidelines to provide for majority voting in uncontested Director elections.  Under our Corporate Governance Guidelines, any nominee for Director who does not receive a majority of votes cast shall immediately tender his or her resignation for consideration by the Corporate Governance/Nominating Committee of our Board.  We have observed this majority vote standard in each election of Directors beginning in May 2015, and since that time each Director nominee was elected by a majority of the votes cast with respect to such Director.  Prior to May 2015, the nominees for Director who received the highest number of "FOR" votes cast at the meeting were elected as Directors.  This is referred to as a plurality vote standard.
+Our Certificate of Incorporation continues to provide that Directors shall be elected by a plurality vote standard.  As part of its ongoing review of our corporate governance practices and to ensure that we continue to observe a majority vote standard and eliminate the possibility of a conflict between the Certificate of Incorporation and our Corporate Governance Guidelines, our Board, upon the recommendation of the Corporate Governance/Nominating 
+14    AMETEK, INC. 2019 Proxy Statement  
+Committee, has unanimously adopted resolutions approving, and recommending that stockholders approve at the meeting, an amendment to the Certificate of Incorporation to replace the plurality vote standard with a majority vote standard for uncontested elections of Directors.
+If this proposal is approved, the Certificate of Incorporation will require, as a formal matter, that all Director nominees in uncontested elections receive a number of "FOR" votes representing at least a majority of votes cast in the election.  If such Director nominee fails to receive "FOR" votes representing at least a majority of votes cast and is an incumbent Director, the Certificate of Incorporation would require the Director to promptly tender his or her resignation to our Board for consideration.  Our Board then would decide, through a process managed by the Corporate Governance/Nominating Committee and excluding the nominee in question, whether to accept the resignation, and promptly disclose (by press release, filing of a Current Report on Form 8-K or any other public means of disclosure deemed appropriate) its decision.  Director nominees in contested elections would continue to be elected by plurality vote.  An election is considered contested if our Board determines that (a) there are more nominees for election than positions on our Board to be filled or (b) one or more nominees for election to our Board was nominated other than by or at the direction of our Board.
+The text of the proposed amendment to Section 1 of Article Seventh of our Certificate of Incorporation is attached as Appendix A to this proxy statement.  The general description above is qualified in its entirety by reference to the text of the amendment in Appendix A.  If approved, the amendment to the Certificate of Incorporation will become effective upon the filing of a Certificate of Amendment to our Certificate of Incorporation with the Secretary of State of the State of Delaware, which we intend to do promptly following the meeting.  In addition, if approved and upon the filing of the Certificate of Amendment, the By-Laws will be amended to make certain conforming changes.  
+If this proposal is not approved by our stockholders, we expect that our corporate governance guidelines will continue to provide for the use of a majority vote standard for uncontested elections of Directors and a plurality vote standard for contested elections of Directors. 
+Pursuant to our Certificate of Incorporation, the affirmative vote of holders of at least 80% of all outstanding shares of our common stock is required in order for the proposed amendment to the Certificate of Incorporation to be adopted.  
+Your Board of Directors Recommends a Vote FOR this Proposal to Affirm Majority Voting for Uncontested Elections of Directors.
+ADVISORY APPROVAL OF THE COMPANY'S EXECUTIVE COMPENSATION
+(Proposal 3 on Proxy Card)
+In accordance with the results of the last advisory vote on the appropriate frequency of our advisory vote on executive compensation at our 2017 Annual Meeting, our Board determined to implement an annual non-binding stockholder vote on our executive compensation (commonly referred to as "say-on-pay"). Our Board has had a long-standing commitment to good corporate governance and recognizes the interest that investors have in executive compensation. We also are committed to achieving a high level of total return to our stockholders.
+We encourage you to review the Compensation Discussion and Analysis beginning on page 22 of this proxy statement, as well as the Summary Compensation Table and related compensation tables and narrative, appearing on pages 32 through 44, which provide detailed information on our compensation policies and practices and the compensation of our named executive officers. We believe that our compensation program is designed to attract, motivate and retain the talent required to achieve the short- and long-term performance goals necessary to create stockholder value. Our balanced approach to executive compensation through a combination of base pay, annual incentives and long-term incentives, with a mix of cash and non-cash awards, aligns with creating and sustaining stockholder value.  We enhanced the long-term incentive portion of our executive compensation program in 2018 by introducing performance shares.  The result of our compensation program is reflected in the total return to our stockholders.
+The Board strongly endorses our executive compensation program and recommends that the stockholders vote in favor of the following resolution:
+AMETEK, INC. 2019 Proxy Statement    15
+"RESOLVED, that the stockholders approve the compensation of the Company's executives named in the Summary Compensation Table, as disclosed pursuant to the compensation disclosure rules of the Securities and Exchange Commission (which disclosure includes the Compensation Discussion and Analysis and the accompanying compensation tables and related material disclosed in this Proxy Statement)."
+The affirmative vote of the holders of a majority of eligible shares present at the meeting, in person or by proxy, and voting on the matter is required to approve this proposal. Abstentions and broker non-votes will each be counted as present for purposes of determining a quorum but will not have any effect on the outcome of the proposal.
+Although the vote is non-binding, our Board and Compensation Committee will take into account the outcome of the vote when making future decisions about our executive compensation policies and procedures.
+Your Board of Directors Recommends a Vote FOR the Approval of our Executive Compensation.
+RATIFICATION OF APPOINTMENT OF
+INDEPENDENT REGISTERED PUBLIC ACCOUNTING FIRM
+(Proposal 4 on Proxy Card)
+The Audit Committee is directly responsible for the appointment, compensation, retention and oversight of our independent registered public accounting firm. To execute this responsibility, the Audit Committee engages in a comprehensive annual evaluation of the independent registered public accounting firm's qualifications, performance and independence. Further, the Audit Committee evaluates whether the independent registered public accounting firm should be rotated, and considers the advisability and potential impact of selecting a different independent registered public accounting firm.
+The Audit Committee has selected, and the Board has ratified the selection of, Ernst & Young LLP to serve as our independent registered public accounting firm for the fiscal year ending December 31, 2019. The Audit Committee is responsible for the audit fee negotiations associated with our retention of Ernst & Young LLP. Further, in conjunction with the mandated rotation of the audit firm's lead engagement partner, the Chair and other members of the Audit Committee are directly involved in the selection of Ernst & Young LLP's new lead engagement partner. Ernst & Young LLP and its predecessor have served continuously as our independent auditors since our incorporation in 1930.
+The Audit Committee and the Board believe that the continued retention of Ernst & Young LLP as our independent registered public accounting firm is in the best interest of AMETEK and our stockholders, and we are asking our stockholders to ratify the selection of Ernst & Young LLP as our independent registered public accounting firm for 2019. Although action by stockholders on this matter is not required, the Audit Committee believes that it is appropriate to seek stockholder ratification of this appointment, and the Audit Committee may reconsider the appointment if the stockholders do not ratify it.
+Fees billed to us by Ernst & Young LLP for services rendered in 2018 and 2017 totaled $8,852,000 and $9,478,000 respectively, and consisted of the following:
+[BEGIN TABLE]
+       2018     2017 
+ Audit fees     $7,550,000     $7,363,000 
+ Audit-related fees     113,000     138,000 
+ Tax fees     1,187,000     1,975,000 
+ All other fees     2,000     2,000 
+ Total     $8,852,000     $9,478,000 
+[END TABLE]
+"Audit fees" includes amounts for statutory audits and attestation services related to our internal control over financial reporting for compliance with Section 404 of the Sarbanes-Oxley Act of 2002.
+The amounts shown for "Audit-related fees" primarily include fees for audits of employee benefit plans and due diligence in connection with acquisitions.
+The amounts shown for "Tax fees" relate to federal and state tax advice, acquisition tax planning, assistance with international tax compliance and international tax consulting.
+16    AMETEK, INC. 2019 Proxy Statement  
+The amounts shown for "All other fees" relate to online accounting research subscriptions.
+The affirmative vote of the holders of a majority of eligible shares present at the meeting, in person or by proxy, and voting on the matter is required to ratify the appointment of Ernst & Young LLP.
+Representatives of Ernst & Young LLP will be present at the meeting. They will have an opportunity to make a statement if they desire and will be available to respond to appropriate questions.
+Your Board of Directors Recommends a Vote FOR Ratification.
+AMETEK, INC. 2019 Proxy Statement    17
+THE BOARD OF DIRECTORS
+Board Composition Overview
+Our Board is comprised of Directors with diverse skills, background and experience.  Additional information on Board membership criteria is set forth on page 8 under "Consideration of Director Candidates."
+18    AMETEK, INC. 2019 Proxy Statement  
+Biographies
+As discussed under "Consideration of Director Candidates," the Corporate Governance/Nominating Committee analyzes a number of factors when considering Directors for selection to the Board. Each of our Directors has been selected based on their demonstrated leadership and significant experience in areas significant to our Company; ability to offer advice and guidance based upon that experience and expertise; sound business judgment; and character and integrity that support our core values. The biographical information set forth below includes a description of each Director's background that supported the Board's consideration of that Director for nomination. Unless we indicate otherwise, each Director has maintained the principal occupation and directorships described below for more than five years.
+[BEGIN TABLE]
+ Class I: Nominees for election at the meeting for terms expiring in 2022: 
+ RUBY R. CHANDY Director since 2013 Age 57      Ms. Chandy was the President of the Industrial Division of Pall Corporation from April 2012 to November 2015. Previously, she was Managing Director, Vice President of Dow Plastics Additives, a unit of The Dow Chemical Company, from 2011 to April 2012. Ms. Chandy brings to the Board her executive management experience, marketing and strategy skills, relevant experience in life science and industrial companies, and extensive engineering and management education. Ms. Chandy has served as a Director of Flowserve Corporation since May 2017. Ms. Chandy is currently a member of the Advisory Committee for the Specialty Products Division of DowDupont Inc. and will be a director of this division which will become DuPont, effective June 1, 2019. 
+ RUBY R. CHANDY Director since 2013 Age 57      Ms. Chandy was the President of the Industrial Division of Pall Corporation from April 2012 to November 2015. Previously, she was Managing Director, Vice President of Dow Plastics Additives, a unit of The Dow Chemical Company, from 2011 to April 2012. Ms. Chandy brings to the Board her executive management experience, marketing and strategy skills, relevant experience in life science and industrial companies, and extensive engineering and management education. Ms. Chandy has served as a Director of Flowserve Corporation since May 2017. Ms. Chandy is currently a member of the Advisory Committee for the Specialty Products Division of DowDupont Inc. and will be a director of this division which will become DuPont, effective June 1, 2019. 
+ STEVEN W. KOHLHAGEN Director since 2006 Age 71      Mr. Kohlhagen is a retired financial executive. Mr. Kohlhagen brings to the Board expertise in financial accounting, finance and risk management through his extensive experience in, and knowledge of, the financial, securities and foreign exchange markets. He is currently a Director of the Federal Home Loan Mortgage Corporation. Mr. Kohlhagen was a Director of GulfMark Offshore, Inc. from September 2013 to November 2017 and Abtech Holdings, Inc. from August 2012 to March 2014. 
+ STEVEN W. KOHLHAGEN Director since 2006 Age 71      Mr. Kohlhagen is a retired financial executive. Mr. Kohlhagen brings to the Board expertise in financial accounting, finance and risk management through his extensive experience in, and knowledge of, the financial, securities and foreign exchange markets. He is currently a Director of the Federal Home Loan Mortgage Corporation. Mr. Kohlhagen was a Director of GulfMark Offshore, Inc. from September 2013 to November 2017 and Abtech Holdings, Inc. from August 2012 to March 2014. 
+ DAVID A. ZAPICO Director since 2016 Age 54      Mr. Zapico is the Chairman and Chief Executive Officer of AMETEK. He became Chairman in July 2017 and Chief Executive Officer in May 2016. Previously he was Executive Vice President and Chief Operating Officer from January 2013 to May 2016. From October 2003 to January 2013, Mr. Zapico served as President–Electronic Instruments. Mr. Zapico brings to the Board extensive knowledge of our Company and the markets in which we operate through his 29 years' experience in our industry. 
+ DAVID A. ZAPICO Director since 2016 Age 54      Mr. Zapico is the Chairman and Chief Executive Officer of AMETEK. He became Chairman in July 2017 and Chief Executive Officer in May 2016. Previously he was Executive Vice President and Chief Operating Officer from January 2013 to May 2016. From October 2003 to January 2013, Mr. Zapico served as President–Electronic Instruments. Mr. Zapico brings to the Board extensive knowledge of our Company and the markets in which we operate through his 29 years' experience in our industry. 
+[END TABLE]
+AMETEK, INC. 2019 Proxy Statement    19
+[BEGIN TABLE]
+ Class II: Directors whose terms continue until 2020: 
+ THOMAS A. AMATO Director since 2017 Age 55      Mr. Amato is Chief Executive Officer and President of TriMas Corporation. Previously, he was Chief Executive Officer and President of Metaldyne, LLC from October 2009 to December 2015. From August 2014 to December 2015, Mr. Amato also served as Co-President and Chief Integration Officer of Metaldyne Performance Group Inc. Mr. Amato brings to the Board more than 25 years of broad industrial and international experience, having served in several leadership positions at global, multibillion-dollar businesses. He is currently a Director of TriMas Corporation.  
+ THOMAS A. AMATO Director since 2017 Age 55      Mr. Amato is Chief Executive Officer and President of TriMas Corporation. Previously, he was Chief Executive Officer and President of Metaldyne, LLC from October 2009 to December 2015. From August 2014 to December 2015, Mr. Amato also served as Co-President and Chief Integration Officer of Metaldyne Performance Group Inc. Mr. Amato brings to the Board more than 25 years of broad industrial and international experience, having served in several leadership positions at global, multibillion-dollar businesses. He is currently a Director of TriMas Corporation.  
+ ANTHONY J. CONTI Director since 2010 Age 70      Mr. Conti is retired from his position as a Partner at PricewaterhouseCoopers. Mr. Conti brings to the Board expertise in financial accounting, finance, strategy, risk management and human resources management with his more than 35 years' experience at a public accounting firm. He is currently a Director of BioTelemetry, Inc. 
+ ANTHONY J. CONTI Director since 2010 Age 70      Mr. Conti is retired from his position as a Partner at PricewaterhouseCoopers. Mr. Conti brings to the Board expertise in financial accounting, finance, strategy, risk management and human resources management with his more than 35 years' experience at a public accounting firm. He is currently a Director of BioTelemetry, Inc. 
+ GRETCHEN W. McCLAIN Director since 2014 Age 56      Ms. McClain was the founding President and Chief Executive Officer of Xylem Inc. from October 2011 to September 2013. Ms. McClain brings to the Board her extensive business, developmental, strategic and technical background from more than 25 years of global experience across multiple industries, including as CEO of a publicly traded industrial company and government agency leadership. She is currently a Director of Booz Allen Hamilton Holding Corporation and Boart Longyear Limited. She was a Director of Con-way, Inc. from June 2015 to October 2015, when it was acquired by XPO Logistics, Inc. 
+ GRETCHEN W. McCLAIN Director since 2014 Age 56      Ms. McClain was the founding President and Chief Executive Officer of Xylem Inc. from October 2011 to September 2013. Ms. McClain brings to the Board her extensive business, developmental, strategic and technical background from more than 25 years of global experience across multiple industries, including as CEO of a publicly traded industrial company and government agency leadership. She is currently a Director of Booz Allen Hamilton Holding Corporation and Boart Longyear Limited. She was a Director of Con-way, Inc. from June 2015 to October 2015, when it was acquired by XPO Logistics, Inc. 
+[END TABLE]
+[BEGIN TABLE]
+ Class III: Directors whose terms continue until 2021: 
+ ELIZABETH R. VARET Director since 1987 Age 75      Ms. Varet is a Managing Director of American Securities Management L.P. and chairman of the corporate general partner of several affiliated entities. Ms. Varet brings to the Board expertise in finance and investment through her extensive management and investment experience at private equity and other investment firms. 
+ ELIZABETH R. VARET Director since 1987 Age 75      Ms. Varet is a Managing Director of American Securities Management L.P. and chairman of the corporate general partner of several affiliated entities. Ms. Varet brings to the Board expertise in finance and investment through her extensive management and investment experience at private equity and other investment firms. 
+ DENNIS K. WILLIAMS Director since 2006 Age 73      Mr. Williams is retired from his position as President, Chief Executive Officer and Chairman of the Board of IDEX Corporation. Mr. Williams brings to the Board considerable experience and insight into issues facing large public companies gained as CEO of IDEX Corporation. He has extensive acquisition experience and knowledge specific to our markets with more than 30 years' experience in our industry. Mr. Williams is currently a Director of Owens-Illinois, Inc. and was a Director of Actuant Corporation from May 2006 until March 2018. 
+ DENNIS K. WILLIAMS Director since 2006 Age 73      Mr. Williams is retired from his position as President, Chief Executive Officer and Chairman of the Board of IDEX Corporation. Mr. Williams brings to the Board considerable experience and insight into issues facing large public companies gained as CEO of IDEX Corporation. He has extensive acquisition experience and knowledge specific to our markets with more than 30 years' experience in our industry. Mr. Williams is currently a Director of Owens-Illinois, Inc. and was a Director of Actuant Corporation from May 2006 until March 2018. 
+[END TABLE]
+20    AMETEK, INC. 2019 Proxy Statement  
+EXECUTIVE OFFICERS
+Officers are appointed by our Board to serve for the ensuing year and until their successors have been elected and qualified. Information about our executive officers as of March 13, 2019 is shown below:
+[BEGIN TABLE]
+ Name  Age  Present Position with AMETEK 
+ David A. Zapico  54  Chairman and Chief Executive Officer 
+ William J. Burke  57  Executive Vice President–Chief Financial Officer 
+ Ronald J. Oscher  51  Chief Administrative Officer 
+ Tony J. Ciampitti  46  President–Electronic Instruments 
+ John W. Hardin  54  President–Electronic Instruments 
+ Thomas C. Marecic  57  President–Electronic Instruments 
+ Timothy N. Jones  62  President–Electromechanical Group 
+ Thomas M. Montgomery  56  Senior Vice President–Comptroller & Principal Accounting Officer 
+[END TABLE]
+David A. Zapico's employment history with us and other directorships held during the past five years are described under the section "Biographies" on page 19. Mr. Zapico has 29 years of service with us.
+William J. Burke was elected Executive Vice President–Chief Financial Officer effective May 15, 2016. He served as Senior Vice President–Comptroller from July 2012 to May 2016, and as Treasurer from March 2007 to September 2017. Mr. Burke has over 31 years of service with us.
+Ronald J. Oscher was elected Chief Administrative Officer effective May 5, 2016. He served as President–Electronic Instruments from November 2014 to December 2016. From March 2013 to November 2014, Mr. Oscher served as Senior Vice President–Electronic Instruments. Mr. Oscher has 8 years of service with us.
+Tony J. Ciampitti was elected President–Electronic Instruments effective January 1, 2017. Previously he served as Vice President and General Manager–Power Systems and Instruments Division from July 2008 to January 2017. Mr. Ciampitti has 22 years of service with us.
+John W. Hardin was elected President–Electronic Instruments effective July 23, 2008. Mr. Hardin has 20 years of service with us.
+Thomas C. Marecic was elected President–Electronic Instruments effective November 5, 2014. Previously he served as Senior Vice President–Electronic Instruments from March 2013 to November 2014. Mr. Marecic has 24 years of service with us.
+Timothy N. Jones was elected President–Electromechanical Group effective February 1, 2006. Mr. Jones has 39 years of service with us.
+Thomas M. Montgomery was elected Senior Vice President–Comptroller & Principal Accounting Officer effective May 15, 2016. Previously he served as Vice President–Planning & Analysis from July 2012 to May 2016. Mr. Montgomery has 35 years of service with us.
+AMETEK, INC. 2019 Proxy Statement    21
+EXECUTIVE COMPENSATION
+COMPENSATION DISCUSSION AND ANALYSIS
+Introduction
+In this Compensation Discussion and Analysis, we address the compensation paid or awarded to our executive officers listed in the Summary Compensation Table that immediately follows this discussion. We refer to these executive officers as our "named executive officers."
+Each year, the Compensation Committee, in consultation with an independent compensation consultant, carefully reviews our compensation policies and procedures to determine if they are in the best interests of our stockholders and employees. The Compensation Committee conducted this review in the fall of 2018. In light of the strong level of stockholder approval of our executive compensation that we received at our 2018 Annual Meeting of Stockholders (approximately 95% of the advisory vote), the Compensation Committee determined that it is in the best interests of our stockholders as well as our employees to maintain our compensation policies and procedures, with certain enhancements, which are described in this Compensation Discussion and Analysis.
+Executive Compensation – Governance Practices
+The Compensation Committee recognizes that the success of our executive compensation program over the long-term requires a robust framework of compensation governance. As a result, the Compensation Committee regularly reviews external executive compensation practices and trends and incorporates best practices into our executive compensation program.
+What We Do
+[BEGIN TABLE]
+ ✓  Incentive compensation programs feature multiple, different performance measures aligned with our business strategy 
+ ✓  Strong alignment between pay and performance 
+ ✓  Large portion of executive compensation is at-risk and variable 
+ ✓  Large majority of variable compensation is delivered as long-term incentives 
+ ✓  All long-term incentives are denominated and delivered in equity 
+ ✓  Stock ownership requirements for all executive officers 
+ ✓  Minimum vesting requirements for equity awards per our equity plan 
+ ✓  Caps on annual bonuses to avoid excessive short-term focus and potentially adverse risk-taking 
+ ✓  Annually benchmark our compensation levels to ensure competitiveness 
+ ✓  Use an independent consultant to advise the Compensation Committee 
+[END TABLE]
+What We Don't Do
+[BEGIN TABLE]
+ ✘  No excise tax gross-ups on change of control payments 
+ ✘  No excessive perquisites 
+ ✘  No hedging of our common stock by our officers and directors 
+ ✘  No pledging of our common stock by our officers and directors 
+ ✘  No discounting, reloading or repricing of stock options without stockholder approval 
+ ✘  No evergreen provision in our equity plan 
+[END TABLE]
+Enhancements for 2018
+In 2018, we enhanced our executive compensation program by introducing performance-based stock awards to our equity-based compensation program. The use of performance-based awards, in conjunction with stock options and restricted stock, ensures that we maintain a balanced long-term incentive program. The performance-based awards are earned based on the degree of achievement against predetermined relative and absolute performance goals over a three-year measurement period. 
+22    AMETEK, INC. 2019 Proxy Statement  
+In addition, we adopted a defined executive compensation peer group to benchmark executive pay levels and practices. Following a rigorous process which included our independent consultant, we selected the following 20-company peer group:
+[BEGIN TABLE]
+ Acuity Brands, Inc.  Flowserve Corporation  Keysight Technologies, Inc.  Roper Technologies, Inc. 
+ Agilent Technologies, Inc.  Fortive Corporation  Parker-Hannifin Corporation  Sensata Technologies Holding plc  
+ Crane Co.  Hubbell Incorporated  Pentair plc  TransDigm Group Incorporated 
+ Dover Corporation  IDEX Corporation  Rockwell Automation, Inc.  Triumph Group, Inc. 
+ Emerson Electric Co.  Illinois Tool Works Inc.  Rockwell Collins, Inc.  Xylem Inc. 
+[END TABLE]
+The Compensation Committee selected companies for inclusion in this peer group based on similarity of industry classification and general comparability of key size measures including market capitalization, revenue, assets and employees.  This defined peer group data is used in conjunction with general industry market data when benchmarking each compensation component and total target compensation. 
+We reviewed the composition of our compensation peer group in August 2018.  Following this review, four companies (Emerson Electric Co., Illinois Tool Works Inc., Triumph Group, Inc. and Roper Technologies, Inc.) were removed and one company (Snap-On Incorporated) was added to the compensation peer group.  The Compensation Committee made these changes to remain consistent with the inclusion criteria described above.  This newly constituted peer group will be used to inform pay actions effective in 2019.
+2018 Compensation
+Compensation Objectives
+The compensation paid or awarded to our named executive officers for 2018 was designed to meet the following objectives:
+[BEGIN TABLE]
+• Provide compensation that is competitive with market levels of compensation provided to other relevant companies' executive officers, as described further below, taking into account the size of our company or operating group, as applicable. We refer to this objective as "competitive compensation." 
+• Create a compensation structure under which a meaningful portion of total compensation is at risk and based on achievement of performance goals. We refer to this objective as "performance incentives." 
+• Encourage the aggregation and maintenance of meaningful equity ownership, and alignment of executive and stockholder interests. We refer to this objective as "stakeholder alignment." 
+• Provide an incentive for long-term continued employment with us. We refer to this objective as "retention incentives." 
+[END TABLE]
+We fashioned various components of our 2018 compensation payments and awards to meet these objectives as follows: 
+[BEGIN TABLE]
+ Pay Component  Competitive Compensation  Performance Incentives  Stakeholder Alignment  Retention Incentives 
+ Salary  X          
+ Short-Term Incentive Awards  X  X  X    
+ Long-Term Incentive Awards  X  X  X  X 
+[END TABLE]
+Determination of Competitive Compensation
+In assessing the competitiveness of our compensation levels, we review current-year compensation data provided to us by an independent compensation consultant, Pay Governance LLC.  We generally refer to the median pay levels of both our compensation peer group and the general industry (a collection of approximately 500 companies) for each pay component and for all pay components in the aggregate. 
+AMETEK, INC. 2019 Proxy Statement    23
+We used the following process to determine a reference point for the compensation for each named executive officer in 2018:
+[BEGIN TABLE]
+• We provided to the compensation consultant a description of the responsibilities for each named executive officer. 
+• The compensation consultant employed its standard methodology to provide market compensation levels for comparable executives. Comparable executives are seasoned executives having similar responsibilities. The competitive compensation information was based on our compensation peer group and general industry data derived principally from Willis Towers Watson's Executive Compensation Database, supplemented with data from public filings. The data were size-adjusted to reflect our estimated revenues and the relevant operating groups as appropriate.  
+[END TABLE]
+While the actual amount of total compensation earned will vary based on company and individual performance, our goal is for total target compensation, as well as each element of total target compensation, to be at or around the median target compensation for executives with similar positions in the market. Individual executive compensation is established based on an executive's scope of responsibility, impact on profitable growth, individual performance and breadth of experience.
+Role of Executive Officers in Determining Executive Compensation for Named Executive Officers
+In connection with 2018 compensation, Mr. Zapico, aided by our human resources department, provided statistical data and recommendations to the Compensation Committee to assist it in determining compensation levels. Mr. Zapico did not make recommendations as to his own compensation. While the Compensation Committee utilized this information, and valued Mr. Zapico's observations with regard to other executive officers, the ultimate approval regarding executive compensation came from the Compensation Committee.
+2018 Compensation Components
+Salaries
+The salary amounts set forth in the Summary Compensation Table for 2018 reflect salary decisions made by the Compensation Committee in November 2017. In determining base salary, the CEO and the Compensation Committee consider the size and scope of the executives' responsibilities, experience, performance and the median base salary of similar positions in the market. The Compensation Committee believes that median base salary is an appropriate general reference point to attract and retain top executive talent. Base salaries are reviewed annually, and adjustments are intended to recognize performance and contributions over the prior year, as well as any significant changes in duties or scope of responsibility.
+Short-Term Incentive Program
+The principal objective of our short-term incentive program is to strongly link a portion of annual compensation to our business achievements. We set target short-term incentive opportunities at the median for comparable executives. However, variations from market, both positive and negative, may result based on actual performance.
+For 2018, we set target bonus amounts, which are typically stated as a percentage of base salary, for the named executive officers as follows:  Mr. Zapico – 110%; Mr. Burke – 75%; Mr. Jones – 65%; Mr. Hardin – 65%; and Mr. Marecic – 65%.
+Under our short-term incentive program, we selected performance measures that are key drivers of stockholder value. In some instances, performance metrics differed among the named executive officers. These differences reflect the differing responsibilities of the executives. We also established targets, or expected levels of performance, for each performance measure.
+24    AMETEK, INC. 2019 Proxy Statement  
+The large majority of our executives' annual incentive is based on formula-driven, non-discretionary, financial metrics.  The target goal for each non-discretionary measure in 2018 was derived from our 2018 budget. Consistent with past practice, the Compensation Committee can make adjustments on a case-by-case basis, such as for group operating income, as described below.
+[BEGIN TABLE]
+• Diluted earnings per share (EPS) – We believe that the paramount objective of a principal executive officer is to increase stockholder return significantly, and that for a large, well-established industrial corporation, EPS is typically a key metric affecting share price. Therefore, we believe EPS is an excellent measure of our executive officers' performance. For bonuses earned in 2018, we reduced diluted earnings per share to exclude the favorable impact of the finalization of the Tax Cuts and Jobs Act (US Tax Reform). 
+• Organic revenue growth – Revenue growth is key to the long-term vitality of a business and we believe this is an indicator of our executive officers' performance. This measure is applied either on a companywide basis, or, for our group presidents, with regard to their respective operating groups. We define our organic revenue growth measure as actual revenue compared to prior-year revenue without giving effect to (i) increases in revenues from businesses that we acquired during the year and (ii) foreign currency effects. 
+• Operating income – This measure applies to our group presidents with regard to their respective operating groups. We believe this measure is a reliable indicator of corporate and operating group performance.  Adjustments to operating unit income are approved by the Compensation Committee and, in 2018, consisted of the inclusion of estimated tax benefits pertaining to the disposal of excess and obsolete inventory, the inclusion of specified financing costs related to acquisitions, and the exclusion of realignment costs. We increased operating unit income by the estimated tax benefit realized through the disposal of excess and obsolete inventory. This adjustment encourages our operating executives to dispose of excess and obsolete inventory so stockholders benefit from the lower taxes. We reduced operating unit income by the estimated amount of interest cost we incur on funds borrowed to finance an acquisition where the results of operations of the acquired business are included in the unit's operating results. We believe that reducing the operating unit income derived from an acquired business by these interest costs better reflects the contribution of the acquisition to the operating unit's performance. By excluding realignment costs, we encourage our operating executives to take appropriate long-term actions for the business. 
+• Operating working capital – This measure represents inventory plus accounts receivable less accounts payable as a percentage of sales. We use this measure to encourage our executives to manage our working capital in a manner that increases cash available for investment. Operating working capital is reported at the corporate and group level. A lower working capital percentage is an indicator of the executives' success in increasing our cash resources. 
+• Discretionary – A small portion of each executive's award, ranging from 10% to 20% of total incentive, is based on discretionary factors that are deemed appropriate by the Compensation Committee, as discussed in more detail below. 
+[END TABLE]
+AMETEK, INC. 2019 Proxy Statement    25
+The weighting of performance measures, achievement range, actual results and actual award for each named executive officer is set forth in the table below.  In establishing the weighting, the Compensation Committee considered the alignment of compensation to our business strategy, and key operational and financial measures, as well as motivating and rewarding high individual performance.
+[BEGIN TABLE]
+ Name     Performance Measure        Threshold        Designated Goal (Target)        Maximum        Actual Results        Performance Measure as a Percentage of Total Target Award Opportunity        Actual Award        Actual Award as Percentage of Target Award Opportunity for the Performance Measure    
+ Name     Performance Measure        Threshold        Designated Goal (Target)        Maximum        Actual Results        Performance Measure as a Percentage of Total Target Award Opportunity        Actual Award        Actual Award as Percentage of Target Award Opportunity for the Performance Measure    
+ David A.     Diluted Earnings Per Share        $2.40        $3.00        $3.30        $3.29        65%        $1,687,400        197%    
+ Zapico     Organic Revenue Growth        1.00%        4.00%        7.00%        6.82%        15%        $384,120        194%    
+       Discretionary        0%        100%        200%        200%        20%        $528,000        200%    
+ William J.     Diluted Earnings Per Share        $2.40        $3.00        $3.30        $3.29        65%        $551,281        197%    
+ Burke     Organic Revenue Growth        1.00%        4.00%        7.00%        6.82%        15%        $125,494        194%    
+       Corporate Working Capital        18.81%        17.10%        15.39%        17.40%        10%        $35,363        82%    
+       Discretionary        0%        100%        200%        200%        10%        $86,250        200%    
+ Timothy N.     Diluted Earnings Per Share        $2.40        $3.00        $3.30        $3.29        30%        $194,818        197%    
+ Jones     Organic Revenue Growth        1.00%        4.00%        7.00%        8.92%        15%        $99,060        200%    
+       Group Operating Income        $209,107,685        $261,384,606        $287,523,067        $260,732,488        25%        $81,520        99%    
+       Group Working Capital        18.15%        16.50%        14.85%        18.12%        10%        $660        2%    
+       Discretionary        0%        100%        200%        126%        20%        $83,204        126%    
+ John W.     Diluted Earnings Per Share        $2.40        $3.00        $3.30        $3.29        30%        $203,255        197%    
+ Hardin     Organic Revenue Growth        1.00%        4.00%        7.00%        4.43%        15%        $59,082        114%    
+       Group Operating Income        $300,903,359        $376,129,199        $413,742,119        $351,925,195        25%        $58,414        68%    
+       Group Working Capital        23.21%        21.10%        18.99%        21.30%        10%        $31,350        91%    
+       Discretionary        0%        100%        200%        130%        20%        $89,311        130%    
+ Thomas C.     Diluted Earnings Per Share        $2.40        $3.00        $3.30        $3.29        30%        $170,658        197%    
+ Marecic     Organic Revenue Growth        1.00%        4.00%        7.00%        5.39%        15%        $63,490        146%    
+       Group Operating Income        $164,422,988        $205,528,735        $226,081,609        $238,577,467        25%        $144,625        200%    
+       Group Working Capital        19.47%        17.70%        15.93%        17.47%        10%        $32,685        113%    
+       Discretionary        0%        100%        200%        171%        20%        $115,952        200%    
+• Cash Flow – We achieved record cash flow in 2018 with operating cash up 11% to $926 million, and free cash flow (cash flow provided by operating activities less capital expenditures) of $843 million, with free cash flow conversion of 110% of adjusted net income. 
+• Stock Performance – Our total shareholder return ("TSR") outperformed the S&P 500 Industrials in 2018 by 740 basis points. 
+[END TABLE]
+26    AMETEK, INC. 2019 Proxy Statement  
+Additionally, the discretionary awards for Messrs. Jones, Hardin and Marecic reflected the Compensation Committee's assessment of acquisition activities for their respective areas of responsibility as these executives were instrumental in the evaluation, purchase and integration of the acquired businesses.
+Equity-Based Compensation
+We use equity-based compensation to align the interests of executives with those of stockholders and to support succession planning and retention.  We use the most recent year median of the compensation benchmarking peer group and general industry group as reference points for assessing and establishing our equity awards.
+The most notable change to equity-based compensation in 2018 was the introduction of performance restricted stock unit ("PRSU") awards.  For 2018, the PRSU awards comprise 20% of the target long-term incentive awards granted to the named executive officers.  The PRSU awards feature two equally weighted performance measures:  Return on Tangible Capital ("ROTC") and relative TSR.  ROTC is an important input to value creation and relative TSR reflects the collective output of management efforts.  ROTC is measured on an absolute basis against internal standards.  Relative TSR is measured on a relative basis against the constituents in the S&P 500 Industrials Index.  The S&P 500 Industrials Index was selected as the point of comparison for relative TSR as we believe it best represents the competition for investor funds, has similar trading patterns to our stock, and is robust.  The 2018 PRSU award features a three-year performance period, January 1, 2018 through December 31, 2020.  The ROTC performance target is established using the three-year trailing average of company results.  Threshold performance is 80% of target and maximum performance is 120% of target.  The performance range is above the median for the companies that comprise the S&P 500 Industrials Index.  The relative TSR performance target is set at the median of the constituents in the S&P 500 Industrials Index.  Threshold performance is the 30th percentile and maximum performance is the 80th percentile.  Payouts range from 50% at threshold to 200% at maximum for both measures.
+Nonqualified stock option ("NQSO") awards comprise 40% of the target long-term incentive awards granted to the named executive officers.  The 2018 NQSO awards feature three-year ratable vesting and a ten-year term, consistent with marketplace norms.  
+Restricted stock awards ("RSAs") comprise the remaining 40% of the target long-term incentive awards granted to the named executive officers.  The 2018 RSAs feature three-year ratable vesting, consistent with marketplace norms.  
+The redesigned equity-based compensation program was implemented following a comprehensive review of our long-term incentive program and addresses the items noted in this review.  PRSUs that are fully performance-based have been added to the long-term incentive award mix.  The PRSUs incorporate both absolute and relative performance measures, including relative TSR, a prominent performance metric.  The introduction of PRSUs reflects a balanced portfolio approach and diminishes the portion of long-term incentive awards that is time-based.  PRSUs are expected to increase as a proportion of the long-term incentive awards in subsequent years.
+Prior to March 2018, RSAs vested early if the closing price of our common stock was at least two times the grant date fair market value for five consecutive days.  In March 2018, this early vesting feature was eliminated.
+Stock-Based Award Grant Practices
+Our practices for the grant of stock-based awards encompass the following principles:
+[BEGIN TABLE]
+• Stock-based awards for our named executive officers are approved annually by the Compensation Committee on a pre-scheduled date, which occurs in close proximity to the date of our annual meeting of stockholders. 
+• The annual stock-based awards will not be made when the Compensation Committee is aware that executive officers or non-employee Directors are in possession of material, non-public information, or during quarterly or other specified "blackout" periods. 
+• While stock-based awards other than annual awards may be granted to address, among other things, the recruiting or hiring of new employees and promotions, such awards will not be made to executive officers if the Compensation Committee is aware that the executive officers are in possession of material, non-public information, or during quarterly or other specified "blackout" periods. 
+• The Compensation Committee has established that stock options are granted only on the date the Compensation Committee approves the grant and with an exercise price equal to the fair market value on the date of grant.  
+[END TABLE]
+AMETEK, INC. 2019 Proxy Statement    27
+[BEGIN TABLE]
+• Backdating of stock options is prohibited. 
+• We are prohibited from repricing stock options and stock appreciation rights and from cash buy-outs of underwater stock options and stock appreciation rights, except in connection with a corporate transaction involving us including, without limitation, any stock dividend, distribution (whether in the form of cash, company stock, other securities or other property), stock split, extraordinary cash dividend, recapitalization, change of control, reorganization, merger, consolidation, split-up, spin-off, combination, repurchase or exchange of company stock or other securities, or similar transaction(s), unless stockholders approve such actions. 
+[END TABLE]
+Stock Ownership Guidelines
+We believe that by encouraging our executives to maintain a meaningful equity interest in our Company, we will align the interests of our executives with those of our stockholders. In 2018, the stock ownership requirement for Mr. Zapico was increased to a multiple of six times his base salary in our stock, from a multiple of five times. Mr. Zapico met this increased multiple at the time of the change. The multiple for Messrs. Burke, Jones, Hardin and Marecic is three times base salary. Under our guidelines, an executive is expected to reach his or her stock ownership requirement within five years of being hired or promoted to his or her position. As of December 31, 2018, each of our named executive officers met his stock ownership guideline.
+Compensation Risk
+We review the risks associated with employee compensation policies and practices as an element of the annual incentive compensation process. As part of this process, we establish a balanced mix of fixed pay, short-term incentives and long-term incentives designed to motivate behaviors and decisions that promote disciplined progress towards longer-term, sustainable goals. The multi-year vesting of our equity-based compensation award program, along with our stock ownership guidelines, serves as a control mechanism to our longer-term risk horizon. The structural components of the short-term incentive compensation, including the quantitative nature of our goals, the setting of capped payout targets with actual payouts based on a capped achievement scale, and the individual performance evaluation process, are designed to prevent excessive risk-taking that would potentially harm our value or reward poor executive judgment. We reviewed our compensation policies and practices and concluded that they are not reasonably likely to have a material adverse effect on the company.
+Anti-Hedging and Anti-Pledging Policies
+The Board of Directors and our executive officers are prohibited from hedging their ownership of our stock, including trading in publicly-traded options, puts, calls, or other derivative instruments related to our stock. They are also prohibited from pledging our stock. This prohibition relates to any type of pledge arrangement, including margin accounts covering our stock.
+Clawback Policy
+We reserve the right to recover, or claw back, from a current or former executive officer any wrongfully earned performance-based compensation, including stock-based awards, upon the determination by the Compensation Committee of the following:
+[BEGIN TABLE]
+• There has been restatement of our financials due to the material noncompliance with any financial reporting requirement (other than a restatement caused by a change in applicable accounting rules or interpretations), and such executive officer engaged in fraud or intentional illegal conduct which materially contributed to the need for such restatement, 
+• The cash incentive or equity compensation to be recouped was calculated on, or its realized value affected by, the financial results that were subsequently restated, 
+• The cash incentive or equity compensation would have been less valuable than what was actually awarded or paid based upon the application of the correct financial results, and 
+• The pay affected by the calculation was earned or awarded within three years of the determination of the necessary restatement. 
+[END TABLE]
+28    AMETEK, INC. 2019 Proxy Statement  
+Any recoupment under this policy may be in addition to any other remedies that may be available to us under applicable law, including disciplinary actions up to, and including, termination of employment.
+The Compensation Committee has exclusive authority to modify, interpret and enforce this provision in compliance with all regulations.
+Ongoing and Post-Employment Agreements
+We have plans and agreements addressing compensation for our named executive officers that accrue value as the executive continues to work for us, provide benefits upon certain types of termination events and provide retirement benefits. These plans and agreements were adopted and, in some cases, amended at various times over the past 25 years, and were designed to be a part of a competitive compensation package. All plans apply to each named executive officer, except for the 2004 Executive Death Benefit Plan as further explained below, and the participants are indicated in the discussion below.
+[BEGIN TABLE]
+• Supplemental Executive Retirement Plan ("SERP") – This plan is a non-qualified deferred compensation plan that provides benefits for executives to the extent that their compensation cannot be taken into account under our tax-qualified plans because the compensation exceeds limits imposed by the Internal Revenue Code. We refer to the compensation that exceeds these limits as "excess compensation." For 2018, compensation in excess of $275,000 constitutes excess compensation.  
+[END TABLE]
+Under the SERP, each year we credit to the account of a participant an amount equal to 13% of the executive's excess compensation.  For 2018 and earlier, amounts credited were deemed to be invested in our common stock. Payout of an executive's account, which is subject to tax liability and which occurs upon termination of the executive's employment, was made in shares of our common stock. Therefore, the ultimate value of the shares paid out under the SERP was dependent on the performance of our common stock during the period an executive participates in the SERP.
+In connection with engaging a new plan administrator, the SERP was amended effective October 1, 2018.  The amended plan provides new deemed investments and new distribution options designed to mirror those of the AMETEK 401(k) Plan.  Participants may notionally invest their SERP contributions in the investment funds offered under the AMETEK 401(k) Plan (which includes an AMETEK Company Stock Fund) and an interest-bearing account.  The interest-bearing account is deemed to earn compound interest at one and one-half percent higher than the 10-year Treasury Note rate.  Payments of an executive's account balance in the AMETEK Company Stock Fund are made in shares of our common stock, while payments from all other investments are paid in cash.  Beginning with contributions that will be made for 2019, participants may generally elect to have the value of their account distributed following retirement, either in a lump sum or in up to 15 annual installments, or to have the SERP purchase an annuity in the participant's name.  Payments may commence sooner upon the participant's earlier separation from service, upon the death of the participant, or upon a change of control.
+All the named executive officers participate in the SERP. See the Non-Qualified Deferred Compensation table and accompanying narrative for additional information.
+[BEGIN TABLE]
+• Deferred Compensation Plan – This plan provides an opportunity for executives to defer payment of their short-term incentive award to the extent that such award, together with other relevant compensation, constitutes excess compensation. In advance of the year in which the short-term incentive award will be paid, an executive may elect to defer all or part of his or her eligible incentive award into a notional investment.  
+[END TABLE]
+Prior to October 1, 2018, the notional investment alternatives were limited to our common stock, an interest-bearing account, or both.  In 2018, we amended the Deferred Compensation Plan to provide new deemed investments designed to mirror those of the AMETEK 401(k) Plan.  Participants may notionally invest their Deferred Compensation Plan contributions in the investment funds offered under the AMETEK 401(k) Plan (which includes an AMETEK Company Stock Fund) and an interest-bearing account.  The interest-bearing account is deemed to earn compound interest at one and one-half percent higher than the 10-year Treasury Note rate.  
+A participant generally may elect to have the value of his or her account distributed following retirement, either in a lump sum or in up to fifteen annual installments, or in the form of an in-service distribution, payable either in a lump sum or in up to fifteen annual installments commencing on a date specified by the participant in his or her distribution election. Payments may commence sooner upon the participant's earlier separation from service, upon the death of the participant, in the event of an unforeseeable financial emergency or upon a 
+AMETEK, INC. 2019 Proxy Statement    29
+change of control.  Payments from the notional AMETEK Common Stock Fund are made in shares of our Common Stock, while payments from all other investments are paid in cash.
+Messrs. Zapico and Burke elected to participate in the Deferred Compensation Plan. See the Non-Qualified Deferred Compensation table and accompanying narrative for additional information.
+[BEGIN TABLE]
+• 2004 Executive Death Benefit Plan – This plan provides for retirement benefits or, if the executive dies before retirement, a death benefit. Generally, if the executive dies before retirement, the executive's beneficiary will receive a monthly payment of $8,333 until the participant would have reached age 80. If the executive retires (either at age 65 or after attaining age 55 with at least five years of service) the executive will be entitled to receive a distribution based on the value of his account in the plan, which is determined by gains or losses on, and death benefits received under, a pool of insurance policies that we own covering the lives of participants. Messrs. Zapico, Burke, Jones and Hardin participate in this plan. Mr. Marecic does not participate as he was not eligible to participate on January 1, 2004, the date the plan was frozen to new participants.  See the Non-Qualified Deferred Compensation table and accompanying narrative for further information. 
+• Change of Control Agreements – We have change of control agreements with each of our executive officers, which are described under "Potential Payments Upon Termination or Change of Control." We entered into these change of control agreements so that our executives can focus their attention and energies on our business during periods of uncertainty that may occur due to a potential change of control. In addition, we want our executives to support a corporate transaction involving a change of control that is in the best interests of our stockholders, even though the transaction may have an effect on the executive's continued employment with us. We believe these arrangements provide an important incentive for our executives to remain with us through a transaction.  See "Potential Payments Upon Termination or Change of Control" for more information. 
+[END TABLE]
+30    AMETEK, INC. 2019 Proxy Statement  
+Tax Considerations
+The Tax Cuts and Jobs Act ("TCJA") eliminated the IRC Section 162(m) performance-based compensation exemption for tax years beginning after December 31, 2017, except for compensation payable pursuant to a "written binding contract" in effect as of November 2, 2017.  Additionally, the definition of covered employees was expanded to expressly include the Chief Financial Officer.  Further, it provides that if an individual was a covered employee during any taxable year beginning on or after January 1, 2017, the individual is a covered employee for all subsequent years, even after the individual terminates employment.  Consequently, compensation paid to our covered executive officers, including our chief financial officer, in excess of $1 million will not be deductible unless it qualifies for transition relief applicable to certain arrangements that were in effect as of November 2, 2017 and not materially modified thereafter.  As in the past, going forward we will retain the flexibility to authorize compensation paid to our covered executive officers even if it may not be deductible if we believe it is in our best interest.
+REPORT OF THE COMPENSATION COMMITTEE
+The Compensation Committee reviewed and discussed with management the Compensation Discussion and Analysis required by SEC regulations. Based on its review and discussions, the Compensation Committee recommended to the Board of Directors that the Compensation Discussion and Analysis be included in this proxy statement.
+Respectfully submitted,
+The Compensation Committee:
+Dennis K. Williams, Chair
+Ruby R. Chandy
+Anthony J. Conti
+Elizabeth R. Varet
+Dated: March 13, 2019
+AMETEK, INC. 2019 Proxy Statement    31
+COMPENSATION TABLES
+SUMMARY COMPENSATION TABLE
+The following table provides information regarding the compensation of our Chief Executive Officer, Chief Financial Officer, and the next three most highly compensated executive officers.
+[BEGIN TABLE]
+ Name and Principal Position     Year        Salary        Bonus        Stock Awards (1)        Option Awards (2)        Non-Equity Incentive Plan Compensation (3)        Change in Pension Value and Nonqualified Deferred Compensation Earnings (4)        All Other Compensation (5)        Total 
+ Name and Principal Position     Year        Salary        Bonus        Stock Awards (1)        Option Awards (2)        Non-Equity Incentive Plan Compensation (3)        Change in Pension Value and Nonqualified Deferred Compensation Earnings (4)        All Other Compensation (5)        Total 
+ David A. Zapico     2018        $1,200,000        $528,000        $2,758,680        $1,720,145        $2,071,520        $0        $483,810        $8,762,155 
+ Chairman and Chief     2017        1,100,000        484,000        2,052,612        1,638,680        1,837,688        209,586        461,507        7,784,073 
+ Executive Officer     2016        909,891        311,804        1,476,892        1,245,890        275,647        131,947        207,212        4,559,283 
+ William J. Burke     2018        575,000        86,250        907,343        565,274        712,138        0        158,642        3,004,647 
+ Executive Vice President -     2017        520,000        78,000        691,641        552,047        654,713        247,658        149,756        2,893,815 
+ Chief Financial Officer     2016        440,860        79,776        543,327        458,449        97,225        154,282        68,239        1,842,158 
+ Timothy N. Jones     2018        508,000        83,204        497,753        310,043        376,058        0        96,728        1,871,786 
+ President -     2017        490,000        64,019        481,194        383,946        410,713        313,077        103,094        2,246,043 
+ Electromechanical Group     2016        471,650        81,199        352,200        297,197        58,041        193,358        58,748        1,512,393 
+ John W. Hardin     2018        530,000        89,312        520,366        324,037        352,101        0        141,488        1,957,304 
+ President -     2017        500,000        108,605        473,355        377,647        429,823        78,554        102,332        2,070,316 
+ Electronic Instruments     2016        470,000        84,776        333,416        280,935        103,682        14,312        107,028        1,394,149 
+ Thomas C. Marecic     2018        445,000        115,952        434,406        270,059        411,458        0        98,369        1,775,244 
+ President -                                                                               
+ Electronic Instruments                                                                               
+ (4)  There was a decrease in pension value from December 31, 2017 to December 31, 2018 as follows:  Mr. Zapico, $(39,200); Mr. Burke, $(35,900); Mr. Jones, $(20,600) and Mr. Marecic, $(26,900).  Mr. Hardin is not eligible for pension benefits.  Includes earnings (losses) on non-qualified deferred compensation plans to the extent required to be disclosed under SEC regulations, including net negative amounts which are reported as $0 ("zero"), as follows: Mr. Zapico, $(47,419); Mr. Burke, $(54,629); Mr. Jones, $(80,783); and Mr. Hardin, $(46,396). 
+[END TABLE]
+[BEGIN TABLE]
+ (5)  Included in All Other Compensation for 2018 are the following items: 
+• Employer contributions under the terms of company-sponsored defined contribution plans, including the Supplemental Executive Retirement Plan, as follows: Mr. Zapico, $459,388; Mr. Burke, $143,990; Mr. Jones, $91,194; Mr. Hardin, $123,772; and Mr. Marecic, $91,863; and,  
+• Perquisites, consisting of car allowances which total $23,548 for Mr. Zapico; $14,488 for Mr. Burke; and $15,833 for Mr. Hardin; and income tax preparation services which total $1,500 for Mr. Hardin.  The aggregate amount of perquisites provided to the other named executive officers is less than $10,000. 
+[END TABLE]
+32    AMETEK, INC. 2019 Proxy Statement  
+GRANTS OF PLAN-BASED AWARDS
+The following table provides details regarding plan-based awards granted to the named executive officers in 2018.
+[BEGIN TABLE]
+                                                                                  All Other Stock Awards: Number of Shares of Stock or Units (3)         All Other Option Awards: Number of Securities Underlying Options (4)         Exercise or Base Price of Option Awards          Grant Date Fair Value of Stock and Option Awards (5)     
+                Estimated Possible Payouts Under Non-Equity Incentive Plan Awards (1)        Estimated Possible Payouts Under Equity Incentive Plan Awards (2)                            
+         Name           Grant Date                Threshold                   Target                   Maximum                Threshold                   Target                   Maximum                            
+         Name           Grant Date                Threshold                   Target                   Maximum                Threshold                   Target                   Maximum                            
+ David A. Zapico       2/9/2018        −           $1,320,000           $2,640,000        −           −           −        −        −        −        N/A    
+    3/14/2018        −           −           −        5,740           11,480           22,960        −        −        −        $1,078,144    
+    5/8/2018        −           −           −        −           −           −        22,880        103,250        $73.45        3,400,681    
+ William J. Burke      2/9/2018        −           431,250           862,500        −           −           −        −        −        −        N/A    
+    3/14/2018        −           −           −        1,890           3,780           7,560        −        −        −        354,999    
+    5/8/2018        −           −           −        −           −           −        7,520        33,930        73.45        1,117,618    
+ Timothy N. Jones      2/9/2018        −           330,200           660,400        −           −           −        −        −        −        N/A    
+    3/14/2018        −           −           −        1,035           2,070           4,140        −        −        −        194,404    
+    5/8/2018        −           −           −        −           −           −        4,130        18,610        73.45        613,391    
+ John W. Hardin       2/9/2018        −           344,500           689,000        −           −           −        −        −        −        N/A    
+    3/14/2018        −           −           −        1,085           2,170           4,340        −        −        −        203,796    
+    5/8/2018        −           −           −        −           −           −        4,310        19,450        73.45        640,607    
+ Thomas C. Marecic       2/9/2018        −           289,250           578,500        −           −           −        −        −        −        N/A    
+    3/14/2018        −           −           −        905           1,810           3,620        −        −        −        169,986    
+    5/8/2018        −           −           −        −           −           −        3,600        16,210        73.45        534,479    
+[END TABLE]
+[BEGIN TABLE]
+ (2)  The equity incentive plan awards consist of performance-based restricted stock unit awards granted under our 2011 Omnibus Incentive Compensation Plan.  One-half of the units awarded are subject to an internal performance measure, Return on Tangible Capital, and one-half of the units awarded are subject to an external market measure, Total Shareholder Return relative to the companies that comprise the S&P 500 Industrials Index at the beginning of the three-year performance period, January 1, 2018.  Recipients will earn 50% of the target number of units awarded for achieving the threshold level of performance for each measure.  Recipients can earn a maximum of 200% of the target number of units awarded for achieving the maximum level of performance for each measure.  Units earned will vest within three months following the conclusion of the performance period upon certification of performance results by the Compensation Committee.  Award holders who terminate from employment more than one year into the performance period and following the attainment of age fifty-five and at least ten years of service are provisionally vested pending performance certification by the Committee.  Recipients who terminate employment due to death or disability, or as a result of and concurrent with a change of control, shall become vested in the target number of units awarded upon certification of performance results by the Compensation Committee.  Cash dividends are earned on the units awarded but are not paid until the award vests. Until the award vests, the dividends accrue interest at the 5-year Treasury note rate plus 0.5%, compounded quarterly. 
+[END TABLE]
+[BEGIN TABLE]
+ (3)  The stock awards constitute restricted shares granted under our 2011 Omnibus Incentive Compensation Plan. These shares become vested and nonforfeitable on the earliest of: (a) with respect to one-third of the restricted shares awarded (and any dividends with respect thereto) on each of the first, second and third anniversaries of the award date, subject to the recipient's continuous employment with the company through each such date; (b) the death or disability of the recipient; (c) the recipient's termination of employment with the company as a result of and concurrent with a change of control. Cash dividends are earned on the restricted shares but are not paid until the restricted shares vest. Until the restricted stock vests, the dividends accrue interest at the 5-year Treasury note rate plus 0.5%, compounded quarterly. 
+[END TABLE]
+AMETEK, INC. 2019 Proxy Statement    33
+[BEGIN TABLE]
+ (4)  The option awards constitute stock options granted under our 2011 Omnibus Incentive Compensation Plan. Stock options become exercisable as to one-third of the underlying shares on each of the first three anniversaries of the date of grant. Options generally become fully exercisable in the event of: retirement after the completion of at least two full years of employment and the attainment of age sixty-five, the grantee's death or permanent disability, or termination of employment in connection with a change of control. 
+[END TABLE]
+[BEGIN TABLE]
+ (5)  The grant date fair value is computed in accordance with ASC 718, but without giving effect to estimated forfeitures related to service-based vesting conditions. The assumptions used in determining the grant date fair value of option awards in this column are set forth in Note 11 to our Consolidated Financial Statements in our Form 10-K filed with the Securities and Exchange Commission. 
+[END TABLE]
+34    AMETEK, INC. 2019 Proxy Statement  
+OUTSTANDING EQUITY AWARDS AT FISCAL YEAR-END
+The following table provides details regarding outstanding equity awards for the named executive officers at December 31, 2018.
+[BEGIN TABLE]
+          Option Awards (1)     Stock Awards 
+ Name     Option Grant Date  Number of Securities Underlying Unexercised Options Exercisable  Number of Securities Underlying Unexercised Options Unexercisable  Option Exercise Price  Option Expiration Date  Number of Shares or Units of Stock That Have Not Vested (2)  Market Value of Shares or Units of Stock That Have Not Vested (3)  Equity Incentive Plan Awards: Number of Unearned Shares, Units or Other Rights that Have Not Vested (4)  Equity Incentive Plan Awards: Market or Payout Value of Unearned Shares, Units or Other Rights that Have Not Vested (3) 
+ Name     Option Grant Date  Number of Securities Underlying Unexercised Options Exercisable  Number of Securities Underlying Unexercised Options Unexercisable  Option Exercise Price  Option Expiration Date  Number of Shares or Units of Stock That Have Not Vested (2)  Market Value of Shares or Units of Stock That Have Not Vested (3)  Equity Incentive Plan Awards: Number of Unearned Shares, Units or Other Rights that Have Not Vested (4)  Equity Incentive Plan Awards: Market or Payout Value of Unearned Shares, Units or Other Rights that Have Not Vested (3) 
+ Name     Option Grant Date  Number of Securities Underlying Unexercised Options Exercisable  Number of Securities Underlying Unexercised Options Unexercisable  Option Exercise Price  Option Expiration Date  Number of Shares or Units of Stock That Have Not Vested (2)  Market Value of Shares or Units of Stock That Have Not Vested (3)  Equity Incentive Plan Awards: Number of Unearned Shares, Units or Other Rights that Have Not Vested (4)  Equity Incentive Plan Awards: Market or Payout Value of Unearned Shares, Units or Other Rights that Have Not Vested (3) 
+ Name     Option Grant Date  Number of Securities Underlying Unexercised Options Exercisable  Number of Securities Underlying Unexercised Options Unexercisable  Option Exercise Price  Option Expiration Date  Number of Shares or Units of Stock That Have Not Vested (2)  Market Value of Shares or Units of Stock That Have Not Vested (3)  Equity Incentive Plan Awards: Number of Unearned Shares, Units or Other Rights that Have Not Vested (4)  Equity Incentive Plan Awards: Market or Payout Value of Unearned Shares, Units or Other Rights that Have Not Vested (3) 
+ David A. Zapico         5/8/2018        -        103,250        $73.45        5/8/2028        101,690        $6,884,413        5,740        $388,598    
+       5/9/2017        37,067        111,203        60.30        5/9/2024                                        
+       5/4/2016        68,185        68,185        46.96        5/4/2023                                        
+       5/6/2015        43,530        14,510        52.27        5/5/2022                                        
+       5/8/2014        44,740        -        53.13        5/7/2021                                        
+       5/8/2013        58,760        -        41.74        5/7/2020                                        
+       5/1/2012        31,200        -        34.05        4/30/2019                                        
+ William J. Burke         5/8/2018        -        33,930        73.45        5/8/2028        22,850        1,546,945        1,890        127,953    
+       5/9/2017        12,487        37,463        60.30        5/9/2024                                        
+       5/4/2016        25,090        25,090        46.96        5/4/2023                                        
+       5/6/2015        12,312        4,106        52.27        5/5/2022                                        
+       5/8/2014        12,510        -        53.13        5/7/2021                                        
+       5/8/2013        16,322        -        41.74        5/7/2020                                        
+ Timothy N. Jones         5/8/2018        -        18,610        73.45        5/8/2028        15,344        1,038,789        1,035        70,070    
+       5/9/2017        8,685        26,055        60.30        5/9/2024                                        
+       5/4/2016        16,265        16,265        46.96        5/4/2023                                        
+       5/6/2015        19,296        6,434        52.27        5/5/2022                                        
+       5/8/2014        21,620        -        53.13        5/7/2021                                        
+       5/8/2013        26,220        -        41.74        5/7/2020                                        
+ John W. Hardin         5/8/2018        -        19,450        73.45        5/8/2028        24,840        1,681,668        1,085        73,455    
+       5/9/2017        8,542        15,628        60.30        5/9/2024                                        
+       5/4/2016        15,375        15,375        46.96        5/4/2023                                        
+       5/6/2015        18,246        6,084        52.27        5/5/2022                                        
+       5/8/2014        19,650        -        53.13        5/7/2021                                        
+       5/8/2013        26,220        -        41.74        5/7/2020                                        
+ Thomas C. Marecic          5/8/2018        -        16,210        73.45        5/8/2028        12,153        822,758        905        61,269    
+       5/9/2017        6,742        20,228        60.30        5/9/2024                                        
+       5/4/2016        12,155        12,155        46.96        5/4/2023                                        
+       5/6/2015        14,430        4,810        52.27        5/5/2022                                        
+       5/8/2014        12,100        -        53.13        5/7/2021                                        
+       5/8/2013        13,990        -        41.74        5/7/2020                                        
+       5/1/2012        14,097        -        34.05        4/30/2019                                        
+ Name     Grant Date     Number of Shares or Units of Stock That Have Not Vested  Vesting Date  Price-Related Event for Accelerated Vesting* 
+ Name     Grant Date     Number of Shares or Units of Stock That Have Not Vested  Vesting Date  Price-Related Event for Accelerated Vesting* 
+ David A. Zapico     5/8/2018        7,626        5/8/2019        N/A    
+       5/8/2018        7,627        5/8/2020        N/A    
+       5/8/2018        7,627        5/8/2021        N/A    
+       5/9/2017        25,530        5/9/2020        $120.60    
+       5/9/2017        8,510        5/9/2021        120.60    
+       5/4/2016        31,450        5/4/2020        93.92    
+       5/6/2015        13,320        5/6/2019        104.54    
+ William J. Burke     5/8/2018        2,506        5/8/2019        N/A    
+       5/8/2018        2,507        5/8/2020        N/A    
+       5/8/2018        2,507        5/8/2021        N/A    
+       5/9/2017        2,867        5/9/2019        120.60    
+       5/9/2017        2,868        5/9/2020        120.60    
+       5/9/2017        2,868        5/9/2021        120.60    
+       5/4/2016        2,892        5/4/2019        93.92    
+       5/4/2016        2,893        5/4/2020        93.92    
+       5/6/2015        942        5/6/2019        104.54    
+ Timothy N. Jones     5/8/2018        1,376        5/8/2019        N/A    
+       5/8/2018        1,377        5/8/2020        N/A    
+       5/8/2018        1,377        5/8/2021        N/A    
+       5/9/2017        1,995        5/9/2019        120.60    
+       5/9/2017        1,995        5/9/2020        120.60    
+       5/9/2017        1,995        5/9/2021        120.60    
+       5/4/2016        1,875        5/4/2019        93.92    
+       5/4/2016        1,875        5/4/2020        93.92    
+       5/6/2015        1,479        5/6/2019        104.54    
+ John W. Hardin     5/8/2018        1,436        5/8/2019        N/A    
+       5/8/2018        1,437        5/8/2020        N/A    
+       5/8/2018        1,437        5/8/2021        N/A    
+       5/9/2017        5,887        5/9/2020        120.60    
+       5/9/2017        1,963        5/9/2021        120.60    
+       5/4/2016        7,100        5/4/2020        93.92    
+       5/6/2015        5,580        5/6/2019        104.54    
+ Thomas C. Marecic     5/8/2018        1,200        5/8/2019        N/A    
+       5/8/2018        1,200        5/8/2020        N/A    
+       5/8/2018        1,200        5/8/2021        N/A    
+       5/9/2017        1,548        5/9/2019        120.60    
+       5/9/2017        1,547        5/9/2020        120.60    
+       5/9/2017        1,548        5/9/2021        120.60    
+       5/4/2016        1,402        5/4/2019        93.92    
+       5/4/2016        1,403        5/4/2020        93.92    
+       5/6/2015        1,105        5/6/2019        104.54    
+      *  The price-related event for accelerated vesting of the restricted stock awards will occur if the NYSE closing price per share of our common stock for five consecutive trading days is equal to at least two times the closing price per share on the date of grant.    
+ (4)  Represents the number of performance-based restricted stock units to be earned upon achievement of threshold performance under the terms of the 2018 awards.  The number of units earned will vest within three months following the December 31, 2020 conclusion of the performance period upon certification of performance results by the Compensation Committee. 
+[END TABLE]
+36    AMETEK, INC. 2019 Proxy Statement  
+OPTION EXERCISES AND STOCK VESTED
+The following table provides information regarding option exercises and vesting of restricted stock awards for the named executive officers in 2018.
+[BEGIN TABLE]
+       Option Awards        Stock Awards    
+ Name  Number of Shares Acquired on Exercise  Value Realized on Exercise (1)  Number of Shares Acquired on Vesting  Value Realized on Vesting (2) 
+ Name  Number of Shares Acquired on Exercise  Value Realized on Exercise (1)  Number of Shares Acquired on Vesting  Value Realized on Vesting (2) 
+ Name  Number of Shares Acquired on Exercise  Value Realized on Exercise (1)  Number of Shares Acquired on Vesting  Value Realized on Vesting (2) 
+ David A. Zapico     —           —        13,130           $984,837    
+ William J. Burke     15,600           $716,871        7,619           $563,231    
+ Timothy N. Jones     —           —        6,936           $514,030    
+ John W. Hardin     55,920           $2,685,668        5,770           $432,788    
+ Thomas C. Marecic     —           —        4,943           $366,118    
+ (2)  On May 8, 2018, the fourth-year cliff vesting of the restricted stock granted on May 8, 2014 to all of the named executive officers occurred. The total value realized on vesting is equal to (1) the NYSE closing price per share of our common stock on May 8, 2018 ($73.45), multiplied by the number of shares acquired on vesting, (2) the dividends accrued since the date of award, and (3) the interest accrued on these dividends. 
+   Also, on May 7, 2018, the third-year pro rata vesting of the restricted stock granted on May 6, 2015 to Messrs. Burke, Jones and Marecic, who attained at least 55 years of age and at least 10 years of service with us, occurred. The total value realized on vesting is equal to (1) the NYSE closing price per share of our common stock on May 7, 2018 ($72.80), multiplied by the number of shares acquired on vesting, (2) the dividends accrued since the date of award, and (3) the interest accrued on these dividends. 
+[END TABLE]
+[BEGIN TABLE]
+   Also, on May 4, 2018, the second-year pro rata vesting of the restricted stock granted on May 4, 2016 to Messrs. Burke, Jones and Marecic, who attained at least 55 years of age and at least 10 years of service with us, occurred. The total value realized on vesting is equal to (1) the NYSE closing price per share of our common stock on May 4, 2018 ($71.50), multiplied by the number of shares acquired on vesting, (2) the dividends accrued since the date of award, and (3) the interest accrued on these dividends. 
+[END TABLE]
+[BEGIN TABLE]
+   Also, on May 9, 2018, the first-year pro rata vesting of the restricted stock granted on May 9, 2017 to Messrs. Burke, Jones and Marecic, who attained at least 55 years of age and at least 10 years of service with us, occurred. The total value realized on vesting is equal to (1) the NYSE closing price per share of our common stock on May 9, 2018 ($74.80), multiplied by the number of shares acquired on vesting, (2) the dividends accrued since the date of award, and (3) the interest accrued on these dividends. 
+[END TABLE]
+AMETEK, INC. 2019 Proxy Statement    37
+PENSION BENEFITS
+We have the following defined benefit plans in which some or all of our named executive officers participate:
+[BEGIN TABLE]
+• The Employees' Retirement Plan – This plan is a qualified defined benefit pension plan that provides retirement benefits to our U.S.-based salaried employees who commenced employment with us prior to January 1, 1997. The plan pays benefits based upon eligible final average plan compensation and years of credited service. Compensation in excess of a specified amount prescribed by the Department of the Treasury ($275,000 for 2018) is not taken into account under the Retirement Plan. Mr. Hardin, who joined us after January 1, 1997, is not eligible to participate in The Employees' Retirement Plan, and instead is eligible to participate in the Retirement Feature of the AMETEK 401(k) Plan, a defined contribution plan. 
+[END TABLE]
+Annual benefits earned under The Employees' Retirement Plan are computed using the following formula:
+(A + B) x C x 1.02
+where:
+[BEGIN TABLE]
+• A = 32.0% of eligible compensation not in excess of Social Security covered compensation plus 40.0% of eligible compensation in excess of Social Security covered compensation, times credited service at the normal retirement date (maximum of 15 years) divided by 15; 
+• B = 0.5% of eligible plan compensation times credited service at the normal retirement date in excess of 15 years (maximum of ten years); and 
+• C = current credited service divided by credited service at the normal retirement date. 
+[END TABLE]
+Participants may retire as early as age 55 with 10 years of service. Unreduced benefits are available when a participant attains age 65 with 5 years of service. Otherwise, benefits are reduced 6.67% for each year by which pension commencement precedes the attainment of age 65. Pension benefits earned are distributed in the form of a lifetime annuity. Messrs. Burke, Jones and Marecic are eligible for early retirement under the plan.
+The following table provides details regarding the present value of accumulated benefits under the plans described above for the named executive officers in 2018.
+[BEGIN TABLE]
+ Name     Plan Name  Number of Years Credited Service at December 31, 2018  Present Value of Accumulated Benefit (1)  Payments During 2018 
+ Name     Plan Name  Number of Years Credited Service at December 31, 2018  Present Value of Accumulated Benefit (1)  Payments During 2018 
+ David A. Zapico     The Employees' Retirement Plan     29           $680,900        −    
+ William J. Burke     The Employees' Retirement Plan     32           851,400        −    
+ Timothy N. Jones     The Employees' Retirement Plan     39           1,231,300        −    
+ John W. Hardin     N/A     N/A           N/A        −    
+ Thomas C. Marecic     The Employees' Retirement Plan     24           785,300        −    
+[END TABLE]
+[BEGIN TABLE]
+ (1)  The amounts shown in the Pension Benefit Table above are actuarial present values of the benefits accumulated through December 31, 2018. We used the following assumptions in quantifying the present value of the accumulated benefit:  discount rate - 4.40%; limitation on eligible annual compensation under the Internal Revenue Code - $275,000; limitation on eligible annual benefits under the Internal Revenue Code - $220,000; retirement age - later of 65 or current age; termination and disability rates - none; RP-2014 mortality table, as adjusted; form of payment - single life annuity.  
+[END TABLE]
+38    AMETEK, INC. 2019 Proxy Statement  
+NON-QUALIFIED DEFERRED COMPENSATION
+We have the following non-qualified deferred compensation plans in which our named executive officers participate:
+[BEGIN TABLE]
+• Supplemental Executive Retirement Plan ("SERP") – This provides benefits for executives to the extent that their compensation cannot be taken into account under our tax-qualified plans because the compensation exceeds limits imposed by the Internal Revenue Code ($275,000 in 2018).  Under the SERP, each year we credit to the account of a participant an amount equal to 13% of the executive's excess compensation.  Prior to 2019, amounts credited were deemed to be invested in our common stock. Payout of an executive's account, which is subject to tax liability and which occurs upon termination of the executive's employment, was made in shares of our common stock. Therefore, the ultimate value of the shares paid out under the SERP was dependent on the performance of our Common Stock during the period an executive participates in the SERP. 
+[END TABLE]
+The SERP was amended effective October 1, 2018.  The amended plan provides new deemed investments and new distribution options.  Participants may notionally invest their SERP contributions in the investment funds offered under the AMETEK 401(k) Plan (which includes an AMETEK Company Stock Fund) designed to mirror those of the AMETEK 401(k) Plan and an interest-bearing account.  The interest-bearing account is deemed to earn compound interest at one and one-half percent higher than the 10-year Treasury Note rate.  The interest-bearing account is the default investment for amounts credited to participant accounts after October 1, 2018.  Payments of an executive's account balance in the AMETEK Company Stock Fund are made in shares of our common stock, while payments from all other investments are paid in cash.  Beginning with contributions that will be made for 2019, participants may generally elect to have the value of their account distributed following retirement, either in a lump sum or in up to 15 annual installments, or to have the SERP purchase an annuity in the participant's name.  Payments may commence sooner upon the participant's earlier separation from service, upon the death of the participant, or upon a change of control.
+[BEGIN TABLE]
+• Deferred Compensation Plan – This plan provides an opportunity for executives to defer payment of their short-term incentive award to the extent that such award, together with other relevant compensation, exceeds limits imposed by the Internal Revenue Code ($275,000 in 2018). In advance of the year in which the short-term incentive award will be paid, an executive may elect to defer all or part of his or her eligible incentive award into a notional investment. 
+[END TABLE]
+Prior to October 1, 2018, the notional investment alternatives were limited to our Common Stock, an interest-bearing account, or both.  In 2018, we amended the Deferred Compensation Plan to provide new deemed investments designed to mirror those of the AMETEK 401(k) Plan.  The amended plan provides new deemed investments effective October 1, 2018.  Participants may notionally invest their Deferred Compensation Plan contributions in the investment funds offered under the AMETEK 401(k) Plan (which includes an AMETEK Company Stock Fund) and an interest-bearing account.  The interest-bearing account is deemed to earn compound interest at one and one-half percent higher than the 10-year Treasury Note rate.
+A participant generally may elect to have the value of his or her account distributed following retirement, either in a lump sum or in up to fifteen annual installments, or in the form of an in-service distribution, payable either in a lump sum or in up to fifteen annual installments commencing on a date specified by the participant in his or her distribution election. Payments may commence sooner upon the participant's earlier separation from service, upon the death of the participant, in the event of an unforeseeable financial emergency or upon a change of control.  Payments from the notional AMETEK Common Stock Fund are made in shares of our common stock, while payments from all other investments are paid in cash.
+[BEGIN TABLE]
+• 2004 Executive Death Benefit Plan – Under this plan, we provide a retirement benefit to Messrs. Zapico, Burke, Jones and Hardin.  The retirement benefit under this plan is designed to provide the lump sum necessary to deliver 20% of the executive's final projected annual salary paid annually for 10 years, on a present value basis at age 70. However, the actual benefit will vary based on the gains and losses from the underlying investments in a pool of insurance policies that we own covering the lives of the participants, and on death benefits received from these same policies. The maximum salary on which the benefit can be based is $500,000. If the covered executive dies while actively employed or while disabled and before age 65, the executive's beneficiaries will receive monthly payments from the date of the executive's death until the executive would have attained age 80. 
+[END TABLE]
+AMETEK, INC. 2019 Proxy Statement    39
+The following table provides details regarding non-qualified deferred compensation for the named executive officers in 2018.
+[BEGIN TABLE]
+ Name  Executive Contributions in Last Fiscal Year  Registrant Contributions in Last Fiscal Year (1)  Aggregate Earnings (Losses) in Last Fiscal Year (2)  Aggregate Withdrawals/ Distributions  Aggregate Balance at Last Fiscal Year-End (3) 
+ Name  Executive Contributions in Last Fiscal Year  Registrant Contributions in Last Fiscal Year (1)  Aggregate Earnings (Losses) in Last Fiscal Year (2)  Aggregate Withdrawals/ Distributions  Aggregate Balance at Last Fiscal Year-End (3) 
+ Name  Executive Contributions in Last Fiscal Year  Registrant Contributions in Last Fiscal Year (1)  Aggregate Earnings (Losses) in Last Fiscal Year (2)  Aggregate Withdrawals/ Distributions  Aggregate Balance at Last Fiscal Year-End (3) 
+ David A. Zapico        $1,000,000           $458,188           $(275,783)           —           $5,374,392    
+ William J. Burke        798,388           142,790           (76,150)           —           2,451,098    
+ Timothy N. Jones        —           89,994           (202,667)           —           2,356,094    
+ John W. Hardin        —           103,146           (127,679)           —           1,580,395    
+ John W. Hardin        —           103,146           (127,679)           —           1,580,395    
+ Thomas C. Marecic        —           90,663           (36,559)           —           693,511    
+• other payments and benefits provided on a nondiscriminatory basis to salaried employees generally upon termination of employment, including tax-qualified defined contribution plans, and 
+• short-term incentive payments that would not be increased due to the termination event. 
+[END TABLE]
+The following items are reflected in the summary table on page 44. The payment amounts reflect the payments that would have been due to the named executive officers had the termination or change of control event occurred on December 31, 2018.
+Change of Control Agreements. Under our change of control agreements with our named executive officers other than Mr. Zapico, in the event that a named executive officer's employment is terminated by us without cause or by the named executive officer for "good reason" within two years beginning on the effective date of a change of control, the executive officer will receive: (1) 2.99 times the sum of (a) the executive officer's base salary in effect on the last day of the fiscal year immediately preceding the effective date of the change of control and (b) the greater of the target bonus for the fiscal year in which the change of control occurred or the average of the bonus received for the two previous fiscal years; all cash payments will be paid when permitted under Section 409A of the Code, namely, on the first day of the seventh month following the termination date; and (2) continuation of health benefits until the earliest to occur of Medicare eligibility, coverage under another group health plan without a pre-existing condition limitation, the expiration of ten years, or the executive officer's death. Payments to executive officers under the change of control agreements will be reduced, if necessary, to prevent them from being subject to the limitation on deductions under Section 280G of the Internal Revenue Code. The Compensation Committee selected the 2.99 times multiple of salary and bonus to reflect competitive market levels for such agreements and the amount payable is subject to limitations designed to minimize the payment of any excise taxes by us.
+Generally, a change of control is deemed to occur under the change of control agreements if: (1) any person or more than one person acting as a group acquires ownership of stock which constitutes more than 50 percent of the total fair market value or total voting power of our stock; (2) any person or more than one person acting as a group acquires (during the 12-month period ending on the date of the most recent acquisition) ownership of stock possessing 30 percent or more of the total fair market value or total voting power of our stock; (3) a majority of Board members are replaced during any 12-month period by directors whose election is not endorsed by a majority of the members of the Board; or (4) any person or more than one person acting as a group acquires assets from us having a total fair market value of not less than 40 percent of the total fair market value of all of our assets immediately prior to the acquisition.
+A termination for "good reason" generally means a termination initiated by the executive officer in the event of: (1) our noncompliance with the change of control agreement; (2) any involuntary reduction in the executive officer's authority, duties or responsibilities that were in effect immediately prior to the change of control; (3) any involuntary reduction in the executive officer's total compensation that was in effect immediately prior to the change of control; or (4) any transfer of the executive officer without the executive officer's consent of more than 50 miles from the executive officer's principal place of business immediately prior to the change of control other than on a temporary basis (less than 6 months).
+A termination for cause generally would result from misappropriation of funds, habitual insobriety or substance abuse, conviction of a crime involving moral turpitude, or gross negligence in the performance of duties that has a material adverse effect on our business, operations, assets, properties or financial condition.
+AMETEK, INC. 2019 Proxy Statement    41
+Under our change of control agreement with Mr. Zapico, in the event that his employment is terminated by us without cause or by Mr. Zapico for good reason in anticipation of, or following, a change of control, he will receive: (1) a lump sum payment equal to 2.99 times the sum of (a) Mr. Zapico's base salary for the year prior to the year in which his termination occurs and (b) his targeted bonus for the year in which he is terminated or, if the amount of the targeted bonus is not known, the average of his bonuses for the two years preceding the year in which his termination occurs; all cash payments will be paid when permitted under Section 409A of the Code, namely, on the first day of the seventh month following the termination date; (2) continuation of health benefits until the earliest of (a) the end of the tenth year following the year of the separation from service; (b) Medicare eligibility; (c) commencement of new employment where Mr. Zapico can participate in similar plans or programs; or (d) death; (3) continuation of disability insurance and death benefits until the earliest of (a) the end of the second year following the year of the separation from service; (b) commencement of new employment where Mr. Zapico can participate in similar plans or programs; or (c) death; and (4) use of an automobile and reimbursement of reasonable operating expenses, until the second anniversary of his termination or, if earlier, his death.
+In addition, upon a change of control, or upon Mr. Zapico's termination without cause or resignation for good reason in anticipation of a change of control, (1) all of his restricted stock awards and stock options immediately vest; and (2) all stock options, other than incentive stock options, will be exercisable for one year following his termination, or, if earlier, the stated expiration date of the stock option.
+Generally, a change of control is deemed to occur under Mr. Zapico's change of control agreement upon: (1) the acquisition by any person or group of 30 percent or more of our total voting stock; (2) the acquisition by us, any executive benefit plan, or any entity we establish under the plan, acting separately or in combination with each other or with other persons, of 50 percent or more of our voting stock, if after such acquisition our common stock is no longer publicly traded; (3) the death, resignation or removal of our Directors within a two-year period, as a result of which the Directors serving at the beginning of the period and Directors elected with the advance approval of two-thirds of the Directors serving at the beginning of the period constitute less than a majority of the Board; (4) the approval by the stockholders of (a) a merger in which the stockholders no longer own or control at least 50 percent of the value of our outstanding equity or the combined voting power of our then-outstanding voting securities, or (b) a sale or other disposition of all or substantially all of our assets. A termination is deemed to be in anticipation of a change of control if it occurs during the 90 days preceding the change of control and the substantial possibility of a change of control was known to Mr. Zapico and a majority of the Directors.
+"Good reason" and "cause" are defined in Mr. Zapico's agreement in substantially the same manner as in the other executive officers' change of control agreements.
+Payments and other benefits under the change of control agreements would have been in the following amounts if the event requiring payment occurred on December 31, 2018:  lump sum payments – Mr. Zapico, $7,534,800; Mr. Burke, $4,008,246; Mr. Jones, $2,915,240; Mr. Hardin, $3,049,561; and Mr. Marecic, $2,895,286; continuation of health, disability and death benefits for Mr. Zapico:  $150,200; continuation of health benefits for: Mr. Burke, $11,900; Mr. Jones, $96,000; Mr. Hardin, $349,900; and Mr. Marecic, $386,100;  perquisites – Mr. Zapico, $55,130 (use of an automobile and operating expenses).  The benefits Mr. Zapico would receive upon acceleration of his equity grants in connection with a change of control are quantified below under "Vesting Provisions Pertaining to Performance Restricted Stock Units" and "Acceleration of Vesting Provisions Pertaining to Stock Options and Restricted Stock."
+In addition, Mr. Zapico's change of control agreement generally provides that in the event his employment is terminated by us without cause or by Mr. Zapico for good reason, in either case prior to and other than in anticipation of or following a change of control, he would receive the same benefits as he would receive in connection with a change of control, as described above, except: (1) the portion of the lump sum payment based on a multiple of cash compensation would be equal to two times, rather than 2.99 times, cash compensation and (2) the continuation of health benefits could not exceed a maximum of two years from the termination of his employment, rather than ten years.
+Payments and other benefits to Mr. Zapico under this provision would include the following: lump sum payments, $5,040,000; stock option grant vesting acceleration, $2,460,948; restricted stock award vesting acceleration, $6,983,154; health, disability and death benefits, $39,000; and perquisites, $55,130 (use of an automobile and operating expenses).
+42    AMETEK, INC. 2019 Proxy Statement  
+Vesting Provisions Pertaining to Performance Restricted Stock Units.  In the event of death or disability of the named executive officer, or the named executive officer's separation from service with the company as a result of and concurrent with a change of control, the performance restricted stock units shall become vested and nonforfeitable on the vest date in an amount equal to the initial performance restricted stock unit award (i.e. the "target award").  Benefits related to the vesting of the target award in conjunction with death, disability or change of control are as follows:  Mr. Zapico, $783,708; Mr. Burke, $258,050; Mr. Jones, $141,313; Mr. Hardin, $148,140; and Mr. Marecic, $123,564. 
+In addition, in the event of the named executive officer's attainment of at least age fifty-five (55) years of age and at least ten (10) years of service with the company (or any successor or affiliate of the company) at the named executive officer's termination of employment date occurring on or after December 31, 2018, then the performance restricted stock units shall become vested and nonforfeitable on the vest date, to the extent that the performance goals are achieved.  As of December 31, 2018, Messrs. Burke, Jones and Marecic meet the attained age and service requirements.  Benefits related to the vesting of performance restricted stock units, using the same level of performance achievement disclosed in the Outstanding Equity Awards at Fiscal Year-End Table, are as follows:  Mr. Burke, $129,025; Mr. Jones, $70,657; and Mr. Marecic, $61,782. 
+Acceleration of Vesting Provisions Pertaining to Stock Options and Restricted Stock. Under our stock incentive plans, outstanding stock options generally will vest immediately upon the occurrence of any of the following events: (1) the holder's retirement after age 65, following two years of service with us; (2) the death of the holder; (3) the disability of the holder; or (4) the holder's termination of employment following a change of control. Benefits relating to accelerated vesting of stock options in connection with termination following a change of control (or, in the case of Mr. Zapico, in anticipation of, or upon a change of control), or upon normal retirement or death or disability are as follows:  Mr. Zapico, $2,460,948; Mr. Burke, $860,948; Mr. Jones, $629,420; Mr. Hardin, $602,401; and Mr. Marecic, $476,000. 
+The value of the accelerated vesting benefit equals the number of shares as to which the stock options would vest on an accelerated basis upon the occurrence of the specified termination or change of control event, multiplied by the difference between the closing price per share of our common stock on December 31, 2018 and the exercise price per share for the affected options.
+Outstanding restricted stock generally will vest immediately upon the occurrence of either of the following events: (1) the holder's death or disability; or (2) the holder's termination of employment following a change of control. Benefits relating to accelerated vesting of restricted stock in connection with termination following a change of control (or, in the case of Mr. Zapico, in anticipation of, or upon a change of control), or upon disability or death are as follows:  Mr. Zapico, $6,983,154; Mr. Burke, $1,566,057; Mr. Jones, $1,052,612; Mr. Hardin, $1,707,898; and Mr. Marecic, $833,453. 
+The value of the accelerated vesting benefit equals the number of shares of restricted stock that would vest on an accelerated basis on the occurrence of the specified termination or change of control event times the closing price per share of our common stock on December 31, 2018, plus accrued dividends and the interest on the dividend balance.
+Our incentive plans define "change of control" in substantially the same manner as the change of control agreements relating to our executives other than Mr. Zapico.
+Death Benefits. Death benefits are payable to Messrs. Zapico, Burke, Jones and Hardin under our 2004 Executive Death Benefit Plan, as described under "Nonqualified Deferred Compensation – 2018."
+The amount of death benefits payable to each of the named executive officers in the event of his death would have been as follows on December 31, 2018:  Mr. Zapico, $1,545,000; Mr. Burke, $1,444,700; Mr. Jones, $1,238,700; and Mr. Hardin, $1,564,200.  
+AMETEK, INC. 2019 Proxy Statement    43
+Summary Table. The following table summarizes the amounts payable to each of the named executive officers based on the items described above with respect to each of the events set forth in the table. As used in the table below, "change of control" refers to payment or other benefit events occurring upon a change of control or in connection with a termination related to a change of control, as applicable.
+[BEGIN TABLE]
+ Name        Normal Retirement     Involuntary  Not For Cause Termination     Early Retirement     Change of Control     Disability     Death 
+ Name        Normal Retirement     Involuntary  Not For Cause Termination     Early Retirement     Change of Control     Disability     Death 
+ David A. Zapico           $2,460,948           $14,578,232           —           $17,967,941           $10,277,810           $11,722,810    
+ William J. Burke           860,948           −           $129,025           6,705,201           2,685,055           4,129,755    
+ Timothy N. Jones           629,420           −           70,657           4,834,584           1,823,345           3,062,045    
+ John W. Hardin           602,401           −           —           5,857,900           2,458,439           4,022,639    
+ Thomas C. Marecic           476,000           −           61,782           4,714,403           1,433,017           1,433,017    
+       Number of Shares and Nature of Ownership (1)    
+ Name     Outstanding Shares Beneficially Owned  Right to Acquire (2)  Total  Percent of Class  SERP and Deferred Compensation  Total Beneficial, SERP and Deferred Compensation Ownership 
+ Name     Outstanding Shares Beneficially Owned  Right to Acquire (2)  Total  Percent of Class  SERP and Deferred Compensation  Total Beneficial, SERP and Deferred Compensation Ownership 
+ Name     Outstanding Shares Beneficially Owned  Right to Acquire (2)  Total  Percent of Class  SERP and Deferred Compensation  Total Beneficial, SERP and Deferred Compensation Ownership 
+ Thomas A. Amato        7,510        —        7,510        *        —        7,510    
+ William J. Burke        68,159        78,721        146,880        *        11,838        158,718    
+ Ruby R. Chandy        9,870        15,520        25,390        *        —        25,390    
+ Anthony J. Conti        15,338        21,815        37,153        *        —        37,153    
+ John W. Hardin        62,004        116,727        178,731        *        21,232        199,963    
+ Timothy N. Jones        42,177        92,086        134,263        *        30,065        164,328    
+ Steven W. Kohlhagen        50,278        21,815        72,093        *        —        72,093    
+ James R. Malone (3)        4,362        —        4,362        *        —        4,362    
+ Thomas C. Marecic        31,497        73,514        105,011        *        9,203        114,214    
+ Gretchen W. McClain (4)        9,101        640        9,741        *        1,389        11,130    
+ Elizabeth R. Varet (5)        369,555        15,520        385,075        *        —        385,075    
+ Dennis K. Williams        26,467        21,815        48,282        *        —        48,282    
+ David A. Zapico        191,885        283,482        475,367        *        55,522        530,889    
+ Directors and executive officers as a group (16 persons) including individuals named above        979,673        849,330        1,829,003        *        140,920        1,969,923    
+ (1)  Under Rule 13d-3 of the Securities Exchange Act of 1934, as amended, beneficial ownership of a security consists of sole or shared voting power (including the power to vote or direct the vote) and/or sole or shared investment power (including the power to dispose or direct the disposition) with respect to the security through any contract, arrangement, understanding, relationship or otherwise. 
+[END TABLE]
+AMETEK, INC. 2019 Proxy Statement    45
+[BEGIN TABLE]
+ (2)  Shares the Director or executive officer has a right to acquire through stock option exercises at or within 60 days after January 21, 2019. 
+ (3)  Based solely on Mr. Malone's last Form 4 filed with the SEC on March 9, 2018. Mr. Malone retired on May 8, 2018. Includes 62 shares held by Mr. Malone's wife. 
+ (4)  Includes 1,389 stock units under the AMETEK, Inc. Directors' Deferred Compensation Plan. 
+ (5)  Includes 67,700 shares, of which 67,500 shares are owned by a trust of which Ms. Varet's husband is a beneficiary and 200 shares are owned by Ms. Varet's adult children, as to which Ms. Varet disclaims any beneficial ownership. Ms. Varet has shared voting and investment power with respect to 267,745 shares. 
+[END TABLE]
+BENEFICIAL OWNERSHIP OF PRINCIPAL STOCKHOLDERS
+The following table provides information regarding the only entities known to us to be beneficial owners of more than five percent of the outstanding shares of our common stock as of March 11, 2019.
+[BEGIN TABLE]
+ Name and Address of Beneficial Owner  Number of Shares  Percent of Class 
+ Name and Address of Beneficial Owner  Number of Shares  Percent of Class 
+ The Vanguard Group, Inc. (1) 100 Vanguard Boulevard Malvern, PA 19355     23,984,400        10.3%    
+ The Vanguard Group, Inc. (1) 100 Vanguard Boulevard Malvern, PA 19355     23,984,400        10.3%    
+ BlackRock, Inc. (2) 55 East 52nd Street New York, NY 10055     15,723,365        6.8%    
+ (2)  Based on Schedule 13G/A filed on February 4, 2019, as of December 31, 2018 BlackRock, Inc. beneficially owned 15,723,365 shares of our common stock, with sole voting power over 13,629,114 shares and sole dispositive power over all the shares. 
+[END TABLE]
+COMPLIANCE WITH SECTION 16(a) OF
+THE SECURITIES EXCHANGE ACT OF 1934
+Section 16(a) of the Securities Exchange Act of 1934, as amended, requires our Directors and officers to file with the SEC initial reports of ownership and reports of changes in ownership of our common stock. Copies of all such Section 16(a) reports are required to be furnished to us. These filing requirements also apply to holders of more than 10% of our common stock, but we do not know of any person that holds more than 10% of our common stock other than The Vanguard Group, Inc. as disclosed above. To our knowledge, based solely on a review of the copies of Section 16(a) reports furnished to us and written representations that no other reports were required, during the fiscal year ended December 31, 2018, all of our officers and Directors were in compliance with all Section 16(a) filing requirements.
+CEO Pay Ratio
+Pursuant to Item 402(u) of Regulation S-K and Section 953(b) of the Dodd-Frank Act, presented below is the ratio of annual total compensation of our CEO to the annual total compensation of our median employee (excluding our CEO). The ratio presented below is a reasonable estimate calculated in a manner consistent with Item 402(u).
+The median employee used as the basis for comparison in 2018 is the same median employee selected in 2017.  In identifying our median employee, we calculated the total cash compensation for all individuals, excluding our CEO, who were employed by us on December 1, 2017.  We included all employees, whether employed on a full-time, 
+46    AMETEK, INC. 2019 Proxy Statement part-time or seasonal basis. We did not make any assumptions, adjustments or estimates with respect to total cash compensation, except that we annualized compensation for employees hired in 2017 who did not work the full year. We did not include independent contractors or leased workers in our determination. We believe the use of total cash compensation for all employees is a consistently applied compensation measure.  The median employee remained employed in the same job classification and received similar earnings in 2018 as in 2017.
+After identifying the median employee based on total cash compensation, we calculated annual total compensation for such employee as determined under Item 402 of Regulation S-K, the same methodology we use for our named executive officers as set forth in the Summary Compensation Table – 2018 on page 32. 
+The 2018 annual total compensation for our CEO was $8,762,155. The 2018 annual total compensation for our median employee, including overtime, was $81,314. The ratio of our CEO's annual total compensation to our median employee's total compensation for 2018 is 108 to 1.
+OTHER BUSINESS
+We are not aware of any other matters that will be presented at the Annual Meeting. If other matters are properly introduced, the individuals named on the enclosed proxy card will vote the shares it represents in accordance with their judgment. 
+[BEGIN TABLE]
+ By Order of the Board of Directors      
+ By Order of the Board of Directors      
+ Robert S. Feit    
+ Senior Vice President, General Counsel and Corporate Secretary   Dated: March 13, 2019    
+ Senior Vice President, General Counsel and Corporate Secretary   Dated: March 13, 2019    
+[END TABLE]
+MULTIPLE STOCKHOLDERS SHARING THE SAME ADDRESS
+Registered and street-name stockholders who reside at a single address receive only one annual report and proxy statement at that address unless a stockholder provides contrary instructions. This practice is known as "householding" and is designed to reduce duplicate printing and postage costs. However, if a stockholder wishes in the future to receive a separate annual report or proxy statement, he or she may contact Broadridge Financial Solutions at 1-866-540-7095, or in writing at Broadridge Financial Solutions, 51 Mercedes Way, Edgewood, NY 11717. Stockholders can request householding if they receive multiple copies of the annual report and proxy statement by contacting Broadridge Financial Solutions at the address above.
+ELECTRONIC DISTRIBUTION OF PROXY STATEMENTS
+AND ANNUAL REPORTS
+To receive future AMETEK, Inc. proxy statements and annual reports electronically, please visit www.proxyvote.com. Have your proxy card in hand when you access the web site and follow the instructions below to obtain your records and to create an electronic voting instruction form. Click on the link in the right-hand rail labeled "SIGN UP FOR E-DELIVERY." Once enrolled, stockholders will no longer receive a printed copy of proxy materials, unless they request one. Each year, they will receive an email explaining how to access the proxy statement and annual report online as well as how to vote their shares online.  They may suspend electronic distribution at any time by requesting a full set of materials.
+AMETEK, INC. 2019 Proxy Statement    47
+APPENDIX A
+PROPOSED AMENDMENT TO SECTION ONE ARTICLE SEVENTH OF
+OUR AMENDED AND RESTATED CERTIFICATE OF INCORPORATION
+TO AFFIRM MAJORITY VOTING FOR UNCONTESTED ELECTIONS OF DIRECTORS
+SEVENTH.  Section 1.  Number, Election, and Terms of Directors.  
+Subject to the rights, if any, of the holders of any series of Preferred Stock to elect additional Directors under circumstances specified in a Preferred Stock Designation, the number of the Directors of the Company will not be less than three nor more than 12 and will be fixed from time to time in the manner described in the By-Laws of the Company.  The Directors, other than those who may be elected by the holders of any series of Preferred Stock, will be classified with respect to the time for which they severally hold office into three classes, as nearly equal in number as possible, designated Class I, Class II, and Class III.  The Directors first appointedelected to Class I will hold office for a term expiring at the first annual meeting of stockholders to be held following the filing of this Certificatein 2019; the Directors first appointedelected to Class II will hold office for a term expiring at the second annual meeting of stockholders to be held following the filing of this Certificatein 2020; and the Directors first appointedelected to Class III will hold office for a term expiring at the third annual meeting of stockholders to be held following the filing of this Certificate,in 2021, with the members of each class to hold office until their successors are elected and qualified.  At each succeeding annual meeting of the Company, the successors of the class of Directors whose terms expire at that meeting will be elected by plurality vote of all votes cast at such meeting to hold office for a term expiring at the annual meeting of stockholders held in the third year following the year of their election.  Election of Directors of the Company need not be by written ballot unless requested by the Chairman or by the holders of a majority of the Voting Stock present in person or represented by proxy at a meeting of the stockholders at which Directors are to be elected. 
+Directors shall be elected at a duly called meeting of the stockholders at which a quorum is present. In any uncontested election of Directors, a nominee shall be elected as a Director at such a meeting if the votes of shares of capital stock of the Company present in person or represented by proxy at the meeting and entitled to vote in the election of Directors cast "for" such nominee's election exceed the votes of shares of capital stock of the Company present in person or represented by proxy at the meeting and entitled to vote in the election of Directors cast "against" such nominee's election (with "abstentions" and "broker non-votes" not counted as votes cast either "for" or "against" that nominee's election). In a contested election, Directors shall be elected by plurality vote of all votes cast at such a meeting.  An election is considered contested if the Board determines that (a) there are more nominees for election than positions on the Board to be filled or (b) one or more nominees for election to the Board was nominated other than by or at the direction of the Board.
+If, in any uncontested election, an incumbent Director is duly nominated for re-election but is not elected, then such incumbent Director shall promptly tender his or her resignation to the Board for consideration. The Board shall make a decision on whether to accept or reject such Director's resignation, or whether to take other appropriate action, and will publicly disclose its decision. The Board may delegate to the Corporate Governance/Nominating Committee (or to such other committee as the Board may duly designate from time to time) responsibility for making a recommendation to the Board regarding such matters. An incumbent Director required to tender his or her resignation pursuant to this Section 1 of Article Seventh will not participate in any decision of the Board regarding such resignation, or in any recommendation of any committee relating thereto, or in any deliberations of the Board or any such committee relating thereto.
+If a Director tenders his or her resignation in the circumstances contemplated by the immediately preceding paragraph and such resignation is accepted by the Board, or if a nominee for Director is not elected and the nominee is not an incumbent Director, then the Board may fill the resulting vacancy pursuant to the terms of this Amended and Restated Certificate of Incorporation and of the By-Laws of the Company relating to the filling of Board vacancies generally, or may decrease the size of the Board pursuant to the terms of this Amended and Restated Certificate of Incorporation. If a Director tenders his or her resignation in the circumstances contemplated by the immediately preceding paragraph and such resignation is not accepted by the Board, then such Director shall continue to serve until such Director's successor has been duly elected and qualified or until his or her earlier death, resignation or removal as provided in this Amended and Restated Certificate of Incorporation and in the By-Laws of the Company.
+This Section 1 of Article Seventh shall be subject, in all respects, to the rights, if any, of the holders of Preferred Stock, in each case as specified in more detail in the applicable Preferred Stock Designation.
+A- This document is printed on recycled paper, which contains at least 10% post consumer waste.
+eon. When signing as attorney, executor, administrator, or other fiduciary, please give full title as such. Joint owners should each sign personally. All holders must sign. If a corporation or partnership, please sign in full corporate or partnership name by authorized officer. Signature [PLEASE SIGN WITHIN BOX] Date Signature (Joint Owners) Date 
+Important Notice Regarding the Availability of Proxy Materials for the Annual Meeting: The Notice of Meeting, Proxy Statement and Proxy Card are available at http://www.ametek.com/2018proxy and www.proxyvote.com. E43554-P07906 AMETEK, INC. Annual Meeting of Stockholders May 8, 2018 11:00 AM This proxy is solicited on behalf of the Board of Directors The stockholder(s) hereby appoint(s) David a majority of those present and acting, or if only one is present and acting, then that one, as proxy or proxies, with full power of substitution, to vote all stock of AMETEK, Inc. which the undersigned is entitled to vote at AMETEK's Annual Meeting of Stockholders to be held at the Lotte New York Palace Hotel, 455 Madison Avenue, New York, NY 10022, on Tuesday, May 8, 2018, at 11:00 a.m. Eastern Daylight Time, and any adjournment or postponement thereof, hereby ratifying all that said proxy or proxies or their substitutes may do by virtue hereof, and the undersigned authorizes and instructs said proxy or proxies to vote as follows: NOTE TO PLAN PARTICIPANTS IN: SOLIDSTATE CONTROLS, INC. HOURLY EMPLOYEES (CWA) RETIREMENT PLAN, SUPERIOR TUBE COMPANY, INC. UNION 401(k) PLAN AND AMETEK RETIREMENT AND SAVINGS PLAN. If you are a stockholder under the plans mentioned above voting online or by phone, the voting deadline is 11:59 p.m. EDT on May 3, 2018. If you are a stockholder under the plans mentioned above voting by mail, to avoid delay please mail your proxy card with time for it to be delivered to the tabulating agent by May 2, 2018, the day before the cut-off date. Without your specific instructions, we will vote these shares, for or against, in the same proportion as the shares for which we have received instructions from other plan participants. Address Changes/Comments: (If you noted any Address Changes/Comments above, please mark corresponding box on the reverse side.) Continued and to be signed on reverse side
+AMETEK, INC. 1100 CASSATT ROAD BERWYN, PA 19312 VOTE BY INTERNET - www.proxyvote.com Use the Internet to transmit your voting instructions and for electronic delivery of information. Vote by 11:59 p.m. EDT on May 8, 2019 for shares held directly and by 11:59 p.m. EDT on May 6, 2019 for shares held in a plan listed on the reverse side. Have your proxy card in hand when you access the website and follow the instructions to obtain your records and to create an electronic voting instruction form. ELECTRONIC DELIVERY OF FUTURE PROXY MATERIALS If you would like to reduce the costs incurred by our company in mailing proxy materials, you can consent to receiving all future proxy statements, proxy cards and annual reports electronically via e-mail or the Internet. To sign up for electronic delivery, please follow the instructions above to vote using the Internet and, when prompted, indicate that you agree to receive or access proxy materials electronically in future years. VOTE BY PHONE - 1-800-690-6903 Use any touch-tone telephone to transmit your voting instructions. Vote by 11:59 p.m. EDT on May 8, 2019 for shares held directly and by 11:59 p.m. EDT on May 6, 2019 for shares held in a plan listed on the reverse side. Have your proxy card in hand when you call and then follow the instructions. VOTE BY MAIL Mark, sign and date your proxy card and return it in the postage-paid envelope we have provided or return it to Vote Processing, c/o Broadridge, 51 Mercedes Way, Edgewood, NY 11717. TO VOTE, MARK BLOCKS BELOW IN BLUE OR BLACK INK AS FOLLOWS: E55570-P16236 KEEP THIS PORTION FOR YOUR RECORDS THIS PROXY CARD IS VALID ONLY WHEN SIGNED AND DATED. DETACH AND RETURN THIS PORTION ONLY AMETEK, INC. The Board of Directors recommends you vote FOR the following: 1. Election of Directors Nominees: For Against Abstain 1a. Ruby R. Chandy 1b. Steven W. Kohlhagen 1c. David A. Zapico• • • • • • • • • The Board of Directors recommends you vote FOR proposals 2, 3 and 4. For Against Abstain 2. Approval of AMETEK, Inc.'s Amended and Restated Certificate of Incorporation to affirm a majority voting standard for uncontested elections of Directors.• • • 3. Approval, by advisory vote, of the compensation of AMETEK, Inc.'s named executive officers.• • • 4. Ratification of the appointment of Ernst & Young LLP as independent registered public accounting firm for 2019.• • • NOTE: At their discretion, the proxy holders are authorized to vote upon such other business as may properly come before the meeting. For address changes and/or comments, please check this box and write them• on the back where indicated. UNLESS OTHERWISE SPECIFIED IN THE SPACES PROVIDED, THE UNDERSIGNED'S VOTE WILL BE CAST FOR THE ELECTION OF THE NOMINEES FOR DIRECTOR LISTED IN PROPOSAL 1 AND FOR PROPOSALS 2, 3 AND 4 AS MORE FULLY DESCRIBED IN THE ENCLOSED PROXY STATEMENT. Please sign exactly as your name(s) appear(s) hereon. When signing as attorney, executor, administrator, or other fiduciary, please give full title as such. Joint owners should each sign personally. All holders must sign. If a corporation or partnership, please sign in full corporate or partnership name by authorized officer. Signature [PLEASE SIGN WITHIN BOX] Date Signature (Joint Owners) Date 
+Important Notice Regarding the Availability of Proxy Materials for the Annual Meeting: The Notice of Meeting, Proxy Statement and Proxy Card are available at http://www.ametek.com/2019proxy and www.proxyvote.com.  E55571-P16236 AMETEK, INC. Annual Meeting of Stockholders May 9, 2019 11:00 AM This proxy is solicited on behalf of the Board of Directors The stockholder(s) hereby appoint(s) David A. Zapico, Robert S. Feit and Lynn Carino or a majority of those present and acting, or if only one is present and acting, then that one, as proxy or proxies, with full power of substitution, to vote all stock of AMETEK, Inc. which the undersigned is entitled to vote at AMETEK's Annual Meeting of Stockholders to be held at the JW Marriott Essex House, 160 Central Park South, New York, NY 10019, on Thursday, May 9, 2019, at 11:00 a.m. Eastern Daylight Time, and any adjournment or postponement thereof, hereby ratifying all that said proxy or proxies or their substitutes may do by virtue hereof, and the undersigned authorizes and instructs said proxy or proxies to vote as follows: NOTE TO PLAN PARTICIPANTS IN: SOLIDSTATE CONTROLS, INC. HOURLY EMPLOYEES (CWA) RETIREMENT PLAN, SUPERIOR TUBE COMPANY, INC. UNION 401(k) PLAN AND AMETEK RETIREMENT AND SAVINGS PLAN. If you are a stockholder under the plans mentioned above voting online or by phone, the voting deadline is 11:59 p.m. EDT on May 6, 2019. If you are a stockholder under the plans mentioned above voting by mail, to avoid delay please mail your proxy card with time for it to be delivered to the tabulating agent by May 3, 2019, the day before the cut-off date. Without your specific instructions, we will vote these shares, for or against, in the same proportion as the shares for which we have received instructions from other plan participants. Address Changes/Comments: (If you noted any Address Changes/Comments above, please mark corresponding box on the reverse side.) Continued and to be signed on reverse side
+ 

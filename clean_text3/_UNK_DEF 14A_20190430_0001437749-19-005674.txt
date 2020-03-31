@@ -1,0 +1,1103 @@
+ 
+SECURITIES AND EXCHANGE COMMISSION
+Washington DC    20549
+SCHEDULE 14A
+PROXY STATEMENT PURSUANT TO SECTION 14(a) OF THE 
+SECURITIES EXCHANGE ACT OF 1934
+Filed by the Registrant ☒
+Filed by a Party other than the Registrant ☐
+Check the appropriate box:
+☐ Preliminary Proxy Statement                                            ☐ Confidential, for Use of the Commission Only (as permitted by Rule 14a-6(e)(2))
+☒ Definitive Proxy Statement
+☐ Definitive Additional Materials
+☐ Soliciting Material Under Rule 14a-12.
+[BEGIN TABLE]
+ OCULUS VISIONTECH INC.  
+[END TABLE]
+Payment of Filing Fee (Check the appropriate box):
+[BEGIN TABLE]
+ ☒   No fee required.  
+[END TABLE]
+[BEGIN TABLE]
+ ☐   Fee computed on table below per Exchange Act Rules 14a-6(i)(1) and 0-11.  
+[END TABLE]
+[BEGIN TABLE]
+   (1)   Title of each class of securities to which transaction applies:    
+   (1)   Title of each class of securities to which transaction applies:    
+   (2)   Aggregate number of securities to which transaction applies:    
+   (2)   Aggregate number of securities to which transaction applies:    
+   (3)   Per unit price or other underlying value of transaction computed pursuant to Exchange Act Rule 0-11 (set forth the amount on which the filing fee is calculated and state how it was determined):    
+   (3)   Per unit price or other underlying value of transaction computed pursuant to Exchange Act Rule 0-11 (set forth the amount on which the filing fee is calculated and state how it was determined):    
+   (4)   Proposed maximum aggregate value of transaction:    
+   (4)   Proposed maximum aggregate value of transaction:    
+   (5)   Total fee paid:    
+   (5)   Total fee paid:    
+ ☐   Fee paid previously with preliminary materials:  
+[END TABLE]
+[BEGIN TABLE]
+ ☐   Check box if any part of the fee is offset as provided by Exchange Act Rule 0-11(a)(2) and identify the filing for which the offsetting fee was paid previously. Identify the previous filing by registration statement number, or the form or schedule and the date of its filing.  
+[END TABLE]
+[BEGIN TABLE]
+   (1)   Amount Previously Paid:  
+[END TABLE]
+[BEGIN TABLE]
+   (2)   Form, Schedule or Registration Statement No.:  
+[END TABLE]
+[BEGIN TABLE]
+   (3)   Filing Party:  
+[END TABLE]
+[BEGIN TABLE]
+   (4)   Date Filed:  
+[END TABLE]
+#507, 837 West Hastings Street
+Vancouver, BC   V6C 3N6
+www.ovtz.com
+Dear Shareholder:
+We invite you to attend our annual and special meeting of shareholders to be held on April 30, 2019, in Vancouver, British Columbia, Canada. At the meeting you will hear a report on our operations and have a chance to meet your directors and executives.
+This mailing includes the formal notice of the meeting and the Proxy Statement. The Proxy Statement tells you more about the agenda and procedures for the annual and special meeting. It also describes how the Board of Directors operates and gives personal information about our director candidates.
+Even if you only own a few shares, we want your shares to be represented at the meeting. I urge you to complete, sign, date, and return your proxy promptly in the enclosed envelope.
+To attend the meeting in person, please follow the instructions in the Proxy Statement.
+Sincerely yours,
+/s/ Anton J. Drescher
+Anton J. Drescher
+Corporate Secretary
+March 19,  
+(the "Company")
+#507, 837 West Hastings Street
+Vancouver, BC V6C 3N6
+www.ovtz.com 
+NOTICE OF 2019 ANNUAL GENERAL AND SPECIAL MEETING OF SHAREHOLDERS
+[BEGIN TABLE]
+ Time:   9:00 a.m., Pacific Time  
+ Date:   April 30, 2019  
+ Place:   #507, 837 West Hastings Street Vancouver, British Columbia, Canada  
+ Place:   #507, 837 West Hastings Street Vancouver, British Columbia, Canada  
+[END TABLE]
+Purpose:
+[BEGIN TABLE]
+ 1.   To set the number of directors at five (5);  
+[END TABLE]
+[BEGIN TABLE]
+ 2.   To elect directors;  
+[END TABLE]
+[BEGIN TABLE]
+ 3.   To ratify and approve the appointment of KWCO, PC as the Company's independent auditors for the current fiscal year and authorizing the directors to fix their remuneration;  
+[END TABLE]
+[BEGIN TABLE]
+ 4.   To authorize the board to proceed, at their discretion, with a consolidation of the Company's shares on a 15:1 basis;  
+[END TABLE]
+[BEGIN TABLE]
+ 5.   To approve the Stock Option Plan as more particularly described in the Proxy Statement; and,  
+[END TABLE]
+[BEGIN TABLE]
+ 6.   To transact such other business as may properly come before the meeting or any adjournment of the meeting.  
+[END TABLE]
+Only shareholders of record at the close of the business on March 19, 2019 may vote at the meeting.
+If you are unable to attend the meeting in person, please read the notes accompanying the Form of Proxy enclosed herewith and then complete and return the Form of Proxy within the time set out in the notes. The enclosed Form of Proxy is solicited by management. If you so desire, you may appoint a representative in lieu of management's designations by striking out the names listed therein and inserting in the space provided the name of the person you wish to represent you at the Meeting.
+If you plan to attend the Meeting you must follow the instructions set out in the form of proxy and in the PROXY STATEMENT to ensure that your shares will be voted at the Meeting.
+Your vote is important. Please complete, sign, date, and return your proxy promptly in the enclosed envelope.
+[BEGIN TABLE]
+     By Order of the Board of Directors      
+     By:   /s/ Anton J. Drescher     
+ March 19, 2019   Anton J. Drescher, Corporate Secretary      
+ March 19, 2019   Anton J. Drescher, Corporate Secretary      
+[END TABLE]
+#507, 837 West Hastings Street
+Vancouver, BC   V6C 3N6
+www.ovtz.com
+PROXY STATEMENT
+Dated March 19, 2019 (unless otherwise noted)
+GENERAL INFORMATION
+This Proxy Statement is being sent to you in connection with the solicitation of proxies for the 2019 annual general and special meeting of shareholders (the "Meeting") by the management of Oculus VisionTech Inc. ("Oculus") to be held at the offices of Oculus, #507, 837 West Hastings Street, Vancouver, British Columbia, Canada, V6C 3N6, at 9:00 a.m., Pacific Time, on April 30, 2019, and at any adjournments thereof. This proxy statement and the accompanying Notice of 2019 Annual General and Special Meeting of Shareholders and Form of Proxy were first mailed to stockholders on or about March 26, 2019. Shareholders are encouraged to review the information provided in this Proxy Statement in conjunction with our Annual Reports on Form 10-K for the years ended December 31, 2014, December 31, 2015, December 31, 2016, December 31, 2017 and December 31, 2018.
+Who may vote
+Only our shareholders as recorded in our stock register at the close of business on March 18, 2019 (the "Record Date") may vote at the Meeting. At the close of business on the Record Date, we had 45,572,568 common shares outstanding and entitled to vote. Each common share is entitled to one vote on each matter properly brought before the Meeting.
+How to vote
+You may vote in person at the meeting or by proxy. We recommend that you vote by proxy even if you plan to attend the Meeting. You can always change your vote at the Meeting.
+Voting Electronically via the Internet 
+If your shares are registered in the name of a bank or brokerage you may be eligible to vote your shares electronically over the Internet or by telephone. A large number of banks and brokerage firms are participating in the Broadridge Financial Solutions, Inc. ("Broadridge") online program, which provides eligible shareholders who receive a paper copy of the Proxy Statement with the opportunity to vote via the Internet or by telephone. If your bank or brokerage firm is participating in Broadridge's program, your voting form from the bank or brokerage firm will provide instructions. If your voting form does not reference Internet or telephone information, please complete and return the paper proxy card in the enclosed envelope.
+How Proxies work
+Giving us your proxy means you authorize us to vote your shares at the Meeting in the manner you direct. You may vote for or not vote for the nominees for director named in this Proxy Statement. You may also vote for or abstain from voting on the proposal to ratify and approve the appointment of KWCO, PC, as our independent auditors and authorizing the directors to fix their remuneration, or you may vote for or vote against the Stock Option Plan.
+If you sign and return the enclosed proxy but do not specify how to vote, we will vote your shares in favor of the nominees for director named in this Proxy Statement and in favor of the other proposals described in this Proxy Statement. In the discretion of the proxy holders, the proxies will also be voted for or against such other matters as may properly come before the Meeting. At the date this Proxy Statement went to press we did not know of any other matters to be raised at the Meeting.
+The persons named in the enclosed proxy are our directors and officers and you may strike out the names of the persons whom you do not wish to act on your behalf. A shareholder has the right to appoint any person to attend and act for him or her at the Meeting. A Shareholder desiring to appoint a person to represent him at the Meeting may do so either by inserting such person's name in the blank space provided and striking out the printed names in the Form of Proxy or by completing another proxy. In either case, the proxy must be delivered to the offices of our registrar and transfer agent, Computershare Trust Company Inc., Proxy Department, 8th Floor, 100 University Avenue, Toronto, Ontario, M5J 2Y1, at least 48 hours prior to the scheduled commencement of the Meeting.
+You may receive more than one proxy depending on how you hold your shares. Shares registered in your name are covered by one proxy. If you hold shares through someone else, such as a bank or broker (that is, in street name) please refer to your proxy card or the information forwarded by your bank, broker or other holder of record for voting instructions. If you want to vote in person at the Meeting, and you hold your shares in street name, you must obtain a proxy from your bank or broker and bring the proxy to the Meeting.
+This Proxy Statement and the accompanying Form of Proxy are first being mailed to shareholders on or about March 26, 2019.
+These securityholder materials are being sent to both registered and non-registered owners of the securities. If you are a non-registered owner, and we or our agent have sent these materials directly to you, your name and address and information about your holdings of securities, have been obtained in accordance with applicable securities regulatory requirements from the intermediary holding on your behalf.
+By choosing to send these materials to you directly, we (and not the intermediary holding on your behalf) have assumed responsibility for (i) delivering these materials to you, and (ii) executing your proper voting instructions. Please return your voting instructions as specified in the request for voting instructions.
+Revoking a Proxy
+You may revoke your proxy before it is voted by submitting a new proxy with a later date, by voting in person at the Meeting, or by notifying our Corporate Secretary in writing at #507, 837 West Hastings Street, Vancouver, British Columbia, Canada, V6C 3N6.
+In addition to revocation in any other manner permitted by law, a shareholder may revoke a proxy either by (a) signing a Form of Proxy bearing a later date and depositing it at the place and within the time aforesaid, or (b) signing and dating a written notice of revocation (in the same manner as the Form of Proxy is required to be executed as set out in the notes to the form of proxy) and either depositing it at the place and within the time aforesaid or with the Chairman of the Meeting on the day of the Meeting or on the day of any adjournment thereof, or (c) registering with the Scrutineer at the Meeting as a shareholder present in person, whereupon such proxy shall be deemed to have been revoked.
+Only registered shareholders have the right to revoke a proxy. Non-Registered Holders who wish to change their vote must, at least seven days before the Meeting, arrange for their respective Intermediaries to revoke the proxy on their behalf.
+Please note, however, that if your shares are held of record by a broker, bank or other nominee and you wish to vote at the Meeting, you must bring to the Meeting a letter from the broker, bank or other nominee confirming your beneficial ownership of the shares and that such broker, bank or other nominee is not voting your shares.
+The Form of Proxy must be dated and be signed by the shareholder or by his attorney in writing, or, if the shareholder is a corporation, it must either be under its common seal or signed by a duly authorized officer.
+Quorum
+To conduct the business of the meeting, we must have a quorum. This means at least 25% of the outstanding shares entitled to vote must be represented at the Meeting, either by proxy or in person.
+Votes needed
+The five nominees for director receiving a plurality of the votes cast in person or by proxy at the Meeting shall be elected. Approval to ratify and approve the appointment of KWCO, PC as auditor and authorizing the directors to fix their remuneration, requires the affirmative vote of a majority of the votes cast in person or by proxy at the Meeting. If the Meeting is adjourned, your shares may be voted by the proxy holder on the new meeting date unless you have revoked your proxy.
+Only votes cast "for" or "against" a proposal are counted. Abstentions and broker non-votes (or votes withheld in the election of directors) will not be counted, except for purposes of determining a quorum. Broker non-votes occur when a broker returns a proxy but does not have authority to vote on a particular proposal.
+Attending in person
+Only shareholders, their proxy holders, and Oculus' guests may attend the Meeting.
+If you hold your shares through someone else, such as a bank or a broker, send proof of your ownership to the Secretary at the address listed above, or you may bring proof of ownership with you in order to be admitted to the Meeting. Acceptable proof could include an account statement showing that you owned Oculus shares on March 19, 2019.
+We will pay the expenses of soliciting proxies. Proxies may be solicited on our behalf by directors, officers or employees in person or by telephone, email or fax. We will also reimburse banks, brokers and other persons holding shares in their names or in the names of their nominees for their reasonable out-of-pocket expenses in forwarding proxies and proxy material to the beneficial owners of such shares.
+Non-Registered Shareholders
+Only registered shareholders or duly appointed proxyholders are permitted to vote at the Meeting. Most shareholders of our company are "non-registered" shareholders because the shares they own are not registered in their names but are instead registered in the name of the brokerage firm, bank or trust company through which they purchased the shares. More particularly, a person is a non-registered shareholder in respect of shares which are held on behalf of that person (the "Non-Registered Holder") but which are registered either (a) in the name of an intermediary (the "Intermediary") that the Non-Registered Holder deals with in respect of the shares (Intermediaries include, among others, banks, trust companies, securities dealers or brokers and trustees or administrators of self-administered RRSP's, RRIF's, RESP's and similar plans); or (b) in the name of a clearing agency (such as The Canadian Depository for Securities Limited ("CDS")) of which the Intermediary is a participant. In accordance with the requirements of National Instrument 54-101 – Communication with Beneficial Owners of Securities of a Reporting Issuer of the Canadian Securities Administrators, we have distributed copies of the Notice of Meeting, Proxy Statement and Form of Proxy (collectively referred to as the "Meeting Material") to the clearing agencies and Intermediaries for onward distribution to Non-Registered Holders.
+Intermediaries are required to forward the Meeting Material to Non-Registered Holders unless a Non-Registered Holder has waived the right to receive them. Very often, Intermediaries will use service companies to forward the Meeting Material to Non-Registered Holders. Generally, Non-Registered Holders who have not waived the right to receive the Meeting Material will either:
+[BEGIN TABLE]
+ (a)   be given a Form of Proxy which has already been signed by the Intermediary (typically by a facsimile, stamped signature) which is restricted to the number of shares beneficially owned by the Non-Registered Holder, but which is otherwise not complete. Because the Intermediary has already signed the Form of Proxy, this Form of Proxy is not required to be signed by the Non-Registered Holder when submitting the proxy. In this case, the Non-Registered Holder who wishes to submit a proxy should otherwise properly complete the Form of Proxy and deposit it with our registrar and transfer agent, Computershare Trust Company Inc., as provided above; or  
+[END TABLE]
+[BEGIN TABLE]
+ (b)   more typically, be given a voting instruction form which is not signed by the Intermediary, and which, when properly completed and signed by the Non-Registered Holder and returned to the Intermediary or its service company, will constitute voting instructions (often called a "proxy" or "authorization form") which the Intermediary must follow. Typically, the proxy authorization form will consist of a one page pre-printed form. Sometimes, instead of the one page printed form, the proxy authorization form will consist of a regular printed proxy form accompanied by a page of instructions that contains a removable label containing a bar-code and other information. In order for the form of proxy to validly constitute a proxy authorization form, the Non-Registered Holder must remove the label from the instructions and affix it to the form of proxy, properly complete and sign the form of proxy and return it to the Intermediary or its service company in accordance with the instructions of the Intermediary or its service company.  
+[END TABLE]
+In either case, the purpose of this procedure is to permit Non-Registered Holders to direct the voting of the shares that they beneficially own. Should a Non-Registered Holder who receives one of the above forms wish to vote at the Meeting in person, the Non-Registered Holder should strike out the names of the management designated proxy holders named in the form and insert the Non-Registered Holder's name in the blank space provided (executed by the broker). In either case, Non-Registered Holders should carefully follow the instructions of their Intermediary, including when and where the proxy or proxy authorization form is to be delivered.
+A revocation of a Proxy does not affect any matter on which a vote has been taken prior to the revocation.
+FINANCIAL STATEMENTS
+Our audited financial statements included in the Form 10-K Annual Reports for the years ended December 31, 2014, December 31, 2015, December 31, 2016, December 31, 2017 and December 31, 2018 will be presented to the shareholders at the Meeting.
+INTEREST OF CERTAIN PERSONS OR COMPANIES IN MATTERS TO BE ACTED UPON
+Except as disclosed elsewhere in this Proxy Statement, no director or executive officer who was a director or executive officer since the beginning of our last financial year, each proposed nominee for election as a director, or any associate or affiliates of any such directors, executive officers or nominees, has any material interest, direct or indirect, by way of beneficial ownership of securities or otherwise, in any matter to be acted upon at the Meeting other than the election of directors.
+VOTING SECURITIES AND PRINCIPAL HOLDERS OF VOTING SECURITIES
+We are authorized to issue 500,000,000 shares of common stock. As of the Record Date, determined by the Board to be the close of business on March 19, 2019, a total of 45,572,568 common shares were issued and outstanding. Each share carries the right to one vote at the Meeting.
+Only registered shareholders as of the Record Date are entitled to receive notice of, and to attend and vote at, the Meeting or any adjournment or postponement of the Meeting.
+To the knowledge of our directors and executive officers, no person or company beneficially owns, directly or indirectly, or exercises control or direction over, common shares carrying more than 10% of the voting rights attached to our outstanding common shares.
+ITEM 1: NUMBER OF DIRECTORS
+The board of directors has nominated and recommends FOR election of the five current directors for election at the Meeting. We are proposing that the number of directors be determined at five for the ensuing year, subject to such increases as may be permitted by our Bylaws. We currently have five directors.
+The enclosed proxy will be voted FOR setting the number of directors at five unless otherwise indicated.
+ITEM 2: ELECTION OF DIRECTORS
+The enclosed proxy will be voted FOR the persons nominated unless otherwise indicated.
+If any of the nominees should be unable to serve or should decline to do so, the discretionary authority provided in the proxy will be exercised by the proxy holders to vote for a substitute or substitutes to be designated by the Board of Directors. The Board of Directors has no reason to believe that any substitute nominee or nominees will be required.
+Each nominee elected as a director will hold office until the next annual meeting of shareholders and until his successor is elected and qualified, or until his earlier death, resignation or retirement. Set forth below for each nominee is his age and his position, if any, in our company.
+The information set forth below as to each nominee for director has been furnished to us by the respective nominee.
+[BEGIN TABLE]
+ Name and Province or State  and Country of Residence   Age   Position   Period of Service  
+ Name and Province or State  and Country of Residence   Age   Position   Period of Service  
+ Rowland Perkins   Alberta, Canada   65   Director, President and Chief Executive Officer   Since 2005  
+ Anton J. Drescher 1 British Columbia, Canada   62   Director, Chief Financial Officer and Corporate Secretary   Since 1994  
+ Maurice Loverso 1 Quebec, Canada   58   Director   Since 2003  
+ Tom Perovic Ontario, Canada   66   Director   Since 2011  
+ Ron Wages 1 North Carolina, USA   56   Director   Since 2011  
+[END TABLE]
+Rowland Perkins – President, Chief Executive Officer and Director 
+Mr. Perkins was formerly the President & Chief Executive Officer of ebackup Inc. (2001-2015), a digital cloud data service provider specializing in cloud services, data backup and business continuity. Mr. Perkins has over 35 years of business experience and 20 years with various public companies. Mr. Perkins is a director of two publicly traded companies, Oculus VisionTech Inc. (TSXV) since January 2005 and River Wild Exploration Inc. (TSXV) since 2018, and a former director of International Tower Hill Mines Ltd. (TSX) and Xiana Mining Inc. (TSXV). Mr. Perkins has a degree in Economics from the University of Manitoba.
+Anton J. Drescher - Chief Financial Officer, Secretary and Director 
+Mr. Drescher has been a Chartered Professional Accountant, Certified Management Accountant since 1981. He is currently involved with several public companies including as: a director (since 1991) of International Tower Hill Mines Ltd., a public mining company listed on the TSX and the NYSE-MKT; a director (since 2007) of Trevali Mining Corporation, a public mining company listed on the TSX; a director (since 1996) and Chief Financial Officer (since 2012) of Xiana Mining Inc., a public mineral exploration company listed on the TSXV; a director (since 2007) of RavenQuest BioMed Inc., listed on the CSE; a director (since 2007) and the Chief Financial Officer of Oculus VisionTech Inc., a public company involved in watermarking of film and data listed on the TSXV and the OTC Bulletin Board; a director (since 2014) of Riverwild Exploration Inc. a. public exploration company listed on the CSE. Mr. Drescher is also the President (since 1979) of Westpoint Management Consultants Limited, a private company engaged in tax and accounting consulting for business reorganizations, and the President (since 1998) of Harbour Pacific Capital Corp., a private company involved in regulatory filings for businesses in Canada.
+Maurice Loverso – Director 
+Mr. Loverso has been an independent director of Oculus since May 2003. He has been President of 3336298 Canada Inc. since 1996, providing financial consultation services to small capital public and private companies and has been a director of Group Intercapital Inc. since 1996, assisting a small cap venture capital firm with financial advice.
+Tom Perovic –Director
+Mr. Perovic has over 30 years of experience in high technology management, from research and development to high-level and top development and executive positions in businesses including automotive (vision based real time driver assistance applications), electronics (embedded hardware, imaging/video processing based products), software (real time, streaming content - movie watermarking products for the entertainment industry, machine vision 2D signal processing algorithms, IP based video communications), PCB production/development equipment, professional video (TV broadcasting), Internet imaging, security video surveillance, contract manufacturing, material handling/logistics and production/distribution. He has been General Manager of Magna International Inc. from 2006 to 2018 where he was responsible for restructuring since a takeover, P/L, development strategy, operational team building and leadership.
+Ron Wages –Director
+Mr. Wages is an innovative and results-driven corporate professional with an impressive 20 year record of success in delivering record profit growth in multiple markets worldwide. He is the founder and has been Chief Executive Officer of Vagues Solid State Lighting, a manufacturer of LED based lighting, since January 2009 As Chief Executive Officer, he developed the business strategy and full business plan including sales goals, market research, expense budgets and P&L plan. Previously, he was President and General Manager of MEMScAP Inc./JDS Uniphase, a public company in the semiconductors industry. He managed the day-to-day operations for sales, marketing, manufacturing, legal and finance. Mr. Wages has a B.S. in Electrical Engineering from the University of Maryland College Park and an MBA (Honors) from the University of Houston Executive MBA Program.
+The Board of Directors has no reason to believe that any nominee will not serve if elected. If any nominee is unable to serve as a director, the shares represented by all valid proxies may be voted for the election for such other person(s) as the Board may recommend, unless the Board chooses to reduce the number of directors serving on the Board. Proxies will be voted FOR each nominee unless the shareholder specifies otherwise.
+The Board of Directors unanimously recommends a vote FOR the election of each of the nominees named in this Proxy Statement. Proxies solicited by the Board of Directors will be so voted unless shareholders specify otherwise on the accompanying Proxy.
+Corporate Cease Trade Orders 
+To the best of management's knowledge, no proposed director of Oculus has, within 10 years before the date of this Proxy Statement, been a director or officer of any company that, while that person was acting in that capacity, (i) was the subject of a cease trade or similar order or an order that denied that person or company access to any exemption under securities legislation for a period of more than 30 consecutive days, or (ii) was subject to an event that resulted, after the director or officer ceased to be a director or officer, in the company being the subject of a cease trade or similar order or an order that denied the relevant company access to any exemption under securities legislation, for a period of more than 30 consecutive days.
+Bankruptcies
+To the best of management's knowledge, no proposed director of Oculus has, within 10 years before the date of this Proxy Statement, been a director or officer of any company that, while that person was acting in that capacity, or within a year of that person ceasing to act in that capacity, became bankrupt, made a proposal under any legislation relating to bankruptcy or insolvency, or was subject to or instituted any proceedings, arrangement or compromise with creditors, or had a receiver, receiver manager or trustee appointed to hold its assets.
+Meetings of the Board of Directors
+During fiscal 2018, the Board of Directors held a number of informal meetings, and took action by unanimous written consent on four occasions. During fiscal 2017, the Board of Directors held a number of informal meetings, and took action by unanimous written consent on four occasions.
+Audit Committee
+The Audit Committee of the Board of Directors consists of Maurice Loverso, Anton J. Drescher and Ron Wages, who serves as Chairman. The Board of Directors had determined that each Audit Committee member has sufficient knowledge in financial and accounting matters to serve on the Committee and that Anton J. Drescher is an "audit committee financial expert" as defined by SEC rules.
+The Audit Committee meets with our independent auditors at least quarterly to discuss the results of the annual audit or interim periodic reviews and to review the financial statements; appoints the independent auditors to be retained; oversees the independence of the independent accountants; evaluates the independent auditors' performance; approves fees paid to independent auditors and receives and considers the independent auditors' comments as to controls, adequacy of staff and management performance and procedures in connection with audit and financial controls. The Audit Committee met informally by telephone conference four times and signed four consent resolutions during each of fiscal 2012 and 2013.
+The Audit Committee is primarily concerned with the effectiveness of our audits by our internal audit staff and by our independent auditors. Its duties include: (1) recommending the selection of independent auditors; (2) reviewing the scope of the audit to be conducted by them, as well as the results of their audit; (3) reviewing the organization and scope of our internal system of audit and financial controls; (4) appraising our financial reporting activities (including our Proxy Statement and Annual Report) and the accounting standards and principles followed; and (5) examining other reviews relating to compliance by employees with important policies and applicable laws. The Audit Committee operates under a written Charter adopted by the Board of Directors, a copy of which is attached to this Proxy Statement as Schedule "A".
+Other Committees
+The Board of Directors currently has no other committees.
+Code of Ethics
+We have adopted a Code of Ethics and Corporate Disclosure Policy that applies to our directors, officers and employees and Corporate Governance Guidelines that applies to our directors and officers. A copy of the Code of Ethics, Corporate Disclosure Policy and Corporate Governance Guidelines are posted on our website at http://www.ovtz.com. These documents are also available in print to any shareholder who requests a copy by sending a written request to our Corporate Secretary at #507, 837 West Hastings Street, Vancouver, British Columbia, V6C 3N6.
+Relationship with Our Independent Auditors
+The firm of KWCO, PC was appointed as our independent auditor on February 15, 2011. The Board of Directors recommended KWCO, PC to serve as our independent auditors for the fiscal years ending December 31, 2014, December 31, 2015, December 31, 2016, December 31, 2017, December 31, 2018 and December 31, 2019.
+AUDIT COMMITTEE REPORT 
+The material in this report is not "soliciting material," is not deemed "filed" with the SEC, and is not to be incorporated by reference in any of our filings under the Securities Act of 1933 or the Securities Exchange Act of 1934 (the "Exchange Act"), whether made before or after the date of this proxy statement and irrespective of any general incorporation language therein. 
+The Audit Committee of the Board assists the Board in carrying out its oversight responsibilities for our financial reporting process, audit process and internal controls.
+The Audit Committee has reviewed and discussed our audited financial statements with management, which has primary responsibility for the financial statements. KWCO, our current independent auditors for our 2011, 2012 and 2013 audit, was responsible for expressing an opinion on the conformity of our audited financial statements with generally accepted accounting principles.
+In fulfilling its oversight responsibilities, the Audit Committee has reviewed and discussed in detail each of the financial statements for the years ended December 31, 2014, 2015, 2016, 2017 and 2018 with our management and with KWCO PC, our independent auditors. In addition, the Audit Committee has discussed with KWCO, PC the matters required to be discussed by Statement on Auditing Standards Number 61, Communication with Audit Committees, as modified or supplemented. The Audit Committee has received the written disclosures and the letter from KWCO PC required by Independence Standards Board Standard Number 1, Independence Discussions with Audit Committees, as modified or supplemented, and has discussed with the independent auditors their independence from our company and our management. The Audit Committee has also considered whether KWCO PC's provision of non-audit services to us is compatible with the independence of such firm.
+Members of the Audit Committee rely on the information provided to them and on the representations made to the Committee by management and our independent accountants without conducting independent verification of the accuracy of such information and representations. Accordingly, the Audit Committee's oversight does not ensure that management has maintained appropriate accounting and financial reporting principles or appropriate internal controls and procedures designed to assure compliance with accounting standards and applicable laws and regulations. Furthermore, the Audit Committee's considerations and discussions referred to above do not ensure that any audit of our financial statements conducted by our internal and independent accountants has been carried out in accordance with generally accepted auditing standards, or that the financial statements are presented in accordance with generally accepted accounting principles.
+Based on these reviews and discussions, the Audit Committee recommended to the Board, and the Board approved, that the audited financial statements be included in our Annual Reports on Form 10-Ks for each of the years ended December 31, 2014, 2015, 2016, 2017 and 2018, for filing with the Commission.
+Based on the Audit Committee's and management's assessment of the performance of KWCO PC during the audit of our financial statements for the fiscal years ending December 31, 2014, 2015, 2016, 2017 and 2018, the Audit Committee recommended to the Board that KWCO PC be engaged as our independent auditors for fiscal year 2019.
+Respectfully submitted,
+Anton J. Drescher, Maurice Loverso, Ron Wages
+SECURITY OWNERSHIP OF DIRECTORS, OFFICERS, 
+AND CERTAIN BENEFICIAL OWNERS
+The following table sets forth as of March 19, 2019, the number of our outstanding common shares beneficially owned by (i) each person known to us to beneficially own more than 5% of our outstanding common shares, (ii) each director, (iii) each Named Executive Officer, and (iv) all officers and directors as a group.
+[BEGIN TABLE]
+ Name   Shares Owned   Percentage of Class  
+ Anton J. Drescher   8,704,540    19.10%  
+ Maurice Loverso   0        0.0%  
+ Rowland Perkins   5,600,000     12.29%  
+ Tom Perovic   1,300,000       2.85%  
+ Ron Wages   200,000       0.44%  
+ All Executive Officers and Directors as a Group (five persons)   15,804,540      34.68%  
+ Arness Cordick*   3,000,000        6.58%  
+[END TABLE]
+*A person known to beneficially own more than 5%.
+Certain Relationships and Related Transactions
+The Company for the years ended December 31, 2014, 2015, 2016, 2017 and 2018 reimbursed or accrued to a company of a related party, Harbour Pacific Capital Corp. a total of $16,830 (2014), $29,846 (2015), $25,770 (2016), $31,622 (2017) and $19,522 (2018).
+During the fiscal years ended December 31, 2014, 2015, 2016, 2017 and 2018, a total of $146,985 (2014), $129,260 (2015), $240,370 (2016), $47,490 (2017) and $0 (2018), respectively, was paid or accrued for research and development costs, which work was carried out by Mr. Tom Perovic, through 4C Inc., a private company wholly-owned by the spouse of Tom Perovic. Mr. Perovic was appointed as a director on December 30, 2011.
+Section 16(A) Beneficial Ownership Reporting Compliance
+Section 16(a) of the Exchange Act requires our directors and executive officers, and persons who own more than ten percent of a registered class of our equity securities, to file with the SEC initial reports of ownership and reports of changes in ownership of common stock and other equity securities of our company. Officers, directors and greater than ten percent stockholders are required by SEC regulation to furnish us with copies of all Section 16(a) forms they file.
+To our knowledge, based solely on a review of copies of Forms 3, 4 and 5 furnished to us and written representations that no other reports were required, during the fiscal years ended December 31, 2014, 2015, 2016, 2017 and 2018, our current officers, directors and 10% shareholders complied with all Section 16(a) filing requirements applicable to them.
+DIRECTOR AND EXECUTIVE COMPENSATION AND
+OTHER TRANSACTIONS WITH MANAGEMENT
+Compensation Discussion and Analysis
+Overview of Compensation Program 
+We do not have a compensation committee. Our Board of Directors (the "Board") is responsible for establishing, implementing and monitoring adherence with our compensation policy. The Board ensures that the total compensation paid to our directors, officers and employees is fair, reasonable and competitive.
+During the financial years ended December 31, 2014, 2015, 2016, 2017 and 2018, we had two Named Executive Officers ("NEO") being Rowland Perkins, our Chief Executive Officer ("CEO") and President and Anton J. Drescher, our Chief Financial Officer ("CFO") and Corporate Secretary.
+"Named Executive Officer" or "NEO" means: (a) each CEO, (b) each CFO, (c) each of the three most highly compensated executive officers, or the three most highly compensated individuals acting in a similar capacity, other than the CEO and CFO, at the end of the most recently completed financial year whose total compensation was, individually, more than $150,000; and (d) each individual who would be a NEO under (c) above but for the fact that the individual was neither an executive officer of the company, nor acting in a similar capacity, at the end of that financial year.
+Employments Contracts 
+We do not have an employment contract with Mr. Perkins and Mr. Drescher. We have no obligation to provide any compensation to Mr. Perkins or Mr. Drescher in the event of their resignation, retirement or termination, or a change in control of our company, or a change in any NEO's responsibilities following a change in control.
+We may in the future create retirement, pension, profit sharing and medical reimbursement plans covering our NEOs and directors.
+Compensation Committee Interlocks and Insider Participation
+Decisions concerning the compensation of our NEOs are made by the Board. All members of the Board during fiscal 2014, 2015, 2016, 2017 and 2018 participated in the Board's deliberations concerning NEO compensation during each of the fiscal years ended December 31, 2014, 2015, 2016, 2017 and 2018.
+Board of Directors Report on Executive Compensation
+The Board determines the compensation of our NEOs.
+We intend to establish a compensation committee at such time as we are able to attract a sufficient number of outside directors to the Board. We are unable to state when we will be able to establish a formal compensation committee. Pending establishment of the committee, the entire Board will continue to be responsible for our executive compensation policy.
+Compensation Philosophy
+We must compete for, attract, develop, motivate and retain high quality executive management personnel. In order to do so, we intend to offer a package including a competitive salary and, on a discretionary basis, additional compensation in the form of stock options.
+Cash Compensation
+Our executive salary levels are intended to be consistent with competitive salary levels and job responsibilities and experience level of each executive, as well as our overall salary structure and financial condition. Salary changes reflect competitive and economic trends, our overall financial performance and the performance of the individual executive. Salaries are reviewed annually by the Board.
+Stock Options
+Stock options are designed to attract and retain executives who can make significant contributions to our success, reward executives for such contributions, give executives a long-term incentive to increase shareholder value, and align the interests of our executive officers with those of our shareholders.
+The Board has made, and expects to continue to make, grants of stock options to executive officers. Recipients of option grants, and the size of the grants, are determined based on several factors, including the responsibilities of the individual officers, their past and anticipated contributions to our success, our overall performance, and prior option grants.
+Compensation of the CEO
+In setting the compensation payable for fiscal 2014, 2015, 2016, 2017 and 2018 to our NEOs, the Board generally considered the same factors described above, as well as our current financial condition. Given that we currently do not have any financial resources a decision was made to defer compensation to the NEOs until such time as we have sufficient funding. The Board intends that compensation to the NEOs will be competitive with compensation paid to executive officers of similar sized companies in our industry and to reward our NEOs for directing our efforts in initiating and expanding our streaming media business.
+Benefits and Perquisites
+Our NEOs do not receive any benefits or perquisites other than as disclosed herein.
+IRS Limits on Deductibility of Compensation
+We are subject to Section 162(m) of the Internal Revenue Code of 1986, as amended, which limits the deductibility of certain compensation payments to our executive officers in excess of $1.0 million. No cash compensation was paid in fiscal 2014, 2015, 2016, 2017 or 2018 the CEO or any other executive officer. Section 162(m) also provides for certain exemptions to the limitations on deductibility, including compensation that is "performance-based" within the meaning of Section 162(m). Because we do not currently have a compensation committee comprised solely of outside directors, we currently cannot avail ourselves of the "performance-based" compensation exemption under Section 162(m).
+The Board during fiscal 2014, 2015, 2016, 2017 and 2018 consisted of:
+Anton J. Drescher
+Maurice Loverso
+Rowland Perkins
+Tom Perovic 
+Ron Wages 
+The following table sets forth compensation awarded to, earned by or paid to our NEOs.
+[BEGIN TABLE]
+   Long Term Compensation  
+   Summary Compensation Annual Compensation   Awards   Payouts  
+   Summary Compensation Annual Compensation   Awards   Payouts  
+ Name and Principal Position   Year    Salary    Bonus    Other Annual Compen- sation    Restricted Stock Award(s)   Securities  Underlying Options/SARs (#)   LTIP Payouts    All Other  Compen- sation  
+ Name and Principal Position   Year    Salary    Bonus    Other Annual Compen- sation    Restricted Stock Award(s)   Securities  Underlying Options/SARs (#)   LTIP Payouts    All Other  Compen- sation  
+     $   $   $   $     $   $  
+ Rowland Perkins CEO    2014   			2015   			2016   			2017   			2018   -0-   			-0-   			-0-   			-0-   			-0-   -0-   			-0-   			-0-   			-0-   			-0-   -0-   			-0-   			-0-   			-0-   			-0-   -0-   			-0-   			-0-   			-0-   			-0-   -0-   			-0-   			-0-   			-0-   			-0-   -0-   			-0-   			-0-   			-0-   			-0-   -0-   			-0-   			-0-   			-0-   			-0-  
+ Anton J. Drescher CFO   2014   			2015   			2016   			2017   			2018   -0-   			-0-   			-0-   			-0-   			-0-   -0-   			-0-   			-0-   			-0-   			-0-   -0-   			-0-   			-0-   			-0-   			-0-   -0-   			-0-   			-0-   			-0-   			-0-   -0-   			-0-   			-0-   			-0-   			-0-   -0-   			-0-   			-0-   			-0-   			-0-   -0-   			-0-   			-0-   			-0-   			-0-  
+[END TABLE]
+Outstanding Share Based Awards and Option-Based Awards
+There were no outstanding share-based and option-based awards granted to our NEOs during the financial years ended December 31, 2014, 2015, 2016, 2017 and 2018, and that were outstanding as at December 31, 2018.
+The following table sets forth certain information concerning exercises of stock options by the NEOs during the years ended December 31, 2014, 2015, 2016, 2017 and 2018 and stock options held at December 31, 2018.
+[BEGIN TABLE]
+ Aggregated Option / SAR Exercises in Last Fiscal Year and FY-End Option / SAR Values  
+   Number of Securities  Underlying Unexercised  Options / SARs at Fiscal year  End (#)   Value of Unexercised In-the- Money Options / SARs at Fiscal  Year End ($)  
+   Number of Securities  Underlying Unexercised  Options / SARs at Fiscal year  End (#)   Value of Unexercised In-the- Money Options / SARs at Fiscal  Year End ($)  
+   Number of Securities  Underlying Unexercised  Options / SARs at Fiscal year  End (#)   Value of Unexercised In-the- Money Options / SARs at Fiscal  Year End ($)  
+   Number of Securities  Underlying Unexercised  Options / SARs at Fiscal year  End (#)   Value of Unexercised In-the- Money Options / SARs at Fiscal  Year End ($)  
+ Name   Shares Acquired  on Exercise (#)   Value Realized  ($)   Exercisable/ Unexercisable   Exercisable/ Unexercisable  
+ Name   Shares Acquired  on Exercise (#)   Value Realized  ($)   Exercisable/ Unexercisable   Exercisable/ Unexercisable  
+ Rowland Perkins   -0-   -0-   N/A   N/A   N/A  
+ Anton J. Drescher   -0-   -0-   N/A   N/A   N/A  
+[END TABLE]
+Stock Option Plan 
+The only plan pursuant to which we grant awards of any kind to our executive officers is our 2019 Stock Option Plan (the "Option Plan"). The Option Plan was approved by our shareholders and provides for the grant of stock options to directors, officers, consultants and key employees.
+The Option Plan assists us to accomplish the following:
+[BEGIN TABLE]
+● to attract and retain the best available personnel for positions of responsibility within our company;  
+[END TABLE]
+[BEGIN TABLE]
+● to provide additional incentives to employees, officers, directors and consultants of our company;  
+[END TABLE]
+[BEGIN TABLE]
+● provide employees, directors and consultants of our company with an opportunity to acquire a proprietary interest in our company to encourage their continued provision of services to us;  
+[END TABLE]
+[BEGIN TABLE]
+● to provide such persons with incentives and rewards for superior performance more directly linked to the profitability of our business and increases in shareholder value; and  
+[END TABLE]
+[BEGIN TABLE]
+● aligning the interests of such persons with the interests of our shareholders generally.  
+[END TABLE]
+Grants of Plan-Based Awards
+We do not have any plan-based awards in place at this time.
+Termination and Change of Control Benefits
+We do not have written agreements for termination or change of control with any of our NEOs.
+Pension Benefits and Non-Qualified Defined Contribution and Other Non-Qualified Deferred Compensation Plans
+We do not have a traditional defined benefit pension plan and does not provide pension benefits for our executive officers or for any of our other employees, and we do not have any non-qualified defined contribution plan or other non-qualified deferred compensation plan for our executive officers or for any of our other employees.
+Compensation of Directors
+We have no arrangements, standard or otherwise, pursuant to which directors are compensated by us for their services in their capacity as directors, or for committee participation, involvement in special assignments or for services as consultant or expert during the most recently completed financial year or subsequently, up to and including the date of this proxy statement, except as disclosed below.
+The Company for the years ended December 31, 2014, 2015, 2016, 2017 and 2018 reimbursed or accrued to a company of a related party, Harbour Pacific Capital Corp. a total of $16,830 (2014), $29,846 (2015), $25,770 (2016), $31,622 (2017) and $19,522 (2018).
+During the fiscal years ended December 31, 2014, 2015, 2016, 2017 and 2018, a total of $146,985 (2014), $129,260 (2015), $240,370 (2016), $47,490 (2017) and $0 (2018), respectively, was paid or accrued for research and development costs, which work was carried out by Mr. Tom Perovic, through 4C Inc., a private company wholly-owned by the spouse of Tom Perovic. Mr. Perovic was appointed as a director on December 30, 2011.
+Performance Graph 
+The following chart compares the total cumulative shareholder return on $100 invested in common shares of Oculus VisionTech Inc. (TSXV: OVT) on December 31, 2013 with the cumulative total returns among Russell 2500 Index, and the Dow Jones US Software – SmallCap Index for the five most recently completed financial years.
+[BEGIN TABLE]
+   12/13   12/14   12/15   12/16   12/17   12/18  
+ Oculus VisionTech Inc. (TSXV: OVT)   100.00   130.77   769.23   346.15   146.15   176.92  
+ Russell 2500 (R25I)   100.00   105.59   101.02   116.88   134.51   119.23  
+ Dow Jones US Software – SmallCap (DJUSSW)   100.00   116.33   126.94   136.11   187.88   218.41  
+[END TABLE]
+Director Compensation
+We did not pay any compensation to our directors in their capacity as directors, or in their capacity as members of the Audit Committee, or as consultants or experts, for the years ended December 31, 2014, 2015, 2016, 2017 and 2018
+Outstanding Share-Based Awards and Option-Based Awards
+There were no share-based or option-based awards granted to our directors during the most recently completed fiscal year end, and that were outstanding as at December 31, 2017 and 2018.
+Incentive Plan Awards – Value Vested or Earned During the Year
+There were no incentive plans vested or earned by our non-executive directors during the fiscal years ended December 31, 2014, 2015, 2016, 2017 and 2018.
+Certain Relationships and Related Transactions
+As of December 31, 2018, we have accounts payable and accrued expenses to related parties of $120,156 and advances from related parties of $518,806.
+SECURITIES AUTHORIZED FOR ISSUANCE UNDER EQUITY COMPENSATION PLANS
+On March 14, 2019, we adopted our 2019 Stock Option Plan (the "Option Plan"). As at March 19, 2019, the following securities had been authorized for issuance under the Option Plan:
+[BEGIN TABLE]
+ Plan Category   Number of securities to be  issued upon exercise of  outstanding options,  warrants and rights   Weighted-average exercise  price of outstanding  options, warrants and rights   Number of securities  remaining available for  future issuance under equity  compensation plans  (excluding securities  reflected in column (a))  
+ Plan Category   Number of securities to be  issued upon exercise of  outstanding options,  warrants and rights   Weighted-average exercise  price of outstanding  options, warrants and rights   Number of securities  remaining available for  future issuance under equity  compensation plans  (excluding securities  reflected in column (a))  
+ Plan Category   Number of securities to be  issued upon exercise of  outstanding options,  warrants and rights   Weighted-average exercise  price of outstanding  options, warrants and rights   Number of securities  remaining available for  future issuance under equity  compensation plans  (excluding securities  reflected in column (a))  
+ Plan Category   Number of securities to be  issued upon exercise of  outstanding options,  warrants and rights   Weighted-average exercise  price of outstanding  options, warrants and rights   Number of securities  remaining available for  future issuance under equity  compensation plans  (excluding securities  reflected in column (a))  
+ Equity compensation plans approved by security holders   Nil   N/A   4,557,257  
+ Equity compensation plans not approved by security holders   N/A   N/A   N/A  
+ Total   Nil     4,557,257  
+[END TABLE]
+Terms of Option Plan
+Administration
+The Option Plan is administered by the Board of Directors.  The Board of Directors may appoint a committee of the Board of Directors (the "Committee") comprised of two or more of directors, each of whom will be a "Non-Employee Director" within the meaning of Rule 16b-3 under the Exchange Act, and an "Outside Director" within the meaning of Section 162(m) of the Code, to administer the Option Plan.  Subject to the terms of the Option Plan, the Board of Directors or the Committee may determine and designate those employees, directors and consultants to whom options should be granted and the nature and terms of the options to be granted.
+Eligibility
+All of our employees, including our executive officers and directors who are also employees, are eligible to participate in the Option Plan.  Additionally, directors who are not employees, as well as our consultants and advisers, are eligible to receive options under the Option Plan, except that such persons may only receive non-qualified options.
+Exercise of Stock Options
+The exercise price per share for each option granted under the Option Plan shall be determined by the Board of Directors or the Committee, subject to the policies of the TSX Venture Exchange (the "TSX.V").  The price is payable in cash.
+Subject to earlier termination upon termination of employment and the incentive stock option limitations as provided in the Option Plan, each option shall expire on the date specified by the Board of Directors or the Committee, which shall be no later than five years from the date of grant for grants to 10% shareholders and ten years for all other options.  
+The options will either be fully exercisable on the date of grant or shall be exercisable thereafter in such installments as the Board of Directors or Committee may specify.  Upon termination of employment or other service of an option holder, an option may only be exercised for a period of three months or, in the case of termination due to disability or death, a period of 12 months.
+Transferability
+Options granted under the Option Plan may not be transferred except by will or the laws of the descent and distribution and, during his or her lifetime, options may be exercised only by the optionee.
+Certain Adjustments
+In the event of any change in the number or kind of our outstanding common shares by reason of a stock dividend, stock split, recapitalization, combination, subdivision, rights issuance or other similar corporate change, the Board of the Committee shall make such adjustment in the number of common shares that may be issued under the Option Plan, and the number of common shares subject to, and the exercise price of, each then-outstanding option, as it, in its sole discretion, deems appropriate.
+INDEBTEDNESS OF DIRECTORS AND EXECUTIVE OFFICERS
+None of our current or former directors, executive officers, employees, the proposed nominees for election to the Board, or their respective associates or affiliates, are or have been indebted to our company since the beginning of our last completed financial year.
+INTEREST OF INFORMED PERSONS IN MATERIAL TRANSACTIONS
+Except as otherwise disclosed herein, no:
+[BEGIN TABLE]
+   (a)   director or executive officer of Oculus;  
+[END TABLE]
+[BEGIN TABLE]
+   (b)   person or company who beneficially owns, directly or indirectly, common shares or who exercises control or direction of common shares, or a combination of both carrying more than 10% of the voting rights attached to the common shares outstanding (an "Insider");  
+[END TABLE]
+[BEGIN TABLE]
+   (c)   director or executive officer of an Insider; or  
+[END TABLE]
+[BEGIN TABLE]
+   (d)   associate or affiliate of any of the directors, executive officers or Insiders,  
+[END TABLE]
+has had any material interest, direct or indirect, in any transaction since the commencement of our most recently completed financial year or in any proposed transaction which has materially affected or would materially affect our company, except with an interest arising from the ownership of common shares where such person or company will receive no extra or special benefit or advantage not shared on a pro rata basis by all holders of the same class of common shares.
+MANAGEMENT CONTRACTS
+Our management functions are not, to any substantial degree, performed by a person or persons other than our directors or senior officers, other than as disclosed herein.
+CORPORATE GOVERNANCE
+Pursuant to National Policy 58-101 Disclosure of Corporate Governance Practices, we are required to disclose certain corporate governance information as set out in Form 58-101F1 Corporate Governance Disclosure ("Form 58-101F1"). A description of our approach to corporate governance, together with a completed Form 58-101F1, is set out in Schedule "B" to this Proxy Statement.
+ITEM 3: RATIFICATION AND APPROVAL OF APPOINTMENT OF INDEPENDENT AUDITORS
+The firm of KWCO, PC ("KWCO") was appointed by the Board of Directors to serve as our independent auditors for the 2014, 2015, 2016, 2017 and 2018 fiscal years.
+During our fiscal years ended December 31, 2014, 2015, 2016, 2017 and 2018, and the period subsequent to such date and prior to engaging KWCO we have not consulted KWCO with respect to the application of accounting principles to a specific transaction, either completed or proposed, the type of audit opinion that might be rendered on our financial statements; or any disagreements with KWCO (of which there were none), or reportable events, as defined or described in Items 304(a)(2)(i) or (ii) of Regulation S-K.
+Audit Fees
+Audit and Non-Audit Fees 
+The following table presents fees for the professional audit services rendered KWCO for the audit of our annual financial statements for the years ended December 31, 2014, 2015, 2016, 2017 and 2018, and fees billed for other services rendered by KWCO during those periods.
+[BEGIN TABLE]
+ Year ended December 31   2014   			$   2015   			$   2016   			$   2017   			$   2018   			$  
+ Audit fees   22,000   18,192   23,000   15,725   16,825  
+ Audit-related fees   0   0   0   0   0  
+ Tax fees   0   0   0   0   0  
+ All other fees   0   0   0   0   0  
+ Total   22,000   18,192   23,000   15,725   16,825  
+[END TABLE]
+The Audit Committee reviews all audit and non-audit related fees at least annually. The Audit Committee pre-approved all audit and non-audit related services in fiscal 2014, 2015, 2016, 2017 and 2018. The Audit Committee had concluded that as no non-audit services were provided during fiscal 2014, 2015, 2016, 2017 or 2018 there is no issue with respect to maintaining the independence of KWCO.
+Financial Information Systems Design and Implementation Fees
+KWCO did not provide any professional services to us with respect to financial information systems design and implementation for the years ended December 31, 2014, 2015, 2016, 2017 and 2018.
+All Other Fees
+KWCO was not paid any other fees for services rendered to us during the year ended December 31, 2012 and December 31, 2013.
+Required Vote
+The affirmative vote of a majority of the votes cast on this Item at the Meeting is required for the ratification and approval of the appointment of KWCO as our auditors for the fiscal year ending December 31, 2019 and to authorize the directors to fix their remuneration.
+The Board of Directors unanimously recommends a vote FOR the ratification and approval of KWCO, PC as our independent auditors for the current fiscal year and authorizing the directors to fix their remuneration.
+AUDIT COMMITTEE
+We are required to have an audit committee comprised of not less than three directors, a majority of whom are not officers, control persons or employees of our company or an affiliate of our company. Our current audit committee consists of Anton J. Drescher, Maurice Loverso and Ron Wages.
+Audit Committee Charter
+The text of our Audit Committee Charter is attached as Schedule "A" to this Circular.
+Composition of the Audit Committee and Independence
+National Instrument 52-110 Audit Committees, ("NI 52-110") provides that a member of an audit committee is "independent" if the member has no direct or indirect material relationship with a company, which could, in the view of the company's Board, reasonably interfere with the exercise of the member's independent judgment.
+All of the members of our audit committee are independent, as that term is defined in NI 52-110, except for Anton J. Drescher, who is the Corporate Secretary and Chief Financial Officer. 
+Relevant Education and Experience 
+NI 52-110 provides that an individual is "financially literate" if he has the ability to read and understand a set of financial statements that present a breadth and level of complexity of accounting issues that are generally comparable to the breadth and complexity of the issues that can reasonably be expected to be raised by a company's financial statements. While Maurice Loverso does not meet the criteria of "financially literate", both Ron Wages and Anton J. Drescher are considered financially literate. Collectively, they have many years of practical business experience, have served as a director of public companies and have experience reviewing financial statements of public companies. The following sets out the education and experience of Rowland Perkins and Anton J. Drescher that is relevant to the performance of their responsibilities as audit committee members.
+Anton J. Drescher has been a Chartered Professional Accountant, Certified Management Accountant since 1981. He is currently involved with several public companies including as: a director (since 1991) of International Tower Hill Mines Ltd., a public mining company listed on the TSX and the NYSE-MKT; a director (since 2007) of Trevali Mining Corporation, a public mining company listed on the TSX; a director (since 1996) and Chief Financial Officer (since 2012) of Xiana Mining Inc., a public mineral exploration company listed on the TSXV; a director (since 2007) of RavenQuest BioMed Inc., listed on the CSE; a director (since 2007) and the Chief Financial Officer of Oculus VisionTech Inc., a public company involved in watermarking of film and data listed on the TSXV and the OTC Bulletin Board; a director (since 2014) of River Wild Exploration Inc. a. public exploration company listed on the CSE. Mr. Drescher is also the President (since 1979) of Westpoint Management Consultants Limited, a private company engaged in tax and accounting consulting for business reorganizations, and the President (since 1998) of Harbour Pacific Capital Corp., a private company involved in regulatory filings for businesses in Canada.
+Ron Wages is founder and has been Chief Executive Officer of Vagues Solid State Lighting, a manufacturer of LED based lighting, since January 2009 As Chief Executive Officer, he developed the business strategy and full business plan including sales goals, market research, expense budgets and P&L plan. Previously, he was President and General Manager of MEMScAP Inc./JDS Uniphase, a public company in the semiconductors industry. He managed the day-to-day operations for sales, marketing, manufacturing, legal and finance. Mr. Wages has a B.S. in Electrical Engineering from the University of Maryland College Park and an MBA (Honors) from the University of Houston Executive MBA Program.
+Audit Committee Oversight
+Since the commencement of our most recently completed fiscal year, our Audit Committee has not made any recommendations to nominate or compensate an external auditor which were not adopted by our Board.
+Reliance on Certain Exemptions
+Since the commencement of our most recently completed financial year and the effective date of NI 52-110, we have not relied on the exemptions contained in sections 2.4 or 8 of NI 52-110. Section 2.4 provides an exemption from the requirement that the audit committee must pre-approve all non-audit services to be provided by the auditors, where the total amount of fees related to the non-audit services are not expected to exceed 5% of the total amount of fees payable to the auditor in the fiscal year in which the non-audit services were provided. Section 8 permits a company to apply to a securities regulatory authority for an exemption from the requirements of NI 52-110, in whole or in part.
+Pre-Approval Policies and Procedures
+Our audit committee has adopted specific policies and procedures for the engagement of non-audit services which is set out in the Audit Committee Charter attached to this Circular as Schedule "A" in the section entitled "Independent Auditor".
+Exemption
+We are relying on the exemption provided by Part 6.1 of NI 52-110 for Venture Issuers which allows for an exemption from Part 3 (Composition of the Audit Committee) and Part 5 (Reporting Obligations) of NI 52-110 and allows for the short form of disclosure of audit committee procedures set out in Form 52-110F2 and disclosed in this Circular.
+ITEM 4:   APPROVAL OF SHARE CONSOLIDATION 
+At the Meeting there will be a proposal presented to Shareholders to authorize the Company's board of directors, subject to their approval and that of the TSX-V, to consolidate its then existing share capital, comprised of Common Shares, on an up to 15 old for one new (15:1) basis (the "Consolidation"). All terms provided herein are on a pre-Consolidation basis.
+The Board of Directors unanimously recommends a vote FOR the adoption of the Consolidation.
+ITEM 5:   APPROVAL OF 2019 STOCK OPTION PLAN
+Introduction
+At the Meeting there will be a proposal presented to Shareholders, to approve 2019 Stock Option Plan (the "Option Plan") which was adopted by the board on March 14, 2019. The Option Plan authorizes the issuance of up to 4,557,257 (10% of current issued and outstanding) of our common shares, subject to adjustment under certain circumstances, pursuant to exercise of options to be granted under the Option Plan. The stock subject to options under the Option Plan will be authorized but unissued common shares, including shares issuable under options that terminate without being exercised in whole or in part. The Option Plan provides for the issuance of both incentive stock options and non-qualified options as those terms are defined in the Internal Revenue Code of 1986, as amended (the "Code"). Under the Code, for stock options to qualify as incentive stock options, the plan under which the options are issued must be approved by our shareholders within twelve months of the adoption of the Option Plan by the Board of Directors. If the Option Plan is not approved by the shareholders, the Option Plan will continue to be in effect; however, only non-qualified options may be issued under it.
+The Option Plan is intended to promote the interests of our company and our shareholders by providing incentives to employees, directors and consultants, on whose judgment, initiative, and efforts the successful conduct of our business depends. These persons are responsible for the management, growth, and protection of our business, and the Option Plan provides these individuals with appropriate incentives and rewards to encourage them to maximize their performance and efforts for our company.
+Adoption of the Option Plan is also subject to approval by the TSX.V. We will be submitting the Option Plan to the TSX.V and anticipate it will be approved. If the TSX.V should require any amendment to the Option Plan, the Board of Directors will make such amendment without shareholder approval to the extent it may do so under the Option Plan. If shareholder approval is required for any such amendment, the Board of Directors will either submit the Option Plan, as amended, for a vote of the shareholders as soon as reasonably practicable, or will discontinue the Option Plan.
+On March 19, 2019, the closing bid price for the common shares on the OTC Bulletin Board was $0.0714 per share.
+A copy of the full text of the Option Plan may be requested by submitting a request to Oculus VisionTech Inc., #507, 837 West Hastings Street, Vancouver, BC, V6C 3N6, Attention: Corporate Secretary. The principal features of the Option Plan are summarized below, but the summary is qualified in its entirety by the full text of the Option Plan.
+Administration
+The Option Plan will be administered by the Board of Directors. The Board of Directors may appoint a committee of the Board of Directors (the "Committee") comprised of two or more directors, each of whom will be a "Non-Employee Director" within the meaning of Rule 16b-3 under the Securities Exchange Act of 1934, as amended, and an "Outside Director" within the meaning of Section 162(m) of the Code, to administer the Option Plan. Subject to the terms of the Option Plan, the Board of Directors or the Committee may determine and designate those employees, directors and consultants to whom options should be granted and the nature and terms of the options to be granted.
+Eligibility
+All employees, including its executive officers and directors who are also employees, are eligible to participate in the Option Plan. Additionally, directors who are not employees, as well as consultants and advisers, are eligible to receive options under the Option Plan, except that such persons may only receive non-qualified options.
+Exercise of Stock Options
+The exercise price per share for each option granted under the Option Plan shall be determined by the Board of Directors or the Committee. However, the exercise price per share of each incentive stock option granted under the Option Plan shall not be less than the fair market value of the common shares on the date of the grant for incentive stock options; and 10% of the fair market value of the common shares for each incentive stock option granted to an individual owning more than 10% of the total combined voting power of all classes of stock ("10% Shareholders"). In addition, because our shares are traded on the TSX.V, the exercise price of options granted under the Option Plan may not be less than the minimum price permitted under TSX.V policies, which is generally the market price at the close of trading on the day immediately preceding the day the options are granted, subject to certain allowable discounts. The price is payable in cash.
+Subject to earlier termination upon termination of employment and the incentive stock option limitations as provided in the Option Plan, each option shall expire on the date specified by the Board of Directors or the Committee, which shall be no later than five years from the date of grant for grants to 10% Shareholders and ten years for all other options.
+The options will either be fully exercisable on the date of grant or shall be exercisable thereafter in such installments as the Board of Directors or Committee may specify. Upon termination of employment or other service of an option holder, an option may only be exercised for a period of three months or, in the case of termination due to disability or death, a period of 12 months.
+Change in Control
+If we were to be consolidated with or acquired by another entity in a merger, or there is to be a sale of all or substantially all of our assets or stock, the Board of Directors may either by agreement or by action taken before the triggering transaction (i) provide in any agreement with the surviving, new or acquiring company to grant options to the optionees to replace options granted under the Option Plan, (ii) make unvested options immediately exercisable, or (iii) take such other action as it determines may be reasonable under the circumstances in order to permit optionees to realize the value of the rights granted to them under the Option Plan.
+Transferability
+Options granted under the Option Plan may not be transferred except by will or the laws of the descent and distribution and, during his or her lifetime, options may be exercised only by the optionee.
+Certain Adjustments
+In the event of any change in the number or kind of our outstanding common shares by reason of a stock dividend, stock split, recapitalization, combination, subdivision, rights issuance or other similar corporate change, the Board of the Committee shall make such adjustment in the number of common shares that may be issued under the Option Plan, and the number of common shares subject to, and the exercise price of, each then-outstanding option, as it, in its sole discretion, deems appropriate.
+Amendment or Discontinuance
+The Board may amend or discontinue the Option Plan, provided that no amendment may, without an optionee's consent, materially and adversely effect any rights under any option previously granted to the optionee under the Option Plan. Additionally, the approval of our shareholders is required for any amendment that would:
+[BEGIN TABLE]
+● increase or decrease the number of common shares that may be issued under the Option Plan; or  
+[END TABLE]
+[BEGIN TABLE]
+● materially modify the requirements as to eligibility for participation in the Option Plan.  
+[END TABLE]
+Tax Treatment of Options
+Incentive stock options granted under the Option Plan are intended to be qualified incentive stock options under the provisions of Section 422 of the Code. All other options granted under the Option Plan are non-qualified options not entitled to special tax treatment under Section 422 of the Code. Generally, the grant of an incentive stock option will not result in taxable income for income tax purposes to the optionee at the time of the grant, and we will not be entitled to an income tax deduction at such time. Generally, the grant of non-qualified options will not result in taxable income to the optionee at the time of the grant and we will not be entitled to an income tax deduction at such time.
+When incentive stock options granted under the Option Plan are exercised, the optionee will not be treated as receiving any taxable income, and we will not be entitled to an income tax deduction. However, the excess of the fair market value of the shares acquired over the option exercise price is an item of adjustment in computing the alternative minimum tax of the optionee. Upon the exercise of a non-qualified option, an optionee will recognize ordinary income in an amount equal to the excess of the fair market value of the underlying shares of our common stock at the time of exercise over the exercise price. Thus, the optionee will have to pay taxes at the time a non-qualified option is exercised even though the shares received upon exercise might not be sold until a later taxable year. For employees (including officers and directors who are considered employees for purposes of the withholding provisions of the Code), the income recognized on the exercise of a non-qualified option is subject to withholding of income tax under Section 3402(a) of the Code.
+We will receive an income tax deduction for the amount of ordinary income recognized by the optionee at the time and in the amount that the optionee recognizes such income to the extent permitted by Section 162(m) of the Code and provided that (i) such income constitutes reasonable compensation and is otherwise deductible under the Code and (ii) our U.S. federal income tax withholding obligations with respect to such income are satisfied.
+An optionee's tax basis in the shares received upon exercise of an incentive stock option will be equal to the exercise price paid by the optionee for such shares. An optionee's tax basis in the shares received upon the exercise of a non-qualified option will be equal to the sum of (i) the exercise price paid by the optionee for such shares and (ii) the amount that the optionee is required to include in gross income upon exercising the non-qualified option. Upon the later disposition of the shares received upon exercise of an option, any differences between the tax basis of the shares and the amount realized on the disposition is generally treated as long-term or short-term capital gain or loss, depending on the holding period of the common shares. Nevertheless, if the shares subject to an incentive stock option are disposed of before the expiration of two years from the date of grant and one year from the date of exercise, the optionee will realize ordinary income on an amount equal to the excess, if any, of the fair market value of the shares, upon exercise of the option over the option price (or, if less, the excess of the amount realized upon disposition over the option price) and we will receive a corresponding income tax deduction.
+In order for an optionee to receive the favorable tax treatment for incentive stock options, certain requirements set forth in Section 422 of the Code must be met. For example, the optionee must be an officer or employee at all times within the period beginning on the date of grant of the option and ending on a date within three months before the date of exercise. In addition, the aggregate fair market value (determined at the time of grant) of the shares for which incentive stock options are exercisable for the first time by the optionee in any calendar year under all relevant plans of our company (and certain affiliates) cannot exceed $100,000.
+The description above is intended to summarize the general principles of current federal income tax law applicable to options that may be granted under the Option Plan. The tax consequences of awards made under the Option Plan are complex, subject to change, and may vary depending on the taxpayer's particular circumstances. Additionally, the grant and exercise of options under the Option Plan to persons outside the United States may be taxed on a different basis.
+Required Vote
+The affirmative vote of a majority of the votes cast on this Item at the Meeting is required for the adoption of the Option Plan.
+The Board of Directors unanimously recommends a vote FOR the adoption of the Stock Option Plan.
+REQUIREMENTS, INCLUDING DEADLINES, FOR
+SUBMISSION OF PROXY PROPOSAL, NOMINATION OF DIRECTORS
+AND OTHER BUSINESS OF SHAREHOLDERS
+Under the rules of the SEC, if a shareholder wants us to include a proposal in our Proxy Statement and Form of Proxy for presentation at our 2020 Annual Meeting of Shareholders, the proposal must be received by us, Attention: Mr. Anton J. Drescher, Secretary, at our principal executive offices no later than November 25, 2019 and all the other conditions of Rule 14a-8 under the Exchange Act must be satisfied, for such proposals to be included in our proxy statement and form of proxy relating to that meeting.
+In addition, the proxy solicited by the Board of Directors for the 2020 annual meeting of shareholders will confer discretionary authority to vote on any shareholder proposal presented at that meeting, unless we are provided with notice of such proposal no later than February 8, 2020.
+The Board is not aware of any matters that are expected to come before the annual and special meeting other than those referred to in this Proxy Statement. If any other matter should come before the annual and special meeting, the persons named in the accompanying proxy intend to vote the proxies in accordance with their best judgment.
+The chairman of the meeting may refuse to allow the transaction of any business not presented beforehand, or to acknowledge the nomination of any person not made in compliance with the foregoing procedures.
+It is important that the proxies be returned promptly and that your shares be represented. Shareholders are urged to mark, date, execute and promptly return the accompanying proxy card in the enclosed envelope.
+ADDITIONAL INFORMATION
+Additional information relating to us can be found on SEDAR at www.sedar.com. Our Annual Report on Form 10-K for each of the fiscal years ended December 31, 2014, 2015, 2016, 2017 and 2018, including the financial statements, have been mailed to those shareholders on our supplemental shareholder list that previously requested a copy of our financial statements.
+We will mail to any shareholder, without charge and upon written request, a copy of our Annual Report on Form 10-K for each of the fiscal years ended December 31, 2014, 2015, 2016, 2017 and 2018. Requests should be sent to Oculus VisionTech Inc., #507, 837 West Hastings Street, Vancouver, BC, V6C 3N6, Attention: Corporate Secretary.
+BOARD APPROVAL 
+The contents of this Proxy Statement have been approved and its mailing authorized by our Board.
+DATED at Vancouver, British Columbia, this 19th day of March, 2019.
+[BEGIN TABLE]
+         ON BEHALF OF THE BOARD OF  OCULUS VISIONTECH INC      
+         ON BEHALF OF THE BOARD OF  OCULUS VISIONTECH INC      
+         "Anton J. Drescher"      
+         Anton J. Drescher,      
+         Corporate Secretary      
+[END TABLE]
+SCHEDULE "A"
+CHARTER OF THE AUDIT COMMITTEE OF THE BOARD OF DIRECTORS
+[BEGIN TABLE]
+ 1.    PURPOSE  
+[END TABLE]
+The Audit Committee (the "Committee") of Oculus VisionTech Inc. ("Oculus") is a committee of the Board of Directors with the responsibility under the governing legislation of Oculus to review the financial statements, accounting policies and reporting procedures of Oculus.
+The primary function of the Committee is to assist the Board of Directors in fulfilling its oversight responsibilities by reviewing the financial reports and other financial information provided by Oculus to any governmental body or the public, the systems of internal controls of Oculus regarding finance, accounting and legal compliance that management and the Board have established, and the auditing, accounting and financial reporting processes of Oculus generally. Consistent with this function, the Committee should encourage continuous improvement of, and should foster adherence to, the policies, procedures and practices at all levels of Oculus.
+The primary duties and responsibilities of the Committee are to:
+[BEGIN TABLE]
+● Serve as an independent and objective party to monitor the financial reporting process and the system of internal controls of Oculus.  
+[END TABLE]
+[BEGIN TABLE]
+● Monitor the independence and performance of the auditor of Oculus (the "Auditor") and the internal audit function of Oculus.  
+[END TABLE]
+[BEGIN TABLE]
+● Provide an open avenue of communication among the Auditor, financial and senior management and the Board of Directors.  
+[END TABLE]
+The Committee will primarily fulfill these responsibilities by carrying out the activities set out in Section 4 of this Charter.
+[BEGIN TABLE]
+ 2.    COMPOSITION  
+[END TABLE]
+[BEGIN TABLE]
+● The Committee shall be comprised of two or more directors as determined by the Board of Directors. The composition of the Committee shall adhere to all applicable corporate and securities laws and all requirements of the stock exchanges on which shares of Oculus are listed. In particular, the composition of the Committee shall be in accordance with the U.S. Securities Exchange Act of 1934, as amended, and the required qualifications and experience of the members of the Committee, subject to any exemptions or other relief that may be granted from time to time.  
+[END TABLE]
+[BEGIN TABLE]
+● All members of the Committee shall have a working familiarity with basic finance and accounting practices, and at least one member of the Committee shall be a "financial expert" in accordance with applicable laws and all requirements of the stock exchanges on which shares of Oculus are listed.  
+[END TABLE]
+[BEGIN TABLE]
+● Members of the Committee shall be elected by the Board at the meeting of the Board held immediately after the annual meeting of shareholders or such other times as shall be determined by the Board and shall serve until the next such meeting or until their successors shall be duly elected and qualified.  
+[END TABLE]
+[BEGIN TABLE]
+● Any member of the Committee may be removed or replaced at any time by the Board of Directors and shall cease to be a member of the Committee as soon as such member ceases to be a director. Subject to the foregoing, each member of the Committee shall hold such office until the next annual meeting of shareholders after his or her election as a member of the Committee.  
+[END TABLE]
+[BEGIN TABLE]
+● The members of the Committee shall be entitled to receive such remuneration for acting as members of the Committee as the Board of Directors may from time to time determine.  
+[END TABLE]
+[BEGIN TABLE]
+ 3.    MEETINGS  
+[END TABLE]
+[BEGIN TABLE]
+● The Committee may appoint one of its members to act as Chairman of the Committee. The Chairman will appoint a secretary who will keep minutes of all meetings (the "Secretary"). The Secretary does not have to be a member of the Committee or a director and can be changed by written notice from the Chairman.  
+[END TABLE]
+[BEGIN TABLE]
+● No business may be transacted by the Committee except at a meeting at which a quorum of the Committee is present or by a consent resolution in writing signed by all members of the Committee. A majority of the members of the Committee shall constitute a quorum, provided that if the number of members of the Committee is an even number, one half of the number of members plus one shall constitute a quorum.  
+[END TABLE]
+[BEGIN TABLE]
+● The Committee will meet as many times as is necessary to carry out its responsibilities, but in no event will the Committee meet less than four times a year. The Committee shall meet at least once annually with the Auditor. As part of its duty to foster open communication, the Committee should meet at least annually with management and the Auditor in separate executive sessions to discuss any matters that the Committee or each of these parties believe should be discussed privately. In addition, the Committee shall meet with the Auditor and management at least quarterly to review the financial statements of Oculus.  
+[END TABLE]
+[BEGIN TABLE]
+● The time at which, and the place where, the meetings of the Committee shall be held, the calling of meetings and the procedure in all respects of such meetings shall be determined by the Chairman, unless otherwise provided for in the By-Laws of Oculus or otherwise determined by resolution of the Board of Directors.  
+[END TABLE]
+[BEGIN TABLE]
+● The Committee may invite to, or require the attendance at, any meeting of the Committee, such officers and employees of Oculus, legal counsel or other persons as it deems necessary in order to perform its duties and responsibilities. They should also be requested or required to attend meetings of the Committee and make presentations to the Committee as appropriate.  
+[END TABLE]
+[BEGIN TABLE]
+● Subject to the provisions of the governing legislation of Oculus and applicable regulations the Chairman of the Committee may exercise the powers of the Committee in between meetings of the Committee. In such event, the Chairman shall immediately report to the members of the Committee and the actions or decisions taken in the name of the Committee shall be recorded in the proceedings of the Committee.  
+[END TABLE]
+[BEGIN TABLE]
+ 4.    RESPONSIBILITIES AND DUTIES  
+[END TABLE]
+To fulfill its responsibilities and duties the Committee shall:
+Documents/Reports Review
+[BEGIN TABLE]
+● Review and recommend for approval to the Board of Directors of Oculus any revisions or updates to this Charter. This review should be done periodically, but at least annually, as conditions dictate.  
+[END TABLE]
+[BEGIN TABLE]
+● Review the interim unaudited quarterly financial statements and the annual audited financial statements, and the related press releases of Oculus and report on them to the Board of Directors.  
+[END TABLE]
+[BEGIN TABLE]
+● Satisfy itself, on behalf of the Board of Directors, that the unaudited quarterly financial statements and annual audited financial statements of Oculus are fairly presented both in accordance with generally accepted accounting principles and otherwise, and recommend to the Board of Directors whether the quarterly and annual financial statements should be approved.  
+[END TABLE]
+[BEGIN TABLE]
+● Satisfy itself, on behalf of the Board of Directors, that the information contained in the quarterly financial statements of Oculus, annual report to shareholders and similar documentation required pursuant to the laws of the United States does not contain any untrue statement of any material fact or omit to state a material fact that is required or necessary to make a statement not misleading, in light of the circumstances under which it was made.  
+[END TABLE]
+[BEGIN TABLE]
+● Review any reports or other financial information of Oculus submitted to any governmental body, or the public, including any certification, report, opinion or review rendered by the Auditor.  
+[END TABLE]
+[BEGIN TABLE]
+● Review, and if deemed advisable, approve all related party transactions as defined in the governing legislation of Oculus.  
+[END TABLE]
+[BEGIN TABLE]
+● Have the right, for the purpose of performing their duties: (i) to inspect all the books and records of Oculus and its subsidiaries; (ii) to discuss such accounts and records and any matters relating to the financial position of Oculus with the officers and auditors of Oculus and its subsidiaries and the Auditor; (iii) to commission reports or supplemental information relating to the financial information; (iv) to require the Auditor to attend any or every meeting of the Committee; and (v) to engage such independent counsel and other advisors as are necessary in the determination of the Committee.  
+[END TABLE]
+[BEGIN TABLE]
+● Permit the Board of Directors to refer to the Committee such matters and questions relating to the financial position of Oculus and its affiliates or the reporting related to it as the Board of Directors may from time to time see fit.  
+[END TABLE]
+Independent Auditor
+[BEGIN TABLE]
+● Be directly and solely responsible for the appointment, compensation, and oversight of the work of the Auditor of Oculus upon shareholder approval of the appointment, with such Auditor being ultimately accountable to the shareholders, the Board and the Committee.  
+[END TABLE]
+[BEGIN TABLE]
+● Act as the Auditor's channel of direct communication to Oculus. In this regard, the Committee shall, among other things, receive all reports from the Auditor of Oculus, including timely reports of:  
+[END TABLE]
+[BEGIN TABLE]
+   1.   all critical accounting policies and practices to be used;  
+[END TABLE]
+[BEGIN TABLE]
+   2.   all alternative treatments of financial information within generally accepted accounting principles that have been discussed with the management of Oculus, ramifications of the use of such alternative disclosures and treatments, and the treatment preferred by the Auditor of Oculus; and  
+[END TABLE]
+[BEGIN TABLE]
+   3.   other material written communications between the Auditor and the management of Oculus, including, but not limited to, any management letter or schedule of unadjusted differences.  
+[END TABLE]
+[BEGIN TABLE]
+● Satisfy itself, on behalf of the Board of Directors that the Auditor is "independent" of management, within the meaning given to such term in the rules and pronouncements of the applicable regulatory authorities and professional governing bodies. In furtherance of the foregoing, the Committee shall request that the Auditor at least annually provide a formal written statement delineating all relationships between the Auditor and Oculus, and request information from the Auditor and management to determine the presence or absence of a conflict of interest. The Committee shall actively engage the Auditor in a dialogue with respect to any disclosed relationships or services that may impact the objectivity and independence of the Auditor. The Committee shall take, or recommend that the full Board take, appropriate action to oversee the independence of the Auditor.  
+[END TABLE]
+[BEGIN TABLE]
+● Be responsible for pre-approving all audit and non-audit services provided by the Auditor; provided, however, that the Committee shall have the authority to delegate such responsibility to one or more of its members to the extent permitted under applicable law and stock exchange rules.  
+[END TABLE]
+[BEGIN TABLE]
+● Review the performance of the Auditor and make recommendations to the Board of Directors as to whether or not to continue to engage the Auditor.  
+[END TABLE]
+[BEGIN TABLE]
+● Determine and review the remuneration of the Auditor and any independent advisors (including independent counsel) to the Committee.  
+[END TABLE]
+[BEGIN TABLE]
+● Satisfy itself, on behalf of the Board of Directors, that the internal audit function has been effectively carried out and that any matter which the Auditor wishes to bring to the attention of the Board of Directors has been addressed and that there are no "unresolved differences" with the Auditor.  
+[END TABLE]
+Financial Reporting Process and Risk Management
+[BEGIN TABLE]
+● Review the audit plan of the Auditor for the current year and review advice from the Auditor relating to management and internal controls and the responses of Oculus to the suggestions made put forth.  
+[END TABLE]
+[BEGIN TABLE]
+● Monitor the internal accounting controls, informational gathering systems and management reporting on internal controls of Oculus.  
+[END TABLE]
+[BEGIN TABLE]
+● Review with management and the Auditor the relevance and appropriateness of the accounting policies of Oculus and review and approve all significant changes to such policies.  
+[END TABLE]
+[BEGIN TABLE]
+● Satisfy itself, on behalf of the Board of Directors, that Oculus has implemented appropriate systems of internal control over financial reporting and the safeguarding of the assets of Oculus and other "risk management" functions (including the identification of significant risks and the establishment of appropriate procedures to manage those risks and the monitoring of corporate performance in light of applicable risks) affecting the assets of Oculus, management, financial and business operations and the health and safety of employees and that these systems are operating effectively.  
+[END TABLE]
+[BEGIN TABLE]
+● Review and approve the investment and treasury policies of Oculus and monitor compliance with such policies.  
+[END TABLE]
+[BEGIN TABLE]
+● Establish procedures for the receipt and treatment of (i) complaints received by Oculus regarding accounting, controls, or auditing matters and (ii) confidential, anonymous submissions by employees of Oculus as to concerns regarding questionable accounting or auditing.  
+[END TABLE]
+Legal and Regulatory Compliance
+[BEGIN TABLE]
+● Satisfy itself, on behalf of the Board of Directors, that all material statutory deductions have been withheld by Oculus and remitted to the appropriate authorities.  
+[END TABLE]
+[BEGIN TABLE]
+● Without limiting its rights to engage counsel generally, review, with the principal legal external counsel of Oculus, any legal matter that could have a significant impact on the financial statements of Oculus.  
+[END TABLE]
+[BEGIN TABLE]
+● Satisfy itself, on behalf of the Board of Directors, that all regulatory compliance issues have been identified and addressed.  
+[END TABLE]
+Budgets
+[BEGIN TABLE]
+● Assist the Board of Directors in the review and approval of operational, capital and other budgets proposed by management.  
+[END TABLE]
+General
+[BEGIN TABLE]
+● Perform any other activities consistent with this Charter, the By-laws of Oculus and governing law, as the Committee or the Board of Directors deem necessary or appropriate.  
+[END TABLE]
+SCHEDULE "B"
+DISCLOSURE OF CORPORATE GOVERNANCE DISCLOSURE
+National Instrument 58-101, Disclosure of Corporate Governance Practices, requires all reporting issuers to provide certain annual disclosure of their corporate governance practices with respect to the corporate governance guidelines (the "Guidelines") adopted in National Policy 58-201. These Guidelines are not prescriptive, but have been used by us in adopting our corporate governance practices. Our approach to corporate governance is set out below.
+Mandate and Responsibility of the Board 
+Our Board is responsible for supervising management in carrying on the business and affairs of our company. Directors are required to act and exercise their powers with reasonable prudence in our best interests. The Board agrees with and confirms its responsibility for overseeing management's performance in the following particular areas: our strategic planning process; identification and management of the principal risks associated with our business; planning for succession of management; our policies regarding communications with our shareholders and others; and the integrity of our internal controls and management information systems.
+In carrying out its mandate, the Board relies primarily on management to provide it with regular detailed reports on our operations and our financial position. The Board reviews and assesses these reports and other information provided to it at meetings of the full Board and of its committees. Our CEO is a member of the Board, giving the Board direct access to information on all areas of responsibility.
+The independent directors do not hold separate meetings at which members of management are absent.
+Composition of the Board
+The Board facilitates its exercise of independent supervision over our management through frequent communication with the Board.
+The Board is comprised of five directors, of whom Maurice Loverso, Tom Perovic and Ron Wages are independent. Rowland Perkins is not independent since he serves as President and CEO and Anton J. Drescher is not independent as he serves as Corporate Secretary and Chief Financial Officer.
+Directorships
+Certain of the directors are also directors of other reporting issuers, as follows:
+[BEGIN TABLE]
+ Director   Other Reporting Issuers  
+ Rowland Perkins   Corvus Gold Inc.   			River Wild Exploration Inc.  
+ Anton J. Drescher   Corvus Gold Inc.   			International Tower Hill Mines Ltd.   			RavenQuest BioMed Inc.   			River Wild Exploration Inc.   			Trevali Resources Corp.   			Xiana Mining Inc.  
+ Maurice Loverso   N/A  
+ Tom Perovic   N/A  
+ Ron Wages   N/A  
+[END TABLE]
+Meetings Attended Out of Meetings Held
+During fiscal 2018, the Board of Directors held a number of informal meetings, and took action by unanimous written consent on four occasions. During fiscal 2017, the Board of Directors held a number of informal meetings, and took action by unanimous written consent on four occasions.
+Orientation and Continuing Education
+The Board does not have any formal policies with respect to the orientation of new directors nor does it take any measures to provide continuing education for the directors. At this stage of our development the Board does not feel it necessary to have such policies or programs in place. New directors are provided with access to our recent, publicly filed documents and our internal financial information, are provided with access to management and technical experts and consultants and a summary of significant corporate and securities responsibilities.
+Members of the Board are encouraged to communicate with management, auditors and technical consultants, to keep themselves current with industry trends and developments and changes in legislation with management's assistance and to attend related industry seminars and visit our offices. Board members have full access to our records.
+Ethical Business Conduct
+Our Board currently has a written code of ethics and views good corporate governance as an integral component to our success. In addition, our Board monitors on an ongoing basis the activities of management to ensure that the highest standard of ethical conduct is maintained. The Board views good corporate governance as an integral component to its success and to meet its responsibilities to shareholders. As we do not have a large number of officers and consultants, the Board is able to monitor on an ongoing basis the activities of management and to ensure that the highest standard of ethical conduct is maintained.
+Board Approvals and Review 
+No formal description has yet been established of the types of decisions by us which will require prior Board approval. To date, all substantive decisions involving acquisitions, major financings, major asset sales, budgets and major business initiatives have been referred to the Board. As and when our activities evolve beyond the early stages of exploration and development for mineral interests, review and approval criteria will be further considered and specific dollar capital amounts established.
+Nomination of Directors
+The Board considers its size each year when it considers the number of directors to recommend to the shareholders for election at the annual meeting of shareholders, taking into account the number required to carry out the Board's duties effectively and to maintain a diversity of view and experience.
+The Board does not have a nominating committee, and these functions are currently performed by the Board as a whole. However, if there is a change in the number of directors required by us, this policy will be reviewed.
+Position Descriptions 
+The Board has not developed written position descriptions for the Chairman, the Chairman of Board Committees, or the Chief Executive Officer. The Board is of the view that given our size, the relatively frequent discussions between Board members and the CEO, and the experience of the individual members of the Board, the responsibilities of such individuals are known and understood without position descriptions being reduced to writing. The Board will evaluate this position from time to time and if written position descriptions appear to be justified, they will be prepared.
+Compensation 
+Our independent directors, Maurice Loverso, Tom Perovic and Ron Wages, have the responsibility for determining compensation for the directors and senior management and the quantity and quality of the Board compensation is reviewed on an annual basis. To determine compensation payable, the independent directors review compensation paid to directors, CEOs and CFOs of companies of similar size and at a similar stage of development in our industry and determine an appropriate compensation reflecting the need to provide incentive and compensation for the time and effort expended by the directors and senior management while taking into account our financial and other resources. In setting the compensation, the independent directors annually review the performance of the CEO and CFO in light of our objectives and consider other factors that may have impacted our success in achieving our objectives.
+At present, we are not paying any compensation to the directors and senior management. We may in the future grant incentive stock options. The number of options to be granted is determined by the Board as a whole, which allows the independent directors to have input into compensation decisions. At this time, we do not believe our size and limited scope of operations requires a formal compensation committee.
+Description of Board Committees 
+At the present time, our only standing committee is the Audit Committee. As our directors are actively involved in our operations, and the size of our operations does not warrant a larger Board, the Board has determined that additional committees are not necessary at this stage of our development.
+The written charter of the Audit Committee, as required by NI 52-110, is contained in Schedule "A" to this Proxy Statement. As we grow, and our operations and management structure become more complex, the Board expects it will constitute formal standing committees, such as a Corporate Governance Committee, a Compensation Committee and a Nominating Committee, and will ensure that such committees are governed by written charters and are composed of at least a majority of independent directors.
+Assessments 
+Our Board does not consider that formal assessments would be useful at this stage of our development. The Board conducts informal annual assessments of the Board's effectiveness, the individual directors and of our Audit Committee. To assist in its review, the Board conducts informal surveys of its directors about assessment of the functioning of the Board. As part of the assessments, the Board or the individual committee may review its mandate and conduct reviews of applicable corporate policies.
+SCHEDULE "C"
+OCULUS VISIONTECH INC.
+(the "Company")
+2019 STOCK OPTION PLAN
+[BEGIN TABLE]
+ 1.   Objectives  
+[END TABLE]
+The Plan is intended as an incentive to enable the Company to:
+[BEGIN TABLE]
+   (a)   attract and retain qualified directors, officers, employees and consultants of the Company and its Affiliates,  
+[END TABLE]
+[BEGIN TABLE]
+   (b)   promote a proprietary interest in the Company and its Affiliates among its employees, officers, directors and consultants, and  
+[END TABLE]
+[BEGIN TABLE]
+   (c)   stimulate the active interest of such persons in the development and financial success of the Company and its Affiliates.  
+[END TABLE]
+[BEGIN TABLE]
+ 2.   Definitions  
+[END TABLE]
+As used in the Plan, the terms set forth below shall have the following respective meanings:
+"Affiliate" has the meaning ascribed thereto in the Securities Act, as amended from time to time;
+"Associate" has the meaning ascribed thereto in the Securities Act, as amended from time to time;
+"Board" means the board of directors of the Company;
+"Compensation Committee" means the Compensation Committee of the Board or such other committee of the Board that the Board may designate to administer the Plan;
+"Consultant" shall have the meaning set forth in National Instrument 45-106 "Prospectus and Registration Exemptions", as amended or superseded from time to time;
+"Company" means Oculus VisionTech Inc., a company subsisting under the Business Corporations Act (British Columbia) and its successor corporations;
+"Director" means a member of the Board;
+"Employee" means an employee of the Company or any of its Affiliates and includes:
+[BEGIN TABLE]
+   (a)   an individual who is (or would be if he were employed in Canada) considered an employee of the Company or any of its Affiliates under the Income Tax Act (Canada);  
+[END TABLE]
+[BEGIN TABLE]
+   (b)   an individual who works full-time for the Company or any of its Affiliates providing services normally provided by an employee and who is subject to the same direction and control by the Company or such Affiliate over the details and methods of work as an employee of the Company or such Affiliate; and  
+[END TABLE]
+[BEGIN TABLE]
+   (c)   an individual who works for the Company or any of its Affiliates on a continuing and regular basis for a minimum amount of time per week or month providing services normally provided by an employee and who is subject to the same control and direction by the Company or such Affiliate over the details of work as an employee of the Company or such Affiliate;  
+[END TABLE]
+"Insider" has the same meeting ascribed thereto in the TSXV Corporate Finance Manual;
+"Investor Relations Activities" means "investor relations activities" as defined in the TSXV Corporate Finance Manual, as may be amended or superseded from time to time;
+"Management Company Employee" means a person who is employed by a person providing management services to the Company or an Affiliate of the Company (not including promotional or investor relations services);
+"Non-Employee Director" means a director of the Company or of an Affiliate of the Company who is not an Employee or an Officer;
+"Officer" has the meaning ascribed thereto in the Securities Act;
+"Option" means an option to purchase Shares granted under or subject to the terms of the Plan;
+"Option Agreement" means a written agreement between the Company and an Optionee that sets forth the terms, conditions and limitations applicable to an Option;
+"Option Period" means the period for which an Option is granted;
+"Optioned Shares" means the Shares for which an Option is or may become exercisable;
+"Optionee" means a person to whom an Option has been granted under the terms of the Plan or who holds an Option that is otherwise subject to the terms of the Plan;
+"Plan" means this 2004 Incentive Stock Option Plan of the Company;
+"Securities Act" means the Securities Act (British Columbia), R.S.B.C. 1996 c.418, as amended from time to time;
+"Shares" means common shares without par value in the capital stock of the Company as the same are presently constituted;
+"TSXV" means the TSX Venture Exchange or any successor thereto;
+"TSXV Corporate Finance Manual" means the Corporate Finance Manual published by the TSXV, as amended and supplemented from time to time; and
+"U.S. Participant" means an individual whose Option is subject to U.S. federal income tax.
+[BEGIN TABLE]
+ 3.   Administration of the Plan  
+[END TABLE]
+[BEGIN TABLE]
+ 3.1   The Plan will be administered by the Compensation Committee. Notwithstanding the existence of the Compensation Committee, the Board itself will retain independent and concurrent power to undertake any action hereunder delegated to the Compensation Committee, whether with respect to the Plan as a whole or with respect to individual Options granted or to be granted under the Plan.  
+[END TABLE]
+[BEGIN TABLE]
+ 3.2   Subject to the limitations of the Plan, the Compensation Committee shall have full power to grant Options, to determine the terms, limitations, restrictions and conditions respecting such Options and to settle, execute and deliver Option Agreements and bind the Company accordingly, to interpret the Plan and to adopt such rules, regulations and guidelines for carrying out the Plan as it may deem necessary or proper and to reserve, allot, fix the price of and issue Shares pursuant to the grant and exercise of Options, all of which powers shall be exercised in the best interests of the Company and in keeping with the objectives of the Plan.  
+[END TABLE]
+[BEGIN TABLE]
+ 3.3   Notwithstanding any provision of this Plan, the Compensation Committee may, in its discretion, grant Options as it sees fit, or otherwise, accelerate the vesting or exercisability of any Option, eliminate or make less restrictive any restrictions contained in an Option, waive any restriction or other provision of the Plan or an Option or otherwise amend or modify an Option in any manner that is either:  
+[END TABLE]
+[BEGIN TABLE]
+   (a)   not adverse to the Optionee holding such Option; or  
+[END TABLE]
+[BEGIN TABLE]
+   (b)   consented to by such Optionee;  
+[END TABLE]
+and, subject to any required approvals of any stock exchange or regulatory body having jurisdiction over the securities of the Company and the provisions of section 8.1 of the Plan, provide for the extension of the Option Period of an outstanding Option.
+[BEGIN TABLE]
+ 3.4   The Compensation Committee may correct any defect or supply any omission or reconcile any inconsistency in the Plan or in any Option in the manner and to the extent the Compensation Committee deems necessary or desirable to carry it into effect. Any decision of the Compensation Committee in the interpretation and administration of the Plan shall lie within its absolute discretion and shall be final, conclusive and binding on all parties concerned. No member of the Compensation Committee shall be liable for anything done or omitted to be done by such member, by any other member of the Compensation Committee or by any officer of the Company, in connection with the performance of any duties under the Plan, except those which arise from such member's own wilful misconduct or as expressly provided by statute.  
+[END TABLE]
+[BEGIN TABLE]
+ 3.5   The Company shall pay all administrative costs of the Plan.  
+[END TABLE]
+[BEGIN TABLE]
+ 4.   Eligibility for Options  
+[END TABLE]
+[BEGIN TABLE]
+ 4.1   Options may be granted to Employees, Officers, Directors, Non-Employee Directors, Management Company Employees, and Consultants of the Company and its Affiliates who are, in the opinion of the Compensation Committee, in a position to contribute to the success of the Company or any of its Affiliates or who, by virtue of their service to the Company or any predecessors thereof or to any of its Affiliates, are in the opinion of the Compensation Committee, worthy of special recognition. Except as may be otherwise set out in this Plan, the granting of Options is entirely discretionary. Nothing in this Plan shall be deemed to give any person any right to participate in this Plan or to be granted an Option and the designation of any Optionee in any year or at any time shall not require the designation of such person to receive an Option in any other year or at any other time. The Compensation Committee shall consider such factors as it deems pertinent in selecting participants and in determining the amounts and terms of their respective Options, including, without limitation, the recommendations of the Company's Chief Executive Officer in connection therewith.  
+[END TABLE]
+[BEGIN TABLE]
+ 4.2   If an Optionee who is granted an Option is an Employee, Management Company Employee or Consultant of the Company or any of its Affiliates, the Option Agreement pertaining to such Option shall contain a representation by the Optionee that the Optionee is a bona fide Employee, Management Company Employee or Consultant of the Company or its Affiliates.  
+[END TABLE]
+[BEGIN TABLE]
+ 4.3   Subject to the acceptance of this Plan for filing by the TSXV, any options over securities of the Company previously granted by the Company which remain outstanding as at March 19, 2019, will be deemed to have been issued under and will be governed by the terms of the Plan provided that, in the event of inconsistency between the terms of the agreements governing such options previously granted and the terms of the Plan, the terms of such agreements shall govern. Any Shares issuable upon exercise of such options granted previously will be included for the purpose of calculating the amounts set out in subsection 5.1 hereof.  
+[END TABLE]
+[BEGIN TABLE]
+ 4.4   Subject to any applicable regulatory approvals, Options may also be granted under the Plan in exchange for outstanding options granted by the Company or any predecessor Company thereof or any Affiliate thereof, whether such outstanding options were granted under the Plan, under any other stock option plan of the Company or any predecessor Company or any Affiliate thereof, or under any stock option agreement with the Company or any predecessor Company or Affiliate thereof.  
+[END TABLE]
+[BEGIN TABLE]
+ 4.5   Subject to any applicable regulatory approvals/acceptances, Options may also be granted under the Plan in substitution for outstanding options of one or more other companies in connection with a plan of arrangement or exchange, amalgamation, merger, consolidation, acquisition of property or shares, or other reorganization between or involving such other companies the Company or any of its Affiliates.  
+[END TABLE]
+[BEGIN TABLE]
+ 5.   Number of Shares Reserved under the Plan  
+[END TABLE]
+[BEGIN TABLE]
+ 5.1   The number of Shares that may be reserved for issuance under the Plan is limited as follows:  
+[END TABLE]
+[BEGIN TABLE]
+   (a)   the maximum aggregate number of Shares that may be made issuable pursuant to the exercise of Options granted under the Plan may not exceed that number which is equal to TEN (10%) PERCENT of the number of issued and outstanding Shares at the time of a particular grant. For greater certainty, if Options are exercised, expire or otherwise terminate, the Company may grant an equivalent number of new Options under the Plan, and the Company may continue to grant additional Options under the Plan as its issued and outstanding capital increases, even after the Plan has received shareholder approval and regulatory acceptance; and  
+[END TABLE]
+[BEGIN TABLE]
+   (b)   if and for so long as the Shares are listed on the TSXV:  
+[END TABLE]
+[BEGIN TABLE]
+   (i)   the maximum aggregate number of Shares that may be reserved under the Plan or other share compensation arrangements of the Company for issuance to Insiders shall not exceed ten (10%) percent of the issued and outstanding number of Shares;  
+[END TABLE]
+[BEGIN TABLE]
+   (ii)   the number of Options granted to Insiders (together with any options granted to Insiders pursuant to any other share compensation arrangements of the Company) within a twelve (12) month period to acquire Shares reserved for issuance under the Plan (or any other compensation plan of the Company) must not exceed 10% of the issued and outstanding number of Shares;  
+[END TABLE]
+[BEGIN TABLE]
+   (iii)   the maximum aggregate number of Shares that may be reserved under the Plan or other share compensation arrangements of the Company for issuance to any one Consultant in any twelve (12) month period shall not exceed two (2%) percent of the issued and outstanding number of Shares, calculated as at the date an Option is granted;  
+[END TABLE]
+[BEGIN TABLE]
+   (iv)   the maximum aggregate number of Shares that may be reserved under the Plan or other share compensation arrangements of the Company for issuance to Optionees who are employed to provide Investor Relations Activities, as a group, in any twelve (12) month period, shall not exceed two (2%) percent of the issued and outstanding number of Shares, calculated as at the date an Option is granted; and  
+[END TABLE]
+[BEGIN TABLE]
+   (v)   Options issued to Consultants engaged to perform Investor Relations Activities must be subject to a vesting requirement, whereby such Options will vest over a period of not less than twelve (12) months, with a maximum of twenty-five (25%) percent of such Options vesting in any three (3) month period.  
+[END TABLE]
+[BEGIN TABLE]
+ 6.   Number of Optioned Shares per Option  
+[END TABLE]
+[BEGIN TABLE]
+ 6.1   Unless the Company has received disinterested shareholder approval, the total number of Shares reserved for issuance to any one individual pursuant to Options or any other share compensation arrangements of the Company within a twelve (12) month period shall not exceed five (5%) percent of the number of issued and outstanding Shares from time to time.  
+[END TABLE]
+[BEGIN TABLE]
+ 6.2   Subject always to the limitations in subsections 5.1 and 6.1, the number of Optioned Shares under an Option shall be determined by the Compensation Committee, in its discretion, at the time such Option is granted, taking into consideration the Optionee's present and potential contribution to the success of the Company and taking into account all other Options then held by such Optionee.  
+[END TABLE]
+[BEGIN TABLE]
+ 7.   Price  
+[END TABLE]
+[BEGIN TABLE]
+ 7.1   The exercise price per Optioned Share under an Option shall be determined by the Compensation Committee, in its discretion, at the time such Option is granted, but such price shall be fixed in compliance with the applicable provisions of the TSXV Corporate Finance Manual in force at the time of grant and, in any event, shall not be less than the closing price of the Shares on the TSXV on the trading day immediately preceding the day on which the Option is granted (provided that if there are no trades on such day then the last closing price within the preceding ten trading days will be used, and if there are no trades within such ten-day period, then the simple average of the closing bid and ask prices on the trading day immediately preceding the day of grant will be used), in each case less up to the maximum discount permitted by the TSXV (the "Discounted Market Price"). The exercise price at which, and the number of optioned securities for which, an outstanding Option may be exercised following a subdivision or consolidation of the Shares shall be subject to adjustment in accordance with section 11.  
+[END TABLE]
+[BEGIN TABLE]
+ 7.2   The exercise price per Optioned Share under an Option may be reduced at the discretion of the Compensation Committee if:  
+[END TABLE]
+[BEGIN TABLE]
+   (a)   at least six (6) months has elapsed since the later of the date such Option was granted and the date the exercise price for such Option was last amended; and  
+[END TABLE]
+[BEGIN TABLE]
+   (b)   disinterested shareholder approval is obtained for any reduction in the exercise price under an Option held by an Insider of the Company;  
+[END TABLE]
+provided that:
+[BEGIN TABLE]
+   (c)   such reduction is accepted for filing by the TSXV (if so required); and  
+[END TABLE]
+[BEGIN TABLE]
+   (d)   if the exercise price is reduced to the Discounted Market Price, the TSXV four (4) month hold period will apply from the date of the amendment;  
+[END TABLE]
+provided that, notwithstanding anything to the contrary in this subsection 7.2, in no event will the exercise price of an Option held by a U.S. Participant be reduced below the fair market value of a Share on the date of such repricing.
+[BEGIN TABLE]
+ 8.   Option Period and Exercise of Options  
+[END TABLE]
+[BEGIN TABLE]
+ 8.1   The Option Period for an Option shall be determined by the Compensation Committee at the time the Option is granted and may be up to ten (10) years from the date the Option is granted. At the time an Option is granted, the Compensation Committee may determine that, with respect to that Option, upon the occurrence of one of the events described in subsection 10.1 there shall come into force a time limit for exercise of such Option which is different than the Option Period, and in the event of such a determination, the Option Agreement for such Option shall contain provisions which specify the events and time limits related to that determination, provided that Options granted to any Optionee who is a Director, Senior Officer, Employee, Consultant or Management Company Employee must expire within a reasonable period after the Optionee ceases to be in at least one of those categories. Subject to the applicable maximum Option Period provided for in this subsection 8.1 and subject to applicable regulatory requirements and approvals/acceptances, the Compensation Committee may extend the Option Period of an outstanding Option beyond its original expiration date, provided that disinterested shareholder approval is obtained for any extension of the Option Period of an outstanding Option held by an Insider.  
+[END TABLE]
+[BEGIN TABLE]
+ 8.2   Subject to subparagraph 5.1(b)(v), the Compensation Committee may determine when any Option will become exercisable and may determine that the Option shall vest and/or be exercisable in instalments.  
+[END TABLE]
+[BEGIN TABLE]
+ 8.3   If there is a takeover bid or tender offer made for all or any of the issued and outstanding Shares, then the Board may, in its sole and absolute discretion and if permitted by applicable legislation and the TSXV, unilaterally determine that outstanding Options, whether fully vested and exercisable or subject to vesting provisions or other limitations on exercise, shall be conditionally exercisable in full to enable the Optioned Shares subject to such Options to be conditionally issued and tendered to such bid or offer, subject to the conditions that:  
+[END TABLE]
+[BEGIN TABLE]
+   (a)   if the bid or offer is not duly completed the exercise of such Options and the issue of such Shares will be rescinded and nullified and the Options, including any vesting provisions or other limitations on exercise which were in effect will be re-instated; and  
+[END TABLE]
+[BEGIN TABLE]
+   (b)   any reduction in any vesting provisions beyond the minimum vesting provisions required by the TSXV will be subject to acceptance for filing thereof by the TSXV.  
+[END TABLE]
+[BEGIN TABLE]
+ 8.4   The vested portions of Options will be exercisable, in whole or in part, at any time after vesting. If an Option is exercised for fewer than all of the Optioned Shares for which the Option has then vested, the Option shall remain in force and exercisable for the remaining Optioned Shares for which the Option has then vested, according to the terms of such Option.  
+[END TABLE]
+[BEGIN TABLE]
+ 8.5   The exercise of any Option will be contingent upon receipt by the Company of payment in full for the exercise price of the Shares being purchased in cash by way of certified cheque or bank draft or other method of payment acceptable to the Company. Neither an Optionee nor the legal representatives, legatees or distributees of such Optionee will be, or will be deemed to be, a holder of any Shares subject to an Option under the Plan unless and until certificates for such Shares are issuable to the Optionee or such other persons pursuant to the Option or the Plan.  
+[END TABLE]
+[BEGIN TABLE]
+ 8.6   Notwithstanding the provisions of subsection Error! Reference source not found. or the date of expiration of an Option determined in accordance with this Plan ("Fixed Term"), the date of expiration of an Option will be adjusted, without being subject to Board or Compensation Committee discretion, to take into account any blackout period imposed on the Optionee by the Company as follows:  
+[END TABLE]
+[BEGIN TABLE]
+   (a)   if the Fixed Term expiration date falls within a blackout period imposed on the Optionee by the Company, then the Fixed Term expiration date is extended to the close of business on the tenth (10th) business day after the end of such blackout period (the "Blackout Expiration Term"); or  
+[END TABLE]
+[BEGIN TABLE]
+   (b)   if the Fixed Term expiration date falls within two (2) business days after the end of a blackout period imposed on the Optionee by the Company, then the Fixed Term expiration date will be that date which is the Blackout Expiration Term reduced by the number of business days between the Fixed Term expiration date and the end of such blackout period (i.e. Options whose Fixed Term expires two (2) business days after the end of the blackout period will only have an additional eight (8) business days to exercise).  
+[END TABLE]
+[BEGIN TABLE]
+ 8.7   Unless registered under the United States Securities Act of 1933, as amended (the "U.S. Securities Act") and any applicable state securities laws, the Options and the Optioned Shares underlying the Options granted pursuant to this Plan to an Optionee in the United States or an Optionee that is a U.S. Person (as defined in Regulation S under the U.S. Securities Act) shall be "restricted securities" within the meaning of Rule 144(a)(3) of the U.S. Securities Act and the Optioned Shares shall not be offered, sold or transferred absent registration under the U.S. Securities Act and any applicable state securities laws or an available exemption from such registration requirements. No Option may be granted or exercised, and no Optioned Shares shall be issued, in the United States or by or to, or for the account or benefit of, a U.S. Person or person in the United States unless the grant of the Option or the exercise of the Option and the issuance of the Optioned Shares, as the case may be, has been registered under the U.S. Securities Act and any applicable state securities laws or there is an available exemption from such registration requirements.  
+[END TABLE]
+[BEGIN TABLE]
+ 8.8   Absent registration under the U.S. Securities Act, all Options issued into the United States or to a U.S. Person will contain a provision substantially to the following effect:  
+[END TABLE]
+"The Options and the Common Shares issuable upon exercise hereof have not been and will not be registered under the United States Securities Act of 1933, as amended (the "U.S. Securities Act") or the securities laws of any state of the United States. The Options may not be exercised in the United States or by or for the account or benefit of a U.S. Person or a person in the United States and the underlying Common Shares may not be delivered within the United States unless the underlying Common Shares to be delivered upon exercise of these Options have been registered under the U.S. Securities Act and the securities laws of all applicable states of the United States or an exemption from such registration requirements is available. "United States" and "U.S. Person" are used herein as such terms are defined by Regulation S under the U.S. Securities Act."
+[BEGIN TABLE]
+ 8.9   Absent registration under the U.S. Securities Act, all certificates representing the Optioned Shares issued to an Optionee in the United States or an Optionee that is a U.S. Person under this Plan shall bear a restrictive legend in substantially the following form:  
+[END TABLE]
+"THE SHARES REPRESENTED HEREBY HAVE NOT BEEN REGISTERED UNDER THE UNITED STATES SECURITIES ACT OF 1933, AS AMENDED (THE "SECURITIES ACT"), AND ARE RESTRICTED SECURITIES AS THAT TERM IS DEFINED IN RULE 144 UNDER THE SECURITIES ACT. THE HOLDER HEREOF AGREES THAT THE SHARES MAY NOT BE OFFERED, SOLD, PLEDGED OR OTHERWISE TRANSFERRED, DIRECTLY OR INDIRECTLY, EXCEPT (A) TO THE COMPANY, (B) PURSUANT TO AN EFFECTIVE REGISTRATION STATEMENT UNDER THE SECURITIES ACT, (C) OUTSIDE THE UNITED STATES IN ACCORDANCE WITH RULE 904 OF REGULATION S UNDER THE SECURITIES ACT, OR (D) PURSUANT TO AN APPLICABLE EXEMPTION FROM THE REGISTRATION REQUIREMENTS OF THE SECURITIES ACT AND IN ACCORDANCE WITH ALL APPLICABLE STATE SECURITIES LAWS, AND IN THE CASE OF (D) ABOVE, WHERE THE HOLDER HAS PROVIDED A LEGAL OPINION OF COUNSEL OF RECOGNIZED STANDING TO THE SATISFACTION OF THE COMPANY TO THE EFFECT THAT REGISTRATION UNDER THE SECURITIES ACT IS NOT REQUIRED.", provided, that if the Optioned Shares are being sold under clause (C) above, at a time when the Company is a "foreign issuer" as defined in Rule 902 of Regulation S under the U.S. Securities Act, the legend set forth above may be removed by providing a declaration to the Company and its transfer such evidence of exemption as the Company or its transfer agent may from time to time prescribe, to the effect that the sale of the securities is being made in compliance with Rule 904 of Regulation S under the U.S. Securities Act.
+[BEGIN TABLE]
+ 9.   Stock Option Agreement  
+[END TABLE]
+[BEGIN TABLE]
+ 9.1   Upon the grant of an Option to an Optionee, the Company and the Optionee shall enter into an Option Agreement setting out the number of Optioned Shares subject to the Option, the Option Period and, if applicable, any termination date fixed under subsection 8.1 and any vesting schedule fixed under subsection 8.2 or 5.1(b)(v) for the Option, and incorporating the terms and conditions of the Plan and any other requirements of regulatory authorities and stock exchanges having jurisdiction over the securities of the Company, together with such other terms and conditions as the Compensation Committee may determine in accordance with the Plan.  
+[END TABLE]
+[BEGIN TABLE]
+ 10.   Effect of Termination of Employment or Death  
+[END TABLE]
+[BEGIN TABLE]
+ 10.1   An outstanding Option shall remain in full force and effect and exercisable according to its terms for the Option Period notwithstanding that the holder of such Option ceases to be a Director, Employee, Officer or Consultant of the Company for any reason, including death, subject always to any express term in any Option Agreement made pursuant to subsection 8.1 which provides that upon the occurrence of one of such events there shall come into force a time limit for exercise of such Option which is different than the Option Period. So long as the Shares are listed on the TSXV (unless otherwise permitted by the TSXV) the maximum period within which the heirs or administrators of a deceased Optionee may exercise any portion of an outstanding Option is one (1) year from the date of death or the balance of the Option Period, whichever is earlier.  
+[END TABLE]
+[BEGIN TABLE]
+ 10.2   In the event of the death of an Optionee, an Option which remains exercisable may be exercised in accordance with its terms by the person or persons to whom such Optionee's rights under the Option shall have passed under the Optionee's will or pursuant to law.  
+[END TABLE]
+[BEGIN TABLE]
+ 11.   Adjustment in Shares Subject to the Plan  
+[END TABLE]
+[BEGIN TABLE]
+ 11.1   Following the date an Option is granted, the exercise price for and the number of Optioned Shares which are subject to an Option will be adjusted, with respect to the then unexercised portion thereof, by the Compensation Committee from time to time (on the basis of such advice as the Compensation Committee considers appropriate, including, if considered appropriate by the Compensation Committee, a certificate of the auditor of the Company) in the events and in accordance with the provisions and rules set out in this section 11, with the intent that the rights of Optionees under their Options are, to the extent possible, preserved notwithstanding the occurrence of such events. The Compensation Committee will conclusively determine any dispute that arises at any time with respect to any adjustment pursuant to such provisions and rules, and any such determination will be binding on the Company, the Optionee and all other affected parties.  
+[END TABLE]
+[BEGIN TABLE]
+ 11.2   The number of Optioned Shares to be issued on the exercise of an Option shall be adjusted from time to time to account for each dividend of Shares (other than a dividend in lieu of cash dividends paid in the ordinary course), so that upon exercise of the Option for an Optioned Share the Optionee shall receive, in addition to such Optioned Share, an additional number of Shares ("Additional Shares"), at no further cost, to adjust for each such dividend of Shares. The adjustment shall take into account every dividend of Shares that occurs between the date of the grant of the Option and the date of exercise of the Option for such Optioned Share. If there has been more than one such dividend, the adjustment shall also take into account that the dividends that are later in time would have been distributed not only on the Optioned Share had it been outstanding, but also on all Additional Shares which would have been outstanding as a result of previous dividends.  
+[END TABLE]
+[BEGIN TABLE]
+ 11.3   If the outstanding Shares are changed into or exchanged (directly, or through a series of related transactions) for a different number of shares or into or for other securities of the Company or securities of another Company or entity, whether through an arrangement, amalgamation or other similar procedure or otherwise, or a share recapitalization, subdivision or consolidation, then on each exercise of the Option which occurs following such events, for each Optioned Share for which the Option is exercised, the Optionee shall instead receive the number and kind of shares or other securities of the Company or other Company into which such Option Share would have been changed or for which such Option Share would have been exchanged if it had been outstanding on the date of such event.  
+[END TABLE]
+[BEGIN TABLE]
+ 11.4   If the outstanding Shares are changed into or exchanged (directly, or through a series of related transactions) for a different number of shares or into or for other securities of the Company or securities of another Company or entity, in a manner other than as specified in subsections 11.2 or 11.3, then the Compensation Committee, in its sole discretion, may make such adjustment to the securities to be issued pursuant to any exercise of the Option and the exercise price to be paid for each such security following such event as the Compensation Committee in its sole and absolute discretion determines to be equitable to give effect to the principle described in subsection 11.1, and such adjustments shall be effective and binding upon the Company and the Optionee for all purposes.  
+[END TABLE]
+[BEGIN TABLE]
+ 11.5   If the Company distributes, by way of a dividend or otherwise, to all or substantially all holders of Shares, property, evidences of indebtedness or shares or other securities of the Company (other than Shares) or rights, options or warrants to acquire Shares or securities convertible into or exchangeable for Shares or other securities or property of the Company, other than as a dividend in the ordinary course, then, if the Compensation Committee, in its sole discretion, determines that such action equitably requires an adjustment in the exercise price under any outstanding Option or in the number(s) of Optioned Shares subject to any such Option, or both, such adjustment may be made by the Compensation Committee and shall be effective and binding on the Company and the Optionee for all purposes.  
+[END TABLE]
+[BEGIN TABLE]
+ 11.6   No adjustment or substitution provided for in this section 11 shall require the Company to issue a fractional share in respect of any Option. Fractional shares shall be eliminated.  
+[END TABLE]
+[BEGIN TABLE]
+ 11.7   The grant or existence of an Option shall not in any way limit or restrict the right or power of the Company to effect adjustments, reclassifications, reorganizations, arrangements or changes of its capital or business structure, or to amalgamate, merge, consolidate, dissolve or liquidate, or to sell or transfer all or any part of its business or assets.  
+[END TABLE]
+[BEGIN TABLE]
+ 12.   Non-Assignability  
+[END TABLE]
+[BEGIN TABLE]
+ 12.1   Neither the Options nor the benefits and rights of any Optionee under any Option or under the Plan shall be assignable or otherwise transferable, except as specifically provided in subsection 10.2 in the event of the death of the Optionee. During the lifetime of the Optionee, all such Options, benefits and rights may only be exercised by the Optionee.  
+[END TABLE]
+[BEGIN TABLE]
+ 13.   Employment  
+[END TABLE]
+[BEGIN TABLE]
+ 13.1   Nothing contained in the Plan shall confer upon any Optionee, or any person employing a Management Company Optionee, any right with respect to employment or continuance of employment with, or the provision of services to, the Company or any of its Affiliates, or interfere in any way with the right of the Company or any of its Affiliates to terminate the Optionee's employment or the services of any such person at any time. Participation in the Plan by an Optionee is voluntary.  
+[END TABLE]
+[BEGIN TABLE]
+ 14.   Regulatory Acceptances  
+[END TABLE]
+[BEGIN TABLE]
+ 14.1   The Plan is subject to the acceptance of the Plan for filing by the TSXV from time to time as required by the TSXV, and the Compensation Committee is authorized to amend the Plan from time to time in order to comply with any changes required from time to time by such applicable regulatory authorities, whether as conditions to the acceptance for filing of the Plan or otherwise, provided that no such amendment will in any way derogate from the rights held by Optionees holding Options (vested or unvested) at the time thereof without the consent of such Optionees.  
+[END TABLE]
+[BEGIN TABLE]
+ 14.2   The obligation of the Company to issue and deliver Optioned Shares pursuant to the exercise of any Options granted under the Plan is subject to the acceptance of the Plan for filing by the TSXV from time to time as required by the TSXV. If any Shares cannot be issued to any Optionee for any reason, including, without limitation, the failure to obtain such acceptance for filing, then the obligation of the Company to issue such Optioned Shares shall terminate and any amounts paid to the Company for such Optioned Shares shall be returned to the Optionee forthwith without interest or deduction.  
+[END TABLE]
+[BEGIN TABLE]
+ 15.   Securities Regulation and Tax Withholding  
+[END TABLE]
+[BEGIN TABLE]
+ 15.1   Where necessary to enable the Company to use an exemption from requirements to register Optioned Shares or file a prospectus or use a registered dealer to distribute Optioned Shares under securities laws applicable to the securities of the Company in any jurisdiction, an Optionee, upon the acquisition of any Optioned Shares by the exercise of Options and as a condition to such exercise, shall provide to the Compensation Committee such evidence as the Compensation Committee requires to demonstrate that the Optionee or recipient will acquire such Optioned Shares with investment intent (i.e. for investment purposes) and not with a view to their distribution, including an undertaking to that effect in a form acceptable to the Compensation Committee. The Compensation Committee may cause a legend or legends to be placed upon any certificates for the Optioned Shares to make appropriate reference to applicable resale restrictions, and the Optionee or recipient shall be bound by such restrictions. The Compensation Committee also may take such other action or require such other action or agreement by such Optionee or proposed recipient as may from time to time be necessary to comply with applicable securities laws. This provision shall in no way obligate the Company to undertake the registration or qualification of any Options or the Option Shares under any securities laws applicable to the securities of the Company.  
+[END TABLE]
+[BEGIN TABLE]
+ 15.2   For all purposes of the Plan, the Compensation Committee and the Company may take all such measures as they deem appropriate or necessary to comply with applicable laws, including income tax laws and securities laws and regulations, as well as the rules of regulatory authorities having jurisdiction over the Company or in respect of the securities of the Company. Issuance, transfer or delivery of certificates for Optioned Shares acquired pursuant to the Plan may be delayed, at the discretion of the Compensation Committee, until the Compensation Committee is satisfied that the requirements of applicable laws and regulations, and applicable rules of regulatory authorities, have been met.  
+[END TABLE]
+[BEGIN TABLE]
+ 15.3   The Company shall have the right, whether or not set out in any Option Agreement, to deduct and withhold from any amount payable or consideration deliverable to an Optionee, in cash or in kind, either under the Plan, an Option, an Option Agreement or otherwise, such amount or consideration as may be necessary to enable the Company to comply with the applicable requirements of any federal, provincial, state or local law, or any administrative policy of any applicable tax authority, relating to the deduction, withholding or remittance of tax or any other required deductions or remittances with respect to awards hereunder ("Withholding Obligations"). Without limitation, the Company shall also have the right, in its discretion and whether or not set out in any Option Agreement, to satisfy any liability for any Withholding Obligations by withholding and selling, or causing a broker to sell, on behalf of any Optionee such number of Shares or other securities issued to the Optionee pursuant to an exercise of Options hereunder as is sufficient to fund the Withholding Obligations (after deducting commissions payable to the broker and other costs and expenses), or retaining any amount or consideration which would otherwise be paid, delivered or provided to the Optionee hereunder. The Company may require an Optionee, as a condition to granting an Option or the exercise of an Option, to make such arrangements as the Company may in its discretion require so that the Company can satisfy applicable Withholding Obligations, including, without limitation:  
+[END TABLE]
+[BEGIN TABLE]
+   (a)   requiring the Optionee to remit the amount of any such Withholding Obligations to the Company in advance;  
+[END TABLE]
+[BEGIN TABLE]
+   (b)   requiring the Optionee to indemnify and reimburse the Company for any such Withholding Obligations;  
+[END TABLE]
+[BEGIN TABLE]
+   (c)   withholding and selling Shares or other securities acquired by the Optionee under the Plan or an Option or Option Agreement, or causing a broker to sell such Shares or securities on behalf of the Optionee, withholding from the proceeds realized from such sale the amount required to satisfy any such Withholding Obligations, and remitting such amount directly to the Company; or  
+[END TABLE]
+[BEGIN TABLE]
+   (d)   any combination thereof.  
+[END TABLE]
+[BEGIN TABLE]
+ 15.4   Any Shares or other securities of an Optionee that are sold by the Company, or by a broker engaged by the Company (the "Broker"), to fund Withholding Obligations will be sold as soon as practicable in transactions effected on the any exchange(s) on which the common shares of the Company are then listed for trading, if any. In effecting the sale of any such Shares or securities, the Company or the Broker will exercise its sole judgment as to the timing and manner of sale and will not be obligated to seek or obtain a minimum price. Neither the Company nor the Broker will be liable for any loss arising out of any sale of such Shares or securities including any loss relating to the manner or timing of such sales, the prices at which the Shares or securities are sold or otherwise. In addition, notwithstanding anything else herein, neither the Company nor the Broker will be liable for any loss arising from a delay in delivering or transferring any Shares or securities to an Optionee. The sale price of Shares or other securities sold on behalf of any Optionee(s) will fluctuate with the market price of the Company's shares and no assurance can be given that any particular price will be received upon any such sale.  
+[END TABLE]
+[BEGIN TABLE]
+ 16.   Amendment and Termination of Plan  
+[END TABLE]
+[BEGIN TABLE]
+ 16.1   The Board reserves the right to amend or terminate the Plan at any time if and when it is deemed advisable in the absolute discretion of the Board; provided, however, that no such amendment or termination shall adversely affect any outstanding Options granted under the Plan without the consent of the Optionee. Any amendment to the Plan shall also be subject to acceptance of such amendment or amended Plan for filing by the TSXV and, where required by the TSXV, the approval of the shareholders of the Company.  
+[END TABLE]
+[BEGIN TABLE]
+ 17.   No Representation or Warranty  
+[END TABLE]
+[BEGIN TABLE]
+ 17.1   The Company makes no representation or warranty as to the future market value of any Shares or Optioned Shares.  
+[END TABLE]
+[BEGIN TABLE]
+ 18.   General Provisions  
+[END TABLE]
+[BEGIN TABLE]
+ 18.1   Nothing contained in the Plan shall prevent the Company or any of its Affiliates from adopting or continuing in effect other compensation arrangements (subject to shareholder approval if such approval is required by TSXV) and such arrangements may be either generally applicable or applicable only in specific cases.  
+[END TABLE]
+[BEGIN TABLE]
+ 18.2   The validity, construction and effect of the Plan, the grants of Options, the issue of Option Shares, any rules and regulations relating to the Plan any Option Agreement, and all determinations made and actions taken pursuant to the Plan, shall be governed by and determined in accordance with the laws of the Province of British Columbia and the laws of Canada applicable therein.  
+[END TABLE]
+[BEGIN TABLE]
+ 18.3   If any provision of the Plan or any Option Agreement is or becomes or is deemed to be invalid, illegal or unenforceable in any jurisdiction or as to any person or Option, or would disqualify the Plan or any Option under any law deemed applicable by the Compensation Committee, such provision shall be construed or deemed amended to conform to the applicable laws, or if it cannot be construed or deemed amended without, in the determination of the Compensation Committee, materially altering the intent of the Plan or the Option, such provision shall be stricken as to such jurisdiction, person, or Option and the remainder of the Plan and any such Option Agreement shall remain in full force and effect.  
+[END TABLE]
+[BEGIN TABLE]
+ 18.4   Neither the Plan nor any Option shall create or be construed to create a trust or separate fund of any kind or a fiduciary relationship between the Company or any of its Affiliates and an Optionee or any other person.  
+[END TABLE]
+[BEGIN TABLE]
+ 18.5   Headings are given to the sections of the Plan solely as a convenience to facilitate reference. Such headings shall not be deemed in any way material or relevant to the construction or interpretation of the Plan or any provision thereof.  
+[END TABLE]
+[BEGIN TABLE]
+ 19.   Term of the Plan  
+[END TABLE]
+[BEGIN TABLE]
+ 19.1   The Plan shall be effective as of February 1, 2004, subject to its approval by the shareholders of the Company and acceptance for filing by the TSXV pursuant to section 14.  
+[END TABLE]
+[BEGIN TABLE]
+ 19.2   The Plan shall be effective until January 31, 2014 unless the Plan is earlier terminated by the Board pursuant to section 16, and no Option shall be granted under the Plan after that date. Unless otherwise expressly provided in the Plan or in an applicable Option Agreement, the Option Period for any Option granted hereunder will, and any authority of the Board to amend, alter, adjust, suspend, discontinue or terminate any such Option or to waive any conditions or rights under any such Option shall, continue after termination of the Plan on January 31, 2014 or any earlier termination date of the Plan, notwithstanding such termination.  
+[END TABLE]
+[BEGIN TABLE]
+ Adopted by the Board:   March 14, 2019  
+ Approved by the Shareholders:     Accepted for filing by the TSXV:    [END TABLE]
+2019 ANNUAL GENERAL AND SPECIAL MEETING OF SHAREHOLDERS
+NOTICE-AND-ACCESS NOTIFICATION TO SHAREHOLDERS
+You are receiving this notification as Oculus VisionTech Inc. (the "Company") has decided to use the notice and access model for delivery of meeting materials for its 2019 Annual General and Special Meeting ("Meeting") to its shareholders. This Notice of Meeting is prepared under the notice-and-access rules that came into effect on February 11, 2013 under National Instrument 54-101 Communication with Beneficial Owners of Securities of a Reporting Issuer. Under notice and access, shareholders still receive a proxy or voting instruction form enabling them to vote at the Meeting. However, instead of a paper copy of the management information circular (the "Information Circular"), shareholders receive this notice with information on how they may access such materials electronically. The use of this alternative means of delivery is more environmentally responsible as it will help reduce paper use and will also reduce the cost of printing and mailing Meeting materials to shareholders.
+SHAREHOLDERS WILL BE ASKED TO CONSIDER AND VOTE ON THE FOLLOWING MATTERS:
+[BEGIN TABLE]
+ Item 1.   Number of Directors: Shareholders will be asked to determine the number of directors at five (5).  
+[END TABLE]
+[BEGIN TABLE]
+ Item 2.   Election of Directors: Shareholders will be asked to elect five (5) directors for the ensuing year. Information may be found in the "Election of Directors" section of the Information Circular.  
+[END TABLE]
+[BEGIN TABLE]
+ Item 3.   Ratification and Approval of Appointment of Independent Auditor: Shareholders will be asked to appoint KWCO PC, as the Company's independent auditor for the fiscal year ending December 31, 2019, and authorize the Company's directors to fix the auditor's remuneration. Information may be found in the "Appointment of Auditor" section of the Information Circular.  
+[END TABLE]
+[BEGIN TABLE]
+ Item 4.   Approval of Share Consolidation. Shareholders will be asked to consider, and if thought fit, to pass an ordinary resolution, authorizing the board of directors to proceed, at their discretion, with a consolidation of the Company's shares on a 15:1 basis.  
+[END TABLE]
+[BEGIN TABLE]
+ Item 5.   Approval of 2019 Stock Option Plan: Shareholders will be asked to consider, and if thought fit, to pass an ordinary resolution providing for the yearly approval of the Company's Stock Option Plan as required by the TSX Venture Exchange, Inc. Information may be found under Item 5. Approval of Stock Option Plan" section of the Information Circular.  
+[END TABLE]
+[BEGIN TABLE]
+ Item 6.   Other Business: Shareholders may be asked to consider other items of business that may be properly brought before the Meeting. Information respecting the use of discretionary authority to vote on any such other business may be found in the "Proxy Instructions" section of the Information Circular.  
+[END TABLE]
+Reference is made to the Information Circular of the Company dated March 19, 2019 which contains additional details concerning the matters outlined above.
+SHAREHOLDERS ARE REMINDED TO VIEW THE INFORMATION CIRCULAR FOR THE MEETING PRIOR TO VOTING
+WEBSITE WHERE MEETING MATERIALS ARE POSTED:
+Materials for the Meeting may be viewed on the Company's website at: http://www.ovtz.com/investors/annual-general-meeting
+Materials for the Meeting may also be viewed online at: www.sedar.com
+HOW TO OBTAIN PAPER COPIES OF THE MEETING MATERIALS:
+Shareholders may request paper copies of the materials for the Meeting be sent to them by postal delivery at no cost to them. Requests may be made up to one year from the date the Information Circular was filed on SEDAR through the internet by going to:
+[BEGIN TABLE]
+ Internet:   www.ovtz.com  
+[END TABLE]
+[BEGIN TABLE]
+ Telephone:   toll-free in North America at 1-888-331-0096  
+[END TABLE]
+[BEGIN TABLE]
+ Email:   ajd@harbourpacific.com  
+[END TABLE]
+Requests should be received at least five (5) business days in advance of the proxy cut-off date set out in the accompanying proxy or voting instruction form in order to receive the meeting materials in advance of the date of the Meeting.
+VOTING:
+Registered shareholders are asked to return their proxies using one of the following methods at least one business day in advance of the proxy cut-off date as set out in the accompanying proxy:
+[BEGIN TABLE]
+ Internet:   www.investorvote.com  
+[END TABLE]
+[BEGIN TABLE]
+ Telephone:   1-866-732-VOTE (8683) Toll Free  
+[END TABLE]
+[BEGIN TABLE]
+ Mail:   Computershare Investor Services Inc., Proxy Dept.   			100 University Avenue, 8th Floor, Toronto, Ontario, Canada  
+[END TABLE]
+Non-registered holders are asked to use the voter instruction form provided by your intermediary (bank, trust company or broker) and return it as early as practicable to ensure that it is transmitted on time. It must be received by your intermediary with sufficient time for them to file a proxy by the deadline noted above.
+Shareholders with questions about this Notice-and-Access Notification can email the Company at ajd@harbourpacific.com.
+OCULUS VISIONTECH INC.
+(the "Company")
+Request for Annual and/or Interim Financial Statements and 
+Related Management's Discussion and Analysis
+National Instrument 51-102 requires the Company to send annually to the registered holders and beneficial owners of its securities ("Securityholders") a form to allow Securityholders to request a copy of the Company's annual financial statements and related Management's Discussion and Analysis ("MD&A"), interim financial statements and related MD&A, or both. If you wish to receive such mailings, please complete and return this form to:
+Oculus VisionTech Inc.
+Suite 507 – 837 West Hastings Street
+Vancouver, British Columbia
+Canada  V6C 3N6
+The undersigned Securityholder hereby elects to receive:
+[BEGIN TABLE]
+ ☐   Interim Financial Statements for the first quarter ended March 31, 2019, second quarter ended June 30, 2019 and third quarter ended September 30, 2019 and the related MD&A;  
+[END TABLE]
+[BEGIN TABLE]
+ ☐   Annual Financial Statements for the fiscal year ended December 31, 2019 and related MD&A; or  
+[END TABLE]
+[BEGIN TABLE]
+ ☐   BOTH – Interim Financial Statements for the first quarter ended March 31, 2019, second quarter ended June 30, 2019 and third quarter ended September 30, 2019 and the related MD&A; and the Annual Financial Statements for the fiscal year ended December 31, 2019 and related MD&A.  
+[END TABLE]
+Please note that a request form will be mailed each year and Securityholders must return such form each year in order to receive the documents indicated above.
+[BEGIN TABLE]
+ Name:      
+[END TABLE]
+[BEGIN TABLE]
+ Address:      
+[END TABLE]
+[BEGIN TABLE]
+ Postal Code:      
+[END TABLE]
+OR
+[BEGIN TABLE]
+ Email Address:      
+[END TABLE]
+By consenting to electronic delivery, Securityholders: (i) agree to receive all documents to which they are entitled electronically, rather than by mail; and (ii) understand that access to the Internet is required to receive a document electronically and certain system requirements must be installed (currently Adobe Acrobat Reader to view Adobe's portable document format). At any time, the Company may elect to not send a document electronically, or a document may not be available electronically. In either case, a paper copy will be mailed to shareholders.
+I confirm that I am a ☐ registered/ ☐ beneficial (check one) shareholder of the Company.
+[BEGIN TABLE]
+ Signature of Securityholder:      Date:   
+ Signature of Securityholder:      Date:   
+[END TABLE]
+ 

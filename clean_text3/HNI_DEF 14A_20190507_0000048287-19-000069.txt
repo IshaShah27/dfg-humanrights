@@ -1,0 +1,1013 @@
+
+[BEGIN TABLE]
+UNITED STATES 
+SECURITIES AND EXCHANGE COMMISSION 
+Washington, D.C. 20549 
+SCHEDULE 14A INFORMATION 
+Proxy Statement Pursuant to Section 14(a) of the Securities Exchange Act of 1934 
+(Amendment No.   ) 
+Filed by the Registrant  ý 
+Filed by a Party other than the Registrant  ¨ 
+Check the appropriate box: 
+¨  Preliminary Proxy Statement 
+¨  Confidential, for Use of the Commission Only (as permitted by Rule 14a-6(e)(2)) 
+ý  Definitive Proxy Statement 
+¨  Definitive Additional Materials 
+¨  Soliciting Material Under Rule 14a-12 
+HNI CORPORATION 
+(Name of Registrant as Specified In Its Charter) 
+(Name of Person(s) Filing Proxy Statement, if other than the Registrant) 
+Payment of Filing Fee (Check the appropriate box): 
+ý No fee required 
+¨ Fee computed on table below per Exchange Act Rules 14a-6(i)(1) and 0-11. 
+  (1) Title of each class of securities to which transaction applies: 
+  (2) Aggregate number of securities to which transaction applies: 
+  (3) Per unit price or other underlying value of transaction computed pursuant to Exchange Act Rule 0-11 (set forth the amount on which the filing fee is calculated and state how it was determined): 
+  (4) Proposed maximum aggregate value of transaction: 
+  (5) Total fee paid: 
+¨ Fee paid previously with preliminary materials. 
+¨ Check box if any part of the fee is offset as provided by Exchange Act Rule 0-11(a)(2) and identify the filing for which the offsetting fee was paid previously.  Identify the previous filing by registration statement number, or the Form or Schedule and the date of its filing. 
+  (1) Amount Previously Paid: 
+  (2) Form, Schedule or Registration Statement No.: 
+  (3) Filing Party: 
+  (4) Date Filed: 
+[END TABLE]
+HNI CORPORATION
+600 EAST SECOND STREET
+MUSCATINE, IOWA 52761
+563-272-7400
+NOTICE OF ANNUAL MEETING OF SHAREHOLDERS
+The 2019 Annual Meeting of Shareholders of HNI Corporation will be held at HNI Corporate Headquarters, 600 East Second Street, Muscatine, Iowa, on Tuesday, May 7, 2019, beginning at 10:30 a.m. (Central Daylight Time), for the purposes of:
+[BEGIN TABLE]
+1. Electing the four Directors named in the accompanying proxy statement;  
+[END TABLE]
+[BEGIN TABLE]
+2. Ratifying the Audit Committee's selection of KPMG LLP as the Corporation's independent registered public accountant for the fiscal year ending December 28, 2019; 
+[END TABLE]
+[BEGIN TABLE]
+3. Holding an advisory vote to approve named executive officer compensation; and 
+[END TABLE]
+[BEGIN TABLE]
+4. Transacting any other business properly brought before the meeting or any adjournment or postponement. 
+[END TABLE]
+The holders of record of HNI Corporation common stock, par value $1.00 per share, as of the close of business on March 8, 2019, are entitled to vote at the meeting.
+You are encouraged to attend the meeting.
+By Order of the Board of Directors,
+Steven M. Bradford
+Senior Vice President, General Counsel and Secretary
+March 22, 2019 
+WHETHER OR NOT YOU PLAN TO ATTEND THE MEETING, YOUR VOTE IS IMPORTANT AND WE ENCOURAGE YOU TO VOTE PROMPTLY.  OUR PROXY MATERIALS ARE AVAILABLE AT HTTP://INVESTORS.HNICORP.COM/DOCS.  PLEASE REFER TO YOUR PROXY CARD OR NOTICE REGARDING HOW TO VOTE YOUR SHARES.  
+TABLE OF CONTENTS
+[BEGIN TABLE]
+GENERAL INFORMATION 1 
+PROPOSAL NO. 1 - ELECTION OF DIRECTORS 4 
+   Director Nominations 4 
+   Incumbent Directors 5 
+CORPORATE GOVERNANCE AND BOARD MATTERS 7 
+DIRECTOR COMPENSATION 10 
+POLICY FOR REVIEW OF RELATED PERSON TRANSACTIONS 11 
+CERTAIN RELATIONSHIPS AND RELATED PERSON TRANSACTIONS 12 
+CODE OF BUSINESS CONDUCT AND ETHICS 12 
+ANTI-HEDGING POLICY 12 
+CORPORATE GOVERNANCE GUIDELINES 12 
+PROPOSAL NO. 2 - RATIFICATION OF AUDIT COMMITTEE'S SELECTION OF KPMG LLP AS THE CORPORATION'S INDEPENDENT REGISTERED PUBLIC ACCOUNTANT FOR FISCAL 2019 13 
+AUDIT COMMITTEE REPORT 13 
+FEES INCURRED FOR KPMG LLP 14 
+EXECUTIVE COMPENSATION 15 
+   Compensation Discussion and Analysis 15 
+   Compensation Committee Report 27 
+   Summary Compensation Table 28 
+   Grants of Plan-Based Awards 30 
+   Outstanding Equity Awards at Year End 31 
+   Option Exercises and Stock Vested 32 
+   Nonqualified Deferred Compensation 32 
+   Compensation Ratio 33 
+   Potential Payments Upon Termination or Change in Control 34 
+PROPOSAL NO. 3 - ADVISORY VOTE TO APPROVE NAMED EXECUTIVE OFFICER COMPENSATION 38 
+SECURITY OWNERSHIP 38 
+EQUITY COMPENSATION PLAN INFORMATION 40 
+SECTION 16(a) BENEFICIAL OWNERSHIP REPORTING COMPLIANCE 40 
+DEADLINE FOR SHAREHOLDER PROPOSALS FOR THE 2020 ANNUAL MEETING 40 
+OTHER MATTERS 40 
+[END TABLE]
+i
+HNI Corporation
+600 East Second Street
+Muscatine, Iowa 52761
+PROXY STATEMENT
+FOR ANNUAL MEETING OF SHAREHOLDERS
+TO BE HELD MAY 7, 2019 
+This Proxy Statement and the accompanying proxy, which we are making available to shareholders on or about March 22, 2019, are in connection with the solicitation of proxies by the Corporation's Board of Directors (the "Board" or "Directors") for the 2019 annual meeting of shareholders and any adjournment or postponement of the meeting (the "Meeting").  The Meeting will be held on Tuesday, May 7, 2019, beginning at 10:30 a.m., Central Daylight Time, at HNI Corporate Headquarters, 600 East Second Street, Muscatine, Iowa.
+GENERAL INFORMATION
+Who can attend and vote at the Meeting?
+Shareholders of record as of the close of business on March 8, 2019 (the "Record Date") are entitled to attend and vote at the Meeting.  Each share of the Corporation's common stock, par value $1.00 per share ("Common Stock"), is entitled to one vote on each matter to be voted on at the Meeting and can be voted only if the shareholder of record is present to vote or is represented by proxy. 
+What constitutes a quorum at the Meeting?
+The presence at the Meeting, in person or represented by proxy, of the holders of a majority of the outstanding shares of Common Stock ("Outstanding Shares") on the Record Date will constitute a quorum.  On the Record Date, there were 43,562,022 Outstanding Shares.  To determine whether a quorum exists, proxies received but marked "abstain" and so-called "broker non-votes" (described on the following page) will be counted as present.
+What will I be voting on?
+[BEGIN TABLE]
+• Election of each of the four nominees for Director named on page 4 of this Proxy Statement under "Proposal No. 1 – Election of Directors." 
+• Ratification of the Audit Committee's selection of KPMG LLP as the Corporation's independent registered public accountant for the fiscal year ending December 28, 2019 ("Fiscal 2019"), as described on page 13 of this Proxy Statement under "Proposal No. 2 – Ratification of Audit Committee's Selection of KPMG LLP as the Corporation's Independent Registered Public Accountant for Fiscal 2019." 
+• Adoption of an advisory resolution approving the compensation of the Corporation's named executive officers as described on page 38 of this Proxy Statement under "Proposal No. 3 – Advisory Vote to Approve Named Executive Officer Compensation." 
+[END TABLE]
+Why am I receiving my proxy materials electronically instead of receiving paper copies through the mail?
+In accordance with SEC rules, instead of mailing a printed copy of our proxy materials to all of our shareholders, we have elected to furnish proxy materials to shareholders via the Internet. This supports our on-going commitment to sustainability by reducing costs associated with mailing proxy materials.  
+On or about March 22, 2019, we mailed to our shareholders of record (other than those who previously requested electronic delivery) a Notice of Internet Availability of Proxy Materials (the "Notice") containing instructions on how to access the proxy materials online and how to vote your shares after you have viewed our proxy materials. The Notice also contains instructions on how to request to receive a set of the proxy materials for the Meeting by mail or electronically by email, in either case free of charge, and how to request future proxy materials be sent by mail or electronically by email.  If you received the Notice, you will not receive a printed copy of the proxy materials unless you request one by following the instructions on the Notice. How do I vote?
+You can either vote in person at the Meeting or by "proxy" (one of the individuals named on your proxy card will vote your shares as you have directed).   We urge you to vote by "proxy"  even if you plan to attend the Meeting so we will know as soon as possible whether a quorum exists for us to hold the Meeting.
+You may vote your shares via a toll-free telephone number or over the Internet.  If you received a paper copy of the proxy card by mail, you may vote by signing, dating and mailing the proxy card in the envelope provided.  Instructions regarding these three methods of voting are contained in the Notice and the proxy card.  The telephone and Internet voting facilities for shareholders will close at 11:59 p.m. Eastern Daylight Time on May 6, 2019.  If you vote by mail, it must be received by May 6, 2019.
+If you hold shares through the Corporation's retirement plan, your vote must be received by 11:59 p.m. Eastern Daylight Time on May 2, 2019.
+If your shares of Common Stock are held for you as the beneficial owner through a broker, trustee or other nominee (such as a bank) in "street name," rather than held directly in your name, please refer to the information provided by your bank, broker or other holder of record to determine the options available to you.  Since a beneficial owner is not the shareholder of record, you may not vote these shares in person at the Meeting unless you obtain a legal proxy from the broker, trustee or other nominee holding your shares, giving you the right to vote the shares at the Meeting.
+If you sign, date and return the proxy card but do not specify how your shares are to be voted, then your proxy will vote your shares "FOR" all proposals, "FOR" election of each nominee for Director, and in your proxy's discretion as to any other business which may properly come before the Meeting.  
+What discretion does my broker, trustee or other nominee have to vote my shares of Common Stock held in "street name"?
+A broker, trustee or other nominee holding your shares of Common Stock in "street name" must vote those shares according to specific instructions it receives from you.  New York Stock Exchange ("NYSE") rules determine the proposals on which brokers may not vote without specific instructions from you ("Non-Routine Proposals").  Your shares will not be voted on any Non-Routine Proposal if you do not provide voting instructions, giving rise to what is called a "broker non-vote."  Shares represented by broker non-votes will be counted as present for purposes of determining a quorum.
+It is important, if you hold shares in "street name," that you provide specific voting instructions to your broker, trustee or other nominee or your shares will not be voted with respect to Proposal Nos. 1 and 3 because they are Non-Routine Proposals for which your broker, trustee or other nominee may not vote your shares in its discretion.
+Can I change or revoke my vote or revoke my proxy?
+Yes.  You may change your vote at any time before the proxy is voted at the Meeting.  For shareholders of record, if you voted your proxy card by mail, you may revoke your proxy at any time before it is voted by executing and delivering a timely and valid later-dated proxy, by voting by ballot at the Meeting or by giving written notice to HNI's Corporate Secretary.  If you voted via the Internet or by telephone you may also change your vote with a timely and valid later-dated Internet or telephone vote, as the case may be, or by voting by ballot at the Meeting.  Attendance at the Meeting will not revoke a proxy unless (a) you give proper written notice of revocation to the Secretary before the proxy is exercised or (b) you vote by ballot at the Meeting.  Once voting is completed at the Meeting, you will not be able to revoke your proxy or change your vote. 
+If your shares are held in "street name," you must follow the specific voting directions provided to you by your broker, trustee or other nominee to change or revoke any instructions you have already provided. 
+How do I vote my shares in the Corporation's retirement plan?
+If you participate in the Corporation's retirement plan, the proxy card you receive will include Common Stock allocated to your account.  Properly completed and signed proxy cards, including telephone and Internet voting, will serve to instruct the plan trustee on how to vote any shares allocated to your account and a portion of all shares as to which no instructions have been received (the "undirected shares") from plan participants.  The proportion of the undirected shares to which your instructions will apply will be equal to the proportion of the shares to which the trustee receives instructions represented by your shares. How is the Corporation soliciting proxies?
+The Corporation bears the cost of preparing, assembling and mailing the proxy materials related to the solicitation of proxies by and on behalf of the Board.  In addition to the use of the mail, certain of the Corporation's officers may, without additional compensation, solicit proxies in person, by telephone or through other means of communication.  The Corporation will bear the cost of this solicitation.
+How will my vote get counted?
+Broadridge Financial Solutions ("Broadridge") will use an automated system to tabulate the votes and will serve as the Inspector of Election.
+Is my vote confidential?
+Proxy instructions, ballots and voting tabulations identifying individual shareholders are handled in a manner to protect your voting privacy.  Your vote will not be disclosed either within the Corporation or to third parties, except:
+[BEGIN TABLE]
+• as necessary to meet applicable legal requirements; 
+• to allow for the tabulation of votes and certification of the vote; and 
+• to facilitate a successful proxy solicitation. 
+[END TABLE]
+Occasionally, shareholders provide written comments on their proxy cards, which may be forwarded to the Corporation's management.
+How do I get to the Meeting location?
+The Meeting will be held at HNI Corporate Headquarters, 600 East Second Street, Muscatine, Iowa.  If driving to the Meeting from Quad City International Airport, from the main exit traffic light go straight onto I-74 to I-280, turn right (cloverleaf) onto I-280 West, drive approximately 11 miles crossing the Baker Bridge, take the second exit in Iowa (Exit 6 - Muscatine), at the traffic light turn left (west) onto Highway 61 South, continue approximately 22 miles to Muscatine, continue on Highway 61 bypass, turn left (south) at the traffic light onto Park Avenue, veer right at the stop sign at the five-way stop onto Second Street, HNI Corporate Headquarters is approximately one mile on the left.  If driving to the Meeting on I-80, take Exit 271 (Highway 38 South), drive approximately 12 miles, proceed through the major intersection of Highway 38 and Highway 61, continue on Park Avenue, veer right at the stop sign at the five-way stop onto Second Street, HNI Corporate Headquarters is approximately one mile on the left.
+What is "Householding" of Proxy Materials?
+As permitted by applicable law, we may deliver only one copy of certain of our documents, including the Notice of Internet Availability of Proxy Materials, Proxy Statement or Annual Report to shareholders residing at the same address, unless the shareholders have notified us of their desire to receive multiple copies. This process, which is commonly referred to as "householding," is intended to provide extra convenience for shareholders and cost savings for the Corporation. If you wish to opt-out of householding and continue to receive multiple copies of the proxy materials at the same address, you may do so at any time prior to thirty days before the mailing of the Notice of Internet Availability of Proxy Materials or the proxy materials themselves, which are typically mailed in March of each year, by notifying Broadridge in writing at: Broadridge Financial Solutions, Inc., Householding Department, 51 Mercedes Way, Edgewood, New York 11717 or by calling Broadridge at 1-866-540-7095. If you share an address with another shareholder and currently are receiving multiple copies of the proxy materials, you may request householding by notifying Broadridge at the same address.
+Where can I find the voting results of the Meeting?
+The Corporation intends to announce preliminary voting results at the Meeting and will publish final results in a Current Report on Form 8-K, which will be filed with the SEC within four business days after the Meeting and available on the Corporation's website. PROPOSAL NO. 1 – ELECTION OF DIRECTORS
+The Board currently consists of ten Directors. Nine of the ten Directors are independent Directors as further discussed on page 7 of this Proxy Statement under "Corporate Governance and Board Matters – Director Independence."  Jeffrey D. Lorenger, President and Chief Executive Officer ("CEO") of the Corporation, is the only Director employed by the Corporation and is not independent under the NYSE listing standards or the Corporation's categorical independence standards (the "Categorical Standards").
+The Board is divided into three classes. Generally, one class is elected each year for a term of three years. The terms of the four nominees, all of whom are current Directors, expire in 2019. The Board has nominated three Director candidates, Jeffrey D. Lorenger, Larry B. Porcellato and Abbie J. Smith, each to serve a three-year term expiring at the Corporation's 2022 annual meeting of shareholders. In order to balance the number of Directors in each class as required by the Corporation's By-laws (the "By-laws") and Iowa law, the Board has nominated one Director, Mary K.W. Jones, to serve a two-year term expiring at the Corporation's 2021 annual meeting of shareholders.
+Director Nominations
+The Board has adopted guidelines for identifying and evaluating candidates for Director.  Under those guidelines, the Corporation's Public Policy and Corporate Governance Committee (the "Governance Committee") takes into account a number of factors when identifying potential nominees, including: possession of desired skills and abilities identified by the Governance Committee; ability to communicate ideas and contribute to Board deliberations; independence from management; diversity of perspectives derived from experiences, attributes and backgrounds; judgment, integrity and reputation; existing commitments to other businesses; potential conflicts of interest with other pursuits; and legal constraints.  The Governance Committee reviews these factors and others considered useful by the Governance Committee in the context of an assessment of the perceived needs of the Board from time to time.  The Governance Committee may use a variety of means to identify potential nominees, including recommendations from the Chairman, Directors or others associated with the Corporation.  The Governance Committee may retain third-party search firms to identify potential nominees based on the Corporation's established criteria for director candidates discussed above.  The Governance Committee screens potential candidates and recommends suitable candidates to the Board for nomination.
+The Corporation does not have minimum qualifications for Directors; however, Directors should possess the highest personal and professional integrity and ethics and be willing and able to devote the required time to the Corporation.  The Board believes it should be comprised of Directors with varied and complementary backgrounds, which together build the overall strength of the Board.
+Shareholders wishing to recommend a candidate for nomination by the Corporation as a Director for inclusion in the Corporation's proxy statement for the 2020 annual meeting of shareholders should write to the Corporation's Corporate Secretary before November 23, 2019, and include the information required by Section 2.16(a)(2) of the By-laws.  The Governance Committee will consider candidates for Director recommended by shareholders by applying the criteria for candidates described above and considering additional information required by the By-laws.
+Nominees for Election
+The Board is nominating for election Jeffrey D. Lorenger, Larry B. Porcellato and Abbie J. Smith, each for a term of three years, and Mary K.W. Jones for a term of two years (collectively, the "Nominees"). The Nominees elected as Directors at the Meeting will hold office for the indicated term or until their respective successors are elected and qualified, subject to their prior death, resignation or removal.
+Mses. Jones and Smith and Mr. Porcellato were most recently elected as Directors at the Corporation's 2016 annual meeting of shareholders and Mr. Lorenger was elected as a Director on April 19, 2018.  Below is biographical information as well as the particular experience, qualifications, attributes and/or skills of each Nominee which led the Board to conclude the Nominee should serve as a Director. In addition, each Nominee must possess the highest personal and professional integrity and ethics and a willingness and ability to devote the required time to the Corporation.  The Board has determined each Nominee possesses these qualities. 
+Mary K.W. Jones, age 50, has been a Director of the Corporation since February 2016. Since 2013, Ms. Jones has been Senior Vice President and General Counsel of Deere & Company (Deere), a world-leading provider of advanced products and services for agriculture, construction, forestry and turf care. From 2010 through 2012, she served as Deere's Vice President, Global Human Resources. Ms. Jones brings to the Board significant risk management, corporate governance and general legal expertise, derived  largely from her role leading the Deere compliance and legal functions. In addition, she brings to the Board significant expertise in the areas of talent strategy, executive succession planning and compensation, derived from her former role as Deere's Vice President, Global Human Resources.
+Jeffrey D. Lorenger, age 54, has been a Director since April 2018. Mr. Lorenger is also President of HNI Corporation, since April 2018, and Chief Executive Officer, since June 2018. Mr. Lorenger has worked for the Corporation for over 20 years and has held multiple executive level positions including most recently serving as President, Office Furniture, from June 2017 to April 2018; President, Contract Furniture, from 2014 to June 2017; and President, Allsteel from 2008 to 2014. Mr. Lorenger has also held positions as Vice President, Sales and Marketing, The HON Company; and Vice President, General Counsel and Secretary for HNI Corporation.
+Larry B. Porcellato, age 60, has been a Director of the Corporation since 2004 and Chairman since January 1, 2019. He served as Lead Director from May 2017 to December 2018.  From 2009 to 2014, Mr. Porcellato was the Chief Executive Officer of The Homax Group, Inc., a leading specialty application consumer products supplier to the home care and repair markets. Previously, from 2007 to 2008, he was an independent business consultant and, from 2002 to 2007, he was the Chief Executive Officer of ICI Paints North America. Mr. Porcellato is a director of OMNOVA Solutions, Inc. an innovator of emulsion polymers, specialty chemicals and decorative and functional surfaces, and former director of PSAV Holding LLC, an international, full-service technology in-house audiovisual provider from 2014 to 2018. Mr. Porcellato brings to the Board chief executive officer experience in the building products industry through his former leadership of Homax and his former role as Chief Executive Officer of ICI Paints and financial expertise derived primarily from his past service on the audit committee of another public company and previous finance and division leadership roles at other public companies. He also brings to the Board international and marketing expertise derived primarily from his service in various international and marketing roles at Rubbermaid Incorporated and Braun Canada Inc. and corporate governance experience through his service on the compensation and governance committees of another public company.
+Abbie J. Smith, age 65, has been a Director of the Corporation since 2000 and served as Lead Director from May 2014 to May 2017. Ms. Smith is the Boris and Irene Stern Distinguished Service Professor of Accounting, and since 1999 has been a Chaired Professor of The University of Chicago Booth School of Business, a national leader in higher education and research. She is a director of Dimensional Funds (DFA Investment Dimensions Group Inc., Dimensional Investment Group Inc., DFA Investment Trust Co., and Dimensional Emerging Markets Value Fund) and Ryder System, Inc., a commercial transportation, logistics and supply chain management solutions company. Ms. Smith is also a trustee of The UBS Funds (Chicago), UBS Relationship Funds, and UBS SMA Relationship Trust.  Ms. Smith brings to the Board considerable financial and corporate governance expertise based primarily on her extensive research and teaching at The University of Chicago and her service on mutual fund complex and other public company audit, performance, finance and nominating committees. Ms. Smith currently serves on the Corporation's Audit Committee, and qualifies as an "audit committee financial expert".
+The Corporation believes all Nominees listed above will be available to serve if elected.  However, if any one of them becomes unavailable, the persons named as proxies have discretionary authority to vote for a substitute chosen by the Board.  Any vacancies not filled at the Meeting may be filled by the Board.
+Required Vote
+Election of the Nominees as Directors requires the affirmative vote of the holders of a majority of the Outstanding Shares voted at the Meeting.  Abstentions and broker non-votes will not be counted as votes cast either "for" or "against" a Nominee's election.
+Recommendation of the Board
+[BEGIN TABLE]
+ THE BOARD RECOMMENDS A VOTE "FOR" THE ELECTION OF THE NOMINEES AS DIRECTORS.  
+[END TABLE]
+Incumbent Directors
+Below is biographical information about each incumbent Director as well as their particular experience, qualifications, attributes and/or skills which led the Board to conclude the Director should serve as a Director.  In addition, each Director must possess the  highest personal and professional integrity and ethics and a willingness and ability to devote the required time to the Corporation.  The Board has determined each Director possesses these qualities. 
+Messrs. Calado, Hartnett and Stern and Ms. Francis comprise a class of Directors whose terms will expire at the Corporation's 2020 annual shareholders meeting.
+Miguel M. Calado, age 63, has been a Director of the Corporation since 2004. Mr. Calado has been Chairman and President of the WY Group and an employee of WY Group (USA) Inc. since April 2017. From 2014 to April 2017, Mr. Calado was Vice President, Corporate Development and President of the iMax Diagnostic Imaging Business Unit of Hovione SA, an international fine chemicals company. From 2006 to 2014, he was the Vice President and Chief Financial Officer of Hovione. He has been President of GAMCAL, LLC, an investment company, since 2006. Mr. Calado brings to the Board extensive international, general management, manufacturing and financial expertise derived primarily from his previous service as Chief Financial Officer of an international manufacturing company and prior service in various roles at several large, packaged and consumer goods public companies. These roles and companies include Executive Vice President and President, International for Dean Foods Company and several international finance roles for PepsiCo, Inc., including Senior Vice President, Finance and Chief Financial Officer, PepsiCo Foods International. Although Mr. Calado does not serve on the Corporation's Audit Committee, he qualifies as an "audit committee financial expert." 
+Cheryl A. Francis, age 65, has been a Director of the Corporation since 1999. Ms. Francis has been an independent business and financial advisor since 2000 and the Co-Chairman of the Corporate Leadership Center, a not-for-profit organization focused on developing tomorrow's business leaders, since 2008. Previously, from 2002 to 2008, she was the Vice Chairman of the Corporate Leadership Center. Ms. Francis is a director of Aon plc, a leading global professional services firm providing a broad range of risk, retirement and health solutions, and Morningstar, Inc., a leading provider of independent investment research in North America, Europe, Australia and Asia. Ms. Francis brings to the Board significant financial expertise based primarily on her prior role as Chief Financial Officer of R.R. Donnelley & Sons Company and service on the audit and finance committees of other public companies. She also brings to the Board corporate governance experience through her service on the compensation and governance committees of other public companies, and executive leadership development experience based on Corporate Leadership Center work with CEOs, leading academic institutions and corporate executives. She currently serves as the Chairperson on the Corporation's Audit Committee and qualifies as an "audit committee financial expert."
+John R. Hartnett, age 58, has been a Director of the Corporation since August 2016. Mr. Hartnett is an Executive Vice President at Illinois Tool Works Inc. (ITW), a Fortune 200 global multi-industrial manufacturing leader with seven industry-leading business segments. Mr. Hartnett has been with ITW for 37 years and currently heads its Welding segment. He has extensive engineering, marketing, manufacturing and management experience from his numerous business roles at ITW including his most recent role as head of ITW's Construction Products segment.
+Brian E. Stern, age 71, has been a Director of the Corporation since 1998. Mr. Stern has been a director of Starboard Capital Partners, LLC, since 2007. He is a director and investor in Blackrock Microsystems LLC (Utah). Previously, from 2004 to 2007, Mr. Stern was the Senior Vice President, Xerox, Fuji Xerox Operations of Xerox Corporation, a developer, marketer, manufacturer, financier and servicer of document processing products and services. Mr. Stern brings to the Board significant knowledge of the office products and office supplies industry and expertise in product development, sales and marketing. He also has substantial experience in international operations, manufacturing, channels of distribution and general management.
+Ms. Bell and Mr. Waters comprise a class of Directors whose terms will expire at the Corporation's 2021 annual shareholders meeting.
+Mary A. Bell, age 58, has been a Director of the Corporation since 2006. Ms. Bell has been a director of Husco International Inc. since November 2015. Prior to her retirement in July 2015, Ms. Bell was a Vice President of Caterpillar, the world's leading manufacturer of construction and mining equipment, diesel and natural gas engines, industrial gas turbines and diesel-electric locomotives. From 2004 to 2007, she was the Vice President of Caterpillar's Logistics Division and served as Chairman and President of Cat Logistics Services, Inc., formerly a wholly owned subsidiary of Caterpillar. Ms. Bell brings to the Board considerable logistics, manufacturing and dealer channel expertise and general management experience derived primarily from her service in various roles at Caterpillar.
+Ronald V. Waters, III, age 67, has been a Director of the Corporation since 2002. Mr. Waters has been an independent business consultant since 2010. Previously, from 2009 to 2010, he was a Director and the President and Chief Executive Officer of LoJack Corporation, and from 2007 to 2008, he was a Director and the President and Chief Operating Officer of LoJack. He is a director  of Fortune Brands Home & Security, Inc., an industry-leading home and security products company, and Paylocity Corporation, a leading software provider of cloud-based payroll and human capital management software. From 2012 to January 2015, Mr. Waters was a director of Chiquita Brands International, Inc. Mr. Waters brings to the Board chief executive officer experience through his former role as Chief Executive Officer of LoJack and significant finance expertise derived primarily from his service on the audit committee of two other public companies and previous roles as Chief Operating Officer at two public companies, Chief Financial Officer at Wm. Wrigley Jr. Company, Controller at The Gillette Company and partner of a large public accounting firm. He has extensive outside audit experience, and although Mr. Waters does not currently serve on the Corporation's Audit Committee, he qualifies as an "audit committee financial expert." Mr. Waters also brings to the Board international, law and information technology expertise derived primarily from his service in various roles at several large public companies.
+CORPORATE GOVERNANCE AND BOARD MATTERS
+Director Independence
+In addition to complying with NYSE listing standards and applicable SEC rules pertaining to director independence, the Corporation adopted the Categorical Standards, which are attached as Exhibit A to the Governance Guidelines and available on the Corporation's website at www.hnicorp.com, under "Investors - Corporate Governance - Governance Guidelines." 
+Under the Governance Guidelines, at least three-fourths of the Directors must meet the NYSE listing standards pertaining to director independence and the Categorical Standards.  The Board has determined each Director, including each Nominee, other than Mr. Lorenger, has no material relationship with the Corporation (either directly or as a partner, shareholder or executive officer of an organization having a relationship with the Corporation) and is independent under the NYSE listing standards and the Categorical Standards, including any heightened independence standards applicable to a Director's service on the Corporation's Audit Committee, Human Resources and Compensation Committee (the "Compensation Committee") or Governance Committee.
+Mr. Lorenger, the Corporation's President and CEO, does not meet these independence standards because he is employed by the Corporation.
+Processes and Procedures for the Consideration and Determination of Executive Compensation by Compensation Committee
+The Compensation Committee is responsible for developing and implementing the Corporation's compensation policies and programs for the CEO and other senior executives as further discussed in the Compensation Discussion and Analysis (the "CD&A") which begins on page 15 of this Proxy Statement.  
+Board Leadership Structure
+The Board recognizes one of its key responsibilities is to evaluate and determine the optimal Board leadership structure. While the Chairman position has traditionally been held by the Corporation's CEO, the Board believed it to be in the best interest of the Corporation to separate the roles upon Mr. Stan Askren's retirement as Chairman at the end of 2018, to allow his successor, Mr. Jeffrey Lorenger, to focus as CEO on his new role managing the Corporation's business and operations.  Mr. Larry Porcellato was appointed Chairman of the Board and the position of Lead Director was suspended. 
+The Corporation has strong governance structures and processes in place to ensure the independence of the Board, eliminate conflicts of interest and prevent dominance of the Board by management.  All Directors, with the exception of Mr. Lorenger, are independent as defined under NYSE listing standards, applicable SEC rules and the Categorical Standards, and all committees of the Board are comprised entirely of independent Directors.  In addition, the Board and the Governance Committee have assembled a Board comprised of strong and sophisticated Directors who are currently or have recently been leaders of major companies or institutions, are independent thinkers and have a wide range of expertise and skills.
+The Board regularly meets in executive session without the presence of management and the independent Directors meet at least quarterly without the presence of management or the CEO.  The Chairman presides at these meetings and provides the Board's guidance and feedback to the Corporation's CEO and management team.  Further, the Board has regular and complete access to the Corporation's management team.  At each Board and committee meeting, Directors receive information and insight from management on matters impacting the Corporation. Board's Role in Risk Oversight
+The Board administers its risk oversight role primarily through its committee structure and the committees' regular reports to the Board at each quarterly Board meeting.  The Audit Committee meets frequently during the year and discusses with management, the Corporation's Vice President, Internal Audit, and the Corporation's independent registered public accountant:
+[BEGIN TABLE]
+• current business trends affecting the Corporation; 
+• major risks facing the Corporation; 
+• steps management has taken to monitor and control the risks; and 
+• adequacy of internal controls that could significantly affect the Corporation's financial statements. 
+[END TABLE]
+At least annually, the Board discusses with management the appropriate level of risk relative to corporate strategy and business objectives and reviews with management the Corporation's existing risk management processes, including information security and data protection procedures, and their effectiveness.  The Audit Committee also reviews the Corporation's enterprise risk management process for identification of, and response to, major risks.  The Audit Committee provides the Board with a report concerning its risk oversight activities at each quarterly Board meeting.  Each key risk identified for the Corporation is referred to the Board or assigned a committee of the Board for oversight and each committee regularly reports to the Board regarding these risks. 
+Compensation Risk Assessment
+A senior management team, under the oversight of the Compensation Committee, annually conducts a risk assessment of the Corporation's compensation policies and practices to ensure they do not encourage excessive risk taking by members which could result in a material adverse effect on the Corporation. 
+Based on this most recent compensation risk assessment, both management and the Compensation Committee believe the risks arising from the Corporation's compensation policies and practices, as managed, are not reasonably likely to have a material adverse effect on the Corporation.
+Board Meetings
+The Board held four regular meetings and one special meeting during 2018.  No member of the Board attended fewer than 75% of the meetings of the Board or any committee on which he or she served.
+In accordance with the NYSE listing standards regarding corporate governance and the Governance Guidelines, the Corporation's non-management Directors meet in executive sessions without management present at each regular Board meeting.  Mr. Porcellato, Chairman and former Lead Director, presides at these executive sessions.  The Corporation's non-management Directors met in executive sessions at all four regular Board meetings during 2018.
+Director Attendance at Annual Meetings of Shareholders
+All Directors are encouraged to attend annual meetings of shareholders when possible.  Last year all Directors attended the 2018 annual meeting of shareholders.
+Shareholder Communications with the Board
+Shareholders and interested parties may communicate with the Chairman of the Board, the Chairperson of the Governance Committee, the Senior Vice President, General Counsel and Secretary, or with the Corporation's non-management Directors as a group, by sending an email to "BoardOfDirectors@hnicorp.com" or by writing to Chairman of the Board, Chairperson of the Governance Committee, Senior Vice President, General Counsel and Secretary or Non-Management Directors at HNI Corporation, 600 East Second Street, Muscatine, Iowa 52761, Attention:  Corporate Secretary.  All communications received will be opened by the office of the Corporate Secretary for the sole purpose of determining whether the contents are a message to the Directors.  Any communications not in the nature of advertising or promotions of a product or service will be promptly forwarded to the appropriate party. Shareholder Engagement
+HNI Corporation has a philosophy of direct engagement, open communication and transparency with our shareholders.  Shareholders provide valuable insights into emerging issues and feedback on our performance.  In 2018:
+[BEGIN TABLE]
+• Members of the Corporation's senior leadership team met with investors at a variety of conferences.  We hosted quarterly earnings calls and provided additional engagement through phone calls, in-house meetings and various industry events throughout the year. 
+• The Chairman and CEO met with many of our largest shareholders to discuss topics including financial performance, risk management, corporate governance and environmental and social issues.   
+[END TABLE]
+Board Committees
+The Board has three standing committees: the Audit Committee, the Compensation Committee and the Governance Committee.  The Governance Committee fulfills the role of a nominating committee.  Each committee operates under a written charter, which has been approved by the Board.  The Board reviews each committee charter at least annually.  Current copies of the committees' charters can be found on the Corporation's website at www.hnicorp.com, under "Investors - Corporate Governance - Committee Charters."  Shareholders may request a copy of the charters by writing to the Corporate Secretary at HNI Corporation, 600 East Second Street, Muscatine, Iowa 52761. 
+Audit Committee.  The Audit Committee is comprised of Cheryl A. Francis, Chairperson, Larry B. Porcellato and Abbie J. Smith.  The Board has determined all members of the Audit Committee are financially literate under NYSE listing standards.  The Board has also determined Mses. Francis and Smith are "audit committee financial experts," as defined by Item 407(d)(5) of Regulation S-K.  In accordance with the Audit Committee Charter, none of the Audit Committee members serve simultaneously on audit committees of more than three public companies.  The Audit Committee met eight times during 2018.  The Audit Committee is responsible for, among other things:
+[BEGIN TABLE]
+• overseeing the integrity of the Corporation's financial statements;  
+• selecting the independent registered public accounting firm to audit the Corporation's financial statements and ensuring the firm's independence; 
+• discussing the scope and results of the audit with the independent registered public accounting firm, and reviewing, with management and that firm, the Corporation's interim and year-end operating results; 
+• developing procedures to enable submission of anonymous concerns about accounting or auditing matters; 
+• considering the adequacy of internal accounting controls and audit procedures; 
+• reviewing related party transactions; 
+• reviewing legal compliance risk exposures and program for promoting and monitoring compliance with applicable legal and regulatory requirements; 
+• pre-approving all audit and non-audit services to be performed by the independent registered public accounting firm; and 
+• overseeing the Corporation's internal audit function. 
+[END TABLE]
+Human Resources and Compensation Committee.  The Compensation Committee is comprised of Ronald V. Waters, III, Chairperson, Mary A. Bell and John R. Hartnett.  Each member qualifies as an "outside director" for purposes of Section 162(m) ("Section 162(m)") of the Internal Revenue Code of 1986, as amended (the "Code") and a "non-employee director" for purposes of Rule 16b-3 under the Securities Exchange Act of 1934 (the "Exchange Act").  The Compensation Committee met four times during 2018.  The Compensation Committee is responsible for, among other things:
+[BEGIN TABLE]
+• reviewing and recommending executive compensation plans and determining whether they encourage excessive risk taking;  
+• monitoring executive succession planning for certain key executives;  
+• reviewing and adopting member benefit programs;  
+• recommending to the Board persons designated as executive officers; and 
+• overseeing annual performance evaluation of the CEO by the Board. 
+[END TABLE]
+Public Policy and Corporate Governance Committee.  The Governance Committee is comprised of Brian E. Stern, Chairperson,  Miguel M. Calado and Mary K.W. Jones.  The Governance Committee met six times during 2018.  The Governance Committee serves as the nominating committee and identifies individuals qualified to serve as Directors of the Corporation consistent with criteria approved by the Board.  Additionally, the Governance Committee is responsible for, among other things:  
+[BEGIN TABLE]
+• recommending Director nominees to the Board for the next annual meeting of shareholders; 
+• considering and making recommendations regarding non-employee Director compensation; 
+• developing and recommending to the Board corporate governance principles applicable to the Corporation;  
+• overseeing the Board and committee evaluation process; and 
+• reviewing the Corporation's finance policy and capital structure. 
+[END TABLE]
+DIRECTOR COMPENSATION
+The Governance Committee is responsible for annually reviewing the compensation paid to Directors for service on the Board and for recommending changes in compensation to the Board, if appropriate.  The Board is responsible for approving Director compensation based on recommendations of the Governance Committee.  Neither the Governance Committee nor the Board delegates its authority with respect to setting Director compensation to any other person or group.  However, the Corporation's management may, at the request of the Governance Committee, assist the Governance Committee in its review of Director compensation, which may include recommending changes to compensation.  Although it has not done so recently, the Governance Committee has authority to retain a consultant to assist in the evaluation of the compensation and benefits for Directors and to approve the consultant's fees and other retention terms.
+Each independent Director receives an annual retainer of $175,000, of which $67,000 is paid in cash in equal installments of $16,750 after each quarterly Board meeting (prior to the May 8, 2018 Board meeting, the annual cash retainer was $65,000) and $108,000 is paid in the form of Common Stock issued under the 2017 Equity Plan for Non-Employee Directors ("Equity Plan") following the May Board meeting (prior to the May 8, 2018 Board meeting, the Common Stock retainer was $105,000).  In 2018, each independent Director received:
+[BEGIN TABLE]
+• a cash installment payment of $16,250 after the February Board meeting and $16,750 after each of the May, August and November Board meetings; and 
+• a $108,000 Common Stock grant after the May Board meeting. 
+[END TABLE]
+In 2018, the Lead Director received an additional annual retainer of $19,000, paid in equal installments after each quarterly Board meeting.  Beginning in 2019, the Chairman receives an additional annual retainer of $125,000, of which $75,000 is paid in stock and $50,000 is paid in cash.  The Chairman's stock portion of the retainer is paid annually after the May meeting, and the cash portion of the retainer is paid in equal installments after each quarterly Board meeting.  
+The Chairperson of the Audit Committee receives an additional annual retainer of $15,000.  The Chairpersons of the Compensation Committee and Governance Committee each receive an additional annual retainer of $10,000.  Cash retainers for committee Chairpersons are paid in equal installments after each quarterly Board meeting.    
+Directors are reimbursed for travel and related expenses incurred to attend meetings.  For purposes of determining Director compensation, an independent Director is anyone who is not a member of the Corporation.  Directors who are members of the Corporation do not receive additional compensation for service on the Board.
+The Corporation's policy with regard to Common Stock ownership by independent Directors is for each Director to own Common Stock with a market value of five times or more the cash portion of the annual retainer.  To promote Common Stock ownership, Directors are required to receive one-half of the cash portion of their annual retainer in the form of shares of Common Stock to be issued under the Equity Plan or, to the extent the Director participates in the HNI Corporation Directors Deferred Compensation Plan (the "Directors Deferred Plan"), in the form of nonvoting share units to be credited to the Director's account under the Directors Deferred Plan.  This requirement does not, however, apply to any Director owning Common Stock with a market value of five times or more the cash portion of the annual retainer.  As of the end of 2018, all of the Corporation's independent Directors were in compliance with the Corporation's stock ownership policy.
+Under the Equity Plan, Directors may elect to receive all or a portion of their cash retainers in the form of shares of Common Stock.  Under the Directors Deferred Plan, each Director has the opportunity to defer up to 100% of their retainers.  Amounts can be deferred to a cash account earning interest at a rate set each year at 1% above the prime interest rate or to the Corporation's notional stock account in the form of nonvoting share units that fluctuate in value based on the price increase or decrease of Common Stock and earn dividends distributed to all shareholders.  The dividends are automatically reinvested for each participant to acquire additional nonvoting shares units.  For any cash compensation deferred to the Corporation's notional stock account, the number of nonvoting share units is determined by dividing the amount of the compensation by the fair market value of a share of Common Stock on the date the compensation would have otherwise been paid.  Each Director participating in the Directors Deferred Plan  elects, on an annual basis, the date or dates of distribution (i.e., a Director can elect a lump-sum distribution or distribution via annual installments not to exceed 15) of any amounts they defer.  In addition, each independent Director is eligible to receive awards of stock options to purchase Common Stock, restricted stock or Common Stock grants, or any combination thereof, under the Equity Plan in amounts authorized by the Board.
+In May 2018, each of the Directors was granted 3,057 shares of Common Stock under the Equity Plan.  The Corporation does not have a non-equity incentive plan for independent Directors.  As of the Record Date, the Corporation has never issued stock options or restricted stock to the independent Directors and all shares of Common Stock issued to Directors in lieu of cash retainer amounts were fully vested upon issuance.
+Director Compensation for 2018
+[BEGIN TABLE]
+  Name  Fees Earned or Paid in Cash ($) (1)Stock Awards  ($) (2)Change in Pension Value and Nonqualified Deferred Compensation Earnings ($) (3)All Other Compensation ($) (4) Total ($)
+  Name  Fees Earned or Paid in Cash ($) (1)Stock Awards  ($) (2)Change in Pension Value and Nonqualified Deferred Compensation Earnings ($) (3)All Other Compensation ($) (4) Total ($)
+Mary A. Bell 66,500 108,000 — 2,705 177,205 
+Miguel M. Calado 66,500 108,000 — 2,705 177,205 
+Cheryl A. Francis 81,500 108,000 — 2,705 192,205 
+John R. Hartnett 66,500 108,000 — 2,705 177,205 
+Mary K.W. Jones 66,500 108,000 — 2,705 177,205 
+Larry B. Porcellato 85,500 108,000 635 2,705 196,840 
+Abbie J. Smith 66,500 108,000 — 2,705 177,205 
+Brian E. Stern 76,500 108,000 — 2,705 187,205 
+Ronald V. Waters, III 76,500 108,000 5,359 2,705 192,564 
+[END TABLE]
+Notes
+[BEGIN TABLE]
+(1) For 2018, the independent Directors listed in the table above each earned the following fees:  Ms. Bell - $66,500 annual retainer; Mr. Calado - $66,500 annual retainer; Ms. Francis - $66,500 annual retainer plus $15,000 retainer for service as Chairperson of the Audit Committee; Mr. Hartnett - $66,500 annual retainer; Ms. Jones - $66,500 annual retainer; Mr. Porcellato – $66,500 annual retainer plus $19,000 retainer for service as Lead Director; Ms. Smith – $66,500 annual retainer; Mr. Stern – $66,500 annual retainer plus $10,000 retainer for service as Chairperson of the Governance Committee; and Mr. Waters - $66,500 annual retainer plus $10,000 retainer for service as Chairperson of the Compensation Committee.  Mses. Bell, Jones and Smith and Mr. Hartnett received 100% of cash retainer in the form of Common Stock under the Equity Plan, which equated to the following: Ms. Bell - 1,705 shares; Ms. Jones - 1,705; Ms. Smith - 1,705; and Mr. Hartnett - 1,705. 
+(2) Represents the portion of the annual retainer paid in the form of shares – a $108,000 Common Stock grant authorized by the Board on May 8,  2018 under the Equity Plan.  Each independent Director serving on the Board as of May 8, 2018 was issued 3,057 shares of Common Stock at a price of $35.32 (the closing price of a share of Common Stock on the date of grant, May 8, 2018) for a total grant date fair value of $107,973, as computed in accordance with FASB Accounting Standards Codification Topic 718.  The difference between the $108,000 Common Stock grant authorized by the Board and the actual value of Common Stock issued was approximately $27.  As the Corporation only issues fractional shares under the Directors Deferred Plan, and not under the Equity Plan, the Corporation paid each independent Director serving on the Board as of May 8, 2018, $27 in cash. There are no unexercised option awards or unvested stock awards outstanding as of the end of 2018 for any of the Directors. 
+(3) Includes above-market interest earned on cash compensation deferred under the Directors Deferred Plan.  Interest on deferred cash compensation is earned at one percent over the prime rate.  Above-market earnings represent the difference between the interest earned under the Directors Deferred Plan and 120% of the applicable federal long-term rate. Above-market interest earned by Mr. Porcellato is for cash compensation deferred prior to January 1, 2007, and interest earned by Mr. Waters is for cash compensation deferred prior to January 1, 2010.   
+(4) Includes dividends earned on 2018 Common Stock grants. 
+[END TABLE]
+POLICY FOR REVIEW OF RELATED PERSON TRANSACTIONS
+The Corporation has adopted a written policy for reviewing and approving transactions between the company and its related persons, including directors, director nominees, executive officers, five percent shareholders and their immediate family members or affiliates.  The policy applies to:
+[BEGIN TABLE]
+• All financial transactions, arrangements or relationships involving more than $100,000; 
+• Transactions in which the Corporation, or one of its affiliates, is a participant; and 
+• Transactions in which a related person could have a direct or indirect material interest. 
+[END TABLE]
+The policy does not apply to certain compensation payments approved by the appropriate Board committee, transactions available to all other shareholders or employees on the same terms, transactions with an entity where the related person's interest is only as a director or a less than ten percent owner, or transactions in which the rate charged by a related person is determined by competitive bid.
+The Corporation's Office of the General Counsel (the "General Counsel") performs the initial review of all transactions subject to the policy.  Quarterly, the General Counsel reports to the Audit Committee each known transaction to be considered by the Audit Committee pursuant to the policy, including the proposed aggregate value of each transaction and any other relevant information.  After review, the Audit Committee approves, ratifies or disallows each transaction in accordance with the policy. If the General Counsel learns of an ongoing or completed transaction, arrangement or relationship not submitted for prior review and approval, the General Counsel will submit it to the Audit Committee for ratification, amendment, rescission or termination.
+CERTAIN RELATIONSHIPS AND RELATED PERSON TRANSACTIONS
+In a transaction that closed on December 30, 2018, AFMA Inc. ("AFMA") purchased the assets of Contract Resource Group LLC ("CRG"), an office furniture dealer, from Allsteel Inc., a subsidiary of HNI Corporation.  The purchase price for the assets was $5,519,975.  The seller, CRG, extended a secured bridge loan to AFMA for the entire purchase price, at a 5% interest rate with an original maturity date of February 28, 2019, which was subsequently extended to March 29, 2019.  Jerry Dittmer, a former executive officer of the Corporation who retired in February 2018, was the President and CEO of AFMA from April 2018 until his retirement from AFMA in October 2018.  In addition, Jerry Dittmer owned one-third of AFMA from April 2018 until he sold his ownership interest to his son, Max Dittmer, in December 2018.  The Audit Committee reviewed and approved these transactions pursuant to our Policy for Review and Approval of Related Person Transactions.
+In addition, in fiscal 2018, AFMA purchased approximately $4,221,391 of office furniture and related services from the Corporation in the ordinary course of business.  The Corporation's General Counsel reviewed and approved the transactions and informed the Audit Committee in accordance with our Policy for Review and Approval of Related Person Transactions.
+CODE OF BUSINESS CONDUCT AND ETHICS
+The Corporation maintains a Member Code of Integrity (the "Ethics Code") as part of its corporate compliance program.  The Ethics Code applies to all Directors and members (i.e., employees), including the Corporation's chief executive officer, chief financial officer, principal accounting officer or controller or persons performing similar functions.  The Ethics Code is available for download on the Corporation's website at www.hnicorp.com, under "Investors - Corporate Governance - Member Code of Integrity."  The Corporation intends to disclose amendments to or waivers of the Ethics Code granted to the individual executive officers listed above and the Directors on the Corporation's website within four business days of the amendment or waiver.  Shareholders may request a copy of the Ethics Code by writing to the Corporate Secretary at HNI Corporation, 600 East Second Street, Muscatine, Iowa 52761.
+ANTI-HEDGING POLICY
+The Corporation's insider trading policy prohibits hedging transactions.  Specifically, the Corporation prohibits members, directors, or their designees from hedging their ownership of the Corporation's Common Stock (including prepaid variable forwards, equity swaps, collars and exchange funds), engaging in short sales or purchasing put or call options, pledging their shares of the Corporation's Common Stock, holding them in a margin account or engaging in short-term transactions with shares of the Corporation's Common Stock.
+CORPORATE GOVERNANCE GUIDELINES
+The Governance Guidelines are available for download on the Corporation's website at www.hnicorp.com, under "Investors - Corporate Governance - Governance Guidelines."  Shareholders may request a copy of the Governance Guidelines by writing to the Corporate Secretary at HNI Corporation, 600 East Second Street, Muscatine, Iowa 52761. PROPOSAL NO. 2 – RATIFICATION OF AUDIT COMMITTEE'S SELECTION OF
+KPMG LLP AS THE CORPORATION'S 
+INDEPENDENT REGISTERED PUBLIC ACCOUNTANT FOR FISCAL 2019 
+The Audit Committee is responsible for the appointment, retention, oversight, and compensation, including approval of audit fees, of the external audit firm retained to audit our financial statements.  Further, in conjunction with the mandated rotation of the audit firm's lead engagement partner, the Audit Committee and its chair select the audit firm's lead engagement partner.  
+KPMG has been retained as our independent registered public accounting firm since 2015.  In order to ensure continuing auditor independence, the Audit Committee periodically considers whether there should be a regular rotation of the audit firm.  Based on its most recent evaluation of KPMG, the members of the Committee believe the continued retention of KPMG is in the best interest of the Corporation and its shareholders.  The Board proposes shareholders ratify the appointment of KPMG as the Corporation's independent public accountant for Fiscal 2019 at the Meeting.  Although shareholder ratification is not required by the By-laws or otherwise, the Corporation is submitting the selection of KPMG to its shareholders to permit shareholders to participate in this important decision.  If the shareholders fail to ratify the Audit Committee's selection of KPMG, the Audit Committee will reconsider the selection.  
+Representatives of KPMG will be present at the Meeting, have an opportunity to make a statement if they so desire and be available to respond to appropriate questions.
+Recommendation of the Board
+[BEGIN TABLE]
+ THE BOARD RECOMMENDS A VOTE "FOR" RATIFICATION OF THE AUDIT COMMITTEE'S  SELECTION OF KPMG LLP AS THE CORPORATION'S INDEPENDENT REGISTERED  PUBLIC ACCOUNTANT FOR FISCAL 2019. 
+ THE BOARD RECOMMENDS A VOTE "FOR" RATIFICATION OF THE AUDIT COMMITTEE'S  SELECTION OF KPMG LLP AS THE CORPORATION'S INDEPENDENT REGISTERED  PUBLIC ACCOUNTANT FOR FISCAL 2019. 
+ THE BOARD RECOMMENDS A VOTE "FOR" RATIFICATION OF THE AUDIT COMMITTEE'S  SELECTION OF KPMG LLP AS THE CORPORATION'S INDEPENDENT REGISTERED  PUBLIC ACCOUNTANT FOR FISCAL 2019. 
+[END TABLE]
+AUDIT COMMITTEE REPORT
+The Audit Committee is comprised entirely of independent directors who meet the independence requirements of the NYSE Listed Company Manual and the SEC.  The Audit Committee operates under a written charter adopted by the Board of Directors, which you may access in the corporate governance section of our website at http://www.hnicorp.com/investors/corporate-governance.
+The Audit Committee has responsibility for selecting and evaluating the independent audit firm, which reports directly to the Audit Committee, overseeing the performance of the Corporation's internal audit function, and assisting the Board of Directors in its oversight of enterprise risk management including privacy and data security.  
+Management has primary responsibility for the Corporation's consolidated financial statements and the overall reporting process, for maintaining adequate internal control over financial reporting and, with the assistance of the Corporation's internal auditors, for assessing the effectiveness of the Corporation's internal control over financial reporting.  KPMG LLP ("KPMG"), the Corporation's independent registered public accounting firm since 2015, is responsible for performing an independent audit of the Corporation's consolidated financial statements in accordance with the standards of the Public Company Accounting Oversight Board ("PCAOB"), expressing an opinion as to the conformity of the consolidated financial statements with generally accepted accounting principles in the United States, and auditing management's assessment of the effectiveness of internal control over financial reporting. The Audit Committee's responsibility is to monitor and oversee these processes and work with KPMG's lead partner, who was appointed in 2015. 
+The Audit Committee also oversees management's processes to identify and quantify material risks facing the Corporation, including risks disclosed in the Corporation's Annual Report on Form 10-K. The Audit Committee meets regularly with the internal auditors and KPMG, with and without management present, to discuss the results of their examinations, the evaluation of the Corporation's internal control over financial reporting and the overall quality of the Corporation's accounting.  
+Management represented to the Audit Committee the Corporation's consolidated financial statements for fiscal year ended December 29, 2018 were prepared in accordance with generally accepted accounting principles.  The Audit Committee has reviewed and discussed the consolidated financial statements with management and KPMG.  Management has also represented it has assessed the effectiveness of the Corporation's internal control over financial reporting, and has determined that, as of December 29, 2018,  the Corporation maintained effective internal control over financial reporting.  The Audit Committee has reviewed and discussed with management and KPMG this assessment.  The Audit Committee has also discussed with KPMG its evaluation of the accounting principles, practices and judgments applied by management, and any items required to be communicated to it by KPMG in accordance with regulations promulgated by the SEC and the PCAOB including the matters required to be discussed by PCAOB Auditing Standard No. 1301.  
+The Audit Committee received and reviewed the written disclosures and the letter from KPMG required by the PCAOB regarding KPMG's communications with the Audit Committee concerning independence and discussed with KPMG its independence.  The Audit Committee also concluded the provision of non-audit services by KPMG is compatible with maintaining their independence. 
+Based on the reviews and discussions referred to above, the Audit Committee recommended to the Board the consolidated financial statements referred to above be included in the Corporation's Annual Report on Form 10-K for the year ended December 29, 2018.
+AUDIT COMMITTEE
+Cheryl A. Francis, Chairperson
+Larry B. Porcellato
+Abbie J. Smith
+FEES INCURRED FOR KPMG LLP
+The following table sets forth the aggregate fees billed to the Corporation for the audit and other services provided by KPMG for fiscal 2018 and fiscal 2017:
+[BEGIN TABLE]
+Fee Category Fiscal 2018   Fiscal 2017   
+Audit Fees (1) $ 1,850,000   $ 1,800,000   
+Audit-Related Fees (2) —   5,000   
+Tax Fees (3) 24,958   50,118   
+All Other Fees (4) 27,390   41,925   
+Total $ 1,902,348   $ 1,897,043   
+(1) Audit Fees represent fees for professional services provided in connection with the audit of the annual financial statements, review of quarterly financial statements and audit services provided in connection with other statutory and regulatory filings or engagements. 
+(2) Audit-Related Fees represent accounting consultations. 
+(3) Tax Fees represent fees for tax compliance, tax advice and tax planning. 
+(4) All Other Fees represent fees for services other than the services reported in Audit Fees, Audit-Related Fees, and Tax Fees. 
+[END TABLE]
+Pre-Approval of Fees
+The Audit Committee may delegate to one or more members of the Audit Committee the authority to pre-approve audit related and other services not prohibited by law to be performed by the Corporation's independent registered public accountant and associated fees.  The delegated member or members must report any such pre-approvals to the Audit Committee at its next scheduled meeting.  All of the KPMG fees incurred in fiscal 2018 and 2017 were approved by the Audit Committee. EXECUTIVE COMPENSATION
+Compensation Discussion and Analysis
+Our CD&A describes the key features of our executive compensation program and the Compensation Committee's approach in deciding 2018 compensation for our Named Executive Officers:
+[BEGIN TABLE]
+Name Position 
+Jeffrey D. Lorenger President and Chief Executive Officer, HNI Corporation 
+Stan A. Askren Former Chairman, President and Chief Executive Officer, HNI Corporation 
+Marshall H. Bridges Chief Financial Officer; Senior Vice President, HNI Corporation 
+Vincent P. Berger President, Hearth & Home Technologies; Executive Vice President, HNI Corporation 
+Brandon T. Sieben President, Allsteel Inc. 
+Kurt A. Tjaden President, HNI International; Senior Vice President, HNI Corporation  
+[END TABLE]
+The CD&A is divided into four parts:
+[BEGIN TABLE]
+1. Executive Compensation Overview 
+2. Executive Compensation Objectives and Governance 
+3. Executive Compensation Elements 
+4. Additional Compensation Programs and Policies 
+[END TABLE]
+1. Executive Compensation Overview
+Primary Compensation Elements
+[BEGIN TABLE]
+Element Description Purpose 
+Base Salary (see page 18)Annual cash compensation.  Compensation for expected day-to-day responsibilities. Pay adjustments are based on capabilities, responsibilities and market factors. 
+Base Salary (see page 18)Annual cash compensation.  Compensation for expected day-to-day responsibilities. Pay adjustments are based on capabilities, responsibilities and market factors. 
+Annual Incentive Opportunity (see page 19)Targeted variable compensation equal to a percentage of base salary paid once a year and based 80% on financial performance and 20% on individual objectives. Focus executives on annual performance goals, typically financially driven.  
+Long-term Incentive Opportunity (see page 21)Variable performance compensation typically in the form of stock options and cash earned at the end of a three-year period based on economic profit goals. Align executives' decisions with long-term shareholder value creation.  Promote executive retention. 
+[END TABLE]
+ Other Key Compensation Practices
+The Compensation Committee regularly reviews developments in executive compensation and governance and adjusts our practices and policies.   
+[BEGIN TABLE]
+HNI Compensation Practices 
+What We Do     
+Pay for performance ü A large majority of executive compensation is based on achievement of long-term value creation. 
+Stock ownership guidelines ü Stock ownership guidelines require the CEO to hold shares valued at 5x base salary and other Named Executive Officers at 3x base salary. 
+Double trigger change in control ü Both a change in control and involuntary termination are required for the change in control agreement to take effect.  
+Clawback policy ü Performance-based compensation, under certain circumstances, will be canceled or reclaimed if an executive engages in fraud or financial misconduct. 
+Anti-hedging policy ü Officers and directors are prohibited from engaging in hedging or pledging transactions with respect to HNI stock.  
+Independent compensation consultant ü The Compensation Committee engages an independent compensation consultant who works only for the Committee, and not for management.  
+Annual shareholder Say on Pay ü The Corporation holds an annual advisory vote regarding Named Executive Officer compensation.  
+Annual compensation risk assessment ü The Compensation Committee reviews a risk assessment of the Named Executive Officer compensation program every year.  
+What We Don't Do     
+No employment contracts r Neither the CEO nor any other Named Executive Officers have an employment contract. 
+No perquisites r Perquisites are not provided to executives or directors.  
+No excise tax gross-ups r No executives are eligible for excise tax gross-ups.  
+No repricing of underwater options r Underwater options are not repriced or replaced. 
+No dividends on unearned restricted stock units r Dividends are not paid on restricted stock units.  
+No supplemental executive benefits r Executive officers are not offered additional benefits beyond those generally available to all members. 
+[END TABLE]
+Leadership Transition
+On April 19, 2018, Mr. Askren retired as President of HNI Corporation, on June 28, 2018, he retired as CEO, and on December 31, 2018 he retired as Chairman.  Consistent with a well-established and long-term succession plan, the Board promoted Mr. Lorenger as President and a Director of the Corporation on April 19, 2018, and as CEO of the Corporation on June 28, 2018. Larry Porcellato was elected Chairman, effective January 1, 2019. References in this Proxy Statement to the CEO refer to Mr. Lorenger, unless otherwise stated or as the context otherwise requires. 
+2. Executive Compensation Objectives and Governance
+Philosophy and Objective
+The Corporation's Board believes in aligning the compensation of the Corporation's leadership with creating long-term value for shareholders and other important stakeholders, including members and customers.  Governance of the executive compensation program, including hands-on involvement of the Compensation Committee, is guided by this principle.    Pay for Performance
+The executive compensation program for 2018 highlights the Corporation's pay for performance philosophy, with a large majority of each senior executive's compensation tied to the achievement of long-term value creation, awarded through performance-based annual and long-term awards and stock options.  Shareholders have continued to voice their support for the Corporation's pay for performance compensation program— over 95% of votes cast in last year's Say on Pay vote approved the compensation of the Named Executive Officers.
+The Corporation believes economic profit is the best indicator of long-term shareholder value creation and uses economic profit to measure financial performance goal achievement under the annual and long-term incentive plans.  Economic profit is defined as after-tax operating profit less a charge for invested capital.  Economic profit promotes the simultaneous optimization of growth, earnings and capital efficiency. 
+Pay Mix
+For 2018, the target compensation mix for the CEO and other Named Executive Officers is shown below.  Approximately 82% of CEO compensation and 68% of all other Named Executive Officers compensation is considered variable based on achieving financial and strategic objectives.
+Compensation Committee and Independent Directors
+The Compensation Committee is responsible for the oversight of the Corporation's executive compensation programs. The Compensation Committee reviews and recommends to the Board for approval by the independent Directors all elements of the CEO's compensation.  For the other Named Executive Officers, the Compensation Committee considers recommendations from the CEO and approves all elements of compensation except equity grants, which the Compensation Committee recommends for approval by the independent Directors.
+The Corporation's Member and Community Relations, Law, and Finance Departments support the Compensation Committee and the Board in a variety of ways related to executive compensation, including conducting executive compensation benchmarking, preparing compensation-related materials and providing updates on corporate governance laws and best practices.
+The Compensation Committee occasionally retains an outside compensation consultant to provide recommendations for structuring and designing the Corporation's executive compensation program, selecting a peer group for benchmarking, and establishing competitive incentive award targets.  The Compensation Committee engaged Frederic W. Cook & Co., Inc. ("FW Cook") to serve as the compensation consultant in 2017 to review CEO compensation. The Compensation Committee determined, based on an analysis of relevant factors including those required by the SEC, FW Cook did not have a conflict of interest in providing services to the Compensation Committee.
+Compensation Program Changes in 2018  
+The Board, Compensation Committee and Corporation did not make any structural changes to the executive compensation programs in 2018, with the exception of transitioning all remaining executives with the prior form of Change in Control Employment Agreements to the current form of agreement which excludes an excise tax gross-up.  See "Potential Payments Upon Termination or Change in Control" for further details. Benchmarking with Market Data
+CEO Benchmarking 
+The Compensation Committee compares our CEO compensation to the below-listed peer companies.  The Compensation Committee includes companies in similar industries or with a similar level of business complexity, manufacturing approach, or go-to-market structure with whom we may compete for talent.  Additionally, the Compensation Committee considers the relative size of the companies, including market capitalization and net sales, business models featuring decentralized operating units, and employee headcount. In connection with the 2017 engagement, FW Cook provided analysis and recommendations on the Corporation's peer group. The Compensation Committee decided to maintain the same peer group used in 2017 for 2018.
+[BEGIN TABLE]
+Peer Group 
+A.O. Smith Corporation   Knoll Inc. 
+Actuant Corporation   Leggett & Platt, Incorporated 
+Armstrong World Industries, Inc.   Lennox International Inc. 
+Briggs & Stratton Corporation   Lincoln Electric Holdings Inc. 
+Carlisle Companies Incorporated   Regal Beloit Corporation 
+Donaldson Company, Inc.   Snap-On Incorporated 
+Herman Miller, Inc.   Steelcase Inc. 
+Kennametal Inc.   Valmont Industries 
+[END TABLE]
+At the direction of the Compensation Committee, FW Cook conducted a comprehensive compensation analysis for chief executive officers of peer group companies ("CEO Compensation Review") in 2017. The Compensation Committee utilized the CEO Compensation Review to establish the elements and targets of Mr. Askren's compensation as CEO for 2018. 
+The Compensation Committee also utilized the CEO Compensation Review to establish Mr. Lorenger's compensation package when he became President and CEO of the Corporation in June 2018. The Committee reviewed the median for base salary, annual incentive,  long-term incentive and total CEO compensation of the peer group, and set Mr. Lorenger's target compensation slightly below the peer group based on Mr. Lorenger's tenure compared to the peer group chief executive officers.
+Market Data for Other Named Executive Officers
+The Compensation Committee annually assesses base salary and annual and long-term incentive compensation data compiled from commercially available compensation survey reports published by Willis Towers Watson and Mercer Human Resource Consulting (collectively, the "Survey Reports").
+In 2018, the Compensation Committee followed its regular process of using the Survey Reports in reviewing the elements and targets of the Named Executive Officers' compensation (except the CEO), considering the responsibilities and capabilities of each executive officer. 
+3. Executive Compensation Elements
+Base Salary
+For 2018, the base salary for each Named Executive Officer was appropriately indexed from the market median for the relevant position. Actual base salaries may be higher or lower than the market median based on the following factors, which are considered annually by the Compensation Committee (and independent Directors in the case of the CEO's base salary) when determining changes in base salary:
+[BEGIN TABLE]
+• demonstrated growth, development and advancement; 
+• individual performance and competency; and 
+• value of experience both in service to the Corporation and other experience. 
+[END TABLE]
+ The Compensation Committee conducts the CEO's annual base salary review at the February Board meeting and all independent Directors participate with the Compensation Committee in this review.  For other executive officers, the Compensation Committee normally approves base salary changes annually at the Board meeting prior to the anniversary date of each officer's appointment.  
+Based on a combination of performance, personal growth and market factors, the Compensation Committee (and with respect to the CEO and the Chairman's base salary, the independent Directors) awarded the following base salaries:
+[BEGIN TABLE]
+Name 2017 Annual Base Salary ($) 2018 Annual Base Salary ($) Increase ($) Increase (%) Approximate Market Median Annual Base Salary  ($) 2018 Base Salary as Percentage of Market Median (%) 
+Jeffrey D. Lorenger 600,000 900,000 300,000 50.0 1,010,475 89 
+Stan A. Askren 1,181,080 1,222,418 41,338 3.5 1,010,475 121 
+Marshall H. Bridges 385,000 442,800 57,800 15.0 500,200 89 
+Vincent P. Berger 385,000 415,800 30,800 8.0 442,900 94 
+Brandon T. Sieben 325,000 350,000 25,000 7.7 398,000 88 
+Kurt A. Tjaden 456,000 472,000 16,000 3.5 444,300 106 
+[END TABLE]
+The increase awarded to Mr. Lorenger is consistent with his promotion to President and CEO. The increases awarded to Messrs. Askren and Tjaden were generally consistent with the average increase for members across the Corporation.  The increases awarded to Messrs. Bridges, Berger, and Sieben were slightly above the Corporation's average increase as a result of their continued growth and development and further alignment with market median. 
+Annual Incentive
+The Named Executive Officers are eligible for annual incentive compensation under the Annual Incentive Plan.  The Annual Incentive Plan design encourages focus by the Named Executive Officers on both annual financial achievements and individual objectives aligned with the Corporation's strategic plan. 
+For 2018, key features of the Annual Incentive Plan were:
+[BEGIN TABLE]
+Award Target as a% of Base Salary   Basis of Award Achievement 
+President and CEO 110%   Achievement of Financial Goals 80% 
+Other Named Executive Officers 75%   Attainment of Individual Organic Sales Goal 20% 
+Mr. Askren's Award Target for 2018 was 120%         
+[END TABLE]
+The CEO's annual incentive compensation award target is a greater percentage of base salary than the targets for the other Named Executive Officers because the CEO has the greatest potential impact on the Corporation's annual performance.  
+The awards are paid in February following the year in which they are earned.  Termination of employment other than due to death, disability, retirement or a change in control of the Corporation prior to the end of the year in which an award is earned results in loss of outstanding awards.  The awards are paid in cash unless the executive requests and the Compensation Committee approves taking all or part of the payment in the form of Common Stock or the Compensation Committee determines the executive's stock ownership does not reflect appropriate progress toward the executive's ownership guideline. Under the Annual Incentive Plan, the Corporation achieved economic profit of $31.0 million in 2018. The following table sets forth aggregate payouts under the Annual Incentive Plan for each Named Executive Officer for 2018:
+[BEGIN TABLE]
+Name Annual Incentive Compensation Award Target ($) Actual Award Payout Attributable to Financial Goals   ($) Actual Award Payout Attributable to Individual Objectives ($) Total Payout  ($) Actual Payout as% of Target (%) 
+Jeffrey D. Lorenger 880,096 312,535 190,117 502,652 57 
+Stan A. Askren 1,466,902 668,907 322,718 991,625 68 
+Marshall H. Bridges 332,100 151,438 73,062 224,500 68 
+Vincent P. Berger 311,850 331,808 77,963 409,771 131 
+Brandon T. Sieben 262,500 0 32,550 32,550 12 
+Kurt A. Tjaden 354,000 324,101 69,166 393,267 111 
+[END TABLE]
+Mr. Lorenger's annual incentive target increased during 2018 related to his transition to President, HNI Corporation and then to President and CEO. Amounts above reflect actual 2018 target opportunity and payout amounts based on the number of weeks spent in each position (and therefore at each target level) in 2018.
+Each Named Executive Officer received the 2018 Annual Incentive Plan award payout in cash.
+Financial Performance Goals
+The Compensation Committee uses the annual financial plan, approved by the Board in February, to establish economic profit goals for the Corporation and financial goals for each core business unit.  Economic profit goals are based on strategic opportunities with consideration of current market conditions (e.g., strength of the housing market, global economy or corporate earnings) and business opportunities (e.g., launch of new product line or integration of recently acquired business). 
+Payout ranges are set between 0% and 200% of the economic profit target with an achievement threshold of 35% to receive a minimum payout.  Payout levels are expected to be between 80% and 120% of target in most years and average approximately 100% of target over time.  The Compensation Committee establishes the target level of economic profit as an aggressive but achievable goal for the Corporation as a whole or any business unit based on economic and competitive conditions at the time goals are established. 
+Messrs. Lorenger, Askren, and Bridges are eligible for awards based on the financial performance of the Corporation while Messrs. Berger, Sieben and Tjaden are eligible for awards based on the financial performance of each executive's individual area of responsibility (one or more business units).  This structure aligns executives' interests with the financial performance of their relevant areas of responsibility.
+For 2018, the economic profit goal for the Corporation was $41.3 million, and actual economic profit achievement was $31.0 million, resulting in 57% payout as reflected in the table below.  The financial component of Mr. Lorenger's annual incentive compensation award is based on achievement of the economic profit goals of the Office Furniture segment for a portion of the year and of HNI Corporation for the remainder of the year, prorated at the time of his promotion to President, HNI Corporation. The financial component of Messrs. Askren and Bridges' annual incentive compensation award is based on the achievement of the economic profit goals of HNI Corporation.
+[BEGIN TABLE]
+Economic Profit Achievement ($M)Financial Component of Annual Incentive Compensation Award – Payout (%) 
+Economic Profit Achievement ($M)Financial Component of Annual Incentive Compensation Award – Payout (%) 
+Less than 25.6 0 
+25.6 35 
+41.3 100 
+54.9 200 
+[END TABLE]
+The financial component of Mr. Berger's annual incentive compensation award is based on the achievement of the economic profit goals of Hearth & Home Technologies.  The financial component of Mr. Sieben's annual incentive compensation award is based on the achievement of the economic profit goals of Allsteel. The financial component of Mr. Tjaden's annual incentive compensation award is based on achievement of financial goals of HNI International and HNI ONE, a division of HNI targeting typically large  accounts. The Corporation considers the financial goals and achievements of these business units competitively sensitive and does not disclose them, or individual operating company results, publicly.
+As for all Named Executive Officers, the financial performance goals for Messrs. Berger, Sieben, and Tjaden are set aggressively and require superior performance by the officers and their corresponding business units and areas of responsibility.  Nonetheless, because the Corporation and Board expect superior performance on a consistent basis, Messrs. Berger, Sieben, and Tjaden are expected to achieve 100% of target over time on the financial component of their respective annual incentive compensation awards under the Annual Incentive Plan.
+Individual Objectives 
+Each Named Executive Officer's individual objectives are based on broad strategic objectives of the Corporation or one or more business units and are defined and measured within the year.  The independent Directors annually review and approve the CEO's individual objectives.  The CEO annually reviews and approves the individual objectives of each other Named Executive Officer.  
+In 2018, each Named Executive Officer's individual objectives were based on organic sales growth targets of the Corporation or one or more business units. 
+At year-end, the CEO evaluates Named Executive Officers' performance against their individual objectives and recommends an achievement percentage for Compensation Committee approval.  Achievement percentages for individual objectives range from 0% to 125%. The independent Directors, after reviewing the CEO's self-evaluation, determine the achievement percentage of the CEO's individual objectives.
+The Compensation Committee and the CEO (and with respect to the CEO, the independent Directors) determined the Named Executive Officers delivered results on the stated goals resulting in attainment of individual objectives from 62% to 125%. 
+Long-Term Incentive 
+In February 2018, 75% of each Named Executive Officer's long-term incentive compensation opportunity was granted in stock options, vesting in February 2022, and 25% was granted in performance-based cash awards earned over three annual performance periods. In relation to his promotion, Mr. Lorenger's long-term incentive opportunity was increased to 325% of base salary from 200%. Accordingly, Mr. Lorenger received a prorated long-term incentive grant in June 2018.  Of the award opportunity, 75% was granted in stock options, vesting in June 2022, and 25% was granted in a performance-based cash award earned over three annual performance periods. In recognition of Mr. Sieben's development and performance, the Board  granted him a one-time special restricted stock unit (RSU) grant in August 2018, half of which vests in 2020, and the remainder in 2021. This award was in addition to his original long-term incentive grant. 
+Long-term incentive compensation is designed to focus executives on long-term value creation for shareholders measured by objective financial performance metrics and long-term stock price appreciation, and incent executives to remain with the Corporation.  Long-term incentive compensation is provided through:
+[BEGIN TABLE]
+• annual performance-based awards with rolling three-year performance periods under the HNI Corporation Long-Term Performance Plan; and 
+• annual equity grants to select executives, including all Named Executive Officers, under the 2017 Stock-Based Compensation Plan (the "2017 Stock Plan") and previously under the 2007 Stock-Based Compensation Plan (together, the "Stock Plans"). 
+[END TABLE]
+The two types of long-term incentive compensation provide an appropriate balance between emphasizing financial performance (long-term performance plan awards) and stock price performance (stock options and restricted stock units).  The Compensation Committee and the Board annually evaluate and approve the participants' target awards to ensure alignment with the Corporation's incentive compensation philosophy. 
+The following table shows the total long-term incentive compensation award opportunities for each Named Executive Officer.   
+[BEGIN TABLE]
+Name Total Long-Term Incentive Compensation Target  ($) Total Long-Term Incentive Compensation Award Target  (% of Annual Base Salary at Time of Award) 
+Jeffrey D. Lorenger 2,325,000 325 
+Stan A. Askren 3,667,253 300 
+Marshall H. Bridges 664,200 150 
+Vincent P. Berger 577,500 150 
+Brandon T. Sieben 325,000 100 
+Kurt A. Tjaden 684,000 150 
+[END TABLE]
+Mr. Lorenger's February 2018 target long-term incentive compensation was set at 200% of his base salary. 
+This was increased to 325% following his promotion to President and CEO.
+Equity Awards 
+Under the Stock Plans, the Board grants stock options with an exercise price equal to the closing price of a share of Common Stock on the date of grant.  Annual grants typically occur at the February Board meeting.  The Board may grant equity awards throughout the year for a new hire, a significant promotion or other special circumstances.  The amount of income realized by an executive from an option is equal to the stock appreciation between the grant and the exercise dates, which aligns the interests of the Named Executive Officers with long-term value creation for shareholders.  Stock option grants are limited to a group of executives (58 in 2018, including all Named Executive Officers) who have the ability through their leadership and strategic actions to significantly impact the Corporation's long-term performance and, consequently, its stock price.  In its history, the Corporation has never re-priced stock options.  
+The Corporation uses the Black-Scholes option valuation method to calculate the number of options granted, which is based on the targeted dollar value of the award.  All stock options cliff-vest after four years and expire ten years after the date of grant.  Early termination of employment other than due to death, disability, retirement or a change in control of the Corporation results in forfeiture of unvested option awards and a reduction in the exercise period of vested option awards.  This policy is designed to motivate executives to focus on long-term value creation and support retention. The Board granted stock options to each Named Executive Officer on February 14, 2018.  The exercise price for the stock options, which is the closing price of a share of Common Stock on the date of grant, was $38.68 per share.  See the following option valuation table for additional details regarding stock option awards in February 2018 for each Named Executive Officer:
+[BEGIN TABLE]
+Name Targeted Value of Stock Options Granted in February 2018 ($)(1) Stock Options Granted  (#) 
+Jeffrey D. Lorenger 746,566 76,336 
+Stan A. Askren 2,281,537 233,286 
+Marshall H. Bridges 413,225 42,252 
+Vincent P. Berger 359,288 36,737 
+Brandon T. Sieben 202,192 20,674 
+Kurt A. Tjaden 425,538 43,511 
+[END TABLE]
+Notes
+[BEGIN TABLE]
+(1) The Black-Scholes option value for award purposes was $11.79 and differs from the Black-Scholes option value calculated in accordance with Financial Accounting Standards Board Accounting Standards Codification Topic 718, Compensation – Stock Compensation ("FASB ASC Topic 718"), for financial statement reporting purposes ($9.78).  The difference between the Black-Scholes option value for award purposes and for financial statement reporting purposes results from utilizing a ten-year option life when calculating the value of an award and a six-year expected option life when reporting the value of the award under FASB ASC Topic 718.  Utilization of the ten-year option life when calculating the value of an award results in fewer options granted to executives due to the higher option value produced. 
+[END TABLE]
+In connection with his promotion to President and CEO, the Board granted Mr. Lorenger an additional prorated stock option award on June 28, 2018. This award was granted to align his long-term incentive opportunity with his new 325% target. The exercise price for the stock options, which is the closing price of a share of Common Stock on the date of grant, was $37.29 per share.  See the following option valuation table for additional details:
+[BEGIN TABLE]
+Name Targeted Value of Stock Options Granted in June 2018 ($)(1) Stock Options Granted  (#) 
+Jeffrey D. Lorenger 588,515 64,389 
+[END TABLE]
+Notes
+[BEGIN TABLE]
+(1) The Black-Scholes option value for award purposes was $10.92 and differs from the Black-Scholes option value calculated in accordance with FASB ASC Topic 718, for financial statement reporting purposes ($9.14).  The difference between the Black-Scholes option value for award purposes and for financial statement reporting purposes results from utilizing a ten-year option life when calculating the value of an award and a six-year expected option life when reporting the value of the award under FASB ASC Topic 718.  Utilization of the ten-year option life when calculating the value of an award results in fewer options granted to executives due to the higher option value produced. 
+[END TABLE]
+In recognition of Mr. Sieben's development and performance, the Board granted him a one-time RSU award on August 7, 2018. This award is intended to promote his continued development, while aligning his interests with that of shareholders. The use of RSUs provides him additional incentive to focus on business initiatives that grow long-term shareholder value. Mr. Sieben's award of 9,289 RSUs will vest in two equal parts. The details of Mr. Sieben's RSU grant are included in the following table. 
+[BEGIN TABLE]
+Grant Date Vest Date of Award Number of RSUs Adjusted Fair Market Value of Award Granted ($) (1) 
+August 7, 2018 August 7, 2020 4,645 189,377 
+August 7, 2018 August 7, 2021 4,644 184,227 
+Total    9,289 373,604 
+[END TABLE]
+Notes
+[BEGIN TABLE]
+(1) The value for award purposes was $43.06, based on the closing share price on August 7, 2018. This differs from the adjusted fair market value calculated in accordance with FASB ASC Topic 718, for financial statement reporting purposes ($40.77 for units vesting in 2020 and $39.67 for units vesting in 2021).  
+[END TABLE]
+Cash Awards  
+Actual performance is measured each year, with one-third of the cash award earned based on economic profit achievement in each of the three years covered by the plan. Achievement for each year may range from 0% to 200% of the annual award target, with a 25% threshold level. Economic profit achievement representing a 100% payout level is established as an aggressive but achievable goal for the Corporation based on economic and competitive conditions at the time goals are established.  Payout levels are expected to average approximately 100% across multiple performance periods and failure to achieve a 25% payout level or achievement of a 200% payout level will occur infrequently. 
+Under the Long-Term Performance Plan, economic profit is defined as after-tax operating profit less a charge for invested capital, with cash normalized to a fixed amount for purposes of the calculation.  This calculation differs from the Annual Incentive Plan to adjust for the length of each plan's performance period.  For example, the impact of restructuring is included in the Long-Term Performance Plan calculation because the benefits can be captured during the plan's three-year performance period, but is excluded from the Annual Incentive Plan because the benefits are realized outside the one-year performance period.  
+The 2018-2020 Plan award covers a three-year performance period (2018, 2019 and 2020). The Compensation Committee recommended, and the Board approved, the economic profit goals for each year in the performance period in February 2018. No portion of the award will be paid out until the first quarter of 2021, and a Named Executive Officer must remain continuously employed by the Corporation (other than leaving employment as a result of death, disability, retirement or in connection with a change in control of the Corporation) through the last day of fiscal year 2020 to receive a payout.
+Economic profit achieved by the Corporation in 2018 was measured against (i) the performance goal for the first year of the 2018-2020 Plan, (ii) the performance goal for the second year of the Long-Term Performance Plan for 2017-2019 (the "2017-2019 Plan") and (iii) the final year of the Long-Term Performance Plan for 2016-2018 (the "2016-2018 Plan").  For 2018, the Corporation's economic profit was:
+[BEGIN TABLE]
+• $22.8 million under the 2018-2020 Plan, resulting in an earned award of 0% for 2018; 
+• $11.1 million under the 2017-2019 Plan, resulting in an earned award of 0% for 2018; and 
+• $8.5 million under the 2016-2018 Plan, resulting in an earned award of 0% for 2018. 
+[END TABLE]
+The difference between the economic profit for 2018 under the three plans is attributable to the use of a different weighted average cost of capital assumption (as one target was set in 2016, one was set in 2017 and the other in 2018) and the treatment of the economic profit impact of an acquisition.  A discussion of the 2016-2018 and 2017-2019 Plans was contained in the Proxy Statements  for the 2017 Annual Meeting and the 2018 Annual Meeting, respectively. The following table represents the economic profit targets set for the 2018 year under the three plans.
+[BEGIN TABLE]
+2018 Economic Profit Matrix 
+Payout% 2018-2020 Plan  ($M) 2017-2019 Plan  ($M) 2016-2018 Plan ($M) 
+25% 23.1 59.2 54.7 
+100% 42.3 83.4 87.3 
+200% 56.4 94.3 114.9 
+[END TABLE]
+The economic profit target and payouts for 2018 differ between the 2018-2020 Plan, the 2017-2019 Plan and the 2016-2018 Plan as a result of the Compensation Committee recommending, and the Board approving, an economic profit target for each year in a Long-Term Performance Plan at the beginning of the Long-Term Performance Plan (e.g., the 2018 economic profit target under the 2016-2018 Plan was set in February 2016).  The differences in target value result primarily from changing assumptions on national and global economic performance as well as an additional year of actual performance for the Corporation.
+The Named Executive Officers earned the following amounts under the Long-Term Performance Plan based on 2018 performance:
+[BEGIN TABLE]
+Name Long-Term Performance Plan Target Award for 2018 Performance Period ($) Actual 2018 Performance Period Achievement (%) Award Earned for 2018 Performance Period Achievement ($) 
+Jeffrey D. Lorenger 2018-2020 146,875 0 — 
+2017-2019 81,764 0 — 
+2016-2018 77,870 0 — 
+Total 306,509 0 — 
+Stan A. Askren 2018-2020 305,604 0 — 
+2017-2019 295,270 0 — 
+2016-2018 283,913 0 — 
+Total 884,787 0 — 
+Marshall H. Bridges 2018-2020 55,350 0 — 
+2017-2019 48,125 0 — 
+2016-2018 33,124 0 — 
+Total 136,599 0 — 
+Vincent P. Berger 2018-2020 48,125 0 — 
+2017-2019 36,458 0 — 
+2016-2018 37,500 0 — 
+Total 122,083 0 — 
+Brandon T. Sieben 2018-2020 27,083 0 — 
+2017-2019 35,836 0 — 
+2016-2018 34,375 0 — 
+Total 97,294 0 — 
+Kurt A. Tjaden 2018-2020 57,000 0 — 
+2017-2019 55,061 0 — 
+2016-2018 52,944 0 — 
+Total 165,005 0 — 
+[END TABLE]
+ 4. Additional Compensation Programs and Policies
+The descriptions below summarize other compensation and retirement plans in which Named Executive Officers are eligible to participate.  These plans do not change significantly from year to year, and other than participation in the Supplemental Income Plan ("SIP"), do not involve annual compensation decisions by the Compensation Committee or the Board.
+Supplemental Income Plan  
+The SIP provides a benefit to the plan's participants, including the Named Executive Officers, equal to amounts the participants  would have received had the Corporation's qualified plan (i.e., 401(k) plan) and cash profit-sharing benefits not been subject to statutory compensation caps, except no income attributable to the Long-Term Performance Plan is considered. The 2018 statutory compensation limit for qualified plan and cash profit-sharing benefits was $275,000. Any compensation in excess of this limit is excluded from the eligible earnings used to calculate qualified plan and cash profit-sharing benefits.  The SIP is available to select executives, approved by the Board, who consistently earn income above compensation caps on the qualified plan and cash profit-sharing benefits. 
+In 2018, the Compensation Committee determined all SIP benefits would be in the form of shares of Common Stock.  The SIP shares cannot be transferred while the participant is employed by the Corporation.  The number of shares of Common Stock is calculated by dividing the amount of the benefit by the closing price of a share of Common Stock on the date the benefit is paid, with cash payable in lieu of a fractional share.  Participation in the SIP is provided to assure overall competitiveness of the executive compensation program. 
+Deferred Compensation Plan
+Executives eligible for compensation under the Annual Incentive Plan, which include all Named Executive Officers, are eligible to participate in the HNI Corporation Executive Deferred Compensation Plan ("Deferred Plan").  The Deferred Plan allows executives to voluntarily defer base salary, Annual Incentive Plan awards, Long-Term Performance Plan awards, SIP benefits and other amounts.  Amounts can be deferred to a cash account earning interest at a rate set each year at 1% above the prime interest rate or to a notional stock account in the form of nonvoting share units fluctuating in value based on the price increase or decrease of Common Stock and earning dividends distributed to all shareholders.  The dividends are automatically reinvested for each participant to acquire additional nonvoting share units.  For any cash compensation deferred to the notional stock account, the number of nonvoting share units is determined by dividing the amount of the compensation by the fair market value of a share of Common Stock on the date the compensation would have otherwise been paid.  Each participant elects, on an annual basis, the date or dates of distribution (i.e., a participant can elect a lump-sum distribution or distribution via annual installments not to exceed 15) of any deferred amounts.  During 2018, Mr. Askren was the only Named Executive Officer who participated in the Deferred Plan.
+Profit-Sharing Retirement Plan 
+Each Named Executive Officer participates in the HNI Corporation Profit-Sharing Retirement Plan (the "Retirement Plan"), a defined contribution plan generally available to all members. Members are eligible to make voluntary contributions immediately upon hire.  One year of service is typically required to be eligible for employer contributions.  Each Named Executive Officer is eligible for employer contributions.  These contributions are reflected in the "All Other Compensation" column of the Summary Compensation Table.
+Cash Profit-Sharing 
+Each Named Executive Officer is eligible for distributions under the Corporation's cash profit-sharing program.  Cash profit-sharing is paid based on the profitability of a member's business unit.  Members are generally eligible to participate after completion of one year of continuous service.  Cash profit-sharing amounts paid to the Named Executive Officers are reflected in the "Bonus" column of the Summary Compensation Table.
+Change in Control, Post-Employment and Other Events
+Messrs. Lorenger, Bridges, Berger, Tjaden and one other key executive have a Change In Control Employment Agreement ("CIC Agreement") with the Corporation.  Upon a change in control, retirement, death or disability, certain awards granted under the Annual Incentive Plan, the Long-Term Performance Plan and the Stock Plans also vest or are payable pursuant to their terms and are not conditioned on a termination of employment.  See "Potential Payments Upon Termination or Change in Control" for a discussion of these items. As previously disclosed, Mr. Askren announced his retirement from the Corporation, effective December 31, 2018.  Pursuant to the terms of a Consulting Agreement dated November 7, 2018, Mr. Askren agreed to act as a special advisor to the CEO and advisor for the Corporation for up to three years following his retirement.  He will be compensated $45,000 per quarter.  Mr. Askren will be subject to confidentiality, non-compete and non-disparagement covenants during the term of the Consulting Agreement.  The Consulting Agreement may be terminated by either party with sixty days' advance notice.  
+Perquisites
+Consistent with its longstanding culture, the Corporation does not provide executives with any special or unique perquisites, for example company cars or club memberships.  Relocation assistance is provided to executives under a relocation program broadly available for members transferred within the Corporation and newly-hired professional members.  Executives participate in the same health, retirement, profit-sharing, disability and life insurance programs and member stock purchase plan as other members. 
+Anti-Hedging Policy
+The Corporation's policy prohibits officers (including the Named Executive Officers) or Directors from hedging their ownership of the Corporation's Common Stock (including prepaid variable forwards, equity swaps, collars and exchange funds), engaging in short sales or purchasing put or call options, pledging shares of the Corporation's Common Stock, holding shares in a margin account or engaging in short-term transactions. This policy is designed to ensure alignment of Officers and Directors with shareholders and requires them to bear the full economic risk of share ownership. 
+Executive Stock Ownership Guideline
+The Board has adopted an Executive Stock Ownership Guideline based on the belief key executives should have a significant ownership interest in the Corporation's stock.  Under the guideline, ownership levels are provided for executives to acquire and hold a recommended ownership interest in the Corporation's stock based on their position and compensation level.  The guideline is intended to align the interests of key executives with shareholder interests.  The guideline ownership levels in effect for 2018 are shown below:
+[BEGIN TABLE]
+Position $ Value of Shares 
+President and CEO 5.0 x Base Salary 
+Operating Company (Unit) Presidents, Chief Financial Officer, and Executive and Senior Vice Presidents   3.0 x Base Salary
+Operating Company (Unit) Presidents, Chief Financial Officer, and Executive and Senior Vice Presidents   3.0 x Base Salary
+Other Officers 2.0 x Base Salary 
+[END TABLE]
+Executives are encouraged to reach their respective stock ownership level within five years of the date the individual assumes an executive position covered by the guideline.  The Compensation Committee annually reviews each executive's progress toward the goal.  The Compensation Committee can specify a percentage of the executive's annual incentive compensation be paid in shares of Common Stock if it determines an executive is not achieving appropriate progress toward the goal.  The guideline credits executives with vested, in-the-money options held by executives under the Corporation's compensation plans.  As of the end of 2018, each Named Executive Officer was in compliance with the Corporation's stock ownership guideline.
+Executive Compensation Clawback
+If financial results are significantly restated due to fraud or intentional misconduct, the Board will review any performance-based compensation paid to executive officers who are found to be personally responsible for the fraud or intentional misconduct leading to the restatement and may, to the extent permitted by law, seek repayment of amounts paid in excess of amounts based on restated financial results.
+Tax Deductibility of Executive Compensation
+The Corporation typically seeks to maximize the tax deductibility of components of executive compensation where appropriate.  Section 162(m) of the Internal Revenue Code generally limits the ability of public companies to deduct compensation in excess of $1,000,000 paid annually to certain executive officers.  Section 162(m) exempts qualifying performance-based compensation from this limit with respect to taxable years beginning on or before December 31, 2017 and payable pursuant to a binding written agreement in effect on November 2, 2017.
+With the enactment of the Tax Cuts and Jobs Act in December 2017, for the 2018 fiscal year, the deductibility exemption for performance-based compensation under Section 162(m) has been eliminated. As a result, compensation in excess of $1,000,000  paid to covered executive officers generally will not be deductible unless the compensation qualifies for certain transition relief under the Act.  The Company continues to assess how the amendments to Section 162(m) may affect its annual and long-term incentive compensation. Given the commitment of the Corporation to tying the compensation of its executives to the performance of the Corporation, at this time we do not expect there to be material changes made to the manner in which the Corporation awards its incentive compensation.
+Impact of Prior Compensation in Setting Elements of Compensation
+Prior compensation of the Named Executive Officers does not generally impact how elements of current compensation are set.  The independent Directors and the Compensation Committee believe the competitive environment mandates current total compensation be sufficient to attract, motivate and retain top management.  The Compensation Committee analyzes outstanding equity grants, outstanding Annual Incentive Plan and Long-Term Performance Plan awards and ownership of Common Stock for each Named Executive Officer to ensure future stock equity grants, Annual Incentive Plan and Long-Term Performance Plan awards, CIC Agreements and other benefits provide appropriate and relevant incentives to the executives.  Based on the current analysis, the Compensation Committee believes prior compensation will not impact the ongoing effectiveness of the compensation objectives.
+Say on Pay Vote Results
+At the 2018 Annual Meeting, over 95% of the advisory votes cast by shareholders were in favor of the compensation program for Named Executive Officers.  The Compensation Committee carefully considers say on pay votes in setting the compensation of Named Executive Officers.  The Compensation Committee continues to apply substantially the same principles in determining the amounts and structure of executive compensation and its commitment to paying for performance.  
+Compensation Committee Interlocks and Insider Participation
+Members of the Compensation Committee have never been officers or members of the Corporation, and have no relationship with the Corporation other than as Directors and shareholders.  During 2018, no executive officer of the Corporation served as a director, or as a member of any compensation committee, of any other entity that had an executive officer who served on the Board or Compensation Committee.
+Compensation Committee Report
+The Compensation Committee has reviewed and discussed the CD&A, which begins on page 15 of this Proxy Statement, with management, and based on review and discussions, the Compensation Committee recommended to the Board the CD&A be included in this Proxy Statement.
+HUMAN RESOURCES AND COMPENSATION COMMITTEE
+Ronald V. Waters, III, Chairperson
+Mary A. Bell
+John R. Hartnett Summary Compensation Table
+The table below shows the compensation awarded to, earned by or paid to each of the Named Executive Officers for 2018, 2017 and 2016.  In accordance with the SEC's disclosure rules, information regarding compensation for years prior to the year in which an executive became a Named Executive Officer is not included in the table below.  The Corporation does not have employment agreements with any of its executives.  While employed, executives earn base salary, are eligible for benefits common to all members, and participate in the executive compensation programs identified in the tables below and discussed in the CD&A.  The performance-based conditions associated with Long-Term Performance Plan and Annual Incentive Plan awards as well as salary and bonus in proportion to total compensation are discussed in detail throughout the CD&A, which begins on page 15 of this Proxy Statement. 
+[BEGIN TABLE]
+Name and Principal Position Year Salary  ($) Bonus ($) (3) Stock Awards  ($) (4) Option Awards ($) (5) Non-Equity Incentive Plan Compensation ($) (6) All Other Compensation ($) (7) Total ($) 
+Jeffrey D. Lorenger  President and CEO, HNI Corporation (1)   2018 778,846 9,763 — 1,335,082 502,652 94,034 2,720,377 
+2017 546,354 8,168 — 663,581 160,200 90,541 1,468,844 
+2016 464,898 9,792 — 630,893 465,804 104,493 1,675,880 
+Stan A. Askren  Former Chairman, President and Chief Executive Officer,  HNI Corporation (2) 2018 1,216,853 9,859 — 2,281,537 991,625 146,597 4,646,471 
+2017 1,174,965 12,002 — 2,396,340 192,752 371,871 4,147,930 
+2016 1,130,011 14,019 — 2,300,226 2,105,993 359,542 5,909,791 
+Marshall H. Bridges   Chief Financial Officer;  Senior Vice President,  HNI Corporation 2018 438,354 9,859 — 413,225 224,500 49,937 1,135,875 
+2017 375,769 10,452 — 390,569 41,580 54,405 872,775 
+Vincent P. Berger  President, Hearth & Home Technologies; Executive Vice President,  HNI Corporation   2018 405,138 17,183 — 359,288 409,771 95,410 1,286,790 
+2017 372,885 15,954 — 295,881 221,760 73,938 980,418 
+Brandon T. Sieben  President, Allsteel  2018 345,673 6,820 373,604 202,192 32,550 37,645 998,484 
+Kurt A. Tjaden  President, HNI International; Senior Vice President,  HNI Corporation 2018 461,846 9,859 — 425,538 393,267 85,200 1,375,710 
+2017 446,157 12,002 — 446,869 397,141 114,275 1,416,444 
+2016 430,064 14,019 — 428,943 491,983 111,399 1,476,408 
+[END TABLE]
+Notes
+(1)   Mr. Lorenger served as President, Office Furniture, until his promotion on April 19, 2018 to President, HNI Corporation and then to President and CEO, HNI Corporation on June 28, 2018. 
+(2)   Mr. Askren served as Chairman, President and CEO, until he retired as President on April 19, 2018, retired as CEO on June 28, 2018, and retired as Chairman on December 31, 2018. 
+[BEGIN TABLE]
+(3) The amounts in this column reflect the payments of cash profit-sharing during calendar years 2018, 2017 and 2016 under the cash profit-sharing program.   
+(4) The amount in this column reflects the aggregate grant date fair value of RSUs granted in 2018 under the 2017 Stock Plan computed in accordance with FASB ASC Topic 718. Assumptions used in the calculations of these amounts are included in the footnote titled "Stock-Based Compensation" to the Corporation's audited financial statements for 2018 included in the Corporation's Annual Report on Form 10-K for the year ended December 29, 2018. 
+(5) The amounts in this column reflect the aggregate grant date fair value of stock options granted in 2018, 2017 and 2016 under the Stock Plans computed in accordance with FASB ASC Topic 718.  Assumptions used in the calculations of these amounts are included in the footnote titled "Stock-Based Compensation" to the Corporation's audited financial statements for 2018, 2017, and 2016 in the Corporation's Annual Report on Form 10-K for the year ended December 29, 2018. 
+[END TABLE]
+[BEGIN TABLE]
+(6) The amounts in this column include incentive compensation awards earned for the 2018 fiscal year under the Annual Incentive Plan (AIP) and each of the active Long-Term Performance Plans (LTPP); the 2016-2018 Plan, the 2017-2019 Plan, and the 2018-2020 Plan. Equivalent amounts are included for the 2017 and 2016 fiscal years. The AIP awards earned in 2018 and the earnings under the 2016-2018 Plan were paid in February 2019 and were subject to continuous employment through the last day of 2018. The 2017-2019 LTPP will not be paid until 2020 and is subject to continuous employment through the last day of 2019. The 2018-2020 LTPP will not be paid until 2021 and is subject to continuous employment through the last day of 2020.The breakdown between the Annual Incentive Plan and the Long-Term Performance Plan awards for 2018 is as follows:  Mr. Lorenger - $502,652 under the Annual Incentive Plan, and $0 under each of the three active long-term plans; Mr. Askren - $991,625 under the Annual Incentive Plan, and $0 under each of the three active long-term plans; Mr. Bridges -  $224,500 under the Annual Incentive Plan and $0 under each of the three active long-term plans; Mr. Berger - $409,771 under the Annual Incentive Plan,  and $0 under each of the three active long-term plans; Mr. Sieben - $32,550 under the Annual Incentive Plan,  and $0 under each of the three active long-term plans; Mr. Tjaden - $393,267 under the Annual Incentive Plan, and $0 under each of the three active long-term plans. 
+(7) The amounts in this column include the Corporation's contributions to the Retirement Plan, the dollar value of Corporation-paid life insurance premiums under the Life Insurance Plan, both of which are generally available to all members, and the dollar value of Common Stock paid under the SIP.  Contributions under the Retirement Plan in 2018, 2017 and 2016 were as follows:  Mr. Lorenger – $21,454; $19,746; $21,099;  Mr. Askren – $21,544; $23,311; $25,030;  Mr. Bridges – $21,544; $21,870; Mr. Berger – $28,355; $23,412;  Mr. Sieben – $18,718;  and Mr. Tjaden  – $21,544; $23,311; $25,030. The dollar value of Corporation-paid life insurance premiums under the Life Insurance Plan in 2018, 2017 and 2016 were as follows for each Named Executive Officer:  $142, $67, and $67. The dollar values of Common Stock earned under the SIP for 2018, 2017 and 2016 were as follows:   Mr. Lorenger –  $72,438; $70,728; $83,327;  Mr. Askren –  $124,911; $348,493; $334,445;  Mr. Bridges – $28,251; $32,467;  Mr. Berger – $66,913; $50,459; Mr. Sieben –  $18,785; and Mr. Tjaden – $63,514; $90,896; $86,302. The SIP Common Stock for 2018 was issued February 25, 2019; 2017 was issued February 26, 2018; and 2016 was issued February 27, 2017. 
+[END TABLE]
+ Grants of Plan-Based Awards
+The table below shows the grants of plan-based awards to the Named Executive Officers during 2018, including stock options granted under the 2017 Stock Plan, Long-Term Performance Plan awards, and Incentive Plan awards.  The aggregate grant date fair value of stock option awards are disclosed on a grant-by-grant basis in the table below.  For additional information on the Annual Incentive Plan and the Stock Plans, see "Annual Incentive" on page 19 and "Long-Term Incentive" on page 21 of this Proxy Statement.
+[BEGIN TABLE]
+Name Grant Date Estimated Future Payouts Under Non-Equity Incentive Plan Awards All Other Stock Awards: Number of Shares of Stock or  Units  (#) All Other Option Awards:  Number of Securities Underlying Options  (#) Exercise or Base Price of Option Awards  ($/Sh) Closing Price on Grant Date  ($/Sh) Grant Date Fair Value of Stock and Option Awards  ($) 
+Threshold  ($) Target ($) Maximum  ($) 
+Jeffrey D. Lorenger                                   
+Stock Options 2/14/2018                 76,336   38.68       746,566   
+Stock Options 6/28/2018                 64,389   37.29       588,515   
+2018-2020 Long-Term Performance Plan   75,000   300,000   600,000                       
+2018-2020 Long-Term Performance Plan   58,594   234,375   468,750                       
+Annual Incentive Plan   334,436   880,096   1,628,178                       
+Stan A. Askren                                   
+Stock Options 2/14/2018                 233,286   38.68       2,281,537   
+2018-2020 Long-Term Performance Plan   229,203   916,813   1,833,626                       
+Annual Incentive Plan   557,423   1,466,902   2,713,769                       
+Marshall H. Bridges                                   
+Stock Options 2/14/2018                 42,252   38.68       413,225   
+2018-2020 Long-Term Performance Plan   41,513   166,050   332,100                       
+Annual Incentive Plan   126,198   332,100   614,385                       
+Vincent P. Berger                                   
+Stock Options 2/14/2018                 36,737   38.68       359,288   
+2018-2020 Long-Term Performance Plan   36,094   144,375   288,750                       
+Annual Incentive Plan   118,503   311,850   576,923                       
+Brandon T. Sieben                                   
+Stock Options 2/14/2018                 20,674   38.68       202,192   
+Restricted Stock Units 8/7/2018             9,289           43.06   373,604   
+2018-2020 Long-Term Performance Plan   20,313   81,250   162,500                       
+Annual Incentive Plan   99,750   262,500   485,625                       
+Kurt A. Tjaden                                   
+Stock Options 2/14/2018                 43,511   38.68       425,538   
+2018-2020 Long-Term Performance Plan   42,750   171,000   342,000                       
+Annual Incentive Plan   134,520   354,000   654,900                       
+[END TABLE]
+  Mr. Lorenger received an additional long-term incentive grant on June 28, 2018 related to his promotion to President and CEO. Outstanding Equity Awards at Year End
+The following table shows the Named Executive Officers' outstanding equity awards as of the end of 2018.  All outstanding stock option awards reported in this table cliff-vest after four years and expire ten years after the date of grant. All outstanding RSUs vest 50% on the second anniversary of the grant date and 50% on the third anniversary of the grant date.
+[BEGIN TABLE]
+Name Option Awards Stock Awards 
+Securities Underlying Unexercised Options Exercisable (#) Securities Underlying Unexercised Options Unexercisable  (#) (1) (2) Option Exercise Price ($) Option Expiration Date Unvested Shares  (#) (3) Market value of unvested shares  ($) (4) 
+Jeffrey D. Lorenger 12,182       23.99   2/17/20         
+  26,725       31.98   2/16/21         
+  44,067       25.46   2/15/22         
+  58,540       31.79   2/13/23         
+  39,617       34.78   2/12/24         
+      25,897   51.54   2/18/25         
+      72,102   32.03   2/17/26         
+      46,050   46.62   2/15/27         
+      76,336   38.68   2/14/28         
+      64,389   37.29   6/28/28         
+Stan A. Askren 140,842       31.98   2/16/21         
+  163,773       25.46   2/15/22         
+  166,166       31.79   2/13/23         
+  167,791       34.78   2/12/24         
+  107,908       51.54   2/18/25         
+  262,883       32.03   2/17/26         
+  166,297       46.62   2/15/27         
+  233,286       38.68   2/14/28         
+Marshall H. Bridges 7,099       31.98   2/16/21         
+  5,860       25.46   2/15/22         
+  4,416       31.79   2/13/23         
+  5,220       34.78   2/12/24         
+      4,217   51.54   2/18/25         
+      10,223   32.03   2/17/26         
+      27,104   46.62   2/15/27         
+      42,252   38.68   2/14/28         
+Vincent P. Berger 7,331       31.98   2/16/21         
+  5,996       25.46   2/15/22         
+  4,628       31.79   2/13/23         
+  4,084       34.78   2/12/24         
+      4,965   51.54   2/18/25         
+      11,574   32.03   2/17/26         
+      6,594   44.04   5/10/26         
+      20,533   46.62   2/15/27         
+      36,737   38.68   2/14/28         
+Brandon T. Sieben 5,888       31.79   2/13/23         
+  5,670       34.78   2/12/24         
+[END TABLE]
+[BEGIN TABLE]
+      3,664   51.54   2/18/25         
+      10,610   32.03   2/17/26         
+      6,728   46.62   2/15/27         
+      20,674   38.68   2/14/28         
+                9,289   326,973   
+Kurt A. Tjaden 35,709       31.79   2/13/23         
+  31,289       34.78   2/12/24         
+      20,219   51.54   2/18/25         
+      49,022   32.03   2/17/26         
+      31,011   46.62   2/15/27         
+      43,511   38.68   2/14/28         
+[END TABLE]
+Notes
+[BEGIN TABLE]
+(1) All of Mr. Askren's stock options vested upon his retirement. 
+(2) As of December 29, 2018, vesting dates for each unexercisable stock option award, in descending order, for each Named Executive Officer are as follows: February 18, 2019, February 17, 2020, February 15, 2021, and February 14, 2022. In addition, Mr. Lorenger received a stock option grant in relation to his promotion to President and CEO, which will vest June 28, 2022, and Mr. Berger has a special stock option grant which will vest May 10, 2020. 
+(3) Fifty percent of Mr. Sieben's RSUs will vest August 7, 2020 and the remainder will vest August 7, 2021. 
+(4) The market value of the shares was calculated using the closing share price, $35.20, on December 28, 2018, the last trading day of fiscal 2018. 
+[END TABLE]
+Option Exercises and Stock Vested
+The following table shows information concerning Named Executive Officers' exercise of stock options during 2018. 
+[BEGIN TABLE]
+  Option Awards 
+Name Number of Shares Acquired on Exercise (#) Value Realized on Exercise ($) (1) 
+Jeffrey D. Lorenger —   —   
+Stan A. Askren 281,500   4,045,888   
+Marshall H. Bridges 2,500   68,825   
+Vincent P. Berger 8,739   126,876   
+Brandon T. Sieben —   —   
+Kurt A. Tjaden 125,563   1,297,277   
+[END TABLE]
+Notes
+(1) This column is calculated by multiplying the number of shares acquired by the difference between the market price on the date of exercise (or if the shares were retained by the Named Executive Officer, the closing price of a share of Common Stock on the date of exercise) and the exercise price of the stock options. Mr. Bridges retained shares equal to the value of his 2,500 exercised options.
+Nonqualified Deferred Compensation 
+The Deferred Plan allows executives to defer compensation to a cash account earning interest at a rate set annually at 1% above the prime interest rate or to the Corporation's notional stock account in the form of nonvoting share units earning dividends distributed to shareholders which are then automatically reinvested in additional nonvoting share units.  In 2018, Mr. Askren was the only Named Executive Officer who participated in the Deferred Plan.  Mr. Askren deferred into the Corporation's notional stock account the after-tax value of his 2017 SIP award, which was granted in February 2018, totaling  $340,303 and is reflected in the table below.  The value of Mr. Askren's 2017 SIP award, before taxes, was $348,493.  Mr. Askren's balance in the Deferred Plan as of the end of 2018 was 83,806 nonvoting share units. Unless distributed earlier due to the occurrence of triggering events as described in the Deferred Plan (including death, disability or change in control): (i) a portion of this balance will be distributed six months following his separation from service due to his status as a specified employee, and (ii) the remainder will be distributed January 31, 2021 for a portion of the balance, January 31, 2022 for a portion of the balance, and January 31, 2023 for a portion of the balance.
+For additional information on the Deferred Plan, see "Additional Compensation Programs and Policies – Deferred Compensation Plan" on page 25 of this Proxy Statement. 
+[BEGIN TABLE]
+Name Executive Contributions in Last FY  ($) (1) Aggregate Earnings in Last FY  ($) (2) Aggregate Balance at Last FYE  ($) (3) 
+Jeffrey D. Lorenger —   —   —   
+Stan A. Askren 348,493   (148,699) 2,949,998   
+Marshall H. Bridges —   —   —   
+Vincent P. Berger —   —   —   
+Brandon T. Sieben —   —   —   
+Kurt A. Tjaden —   —   —   
+[END TABLE]
+Notes
+[BEGIN TABLE]
+(1) The amount of Mr. Askren's contribution before taxes, $348,493, is reflected in the "All Other Compensation" column of the Summary Compensation Table for Mr. Askren's 2017 compensation.  
+(2) The reported dollar value is the sum of (i) share price appreciation (or depreciation) in the account balance during 2018 not attributable to contributions, withdrawals or distributions during 2018 and (ii) dividends earned on the account balance during 2018. The share price appreciation (or depreciation) is calculated by first multiplying 72,681, the number of nonvoting share units in Mr. Askren's account at the end of 2017, by $35.20, the closing price of a share of Common Stock on December 28, 2018, the last trading day of 2018; and then subtracting from this amount Mr. Askren's aggregate account balance at the end of 2017 – $2,803,318.  The dividends earned on the account balance during 2018 were $96,237.  
+(3) The reported dollar value is calculated by multiplying 83,806, the number of nonvoting share units in Mr. Askren's account at the end of 2018, by $35.20, the closing price of a share of Common Stock on December 28, 2018, the last trading day of 2018. 
+[END TABLE]
+Compensation Ratio
+For purposes of the compensation ratio calculation, we identified our median member based on our worldwide workforce, without regard to location, compensation arrangements, or employment status (full-time versus part-time).  Accordingly, to identify the median annual compensation of our members, as well as to determine the annual total compensation of the "median member" and the CEO, we used the following methodology:
+[BEGIN TABLE]
+1. In accordance with the SEC's disclosure rules, we utilized the same median member identified in 2017 for our 2018 compensation ratio calculation. We do not believe there were any changes in our member population or compensation arrangements in 2018 that would significantly impact our compensation ratio disclosure. 
+2. For purposes of identifying our "median member" in 2017, we selected October 1, 2017 as the date upon which we identified the "median member." 
+3. We excluded approximately 400 members who are employed in India and 20 members who are employed in Taiwan from the determination of the "median member" in 2017, given the small number of members in those jurisdictions. In total, we excluded less than 5% of our workforce from the calculation.  The member population, after taking into consideration the adjustment, consisted of approximately 8,500 individuals (7,500 U.S. members and 1,000 non-US members). 
+4. We annualized the compensation of members hired in 2017. 
+5. We applied an exchange rate of 1 Hong Kong Dollar to 0.1281 U.S. Dollars when calculating member compensation for our Hong Kong location. For members in China, we applied an exchange rate of 1 Chinese Renminbi to 0.1502 U.S. Dollars. Both exchange rates are as of September 30, 2017. 
+6. We selected base salary or wages plus overtime pay for the nine-month period ending September 30, 2017 to measure compensation of the Corporation's members to identify the "median member." 
+7. For the annual total compensation of the "median member," we identified and calculated the elements of the member's compensation for 2018 in accordance with the requirements of Item 402(c)(2)(x) of Regulation S-K, resulting in annual total compensation of $71,249.   The difference between the median member's wages with overtime pay and the member's annual total compensation represents the estimated value of the member's health care benefits, retirement-related benefits, and disability insurance (estimated for the member and the member's eligible dependents at $22,157). 
+8. For the annual total compensation of our CEO, we annualized the amounts reported in our 2018 Summary Compensation Table included in this Proxy Statement given Mr. Lorenger began serving as CEO midway through fiscal 2018. In addition, we included the estimated value of the CEO's health care benefits and disability insurance (estimated for the CEO and his eligible dependents at $25,903). Therefore, annual total compensation for our CEO for purposes of the compensation  
+[END TABLE]
+ ratio calculation is different from the "Total" compensation amount reflected within the Summary Compensation Table or described elsewhere in this Proxy Statement.  The following summarizes our methodology for annualizing Mr. Lorenger's compensation given his promotion to CEO on June 28, 2018: (i) annualized base salary for the period he served as CEO ($900,000); (ii) used the same total option award value reported in the 2018 Summary Compensation Table, given it reflects the additional options granted at the time he became CEO; (iii) annualized the non-equity compensation (AIP and LTPP) amounts earned for the period he served as CEO ($669,240); and (iv) annualized the all other compensation value based on the amounts earned for the period he served as CEO ($98,438).
+For fiscal 2018, the total compensation of our CEO, using annualized 2018 compensation data, was $3,038,425, and the "median member" total compensation was $71,249.  Based on this information, for 2018, the ratio of the annual total compensation of Mr. Lorenger to the "median member" annual total compensation is 43 to 1,  reasonably estimated consistent with Item 402(u) of Regulation S-K.  Due to the variability of the CEO's performance-based compensation, the compensation ratio may differ significantly from year to year.
+Potential Payments Upon Termination or Change in Control
+Retirement, death, disability and change in control ("CIC") events trigger the payment of compensation to the Named Executive Officers.
+Change in Control Employment Agreements.  Messrs. Lorenger, Bridges, Berger, Tjaden and one other key executive have Change in Control Employment Agreements with the Corporation.  The CIC Agreements are designed to assure continuity of executive management during a threatened takeover and ensure executive management can objectively evaluate any CIC proposal and act in the best interests of shareholders.  The CIC Agreements are part of a competitive compensation package to attract and retain top-quality executives.  
+Under the CIC Agreements, executives are eligible for severance benefits in the event there is a "double trigger;" meaning both a CIC of the Corporation and termination of employment (if termination was by the executive for good reason or by the Corporation for any reason other than cause or disability).  The termination must occur (i) during the two-years following a CIC or (ii) prior to the CIC where the executive's termination is directly related to the CIC.  The benefits include:
+[BEGIN TABLE]
+• a lump-sum severance payment equal to two times (three times for the CEO) the sum of (i) the executive's annual base salary and (ii) the average of the executive's annual incentive compensation awards for the prior two years; 
+• annual salary through the date of termination and a bonus equal to the average of the executive's annual incentive compensation awards for the prior two years; 
+• continuation of certain medical and dental benefits for up to 18 months and group life insurance benefits for up to two years; and 
+• a lump-sum payment for the cost of health and dental coverage for an additional six months and a lump-sum payment for two years of continued participation in disability benefit plans. 
+[END TABLE]
+In exchange for the CIC severance benefits, each executive is subject to confidentiality and non-competition provisions for one year from the date of termination.
+The CIC Agreement defines a CIC as having occurred:
+[BEGIN TABLE]
+• when a third person or entity becomes the beneficial owner of 20% or more of the outstanding Common Stock, subject to certain exceptions; 
+• when more than one-third of the Board is composed of persons not recommended by at least three-fourths of the incumbent Board; 
+• upon the occurrence of certain business combinations involving the Corporation; or 
+• upon approval by shareholders of a complete liquidation or dissolution. 
+[END TABLE]
+Cause is defined as acts of dishonesty resulting in substantial personal enrichment at the Corporation's expense or repeated willful or deliberate violations of obligations under the CIC Agreement resulting in material injury to the Corporation.  
+Good reason is defined as:
+[BEGIN TABLE]
+• a substantially adverse change in the executive's position, authority or responsibilities; 
+• the Corporation's failure to comply with the CIC Agreement; 
+[END TABLE]
+[BEGIN TABLE]
+• a change of more than 50 miles in the executive's principal place of work; 
+• a purported termination of the executive's employment not permitted by the CIC Agreement; or 
+• a successor company not assuming the CIC Agreement. 
+[END TABLE]
+In 2016, the Corporation adopted a new form of CIC Agreement that excludes obligations of the Corporation to "gross-up" an executive's compensation for any excise tax, for any federal, state and local income taxes applicable to the excise tax "gross-up", and for tax penalties and interest imposed on "excess parachute payments" (i.e., excess severance or CIC payments), as defined in Section 280G of the Internal Revenue Code.  As of November 8, 2018, all executives with CIC Agreements have transitioned to the new form which excludes the excise tax gross-up. 
+The Compensation Committee does not view the CIC Agreements as an element of current compensation, and the agreements do not  affect the Compensation Committee's annual decisions with respect to the compensation elements of the executive compensation program.  
+In the event of a CIC, the Compensation Committee would review information pertaining to compensation payable to the Named Executive Officers.
+Other Compensation Triggered by a Change in Control Event.  Under the Stock Plans, upon a CIC, vesting is accelerated for each outstanding RSU award and stock option.  Under both the Annual Incentive Plan and the Long-Term Performance Plan, the Board values each outstanding award prior to the effective date of a CIC and the values are payable within 30 days of a CIC.  The payments occurring on or after a CIC are not conditioned on termination of employment.
+The following tables quantify compensation payable to the Named Executive Officers upon a CIC.  The tables include only compensation items not available to all salaried members and assume the event occurred on December 29, 2018.  The "Total" column in each of the following tables does not include deferred compensation, which may be payable sooner than the original election date.  For a discussion of the Corporation's obligations to the Named Executive Officers under the Deferred Plan, see the Nonqualified Deferred Compensation for 2018 Table .
+Value in Event of Involuntary Termination or Voluntary Termination for Good Reason Following a Change in Control
+[BEGIN TABLE]
+Name  Cash Payment Under CIC Agreement ($) (1)  Total Value of Benefits Under CIC Agreement  ($) (2) Annual Incentive Plan Acceleration ($) (3) Long-Term Performance Plan Acceleration  ($) (4)  Stock Option Acceleration  ($) (5)   Total  ($) 
+Jeffrey D. Lorenger 2,916,741 50,808 502,652 243,342 228,563 3,942,106 
+Marshall H. Bridges 1,081,918 37,287 224,500 98,795 32,407 1,474,907 
+Vincent P. Berger 1,207,730 57,709 409,771 90,139 36,690 1,802,039 
+Kurt A. Tjaden 1,812,030 50,897 393,267 122,357 155,400 2,533,951 
+[END TABLE]
+Notes
+[BEGIN TABLE]
+(1) Amounts in this column include the following:  (i) an amount equal to two times (three times for Mr. Lorenger) the sum of (a) the executive's annual base salary and (b) the average of the executive's annual incentive compensation awards for the prior two years; (ii) an incremental bonus payment equal to the difference of the executive's average prior two years annual incentive awards and the current year annual incentive award payable; (iii) an amount equal to the value of the cost of health and dental coverage for an additional six months from the date of termination; (iv) an amount equal to the value of the "gross-up" for any federal, state and local taxes applicable to the value of six months of health and dental coverage continuation; and (v) an amount equal to the value of 24 months of continued participation in the Corporation's accidental death and travel accident insurance plan and disability plans. The amount of cash severance payable to Mr. Lorenger and Mr. Berger was reduced by $610,556 and $16,139, respectively, so no portion of the executives' benefit constitutes an excess parachute payment subject to the excise tax. 
+(2) Represents the value of the following benefits provided following termination of employment under the CIC Agreements for each Named Executive Officer: medical and dental benefits for 18 months, group life insurance benefits for 24 months, and the value of the Corporation's required contributions to the Retirement Plan. 
+(3) Represents the value of the annual incentive award earned for 2018, which the Named Executive Officer would be entitled to receive under the Annual Incentive Plan if he remained employed by the Corporation on the last day of 2018. 
+(4) Represents the estimated 2016-2018 Plan, 2017-2019 Plan, and 2018-2020 Plan award payable. This amount has been based on the following economic profit assumptions ("Economic Profit Assumptions"). For the 2016-2018 Plan:  (i) 90% of the targeted amount for 2016; (ii) 0% of the targeted amount for 2017; and (iii) 0% of the targeted amount for 2018. Amount payable accounts for employment during the entire 36-month performance period. No amount would be payable until the first quarter of 2019. For the 2017-2019 Plan:  (i) 0% of the targeted amount for 2017; (ii) 0% of the targeted amount for 2018; and (iii) 100% of the targeted amount for 2019. Amount payable has been prorated to account for employment during 24 months of the 36-month performance period.  No amount would be payable until the first quarter of 2020.   For the 2018-2020 Plan:  (i) 0% of the targeted amount for 2018; (ii) 100% of the targeted amount for 2019; and (iii) 100% of the targeted amount for 2020.  Amount payable  
+[END TABLE]
+ accounts for employment during 12 months of the 36-month performance period.  No amount would be payable until the first quarter of 2021. Amounts included for the Long-Term Performance Plan are estimates and are forward-looking statements made pursuant to the safe harbor provisions of the Private Securities Litigation Reform Act of 1995. Due to the number of factors, the actual amounts we pay or distribute under the Long-Term Performance Plan may differ materially. Factors affecting these amounts include the financial performance of the Corporation during 2018, 2019, and 2020 and the achievement of economic profit goals.
+[BEGIN TABLE]
+(5) Represents the value of accelerating the vesting of stock options not otherwise vested in accordance with the Stock Plans.  These options will remain exercisable until the expiration date established at the time of award.  
+[END TABLE]
+Value in Event of Change in Control with No Employment Termination
+[BEGIN TABLE]
+   Name  Cash Payment Under CIC Agreement ($)  Total Value of Benefits Under CIC Agreement  ($) Annual Incentive Plan Acceleration ($) (1) Long-Term Performance Plan Acceleration  ($) (2)  Stock Option Acceleration  ($) (3)    Total  ($) 
+Jeffrey D. Lorenger —   —   502,652 243,342 228,563 974,557 
+Marshall H. Bridges —   —   224,500 98,795 32,407 355,702 
+Vincent P. Berger —   —   409,771 90,139 36,690 536,600 
+Kurt A. Tjaden —   —   430,139 122,357 155,400 707,896 
+[END TABLE]
+Notes
+[BEGIN TABLE]
+(1) Represents the higher of the value of the annual incentive award earned for 2018, or paid in respect to the three full fiscal years immediately prior to the CIC effective date.  
+(2) Represents the estimated 2016-2018 Plan, 2017-2019 Plan, and 2018-2020 Plan award payable. See Economic Profit Assumptions in footnote 4 of the table titled Value in Event of Involuntary Termination or Voluntary Termination for Good Reason Following a Change in Control on Page 35 of this Proxy Statement. 
+(3) Represents the value of accelerating the vesting of stock options not otherwise vested in accordance with the Stock Plans.  These options will remain exercisable until the expiration date established at the time of award.   
+[END TABLE]
+Compensation Triggered By Retirement, Death or Disability.  Upon retirement at age 65, or after age 55 with ten years of service, all outstanding Annual Incentive Plan, Long-Term Performance Plan and stock option awards immediately vest.  Upon disability or death, all outstanding Annual Incentive Plan, Long-Term Performance Plan, stock option and RSU awards immediately vest.  Option holders who terminate employment due to disability may exercise stock options, which fully vest as of the date of disability, until the earlier of the expiration date of the stock option or the second anniversary of the date of disability.  The representatives of option holders whose employment is terminated due to death may exercise stock options, which shall fully vest as of the date of death, until the earlier of the expiration date of the stock option or the second anniversary of the date of death.  Option holders who terminate employment due to retirement may exercise stock options, which shall fully vest as of the date of retirement, until the expiration of the stock option.
+In the event of a termination of employment not due to a CIC event, retirement, death or disability, the Named Executive Officers receive only those benefits available to all members.  The Named Executive Officers may exercise stock options which are vested as of the date of termination until the earlier of the expiration of the stock option or 180 days following the date of termination.  
+In connection with his retirement, Mr. Askren entered into a Consulting Agreement, effective January 1, 2019, described in more detail in the section titled "Change in Control, Post-Employment and Other Events."
+The following table quantifies compensation payable to the Named Executive Officers in the event of death, disability or retirement.  Only Mr. Tjaden was retirement eligible as of the last business day of 2018, so retirement information is provided only for him.  The "Total" column does not include deferred compensation, which may be payable sooner than the original election date.  For a discussion of the Corporation's obligations to the Named Executive Officers under the Deferred Plan, see the Nonqualified Deferred Compensation for 2018 Table. Value in Event of Retirement, Death or Disability
+[BEGIN TABLE]
+Name Life Insurance Proceeds  ($) (1)  Retirement & Profit Sharing (2)  Annual Incentive Plan Acceleration  ($) (3) Long-Term Performance Plan Acceleration  ($) (4) Stock Options Acceleration  ($) (5) Total Value in Event of Death  ($) Total Value in Event of Disability  ($) Total Value in Event of Retirement  ($) 
+Jeffrey D. Lorenger 150,000 21,455 502,652 243,342 228,563 1,146,012 996,012 N/A 
+Marshall H. Bridges 150,000 21,544 224,500 98,795 32,407 527,246 377,246 N/A 
+Vincent P. Berger 150,000 28,355 409,771 90,139 36,690 714,955 564,955 N/A 
+Kurt A. Tjaden 150,000 21,544 393,267 122,357 155,400 842,568 692,568 692,568 
+[END TABLE]
+Notes
+[BEGIN TABLE]
+(1) Represents the proceeds of the life insurance policy maintained by the Corporation for each of the Named Executive Officer under the Life Insurance Plan.  The policy amount is equal to the lesser of the insured's annual base salary or $150,000. This amount only applies to the Total Value in Event of Death. 
+(2) Represents the value of the Corporation's required contributions to the Retirement Plan. 
+(3) Represents the value of the annual incentive award earned for 2018, which the Named Executive Officer would be entitled to receive under the Annual Incentive Plan if he remained employed by the Corporation on the last day of 2018.  
+(4) Represents the estimated 2016-2018 Plan, 2017-2019 Plan, and 2018-2020 Plan awards payable. See Economic Profit Assumptions in footnote 4 of the table titled Value in Event of Involuntary Termination or Voluntary Termination for Good Reason Following a Change in Control on Page 35 of this Proxy Statement. 
+(5) Represents the value of accelerating the vesting of stock options not otherwise vested in accordance with the Stock Plans.  These options will remain exercisable until two years from the date of death or disability, and in the case of retirement until the expiration date of the option. 
+[END TABLE]
+ PROPOSAL NO. 3 – ADVISORY VOTE TO APPROVE 
+NAMED EXECUTIVE OFFICER COMPENSATION
+The Corporation conducts an annual shareholder advisory vote on named executive officer compensation as recommended by the Board, and approved by shareholders.
+We urge shareholders to read the CD&A and other sections of this Proxy Statement describing how our executive compensation program operates. The Compensation Committee and the Board believe the Corporation's compensation program is effective in long-term shareholder value creation and contributing to the Corporation's continuing success.
+Accordingly, we ask shareholders to vote FOR the following resolution at the Meeting:
+"RESOLVED, the shareholders approve, on an advisory basis, the compensation of the Named Executive Officers as disclosed in this Proxy Statement pursuant to the compensation disclosure rules of the SEC, including the CD&A, compensation tables and narrative discussion."
+The vote on this proposal is advisory and not binding on the Corporation, the Compensation Committee or the Board.  However, the Compensation Committee and the Board value the opinions expressed by our shareholders and will carefully consider the outcome of this vote when making future compensation decisions for the Named Executive Officers.  
+Required Vote
+The affirmative vote of the holders of a majority of the Outstanding Shares voted at the Meeting is required to adopt the resolution. Abstentions and broker non-votes will not be counted for purposes of determining whether this Proposal has received sufficient votes for approval.
+Recommendation of the Board
+[BEGIN TABLE]
+ THE BOARD RECOMMENDS A VOTE "FOR" ADOPTION OF THE RESOLUTION APPROVING THE COMPENSATION OF THE NAMED EXECUTIVE OFFICERS AS DISCLOSED IN THIS PROXY STATEMENT.  
+[END TABLE]
+SECURITY OWNERSHIP
+Security Ownership of Certain Beneficial Owners
+On the Record Date, there were 43,562,022 Outstanding Shares and, to the Corporation's knowledge, there were three shareholders who owned beneficially more than 5% of all Outstanding Shares.  The table below contains information, as of that date (except as noted below), regarding the beneficial ownership of these entities.  Unless otherwise indicated, the Corporation believes each of the entities listed below has sole voting and investing power with respect to all the shares of Common Stock indicated.
+[BEGIN TABLE]
+Name and Address of Beneficial Owner Amount and Nature of Beneficial Ownership Percent of Class 
+State Farm Insurance Companies (1)  One State Farm Plaza  Bloomington, Illinois 61710 7,366,400 (2) 16.9% 
+BlackRock, Inc. (3) 55 East 52nd Street New York, New York 100554,949,035 (4) 11.4% 
+BlackRock, Inc. (3) 55 East 52nd Street New York, New York 100554,949,035 (4) 11.4% 
+The Vanguard Group, Inc. (5) 100 Vanguard Boulevard Malvern, PA 193554,196,167 (6) 9.6% 
+[END TABLE]
+Notes
+[BEGIN TABLE]
+(1) State Farm Insurance Companies consists of the following entities: State Farm Mutual Automobile Insurance Company; State Farm Fire and Casualty Company; State Farm Investment Management Corp.; State Farm Insurance Companies Employee Retirement Trust; State Farm Insurance Companies Savings and Thrift Plan for U.S. Employees; State Farm Life Insurance Company; State Farm Associates Funds Trust - State Farm Growth Fund; and State Farm Associates Funds Trust - State Farm Balanced Fund. 
+[END TABLE]
+[BEGIN TABLE]
+(2) Information is based on a Schedule 13G filed February 5, 2019 with the SEC by State Farm Insurance Companies for the period ended December 31, 2018.  State Farm Insurance Companies has sole voting and investment power with respect to all 7,366,400 beneficially owned shares.  
+(3) The following subsidiaries of BlackRock, Inc. hold the shares of Common Stock noted:  BlackRock Institutional Trust Company, N.A.; BlackRock Fund Advisors; BlackRock Asset Management Canada Limited; BlackRock Asset Management Schweiz AG; BlackRock Advisors, LLC; BlackRock Investment Management, LLC; BlackRock Financial Management, Inc.; BlackRock Asset Management Ireland Limited; BlackRock Investment Management (Australia) Limited; BlackRock Investment Management (UK) Limited; and BlackRock (Netherlands) B.V. 
+(4) Information is based on a Schedule 13G/A filed January 28, 2019 with the SEC by BlackRock, Inc., for the period ended December 31, 2018.  Of the 4,949,035 shares beneficially owned, BlackRock Inc. has sole investment power with respect to all shares and sole voting power with respect to 4,842,798 shares. 
+(5) The following subsidiaries of The Vanguard Group, Inc. hold the shares of Common Stock noted:  Vanguard Fiduciary Trust Company and Vanguard Investments Australia, Ltd. 
+(6) Information is based on a Schedule 13G/A filed February 12, 2019 with the SEC by The Vanguard Group, Inc., for the period ended December 31, 2018.  Of the 4,196,167 shares beneficially owned, The Vanguard Group, Inc. has sole voting power with respect to 90,158 shares, shared voting power with respect to 6,068 shares, sole investment power with respect to 4,104,419 shares, and shared investment power with respect to 91,748 shares. 
+[END TABLE]
+Security Ownership of Directors and Executive Officers
+The following table sets forth the beneficial ownership of Common Stock as of the Record Date for each Director and nominee for Director, each Named Executive Officer and for all current Directors and executive officers of the Corporation as a group.  The address of the persons listed below is 600 East Second Street, Muscatine, Iowa 52761. 
+[BEGIN TABLE]
+Name of Beneficial Owner Common Stock (1) Common  Stock Units (2) Stock Options Exercisable as of the Record Date or Within  60 Days Thereof Total Stock and Stock-Based Holdings  Percent of Class (3) 
+Stan A. Askren 29,591 87,390 1,245,173 1,362,154 3.1% 
+Mary A. Bell 21,921 31,884 — 53,516 * 
+Miguel M. Calado 50,287 — — 50,287 * 
+Cheryl A. Francis 63,803 — — 63,803 * 
+John R. Hartnett 10,510 — — 10,510 * 
+Mary K.W. Jones 9,854 2,469 — 12,323 * 
+Larry B. Porcellato 20,534 19,897 — 40,431 * 
+Abbie J. Smith 11,332 52,303 — 63,635 * 
+Brian E. Stern 47,893 — — 47,893 * 
+Ronald V. Waters, III 17,250 15,422 — 32,672 * 
+Marshall H. Bridges 11,962 — 26,812 38,774 * 
+Kurt A. Tjaden 42,687 — 87,217 129,904 * 
+Jeffrey D. Lorenger 29,796 — 207,028 236,824 * 
+Vincent P. Berger 8,948 — 27,004 35,952 * 
+Brandon T. Sieben 23,009 — 15,222 38,231 * 
+All Directors and executive officers as a group – (18 persons) 407,270 121,976 421,038 950,284 2.2% 
+[END TABLE]
+Notes
+[BEGIN TABLE]
+(1) Includes restricted shares held by executive officers over which they have voting power but not investment power, shares held directly or in joint tenancy, shares held in trust, by broker, bank or nominee or other indirect means and over which the individual or member of the group has sole voting or shared voting and/or investment power.  Each individual or member of the group has sole voting and/or investment power with respect to the shares shown in the table above, except Mr. Askren's spouse shares voting and investment power with respect to 7,588 of the 29,591 shares listed above for Mr. Askren, and Mr. Calado's former spouse shares voting and investment power with respect to 2,700 of the 50,287 shares listed above for Mr. Calado.  
+(2) Indicates the nonvoting share units credited to the account of the named individual or members of the group, as applicable, under either the Deferred Plan or the Directors Deferred Plan.  For additional information on the Deferred Plan, see "Additional Compensation Programs and Policies – Deferred Compensation Plan" on page 25 and the Nonqualified Deferred Compensation Table on page 33 of this Proxy Statement.  For additional information on the Directors Deferred Plan, see "Director Compensation" on page 10 of this Proxy Statement. 
+(3) * less than 1%. 
+[END TABLE]
+ EQUITY COMPENSATION PLAN INFORMATION
+The following table provides information as of December 29, 2018, about Common Stock which may be issued under the Corporation's equity compensation plans.
+[BEGIN TABLE]
+  Plan CategoryNumber of Securities to be Issued Upon Exercise of Outstanding Options, Warrants and Rights (a)Weighted-Average Exercise Price of Outstanding Options,  Warrants and Rights (b) (3)Number of Securities Remaining Available for Future Issuance Under Equity Compensation Plans (Excluding Securities Reflected in Column (a)) (c)
+  Plan CategoryNumber of Securities to be Issued Upon Exercise of Outstanding Options, Warrants and Rights (a)Weighted-Average Exercise Price of Outstanding Options,  Warrants and Rights (b) (3)Number of Securities Remaining Available for Future Issuance Under Equity Compensation Plans (Excluding Securities Reflected in Column (a)) (c)
+  Plan CategoryNumber of Securities to be Issued Upon Exercise of Outstanding Options, Warrants and Rights (a)Weighted-Average Exercise Price of Outstanding Options,  Warrants and Rights (b) (3)Number of Securities Remaining Available for Future Issuance Under Equity Compensation Plans (Excluding Securities Reflected in Column (a)) (c)
+Equity Compensation Plans approved by security holders 4,014,099 (1)   36.89   3,496,672 (4)   
+Equity Compensation Plans not approved by security holders 242,956 (2)   ––   598,284 (5)   
+Total 4,257,055   36.89   4,094,956   
+[END TABLE]
+Notes
+[BEGIN TABLE]
+(1) Includes:  (i) shares to be issued upon the exercise of outstanding stock options granted under the Stock Plans – 3,627,005 (2,858,982 under the 2017 Stock Plan, and 768,023 under the 2007 Stock Plan); (ii) shares to be issued upon the vesting of outstanding RSUs under the Stock Plans – 45,724 (23,224 under the 2017 Stock Plan, and 22,500 under the 2007 Stock Plan); and (iii) the target value of the 2018 Annual Incentive Plan awards for all award recipients divided by $35.20, the closing price of a share of Common Stock on December 28, 2018, the last trading day of Fiscal 2018 – 341,370.  As of the last day of Fiscal 2018, there were no outstanding warrants or rights under the 2017 Stock Plan or the 2007 Stock Plan. Also, there were no options, warrants, rights or RSUs under the 2017 Equity Plan for Non-Employee Directors. The number of shares attributable to Annual Incentive Plan awards also overstates expected Common Stock dilution as the Corporation did not pay out any portion of the 2018 Annual Incentive Plan awards for any recipient in the form of Common Stock. 
+(2) Includes the nonvoting share units credited to the account of individual executive officers or Directors under either the Deferred Plan – 89,039 or the Directors Deferred Plan – 153,917.  For additional information on the Deferred Plan, see "Additional Compensation Programs and Policies – Deferred Compensation Plan" on page 25 and the Nonqualified Deferred Compensation Table on page 33 of this Proxy Statement.  For additional information on the Directors Deferred Plan, see "Director Compensation" on page 10 of this Proxy Statement. 
+(3) This column does not take into account any of the RSUs, Long-Term Performance Plan awards, Annual Incentive Plan awards or nonvoting share units discussed in Notes 1 and 2 above. 
+(4) Includes shares available for issuance under the Stock Plan – 2,587,500, the 2017 Director's Equity Plan – 239,908 and the MSPP – 669,264.  Of the 3,400,000 shares originally available for issuance under the Stock Plan, no more than 1,500,000 of the shares can be issued as full-value awards.  At the end of 2018, 1,475,801 of the 1,500,000 shares reserved for full-value awards were available for issuance. The MSPP allows members to purchase Common Stock at 85% of the closing share price on each quarterly exercise date up to an annual aggregate amount of $25,000 per year and is available generally to all members. 
+(5) Includes nonvoting share units available for issuance under the Deferred Plan – 229,908 and the Directors Deferred Plan – 368,376. 
+[END TABLE]
+SECTION 16(a) BENEFICIAL OWNERSHIP REPORTING COMPLIANCE
+Under the federal securities laws, the Directors and executive officers of the Corporation, and certain persons who own more than 10% of the Outstanding Shares, are required to report their ownership of Common Stock and changes in ownership to the SEC and the NYSE.  Specific due dates for these reports have been established by the SEC, and the Corporation is required to report in this Proxy Statement any known failure to file by these dates during 2018.
+Based solely on our review of the copies of the reports the Corporation has received, or written representations from certain reporting persons, the Corporation believes during 2018 all reporting persons made all filings required by Section 16(a) of the Exchange Act on a timely basis. 
+DEADLINE FOR SHAREHOLDER PROPOSALS FOR THE 2020 ANNUAL MEETING
+Proposals by shareholders intended to be presented at the 2020 Annual Meeting must be received at the Corporation's executive offices no later than November 23, 2019 to be included in the proxy statement and form of proxy.  All shareholder notice of proposals submitted outside the processes of Exchange Act Rule 14a-8 must be received between January 8, 2020 and February 7, 2020 to be considered for presentation at the 2020 Annual Meeting, but will not be included in the proxy statement.  In addition, shareholder proposals must comply with the informational requirements contained in Section 2.16(a)(2) of the By-laws in order to be presented at the 2020 Annual Meeting.  On written request to the Corporate Secretary at HNI Corporation, 600 East Second Street, Muscatine, Iowa 52761, the Corporation will provide, without charge to any shareholder, a copy of the By-laws.
+OTHER MATTERS
+The Board knows of no other matters that will be brought before the Meeting, but, if other matters properly come before the Meeting, it is intended the persons named in the proxy will vote the proxy according to their best judgment. On written request to the Corporate Secretary at HNI Corporation, 600 East Second Street, Muscatine, Iowa 52761, the Corporation will provide, without charge to any shareholder, a copy of its Annual Report on Form 10-K for the year ended December 29, 2018, including financial statements and schedules, filed with the SEC.  The report is also available on the Corporation's website at www.hnicorp.com under "Investors - Financial Reporting - SEC Filings."
+Information set forth in this Proxy Statement is as of March 22, 2019, unless otherwise noted.
+Steven M. Bradford
+Senior Vice President, General Counsel and Secretary
+March 22, 2019 
+Notwithstanding anything to the contrary set forth in any of the Corporation's previous filings under the Securities Act of 1933 or the Exchange Act that might incorporate future filings, including this Proxy Statement, in whole or in part, the Audit Committee Report on page 13 of this Proxy Statement and the Compensation Committee Report on page 27 of this Proxy Statement shall not be incorporated by reference into any filings.
+An Annual Report of the Corporation for 2018 is being made available to shareholders of the Corporation together with this Proxy Statement.  The Annual Report to Security Holders does not form any part of the material for the solicitation of proxies. 
+[BEGIN TABLE]
+      HNI CORPORATION 600 EAST SECOND STREET MUSCATINE, IA 52761   VOTE BY INTERNET - www.proxyvote.com Use the Internet to transmit your voting instructions and for electronic delivery of information.  Vote by 11:59 p.m. ET on 05/06/2019 for shares held directly and by 11:59 p.m. ET on 05/02/2019 for shares held in a plan.  Have your proxy card in hand when you access the web site and follow the instructions to obtain your records and to create an electronic voting instruction form.
+      HNI CORPORATION 600 EAST SECOND STREET MUSCATINE, IA 52761   VOTE BY INTERNET - www.proxyvote.com Use the Internet to transmit your voting instructions and for electronic delivery of information.  Vote by 11:59 p.m. ET on 05/06/2019 for shares held directly and by 11:59 p.m. ET on 05/02/2019 for shares held in a plan.  Have your proxy card in hand when you access the web site and follow the instructions to obtain your records and to create an electronic voting instruction form.
+      HNI CORPORATION 600 EAST SECOND STREET MUSCATINE, IA 52761   VOTE BY INTERNET - www.proxyvote.com Use the Internet to transmit your voting instructions and for electronic delivery of information.  Vote by 11:59 p.m. ET on 05/06/2019 for shares held directly and by 11:59 p.m. ET on 05/02/2019 for shares held in a plan.  Have your proxy card in hand when you access the web site and follow the instructions to obtain your records and to create an electronic voting instruction form.
+   ELECTRONIC DELIVERY OF FUTURE PROXY MATERIALS If you would like to reduce the costs incurred by the Corporation in mailing proxy materials, you can consent to receiving all future proxy statements, proxy cards and annual reports electronically via e-mail or the Internet.  To sign up for electronic delivery, please follow the instructions above to vote using the Internet and, when prompted, indicate that you agree to receive or access proxy materials electronically in future years.
+   ELECTRONIC DELIVERY OF FUTURE PROXY MATERIALS If you would like to reduce the costs incurred by the Corporation in mailing proxy materials, you can consent to receiving all future proxy statements, proxy cards and annual reports electronically via e-mail or the Internet.  To sign up for electronic delivery, please follow the instructions above to vote using the Internet and, when prompted, indicate that you agree to receive or access proxy materials electronically in future years.
+   VOTE BY PHONE - 1-800-690-6903 Use any touch-tone telephone to transmit your voting instructions.  Vote by 11:59 p.m. ET on 05/06/2019 for shares held directly and by 11:59 p.m. ET on 05/02/2019 for shares held in a plan. 
+   VOTE BY MAIL Mark, sign and date your proxy card and return it in the postage-paid envelope we have provided or return it to Vote Processing, c/o Broadridge, 51 Mercedes Way, Edgewood, NY 11717.
+   VOTE BY MAIL Mark, sign and date your proxy card and return it in the postage-paid envelope we have provided or return it to Vote Processing, c/o Broadridge, 51 Mercedes Way, Edgewood, NY 11717.
+[END TABLE]
+[BEGIN TABLE]
+TO VOTE, MARK BLOCKS BELOW IN BLUE OR BLACK INK AS FOLLOWS:   
+E04494-P71140 KEEP THIS PORTION FOR YOUR RECORDS 
+  DETACH AND RETURN THIS PORTION ONLY 
+THIS PROXY CARD IS VALID ONLY WHEN SIGNED AND DATED. 
+HNI CORPORATION                                 
+  The Board of Directors recommends you vote FOR the following:                           
+   1. Election of Directors For   Against   Abstain                       
+    1a.  Mary K.W. Jones    ¨   ¨   ¨                       
+    1a.  Mary K.W. Jones    ¨   ¨   ¨                       
+    1b.  Jeffrey D. Lorenger    ¨   ¨   ¨                       
+    1c.  Larry B. Porcellato    ¨   ¨   ¨                       
+    1d.  Abbie J. Smith   ¨    ¨    ¨                        
+  2. Ratify the Audit Committee's selection of KPMG LLP as the Corporation's independent registered public accountant for fiscal year ending December 28, 2019.       ¨   ¨   ¨   
+  3. Advisory vote to approve Named Executive Officer compensation.       ¨   ¨   ¨   
+  NOTE: Such other business as may properly come before the meeting or any adjournment thereof will be voted by your proxies in their discretion.       
+                        Yes No                     
+  Please indicate if you plan to attend this meeting.   ¨ ¨                     
+  Please sign exactly as your name(s) appear(s) hereon. When signing as attorney, executor, administrator, or other fiduciary, please give full title. Joint owners should each sign personally. All holders must sign. If a corporation or partnership, please sign in full corporate or partnership name by authorized officer.                       
+  Signature [PLEASE SIGN WITHIN BOX]   Date       Signature (Joint Owners)   Date       
+[END TABLE]
+ Important Notice Regarding the Availability of Proxy Materials for the Annual Meeting:
+The Notice and Proxy Statement and Annual Report with Form 10-K Wrap are available at http://investors.hnicorp.com/Docs.
+[BEGIN TABLE]
+  E04495-P71140 
+HNI CORPORATION Annual Meeting of Shareholders May 7, 2019 10:30 AM (CDT) This proxy is solicited by the Board of Directors
+HNI CORPORATION Annual Meeting of Shareholders May 7, 2019 10:30 AM (CDT) This proxy is solicited by the Board of Directors
+HNI CORPORATION Annual Meeting of Shareholders May 7, 2019 10:30 AM (CDT) This proxy is solicited by the Board of Directors
+HNI CORPORATION Annual Meeting of Shareholders May 7, 2019 10:30 AM (CDT) This proxy is solicited by the Board of Directors
+The shareholder(s) hereby appoint(s) Steven M. Bradford and Marshall H. Bridges, or either of them, as proxies, each with the power to appoint his substitute, and hereby authorize(s) them to represent and to vote, as designated on the reverse side of this ballot, all of the shares of Common Stock of HNI CORPORATION the shareholder(s) is/are entitled to vote at the Annual Meeting of Shareholders to be held at 10:30 AM (CDT) on May 7, 2019, at the HNI Corporate Headquarters, 600 East Second Street, Muscatine, IA 52761, and any adjournment or postponement thereof. 
+This proxy, when properly executed, will be voted in the manner directed herein. If no direction is made, this proxy will be voted in accordance with the Board of Directors' recommendations. 
+Continued and to be signed on reverse side 
+[END TABLE]
+43

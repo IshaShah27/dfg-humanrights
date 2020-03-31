@@ -1,0 +1,446 @@
+TABLE OF CONTENTS
+UNITED STATES SECURITIES AND EXCHANGE COMMISSION Washington, D.C. 20549 
+​
+SCHEDULE 14A 
+INFORMATION REQUIRED IN PROXY STATEMENT SCHEDULE 14A INFORMATION
+Proxy Statement Pursuant to Section 14(a) of the Securities Exchange Act of 1934 
+​
+Filed by the Registrant
+☒
+​
+Filed by a Party other than the Registrant
+☐
+​
+Check the appropriate box: 
+☐
+Preliminary Proxy Statement 
+​
+☐
+Confidential, for Use of the Commission Only (as permitted by Rule 14a-6(e)(2))
+​
+☒
+Definitive Proxy Statement 
+​
+☐
+Definitive Additional Materials 
+​
+☐
+Soliciting Material Pursuant to §240.14a-12 
+​
+LIGHTSTONE REAL ESTATE INCOME TRUST, INC. 
+(Name of Registrant as Specified In Its Charter) 
+​
+(Name of Person(s) Filing Proxy Statement, if Other Than the Registrant) 
+Payment of Filing Fee (Check the appropriate box): 
+☒
+No fee required. 
+​
+☐
+Fee computed on table below per Exchange Act Rules 14a-6(i)(4) and 0-11. 
+​
+(1)
+Title of each class of securities to which transaction applies: 
+​
+​
+(2)
+Aggregate number of securities to which transaction applies: 
+​
+​
+(3)
+Per unit price or other underlying value of transaction computed pursuant to Exchange Act Rule 0-11 (set forth the amount on which the filing fee is calculated and state how it was determined): 
+​
+​
+(4)
+Proposed maximum aggregate value of transaction: 
+​
+​
+(5)
+Total fee paid: 
+​
+​
+☐
+Fee paid previously with preliminary materials. 
+​
+☐
+Check box if any part of the fee is offset as provided by Exchange Act Rule 0-11(a)(2) and identify the filing for which the offsetting fee was paid previously. Identify the previous filing by registration statement number, or the Form or Schedule and the date of its filing. 
+​
+(1)
+Amount Previously Paid: 
+​
+​
+(2)
+Form, Schedule or Registration Statement No.: 
+​
+​
+(3)
+Filing Party: 
+​
+​
+(4)
+Date Filed: 
+​
+​
+TABLE OF CONTENTS
+LIGHTSTONE REAL ESTATE INCOME TRUST, INC. 1985 Cedar Bridge Avenue, Suite 1 Lakewood, New Jersey 08701
+​
+NOTICE OF ANNUAL MEETING OF STOCKHOLDERS To Be Held December 13, 2018 
+To the Stockholders of Lightstone Real Estate Income Trust, Inc.: 
+I am pleased to invite our stockholders to the 2018 Annual Meeting of Stockholders of Lightstone Real Estate Income Trust, Inc., a Maryland corporation. The annual meeting will be held at 460 Park Avenue, 13th Floor, New York, New York, 10022, at 9:30 a.m., Eastern Standard Time, on December 13, 2018. 
+At the meeting, you will be asked to: 
+ consider and vote upon the election of three directors to serve until our 2019 Annual Meeting of Stockholders and until their successors are duly elected and qualify; and 
+​
+ conduct such other business as may properly come before the annual meeting or any adjournment or postponement thereof. 
+​
+Our Board of Directors has fixed the close of business on October 10, 2018 as the record date for the determination of stockholders entitled to notice of and to vote at the meeting or any adjournment or postponement thereof. Record holders of shares of our common stock at the close of business on the record date are entitled to notice of and to vote at the annual meeting. 
+For further information regarding the matters to be acted upon at the annual meeting, I urge you to carefully read the accompanying proxy statement. If you have questions about these proposals or would like additional copies of the proxy statement, please contact: Lightstone Real Estate Income Trust, Inc., 1985 Cedar Bridge Avenue, Suite 1, Lakewood, New Jersey 08701. 
+Whether you own a few or many shares and whether you plan to attend in person or not, it is important that your shares be voted on matters that come before the meeting. You may authorize a proxy to vote your shares by using a toll-free telephone number or via the Internet. Instructions for using these convenient services are provided on the enclosed proxy card and in the attached proxy statement. If you prefer, you may authorize a proxy by marking your voting instructions on the proxy card, signing and dating it, and mailing it in the postage paid return envelope provided. If you sign and return your proxy card without specifying your choices, it will be understood that you wish to have your shares voted in accordance with the Board's recommendation. If we do not hear from you after a reasonable amount of time, you may receive a telephone call from our proxy solicitor, Computershare Fund Services, reminding you to vote your shares. 
+You are cordially invited to attend the 2018 Annual Meeting of Stockholders. Your vote is important. 
+By Order of the Board of Directors,  Joseph Teichman General Counsel and Secretary Lakewood, New Jersey October 23, 2018 
+TABLE OF CONTENTS​​
+LIGHTSTONE REAL ESTATE INCOME TRUST, INC.  PROXY STATEMENT  TABLE OF CONTENTS 
+[BEGIN TABLE]
+​   INTRODUCTION    ​ ​ ​ ​  1  ​ ​ 
+​   INFORMATION ABOUT THE MEETING AND VOTING    ​ ​ ​ ​  1  ​ ​ 
+​   PROPOSAL ONE: ELECTION OF DIRECTORS    ​ ​ ​ ​  5  ​ ​ 
+​   CORPORATE GOVERANCE    ​ ​ ​ ​  8  ​ ​ 
+​   DIRECTOR AND EXECUTIVE COMPENSATION    ​ ​ ​ ​  11  ​ ​ 
+​   DIRECTORS AND EXECUTIVE OFFICERS    ​ ​ ​ ​  12  ​ ​ 
+​   STOCK OWNERSHIP BY DIRECTORS, OFFICERS AND CERTAIN SHAREHOLDERS    ​ ​ ​ ​  14  ​ ​ 
+​   CERTAIN RELATIONSHIPS AND RELATED PARTY TRANSACTIONS    ​ ​ ​ ​  15  ​ ​ 
+​   RELATIONSHIP WITH INDEPENDENT REGISTERED PUBLIC ACCOUNTING FIRM    ​ ​ ​ ​  19  ​ ​ 
+​   AUDIT COMMITTEE REPORT    ​ ​ ​ ​  20  ​ ​ 
+​   INDEPENDENT DIRECTORS' REPORT    ​ ​ ​ ​  21  ​ ​ 
+​   OTHER MATTERS PRESENTED FOR ACTION AT 2018 ANNUAL MEETING OF STOCKHOLDERS    ​ ​ ​ ​  23  ​ ​ 
+​   STOCKHOLDER PROPOSALS FOR 2019 ANNUAL MEETING OF STOCKHOLDERS    ​ ​ ​ ​  23  ​ ​ 
+[END TABLE]
+i
+TABLE OF CONTENTS​​
+LIGHTSTONE REAL ESTATE INCOME TRUST, INC. 1985 Cedar Bridge Avenue, Suite 1 Lakewood, New Jersey 08701
+​
+PROXY STATEMENT 
+INTRODUCTION
+The accompanying proxy, mailed together with this proxy statement, is solicited by and on behalf of the board of directors (the "Board of Directors") of Lightstone Real Estate Income Trust, Inc., a Maryland corporation (which we refer to in this proxy statement as the "Company"), for use at the 2018 Annual Meeting of Stockholders and at any adjournment or postponement thereof. References in this proxy statement to "we," "us," "our" or like terms also refer to the Company, and references in this proxy statement to "you" refer to the stockholders of the Company. The mailing address of our principal executive offices is 1985 Cedar Bridge Avenue, Suite 1, Lakewood, New Jersey 08701. This proxy statement, the accompanying proxy card and notice of annual meeting are first being mailed to our stockholders on or about October 29, 2018. The 2017 Annual Report on Form 10-K was previously mailed to our stockholders on or about April 30, 2018. 
+Our Annual Report on Form 10-K for the year ended December 31, 2017 and the exhibits thereto may be accessed online through the Securities and Exchange Commission (the "SEC") website at www.sec.gov. In addition, stockholders may request a copy of our 2017 Annual Report by writing or telephoning us at the following address: Lightstone Real Estate Income Trust, Inc., 1985 Cedar Bridge Avenue, Suite 1, Lakewood, New Jersey 08701, telephone (888) 808-7348. 
+INFORMATION ABOUT THE MEETING AND VOTING 
+What is the date of the annual meeting and where will it be held? 
+Our 2018 Annual Meeting of Stockholders will be held on December 13, 2018, at 9:30 a.m., Eastern Standard Time. The meeting will be held at 460 Park Avenue, 13th Floor, New York, New York, 10022. 
+What will I be voting on at the meeting? 
+At the meeting, you will be asked to: 
+ consider and vote upon the election of three directors to serve until our 2019 Annual Meeting of Stockholders and until their successors are duly elected and qualify; and 
+​
+ conduct such other business as may properly come before the annual meeting or any adjournment or postponement thereof. 
+​
+The Board of Directors does not know of any matters that may be considered at the meeting other than the matters set forth in the items listed above. 
+Who can vote at the meeting? 
+The record date for the determination of holders of shares of our common stock, $0.01 par value per share (the "Common Stock"), entitled to notice of and to vote at the meeting, or any adjournment or postponement of the meeting, is the close of business on October 10, 2018. Accordingly, any holder of shares of Common Stock on the record date is entitled to notice of and to vote at the meeting. As of the record date, approximately 8.7 million shares of our Common Stock were issued and outstanding and entitled to vote at the meeting. 
+How many votes do I have? 
+Each share of Common Stock has one vote on each matter considered at the meeting or any adjournment or postponement thereof.  TABLE OF CONTENTS
+How can I vote? 
+You may vote in person at the meeting or by proxy. Stockholders may submit their votes by proxy by mail by completing, signing, dating and returning their proxy in the enclosed envelope. Stockholders also have the following two options for authorizing a proxy to vote their shares: 
+ via the Internet at www.proxy-direct.com/; or 
+​
+ by telephone, by calling toll free (800) 337-3503. 
+​
+For those stockholders with Internet access, we encourage you to authorize a proxy to vote your shares via the Internet, a convenient means of authorizing a proxy that also provides cost savings to us. In addition, when you authorize a proxy to vote your shares via the Internet or by telephone prior to the meeting date, your proxy authorization is recorded immediately and there is no risk that postal delays will cause your vote by proxy to arrive late and, therefore, not be counted. For further instructions on authorizing a proxy to vote your shares, see your proxy card enclosed with this proxy statement. You may also vote your shares at the meeting. If you attend the meeting, you may submit your vote in person, and any proxy that you authorized by mail, Internet or telephone will be superseded by the vote that you cast at the meeting. 
+How will proxies be voted? 
+Shares represented by valid proxies will be voted at the meeting in accordance with the directions given. If the enclosed proxy card is signed and returned without any directions given, the shares will be voted FOR each of the three nominees for director named in this proxy statement for election as director. 
+The Board of Directors does not intend to present, and has no information indicating that others will present, any business at the annual meeting other than as set forth in the attached Notice of Annual Meeting of Stockholders. However, if other matters requiring the vote of our stockholders come before the meeting, it is the intention of the persons named in the accompanying proxy to vote the proxies held by them in their discretion. 
+How can I change my vote or revoke a proxy? 
+You have the unconditional right to revoke your proxy at any time prior to the voting thereof by (i) submitting a later-dated proxy either by telephone, via the Internet or in the mail to Computershare Fund Services ("CFS"), whom we have retained to aid in the solicitation of proxies, at the following address: Proxy Tabulator, 2950 Express Drive South, Suite 210, Islandia, NY 11749, (ii) attending the meeting and voting in person or (iii) providing written notice to CFS. No written revocation of your proxy shall be effective, however, unless and until it is received at or prior to the meeting. Your attendance at the meeting without voting will not be sufficient to revoke a previous proxy authorization. 
+What if I return my proxy but do not mark it to show how I am voting? 
+If your proxy card is signed and returned without specifying your choices, your shares will be voted as recommended by the Board of Directors. 
+What are the board's recommendations? 
+The Board of Directors recommends that you vote FOR each of the three nominees for director named in this proxy statement for election as director. 
+What votes are required to elect directors? 
+There is no cumulative voting in the election of our directors. Each director is elected by the affirmative vote of the holders of a majority of all shares of Common Stock entitled to vote who are present in person or by proxy at the meeting. Any shares deemed present at the meeting but not voted (whether by abstention or broker non-vote) have the same impact as a vote against the directors. A "broker  TABLE OF CONTENTS
+non-vote" occurs when a broker who holds shares for the beneficial owner is deemed present for purposes of establishing a quorum for the meeting but does not vote on a proposal because the broker does not have discretionary voting authority for that proposal and has not received instructions from the beneficial owner of the shares. 
+What constitutes a "quorum"? 
+The presence at the meeting, in person or represented by proxy, of stockholders entitled to cast 50% of all the votes entitled to be cast at the meeting constitutes a quorum. Abstentions and broker non-votes will be counted as present for the purpose of establishing a quorum. 
+Will you incur expenses in soliciting proxies? 
+We will bear all costs associated with soliciting proxies for the meeting. Solicitations may be made on behalf of the Board of Directors by mail, personal interview, telephone or other electronic means by our officers and other employees of Lightstone Real Estate Income, LLC (the "Advisor"), who will receive no additional compensation. We will request banks, brokers, custodians, nominees, fiduciaries and other record holders to forward copies of this proxy statement to people on whose behalf they hold shares of Common Stock and to request authority for the exercise of proxies by the record holders on behalf of those people. In compliance with the regulations of the SEC, we will reimburse such persons for reasonable expenses incurred by them in forwarding proxy materials to the beneficial owners of shares of our Common Stock. 
+We have also retained CFS to aid in the solicitation of proxies. We will pay CFS a fee of approximately $20,000 in addition to reimbursement of its reasonable out-of-pocket expenses. As the date of the meeting approaches, certain stockholders may receive a telephone call from a representative of CFS if their votes have not yet been received. Proxies that are obtained telephonically will be recorded in accordance with the procedures described below. The Board of Directors believes that these procedures are reasonably designed to ensure that both the identity of the stockholder casting the vote and the voting instructions of the stockholder are accurately determined. 
+In all cases where a telephonic proxy is solicited, the CFS representative is required to ask for each stockholder's full name and address, or the zip code or employer identification number, and to confirm that the stockholder has received the proxy materials in the mail. If the stockholder is a corporation or other entity, the CFS representative is required to ask for the person's title and confirmation that the person is authorized to direct the voting of the shares. If the information solicited agrees with the information provided to CFS, then the CFS representative has the responsibility to explain the process, read the proposal listed on the proxy card and ask for the stockholder's instructions on the proposal. Although the CFS representative is permitted to answer questions about the process, he or she is not permitted to recommend to the stockholder how to vote, other than to read any recommendation set forth in this proxy statement. CFS will record the stockholder's instructions on the card. Within 72 hours, the stockholder will be sent a letter or mailgram to confirm his or her vote and asking the stockholder to call CFS immediately if his or her instructions are not correctly reflected in the confirmation. 
+What does it mean if I receive more than one proxy card? 
+Some of your shares may be registered differently or held in a different account. You should authorize a proxy to vote the shares in each of your accounts by mail, by telephone or via the Internet. If you mail proxy cards, please sign, date and return each proxy card to ensure that all of your shares are voted. If you hold your shares in registered form and wish to combine your stockholder accounts in the future, you should contact Lightstone Real Estate Income Trust, Inc., 1985 Cedar Bridge Avenue, Suite 1, Lakewood, New Jersey 08701, or call us at (888) 808-7348. Combining accounts reduces excess printing and mailing costs, resulting in cost savings to us that benefit you as a stockholder. 
+What if I receive only one set of proxy materials although there are multiple stockholders at my address? 
+The SEC has adopted a rule concerning the delivery of documents filed by us with the SEC, including proxy statements and annual reports. The rule allows us to, with the consent of affected stockholders, send a single set of any annual report, proxy statement, proxy statement combined with a prospectus or  TABLE OF CONTENTS
+information statement to any household at which two or more stockholders reside if they share the same last name or we reasonably believe they are members of the same family. This procedure is referred to as "Householding." This rule benefits both you and us. It reduces the volume of duplicate information received at your household and helps us reduce expenses. Each stockholder subject to Householding will continue to receive a separate proxy card or voting instruction card. 
+We will promptly deliver, upon written or oral request, a separate copy of our annual report or proxy statement, as applicable, to a stockholder at a shared address to which a single copy was previously delivered. If you received a single set of disclosure documents for this year, but you would prefer to receive your own copy, you may direct requests for separate copies to Lightstone Real Estate Income Trust, Inc., 1985 Cedar Bridge Avenue, Suite 1, New Jersey 08701, or call us at (888) 808-7348. Likewise, if your household currently receives multiple copies of disclosure documents and you would like to receive one set, please contact us. 
+Whom should I call for additional information about authorizing a proxy by mail, telephone or Internet to vote my shares? 
+Please call CFS, our proxy solicitor, at 1-866-641-4227. 
+How do I submit a stockholder proposal for next year's annual meeting or proxy materials, and what is the deadline for submitting a proposal? 
+In order for a stockholder proposal to be properly submitted for presentation at our 2019 Annual Meeting, pursuant to our current bylaws we must receive written notice of the proposal at our executive offices during the period beginning on May 10, 2019, and ending at 5:00 p.m., Eastern Daylight Time, on June 12, 2019. If you wish to present a proposal for inclusion in the proxy material for next year's annual meeting, we must receive written notice of your proposal at our executive offices no later than June 12, 2019. All proposals must contain the information specified in, and otherwise comply with, our bylaws. Proposals should be sent via registered, certified or express mail to: Lightstone Real Estate Income Trust, Inc., 1985 Cedar Bridge Avenue, Suite 1, Lakewood, New Jersey 08701, Attention: Joseph Teichman. For additional information, see the section in this proxy statement captioned "Stockholder Proposals for the 2019 Annual Meeting."  TABLE OF CONTENTS​
+PROPOSAL ONE:  ELECTION OF DIRECTORS 
+General 
+The Board of Directors ultimately is responsible for directing the management of our business and affairs. We have no employees and have retained the Advisor to manage our day-to-day operations, including the acquisition of our properties. The Advisor is an affiliate of our Sponsor, The Lightstone Group (the "Sponsor"). The Board of Directors, including our independent directors, is responsible for monitoring and supervising the Advisor's conduct of our day-to-day operations. 
+Our bylaws provide for a Board of Directors with no fewer than three and no more than ten directors, a majority of whom must be independent. An "independent director" is defined under our charter (the "Charter") and means a person who is not, and within the last two years has not been, directly or indirectly associated with the Company, the Sponsor, the Advisor or any of their affiliates by virtue of: 
+ ownership of an interest in the Sponsor, the Advisor or any of their affiliates, other than the Company; 
+​
+ employment by the Company, the Sponsor, the Advisors or any of their affiliates; 
+​
+ service as an officer or director of the Sponsor, the Advisor or any of their affiliates, other than as a director of the Company; 
+​
+ performance of services, other than as a director of the Company; 
+​
+ service as a director of the Company or as a director of more than three real estate investment trusts organized by the Sponsor or advised by the Advisor; or 
+​
+ maintenance of a material business or professional relationship with the Sponsor, the Advisor or any of their affiliates. 
+​
+An independent director cannot be associated with us, the Sponsor or the Advisor as set forth above either directly or indirectly. An indirect association with the Sponsor or the Advisor includes circumstances in which a director's spouse, parent, child, sibling, mother- or father-in-law, son- or daughter-in-law or brother- or sister-in-law, is or has been associated with us, the Sponsor, the Advisor, or any of their affiliates. 
+A business or professional relationship is considered material if the aggregate gross revenue derived by the director from the Advisor or the Sponsor and their affiliates exceeds five percent of either the director's annual gross income during either of the last two years or the director's net worth on a fair market value basis. 
+We currently have three directors, two of whom are independent. Directors are elected annually by our stockholders, and there is no limit on the number of times a director may be elected to office. Each director serves until the next annual meeting of stockholders or (if longer) until his or her successor is duly elected and qualifies. 
+During 2017, the Board of Directors held five meetings including our annual stockholders' meeting held on December 1, 2017. The entire Board of Directors was present at all of the meetings. The Board of Directors expects each director to attend annual meetings of stockholders when possible. We anticipate that all directors and nominees will attend our 2018 Annual Meeting of Stockholders. 
+Nominees for the Board of Directors 
+The Board of Directors has proposed the following nominees for election as directors, each to serve until our 2019 Annual Meeting of stockholders and until his successor is duly elected and qualifies: Messrs. David W. Lichtenstein, Edwin J. Glickman, and Steven Spinola. Each nominee currently serves as a director.  TABLE OF CONTENTS
+The proxy holder named on the enclosed proxy card intends to vote FOR the election of each of the three nominees for director. If you do not wish your shares to be voted for particular nominees, please identify the exceptions in the designated space provided on the proxy card or, if you are authorizing a proxy to vote your shares by telephone or the Internet, follow the instructions provided when you authorize a proxy. 
+We know of no reason why any nominee will be unable to serve if elected. If, at the time of the meeting, one or more of the nominees should become unable to serve, shares represented by proxies will be voted for the remaining nominees and for any substitute nominee or nominees designated by the Board of Directors. No proxy will be voted for a greater number of persons than the number of nominees described in this proxy statement. 
+The principal occupation and certain other information about the nominees are set forth below.
+[BEGIN TABLE]
+ Name   ​ ​  Age   ​ ​  Year First Elected   ​ ​  Business Experience and Principal Occupation; Directorships in Public Corporations and Investment Companies   ​ 
+ David Lichtenstein   ​ ​  57   ​ ​  2015   ​ ​ Mr. David Lichtenstein is our Chief Executive Officer and Chairman of our board of directors. Mr. Lichtenstein founded both American Shelter Corporation and The Lightstone Group. From 1988 to the present, Mr. Lichtenstein has served as Chairman of the Board of Directors and Chief Executive Officer of The Lightstone Group, directing all aspects of the acquisition, financing and management of a diverse portfolio of multifamily, lodging, retail and industrial properties located in 20 states and Puerto Rico. From June 2004 to the present, Mr. Lichtenstein has served as the Chairman of the Board of Directors and Chief Executive Officer of Lightstone Value Plus Real Estate Investment Trust, Inc. ("Lightstone I") and Chief Executive Officer of Lightstone Value Plus REIT LLC, its advisor. From April 2008 to the present, Mr. Lichtenstein has served as the Chairman of the Board of Directors and Chief Executive Offer of Lightstone Value Plus Real Estate Investment Trust II, Inc. ("Lightstone II") and Lightstone Value Plus REIT II LLC, its advisor. From September 2014 to the present, Mr. Lichtenstein has served as Chairman of the Board of Directors and Chief Executive Officer of Lightstone Value Plus Real Estate Investment Trust III, Inc. ("Lightstone III"), and as Chief Executive Officer of Lightstone Value Plus REIT III LLC, its advisor. From October 2014 to the present, Mr. Lichtenstein has served as Chairman of the Board of Directors and Chief Executive Officer of Lightstone Enterprises Limited ("Lightstone Enterprises"). Mr. Lichtenstein was appointed Chairman of the Board of Directors of Lightstone Value Plus Real Estate Investment Trust V, Inc. ("Lightstone V"), formerly known as Behringer Harvard Opportunity REIT II, Inc., effective as of September 28, 2017 and is Chairman and Chief Executive Officer of the its advisor. Mr. Lichtenstein was the president and/or director of certain subsidiaries of Extended Stay Hotels, Inc. ("Extended Stay") that filed for Chapter 11 protection with Extended Stay. Extended Stay and its subsidiaries filed for bankruptcy protection on June 15, 2009 so they could reorganize their debts in the face of looming amortization payments. Extended Stay emerged from bankruptcy on October 8, 2010. Mr. Lichtenstein is no longer affiliated with Extended Stay. From July 2015 to the present, Mr. Lichtenstein has served as a member of the Board of Directors of the New York City Economic Development Corporation. Mr. Lichtenstein is also a member of the International Council of Shopping Centers and the National Association of Real Estate Investment Trusts, Inc., or  ​ 
+[END TABLE]
+ TABLE OF CONTENTS
+[BEGIN TABLE]
+ Name   ​ ​  Age   ​ ​  Year FirstElected   ​ ​  Business Experience and Principal Occupation; Directorshipsin Public Corporations and Investment Companies   ​ 
+​ ​ ​ ​ ​ ​ ​ ​ ​ NAREIT, an industry trade group, as well as a member of the Board of Directors of Touro College and New York Medical College.  Mr. Lichtenstein has been selected to serve as a director due to his experience and networking relationships in the real estate industry, along with his experience in acquiring and financing real estate properties. ​ 
+​ ​ ​ ​ ​ ​ ​ ​ ​ NAREIT, an industry trade group, as well as a member of the Board of Directors of Touro College and New York Medical College.  Mr. Lichtenstein has been selected to serve as a director due to his experience and networking relationships in the real estate industry, along with his experience in acquiring and financing real estate properties. ​ 
+ Edwin J. Glickman   ​ ​  86   ​ ​  2015   ​ ​ Mr. Glickman is one of our independent directors and is the chairman of our audit committee. From 2004 to January 14, 2015, Mr. Glickman served as a member of the board of directors of Lightstone I, and from 2008 to the present, has served as a member of the board of directors of Lightstone II and from December 2013 to the present has served as a member of the board of directors of Lightstone III. In January 1995, Mr. Glickman co-founded Capital Lease Funding, a leading mortgage lender for properties net leased to investment grade tenants, where he remained as Executive Vice President until May 2003. Mr. Glickman was previously a trustee of publicly traded RPS Realty Trust from October 1980 through May 1996 and Atlantic Realty Trust from May 1996 to March 2006. Mr. Glickman graduated from Dartmouth College.  Mr. Glickman has been selected to serve as an independent director due to his extensive experience in mortgage lending and finance. ​ 
+ Edwin J. Glickman   ​ ​  86   ​ ​  2015   ​ ​ Mr. Glickman is one of our independent directors and is the chairman of our audit committee. From 2004 to January 14, 2015, Mr. Glickman served as a member of the board of directors of Lightstone I, and from 2008 to the present, has served as a member of the board of directors of Lightstone II and from December 2013 to the present has served as a member of the board of directors of Lightstone III. In January 1995, Mr. Glickman co-founded Capital Lease Funding, a leading mortgage lender for properties net leased to investment grade tenants, where he remained as Executive Vice President until May 2003. Mr. Glickman was previously a trustee of publicly traded RPS Realty Trust from October 1980 through May 1996 and Atlantic Realty Trust from May 1996 to March 2006. Mr. Glickman graduated from Dartmouth College.  Mr. Glickman has been selected to serve as an independent director due to his extensive experience in mortgage lending and finance. ​ 
+[END TABLE]
+ TABLE OF CONTENTS​
+CORPORATE GOVERNANCE 
+The only standing committee of the Board of Directors is the audit committee (the "Audit Committee"). The Audit Committee consists of two members composed entirely of our independent directors. The Board of Directors has determined that each of our independent directors is independent within the meaning of the applicable (i) provisions set forth in the Charter and (ii) requirements set forth in the Securities Exchange Act of 1934, as amended (the "Exchange Act"), and the applicable SEC rules. 
+Interested parties may communicate matters they wish to raise with the directors by writing to our Secretary at: Lightstone Real Estate Income Trust, Inc., 1985 Cedar Bridge Avenue, Suite 1, Lakewood, New Jersey 08701, Attention: Joseph Teichman. Mr. Teichman will deliver all appropriate communications to the Board of Directors no later than the next regularly scheduled meeting of the Board of Directors. 
+Audit Committee 
+The Board of Directors established an Audit Committee in December 2014. A copy of the charter of the Audit Committee is available on our website at www.lightstonecapitalmarkets.com or in print to any stockholder who requests it c/o Lightstone Real Estate Income Trust, Inc., 1985 Cedar Bridge Avenue, Suite 1, Lakewood, NJ 08701. Our Audit Committee consists of Messrs. Edwin J. Glickman and Steven Spinola. Mr. Glickman is the chairman of our audit committee. 
+The Audit Committee, in performing its duties, monitors: 
+ our financial reporting process; 
+​
+ the integrity of our financial statements; 
+​
+ compliance with legal and regulatory requirements; 
+​
+ the independence and qualifications of our independent and internal auditors, as applicable; and 
+​
+ the performance of our independent and internal auditors, as applicable. 
+​
+Each member of our Audit Committee is independent within the meaning of the applicable requirements set forth in or promulgated under the Exchange Act and within the meaning of the New York Stock Exchange ("NYSE") listing standards. In addition, the Board of Directors has determined that Mr. Glickman and Mr. Spinola are qualified as "audit committee financial experts" within the meaning of the applicable rules promulgated by the SEC. Unless otherwise determined by the Board of Directors, no member of the Audit Committee may serve as a member of the audit committee of more than two other public companies. 
+During 2017, the Audit Committee held five meetings. Each of the Audit Committee members attended all of the meetings held by the Audit Committee either in person or by telephone. The Audit Committee's report on our financial statements for the fiscal year ended December 31, 2017 is discussed below under the heading "Audit Committee Report." 
+Nominating the Board of Directors 
+The Board of Directors does not have a standing nominating committee for the purpose of nominating individuals to serve as directors. All members of our Board of Directors participate in the consideration of director nominees. The primary functions of the members of the Board of Directors relating to the consideration of director nominees is to identify individuals qualified to serve on the Board of Directors. We have not adopted a specific policy regarding the consideration of director nominees recommended to us by stockholders. 
+In determining the composition of the Board of Directors, our goals are to assemble a board that, as a whole, possesses the appropriate balance of professional and real estate industry knowledge, financial expertise and high-level management experience to bring a diverse set of skills and experiences to the board as a whole to oversee our business. The Board of Directors believes that diversity is an important attribute of the members of our Board of Directors and that the members should represent an array of backgrounds. To that end, our Board of Directors includes directors who complement and strengthen the  TABLE OF CONTENTS
+skills of other members and who also exhibit integrity, collegiality, sound business judgment and other qualities that we view as critical to effective functioning of the board. The brief biographies in "Proposal One" include information, as of the date of this proxy, regarding the specific and particular experience, qualifications, attributes or skills of each director or nominee that led the board to believe that the director should serve on the board. 
+The Board of Directors annually reviews the appropriate experience, skills and characteristics required of directors in the context of our business. This review includes, in the context of the perceived needs of the board at that time, issues of knowledge, experience, judgment and skills relating to the understanding of the real estate industry, accounting or financial expertise. The Board of Directors gives consideration to the members of the Board of Directors having a diverse mix of background and skills. This review also includes the candidate's ability to attend regular board meetings and to devote a sufficient amount of time and effort in preparation for such meetings. 
+Code of Business Conduct and Ethics 
+The Board of Directors has adopted a Code of Business Conduct and Ethics (the "Code of Ethics"), which is applicable to the directors, officers and employees of the Company and its subsidiaries and affiliates. The Code of Ethics covers topics including, but not limited to, conflicts of interest, confidentiality of information, full and fair disclosure, reporting of violations and compliance with laws and regulations. The Code of Ethics is available, free of charge, on our website at www.lightstonecapitalmarkets.com. You may also obtain a copy of the Code of Ethics by writing to: Lightstone Real Estate Income Trust, Inc., 1985 Cedar Bridge Avenue, Suite 1, Lakewood, New Jersey 08701, Attention: Joseph Teichman. A waiver of the Code of Ethics for our Chief Executive Officer may be made only by the Board of Directors and will be promptly disclosed to the extent required by law. A waiver of the Code of Ethics for all other directors, officers and employees may be made only by our Chief Executive Officer or General Counsel, and shall be discussed with the Board of Directors as appropriate. 
+Board Leadership Structure 
+As noted above, our Board of Directors currently is comprised of two independent and one affiliated directors. Mr. Lichtenstein has served as Chairman of the Board of Directors since 2014 and serves as our Chief Executive Officer. Mr. Glickman serves as the "presiding director" at any executive sessions of the independent directors, as defined under the rules of the NYSE. The Board of Directors believes that this provides an effective leadership model for the Company. 
+We recognize that different board leadership structures may be appropriate for companies in different situations, and that no one structure is suitable for all companies. We believe our current board leadership structure is optimal for us because it demonstrates to our investors and other stakeholders that the Company is under strong leadership, coordinated closely between Mr. Lichtenstein, who has over 20 years of real estate industry experience, and Mr. Glickman, who has served various public and private entities as a key executive and officer over the past 20 years. In our judgment, the Company, like many U.S. companies, has been well-served by this leadership structure. 
+Board Role in Risk Oversight 
+Our Board of Directors is actively involved in overseeing our risk management through our Audit Committee. Under its charter, our Audit Committee is responsible for discussing guidelines and policies governing the process by which our senior management and our relevant departments assess and manage our exposure to risk, as well as our major financial risk exposures and the steps management has taken to monitor and control such exposures. TABLE OF CONTENTS
+Director Independence 
+Our charter and bylaws provide for a Board of Directors with no fewer than three and no more than ten directors, a majority of whom must be independent. An "independent director" is defined under our Charter and means a person who is not, and within the last two years has not been, directly or indirectly associated with the Company, our Sponsor or our Advisor or any of their affiliates by virtue of: 
+ ownership of an interest in our Sponsor, our Advisor or any of their affiliates, other than the Company; 
+​
+ employment by the Company, our Sponsor, our Advisor or any of their affiliates; 
+​
+ service as an officer of our Sponsor, our Advisor or any of their affiliates, other than as a director of the Company; 
+​
+ performance of services, other than as a director of the Company; 
+​
+ service as a director of more than three real estate investment trusts organized or controlled by our Sponsor or advised by our Advisor; or 
+​
+ maintenance of a material business or professional relationship with our Sponsor, our Advisor or any of their affiliates. 
+​
+An independent director cannot be associated with us, our Sponsor or our Advisor as set forth above either directly or indirectly. An indirect association with our Sponsor or our Advisor includes circumstances in which a director's spouse, parent, child, sibling, mother- or father-in-law, son- or daughter-in-law or brother- or sister-in-law, is or has been associated with us, our Sponsor, our Advisor, or any of their affiliates. 
+A business or professional relationship is considered material if the aggregate gross revenue derived by the director from our Advisor or our Sponsor and their affiliates exceeds five percent of either the director's annual gross income during either of the last two years or the director's net worth on a fair market value basis. 
+The Board of Directors has considered the independence of each director and nominee for election as a director in accordance with the elements of independence set forth in the listing standards of the NYSE. Based upon information solicited from each nominee, the Board of Directors has affirmatively determined that Steven Spinola and Edwin J. Glickman have no material relationship with the Company (either directly or as a partner, stockholder or officer of an organization that has a relationship with the Company) and are "independent" within the meaning of the NYSE's director independence standards and Audit Committee independence standards, as currently in effect. TABLE OF CONTENTS​
+DIRECTOR AND EXECUTIVE COMPENSATION 
+Compensation of Our Directors 
+We have no standing compensation committee. Our entire Board of Directors determines matters relating to director and officer compensation. Our Board of Directors designs our director compensation with the goals of attracting and retaining highly qualified individuals to serve as independent directors and to fairly compensate them for their time and efforts. Because of our unique attributes as a REIT, service as an independent director on our Board of Directors requires broad expertise in the fields of real estate and real estate investment. 
+We pay our independent directors an annual fee of  $40,000 and are responsible for reimbursement of their out-of-pocket expenses, as incurred. 
+Compensation of Our Executive Officers 
+We currently have no employees. Our Advisor performs our day-to-day management functions. Our executive officers are all employees of the Advisor. Our executive officers do not receive compensation from us for services rendered to us. Our executive officers are all employees of our Advisor and are compensated by our Advisor. As a result, our Board of Directors has determined that it is not necessary to establish a compensation committee. In addition, we do not have, and the Board of Directors has not considered, a compensation policy or program for our executive officers, and we have not included a "Compensation Discussion and Analysis" in this proxy statement. See "Certain Relationships and Related Party Transactions" below for a discussion of the fees paid to and services provided by our Advisor and Property Managers. 
+Compensation Committee Interlocks and Insider Participation 
+The Board of Directors in its entirety performs the duties typically delegated to a compensation committee. There are no interlocks or insider participation as to compensation decisions required to be disclosed pursuant to SEC regulations.  TABLE OF CONTENTS​
+DIRECTORS AND EXECUTIVE OFFICERS 
+The following table presents certain information as of September 30, 2018 concerning each of our directors and officers serving in such capacity: 
+[BEGIN TABLE]
+ Name   ​ ​  Age   ​ ​  Principal Occupation and Positions Held   ​ ​  Served as a Director Since   ​ 
+David Lichtenstein  ​ ​  57   ​ ​ Chief Executive Officer and Chairman of the Board of Directors  ​ ​  2015   ​ 
+Edwin J. Glickman  ​ ​  86   ​ ​ Director  ​ ​  2015   ​ 
+Steven Spinola  ​ ​  69   ​ ​ Director  ​ ​  2015   ​ 
+Mitchell Hochberg  ​ ​  66   ​ ​ President and Chief Operating Officer  ​ ​  N/A   ​ 
+Joseph Teichman  ​ ​  45   ​ ​ General Counsel  ​ ​  N/A   ​ 
+Seth Molod  ​ ​  54   ​ ​ Chief Financial Officer and Treasurer  ​ ​  N/A  ​ 
+[END TABLE]
+David Lichtenstein — for biographical information about Mr. Lichtenstein, see "Nominees for the Board of Directors." 
+Edwin J. Glickman — for biographical information about Mr. Glickman, see "Nominees for the Board of Directors." 
+Steven Spinola — for biographical information about Mr. Spinola, see "Nominees for the Board of Directors." 
+Mitchell Hochberg is our President and Chief Operating Officer and also serves as President and Chief Operating Officer of Lightstone I, Lightstone II and Lightstone III and their respective advisors. Mr. Hochberg also serves as the President of our Sponsor and as the President and Chief Operating Officer of our Advisor. From October 2014 to the present, Mr. Hochberg has served as President of Lightstone Enterprises. Mr. Hochberg was appointed Chief Executive Officer of Behringer Harvard Opportunity REIT I, Inc. ("OP 1") and Lightstone V effective as of June 15, 2017. Prior to joining The Lightstone Group in August 2012, Mr. Hochberg served as principal of Madden Real Estate Ventures from 2007 to August 2012 when it combined with our Sponsor. Mr. Hochberg held the position of President and Chief Operating Officer of Ian Schrager Company, a developer and manager of innovative luxury hotels and residential projects in the United States from early 2006 to early 2007 and prior to that Mr. Hochberg founded Spectrum Communities, a developer of luxury neighborhoods in the northeast of the United States, in 1985 where for 20 years he served as its President and Chief Executive Officer. Additionally, Mr. Hochberg serves on the board of directors of Belmond Ltd and through October 2014 served on the board of directors and as Chairman of the board of directors of Orleans Homebuilders, Inc. Mr. Hochberg received his law degree as a Harlan Fiske Stone Scholar from Columbia University School of Law and graduated magna cum laude from New York University College of Business and Public Administration with a Bachelor of Science degree in accounting and finance. 
+Joseph E. Teichman is our General Counsel and Secretary and also serves as General Counsel and Secretary of Lightstone I, Lightstone II and Lightstone III and their respective advisors. Mr. Teichman also serves as Executive Vice President and General Counsel of our Sponsor and as General Counsel of our Advisor. From October 2014 to the present, Mr. Teichman has served as Secretary and a Director of Lightstone Enterprises. Prior to joining The Lightstone Group in January 2007, Mr. Teichman practiced law at the law firm of Paul, Weiss, Rifkind, Wharton & Garrison LLP in New York, NY from September 2001 to January 2007. Mr. Teichman earned a J.D. from the University of Pennsylvania Law School and a B.A. from Beth Medrash Govoha, Lakewood, New Jersey. Mr. Teichman is licensed to practice law in New York and New Jersey. Mr. Teichman was also a director of certain subsidiaries of Extended Stay that filed for Chapter 11 protection with Extended Stay. Extended Stay and its subsidiaries filed for bankruptcy protection on June 15, 2009 so they could reorganize their debts in the face of looming amortization payments. Extended Stay emerged from bankruptcy on October 8, 2010. Mr. Teichman is no longer affiliated with Extended Stay. Mr. Teichman is also a member of the Board of Directors of Yeshiva Orchos Chaim, Lakewood, New Jersey and was appointed to the Ocean County College Board of Trustees in February 2016.  TABLE OF CONTENTS
+Seth Molod is our Chief Financial Officer and Treasurer and also serves as the Chief Financial Officer and Treasurer of Lightstone I, Lightstone II, Lightstone III and Lightstone V. Mr. Molod also serves as the Executive Vice President and Chief Financial Officer of our Sponsor and as the Chief Financial Officer and Treasurer of our Advisor and the advisors of Lightstone I, Lightstone II, Lightstone III and Lightstone V. Prior to joining the Company in August 2018, Mr. Molod, 54, served as an Audit Partner, Chair of Real Estate Services and on the Executive Committee of Berdon LLP, a full service accounting, tax, financial and management advisory firm ("Berdon"). Mr. Molod joined Berdon in 1989. He has extensive experience advising some of the nation's most prominent real estate owners, developers, managers, and investors in both commercial and residential projects. Mr. Molod has worked with many privately held real estate companies as well as institutional investors, REITs, and other public companies. Mr. Molod is a licensed certified public accountant in New Jersey and New York and a member of the American Institute of Certified Public Accountants. Mr. Molod holds a Bachelor of Business Administration degree in Accounting from Muhlenberg College. TABLE OF CONTENTS​
+STOCK OWNERSHIP BY DIRECTORS, OFFICERS AND CERTAIN STOCKHOLDERS 
+The following table presents certain information as of September 30, 2018 concerning: 
+ each person known by us to be the beneficial owner of more than 5% of our outstanding shares of Common Stock based solely upon the amounts and percentages contained in the public filings of such persons; 
+​
+ each of our directors and executive officers serving in such capacity; and 
+​
+ all of our directors and executive officers as a group: 
+​
+[BEGIN TABLE]
+ Name and Address of Beneficial Owner(1)  ​ ​  Number of Shares of Common Stock of the Company   ​ ​  Percent of All Common Shares of the Company   ​ 
+ David Lichtenstein(2)  ​ ​ ​ ​ 242,222 ​ ​ ​ ​ ​ 2.8% ​ ​ 
+ Edwin J. Glickman   ​ ​ ​ ​ — ​ ​ ​ ​ ​ — ​ ​ 
+ Steven Spinola   ​ ​ ​ ​ — ​ ​ ​ ​ ​ — ​ ​ 
+ Mitchell Hochberg   ​ ​ ​ ​ — ​ ​ ​ ​ ​ — ​ ​ 
+ Seth Molod   ​ ​ ​ ​ — ​ ​ ​ ​ ​ — ​ ​ 
+ Joseph Teichman   ​ ​ ​ ​ — ​ ​ ​ ​ ​ — ​ ​ 
+ Our directors and officers as a group (6 persons)   ​ ​ ​ ​ 242,222 ​ ​ ​ ​ ​ 2.8% ​ ​ 
+[END TABLE]
+​
+(1)
+The business address of each individual listed in the table is 1985 Cedar Bridge Avenue, Suite 1, Lakewood, New Jersey 08701. 
+​
+(2)
+Includes 20,000 shares owned by our Advisor and 222,222 shares owned by an entity 100% owned by David Lichtenstein. Our Advisor is majority owned by David Lichtenstein. The beneficial owner's business address is 1985 Cedar Bridge Avenue, Lakewood, New Jersey 08701. 
+​
+Section 16(a) Beneficial Ownership Reporting Compliance 
+Section 16(a) of the Securities Exchange Act of 1934, as amended, requires each director, officer and individual beneficially owning more than 10% of our Common Stock to file initial statements of beneficial ownership (Form 3) and statements of changes in beneficial ownership (Forms 4 and 5) of our Common Stock with the SEC. Officers, directors and greater than 10% beneficial owners are required by SEC rules to furnish us with copies of all such forms they file. Based solely on a review of the copies of such forms furnished to us during and with respect to the fiscal year ended December 31, 2017, or written representations that no additional forms were required, we believe that all of our officers and directors and persons that beneficially own more than 10% of the outstanding shares of our Common Stock complied with these filing requirements in 2017. TABLE OF CONTENTS​
+CERTAIN RELATIONSHIPS AND RELATED PARTY TRANSACTIONS 
+David Lichtenstein serves as the Chairman of our Board of Directors and our Chief Executive Officer. Our Advisor is majority owned by Mr. Lichtenstein. We entered into agreements with our Advisor and Property Managers to pay certain fees, as described below, in exchange for services performed by these and other affiliated entities. As a majority owner of those entities, Mr. Lichtenstein benefits from fees and other compensation that they receive pursuant to these agreements. 
+Advisor 
+We pay our Advisor an acquisition fee equal to 1.0% of the gross contractual purchase price (including any mortgage assumed) of each property purchased and reimburse our Advisor for expenses that it incurs in connection with the purchase of a property. We anticipate that acquisition expenses will be 0.6% of a property's purchase price, and acquisition fees and expenses are capped at 5% of the gross contract purchase price of a property. 
+Beginning on March 31, 2017, the date on which our initial public offering ended, the Advisor is paid an advisor asset management fee of one-twelfth (1/12) of 0.75% of our average invested assets and we reimburse some expenses of the Advisor relating to asset management. 
+If our Advisor provides services in connection with the financing of an asset, assumption of a loan in connection with the acquisition of an asset or origination or refinancing of any loan on an asset, we will pay our Advisor a financing coordination fee equal to 0.75% of the amount available or outstanding under such financing. 
+For substantial services in connection with the sale of a property, we will pay to our Advisor a commission in an amount equal to the lesser of  (a) one-half of a real estate commission that is reasonable, customary and competitive in light of the size, type and location of the property and (b) 2.0% of the contract sales price of the property. The commission will not exceed the lesser of 6.0% of the contract sales price or commission that is reasonable, customary and competitive in light of the size, type and location of the property. 
+We will pay our Advisor an annual subordinated performance fee calculated on the basis of our annual return to holders of our Common Shares, payable annually in arrears, such that for any year in which holders of our Common Shares receive payment of a 8.0% annual cumulative, pre-tax, non-compounded return on their respective net investments, our Advisor will be entitled to 15.0% of the amount in excess of such 8.0% per annum return, provided, that the amount paid to the Advisor will not exceed 10.0% of the aggregate return for such year, and provided, further, that the annual subordinated performance fee will not be paid unless holders of our Common Shares receive a return of their respective net investments. 
+The following table represents the fees incurred associated with the payments to the Company's Advisor for the period indicated: 
+[BEGIN TABLE]
+​ ​ ​  For the Years Ended December 31,   ​ 
+​ ​ ​  2017  ​ ​  2016   ​ 
+ Acquisition fee(1)  ​ ​ ​ $ 573,750 ​ ​ ​ ​ $       — ​ ​ 
+ Asset management fees (general and administrative costs)  ​ ​ ​ ​ 574,072 ​ ​ ​ ​ ​ — ​ ​ 
+ Total   ​ ​ ​ $ 1,147,822 ​ ​ ​ ​ $ — ​ ​ 
+[END TABLE]
+Sponsor 
+During the year ended December 31, 2016, we paid $36,298 to an affiliate of the Sponsor for the Sponsor's marketing expenses related to the offering that were recorded as a reduction to additional paid in capital. 
+On March 18, 2016, we and our Sponsor entered into a subordinated unsecured loan agreement (the "Subordinated Agreement") pursuant to which our Sponsor had committed to make a significant investment ("Subordinated Advances") in us of up to $36.0 million, which is equivalent to 12.0% of the $300.0 million maximum amount of our public offering.  TABLE OF CONTENTS
+In connection with the termination of our public offering, on March 31, 2017, we and our Sponsor terminated the Subordinated Agreement. As a result of the termination, our Sponsor is no longer obligated to make Subordinated Advances to us. Interest will continue to accrue on the aggregate Subordinated Advances and repayment, if any, of the Subordinated Advances and accrued interest will be made according to the terms of the Subordinated Agreement. 
+As of both December 31, 2017 and 2016 an aggregate of approximately $12.6 million of Subordinated Advances had been funded, which along with the related accrued interest of  $258,817 and $71,863, respectively, are classified as a liability on the consolidated balance sheet. During the years ended December 31, 2017 and 2016, the Company accrued $186,954 and $71,863, respectively, of interest on the Subordinated Advances. 
+105-109 W. 28th Street Preferred Investment 
+On November 25, 2015, we entered into an agreement (the "Moxy Transaction") with various related party entities that initially provided for us to make aggregate preferred equity contributions (the "105 – 109 W. 28th Street Preferred Investment") of up to $20.0 million in various affiliates of our Sponsor (the "Moxy Developer"), which owns a parcel of land located at 105-109 W. 28th Street, New York, New York, on which they are constructing a 343-room Marriott Moxy hotel, which is currently expected to open during the third quarter of 2018. The 105-109 W. 28th Street Preferred Investment was made pursuant to an instrument that entitles us to monthly preferred distributions at a rate of 12% per annum and we could redeem on the earlier of  (i) the date that was two years from the date of our final contribution or (ii) the third anniversary of 105-109 W. 28th Street Preferred Investment. We could also have requested redemption or a restructuring of the agreement prior to the acceptance of any construction financing. On June 30, 2016, we and the Developer amended the Moxy Transaction so that our contributions would become redeemable on the fifth anniversary of the Moxy Transaction. The 105-109 W. 28th Street Preferred Investment is classified as a held-to-maturity security and recorded at cost. 
+On August 30, 2016, we and the Developer further amended the Moxy Transaction so that our total aggregate contributions under the 105-109 W. 28th Street Preferred Investment increased by $17.0 million, or up to $37.0 million. 
+We made an initial contribution of  $4.0 million during the fourth quarter of 2015 and additional aggregate contributions of  $33.0 million during the year ended December 31, 2016. As of both December 31, 2017 and 2016, the 105-109 W. 28th Street Preferred Investment had an outstanding balance of  $37.0 million, which is classified in investment in related party on the consolidated balance sheets. We funded our contributions using proceeds generated from our Offering and draws under the Subordinated Agreement. During the years ended December 31, 2017 and 2016, we recorded $4.5 million and $1.9 million, respectively, of investment income related to the 105-109 W. 28th Street Preferred Investment. Our Advisor elected to waive the acquisition fee associated with this transaction. 
+The Cove Joint Venture 
+On September 29, 2016, we, through our wholly owned subsidiary, REIT Cove LLC ("REIT Cove") along with LSG Cove LLC ("LSG Cove"), an affiliate of our Sponsor and a related party, and Maximus Cove Investor LLC ("Maximus"), an unrelated third party (collectively, the "Buyer"), entered into an agreement of sale and purchase (the "Cove Transaction") with an unrelated third party, RP Cove, L.L.C (the "Seller"), pursuant to which the Buyer would acquire the Seller's membership interest in RP Maximus Cove, L.L.C. (the "Cove Joint Venture") for approximately $255.0 million. The Cove Joint Venture owns and operates The Cove at Tiburon ("The Cove"), a 281-unit, luxury waterfront multifamily rental property located in Tiburon, California. Prior to entering into the Cove Transaction, Maximus previously owned a separate noncontrolling interest in the Cove Joint Venture. 
+On January 31, 2017, REIT Cove entered into an Assignment and Assumption Agreement (the "Assignment") with another one of our wholly owned subsidiaries, REIT IV COVE LLC ("REIT IV Cove") and REIT III COVE LLC ("REIT III Cove"), a subsidiary of the operating partnership of  TABLE OF CONTENTS
+Lightstone Value Plus Real Estate Investment Trust III, Inc., a real estate investment trust also sponsored by our Sponsor and a related party, and together with REIT IV Cove, collectively, the "Assignees". Under the terms of the Assignment, the Assignees were assigned the rights and obligations of REIT Cove with respect to the Cove Transaction. 
+On January 31, 2017, REIT IV Cove, REIT III Cove, LSG Cove, and Maximus (the "Members") completed the Cove Transaction for aggregate consideration of approximately $255.0 million, which consisted of  $80 million of cash and $175 million of proceeds from a loan from a financial institution. We paid approximately $20.0 million for a 22.5% membership interest in the Cove Joint Venture. 
+Our ownership interest in the Cove Joint Venture is a non-managing interest. We have determined that the Cove Joint Venture is a variable interest entity ("VIE") and, because we exert significant influence over but do not control the Cove Joint Venture, we account for our ownership interest in the Cove Joint Venture in accordance with the equity method of accounting. All distributions of earnings from the Joint Venture are made on a pro rata basis in proportion to each Member's equity interest percentage. Any distributions in excess of earnings from the Joint Venture are made to the Members pursuant to the terms of the Cove Joint Venture's operating agreement. An affiliate of Maximus is the asset manager of The Cove and receives certain fees as defined in the Property Management Agreement for the management of The Cove. We commenced recording our allocated portion of profit and cash distributions beginning as of January 31, 2017 with respect to our membership interest of 22.5% in the Cove Joint Venture. 
+In connection with the closing of the Cove Transaction, the Cove Joint Venture simultaneously entered into a $175.0 million loan (the "Loan") initially scheduled to mature on January 31, 2020 with two, one-year extension options, subject to certain conditions. The Loan requires monthly interest payments through its maturity date. The Loan bears interest at Libor plus 3.85% through its initial maturity and Libor plus 4.15% during each of the extension periods. The Loan is collateralized by The Cove and an affiliate of our Sponsor (the "Guarantor") has guaranteed the Cove Joint Venture's obligation to pay the outstanding balance of the Loan up to approximately $43.8 million (the "Loan Guarantee"). The Members have agreed to reimburse the Guarantor for any balance that may become due under the Loan Guarantee, of which our share is up to approximately $10.9 million. 
+The Cove is a multi-family complex consisting of 281-units, or 289,690 square feet, contained within 32 apartment buildings over 20.1 acres originally constructed in 1967. 
+Starting in 2013, The Cove has been undergoing an extensive refurbishment which is substantially complete. The Members have and intend to continue to use the remaining proceeds from the Loan and to invest additional capital if necessary to complete the remainder of the refurbishment. The Guarantor has provided an additional guarantee of up to approximately $13.4 million (the "Refurbishment Guarantee") to provide any necessary funds to complete the remaining renovations as defined in the Loan. The Members have agreed to reimburse the Guarantor for any balance that may become due under the Refurbishment Guarantee, of which our share is up to approximately $3.3 million. 
+40 East End Ave. Joint Venture 
+On March 31, 2017, we entered into a joint venture agreement (the "40 East End Ave. Transaction") with SAYT Master Holdco LLC, an entity majority-owned and controlled by David Lichtenstein, who also majority owns and controls our Sponsor, and a related party, (the "Seller"), pursuant to which we acquired 33.3% of the Seller's approximate 100% membership interest in 40 East End Ave. Pref Member LLC ("40 East End Ave. Joint Venture") for aggregate consideration of approximately $10.3 million. We subsequently made additional capital contributions aggregating $2.6 million to the 40 East End Ave. Joint Venture during 2017. 
+In accordance with our charter, a majority of our Board of Directors, including a majority of the our independent directors not otherwise interested in the transaction, approved the 40 East End Ave. Transaction as fair and reasonable to us and on terms and conditions not less favorable to us than those available from unaffiliated third parties. 
+Our ownership interest in the 40 East End Ave. Joint Venture is a non-managing interest. Because we exert significant influence over but do not control the 40 East End Ave. Joint Venture, we account for our ownership interest in the 40 East End Ave. Joint Venture in accordance with the equity method of  TABLE OF CONTENTS
+accounting. All contributions to and distributions of earnings from the 40 East End Ave. Joint Venture are made on a pro rata basis in proportion to each Member's equity interest percentage. Any distributions in excess of earnings from the 40 East End Ave. Joint Venture are made to the Members pursuant to the terms of its operating agreement. We commenced recording our allocated portion of earnings and cash distributions from the 40 East End Ave. Joint Venture beginning as of March 31, 2017 with respect to our membership interest of approximately 33.3% in the 40 East End Ave. Joint Venture. Additionally, Lightstone Value Plus Real Estate Investment Trust, Inc. ("Lightstone I"), a real estate investment trust also sponsored by our Sponsor, has made $30.0 million of contributions to a subsidiary of the 40 East End Ave. Joint Venture, pursuant to an instrument that entitles Lightstone I to monthly preferred distributions at a rate of 12% per annum. 
+The 40 East End Ave. Joint Venture, through affiliates, owns a parcel of land located at the corner of 81st Street and East End Avenue in the Upper East Side neighborhood of New York City on which it is constructing a luxury residential project consisting of 29 condominium units (the "40 East End Project"). As of and for the year ended December 31, 2017, the 40 East End Project was still under development, therefore, the 40 East End Ave. Joint Venture had no results of operations. 
+Review, Approval or Ratification of Transactions with Related Persons 
+Our Charter generally requires that any transactions between us and our Sponsor, our Advisor, our directors, or their affiliates must be approved by a majority of our directors (including a majority of Independent Directors) not otherwise interested in the transaction. In addition, our Board of Directors has adopted a policy relating to the review, approval and ratification of transactions with related persons. This policy applies to any transaction, the amount of which exceeds $120,000, between us and any person who is a director, executive officer or the beneficial owner of more than 5% of any class of our voting securities. Any such related person transaction is subject to approval by the Board of Directors. The Board of Directors will decide whether or not to approve a related party transaction and will generally approve only those transactions that do not create a conflict of interest. The Board of Directors (including a majority of the Independent Directors) has approved the transactions disclosed in this section titled "Certain Relationships and Related Party Transactions." TABLE OF CONTENTS​
+RELATIONSHIP WITH INDEPENDENT REGISTERED PUBLIC ACCOUNTING FIRM 
+EisnerAmper LLP audited our financial statements for the years ended December 31, 2017 and 2016. EisnerAmper LLP reports directly to our Audit Committee. The Audit Committee reviewed the audit and nonaudit services performed by EisnerAmper LLP, as well as the fees charged by EisnerAmper LLP for such services. In its review of the nonaudit service fees, the Audit Committee considered whether the provision of such services is compatible with maintaining the independence of EisnerAmper LLP. 
+One or more representatives of EisnerAmper LLP have been invited and are expected to be present at the 2018 Annual Meeting of Stockholders. They will have an opportunity to make a statement if they desire to do so and will be available to respond to appropriate questions. 
+The following table presents the aggregate fees billed to the Company for the years ended December 31, 2017 and 2016 by the Company's principal accounting firm: 
+[BEGIN TABLE]
+​ ​ ​  2017   ​ ​  2016   ​ 
+ Audit Fees(a)  ​ ​ ​ $ 89,250 ​ ​ ​ ​ $ 123,475 ​ ​ 
+ Audit-Related Fees(b)  ​ ​ ​ ​ — ​ ​ ​ ​ ​ — ​ ​ 
+ Tax Fees(c)  ​ ​ ​ ​ 18,950 ​ ​ ​ ​ ​ 10,000 ​ ​ 
+ Total Fees   ​ ​ ​ $ 108,200 ​ ​ ​ ​ $ 133,475 ​ ​ 
+[END TABLE]
+​
+(a)
+Fees for audit services consisted of the audit of the Company's annual consolidated financial statements and interim reviews, including services normally provided in connection with statutory and regulatory filings including registration statement consents. 
+​
+(b)
+Fees for audit-related services related to audits of entities that the Company has acquired. 
+​
+(c)
+Fees for tax services.
+​
+Audit Committee's Pre-Approval Policies and Procedures 
+The Audit Committee must approve any fee for services to be performed by the independent registered public accounting firm in advance of the services being performed. In considering the nature of the services provided by the independent auditor, the Audit Committee determined that such services are compatible with the provision of independent audit services. The Audit Committee discussed these services with the independent auditor and the Company's management to determine that they are permitted under the rules and regulations concerning auditor independence promulgated by the SEC to implement the related requirements of the Sarbanes-Oxley Act of 2002, as well as the American Institute of Certified Public Accountants. 
+All services rendered by EisnerAmper LLP for the years ended December 31, 2017 and 2016 were approved by the Audit Committee.  TABLE OF CONTENTS​
+AUDIT COMMITTEE REPORT
+To the Directors of Lightstone Real Estate Income Trust, Inc.: 
+We have reviewed and discussed with management Lightstone Real Estate Income Trust, Inc.'s audited consolidated financial statements as of and for the year ended December 31, 2017.
+We have discussed with the independent auditors the matters required to be discussed by Statement on Auditing Standards No. 16, "Communication with Audit Committees," as amended, as adopted by the Public Company Accounting Oversight Board.
+Based on the reviews and discussions referred to above, we recommend to the board of directors that the consolidated financial statements referred to above be included in Lightstone Real Estate Income Trust, Inc.'s Annual Report on Form 10-K for the year ended December 31, 2017. 
+Audit CommitteeSteven Spinola Edwin J. Glickman TABLE OF CONTENTS​
+INDEPENDENT DIRECTORS' REPORT 
+To the Stockholders of Lightstone Real Estate Income Trust, Inc.: 
+We have reviewed the Company's policies and determined that they are in the best interest of the Company's stockholders. Set forth below is a discussion of the basis for that determination. 
+General 
+The Company has and will continue to seek to originate, acquire and manage a diverse portfolio of real estate-related investments. The Company may invest in mezzanine loans, first lien mortgage loans, second lien mortgage loans, bridge loans and preferred equity interests, in each case with a focus on investments intended to finance development or redevelopment opportunities. The Company may also invest in debt and derivative securities related to real estate assets, such as CMBS; CDOs; debt securities issued by real estate companies; and credit default swaps. The Company expects that a majority of its investments by value will be secured by or related to properties or entities advised by, or wholly or partially, directly or indirectly, owned by, the Company's Sponsor, by its affiliates or real estate investment programs sponsored by it. Although the Company expects that most of its investments will be of these types, it may make other investments. In fact, it may invest in whatever types of real estate-related investments that it believes are in its best interests. 
+The Company has and expects to continue to focus its origination and acquisition activity on real estate-related investments secured by or related to properties located in the United States, and primarily related-party investments. The Company sometimes refers to the foregoing types of investments as its targeted investments. The Company expects to target investments that generally will offer predictable current cash flow and attractive risk-adjusted returns based on the underwriting criteria established and employed by tis advisor, which may include the anticipated leverage point, market and economic conditions, the location and quality of the underlying collateral and the borrower's exit or refinancing plan. The Company's ability to execute its investment strategy is enhanced through access to its Sponsor's extensive experience in financing real estate projects it has sponsored, as opposed to a strategy that relies solely on buying assets in the open market from third-party originators. The Company has and will continue to seek to build a portfolio that includes some of or all the following investment characteristics: (a) provides current income; (b) is secured by high-quality commercial real estate; (c) includes subordinate capital investments by strong sponsors that support its investments and provide downside protection; and (d) possesses strong structural features that maximize repayment potential, such as a clear exit or refinancing plan by the borrower. 
+The Company has and intends to continue to invest in real estate-related loans and debt securities both by directly originating them and by purchasing them from third-party sellers. Although the Company generally prefers the benefits of direct origination, situations may arise to purchase real estate-related loans and debt securities, possibly at discounts to par, which compensate for the lack of control or structural enhancements typically associated with directly structured investments. 
+Financing Policies 
+There is no limitation on the amount the Company may invest or borrow for the purchase or origination of any single property or investment. The Company's charter allows it to incur leverage up to 300% of its total "net assets" (as defined in its charter) as of the date of any borrowing, which is generally expected to be approximately 75% of the cost of its investments. The Company may only exceed this 300% limit if a majority of its independent directors approves each borrowing in excess of this limit and the Company discloses such borrowing to its stockholders in its next quarterly report along with a justification for the excess borrowing. In all events, the Company expects that its secured and unsecured borrowings will be reasonable in relation to the net value of its assets and will be reviewed by the Company's board of directors at least quarterly. 
+The Company does not currently intend to exceed the leverage limit in its charter. The Company believes that careful use of debt helps the Company to achieve its diversification goals because the Company may have more funds available for investment. However, high levels of debt could cause the Company to incur higher interest charges and higher debt service payments, which would decrease the amount of cash available for distribution to the Company's investors.  TABLE OF CONTENTS
+Policy on Sale or Disposition of Properties 
+The Company's board of directors will determine whether a particular property should be sold or otherwise disposed of after considering the relevant factors, including performance or projected performance of the property and market conditions, with a view toward achieving its principal investment objectives. 
+The Company currently intends to hold each investment it originates or acquires for an extended period of time, generally for three to five years from the termination of the Company's initial public offering, which occurred on March 31, 2017. The determination of whether an investment will be sold or otherwise disposed of will be made after consideration of relevant factors, including prevailing economic conditions, specific real estate market conditions, tax implications for the Company's stockholders and other factors. The requirements for qualification as a REIT also will put some limits on the Company's ability to sell investments after short holding periods. However, in accordance with the Company's investment objective of realizing growth in the value of its investments, the Company may sell a particular investment before or after this anticipated holding period if, in the judgment of its advisor and its board of directors, selling the investment is in the Company's best interest. The determination of when a particular investment should be sold or otherwise disposed of will be made after consideration of relevant factors, including prevailing and projected economic conditions, whether the value of the investment is anticipated to decline substantially, whether the Company could apply the proceeds from the sale of the investment to make other investments consistent with its investment objectives, whether disposition of the investment would allow the Company to increase cash flow, and whether the sale of the investment would constitute a prohibited transaction under the Code or otherwise impact the Company's status as a REIT. The Company's ability to dispose of an investment during the first few years following its acquisition is restricted to a substantial extent as a result of its REIT status. Under applicable provisions of the Code regarding prohibited transactions by REITs, a REIT that sells an asset other than foreclosure property that is deemed to be inventory or property held primarily for sale in the ordinary course of business is deemed a "dealer" and subject to a 100% penalty tax on the net income from any such transaction. As a result, the Company's board of directors will attempt to structure any disposition of the Company's investments to avoid this penalty tax through reliance on safe harbors available under the Code for assets held at least two years or through the use of a TRS. 
+When the Company determines to sell a particular investment, it will seek to achieve a selling price that maximizes the capital appreciation for investors based on then-current market conditions. The Company cannot assure its investors that this objective will be realized. 
+Independent Directors 
+Steven Spinola Edwin J. Glickman TABLE OF CONTENTS​​
+OTHER MATTERS PRESENTED FOR ACTION AT THE 2018 ANNUAL MEETING OF STOCKHOLDERS 
+Our Board of Directors does not intend to present for consideration at the 2018 Annual Meeting of stockholders any matter other than those specifically set forth in the Notice of Annual Meeting of Stockholders. If any other matter is properly presented for consideration at the meeting, the persons named in the proxy will vote thereon pursuant to the discretionary authority conferred by the proxy. 
+STOCKHOLDER PROPOSALS FOR THE 2019 ANNUAL MEETING 
+Stockholder Proposals in the Proxy Statement 
+Rule 14a-8 under the Exchange Act addresses when a company must include a stockholder's proposal in its proxy statement and identify the proposal in its form of proxy when the company holds an annual or special meeting of stockholders. Under Rule 14a-8, in order for a stockholder proposal to be considered or inclusion in the proxy statement and proxy card relating to our 2019 Annual Meeting of stockholders, the proposal must be received at our principal executive offices no later than June 12, 2019. 
+Stockholder Proposals and Nominations for Directors to Be Presented at Meetings 
+For any proposal that is not submitted for inclusion in our proxy material for the 2019 Annual Meeting of stockholders but is instead sought to be presented directly at that meeting, Rule 14a-4(c) under the Exchange Act permits our management to exercise discretionary voting authority under proxies it solicits unless we receive timely notice of the proposal in accordance with the procedures set forth in our bylaws. Under our current bylaws, for a stockholder proposal to be properly submitted for presentation at our 2019 Annual Meeting of Stockholders, our Secretary must receive written notice of the proposal at our principal executive offices during the period beginning on May 10, 2019 and ending at 5:00 p.m., Eastern Daylight Time, on June 12, 2019 and must contain information specified in our bylaws, including: 
+1.
+as to each director nominee, 
+​
+ the name, age, business address, and residence address of the nominee; 
+​
+ the class, series and number of any shares of stock of the Company beneficially owned by the nominee; 
+​
+ the date such shares were acquired and the investment intent of such acquisitions; 
+​
+ all other information relating to the nominee that is required under Regulation 14A under the Exchange Act to be disclosed in solicitations of proxies for election of directors in an election contest (even if an election contest is not involved) or is otherwise required; and 
+​
+2.
+as to any other business that the stockholder proposes to bring before the meeting, 
+​
+ a description of the business to be brought before the meeting; 
+​
+ the reasons for proposing such business at the meeting; 
+​
+ any material interest in such business that the proposing stockholder (and certain persons, which we refer to as "Stockholder Associated Persons" (as defined below), if any) may have, including any anticipated benefit to the proposing stockholder (and the Stockholder Associated Persons, if any); and 
+​
+3.
+as to the proposing stockholder (and the Stockholder Associated Persons, if any), 
+​
+ the class, series and number of all shares of stock of the Company owned by the proposing stockholder (and the Stockholder Associated Persons, if any), and the nominee holder for, and number of, shares owned beneficially but not of record by the proposing stockholder (and the Stockholder Associated Persons, if any); and
+​
+​ TABLE OF CONTENTS
+4.
+as to the proposing stockholder (and the Stockholder Associated Persons, if any) covered by clauses (2) or (3) above, 
+​
+ the name and address of the proposing stockholder (and the Stockholder Associated Persons, if any) as they appear on the Company's stock ledger, and current name and address, if different; and 
+​
+5.
+to the extent known by the proposing stockholder, the name and address of any other stockholder supporting the director nominee or the proposal of other business on the date of the proposing stockholder's notice. 
+​
+A "Stockholder Associated Person" means (i) any person controlling, directly or indirectly, or acting in concert with, the proposing stockholder, (ii) any beneficial owner of shares of stock of the Company owned by the proposing stockholder and (iii) any person controlling, controlled by or under common control with the Stockholder Associated Person. 
+All nominations must also comply with the Charter. All proposals should be sent via registered, certified or express mail to our Secretary at our principal executive offices at: Lightstone Real Estate Income Trust, Inc., 1985 Cedar Bridge Avenue, Suite 1, Lakewood, New Jersey 08701, Attention: Joseph Teichman (888) 808-7348. 
+By Order of the Board of Directors,  /s/ Joseph Teichman
+​
+Joseph Teichman General Counsel and Secretary  Lakewood, New Jersey October 23, 2018  TABLE OF CONTENTS
+EVERY STOCKHOLDER'S VOTE IS IMPORTANT EASY VOTING OPTIONS: Please detach at perfo ration before mailing. PROXY LIGHTSTONE REAL ESTATE INCOME TRUST, INC. Proxy Solicited on Behalf of the Board of Directors The undersigned stockholder of Lightstone Real Estate Income Trust, Inc., a Maryland corporation (the "Company"), revoking any proxy heretofore given for the Meeting of the Stockholders described below, hereby appoints Joseph Teichman, as proxy, with full powers of substitution, to attend the Annual Meeting of Stockholders of the Company, to be held at 460 Park Avenue, 13th Floor, New York, New York 10022 at 9:30 a.m. eastern time on December 13, 2018 and any adjournment or postponement thereof, and to cast on behalf of the undersigned all votes that the undersigned is entitled to cast at such meeting and otherwise to represent the undersigned at the meeting with all powers possessed by the undersigned as if personally present at the meeting. The votes entitled to be cast by the undersigned will be cast as instructed below. IF THIS PROXY IS DULY EXECUTED AND RETURNED, AND NO VOTING DIRECTIONS ARE GIVEN HEREIN, THE VOTES ENTITLED TO BE CAST BY THE UNDERSIGNED WILL BE CAST "FOR" EACH OF THE NOMINEES FOR DIRECTOR. The votes entitled to be cast by the undersigned will be cast in the discretion of the Proxy holder on any other matter that may properly come before the meeting or any adjournment or postponement thereof. The undersigned hereby acknowledges receipt of notice of, and the proxy statement for, the aforesaid Annual Meeting, the terms of which are incorporated by reference. AUTHORIZE A PROXY VIA THE INTERNET: www.proxy-direct.com AUTHORIZE A PROXY VIA TELEPHONE: 1 - 8 0 0- 337-350 3 PLEASE SIGN, DATE ON THE REVERSE SIDE AND RETURN THE PROXY PROMPTLY USING THE ENCLOSED ENVELOPE. REIT4_30273_101218 AUTHORIZE A PROXY BY PHONE Call 1-800-337-3503 Follow the recorded instructions available 24 hours AUTHORIZE A PROXY BY MAIL Vote, sign and date this Proxy Card and return in the postage-paid envelope VOTE IN PERSON Attend Stockholder Meeting 460 Park Avenue, 13th Floor New York, NY 10022 on December 13, 2018 AUTHORIZE A PROXY ON THE INTERNET Log on to: www.proxy-direct.com or scan the QR code Follow the on-screen instructions available 24 hours
+TABLE OF CONTENTS
+FOR WITHHOLD FOR ALL ALL ALL EXCEPT + EVERY STOCKHOLDER'S VOTE IS IMPORTANT Important Notice Regarding the Availability of Proxy Materials for the Lightstone Stockholder Meeting to Be Held on December 13, 2018. The Proxy Statement for this meeting is available at: https://www.proxy-direct.com/lig-30273 PLEASE SIGN, DATE AND RETURN YOUR PROXY TODAY Please detach at perforation before mailing. TO VOTE MARK BLOCKS BELOW IN BLUE OR BLACK INK AS SHOWN IN THIS EXAMPLE: X A Proposal THE BOARD OF DIRECTORS RECOMMENDS A VOTE "FOR" THE PROPOSAL. 1. For each of the following nominees for director to serve until the 2019 annual meeting and until their successors are elected and qualify. 01. David W. Lichtenstein 02. Edwin J. Glickman 03. Steven Spinola INSTRUCTIONS: To withhold authority to vote for any individual nominee(s), mark the box "FOR ALL EXCEPT" and write the nominee's number on the line provided below. To vote and otherwise represent the undersigned on any other matter that may properly come before the meeting or any adjournment or postponement thereof in the discretion of the Proxy Holder. B Authorized Signatures This section must be completed for your vote to be counted. Sign and Date Below Note: Please sign exactly as your name(s) appear(s) on this proxy card, and date it. When shares are held jointly, each holder should sign. When signing as attorney, executor, guardian, administrator, trustee, officer of corporation or other entity or in another representative capacity, please give the full title under the signature. Date (mm/dd/yyyy) Please print date below Signature 1 Please keep signature within the box Signature 2 Please keep signature within the box Scanner bar code xxxxxxxxxxxxxx REIT4 30273 M xxxxxxxx / /

@@ -1,0 +1,760 @@
+ 
+SCHEDULE 14A 
+(Rule 14a-101) 
+INFORMATION REQUIRED IN PROXY STATEMENT 
+SCHEDULE 14A INFORMATION 
+Proxy Statement Pursuant to Section 14(a) of the 
+Securities Exchange Act of 1934 (Amendment No.         ) 
+Filed by the Registrant  ☒                             Filed by a Party other than the Registrant  ☐
+Check the appropriate box 
+COGNEX CORPORATION 
+(Name of Registrant as Specified In Its Charter) 
+(Name of Person(s) Filing Proxy Statement, if other than the Registrant) 
+Payment of Filing Fee (Check the appropriate box): 
+[BEGIN TABLE]
+   1    Title of each class of securities to which transaction applies:         
+   1    Title of each class of securities to which transaction applies:         
+   1    Title of each class of securities to which transaction applies:         
+   2    Aggregate number of securities to which transaction applies:         
+   2    Aggregate number of securities to which transaction applies:         
+   2    Aggregate number of securities to which transaction applies:         
+   3    Per unit price or other underlying value of transaction computed pursuant to Exchange Act Rule 0-11 (Set forth the amount on which the filing  fee is calculated and state how it was determined):         
+   3    Per unit price or other underlying value of transaction computed pursuant to Exchange Act Rule 0-11 (Set forth the amount on which the filing  fee is calculated and state how it was determined):         
+   3    Per unit price or other underlying value of transaction computed pursuant to Exchange Act Rule 0-11 (Set forth the amount on which the filing  fee is calculated and state how it was determined):         
+   4    Proposed maximum aggregate value of transaction:         
+   4    Proposed maximum aggregate value of transaction:         
+   4    Proposed maximum aggregate value of transaction:         
+   5    Total fee paid:         
+   5    Total fee paid:         
+   5    Total fee paid:         
+   1    Amount Previously Paid:         
+   1    Amount Previously Paid:         
+   1    Amount Previously Paid:         
+   2    Form, Schedule or Registration Statement No.:         
+   2    Form, Schedule or Registration Statement No.:         
+   2    Form, Schedule or Registration Statement No.:         
+   3    Filing Party:         
+   3    Filing Party:         
+   3    Filing Party:         
+   4    Date Filed:         
+   4    Date Filed:         
+   4    Date Filed:         
+[END TABLE]
+COGNEX CORPORATION 
+NOTICE OF ANNUAL MEETING OF SHAREHOLDERS 
+To Be Held on April 25, 2019 
+To our Shareholders: 
+The 2019 Annual Meeting of Shareholders of COGNEX CORPORATION will be held at 9:00 a.m. local time on Thursday, April 25, 2019, at Cognex's headquarters at One Vision Drive, Natick, Massachusetts 01760, for the following purposes: 
+[BEGIN TABLE]
+1.  To elect three Directors to serve for a term of three years;  
+[END TABLE]
+[BEGIN TABLE]
+2.  To ratify the selection of Grant Thornton LLP as our independent registered public accounting firm for fiscal  year 2019; and  
+[END TABLE]
+[BEGIN TABLE]
+3.  To cast a non-binding advisory vote to approve executive compensation ("say-on-pay").  
+[END TABLE]
+In addition, we will consider any other business that may properly come before the meeting or any adjournments or postponements of the meeting. 
+The Board of Directors has fixed the close of business on March 6, 2019 as the record date for the meeting. All shareholders of record on that date are entitled to receive notice of and to vote at the meeting. 
+YOUR VOTE IS IMPORTANT. WHETHER OR NOT YOU PLAN TO ATTEND THE MEETING, PLEASE VOTE YOUR SHARES BY TELEPHONE, VIA THE INTERNET, OR BY COMPLETING AND RETURNING A PROXY CARD. IF YOU ATTEND THE MEETING, YOU MAY CONTINUE TO HAVE YOUR SHARES VOTED AS INSTRUCTED IN THE PROXY OR YOU MAY WITHDRAW YOUR PROXY AT THE MEETING AND VOTE YOUR SHARES IN PERSON. 
+[BEGIN TABLE]
+ By Order of the Board of Directors, 
+ Richard A. Morin, Secretary 
+[END TABLE]
+Natick, Massachusetts 
+March 13, 2019 
+Important 
+Please note that due to security procedures, you may be required to show a form of picture identification to gain access to our headquarters. Please contact the Cognex Department of Investor Relations at (508) 650-3000 if you plan to attend the meeting. 
+TABLE OF CONTENTS 
+[BEGIN TABLE]
+ Information about the Meeting and Voting Procedures      1   
+   General      1   
+   Voting Rights and Quorum      1   
+   Treatment of Abstentions and Broker Non-Votes      1   
+   Voting Your Shares      2   
+   Expense of Solicitation      2   
+   How to Obtain an Annual Report on Form 10-K      2   
+   Householding of Annual Meeting Materials      2   
+   Investor Contact      3   
+ Stock Ownership      4   
+   Security Ownership of Certain Beneficial  Owners      4   
+   Security Ownership of Directors and Executive  Officers      5   
+ Section 16(a) Beneficial Ownership Reporting Compliance      6   
+ Corporate Governance      7   
+   Code of Business Conduct and Ethics      7   
+   Director Independence      7   
+   Board Leadership Structure      7   
+   The Boards Role in Risk Oversight      7   
+   Policy on Pledging, Hedging and Trading of Cognex Stock        8   
+   Communications to Directors      8   
+   Board Meetings, Committees and Attendance      8   
+   Compensation/Stock Option Committee Interlocks and Insider   Participation      11   
+   Certain Relationships and Related  Transactions      11   
+   Director Nominees      11   
+ Proposal 1: Election of Directors      14   
+   Recommendation      14   
+   Information Regarding Directors      14   
+ Director Compensation      17   
+   Director Compensation Table      17   
+   Elements of Director Compensation      18   
+ Compensation Policies and Procedures      19   
+ Compensation Discussion and Analysis      21   
+   Executive Summary      21   
+   Say-on-Pay Feedback from Shareholders      21   
+   2018 Business Results      21   
+   Compensation Program Highlights      22   
+ Compensation/Stock Option Committee Report      27   
+ Executive Officers      28   
+ Executive Compensation      29   
+   Summary Compensation Table      29   
+   Grants of Plan-Based Awards Table      30   
+[END TABLE]
+[BEGIN TABLE]
+   Discussion of Summary Compensation and Grants of Plan-Based   Awards Tables      30   
+   Option Exercises and Stock Vested Table      31   
+   Table of Outstanding Equity Awards at Fiscal Year-End      32   
+ Employment Agreement with Robert J. Willett      33   
+ Potential Payments Upon Termination or Change of Control      33   
+ CEO Pay Ratio      34   
+ Proposal 2: Ratification of Selection of Independent Registered Public Accounting   Firm      36   
+   Recommendation      36   
+   Fees Paid to Independent Registered Public Accounting Firm   and Other Matters      36   
+ Proposal 3: Executive Compensation ("say-on-pay")      38   
+   Recommendation      38   
+ Report of The Audit Committee      39   
+ Shareholder Proposals      40   
+ Other Matters      40   
+[END TABLE]
+COGNEX CORPORATION 
+PROXY STATEMENT 
+INFORMATION ABOUT THE MEETING AND VOTING PROCEDURES 
+General 
+This proxy statement is being furnished to you in connection with the solicitation of proxies by the Board of Directors of Cognex Corporation ("Cognex" or the "company") for use at the 2019 Annual Meeting of Shareholders to be held at 9:00 a.m. local time on Thursday, April 25, 2019, at our headquarters at One Vision Drive, Natick, Massachusetts 01760, and at any adjournments or postponements of that meeting. Our telephone number is (508) 650-3000. At this meeting, shareholders will consider and vote on the following proposals: 
+[BEGIN TABLE]
+1.  To elect three Directors to serve for a term of three years;  
+[END TABLE]
+[BEGIN TABLE]
+2.  To ratify the selection of Grant Thornton LLP as our independent registered public accounting firm for fiscal  year 2019; and  
+[END TABLE]
+[BEGIN TABLE]
+3.  To cast a non-binding advisory vote to approve executive compensation ("say-on-pay").  
+[END TABLE]
+The Board of Directors recommends you vote your shares "FOR" each proposal. The Board knows of no other matters to be presented at this meeting. 
+This proxy statement is first being made available to our shareholders on or about March 13, 2019. 
+Voting Rights and Quorum 
+Shareholders of record at the close of business on March 6, 2019 (the "Record Date") are entitled to receive notice of and to vote at the meeting. As of the close of business on the Record Date, there were 171,361,704 shares of our common stock outstanding and entitled to vote. Each outstanding share of our common stock entitles the record holder to one vote. Our common stock is listed and trades on the NASDAQ Global Select Market. 
+The holders of a majority of our common stock outstanding on the Record Date are required to be present in person or be represented by proxy at the meeting to constitute a quorum for the transaction of business. Following the determination of a quorum, the vote required for approval of the matters to be considered at the meeting is as follows: 
+[BEGIN TABLE]
+• Nominees for Director will be elected if the votes cast for such nominee's election exceed the votes cast  against such nominee's election. An incumbent director who does not receive more votes "for" than "against" his or her election will promptly offer to tender his or her resignation. The resignation would be considered by the  Nominating and Corporate Governance Committee and acted upon by our Board of Directors (without participation by the incumbent Director who tendered his or her resignation) within 90 days of the election. Thereafter, the Board will promptly disclose  its decision whether to accept the Director's resignation in a Current Report on Form 8-K furnished to the U.S. Securities and Exchange Commission (the "SEC").  
+[END TABLE]
+[BEGIN TABLE]
+• Other matters presented at the meeting require the affirmative vote of a majority of votes cast on the matter.   
+[END TABLE]
+Treatment of Abstentions and Broker Non-Votes 
+We will count both abstentions and broker "non-votes" as present for the purpose of determining the existence of a quorum for the transaction of business. A broker "non-vote" refers to shares held by a broker or   nominee that does not have the authority, either express or discretionary, to vote on a particular matter. For the purpose of determining the number of shares voting on a particular proposal, we will not count abstentions and broker "non-votes" as votes cast or shares voting. As a result, abstentions and broker non-votes, if any, will have no effect on the voting for Director elections, the ratification of the selection of our independent registered public accounting firm or the non-binding advisory proposal regarding executive compensation. 
+Voting Your Shares 
+If you received a paper copy of the proxy materials, you may vote your shares by submitting the proxy card accompanying the material for use at the meeting. Please complete, date, sign and submit the proxy card as instructed on the card. You may also vote your shares by telephone or via the Internet by following the instructions included on the proxy card or on the Notice of Internet Availability of Proxy Materials. The Internet and telephone voting facilities for shareholders of record will close at 1:00 a.m. Eastern time on April 25, 2019. 
+The Board recommends an affirmative vote on all proposals described in the notice for the meeting. Proxies will be voted as specified. If your proxy is properly submitted, it will be voted in the manner that you direct. If you do not specify instructions with respect to any particular matter to be acted upon at the meeting, proxies will be voted in favor of the Board of Directors' recommendations as set forth in this proxy statement. 
+You may revoke your proxy at any time before your proxy is voted at the meeting by: 
+[BEGIN TABLE]
+• Giving written notice of revocation of your proxy to the Secretary of Cognex;  
+[END TABLE]
+[BEGIN TABLE]
+• Completing and submitting a new proxy card relating to the same shares and bearing a later date;   
+[END TABLE]
+[BEGIN TABLE]
+• Properly casting a new vote through the Internet or by telephone at any time before the closure of the Internet  or telephone voting facilities; or  
+[END TABLE]
+[BEGIN TABLE]
+• Voting in person at the meeting, although meeting attendance will not, by itself, revoke a proxy.   
+[END TABLE]
+Expense of Solicitation 
+The cost of this solicitation will be borne by Cognex. It is expected that the solicitation will be made primarily by delivery of these materials, but regular employees or representatives of Cognex (none of whom will receive any extra compensation for their activities) may also solicit proxies by telephone, email, fax and in person and arrange for brokerage houses and other custodians, nominees and fiduciaries to send proxy materials to their principals at our expense. 
+How to Obtain an Annual Report on Form 10-K 
+Our Annual Report on Form 10-K, including the financial statements and schedules to such report, required to be filed with the SEC for our most recent fiscal year is available on our website at www.cognex.com under "Company— Investor Information—Financial Information—SEC Filings." Shareholders can send a written request to Investor Relations at Cognex Corporation, One Vision Drive, Natick, Massachusetts 01760 or by email at IR@cognex.com and we will provide a printed copy to such person without charge. 
+Householding of Annual Meeting Materials 
+Some banks, brokers and other nominee record holders may send only one copy of our proxy statement and annual report to multiple shareholders in the same household unless contrary instructions were received. To   obtain a copy of either document, please contact Cognex Investor Relations at the mailing address or email address noted above. To receive a copy of either document in the future, or if you are receiving multiple copies and want to receive only one copy per household, you should contact your bank, broker, or other nominee record holder, or you may contact us at the above mailing or email address. 
+Investor Contact 
+If you have any questions about the meeting or your ownership of our common stock, please contact Cognex Investor Relations at the above mailing or email address.  STOCK OWNERSHIP 
+Security Ownership of Certain Beneficial Owners 
+The following table shows as of the Record Date, any person who is known by us to be the beneficial owner of more than five percent of our common stock. For purposes of this proxy statement, beneficial ownership is defined in accordance with Rule 13d-3 under the Securities Exchange Act of 1934, as amended (the "Exchange Act"). Accordingly, a beneficial owner of a security includes any person who, directly or indirectly, through any contract, agreement, understanding, relationship or otherwise has or shares the power to vote such security or to dispose of such security. 
+[BEGIN TABLE]
+ Name and Address of Beneficial Owner    Amount and Nature of Beneficial Ownership of Common Stock     Percent of Class(1)   
+ BlackRock, Inc. 55 East 52nd Street New York, NY 10055      17,571,440 (2)      10.3%  
+ The Vanguard Group, Inc. 100 Vanguard Blvd. Malvern, PA 19355      15,067,954 (3)      8.8%  
+ Brown Capital Management, LLC 1201 N. Calvert Street Baltimore, MD 21202      9,824,183 (4)      5.7%  
+ The Bank of New York Mellon Corporation 240 Greenwich Street New York, NY 10286      8,789,118 (5)      5.1%  
+[END TABLE]
+[BEGIN TABLE]
+(1)  Percentages are calculated on the basis of 171,361,704 shares of our common stock outstanding as of  March 6, 2019.  
+(2)  Information regarding BlackRock, Inc. is based solely upon a Schedule 13G filed by BlackRock with the SEC  on January 24, 2019, which indicates that BlackRock held sole voting power over 16,497,693 shares and sole dispositive power over 17,571,440 shares.  
+(3)  Information regarding The Vanguard Group, Inc. is based solely upon a Schedule 13G filed by The Vanguard Group  with the SEC on February 11, 2019, which indicates that The Vanguard Group held sole voting power over 126,465 shares, shared voting power over 39,329 shares, sole dispositive power over 14,908,560 shares and shared dispositive power over  159,394 shares. Per the Schedule 13G, Vanguard Fiduciary Trust Company, a wholly-owned subsidiary of The Vanguard Group, Inc., is the beneficial owner of 76,065 shares as a result of its serving as investment manager of collective trust accounts.  Also, Vanguard Investments Australia, Ltd., a wholly-owned subsidiary of The Vanguard Group, Inc., is the beneficial owner of 133,729 shares as a result of its serving as investment manager of Australian investment offerings.  
+(4)  Information regarding Brown Capital Management, LLC is based solely upon a Schedule 13G filed by Brown Capital  Management with the SEC on February 14, 2019, which indicates that Brown Capital Management held sole voting power over 6,418,642 shares and sole dispositive power over 9,824,183 shares.  
+(5)  Information regarding The Bank of New York Mellon Corporation is based solely upon a Schedule 13G filed by The  Bank of New York Mellon Corporation with the SEC on February 4, 2019, which indicates that The Bank of New York Mellon Corporation held sole voting power over 7,506,322 shares, sole dispositive power over 7,506,252 shares and shared dispositive  power over 1,280,766 shares.  
+[END TABLE]
+ Security Ownership of Directors and Executive Officers 
+The following information is furnished as of the Record Date, with respect to our common stock beneficially owned within the meaning of Rule 13d-3 of the Exchange Act by each of our Directors, each Director nominee, each of the "named executive officers" (as defined in Item 402(a)(3) of Regulation S-K) and by all of our Directors and executive officers as a group. Unless otherwise indicated, the individuals named held sole voting and investment power over the shares listed below. The address for each individual is c/o Cognex Corporation, One Vision Drive, Natick, Massachusetts 01760. 
+[BEGIN TABLE]
+ Name    Amount and Nature of Beneficial Ownership of Common Stock(1)     Percent of Class(2)   
+ Robert J. Shillman      7,660,800 (3)      4.5%  
+ Robert J. Willett      903,000          *  
+ Anthony Sun      531,362          *  
+ Theodor Krantz      167,600          *  
+ Patrick A. Alias      137,250          *  
+ Sheila M. DiPalma      107,500          *  
+ John J. Curran      60,000          *  
+ Eugene Banucci      49,600          *  
+ Dianne M. Parrotte      30,600          *  
+ Jerry A. Schneider      17,600          *  
+ All Directors and Executive Officers as a group (10 persons)      9,665,312 (4)      5.6%  
+[END TABLE]
+[BEGIN TABLE]
+*  Less than 1%  
+(1)  Includes the following shares which the specified individual has the right to acquire upon the exercise of  outstanding options, exercisable currently or within 60 days of March 6, 2019: Dr. Shillman, 0 shares; Mr. Willett, 903,000 shares; Mr. Sun, 207,100 shares; Mr. Krantz, 132,100 shares; Mr. Alias, 137,250 shares;  Ms. DiPalma, 107,500 shares; Dr. Banucci, 19,100 shares; Dr. Parrotte, 10,000 shares; Mr. Schneider, 15,600 shares; and Mr. Curran, 60,000 shares.  
+(2)  Percentages are calculated on the basis of 171,361,704 shares of our common stock outstanding as of  March 6, 2019. The total number of shares outstanding used in this calculation also assumes that the currently exercisable options or options which become exercisable within 60 days of March 6, 2019 held by the specified person are  exercised but does not include the number of shares of our common stock underlying options held by any other person.  
+(3)  Includes 7,660,800 shares held in a trust with respect to which Dr. Shillman serves as trustee.   
+(4)  Includes 1,591,650 shares which certain Directors and executive officers have the right to acquire upon the  exercise of outstanding options, exercisable currently or within 60 days of March 6, 2019.  
+[END TABLE]
+ SECTION 16(a) BENEFICIAL OWNERSHIP REPORTING COMPLIANCE 
+Section 16(a) of the Exchange Act requires our executive officers and Directors and persons owning more than 10% of our outstanding common stock to file reports of ownership and changes in ownership with the SEC. Our executive officers, Directors and greater than 10% holders of our common stock are required by SEC regulations to furnish us with copies of all forms they file with the SEC under Section 16(a). 
+Based solely on copies of such forms furnished to us as provided above, we believe that during fiscal year 2018, our executive officers, Directors and owners of greater than 10% of our common stock complied with the applicable Section 16(a) filing requirements.  CORPORATE GOVERNANCE 
+Code of Business Conduct and Ethics 
+We have a Code of Business Conduct and Ethics that applies to our Board of Directors and our employees, including our named executive officers. Pre-dating this code are our company's ten corporate values, which include "integrity" and are the basis for ensuring that we maintain the highest ethical standards in all that we do. Copies of our company's Code of Business Conduct and Ethics and ten corporate values are available on our website at www.cognex.com under "Company—Investor Information—Governance." We intend to disclose on our website any amendment to, or waiver of, any provision of this code applicable to our directors and named executive officers that would otherwise be required to be disclosed under the rules of the SEC or The NASDAQ Stock Market LLC ("Nasdaq"). 
+Director Independence 
+Our Board of Directors has determined that all of the Director nominees and incumbent Directors are "independent" as such term is defined in the applicable listing standards of Nasdaq, except for Robert J. Shillman and Robert J. Willett, who are executive officers of Cognex, and Patrick A. Alias, who is a non-executive employee of Cognex. 
+Board Leadership Structure 
+The positions of Chief Executive Officer and Chairman of the Board of Directors were separated in March 2011. At that time, Mr. Willett was promoted to become our Chief Executive Officer. Dr. Shillman retained his position as Chairman of the Board of Directors. 
+Because Dr. Shillman continues to serve as an executive officer of Cognex, our Board has appointed Anthony Sun to serve in the role of Lead Independent Director. As Lead Independent Director, Mr. Sun presides at all meetings of our Board of Directors at which the Chairman is not present, and Mr. Sun chairs the executive sessions of independent Directors, who regularly meet in executive sessions at which only independent Directors are present. Mr. Sun may also provide input regarding meeting agendas and bear such further responsibilities as our Board may designate from time to time. 
+Our Board believes this leadership structure promotes unified leadership and direction for the Board and management that, together with having a Lead Independent Director, assists the Board in the administration of its risk oversight responsibilities. 
+The Board's Role in Risk Oversight 
+The role of our Board of Directors in our company's risk oversight process includes receiving regular reports from management on areas of material risk to our company, including operational, financial, legal and regulatory, as well as strategic and reputational risks. The full Board (or the appropriate committee in the case of risks that are under the purview of a particular committee) receives these reports from the appropriate "risk owner" within our company so that it can understand our risk identification, risk management and risk mitigation strategies. When a committee receives the report, the Chairman of the relevant committee reports on the discussion to the full Board. This enables the Board and its committees to coordinate the risk oversight role. Our Board of Directors also administers its risk oversight function through the required approval by the Board (or a committee of the Board) of significant transactions and other material decisions, and regular periodic reports   from our company's independent registered public accounting firm and other outside consultants regarding various areas of potential risk, including, among others, those relating to our cybersecurity, internal controls and financial reporting. As part of its charter, the Audit Committee discusses with management and our independent registered public accounting firm significant risks and exposures and the steps management has taken to minimize those risks. 
+On December 4, 2008, the Board put in place a Shareholder Rights Agreement to provide our shareholders with the opportunity to benefit from the long-term prospects and value of the company and to ensure that shareholders receive fair and equal treatment in the event of any proposed takeover of the company. The Board allowed the Shareholder Rights Agreement and associated rights to expire in accordance with their terms on December 5, 2018 without renewal. 
+Policy on Pledging, Hedging and Trading of Cognex Stock 
+Our insider trading policy governs the timing and type of transactions in Cognex stock by our Board of Directors and certain Cognex employees who have regular access to material non-public information, including our executive officers. Among other provisions, the policy: 
+[BEGIN TABLE]
+• prohibits our Directors and any Cognex employee, including our executive officers, from engaging in short sales  of Cognex stock (with violators subject to immediate termination);  
+[END TABLE]
+[BEGIN TABLE]
+• prohibits our Directors and executive officers from trading in exchange-traded options for Cognex stock or any  other derivative security designed to hedge or offset risk of a decline in the market value of Cognex stock; and  
+[END TABLE]
+[BEGIN TABLE]
+• prohibits our Directors and executive officers from pledging Cognex stock as collateral for a loan without the  approval of the Compensation/Stock Option Committee of the Board of Directors.  
+[END TABLE]
+Communications to Directors 
+Shareholders who wish to communicate with our Board of Directors or with a particular Director may send a letter to the Secretary of Cognex Corporation at One Vision Drive, Natick, Massachusetts 01760. The mailing envelope should contain a clear notation indicating that the enclosed letter is a "Shareholder-Board Communication" or "Shareholder-Director Communication." The letter should clearly state whether the intended recipients are all members of our Board or certain specified individual Directors. The Secretary will make copies of all letters and circulate them to the appropriate Director(s). 
+Board Meetings, Committees and Attendance 
+Our Board of Directors held nine meetings during 2018. During 2018, each Director attended at least 75% of the total number of meetings of the Board of Directors and meetings of the committees of which such Director was a member. Our Directors are strongly encouraged to attend the annual meeting of shareholders or the special meeting in lieu of the annual meeting; however, we do not have a formal policy with respect to attendance at that meeting. All of our Directors attended the 2018 Annual Meeting of Shareholders held on April 25, 2018. 
+The Board has three standing committees: The Compensation/Stock Option Committee, the Audit Committee and the Nominating and Corporate Governance Committee. Each committee acts according to a written charter approved by the Board. The charters are available on our website at www.cognex.com under "Company—Investor Information—Governance." Each Director who served on a Board committee during 2018   was "independent" as such term is defined in the applicable listing standards of Nasdaq and SEC rules. The agenda for committee meetings is determined by its Chairman in consultation with the other members of the committee and management. The Chairman reports the actions and determinations of the committee to the full Board on a regular basis. 
+The following table provides current committee membership information for each of the Board committees: 
+[BEGIN TABLE]
+ Name    Compensation/ Stock Option      Audit      Nominating and Corporate Governance   
+ Eugene Banucci            X        *   
+ Theodor Krantz      X        *         
+ Dianne M. Parrotte      X               
+ Jerry A. Schneider            X        X   
+ Anthony Sun      *              X   
+[END TABLE]
+[BEGIN TABLE]
+*  Committee Chairman  
+X  Committee Member  
+[END TABLE]
+During 2018, J. Bruce Robinson, who resigned from our Board of Directors effective February 23, 2018, served on the Compensation/Stock Option Committee through his resignation date. Further, Jeffrey B. Miller, whose term on the Board of Directors ended on April 25, 2018, served on the Audit and Nominating and Corporate Governance Committees through the end of his term. 
+Compensation/Stock Option Committee 
+In accordance with its written charter, the Compensation/Stock Option Committee: 
+[BEGIN TABLE]
+• Discharges the Board's responsibilities relating to the compensation of Cognex's executives, including  the determination of the compensation of our Chief Executive Officer and other executive officers;  
+[END TABLE]
+[BEGIN TABLE]
+• Oversees our overall compensation structure, policies and programs;  
+[END TABLE]
+[BEGIN TABLE]
+• Administers our stock option and other equity-based plans;  
+[END TABLE]
+[BEGIN TABLE]
+• Reviews and makes recommendations to the Board regarding the compensation of our Directors; and   
+[END TABLE]
+[BEGIN TABLE]
+• Is responsible for producing the annual report included in this proxy statement.  
+[END TABLE]
+Our Chief Executive Officer, other Cognex executives, and the Cognex Employee Services department support the Compensation/Stock Option Committee in its duties and may be delegated authority to fulfill certain administrative duties regarding Cognex's compensation programs. In addition, our Chief Executive Officer makes recommendations to the Compensation/Stock Option Committee on an annual basis regarding salary increases, potential bonuses, and stock option grants for each of our other executive officers. Our Chief Executive Officer also has been delegated the authority to approve stock options and other equity-based awards to non-executive employees of Cognex not to exceed 80,000 shares to any one individual in the aggregate per calendar year. 
+The Compensation/Stock Option Committee has sole authority under its charter to retain, approve fees for, determine the scope of the assignment of, and terminate advisors and consultants as it deems necessary to assist in the fulfillment of its responsibilities. The Compensation/Stock Option Committee typically does not retain compensation consultants, but may utilize independent third-party benchmarking surveys acquired by Cognex.  Committee meetings are regularly attended by our Chief Executive Officer, except when his compensation is being discussed, and may also include other executives at the invitation of the Committee. The Compensation/Stock Option Committee also meets in executive session as appropriate. The Compensation/Stock Option Committee met four times in 2018. 
+The full Board determines the compensation of our Directors, after considering any recommendations of the Compensation/Stock Option Committee. 
+Further information regarding the processes and procedures of the Compensation/Stock Option Committee for establishing and overseeing our executive compensation programs is provided under the heading "Compensation Discussion and Analysis." 
+Audit Committee 
+In accordance with its written charter, the Audit Committee's general responsibilities include, among other things, the following: 
+[BEGIN TABLE]
+• Being directly responsible for the appointment, compensation, retention and termination, and oversight of the  work of, Cognex's independent registered public accounting firm;  
+[END TABLE]
+[BEGIN TABLE]
+• Reviewing the qualifications, performance and independence of Cognex's independent registered public  accounting firm;  
+[END TABLE]
+[BEGIN TABLE]
+• Reviewing our audited and unaudited financial statements;  
+[END TABLE]
+[BEGIN TABLE]
+• Reviewing the adequacy and effectiveness of our internal control over financial reporting with management and our  independent registered public accounting firm;  
+[END TABLE]
+[BEGIN TABLE]
+• Reviewing and authorizing both audit and non-audit services to be  provided to Cognex by its independent registered public accounting firm and related fees;  
+[END TABLE]
+[BEGIN TABLE]
+• Reviewing and approving related party transactions; and  
+[END TABLE]
+[BEGIN TABLE]
+• To the extent deemed necessary by the Audit Committee to carry out its responsibilities, engaging independent  counsel and other advisers and determining the compensation payable to them.  
+[END TABLE]
+For 2018, among other functions, the Audit Committee reviewed with our independent registered public accounting firm the scope of the audit for the year, the results of the audit when completed and the independent registered public accounting firm's fees for services performed. The Audit Committee also appointed the independent registered public accounting firm and reviewed with management various matters related to our internal controls. The Audit Committee held five meetings during 2018. 
+The Board of Directors has determined that all members of the Audit Committee are financially literate, and that each of Messrs. Krantz and Schneider qualifies as an "audit committee financial expert" under the rules of the SEC. 
+Nominating and Corporate Governance Committee 
+The Nominating and Corporate Governance Committee is responsible for identifying individuals qualified to serve as members of the Board and recommending to the Board nominees for election as Directors at each annual meeting of shareholders and when vacancies in the Board occur for any reason. The Nominating and   Corporate Governance Committee is also responsible for developing and recommending to the Board a set of corporate governance guidelines to assist and guide the Board in the exercise of its responsibilities, periodically reviewing these guidelines and recommending changes deemed appropriate, and coordinating any evaluations of the Board and its committees. The Nominating and Corporate Governance Committee met one time during 2018. 
+In 2017, our Board amended our corporate governance guidelines to implement a policy addressing board diversity when identifying potential director nominees. The policy provides that our Nominating and Corporate Governance Committee will include women and individuals from minority groups who meet the required qualifications on the initial list of director candidates from which new board nominees are chosen. In addition, any search firm retained by the Nominating and Corporate Governance Committee will be required to abide by these guidelines. 
+In February 2019, the Nominating and Corporate Governance Committee met and recommended the Director nominees for election at the meeting. Robert J. Shillman, Anthony Sun and Robert J. Willett have been nominated for re-election to the Board. 
+Compensation/Stock Option Committee Interlocks and Insider Participation 
+During 2018, Mr. Krantz, Dr. Parotte and Mr. Sun served on the Compensation/Stock Option Committee. Mr. Robinson also served on the Compensation/Stock Option Committee during 2018 through his resignation date on February 23, 2018. No member of the Compensation/Stock Option Committee served as an officer or employee of Cognex or any of its subsidiaries, nor had any business relationship or affiliation with Cognex or any of its subsidiaries during 2018 other than his or her service as a Director. 
+Certain Relationships and Related Transactions 
+In accordance with its written charter, the Audit Committee conducts an appropriate review of all related party transactions for potential conflict of interest situations on an ongoing basis, and the approval of the Audit Committee is required for all related party transactions. Under our Code of Business Conduct and Ethics, any transaction or relationship engaged in by our employees that reasonably could be expected to give rise to a conflict of interest should be reported promptly to our Compliance Officer (currently, Mr. Curran), who may notify our Board of Directors or a committee thereof as he deems appropriate. Actual or potential conflicts of interest involving a Director or executive officer are required to be disclosed directly to the Chairman of our Board of Directors. 
+Director Nominees 
+When considering a potential candidate for membership on our Board of Directors, the Nominating and Corporate Governance Committee will consider any criteria it deems appropriate, including, among other things, the experience and qualifications of any particular candidate as well as such candidate's past or anticipated contributions to our Board and its committees. At a minimum, each nominee is expected to have high personal and professional integrity and demonstrated ability and judgment to be effective, with the other Directors and management, in collectively serving the long-term interests of our shareholders. Each nominee is expected to be personable and support our "Work Hard, Play Hard, Move Fast" culture. Further, each nominee is expected to have direct and significant experience in one or more industries or markets in which our company does, or plans to do, business, and/or significant senior-level management experience in functions or roles which are helpful to our company. This includes, for example, finance, accounting, legal, human resources, engineering, manufacturing, and sales and marketing.  In addition to the minimum qualifications set forth above, when considering potential candidates for our Board of Directors, the Nominating and Corporate Governance Committee seeks to ensure that the Board of Directors is comprised of a majority of independent Directors, that the committees of the Board are comprised entirely of independent Directors, and that at least one member of the Audit Committee qualifies as an "audit committee financial expert" under SEC rules. The Nominating and Corporate Governance Committee may also consider any other standards that it deems appropriate. 
+The Nominating and Corporate Governance Committee and our Board seek the talents and backgrounds that would be most helpful to Cognex when selecting Director nominees. In particular, the Committee, when recommending Director candidates to the full Board for nomination, may consider whether a Director candidate, if elected, assists in achieving a mix of Board members that represents a diversity of background and experience. 
+In 2017, our Board amended our corporate governance guidelines to implement a policy addressing board diversity when identifying potential director nominees. The policy provides that our Nominating and Corporate Governance Committee will include women and individuals from minority groups who meet the required qualifications on the initial list of director candidates from which new board nominees are chosen. In addition, any search firm retained by the Nominating and Corporate Governance Committee will be required to abide by these guidelines. 
+At our 2019 Annual Meeting of Shareholders, Robert J. Shillman, Anthony Sun and Robert J. Willett have been nominated for re-election to the Board. 
+In practice, the Nominating and Corporate Governance Committee generally will evaluate and consider all candidates recommended by our Directors, officers and shareholders. The Nominating and Corporate Governance Committee intends to consider shareholder recommendations for Directors using the same criteria as potential nominees recommended by the members of the Nominating and Corporate Governance Committee or others. The Nominating and Corporate Governance Committee did not receive any shareholder nominations for Director with respect to this meeting. 
+Shareholders who wish to submit Director candidates for consideration as nominees for election at our 2020 Annual Meeting of Shareholders should send such recommendations to the Secretary of Cognex Corporation at our executive offices on or before November 14, 2019. These recommendations must include: 
+[BEGIN TABLE]
+• the name and address of record of the shareholder;  
+[END TABLE]
+[BEGIN TABLE]
+• a representation that the shareholder is a record holder of our common stock, or if the shareholder is not a  record holder, evidence of ownership in accordance with Rule 14a-8(b)(2) of the Exchange Act;  
+[END TABLE]
+[BEGIN TABLE]
+• the name, age, business and residential address, educational background, current principal occupation or  employment, and principal occupation or employment for the preceding ten full fiscal years of the proposed Director candidate;  
+[END TABLE]
+[BEGIN TABLE]
+• a description of the qualifications and background of the proposed Director candidate which addresses the minimum  qualifications described above and any other criteria for Board membership approved by the Board from time to time;  
+[END TABLE]
+[BEGIN TABLE]
+• a description of all arrangements or understandings between the shareholder and the proposed Director candidate;  and  
+[END TABLE]
+[BEGIN TABLE]
+• the consent of the proposed Director candidate to be named in the proxy statement, to serve as a Director if  elected at such meeting, and to give our company the authority to carry out a detailed and thorough investigation of his/her educational, professional, financial and personal history.  
+[END TABLE]
+ Shareholders must also submit any other information regarding the proposed Director candidate that is required to be included in a proxy statement filed pursuant to SEC rules. See also the information under the heading "Shareholder Proposals."  PROPOSAL 1: ELECTION OF DIRECTORS 
+Our Board of Directors currently consists of eight Directors and is divided into three classes, with one class being elected each year for a term of three years. We are proposing that Robert J. Shillman, Anthony Sun and Robert J. Willett be elected to serve terms expiring at the 2022 Annual Meeting of Shareholders and in each case until a successor is duly elected and qualified or until sooner death, resignation or removal. 
+Biographical information including the key attributes and skills these director nominees bring to our Board are set forth below. 
+Recommendation 
+OUR BOARD OF DIRECTORS RECOMMENDS A VOTE "FOR" THE ELECTION OF ROBERT J. SHILLMAN, ANTHONY SUN AND ROBERT J. WILLETT. 
+The persons named in the accompanying proxy will vote, unless authority is withheld, "FOR" the election of the nominees named above. Our Board of Directors anticipates that each of the nominees, if elected, will serve as a Director. If any nominee is unable to accept election, the persons named in the accompanying proxy will vote for such substitute as our Board of Directors may recommend. Should our Board not recommend a substitute for any nominee, then the proxy will be voted for the election of the remaining nominees. There are no family relationships between any incumbent Director or Director nominee and any executive officer of Cognex or its subsidiaries. 
+Information Regarding Directors and Director Nominees 
+Set forth below is information furnished to us by the Director nominees and the incumbent Directors whose terms will continue after the meeting. The biographical description for each Director and Director nominee includes his or her age, all positions he or she holds with Cognex, his or her principal occupation and business experience over the past five years, and the names of other publicly held companies for which he or she currently serves as a director or has served during the past five years. It also includes the specific experience, qualifications, attributes and skills that led to our Board's conclusion that the nominees should serve as a director of Cognex or, with respect to each Director who is not standing for election, that the Board would expect to consider if it were making a conclusion currently as to whether he or she should serve as a director. 
+We believe that all of our Directors have a reputation for integrity, honesty and adherence to high ethical standards. Each has demonstrated business acumen and an ability to exercise sound judgment as well as a commitment of service to Cognex and, to the extent applicable, our Board. Our Board does not currently evaluate whether incumbent Directors who are not standing for election should serve as directors, as the terms for which they were previously elected continue beyond the meeting. 
+Nominated for a term ending in 2022: 
+Robert J. Shillman, 72, known to many as "Doctor Bob," is the founder of Cognex. He has served as Chairman of the Board of Directors and as an executive officer of Cognex since the company's founding in 1981. Dr. Shillman was Chief Executive Officer of Cognex from 1981 through March 2011, at which time, and upon his recommendation, Mr. Willett was promoted to fill that role. During the past five years, Dr. Shillman has not served as a member of the Board of Directors of another publicly held company or of a registered investment company. We believe Dr. Shillman's qualifications for sitting on our Board of Directors include his technical   background leading to both a Master's Degree and a Ph.D. in Computer Science and Electrical Engineering from the Massachusetts Institute of Technology, his in-depth knowledge of AI technology and his 38 years of executive leadership experience building Cognex into the world's largest and most successful company that specializes in machine vision. 
+Anthony Sun, 66, has served as a director since 1982. Mr. Sun served as a managing general partner and Chief Executive Officer of Venrock Associates, a venture capital partnership, from 1997 until his retirement in 2010. He began his tenure at Venrock in 1979 and was a general partner from 1980 to 1997. Mr. Sun also serves as a member of the Boards of Directors of several private companies. During the past five years, he served as a director of Keynote Systems, Inc. (KEYN) when it was a publicly held company. We believe Mr. Sun's qualifications for sitting on our Board of Directors include his executive experience, his expertise in the high-technology industry, particularly having served as a member of the Board of Directors of more than a dozen public high-tech companies in the past, and the deep understanding of our company that he has acquired through service on our Board. 
+Robert J. Willett, 51, has served as a director and Chief Executive Officer of Cognex since 2011. Mr. Willett joined our company in 2008 as President of the Modular Vision Systems Division, and was promoted to President and Chief Operating Officer in 2010. He came to Cognex from Danaher Corporation, a diversified manufacturer of industrial controls and technologies, where he served as Vice President of Business Development and Innovation for the Product Identification Business Group and as President of Videojet Technologies, a leader in coding and marking products. Prior to that, Mr. Willett served as Chief Executive Officer of Willett International Ltd., a coding and marking company that was sold to Danaher and merged with Videojet. During the past five years, Mr. Willett has not served as a member of the Board of Directors of another publicly held company or of a registered investment company. He holds a B.A. from Brown University, and an M.B.A. from Yale University. We believe Mr. Willett's qualifications for sitting on our Board of Directors include his experience in the machine vision industry, his executive leadership experience and the knowledge of our company that he has acquired through his management roles. 
+Serving a term ending in 2020: 
+Patrick A. Alias, 73, has served as a director since 2001. Mr. Alias has served as Senior Vice President of Cognex since April 2005, and previously was Executive Vice President from 1991 through April 2005. Prior to joining Cognex, Mr. Alias spent more than 20 years in various high-technology management positions in Europe, Japan and the United States. He holds Master's Degrees in Electronics, Mathematics and Economics, and is a graduate of Harvard Business School's Advanced Management Program. During the past five years, Mr. Alias has not served as a member of the Board of Directors of another publicly held company or of a registered investment company. We believe Mr. Alias's qualifications for sitting on our Board of Directors include his four decades of experience working with high-technology companies, including nearly fifteen years as our company's Executive Vice President of Worldwide Sales and Marketing, and his extensive management experience. 
+Theodor Krantz, 76, has served as a director since 2007. During the past year, Mr. Krantz retired after serving as Vice President and Chief Financial Officer of Airmar Technology Corporation since May 2011, where Mr. Krantz had previously served as President from 2000 to 2011. He was President, and later Chief Executive Officer, of Velcro Industries from 1984 to 1999. For more than 11 years, Mr. Krantz has been serving as a member of the Boards of Directors and Audit Committees of Hitchiner Manufacturing Company and Control Air, Inc. Mr. Krantz holds a B.A. from Princeton University, and an M.B.A. from Harvard University. We believe Mr. Krantz's qualifications for sitting on our Board of Directors include his extensive executive leadership experience and his accounting and financial management expertise.  Dianne M. Parrotte, M.D., M.P.H., 69, has served as a director since 2018 following her election at the 2018 Annual Meeting of Shareholders. Since 1995, Dr. Parrotte has been an independent consultant to corporations, law firms and insurance companies on human resource matters involving employee health and wellness. She was a trustee of the Shillman Foundation from March 2000 until her resignation in February 2018. From 1989 until 1995, Dr. Parrotte was chief in charge of occupational health at Bath Iron Works (later acquired by General Dynamics). From 1982 to 1988, she was the on-site medical director at Polaroid Corporation. Dr. Parrotte served as a Cognex director from 1981, at the time of the Company's incorporation, to 1982. In addition to numerous certifications and licenses, Dr. Parrotte holds an M.P.H. from the Medical College of Wisconsin, an M.D. from the Boston University School of Medicine and a B.A. from Boston University. She also completed the Penn State Executive Program. During the past five years, Dr. Parrotte has not served as a member of the Board of Directors of another publicly held company or of a registered investment company. We believe Dr. Parrotte's qualifications for sitting on our Board of Directors include her experience with a wide range of human resource and organizational matters, as well as her significant knowledge of the history and culture of Cognex. 
+Serving a term ending in 2021: 
+Eugene Banucci, 75, has served as a director since 2015. Dr. Banucci is the founder and former Chairman and Chief Executive Officer of ATMI, Inc. (ATMI), a publicly held company that was acquired by Entegris, Inc. (ENTG) in 2014. Dr. Banucci served as Chief Executive Officer of ATMI from its founding in 1986 until the beginning of 2005. Prior to starting ATMI, he held management positions at General Electric Company and American Cyanamid Company. Dr. Banucci has served on numerous boards; in particular, from 2003 through 2010, he was a member of the Board of Directors of Zygo Corporation (ZIGO), a publicly held company that was also acquired in 2014. He currently serves as Lead Director on the Board of Clean Harbors, Inc. (CLH), a publicly held company listed on the New York Stock Exchange. Dr. Banucci holds a B.A. in Chemistry from Beloit College and Ph.D. in Organic Chemistry from Wayne State University. We believe Dr. Banucci's qualifications for sitting on our Board of Directors include his experience in developing and managing high-technology companies and his participation in other public company boards. 
+Jerry A. Schneider, 71, has served as a director since 2016. Mr. Schneider has been an independent business and financial consultant since 2014. He was the former (2004 to 2013) Chief Financial Officer of Vistage International, a private equity-owned CEO peer-advisory membership company with over 20,000 members. Prior to Vistage, Mr. Schneider spent seven years at Fresenius Medical Care—North America (FMS), a global dialysis service and products company, where he served as CFO and later as Senior Vice President of Strategic Planning. Between 1994 and 1997, Mr. Schneider was the Executive Vice President and Chief Financial Officer of then publicly held GranCare, Inc. (GC), a healthcare company in the long-term care, assisted living and institutional pharmacy business. Mr. Schneider serves on several non-profit boards. During the past five years, he has not served as a member of the Board of Directors of another publicly held company or of a registered investment company. Mr. Schneider received his Juris Doctor from Loyola Law School, and a B.S. in Accounting from the University of California at Berkeley. He is an inactive CPA and attorney in the State of California. We believe Mr. Schneider's qualifications for sitting on our Board of Directors include his executive experience, his accounting, legal, financial management and business knowledge and expertise.  DIRECTOR COMPENSATION 
+The following table sets forth the compensation earned by or awarded to each Director who served on our Board of Directors in 2018, other than Dr. Shillman and Mr. Willett. Details of Dr. Shillman's and Mr. Willett's compensation are set forth under the heading "Executive Compensation—Summary Compensation Table." 
+Director Compensation Table—2018 
+[BEGIN TABLE]
+ Name    Fees Earned or Paid in Cash      Option Awards(1)(2)      All Other Compensation(3)      Total Compensation   
+ Patrick A. Alias    $  —        $ 388,885      $ 129,339      $ 518,224   
+ Eugene Banucci    $ 45,700      $ 288,886      $ —        $ 334,586   
+ Theodor Krantz    $ 52,850      $ 288,886      $  —        $ 341,736   
+ Jeffrey B. Miller (4)    $  550      $  —        $ —        $  550   
+ Dianne M. Parrotte (5)    $ 37,400      $ 642,750      $  —        $ 680,150   
+ J. Bruce Robinson (6)    $  550      $  —        $ —        $  550   
+ Jerry A. Schneider    $ 45,150      $ 288,886      $  —        $ 334,036   
+ Anthony Sun    $ 44,000      $ 288,886      $ —        $ 332,886   
+[END TABLE]
+[BEGIN TABLE]
+(1)  In 2018, each Director other than Dr. Parrotte, Dr. Shillman and Mr. Willett were granted  options to purchase 13,000 shares of our common stock at an exercise price of $56.44 per share on February 20, 2018 (except that Mr. Alias was granted options to purchase 17,500 shares). These options have a  ten-year life and began vesting in five equal annual installments on February 20, 2019. Amounts listed in this column represent the aggregate grant date fair value of options granted but disregarding  estimated forfeitures for this purpose. The methodology and assumptions used to calculate the grant date fair value are described in Note 15, "Stock-Based Compensation" of our Annual Report on Form  10-K for the fiscal year ended December 31, 2018. Cognex recognizes the grant date fair value as an expense for financial reporting purposes over the service-based vesting period. See also the information  under the heading "Director Compensation—Elements of Director Compensation."  
+(2)  Each Director, other than Dr. Shillman and Mr. Willett, had the following unexercised options  outstanding at December 31, 2018: Mr. Alias, options to purchase 187,500 shares; Dr. Banucci, options to purchase 52,500 shares; Mr. Krantz, options to purchase 192,000 shares; Mr. Miller, options to purchase 0 shares;  Dr. Parrotte, options to purchase 30,000 shares; Mr. Robinson, options to purchase 39,000 shares; Mr. Schneider, options to purchase 59,000 shares; and Mr. Sun, options to purchase 237,000 shares.  
+(3)  Amounts listed in this column for Mr. Alias include his salary of $90,832 and a bonus under our annual  bonus program of $36,900, both of which were earned by Mr. Alias during 2018 in his capacity as a non-executive employee of Cognex, and insurance premiums of $1,607, which all Cognex employees are  eligible to receive.  
+(4)  Mr. Miller completed his term on the Board of Directors on April 25, 2018 at the 2018 Annual Meeting  of Shareholders upon Dr. Parrotte's election. In connection with Mr. Miller's departure from the Board, and as approved by the Compensation/Stock Option Committee, the last day that Mr. Miller could exercise his stock  options that were vested as of the time of his departure was extended to February 17, 2019. Mr. Miller forfeited unvested stock options to purchase 39,000 shares.  
+(5)  Dr. Parrotte was elected to the Board of Directors on April 25, 2018 at the 2018 Annual Meeting of  Shareholders. In connection with Dr. Parrotte's election to the Board, Dr. Parrotte was granted options to purchase 30,000 shares of our common stock at an exercise price of $45.06 per share on May 2, 2018. These options have a ten-year life and will begin vesting in four equal annual installments on May 2, 2019.  
+[END TABLE]
+[BEGIN TABLE]
+(6)  Mr. Robinson resigned from the Board of Directors in February 2018. Following his resignation, and as  approved by the Compensation/Stock Option Committee, Mr. Robinson continued to vest in options to purchase 19,500 shares of our common stock on the existing vesting schedule in consideration for agreeing to provide certain consulting services  to the extent requested by the Board for a period of approximately one year.  
+[END TABLE]
+Elements of Director Compensation 
+The following table sets forth the elements of compensation in 2018 for our non-employee directors for their service on our Board of Directors and its committees. Dr. Shillman and Mr. Willett, both of whom are executive officers of Cognex, receive no compensation to serve on our Board, and Mr. Alias, who is a non-executive employee of Cognex, receives no additional cash compensation for his service on the Board. 
+[BEGIN TABLE]
+ Type of Fee    Board of Directors      Compensation/Stock Option Committee(1)      Audit Committee(1)      Nominating and Corporate Governance Committee(2)   
+ Annual cash retainer    $ 11,000      $ 2,200      $ 5,000      $ 550   
+ Meeting fee    $  5,500      $  —        $ 1,650      $ —     
+ Telephonic meeting fee    $  550      $  550      $  550      $ —     
+ Annual Chairman fee    $  —        $  —        $ 4,400      $ —     
+[END TABLE]
+[BEGIN TABLE]
+(1)  A fee for attending a committee meeting is paid if the meeting is not held in conjunction with a regular Board  meeting, or for participation in discussions that are beyond the scope covered by the annual cash retainer. With respect to the Compensation/Stock Option Committee, an additional fee is only paid in connection with a telephonic meeting.   
+(2)  An additional fee may be paid to members of this committee from time to time in connection with evaluation of  director candidates.  
+[END TABLE]
+In 2018, each Director (other than Dr. Shillman and Mr. Willett) also received a grant of options to purchase shares of our common stock in consideration for serving on our Board. Mr. Alias was granted an additional option to purchase shares as compensation for his services as an employee of Cognex. Option grant amounts, exercise prices and vesting schedules are detailed in the Director Compensation Table—2018 under the heading "Director Compensation." Options granted to our Directors have a ten-year term and have an exercise price equal to the closing price of our common stock as reported by Nasdaq on the date of grant.  COMPENSATION POLICIES AND PROCEDURES 
+Cognex's approach to compensation and performance management is to provide a competitive total compensation package with periodic reviews to encourage ongoing high-quality performance. We strive to hire, retain and promote talented individuals based on their achievements, to reward employees based on their overall contribution to the success of our company, and to motivate employees to continue increasing shareholder value. 
+In addition to salary, total compensation may include overtime pay, commissions, stock options and potential bonuses depending on the employee's job and level within Cognex. It also includes benefits consistent with our "Work Hard, Play Hard, Move Fast" culture that recognize employee achievement and encourage new levels of success, such as President's Awards, which are given annually to our top performers, and Perseverance Awards, which reward employee longevity, commitment and loyalty. Other benefits available to all employees include company-paid basic group term life insurance, basic accidental death and dismemberment insurance, an employer match of eligible compensation that employees invest in their 401(k) accounts, and tuition reimbursement. 
+The Compensation/Stock Option Committee oversees the compensation program for all Cognex employees. The Committee has discussed the concept of risk as it relates to our compensation program and does not believe that our compensation program is structured to encourage excessive or inappropriate risk taking for the following reasons: 
+[BEGIN TABLE]
+• Compensation consists of both fixed and variable components. The fixed portion (i.e. base salary) provides a  steady income to our employees regardless of the performance of our company or stock price. The variable portion (i.e. annual company bonus, sales commissions and stock option awards) is based upon individual, company and stock price performance.  This mix of compensation is designed to motivate our employees, including our named executive officers, to produce superior short- and long-term corporate performance without taking unnecessary or excessive risks to the detriment of important  business metrics.  
+[END TABLE]
+[BEGIN TABLE]
+• For the variable portion of compensation, the company bonus is an annual program and is focused on profitability,  while the stock option program generally has a five year service-based vesting period and is focused on stock price performance. We believe that these programs provide a check on excessive risk taking because to inappropriately benefit one would be  a detriment to the other. For example, focusing solely on profitability would be detrimental to our company over the long term, ultimately harming our stock price and the value of stock options.  
+[END TABLE]
+In addition, we prohibit all hedging transactions involving Cognex stock by our Board of Directors and certain employees who have regular access to material non-public information, including our named executive officers, so that they cannot insulate themselves from the effects of poor stock performance. Further, any Cognex employee engaged in short sales of Cognex stock is subject to immediate termination. 
+[BEGIN TABLE]
+• In order for any employee to be eligible for a company bonus, Cognex must first achieve certain financial goals  that are established annually by the Compensation/Stock Option Committee related to our consolidated operating income as a percentage of revenue (we refer to this metric as "operating margin"). We believe that focusing on profitability  rather than other measures encourages a balanced approach to performance and emphasizes consistent behavior across the organization.  
+[END TABLE]
+[BEGIN TABLE]
+• Our annual bonus program is capped for each employee at director level and above, which includes our named  executive officers, which we believe mitigates excessive risk taking by limiting bonus payouts even if our company dramatically exceeds its operating margin target.  
+[END TABLE]
+[BEGIN TABLE]
+• Our annual bonus program has been structured around attaining a certain level of profitability for many years and  we have seen no evidence that it encourages unnecessary or excessive risk taking.  
+[END TABLE]
+[BEGIN TABLE]
+• The calculation of our operating margin target is defined annually by our Compensation/Stock Option Committee and  is designed to keep it from being susceptible to manipulation by any employee, including our named executive officers. We have a Code of Business Conduct and Ethics that covers, among other things, accuracy of books and records. And, pre-dating this code is our company's ten corporate values, which include "integrity" and are the basis for ensuring we maintain the highest ethical standards in all that we do.  
+[END TABLE]
+ COMPENSATION DISCUSSION AND ANALYSIS 
+Executive Summary 
+We maintain a performance-based compensation philosophy. The compensation program for our named executive officers utilizes a combination of base salaries, annual bonuses and stock option awards. We target paying our named executive officers a base salary that is in the mid-range of benchmarks from Radford's Global Technology Survey, which includes executive compensation levels across a wide spectrum of technology sector companies comparable in revenue size; we establish a potential annual bonus that is market competitive and linked to individual and company performance objectives; and we grant stock options in a manner that aligns the interests of our named executive officers with those of our shareholders. 
+Total compensation for our named executive officers also includes other benefits that are available to Cognex employees generally. This includes Perseverance Awards (which reward employee longevity, commitment and loyalty), company-paid basic group term life insurance and basic accidental death and dismemberment insurance, an employer match of eligible compensation that employees invest in their 401(k) accounts, and tuition reimbursement. 
+The Compensation/Stock Option Committee, which consists entirely of independent directors, reviews and approves compensation for our named executive officers, using its judgment and experience in determining the mix of compensation. 
+The Committee views salary and bonuses as short-term compensation to reward our named executive officers for meeting individual and company performance objectives, and stock option awards as a reward for increasing shareholder value and improving corporate performance over the long term. The Compensation/Stock Option Committee also believes that the stock option program is instrumental in our ability to recruit, retain and motivate our high caliber employees. 
+Determinations with respect to compensation for a fiscal year are generally made in conjunction with our Board of Directors' approval of Cognex's annual budget for that year, which typically occurs at the end of the prior fiscal year. 
+Say-on-Pay Feedback from Shareholders 
+At our 2018 Annual Meeting of Shareholders, approximately 95% of the votes cast on the say-on-pay proposal were in favor of the approval of the compensation of our named executive officers, with approximately 5% of the votes cast against such proposal. The Compensation/Stock Option Committee believes that this shareholder vote endorses the compensation philosophy of our company, and the Compensation/Stock Option Committee did not make any changes to our executive compensation program for 2018 as a result of the say-on-pay vote by our shareholders. Based on the voting results at our 2017 Annual Meeting, and consistent with the recommendation of the Board of Directors, we will continue to conduct an advisory vote on the compensation of our named executive officers on an annual basis until the next advisory vote on the frequency of the say-on-pay vote, which we expect will occur at our 2023 Annual Meeting of Shareholders. 
+2018 Business Results 
+Cognex reported record financial results for 2018 with the highest revenue, net income and earnings per share from continuing operations in its 38-year history. Revenue was $806 million, a 5% increase over the   $766 million reported for the prior year. This was our ninth consecutive year of record revenue from continuing operations. We were also highly profitable, reporting an operating margin of 27%. Furthermore, we spent $204 million to repurchase our common stock and paid out $32 million in dividends to shareholders. 
+During 2018, Cognex performed well in multiple end markets, including logistics, which grew by more than 50% year-on-year and generated more than $100 million of annual revenue. Consistent with our belief that investing for the future remains key to our ongoing success, we invested a record $116 million, or 14% of revenue, in engineering during 2018, marking the company's ninth consecutive year of RD&E growth. Cognex also continued to expand its world-wide sales force and to make strategic IT and infrastructure investments which included the implementation of an SAP® Enterprise Resource Planning system. 
+Our achievements in 2018 reflect the hard work and dedication of our employees, who we refer to as "Cognoids," around the world and the entrepreneurial spirit that is an integral part of our corporate culture. We believe that our investments in them, including employee stock options, have contributed to our success, and that the loyalty of our people, and their unique sense of company pride and ownership, help to fuel our growth. 
+Compensation Program Highlights 
+Our executive compensation program is designed to be largely performance-based with base salary providing a steady income and the annual company bonus and stock option awards based upon individual, company and stock price performance. In its deliberations of compensation for our named executive officers, the Compensation/Stock Option Committee considers the following: 
+[BEGIN TABLE]
+• The levels of responsibility associated with each executive's position;  
+[END TABLE]
+[BEGIN TABLE]
+• The past performance of the individual executive;  
+[END TABLE]
+[BEGIN TABLE]
+• The extent to which individual, departmental and company-wide goals have been met;  
+[END TABLE]
+[BEGIN TABLE]
+• The overall competitive environment and the level of compensation necessary to attract and retain talented and  motivated individuals in key positions;  
+[END TABLE]
+[BEGIN TABLE]
+• The recommendations of our Chief Executive Officer with respect to the salary increases, potential bonuses and  stock option grants for those executive officers that report to him; and  
+[END TABLE]
+[BEGIN TABLE]
+• The outcome of advisory shareholder votes on executive compensation (commonly known as "say-on-pay" proposals).  
+[END TABLE]
+The Compensation/Stock Option Committee also considers ways to maximize deductibility of executive compensation under U.S. tax laws, while retaining the discretion of the Compensation/Stock Option Committee as is appropriate to compensate executive officers at levels commensurate with their responsibilities and achievements. Beginning in 2018, the new U.S. tax legislation impacts the company's ability to deduct annual compensation in excess of $1 million for anyone who served as a named executive officer in any year after 2016. The Compensation/Stock Option Committee believes that shareholder interests are best served if its discretion and flexibility in awarding compensation is not restricted, even though some compensation awards may result in non-deductible compensation expenses. 
+Neither Cognex nor the Compensation/Stock Option Committee typically uses compensation consultants other than independent third-party benchmarking surveys of annual compensation paid by companies in the high-technology industry, such as the Global Technology Survey described above.  Base Salary 
+In determining the base salaries paid to our named executive officers for fiscal year 2018, the Compensation/Stock Option Committee considered, in particular, their levels of responsibility, salary increases awarded in the past, and the executive's experience and potential. The base salary approved for each of our named executive officers for fiscal year 2018 was made based on the following criteria: 
+[BEGIN TABLE]
+• Radford's Global Technology Survey of annual compensation paid by companies in the high-technology industry  that have between $750 million and $1 billion of annual revenue, with our named executive officers' salaries in 2018 falling below the 50th percentile of their respective positions;   
+[END TABLE]
+[BEGIN TABLE]
+• The levels of responsibility associated with each executive's position;  
+[END TABLE]
+[BEGIN TABLE]
+• The past performance of the individual employee; and  
+[END TABLE]
+[BEGIN TABLE]
+• The increase in salary levels approved by our Board of Directors in the fourth quarter of 2017 in conjunction  with its approval of our annual budget for fiscal year 2018.  
+[END TABLE]
+During 2018, Mr. Willett's and Ms. DiPalma's salary remained consistent with 2017 at approximately $375,000 and $245,000, respectively. Mr. Curran received a salary increase of 1.67% to an annual base salary of approximately $305,000 in 2018. Consistent with prior years, Dr. Shillman elected to forgo his annual salary for 2018 and, as requested by him, we donated this amount to a public charity. 
+Annual Company Bonuses 
+The Compensation/Stock Option Committee views annual company bonuses as a way to reward employees for meeting individual and company performance objectives. Cognex employees, including our named executive officers, are eligible to participate in the performance-based annual company bonus program except for those employees on a sales commission plan. The Compensation/Stock Option Committee approves the annual company bonus plan in conjunction with our Board of Directors' approval of Cognex's annual budget, which typically takes place at the end of the prior fiscal year. 
+The annual company bonus plan is designed to be variable. In order for any employee to be eligible for an annual company bonus, Cognex must first achieve financial goals set forth in the annual budget related to budgeted non-GAAP consolidated operating income as a percentage of revenue (we refer to this metric as "operating margin"). Once the operating margin criterion is met, the amount each employee at director level and above, which includes our named executive officers, receives depends upon the achievement of individual performance goals, which are established annually. 
+The Compensation/Stock Option Committee determined that operating margin is an appropriate metric for our bonus plan because the Committee believes employee performance is integral in achieving desired levels of company profitability. Non- GAAP operating income as used in the calculation of operating margin for purposes of our bonus program is calculated by adjusting our operating income as determined in accordance with generally accepted accounting principles (GAAP) for certain items including expense related to stock options and other equity-based awards and foreign currency gains or losses. 
+In order for any cash bonus to be paid to an employee, a minimum level of operating margin for the company must be achieved. Once the minimum level has been achieved, each employee's eligible bonus is calculated as follows: 
+[BEGIN TABLE]
+• If the actual operating margin is above the minimum level but below the operating margin target in the annual  budget, each employee is eligible to receive up to a pro-rata portion of his or her target bonus;  
+[END TABLE]
+[BEGIN TABLE]
+• If the actual operating margin is equal to the operating margin target in the annual budget, each employee is  eligible to receive up to 100% of his or her target bonus; and  
+[END TABLE]
+[BEGIN TABLE]
+• If the actual operating margin is above the operating margin target in the annual budget, all "exempt"  employees are eligible to receive an additional amount depending upon his or her grade level up to a maximum level approved by the Compensation/Stock Option Committee. The payout is scaled in such a way that this additional amount is funded by a  portion of the incremental operating income above Cognex's operating margin target. ("Exempt" employees are those employees who receive an annual salary and are exempt from certain wage and hour laws.)  
+[END TABLE]
+The Compensation/Stock Option Committee approves the target bonus for each employee at the vice president level and above, which includes our named executive officers, and the amount by which each individual can participate in any increase due to company performance in excess of the operating margin target. The target bonus amount is based upon a percentage of base salary with the percentage based upon the individual's level of responsibility. Individual performance goals are established annually and generally relate to near-term strategic, financial and operational performance that supports the company's business objectives. A weighting is assigned to each individual performance goal. For fiscal year 2018: 
+[BEGIN TABLE]
+• The target bonus for Dr. Robert J. Shillman, our Executive Chairman, was $100,000, with the opportunity  to earn 0-250% of this amount based on company performance and the achievement of individual performance goals;  
+[END TABLE]
+[BEGIN TABLE]
+• The target bonus for Robert J. Willett, our President and Chief Executive Officer, was $243,750, with the  opportunity to earn 0-325% of this amount based on company performance and the achievement of individual performance goals;  
+[END TABLE]
+[BEGIN TABLE]
+• The target bonus for John J. Curran, our Senior Vice President and Chief Financial Officer, was $152,500, with  the opportunity to earn 0-200% of this amount based on company performance and the achievement of individual performance goals; and  
+[END TABLE]
+[BEGIN TABLE]
+• The target bonus for Sheila M. DiPalma, our Senior Vice President of Corporate Employee Services, was $104,125,  with the opportunity to earn 0-175% of this amount based on company performance and the achievement of individual performance goals.  
+[END TABLE]
+The Compensation/Stock Option Committee believes that the payment of an annual company bonus based upon the achievement of company and individual performance goals is an appropriate way to reward our named executive officers for meeting performance objectives while also achieving desired levels of company profitability. 
+For 2018, the operating margin target, as calculated for bonus purposes, was consistent with our long-term financial objectives. The actual operating margin achieved for bonus purposes was 32.4%, which was below the target. As a result, each of our named executive officers was eligible to receive up to 82% of the individual's bonus target. The annual bonuses for 2018 for our named executive officers are listed under the heading "Executive Compensation—Summary Compensation Table" and will be paid in the first quarter of 2019. Consistent with prior years, Dr. Shillman elected to forgo his 2018 bonus, and, as requested by him, we will donate this amount to a public charity.  Stock Option Awards 
+Cognex's stock option program is intended to reward the majority of our eligible exempt employees, which includes our named executive officers, for their efforts in building shareholder value and improving corporate performance over the long term. The Compensation/Stock Option Committee believes that the stock option program is instrumental in our ability to recruit, retain and motivate our high caliber employees. 
+The Compensation/Stock Option Committee approves the options granted to our named executive officers on an individual basis. Our Chief Executive Officer has been delegated the authority to approve stock options and other equity-based awards to our non-executive employees not to exceed 80,000 shares to any one individual in the aggregate per calendar year. 
+Each year, the Compensation/Stock Option Committee determines the stock options to be granted to current employees in the form of annual grants by considering, among other factors, the impact of the options on shareholder dilution. We have always been, and will continue to be, sensitive to shareholders' concerns about the increase in the number of outstanding shares caused by new option grants. In that regard, we have kept our yearly option grants relatively flat over the past ten years. In 2018, our option grants consisted of only 1.74% of the average outstanding shares in 2018. We have also reduced share dilution by repurchasing Cognex stock on the open market during that period. As a result, the number of outstanding shares has decreased by about 1% from 2013 to 2018 (disregarding the impact of stock splits effected through the issuance of stock dividends). We intend to continue to actively manage our use of shares each year. 
+Mr. Willett and Mr. Curran participated in our annual stock option grants, which were completed in the first quarter of 2018. Their annual option grants were consistent with the vesting schedules and expiration dates of the majority of grants made to our other employees. Ms. DiPalma did not participate in our annual stock option grants because Ms. DiPalma received a special grant at the end of 2017 in connection with her promotion to Senior Vice President. Dr. Shillman declined to accept an annual option award when offered by the Compensation/Stock Option Committee as he feels that he has been adequately rewarded in the past and would prefer that any options that would be granted to him be available for granting to other employees. 
+Our policy is to grant stock options on certain fixed dates. The annual grants are predetermined to occur each year on the fourth Monday in January of such year. The options for employees hired or promoted during a month are granted on the last Monday of that month. If any such Monday falls within a designated quiet period, then the grants will instead be made on the first Monday following the completion of the quiet period. If Nasdaq is closed on the appropriate Monday as described above, then the grants will instead be made on the next day that Nasdaq is open for trading. The Compensation/Stock Option Committee retains the discretion to grant options at such other times as it may otherwise deem appropriate. The exercise price for all stock options granted equals the closing price of our common stock on Nasdaq on the date of grant. 
+The Compensation/Stock Option Committee believes that the primary purpose of stock option awards is to align employee interests with the interests of our shareholders, and to provide our employees, including our named executive officers, with incentives to increase shareholder value over time. Change of control transactions typically represent events where our shareholders are realizing the value of their equity interests in our company. We believe it is appropriate for our Directors and named executive officers to share in this realization of shareholder value. 
+All stock option agreements covering the unvested options held by our non-employee Directors, Dr. Shillman, and Messrs. Alias and Curran, and the November 2017 options held by Ms. DiPalma, provide for   such options to vest immediately upon a "change of control" of Cognex. All options held by Mr. Willett are subject to immediate vesting if there is both a "change in control" of Cognex and his employment is involuntarily terminated within twelve months following such transaction. In providing for the immediate vesting of options held by Mr. Curran and Ms. DiPalma, the Compensation/Stock Option Committee noted that, given their roles with Cognex, it was unlikely that their employment with Cognex would be continued following a change of control transaction. 
+We do not have a stock ownership policy for our named executive officers or members of our Board of Directors.  COMPENSATION/STOCK OPTION COMMITTEE REPORT 
+The Compensation/Stock Option Committee administers the compensation program for Cognex's executive officers. The Compensation/Stock Option Committee is composed of Directors who qualify as "independent" under the applicable listing standards of Nasdaq. 
+The Compensation/Stock Option Committee has reviewed and discussed the Compensation Discussion and Analysis included in this proxy statement with management. Based on that review and discussion, the Compensation/Stock Option Committee recommended to the Board of Directors that the Compensation Discussion and Analysis be included in this proxy statement. 
+The foregoing report has been approved by all members of the Compensation/Stock Option Committee.  EXECUTIVE OFFICERS 
+Our executive officers as of December 31, 2018 included Dr. Robert J. Shillman, Robert J. Willett, John J. Curran and Sheila M. DiPalma. Biographical information regarding Dr. Shillman and Mr. Willett is provided in Proposal 1: Election of Directors under the heading "Information Regarding Directors." 
+Mr. Curran, 52, oversees our Finance, Treasury, Tax, Investor Relations, Legal, and Information Technology departments. He joined Cognex in 2016 after 21 years at EMC Corporation, where he most recently served as Senior Vice President and Corporate Controller. While at EMC, Mr. Curran also held leadership positions in corporate and international finance, and served as Interim CFO for Pivotal, Inc., a $200M subsidiary of EMC focusing on cutting-edge software development methodologies, a modern cloud platform and analytics tools. He also led the implementation of EMC's global ERP system, which delivered improved visibility into global operations and established an IT foundation for future growth. Mr. Curran holds a Bachelor of Science degree in Accounting and a Master of Business Administration from Babson College. 
+Ms. DiPalma, 52, joined Cognex in 1992 as Senior Reporting Accountant. She served for more than 20 years in a series of increasingly responsible roles in the Finance Department, including six years as Cognex Treasurer, before transitioning to Employee Services in 2016. Ms. DiPalma was promoted to Senior Vice President of Employee Services and became a named executive officer in 2017. Prior to joining Cognex, Ms. DiPalma was a member of the audit firm PricewaterhouseCoopers. She holds a Bachelor of Science degree in Accounting from Boston College, a Master of Science degree in Taxation from Bentley College, and is a Certified Public Accountant.  EXECUTIVE COMPENSATION 
+Summary Compensation Table—2018 
+The following table sets forth the total compensation awarded to, earned by or paid to our Chief Executive Officer, our Chief Financial Officer and our other executive officers in fiscal years 2016, 2017 and 2018 (who we refer to collectively as the "named executive officers"). 
+[BEGIN TABLE]
+ Name and Principal Position    Year      Salary(1)     Option Awards(2)     Non-Equity Incentive Plan Compensation(1)     All Other Compensation(3)      Total Compensation   
+ Robert J. Shillman      2018        (4)     $  —   (5)      (4)     $ 15,987      $ 291,910 (4)  
+ Chairman of the Board      2017        (4)     $  —   (5)      (4)     $ 15,678      $ 465,678 (4)  
+ and Chief Culture Officer      2016        (4)     $  —   (5)      (4)     $ 16,269      $ 418,919 (4)  
+ Robert J. Willett      2018      $ 376,442     $ 1,999,980     $ 176,252     $ 9,419      $ 2,562,093   
+ President and      2017      $ 375,500     $ 2,693,925     $ 788,259     $  8,893      $ 3,866,577   
+ Chief Executive Officer      2016      $ 376,442     $ 1,117,125     $ 564,415     $  8,743      $ 2,066,725   
+ John J. Curran (6)      2018      $ 305,548     $ 1,111,100     $  84,659     $  9,444      $ 1,510,751   
+ Senior Vice President and      2017      $ 297,933     $ 3,319,875     $ 236,250     $  9,342      $ 3,863,400   
+ Chief Financial Officer                                  
+ Sheila M. DiPalma (7)      2018      $ 245,942     $  —   (8)    $  73,441     $ 24,420      $  343,803   
+ Senior Vice President of      2017      $ 225,269     $ 3,151,553     $ 154,487     $  9,180      $ 3,540,489   
+ Corporate Employee Services                                  
+[END TABLE]
+[BEGIN TABLE]
+(1)  Salary and bonus amounts are presented in the year earned. The payment of such amounts may have occurred in  other years.  
+(2)  Represents the aggregate grant date fair value of options granted to each named executive officer in each year  presented but disregarding estimated forfeitures for this purpose. The methodology and assumptions used to calculate the grant date fair value are described in Note 15, "Stock-Based Compensation" of our Annual Report on Form 10-K for the fiscal year ended December 31, 2018. Cognex recognizes the grant date fair value as an expense for financial reporting purposes over the service-based vesting period. No stock option grants to a  named executive officer were forfeited in 2016, 2017 or 2018.  
+(3)  No amounts listed in this column for each year, presented individually, equal or exceed $10,000 except for a  $15,000 payment made to Ms. DiPalma for travel, lodging and entertainment for Ms. DiPalma's 20-year Perseverance Award, which all Cognex employees and Directors are eligible to receive.  
+(4)  Dr. Shillman elected to forgo his base salary of $200,000 in 2016, 2017 and 2018, and his annual company  bonus of $202,650, $250,000 and $75,923 in 2016, 2017 and 2018, respectively. As requested by him, we have or will donate these amounts to a public charity. Notwithstanding the foregoing, these amounts are included in the amount shown in the  "Total Compensation" column.  
+(5)  Dr. Shillman declined to accept annual option awards for 2016, 2017 and 2018 when offered by the  Compensation/ Stock Option Committee as he feels that he has been adequately rewarded in the past and would prefer that any options that would be granted to him be available for granting to other employees.  
+(6)  Mr. Curran became Chief Financial Officer of Cognex effective February 17, 2017.   
+(7)  Ms. DiPalma was promoted to Senior Vice President of Employee Services and an executive officer of Cognex  on October 30, 2017.  
+(8)  Ms. DiPalma did not receive a 2018 annual stock option grant because Ms. DiPalma received a special  grant at the end of 2017 in connection with her promotion to Senior Vice President.  
+[END TABLE]
+ Grants of Plan-Based Awards Table—2018 
+The following table sets forth information regarding non-equity incentive plans and option grants to our named executive officers in fiscal year 2018. 
+[BEGIN TABLE]
+             Estimated Future Payouts Under Non-Equity Incentive Plan Awards(1)                       
+             Estimated Future Payouts Under Non-Equity Incentive Plan Awards(1)                       
+ Name    Grant Date      Thresh- old      Target      Maxi- mum      All Other Option Awards: Number of Securities Underlying Options     Exercise or Base Price of Option Awards (Per Share)      Grant Date Fair Value of Option Awards(2)   
+ Robert J.Shillman      —        $ 0      $ 100,000      $ 250,000        —         —          —     
+ Robert J. Willett      —        $ 0      $ 243,750      $ 792,188        —         —          —     
+ John J. Curran      —        $ 0      $ 152,500      $ 305,000        —         —          —     
+ Sheila DiPalma      —        $ 0      $ 104,125      $ 182,219        —   (4)      —          —     
+[END TABLE]
+[BEGIN TABLE]
+(1)  The amounts shown in the threshold, target and maximum columns reflect the minimum, target and maximum amounts,  respectively, that are payable under Cognex's annual company bonus program as described under the heading "Compensation Discussion and Analysis." The actual payout with respect to 2018 for each named executive officer is shown in the  Summary Compensation Table in the column titled "Non-Equity Incentive Plan Compensation."  
+(2)  The methodology and assumptions used to calculate the grant date fair value of the options granted to each named  executive officer in 2018 are described in Note 15, "Stock-Based Compensation" of our Annual Report on Form 10-K for the fiscal year ended December 31, 2018, but disregarding for this purpose  the estimate of forfeitures related to service-based vesting conditions.  
+(3)  This stock option grant has a ten-year term and became exercisable in  five equal annual installments on February 20, 2019.  
+(4)  Ms. DiPalma did not receive a 2018 annual stock option grant because Ms. DiPalma received a special  grant at the end of 2017 in connection with her promotion to Senior Vice President.  
+[END TABLE]
+Discussion of Summary Compensation and Grants of Plan-Based Awards Tables 
+Compensation to our named executive officers consists primarily of salary, bonus and stock option awards as well as other benefits which are also available to all Cognex employees generally. These benefits include company-paid basic group term life insurance, basic accidental death and dismemberment insurance, an employer match of eligible compensation that employees invest in their 401(k) accounts, tuition reimbursement, and benefits consistent with our "Work Hard, Play Hard, Move Fast" culture such as Perseverance Awards, which reward employee longevity, commitment, and loyalty. Cognex's executive compensation policies, pursuant to which the compensation set forth in the Summary Compensation Table and Grants of Plan-Based Awards Table was paid or awarded, are described under the heading "Compensation Discussion and Analysis." 
+During 2018, Mr. Willett's and Ms. DiPalma's salary remained consistent with 2017 at approximately $375,000 and $245,000, respectively. Mr. Curran received a salary increase of 1.67% to an annual base salary of approximately $305,000 in 2018. Consistent with prior years, Dr. Shillman elected to forgo his annual salary for 2018 and, as requested by him, we donated this amount to a public charity. 
+Cognex provides each named executive officer with the opportunity to earn a cash bonus pursuant to a performance-based annual company bonus program that is based first on the achievement of the consolidated financial goal set forth in Cognex's annual budget related to non-GAAP operating income as a percentage of revenue (we refer to this metric as "operating margin"), and then on the achievement of individual performance goals, which are also established annually. The Compensation/Stock Option Committee approves the target   bonus for each named executive officer. For 2018, the target bonus for Dr. Shillman was $100,000, with the opportunity to earn 0-250% of this amount; the target bonus for Mr. Willett was $243,750, with the opportunity to earn 0-325% of this amount; the target bonus for Mr. Curran was $152,500, with the opportunity to earn 0-200% of this amount; and the target bonus for Ms. DiPalma was $104,125, with the opportunity to earn 0-175% of this amount. 
+Cognex's actual consolidated operating margin for 2018 bonus purposes was 32.4%, which was below the target. As a result, each of our named executive officers was eligible to receive up to 82% of the individual's bonus target. Dr. Shillman achieved 92.6% of his individual performance goals, Mr. Willett achieved 88.2% of his individual performance goals, Mr. Curran achieved 67.7% of his individual performance goals, and Ms. DiPalma achieved 86.0% of her individual performance goals. 
+During 2018, Mr. Willett and Mr. Curran participated in our annual stock option grants, which were completed in the first quarter of 2018. Their annual option grants were consistent with the vesting schedules and expiration dates of the majority of grants made to our other employees. Ms. DiPalma did not participate in our annual stock option grants because Ms. DiPalma received a special grant at the end of 2017 in connection with her promotion to Senior Vice President. Dr. Shillman declined to accept an annual option award when offered by the Compensation/Stock Option Committee as he feels that he has been adequately rewarded in the past and would prefer that any options that would be granted to him be available for granting to other employees. A total of 2,997,200 options were granted to Cognex employees in fiscal year 2018. 
+Option Exercises and Stock Vested Table—2018 
+The following table sets forth the amounts realized in fiscal year 2018 by our named executive officers as a result of option exercises. 
+[BEGIN TABLE]
+ Name    Number of Shares Acquired on Exercise      Value Realized on Exercise   
+ Robert J. Shillman      —        $ —     
+ Robert J. Willett      —        $ —     
+ John J. Curran      —        $ —     
+ Sheila M. DiPalma      —        $ —     
+[END TABLE]
+ Table of Outstanding Equity Awards at Fiscal Year-End—2018 
+The following table sets forth the number of options to purchase shares of our common stock held by our named executive officers at December 31, 2018 (Dr. Shillman is not listed because he did not hold any unexercised options on that date). 
+[BEGIN TABLE]
+ Name    Number of Securities Underlying Unexercised Options (Exercisable)      Number of Securities Underlying Unexercised Options (Unexercisable)      Option Exercise Price      Option Expiration Date      Footnote   
+ Robert J. Willett      180,000        —        $ 19.66        2/18/2024        1   
+ John J. Curran      12,500        25,000      $  24.86        11/2/2026        8   
+ Sheila M. DiPalma      8,500        —        $  10.53        2/13/2023        11   
+[END TABLE]
+[BEGIN TABLE]
+(1)  Option became exercisable in four equal annual installments beginning on February 18, 2015.   
+(2)  Option became exercisable in four equal annual installments beginning on November 3, 2015.   
+(3)  Option becomes exercisable in one installment on November 3, 2019.  
+(4)  Option becomes exercisable in one installment on November 3, 2020.  
+(5)  Option became exercisable in four equal annual installments beginning on February 12, 2017.   
+(6)  Option became exercisable in four equal annual installments beginning on February 21, 2018.   
+(7)  Option becomes exercisable in five equal annual installments beginning on February 20, 2019.   
+(8)  Option became exercisable in four equal annual installments beginning on November 2, 2017.   
+(9)  Option became exercisable in four equal annual installments beginning on November 2, 2018.-   
+(10)  Option becomes exercisable in one installment on November 2, 2022.  
+(11)  Option became exercisable in four equal annual installments beginning on February 13, 2014.   
+(12)  Option became exercisable in four equal annual installments beginning on May 2, 2015.   
+(13)  Option became exercisable in four equal annual installments beginning on February 17, 2016.   
+(14)  Option became exercisable in four equal annual installments beginning on May 4, 2017.   
+(15)  Option became exercisable in four equal annual installments beginning on November 1, 2018.   
+(16)  Option becomes exercisable in one installment on November 1, 2022.  
+[END TABLE]
+ EMPLOYMENT AGREEMENT WITH ROBERT J. WILLETT 
+We entered into an employment agreement with Mr. Willett in June 2008 when he joined our company as Executive Vice President and President of the Modular Vision Systems Division, which entitles him to receive benefits that are available to all Cognex employees generally. 
+POTENTIAL PAYMENTS UPON TERMINATION OR CHANGE OF CONTROL 
+All stock option agreements covering the unvested options held by our non-employee Directors, Dr. Shillman, and Messrs. Alias and Curran, and the November 2017 options held by Ms. DiPalma, provide for such options to vest immediately upon a "change of control" of Cognex, which is defined as a corporate transaction in which the holders of Cognex common stock before the transaction control less than 51% of the stock of Cognex or any successor corporation after the transaction. 
+All stock option agreements covering unvested options held by Mr. Willett provide for any unvested options held by him to become fully vested if the following two conditions are met: 1) there is a "change in control" of Cognex (as defined above) and 2) his employment is involuntarily terminated within twelve months following such transaction. Mr. Willett's employment will be considered to be involuntarily terminated if Cognex terminates his employment without "cause" or he resigns his employment for "good reason." "Cause" means his willful and continued failure to perform substantially his duties with Cognex (other than any failure resulting from incapacity due to physical or mental illness), or his willful engagement in illegal conduct or gross misconduct which is materially injurious to Cognex. "Good reason" means a material diminution in his duties or responsibilities (excluding for this purpose any diminution related solely to Cognex ceasing to be a public reporting company), or the requirement to be based at any office or location that is more than 50 miles from his current office. 
+The following table indicates the amount of unvested shares held by each named executive officer that would have become fully exercisable assuming that with respect to Dr. Shillman's, Mr. Curran's and Ms. DiPalma's option grants, a change of control of Cognex occurred at December 31, 2018, and with respect to the options granted to Mr. Willett, the termination of his employment occurred in the circumstances described above at December 31, 2018 following a change of control. These amounts are estimates only and do not necessarily reflect the actual number of shares that would accelerate or their value, which would only be known at the time that the individual becomes entitled to the accelerated vesting of his options. 
+[BEGIN TABLE]
+ Name    Number of Option Shares That Would Have Accelerated Vesting      Value of Option Shares That Would Have Accelerated Vesting(1)   
+ Robert J. Shillman      —        $ —     
+ Robert J. Willett      1,115,000      $ 16,789,300   
+ John J. Curran      375,000      $ 2,289,625   
+ Sheila M. DiPalma      88,000      $ —     
+[END TABLE]
+[BEGIN TABLE]
+(1)  Amounts shown in this column are based on the positive difference, if any, between the closing price of our  common stock on Nasdaq on December 31, 2018 ($38.67) and the exercise prices for such options.  
+[END TABLE]
+ CEO Pay Ratio 
+As required by the Dodd-Frank Wall Street Reform and Consumer Protection Act, and Item 402(u) of Regulation S-K, we are providing the following information about the relationship of the annual total compensation of our employees and the annual total compensation of Robert J. Willett, our President and Chief Executive Officer. For 2018, our last completed fiscal year: 
+[BEGIN TABLE]
+• The median of the annual total compensation of all employees of our company (other than our Chief Executive  Officer) was $80,625; and  
+[END TABLE]
+[BEGIN TABLE]
+• The annual total compensation of our Chief Executive Officer, as reported in the Summary Compensation Table  included elsewhere in this proxy statement, was $2,562,093.  
+[END TABLE]
+Based on this information, for 2018, the ratio of the annual total compensation of our Chief Executive Officer to the median of the annual total compensation of all employees was approximately 32 to 1. 
+We believe our CEO Pay Ratio for 2018 demonstrates our pay-for-performance philosophy. Our compensation program consists of both fixed and variable components, and is designed to motivate all employees to produce superior short- and long-term corporate performance. The approximate ratio of our CEO's salary to the salary of our median employee was a relatively low 5 to 1 because the fixed portion of our CEO's compensation was set below the 50th percentile of his position per the Radford Global Technology Survey. Given our CEO's level of responsibility, experience and potential, the Compensation/Stock Option Committee awards him a mix of compensation with a higher variable component (i.e. annual company bonus and stock option awards) that is based upon individual, company and stock price performance. As a result, a substantial percentage of our CEO's total compensation is at risk every year, providing him with greater incentive to increase shareholder value and improve corporate performance over the long term. 
+To identify the median of the annual total compensation of all our employees for 2018, as well as to determine the annual total compensation of our median employee and our Chief Executive Officer, we took the following steps: 
+[BEGIN TABLE]
+• We selected October 2, 2018, which is within the last three months of 2018, as the date upon which we would  identify a new median employee to allow sufficient time to identify the median employee given the global scope of our operations.  
+[END TABLE]
+[BEGIN TABLE]
+• We determined that, as of October 2, 2018, our employee population consisted of approximately 2,030  individuals working for Cognex and its consolidated subsidiaries, with approximately 44% of these individuals located in the United States, 31% in Asia and 25% in Europe. This population consisted of our full-time, part-time and temporary employees.  We do not have seasonal employees, and we excluded independent contractors.  
+[END TABLE]
+[BEGIN TABLE]
+• To identify the median employee from our employee population, we examined the annual base salary, annual bonus  target and annual sales commissions for 2018 for all full-time, part-time and temporary employees employed by Cognex and its consolidated subsidiaries at the start of business on October 2, 2018. We believe these pay elements are appropriate  because it was impractical to gather actual data from multiple payroll systems utilized to pay our worldwide workforce, and the actual achievement of the variable portion of compensation can vary widely from year to year.  
+[END TABLE]
+[BEGIN TABLE]
+• No adjustments were made for  cost-of-living differences; and  
+[END TABLE]
+[BEGIN TABLE]
+• An average 2018 U.S. dollar exchange rate was applied to compensation reported in a foreign currency.   
+[END TABLE]
+ All employees except for our CEO were ranked from lowest to highest with the median determined from this list. 
+[BEGIN TABLE]
+• Once we identified our median employee, we combined all of the elements of such employee's compensation for  2018 in accordance with the requirements of Item 402(c)(2)(x) of Regulation S-K, resulting in annual total compensation of $80,625.  
+[END TABLE]
+[BEGIN TABLE]
+• With respect to the annual total compensation of our Chief Executive Officer, we used the amount reported in the  "Total" column of our Summary Compensation Table included in this proxy statement under the heading "Executive Compensation".  
+[END TABLE]
+ PROPOSAL 2: RATIFICATION OF SELECTION OF 
+INDEPENDENT REGISTERED PUBLIC ACCOUNTING FIRM 
+The Audit Committee has appointed Grant Thornton LLP (Grant Thornton) as Cognex's independent registered public accounting firm to examine the consolidated financial statements of Cognex and its subsidiaries for the fiscal year ended December 31, 2019. Grant Thornton has served as Cognex's independent registered public accounting firm since 2007. Although ratification by shareholders is not required by law or by our By-laws, the Audit Committee believes that submission of its selection to shareholders is a matter of good corporate governance. Even if the selection is ratified, the Audit Committee, in its discretion, may select a different independent registered public accounting firm at any time if the Audit Committee believes that such a change would be in the best interests of our company and its shareholders. If our shareholders do not ratify the selection of Grant Thornton, the Audit Committee will take that fact into consideration, together with such other factors as it deems relevant, in determining its next selection of an independent registered public accounting firm. A representative of Grant Thornton is expected to be present at our 2019 Annual Meeting of Shareholders, and will have the opportunity to make a statement if he or she so desires and to respond to appropriate questions. 
+Recommendation 
+OUR BOARD OF DIRECTORS RECOMMENDS THAT SHAREHOLDERS VOTE "FOR" THE RATIFICATION OF THE SELECTION OF GRANT THORNTON LLP AS OUR INDEPENDENT REGISTERED PUBLIC ACCOUNTING FIRM FOR FISCAL YEAR 2019. 
+Fees Paid to Independent Registered Public Accounting Firm and Other Matters 
+The aggregate fees charged or expected to be charged by Grant Thornton and its affiliates for services rendered during 2017 and 2018 are as follows: 
+[BEGIN TABLE]
+ Type of Fee    2018      2017   
+ Audit Fees    $ 1,146,376      $ 1,078,763   
+ Audit-Related Fees    $ 10,400      $ —     
+ Tax Fees    $ —        $ —     
+ All Other Fees    $ —        $ —     
+[END TABLE]
+Audit Fees. These are fees for services rendered in connection with the audit of the annual financial statements included in our Annual Report on Form 10-K; the review of the financial statements included in our Quarterly Reports on Form 10-Q; the audit of our internal control over financial reporting; and for services that are normally provided by an independent auditor in connection with statutory and regulatory filings or engagements. 
+Audit-Related Fees. These are fees for assurance and related services that are reasonably related to the performance of the audit or review of our financial statements or our company's internal control over financial reporting. Audit-related fees for 2018 include services rendered in connection with the filing of a Form S-8 Registration Statement. 
+Tax Fees. These are fees for tax compliance, planning and preparation, and tax consulting and advice. 
+All Other Fees. These are fees for any service not included in the first three categories.  Audit Committee's Pre-Approval Policies 
+The Audit Committee pre-approves all auditing services and the terms of such services and non-audit services provided by Cognex's independent registered public accounting firm, but only to the extent that the non-audit services are not prohibited under applicable law and the Audit Committee reasonably determines that the non-audit services do not impair the independence of the independent registered public accounting firm. The authority to pre-approve non-audit services may be delegated to one or more members of the Audit Committee, who present all decisions to pre-approve an activity to the full Audit Committee at its first meeting following such decision. 
+The pre-approval requirement is waived with respect to the provision of non-audit services for Cognex if: 
+[BEGIN TABLE]
+• the aggregate amount of all such non-audit services provided to us  constitutes not more than 5% of the total amount of fees paid by us to the independent registered public accounting firm during the fiscal year in which such non-audit services were provided;   
+[END TABLE]
+[BEGIN TABLE]
+• those services were not recognized at the time of the engagement to be  non-audit services; and  
+[END TABLE]
+[BEGIN TABLE]
+• those services are promptly brought to the attention of the Audit Committee and approved prior to the completion  of the audit by the Audit Committee or by one or more of its members to whom authority to grant such approvals has been delegated by the Audit Committee.  
+[END TABLE]
+The Audit Committee approved all audit and audit-related services provided to Cognex by Grant Thornton during fiscal years 2017 and 2018. There were no non-audit services provided to Cognex by Grant Thornton for fiscal years 2017 and 2018 that required review by the Audit Committee.  PROPOSAL 3: EXECUTIVE COMPENSATION ("SAY-ON-PAY") 
+We are providing our shareholders with the opportunity to vote on a non-binding, advisory resolution to approve the compensation paid to our named executive officers, as disclosed in this proxy statement pursuant to Item 402 of Regulation S-K, including the Compensation Discussion and Analysis, compensation tables and narrative discussion. This proposal, commonly known as a "say-on-pay" proposal, gives our shareholders the opportunity to express their views on our named executive officers' compensation. At our 2017 Annual Meeting, a majority of votes were cast in favor of holding annual say-on-pay votes. Based on these results, and consistent with the recommendation of the Board of Directors, we will continue to conduct an advisory vote on the compensation of our named executive officers on an annual basis until the next advisory vote on the frequency of such say-on-pay votes, which we expect will occur at our 2023 Annual Meeting of Shareholders. 
+This vote is not intended to address any specific item of compensation, but rather the overall compensation of our named executive officers and the philosophy, policies and practices described in this proxy statement. Accordingly, we will ask our shareholders to vote "FOR" the following resolution at the meeting: 
+"RESOLVED, that the compensation paid to Cognex's named executive officers, as disclosed in this proxy statement pursuant to Item 402 of Regulation S-K, including the Compensation Discussion and Analysis, compensation tables and narrative discussion, is hereby APPROVED." 
+Total compensation for our named executive officers consists primarily of salary, bonus and stock option awards as well as other benefits which are also available to all Cognex employees generally. Salary and bonuses are viewed as short-term compensation to reward our named executive officers for meeting individual and company performance objectives, and stock option awards are viewed as a reward for increasing shareholder value and improving corporate performance over the long term. We also believe that stock option awards promote the retention of talented employees. Determinations with respect to compensation for a fiscal year are generally made in conjunction with our Board of Directors' approval of Cognex's annual budget for that year, which typically takes place at the end of the prior fiscal year. 
+The compensation philosophy and programs for our named executive officers are set forth under the headings "Compensation Discussion and Analysis" and "Executive Compensation." 
+Recommendation 
+OUR BOARD OF DIRECTORS RECOMMENDS A VOTE "FOR" THIS "SAY-ON-PAY" PROPOSAL. 
+The resolution that is the subject of this proposal is advisory in nature and, therefore, is not binding on Cognex, the Compensation/Stock Option Committee or our Board of Directors. However, the Compensation/Stock Option Committee intends to take the results of the vote on this proposal into account when considering future decisions regarding the compensation of our named executive officers.  REPORT OF THE AUDIT COMMITTEE 
+The following is the report of the Audit Committee with respect to Cognex's audited financial statements for the fiscal year ended December 31, 2018. The Audit Committee acts pursuant to a written charter. Each of the members of the Audit Committee qualifies as an "independent" Director under the applicable listing standards of Nasdaq and rules of the SEC. 
+The Audit Committee has reviewed and discussed Cognex's audited financial statements with management. The Audit Committee has discussed with Grant Thornton, Cognex's independent registered public accounting firm, the matters required to be discussed by Auditing Standard No. 1301, Communications with Audit Committees, as adopted by the Public Company Accounting Oversight Board (PCAOB), which provides that certain matters related to the conduct of the audit of Cognex's financial statements are to be communicated to the Audit Committee. The Audit Committee has also received the written disclosures and the letter from Grant Thornton required by applicable requirements of the PCAOB regarding Grant Thornton's communications with the Audit Committee concerning independence, and has discussed with Grant Thornton the independent registered public accounting firm's independence. 
+Based on the review and discussions referred to above, the Audit Committee recommended to the Board of Directors that Cognex's audited financial statements be included in Cognex's Annual Report on Form 10-K for the fiscal year ended December 31, 2018. 
+The foregoing report has been approved by all members of the Audit Committee.  SHAREHOLDER PROPOSALS 
+Under regulations adopted by the SEC, any proposal submitted for inclusion in our proxy statement relating to our 2020 Annual Meeting of Shareholders must be received at our principal executive offices in Natick, Massachusetts on or before November 14, 2019. Our receipt of any such proposal from a qualified shareholder in a timely manner will not ensure its inclusion in the proxy material because there are other requirements in the proxy rules for such inclusion. 
+In addition to the SEC's requirements regarding shareholder proposals, our By-laws contain provisions regarding matters to be brought before shareholder meetings. If shareholder proposals, including proposals regarding the election of Directors, are to be considered at the 2020 Annual Meeting of Shareholders, notice of them must be given by personal delivery or by U.S. mail, postage prepaid, to the Secretary of Cognex Corporation not later than the close of business on January 26, 2020 nor earlier than the close of business on December 27, 2019. However, in the event that the date of the annual meeting is advanced by more than 30 days before or delayed by more than 60 days after the first anniversary of the preceding year's annual meeting, such notice must be delivered not earlier than the close of business on the 120th day prior to such annual meeting and not later than the close of business on the later of the 90th day prior to such annual meeting or the 10th day following the day on which public announcement of the date of such meeting is first made. 
+The notice must set forth: 
+[BEGIN TABLE]
+• Information concerning the shareholder, including his or her name and address;  
+[END TABLE]
+[BEGIN TABLE]
+• A representation that the shareholder is entitled to vote at such meeting and intends to appear in person or by  proxy at the meeting to present the matter specified in the notice; and  
+[END TABLE]
+[BEGIN TABLE]
+• Such other information as would be required to be included in a proxy statement soliciting proxies for the  presentation of such matter to the meeting.  
+[END TABLE]
+Shareholder proposals with respect to the election of Directors must also contain other information set forth in our By-laws. Proxies solicited by our Board of Directors will confer discretionary voting authority with respect to these proposals subject to the SEC's rules governing the exercise of this authority. We suggest that any shareholder proposal be submitted by certified mail, return receipt requested. 
+OTHER MATTERS 
+Management knows of no matters which may properly be and are likely to be brought before the meeting other than the matters discussed in this proxy statement. However, if any other matters properly come before the meeting, the persons named in the enclosed proxy will vote in accordance with their best judgment. 
+[BEGIN TABLE]
+ By Order of the Board of Directors, 
+ Richard A. Morin, Secretary 
+[END TABLE]
+Natick, Massachusetts 
+March 13, 2019  
+[BEGIN TABLE]
+     Your vote matters – here's how to  vote! You may vote online or by phone instead of mailing this card. 
+     Your vote matters – here's how to  vote! You may vote online or by phone instead of mailing this card. 
+     Your vote matters – here's how to  vote! You may vote online or by phone instead of mailing this card. 
+             Votes submitted electronically must be received by 1:00 a.m., EDT,  on Thursday April 25, 2019.   
+             Votes submitted electronically must be received by 1:00 a.m., EDT,  on Thursday April 25, 2019.   
+             Votes submitted electronically must be received by 1:00 a.m., EDT,  on Thursday April 25, 2019.   
+             Online Go to www.envisionreports.com/CGNX or scan the QR code – login details are located in the shaded bar below.   
+             Online Go to www.envisionreports.com/CGNX or scan the QR code – login details are located in the shaded bar below.   
+             Online Go to www.envisionreports.com/CGNX or scan the QR code – login details are located in the shaded bar below.   
+              Phone Call toll free 1-800-652-VOTE (8683) within the USA, US territories and Canada   
+              Phone Call toll free 1-800-652-VOTE (8683) within the USA, US territories and Canada   
+              Phone Call toll free 1-800-652-VOTE (8683) within the USA, US territories and Canada   
+              Save paper, time and money! Sign up for electronic delivery at  www.envisionreports.com/CGNX 
+              Save paper, time and money! Sign up for electronic delivery at  www.envisionreports.com/CGNX 
+[END TABLE]
+q IF VOTING BY MAIL, SIGN, DETACH AND RETURN THE BOTTOM PORTION IN THE ENCLOSED ENVELOPE. q 
+The Board of Directors recommends a vote FOR all the nominees listed in Proposal 1 and FOR Proposals 2 and 3. 
+[BEGIN TABLE]
+ 1. Nominees: Nominated for a term ending in  2022: 
+[END TABLE]
+Please sign exactly as name(s) appears hereon. Joint owners should each sign. When signing as attorney, executor, administrator, corporate officer, trustee, guardian, or custodian, please give full title. 
+02Z0XA 
+2019 Annual Meeting of Shareholders Admission Ticket 
+2019 Annual Meeting of Cognex Corporation Shareholders 
+Thursday, April 25, 2019 at 9:00 a.m. Local Time 
+Cognex Corporation 
+One Vision Drive 
+Natick, Massachusetts 
+Upon arrival, please present this admission ticket and photo identification at the registration desk. 
+DIRECTIONS TO COGNEX CORPORATION 
+One Vision Drive 
+Natick, MA 01760 
+Please note: Guest parking is available in front of the building. 
+From Boston and Logan Airport: 
+From Route 128 (I 95): 
+From Route 495: 
+From Route 90 (Mass Turnpike): 
+From Route 9 West: 
+From Route 9 East: 
+q IF VOTING BY MAIL, SIGN, DETACH AND RETURN THE BOTTOM PORTION IN THE ENCLOSED ENVELOPE. q 
+Notice of 2019 Annual Meeting of Shareholders 
+Proxy Solicited by Board of Directors for Annual Meeting — April 25, 2019 
+Important Notice Regarding the Availability of Proxy Materials for the 2019 Annual Meeting of Shareholders to be held on April 25, 2019: The proxy statement and annual report to shareholders are available at: www.envisionreports.com/CGNX. 
+The undersigned hereby appoints Robert J. Shillman, Robert J. Willett and Richard A. Morin, and each of them, with full power of substitution, as proxies to represent and vote the shares of the undersigned, with all the powers which the undersigned would possess if personally present, at the 2019 Annual Meeting of Shareholders of Cognex Corporation to be held on April 25, 2019 or at any postponement or adjournment thereof. 
+Shares represented by this proxy will be voted as directed by the shareholder. If no such directions are indicated, the shares represented by this proxy will be voted FOR the election of the nominees listed on the reverse side for the Board of Directors and FOR Proposals 2 and 3. 
+In their discretion, the Proxies are authorized to vote upon such other business as may properly come before the meeting. 
+(Items to be voted appear on reverse side.) 
+[BEGIN TABLE]
+  Change of Address — Please print new address below.         Comments — Please print your comments below.         Meeting Attendance      
+  Change of Address — Please print new address below.         Comments — Please print your comments below.         Meeting Attendance      
+  Change of Address — Please print new address below.         Comments — Please print your comments below.         Meeting Attendance      
+ ⬛               + 

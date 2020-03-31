@@ -1,0 +1,749 @@
+SECURITIES AND EXCHANGE COMMISSION
+Washington, D.C. SCHEDULE 14A
+Proxy Statement Pursuant to Section 14(a) of the Securities
+Exchange Act of 1934 (Amendment No.)
+[BEGIN TABLE]
+      Filed by the Registrant    X      Filed by a Party other than the Registrant _____   
+  Check the appropriate box:     						   
+  [   ]    Preliminary Proxy Statement     						   
+  [   ]      Confidential, for Use of the Commission Only (as permitted by Rule 14a-6(e) (2))  
+  [X]    Definitive Proxy Statement     						   
+  [   ]    Definitive Additional Materials     						   
+  [   ]    Soliciting Material Pursuant to 240.14a-12     						   
+[END TABLE]
+FIDELITY D & D BANCORP, INC.
+(Name of Registrant as Specified in Its Charter)
+(Name of Person(s) Filing Proxy Statement if other than the Registrant)
+[BEGIN TABLE]
+  Payment of Filing Fee (Check the appropriate box):  
+  [X]     No filing fee required  
+  [   ]    Fee computed on table below per exchange Act Rules 14a-6 (i) (4)  
+  1)   Title of each class of securities to which transaction applies:  
+  2)   Aggregate number of securities to which transaction applies:  
+  3)   Per unit price or other underlying value of transaction computed pursuant to exchange Act Rule   0-11 (Set forth the amount on which the filing fee is calculated and state how it was determined):  
+  3)   Per unit price or other underlying value of transaction computed pursuant to exchange Act Rule   0-11 (Set forth the amount on which the filing fee is calculated and state how it was determined):  
+  4)   Proposed maximum aggregate value of transaction:  
+  5)   Total fee paid:  
+  [   ]    Fee paid previously with preliminary materials.  
+  [   ]    Check box if any part of the fee is offset as provided by exchange Act Rule 0-11 (a)(2) and identify the filing for which the offsetting fee was paid previously.  Identify the previous filing by registration statement number, or the Form or Schedule and the date of its filing.  
+  1)   Amount Previously Paid:  
+  2)   Form, Schedule or Registration Statement No. :  
+  3)   Filing Party:  
+  4)   Date Filed:  
+[END TABLE]
+[BEGIN TABLE]
+  www.bankatfidelity.com  
+  1 (800) 388-4380  
+[END TABLE]
+[BEGIN TABLE]
+  March 27, 2019  
+[END TABLE]
+Dear Fellow Shareholders of Fidelity D & D Bancorp, Inc.:
+On behalf of the Board of Directors, we are pleased to invite you to attend our Annual Meeting of Shareholders of Fidelity D & D Bancorp, Inc. to be held on Tuesday, May 7, 2019 at 3:00 p.m., Eastern Daylight Time, at the Main office of Fidelity D & D Bancorp, Inc., at Blakely and Drinker Streets, Dunmore, Pennsylvania 18512.  At the annual meeting, you will have the opportunity to ask questions and to make comments.  Enclosed are your requested notice of meeting, proxy statement, proxy card and the Company's 2018 Annual Report to Shareholders.  These materials are also available online at www.bankatfidelity.com/proxymaterials.
+The principal business of the meeting is to nominate and elect three (3) Class C Directors to serve for a three-year term; to ratify the selection of our independent registered public accounting firm; to vote, on a non-binding basis, on the Company's executive compensation; to vote, on a non-binding basis, on the frequency of shareholder votes on executive compensation and to discuss 2018 financial results by management; and to transact any other business that is properly presented at the annual meeting.  The notice of meeting and proxy statement accompanying this letter describes the specific business to be acted upon in more detail.
+We are delighted you have chosen to invest in the Company. We look forward to you joining us. Whether or not you expect to attend the annual meeting in person, we hope that you will vote as soon as possible by internet, telephone or by completing, signing and returning the enclosed proxy in the envelope provided.  The prompt return of your proxy will save the Company expenses involved in further communications.  Your vote is important.  Voting by proxy will ensure your representation at the annual meeting if you do not attend in person.
+We look forward to seeing you on May 7, 2019.
+[BEGIN TABLE]
+      Sincerely,  
+      /s/ Brian J. Cali  
+      Brian J. Cali  
+      Chairman of the Board  
+[END TABLE]
+[BEGIN TABLE]
+  Blakely & Drinker Streets  
+  Dunmore, PA 18512  
+  Tel: (570) 342-8281  
+  Fax: (570) 356-5724  
+[END TABLE]
+FIDELITY D & D BANCORP, INC.
+Blakely and Drinker Streets
+Dunmore, Pennsylvania 18512
+(570) 342- ________________________________________________________
+PROXY STATEMENT
+FOR THE ANNUAL MEETING OF SHAREHOLDERS
+TO BE HELD MAY 7, 2019
+________________________________________________________
+The Board of Directors is distributing this proxy statement to shareholders on or about March 27, 2019
+Nasdaq Market trading symbol: FDBC
+www.bankatfidelity.com
+TABLE OF CONTENTS
+[BEGIN TABLE]
+      PAGE  
+  NOTICE OF ANNUAL MEETING OF SHAREHOLDERS  1   				 
+  PROXY STATEMENT  2   				 
+  PROXY AND VOTING PROCEDURES  2   				 
+  GOVERNANCE OF THE COMPANY  4   				 
+  ELECTION OF DIRECTORS (PROPOSAL NO. 1)  8   				 
+  BOARD OF DIRECTORS AND MANAGEMENT  9   				 
+  REPORT OF THE AUDIT COMMITTEE  11   				 
+  BENEFICIAL OWNERSHIP OF THE COMPANY'S COMMON STOCK BY     						   
+  PRINCIPAL SHAREHOLDERS, DIRECTORS AND EXECUTIVE OFFICERS  13   				 
+  SECTION 16(A) BENEFICIAL OWNERSHIP REPORTING COMPLIANCE  15   				 
+  CERTAIN BUSINESS RELATIONSHIPS AND TRANSACTIONS WITH MANAGEMENT  15   				 
+  Compensation Discussion and analysis  16   				 
+  COMPENSATION COMMITTEE REPORT ON EXECUTIVE COMPENSATION  23   				 
+  SUMMARY COMPENSATION TABLE  23   				 
+  Equity Compensation Plan Information  26   				 
+  NONQUALIFIED DEFERRED COMPENSATION  28   				 
+  POTENTIAL PAYMENTS UPON TERMINATION  28   				 
+  COMPENSATION COMMITTEE INTERLOCKS AND INSIDER PARTICIPATION    33   				 
+  Compensation of Directors  33   				 
+  FREQUENCY OF SHAREHOLDER ADVISORY VOTE ON EXECUTIVE COMPENSATION  35   				 
+  CEO PAY RATIO DISCLOSURE  35   				 
+  RATIFICATION OF SELECTION OF INDEPENDENT REGISTERED PUBLIC ACCOUNTING FIRM (PROPOSAL NO. 2)  36   				 
+  Non-Binding Vote on Executive Compensation (Proposal No. 3)  37   				 
+  Non-Binding Vote on the Frequency of Shareholder Votes on Executive Compensation (Proposal No. 4)  38   				 
+  OTHER MATTERS THAT MAY COME BEFORE THE ANNUAL MEETING  39   				 
+  ADDITIONAL INFORMATION  39   				 
+[END TABLE]
+NOTICE OF ANNUAL MEETING OF SHAREHOLDERS
+TO BE HELD ON MAY 7, 2019
+TO THE SHAREHOLDERS OF FIDELITY D & D BANCORP, INC.:
+NOTICE IS HEREBY GIVEN that Fidelity D & D Bancorp, Inc. will hold its Annual Meeting of Shareholders on Tuesday, May 7, 2019 at 3:00 p.m., Eastern Daylight Time, at the main office of Fidelity D & D Bancorp, Inc., at Blakely and Drinker Streets, Dunmore, Pennsylvania 18512, to consider and vote upon the following proposals:
+[BEGIN TABLE]
+    (1)      to elect three (3) Class C directors to serve for a three-year term and until their successors are elected and qualified; 
+    (2)      to ratify the selection of an independent registered public accounting firm for the Corporation for the year ending December 31, 2019;  
+    (3)      to conduct a non-binding vote on executive compensation;  
+    (4)      to conduct a non-binding vote on the frequency of shareholder votes on executive compensation; and 
+[END TABLE]
+[BEGIN TABLE]
+    (5)      to transact such other business as may properly come before the Annual Meeting and any adjournment or postponement thereof. 
+[END TABLE]
+Shareholders of record at the close of business on March 13, 2019, are entitled to notice of the meeting and may vote at the annual meeting, either in person or by proxy.
+Management welcomes your attendance at the annual meeting.  Whether or not you expect to attend the annual meeting in person, we ask you to promptly fill out the proxy by the following means:  online, by telephone, or sign and date and return in the accompanying postage-paid envelope.  The prompt return of your proxy will save expenses involved in further communications. Even if you return a proxy, you may vote in person if you give written notice to the Secretary of the Company and attend the annual meeting.  Promptly returning your completed proxy will ensure that your shares are voted in accordance with your wishes and will guarantee the presence of a quorum.
+The Board of Directors is distributing this proxy statement, form of proxy, and Fidelity D & D Bancorp, Inc.'s 2018 Annual Report on or about March 27, 2019.
+[BEGIN TABLE]
+      By Order of the Board of Directors,  
+      /s/ John T. Cognetti  
+      John T. Cognetti  
+  Dunmore, Pennsylvania    Secretary  
+  March 27, 2019     						   
+[END TABLE]
+YOUR VOTE IS IMPORTANT.
+PLEASE VOTE ONLINE, BY TELEPHONE, 
+OR COMPLETE, SIGN, DATE AND RETURN YOUR PROXY CARD.
+Important Notice Regarding Internet Availability of Proxy Materials for the Shareholder Meeting to be held on May 7, 2019.  The Proxy Statement, Proxy Card and 2018 Annual Report are available at www.bankatfidelity.com/proxymaterials. PROXY STATEMENT
+Date, Time and Place of the Annual Meeting
+Fidelity D & D Bancorp, Inc. (the "Company") is furnishing this proxy statement in connection with the solicitation by the Board of Directors of proxies to be voted at the Annual Meeting of Shareholders of the Company.  The Annual Meeting will be held at the main office of Fidelity D & D Bancorp, Inc., Blakely and Drinker Streets, Dunmore, Pennsylvania 18512 on Tuesday, May 7, 2019 at 3:00 p.m., Eastern Daylight Time.  The telephone number for the Company is (570) 342-8281.  Please direct all inquiries to Salvatore R. DeFrancesco, Jr., Treasurer and Chief Financial Officer of the Company.
+Description of the Company
+Fidelity D & D Bancorp, Inc., a Pennsylvania corporation and registered bank holding company, was organized in 1999 and became the holding company for The Fidelity Deposit and Discount Bank (the "Bank") on June 30, 2000.   The Bank, the Company's wholly-owned, sole subsidiary, was established in 1902 as a commercial banking institution under the laws of Pennsylvania.  In 1997, the Bank acquired trust powers.  The Bank offers a full range of traditional banking and trust services as well as alternative financial products and services.
+The Board of Directors provides a copy of the annual report for the fiscal year ended December 31, 2018, with this proxy statement.  The annual report is available online at www.bankatfidelity.com/proxymaterials. You may obtain additional print copies of the Company's annual report for the 2018 fiscal year at no cost by contacting Salvatore R. DeFrancesco, Jr., Treasurer and Chief Financial Officer, Fidelity D & D Bancorp, Inc., Blakely and Drinker Streets, Dunmore, Pennsylvania 18512, telephone (570) 342-8281.
+We have not authorized anyone to provide you with information.  You should rely only on the information contained in this document or in documents to which we refer you.  Although we believe we have provided you with all the information you will need to make your decision to vote, events may occur at the Company subsequent to printing this proxy statement that might affect your decision or the value of your stock.
+PROXY AND VOTING PROCEDURES
+Solicitation and Voting of Proxies
+The Board of Directors furnishes this proxy statement and proxy to shareholders on or about March 27, 2019.  The Board of Directors of the Company solicits this proxy for use at the 2019 Annual Meeting of Shareholders of the Company.  The directors, officers and other employees of the Company or the Bank may solicit proxies in person or by telephone, facsimile, or other electronic means. The Company will pay the cost of preparing, assembling, printing, mailing and soliciting proxies and any additional material that the Company sends to shareholders.  The Company will make arrangements with brokerage houses and other custodians, nominees and fiduciaries to forward proxy solicitation materials to the beneficial owners of stock held by these persons.  The Company will reimburse these persons for their reasonable forwarding expenses.
+Only shareholders of record as of the close of business on Wednesday, March 13, 2019, the voting record date, may vote at the annual meeting.  On all matters to come before the annual meeting, shareholders may cast one vote for each share held.  Cumulative voting rights do not exist with respect to the election of directors. By properly completing a proxy, the shareholder appoints the proxy holders named to vote his or her shares as specified on the proxy.  Any valid proxy, which does not specify how the shares are to be voted, will be voted FOR:
+[BEGIN TABLE]
+· Election of Brian J. Cali, Patrick J. Dempsey and Daniel J. Santaniello as Class C directors of the Company, each for three-year terms expiring in 2022;  
+· Ratification of the selection of RSM US LLP as the Company's independent registered public accounting firm for the year ending December 31, 2019  
+· Non-binding vote on executive compensation; and 
+[END TABLE]
+[BEGIN TABLE]
+· Non-binding vote on the frequency of shareholder votes on executive compensation of three years. 
+[END TABLE]
+If a shareholder is a participant in the Fidelity D & D Bancorp, Inc. Dividend Reinvestment Plan, his or her proxy will also serve as a proxy for the shares held in the plan.  Computershare, as the administrator of the plan, will not provide plan participants with separate proxies covering the shares held in the Dividend Reinvestment Plan.  Each holder of common stock is entitled to one vote, in person or by proxy, for each whole share of common stock held as of the record date.  If your proxy is signed but does not indicate your voting preferences, the proxy holders will vote your shares for all nominees, in favor of the proposal to ratify the Company's independent registered public accounting firm, non-binding vote on executive compensation and non-binding vote on the frequency of shareholder votes on executive compensation of three years disclosed in this proxy statement.  If you do not return a proxy, your shares will not be voted.
+Quorum and Vote For Approval
+The Company's Articles of Incorporation authorize the issuance of up to 10,000,000 shares of common stock.  At the close of business on March 13, 2019, the Company had 3,808,787 of common stock outstanding, without par value.  The Company's Articles of Incorporation also authorize the issuance of up to 5,000,000 shares of preferred stock.  The Company has not issued preferred stock.
+To hold the annual meeting, a "quorum" of shareholders must be present.  Under Pennsylvania law and the by-laws of the Company, the presence, in person or by proxy, of the holders of a majority of the outstanding shares entitled to vote is necessary to constitute a quorum for the transaction of business at the meeting.  Votes withheld and abstentions will be counted in determining the presence of a quorum for the particular matter.  The Company will not count broker non-votes in determining the presence of a quorum.  A broker non-vote occurs when a broker nominee, holding shares for a beneficial owner, does not vote on a particular proposal because the nominee does not have discretionary voting power with respect to that item, and has not received instructions from the beneficial owner.  Those shareholders present, in person or by proxy, may adjourn the meeting to another time and place if a quorum is lacking.
+Assuming the presence of a quorum, the three (3) nominees for Class C directors receiving the highest number of votes cast by shareholders entitled to vote for the election of directors shall be elected.  Votes withheld from a nominee and broker non-votes will not be cast for a nominee.  The Company's Articles of Incorporation do not permit cumulative voting in the election of directors.
+Revocability of Proxy
+Shareholders who submit valid proxies to the Company may revoke them at any time before they are voted by:
+[BEGIN TABLE]
+· Delivering written notice of revocation to John T. Cognetti, Secretary of Fidelity D & D Bancorp, Inc., at Blakely and Drinker Streets, Dunmore, Pennsylvania 18512;  
+· Delivering a properly executed proxy bearing a later date to John T. Cognetti, Secretary of Fidelity D & D Bancorp, Inc., at Blakely and Drinker Streets, Dunmore, Pennsylvania 18512; 
+[END TABLE]
+[BEGIN TABLE]
+· Voting again via telephone or Internet vote; or 
+· Attending the meeting and voting in person, after giving written notice to John T. Cognetti, Secretary of the Company. 
+[END TABLE]
+You have the right to vote and, if desired, to revoke your proxy any time before the annual meeting.  Should you have any questions, please call John T. Cognetti, Secretary, at (570) 342-8281.
+Methods of Voting
+If you are a shareholder whose shares are registered in your name, you may vote your shares by using one of the following four methods:
+On-line via the Internet.  If you hold the Company's common stock in your own name and not through a broker or other nominee, you can vote your shares of common stock electronically via the Internet at www.investorvote.com/FDBC.  Internet voting is available 24 hours a day until 3:00 a.m. local time on May 7, 2019.  Internet voting procedures are designed to authenticate shareholders by using the individual control numbers on your shareholder meeting notice or proxy card. If you vote via the Internet, you do not need to return your proxy card.
+Telephone.  If you hold the Company's common stock in your own name and not through a broker or other nominee, you can vote your shares of common stock on a touch tone telephone by dialing the toll-free telephone number 1-800-652-VOTE (8683). Telephone voting is available 24 hours a day until 3:00 a.m. local time on May 7, 2019.  Telephone voting procedures are designed to authenticate shareholders by using the individual control numbers on your shareholder meeting notice or proxy card.  If you vote by telephone, you do not need to return your proxy card.
+Mail.  To vote your proxy by mail, please obtain a copy of the Proxy Materials.  If you want to receive a copy of these documents, you must request one. There is no charge to you for requesting a copy. Then, please complete your proxy card and sign, date and return it in the enclosed envelope. To be valid, a returned proxy card must be signed and dated.
+In person.  If you attend the annual meeting in person, you may vote your shares by completing a ballot at the meeting. If you wish to attend and vote at the meeting, please bring the shareholder meeting notice with you. Attendance at the annual meeting will not by itself be sufficient to vote your shares; you still must complete and submit a ballot at the annual meeting.
+If your shares are registered in the nominee name of a bank or brokerage firm, you will receive instructions from your holder of record that must be followed in order for the record holder to vote the shares per your instructions.  Many banks and brokerage firms have a process for their beneficial holders to provide instructions over the telephone or via the Internet.  If you hold shares through a bank or brokerage firm and wish to be able to vote in person at the meeting, you must obtain a legal proxy from your broker, bank or other holder of record and present it to the inspector of elections with your ballot.
+GOVERNANCE OF THE COMPANY
+Our Board of Directors believes that the purpose of corporate governance is to ensure that we maximize shareholder value in a manner consistent with legal requirements and the highest standards of integrity. The Board of Directors has adopted and adheres to corporate governance practices which the Board of Directors and Management believe promote this purpose, are sound and represent best practices. We continually review these governance practices, Pennsylvania law (the state in which we are incorporated), the rules and listing standards of Nasdaq, and U.S. Securities and Exchange Commission ("SEC") regulations, as well as best practices suggested by recognized governance authorities. Board of Directors Leadership Structure
+The Company separates the roles of Chief Executive Officer and Chairman of the Board in recognition of the differences between the two roles.  The Chief Executive Officer is responsible for setting the strategic direction for the Company and the day-to-day operation and performance of the Company, while the Chairman of the Board provides guidance to the Chief Executive Officer and presides over meetings of the Board of Directors.  The Board of Directors believes the separated roles of Chief Executive Officer and Chairman are in the best interest of shareholders because it promotes both strategic development and facilitates information flow between Management and the Board of Directors, both essential for effective governance.
+The Company's Board of Directors oversees all business, property and affairs of the Company.  The President and Chief Executive Officer and the Company's officers keep the members of the Board of Directors informed of the Company's business through discussions at Board of Directors' meetings and by providing them with reports and other materials. The Directors of the Company also serve as the directors of the Company's wholly-owned bank subsidiary, The Fidelity Deposit and Discount Bank, upon election by the Company.
+Currently, our Board of Directors has nine members. Under the Nasdaq listing standards for independence, Michael J. McDonald, David L. Tressler, Sr., Mary E. McDonald, Brian J. Cali, John T. Cognetti, Patrick J. Dempsey, Kristin D. O'Donnell and Richard J. Lettieri meet the Nasdaq standards for independence. This constitutes more than a majority of our Board of Directors.  In determining the Director's independence, the Board of Directors considered loan and certain business transactions between the Company and the Director, their immediate family members and businesses with whom they are associated.
+The table below includes a description of other categories or types of transactions, and relationships or arrangements considered by the Board of Directors, in addition to those listed above, in reaching their determination that the directors are independent under Nasdaq rules.
+[BEGIN TABLE]
+  Name    Independent    Other transactions, Relationships or Arrangements  
+  Brian J. Cali    Yes    Legal services  
+  John T. Cognetti    Yes    Real Estate services  
+  Patrick J. Dempsey    Yes    Facility Services  
+  Kristin D. O'Donnell    Yes    Facility Services  
+  Richard J. Lettieri    Yes    None  
+  Michael J. McDonald    Yes    None  
+  Mary E. McDonald    Yes    None  
+  David L. Tressler, Sr.    Yes    None  
+[END TABLE]
+In each case, the Board of Directors determined that none of the transactions above impaired the independence of these directors.  For more information, please refer to "Certain Business Relationships and Transactions with Management."
+Risk Management
+The Board of Director's role in the Company's risk oversight process includes receiving regular reports from members of Management on areas of material risk to the Company, including operational, financial, legal, regulatory, strategic, and reputational risks.  The Board of Directors receives reports from various committees of the Board of Directors.  The Chair of the respective committee reports on the discussion to the full Board of Directors during the committee report section of the Board of Directors' meetings.  This enables the Board of Directors and its committees to coordinate risk oversight, particularly with respect to risk interrelationships.  As part of its charter, the Audit Committee discusses, with respect to audit and risk review, the adequacy and effectiveness of internal accounting controls, financial systems or financial statements, the accuracy of management reporting and compliance with laws, regulations and Company policy. The Board of Directors conducted a risk assessment of the Bank's  compensation program and concluded that the program is balanced, does not motivate imprudent risk taking, and is not reasonably likely to have a material adverse effect on the Corporation.
+Meetings and Committees of the Board of Directors
+During 2018, the Company's Board of Directors maintained three standing committees, and the Bank's Board of Directors maintained nine standing committees.  The Board of Directors of the Company has a standing Executive Committee, Compensation Committee and Audit Committee.  In addition, the full Board of Directors of the Company performs the functions of a Nominating Committee.  The Board of Directors of the Bank has an Asset/Liability Committee, Audit and Compliance Committee, Credit Administration Committee, Executive Committee, Human Resource Committee, Compensation Committee, Loan Application Committee, Trust/Investment Committee, and a Building Committee.
+Executive Committee. Members of the Company's Executive Committee were Patrick J. Dempsey, Chairman, Michael J. McDonald, and Brian J. Cali. On October 18, 2018 Patrick J. Dempsey stepped down from the Executive Committee and Kristin D. O'Donnell was appointed.  Brian J. Cali was appointed Chairman on October 18, 2018.   All members of the Executive Committee meet the Nasdaq listing standards for independence. The principal duties of the Executive Committee are to act on behalf of the Board of Directors between meetings to take action on loan approvals and to review and evaluate governance issues and strategic plans.  The Executive Committee met four (4) times in 2018.
+Compensation Committee.  Members of the Company's Compensation Committee were Patrick J. Dempsey, Chairman, Michael J. McDonald, and Brian J. Cali.  On October 18, 2018 Patrick J. Dempsey stepped down from the Compensation Committee and Kristin D. O'Donnell was appointed.  Brian J. Cali was appointed Chairman on October 18, 2018.   All members of the Compensation Committee meet the Nasdaq listing standards for independence.  The primary purpose of the committee is to review and approve the annual base salaries and annual incentive for the Chief Executive Officer and other executive officers; incentive awards including both cash based and equity based awards; any employment arrangements; any change-in-control agreements; and any element of compensation and benefits.   Secondarily, the committee reviews and makes recommendations to our Board of Directors regarding director compensation.  Lastly, the committee reviews and makes recommendations to the Board of Directors with respect to new compensation programs. The committee's charter is available on our website, www.bankatfidelity.com, under Investor Relations – Other Information – Governance Documents.  The Compensation Committee met three (3) times in 2018.
+Audit Committee.  Members of the Company's Audit Committee were Michael J. McDonald, Chairman, Mary E. McDonald, Richard J. Lettieri and David L. Tressler, Sr.  All members are independent under Nasdaq and SEC standards.  The Board of Directors has determined that David L. Tressler, Sr. is an "audit committee financial expert" as defined under applicable SEC and Nasdaq rules.  The principal duties of the Audit Committee, as set forth in its charter, which is available on our website, www.bankatfidelity.com, under Investor Relations - Other Information - Governance Documents, include reviewing significant audit and accounting principles, policies and practices, reviewing performance of internal auditing procedures, reviewing reports of examination received from regulatory authorities and recommending annually, to the Board of Directors, the engagement of an independent registered public accounting firm.  The Audit Committee met five (5) times during 2018.
+Nominating Committee.  The entire Board of Directors desires to participate on and performs the functions of a Nominating Committee.  All members of the Board of Directors, except for Daniel J. Santaniello, meet the Nasdaq listing standards for independence.  Because of full director participation, the Board of Directors believes there is no need to have a separate standing committee to perform similar functions. The principal duties of a Nominating Committee include developing and recommending the criteria for selecting qualified director candidates, identifying individuals qualified to become Board of Directors members, evaluating and selecting or recommending director nominees for each election of directors, considering committee member qualifications, appointment and removal, recommending codes  of conduct and codes of ethics applicable to the Company and providing oversight in the evaluation of the Board of Directors and each committee.  Because of the rare occurrence of shareholder recommendations, the Board of Directors has not developed a formal policy to consider potential director candidates recommended by shareholders, but will give due consideration to any and all such candidates.  If a shareholder wishes to recommend a potential director candidate, the shareholder should mail the information regarding the candidate as required by the Company's by-law provision section 9.1 to the Secretary of the Company at the Company's offices at Blakely and Drinker Streets, Dunmore, PA 18512.  The Board of Directors acting as a Nominating Committee did not meet in 2018.
+Composition Table of the Company and Bank Committees
+[BEGIN TABLE]
+                 CREDIT          						     HUMAN              TRUST/       
+       AUDIT*     ALCO    ADM.    EXEC.*    COMP*    RESCS.    LOAN    NOM*    INVEST.    BLDG  
+  Brian J. Cali              X    X    X         X    X    X    X  
+  John T. Cognetti               						           						          X    X    X    X  
+  Patrick J. Dempsey         X    X      						      						     X    X    X     						        
+  Richard J. Lettieri    X     						     X     						      						     X    X    X     						      						   
+  Mary E. McDonald    X    X               						     X    X    X    X       
+  Michael J. McDonald    X         X    X    X         X    X            
+  Kristin D.  O'Donnell     						     X    X    X    X     						     X    X    X     						   
+  Daniel J. Santaniello     						     X    X     						      						     X    X    X    X    X  
+  David L. Tressler, Sr.    X                    						     X    X    X         X  
+  Meetings held in 2018    5    4    4    4    3    2    24    0    4    1  
+[END TABLE]
+*Committee jointly serves both the Company and Bank.
+The Board of Directors of the Company met 24 times during 2018.  There were a total of 51 meetings of the various committees of the Board of Directors in 2018.  All directors attended at least 75% or more of the meetings of the Board of Directors and of the various committees on which they served. The Board of Directors has no policy regarding annual meeting attendance.  All directors attended the 2018 Annual Meeting of Shareholders.  All directors anticipate attending the 2019 meeting.
+Shareholder Communications
+The Board of Directors has not adopted a formal process for shareholders to send communications to the Board of Directors.  Due to the infrequency of shareholder communications, the Board of Directors does not believe that a formal process is necessary.  Written communications received by the Company from shareholders are shared with the full Board of Directors no later than the next regularly scheduled Board of Directors meeting.
+Nomination of Directors
+In considering whether to recommend any candidate for inclusion as a nomination for director, including candidates recommended by shareholders, the Board of Directors has determined that the Board of Directors must have the right diversity.  This includes the candidate's integrity, business acumen, age, experience, education, commitment, diligence, conflicts of interest and the ability to act in the best interests of all shareholders.  The Board of Directors seeks nominees with a broad diversity of experience, professions, skills, geographic representation and backgrounds.  Nominees are not discriminated against on the basis of race, religion, national origin, sexual orientation, disability or any other basis proscribed by law.
+Under the Company's by-laws, nominations for director may be made by the Board of Directors or by a shareholder of record entitled to vote. In order for a shareholder to make a nomination, the  shareholder must provide a notice along with the additional information and materials required by the by-laws to the Company's Secretary not less than 60 days prior to the date of any meeting of shareholders called for the election of directors. For our annual meeting in the year 2020, we must receive this notice on or before March 6, 2020. You can obtain a copy of the full text of the by-law provision by writing to John T. Cognetti, Secretary, Blakely and Drinker Streets, Dunmore, PA. A copy of our by-laws has been filed with the Securities and Exchange Commission as an exhibit to the Company's current report on Form 8-K, filed with the SEC on November 21, 2007.
+Submission of Shareholder Proposals
+Any shareholder who, in accordance with the proxy rules of the SEC, wishes to submit a proposal for inclusion in the Company's proxy statement for its 2020 Annual Meeting of Shareholders must deliver such proposal in writing to the Secretary of Fidelity D & D Bancorp, Inc. at its principal executive office, Blakely and Drinker Streets, Dunmore, Pennsylvania 18512, not later than November 28, 2019.
+A shareholder may have other business brought before the 2020 Annual Meeting by submitting the proposal to the Company's Secretary, in accordance with our by-laws. The proposal must be delivered to our executive offices at Blakely and Drinker Streets, Dunmore, PA 18512, to the attention of the Company's Secretary. We are not required to include any proposal received after November 28, 2019 in our proxy materials for the 2020 annual meeting. 
+Employee Code of Ethics
+Since 1993, the Bank has had a Code of Ethics.  As required by law and regulation, the Board of Directors amended the Code of Ethics as of May 16, 2017, so that our Code of Ethics is applicable to all of the Company's and the Bank's directors, officers and employees, including the Chief Executive Officer and senior financial officers.
+The Code of Ethics encourages individuals to report any conduct that they believe in good faith to be an actual or apparent violation of the code of ethics. The Board of Directors periodically receives reports on our compliance program.  The Code of Ethics is posted on our website at www.bankatfidelity.com, under Investor Relations - Other Information - Governance Documents. We have also filed a copy of the Code of Ethics with the SEC as Exhibit 14 to our May 22, 2017 current report on Form 8-K.
+ELECTION OF DIRECTORS
+(PROPOSAL NO. 1)
+Qualification and Nomination of Directors
+The Company's by-laws provide that the Board of Directors consist of at least three directors and be classified into three classes.  Each class is elected for a term of three years.  Accordingly, the terms of the classes expire at successive annual meetings.  The Board of Directors may fix the number of directors and their respective classifications within the foregoing limits.  A majority of the Board of Directors may also fill vacancies on the Board, and the person appointed to fill the vacancy serves, until the expiration of the term of office of the class of directors to which he or she was appointed. 
+THE BOARD OF DIRECTORS RECOMMENDS THAT SHAREHOLDERS VOTE FOR THE PROPOSAL TO ELECT THE THREE NOMINEES LISTED BELOW AS CLASS C DIRECTORS OF THE COMPANY.
+Currently, Class A consists of three directors, Class B consists of three directors, and Class C consists of three directors.  Shareholders will elect three Class C directors at the annual meeting to serve for a three-year term that expires at the Company's annual meeting in the year 2022
+The proxy holders will vote the proxies for the election of each of the nominees named below, unless you indicate that your vote should be withheld from any or all of them.  Each nominee elected as a  director will continue in office until his or her successor has been duly elected and qualified, or until his or her death, resignation or retirement.
+The Board of Directors nominated Brian J. Cali,  Patrick J. Dempsey and Daniel J. Santaniello to serve as Class C directors until the 2022 annual meeting of shareholders. Messrs. Cali, Dempsey and Santaniello are presently members of the Board of Directors and have consented to serve another term if elected.  If any of the nominees is unable to serve for any reason, a majority of the Board of Directors then in office may fill the vacancy until the expiration of the term of the class of directors to which he or she was appointed. 
+The Board of Directors is proposing the following nominees for election as Class C Directors at the annual meeting:
+[BEGIN TABLE]
+  Brian J. Cali, Esquire    Patrick J. Dempsey    Daniel J. Santaniello  
+[END TABLE]
+The Board of Directors recommends a vote FOR the election of the above named nominees for directors.
+BOARD OF DIRECTORS AND MANAGEMENT
+Information as to Directors and Nominees
+The following biographies contain selected information with respect to the directors of the Company.  The information includes each person's age as of March 13, 2019, and principal occupation for at least the past five years.
+Current Class A Directors (to serve until 2021) 
+John T. Cognetti
+Mr. Cognetti, age 69, has been a Director of the Company since 1999. He has served as a member of the Bank's Board of Directors since 1988.   Mr. Cognetti is President of Hinerfeld Commercial Real Estate, based in Scranton, Pennsylvania. With his background and forty years' experience in real estate brokerage, he provides insight on the market value of regional commercial real estate providing guidance to the Board. Also having hired and managed sales professionals in his business, Mr. Cognetti shares his insight on marketing, sales and management issues. 
+Richard J. Lettieri
+Mr. Lettieri, age 71, has been a Director of the Company and a member of the Bank's Board of Directors since 2012.  In 1986, Mr. Lettieri founded Dock Square Consultants in Boston, MA, and managed the firm until his retirement in 2005.  His consulting practice focused on business strategy and market development. Mr. Lettieri's expertise in strategic consulting, centering on helping to solve complex problems and plot future directions in a wide variety of business environments, provides valuable insight for the Company and Bank.
+Michael J. McDonald, Esquire
+Mr. McDonald, age 64, has been a Director of the Company since 1999. Mr. McDonald has served as a member of the Bank's Board of Directors since 1994. He is a partner with the law firm of McDonald and MacGregor, LLC in Scranton, Pennsylvania. Mr. McDonald's education and legal experience provides valuable insight for the Company and Bank.
+Current Class B Directors (to serve until 2020) 
+Mary E. McDonald
+Mrs. McDonald, age 86, has been a Director of the Company and member of the Bank's Board of Directors since 2000.  Mrs. McDonald is a retired educator. Mrs. McDonald's many years in education provides valuable insight for the Company and Bank.  Kristin D. O'Donnell 
+Mrs. O'Donnell, age 49, has been a Director of the Company and a member of the Bank's Board of Directors since 2012.  Mrs. O'Donnell's experience includes over fourteen years as a vice president of sales and marketing for Dempsey Uniform & Linen Supply, Inc., in Jessup, Pennsylvania, driving the responsible and successful growth of the company.  As an owner and member of the Company's Board of Directors, she has also participated in risk assessment, financial statement preparation, review and analysis, and acquisitions.  Mrs. O'Donnell has an undergraduate degree in Engineering and an M.B.A.  Mrs. O'Donnell's education and experience provides valuable insight for the Company and Bank.
+David L. Tressler, Sr.
+Mr. Tressler, age 82, has been a Director of the Company since 1999.  Mr. Tressler has been a member of the Bank's Board of Directors since 1998.  He is currently a consultant for The Quandel Group, Inc., in Scranton, Pennsylvania.  Mr. Tressler has a broad knowledge from his many years of banking experience which included 16 years as Chairman and CEO of a regional bank.
+Current Class C Directors (to serve until 2019) and Nominees (to serve until 2022, if re-elected) 
+Brian J. Cali, Esquire
+Mr. Cali, age 66, has been a Director of the Company and a member of the Bank's Board of Directors since February of 2001. He is the managing owner of Brian J. Cali and Associates a Pennsylvania law firm located in Dunmore, Pennsylvania. He has been a practicing attorney for over 40 years. Mr. Cali is also the owner of several businesses located in Northeastern Pennsylvania.
+Attorney Cali's law practice and the experience he has in the operation and management of several businesses provides a wealth of knowledge as a Director and as Chairman.
+Patrick J. Dempsey
+Mr. Dempsey, age 85, has been a Director of the Company since 1999. Mr. Dempsey has also served as a member of the Bank's Board of Directors since 1985.  He is the founder and Chairman of the Board of Dempsey Uniform & Linen Supply, Inc., in Jessup, Pennsylvania.  In addition to his advanced formal education, Mr. Dempsey has gained extensive knowledge in Human Resources, Finance, Marketing/Sales and Operations.
+Daniel J. Santaniello
+Mr. Santaniello, age 53, has been a Director of the Company and a member of the Bank's Board of Directors since March 2011. Mr. Santaniello has served as President and Chief Executive Officer of the Corporation and Bank since December 2010. Mr. Santaniello had previously served as Vice President and Chief Operating Officer of the Company since May 2004. Mr. Santaniello has a broad knowledge of banking from his many years in the industry.
+Family Relationships
+Director Mary E. McDonald is the aunt of Director Michael J. McDonald, Esquire.
+Director Kristin D. O'Donnell is the daughter of Director Patrick J. Dempsey.
+Executive Officers of the Company and Bank
+Daniel J. Santaniello, age 53, has served as President and Chief Executive Officer of the Corporation and Bank since December 2010.  Mr. Santaniello had previously served as Vice President and Chief Operating Officer of the Company since May 2004.  Mr. Santaniello has been employed by the Bank since July 2001.
+Salvatore R. DeFrancesco, Jr., CPA, CGMA, age 49, has served as Treasurer and Chief Financial Officer of the Company since January 2003.  Mr. DeFrancesco has been employed by the Bank since January 2003 and serves as Executive Vice President and Chief Financial Officer.  Timothy P. O'Brien, age 67, has been employed by the Bank since January 2008 and serves as Senior Executive Vice President and Chief Lending Officer.
+Eugene J. Walsh, age 54, re-joined the Bank on March 17, 2014 as Executive Vice President and Chief Risk and Credit Officer.  In May 2016, Mr. Walsh was named Vice President and Chief Operating Officer of the Company and Executive Vice President and Chief Operating Officer of the Bank.  Mr. Walsh was previously Executive Vice President and Senior Loan Officer of the Bank from 2001 to 2005. During the interim period, Mr. Walsh served as Vice President, Government Banking & Corporate Lending at M&T Bank in Wilkes-Barre, Pennsylvania, and Chief Financial Officer of Intific, Inc. in Peckville, Pennsylvania.
+Michael J. Pacyna, age 53, joined the Bank on April 14, 2015 as Executive Vice President and Chief Business Development Officer.  Mr. Pacyna was previously employed by PNC Bank for 26 ½ years as SVP Commercial and Corporate Manager based in Scranton, PA. 
+REPORT OF THE AUDIT COMMITTEE
+The Audit Committee of the Board of Directors is comprised of directors who meet the Nasdaq standards for independence.   The Audit Committee operates under a written charter adopted in 2004 by the Board of Directors, which was reviewed and revised in February 2008, and is available through our website, www.bankatfidelity.com, under Investor Relations - Other Information - Governance Documents.
+The Audit Committee met with Management periodically during the year to consider the adequacy of the Company's internal controls and the objectivity of its financial reporting. The Audit Committee discussed these matters with the Company's independent registered public accountants and with appropriate Company financial personnel and internal auditors. The Audit Committee also discussed with the Company's Management and independent registered public accountants the process used for certifications by the Company's Chief Executive Officer and Chief Financial Officer which are required for certain of the Company's filings with the Securities and Exchange Commission.
+The Audit Committee met privately at its regular meeting with both the independent registered public accountants and the internal auditors, as well as with the Chief Financial Officer and the Chief Executive Officer on a number of occasions, each of whom has unrestricted access to the Audit Committee.
+The Trust and Compliance Management System audits have been outsourced to independent auditors, S.R. Snodgrass, P.C. ("Snodgrass").  The main responsibility of the firm was to complete the internal audits necessary to meet the monitoring component of the Internal Control – Integrated Framework issued by the Committee of Sponsoring Organizations of the Treadway Commission.  Other responsibilities included identifying, re-testing and reporting all significant findings to the Audit Committee.
+The Audit Committee outsourced the regulatory compliance audit function to the independent firm Snodgrass.  Snodgrass specializes in providing regulatory compliance services to the financial services industry.  The main responsibility of the firm is to provide comprehensive regulatory compliance audits to identify compliance exceptions and report all significant exceptions to the Audit Committee. 
+Finally, the Audit Committee outsourced the Information Technology audit, including an audit of the FFIEC Maturity level and Cybersecurity, to NETBank Audit of Alexandria, Va. 
+The commitment of the Audit Committee, internal audit, and management, resulted in the completion of the scheduled internal audits. Management, in response to findings, has taken corrective action and internal audit re-testing was performed as required.  The combined efforts were successful in meeting the internal control components of risk assessment and monitoring required by year end. The internal audit outsource arrangement, audit schedule and the commitment to maintain an effective system  of internal controls, required under regulation, caused the Audit Committee to meet five (5) times in 2018.
+The Audit Committee selected RSM US LLP as the independent registered public accounting firm for the Company in 2016 after reviewing the firm's performance and independence from Management.
+Management has primary responsibility for the Company's consolidated financial statements and the overall reporting process, including the Company's system of internal controls.
+RSM US LLP audited the annual consolidated financial statements prepared by Management, expressed an opinion as to whether those consolidated financial statements fairly present the consolidated financial position, results of operations and cash flows of the Company in conformity with accounting principles generally accepted in the United States of America and discussed with the Audit Committee any issues they believed should have been raised with the Audit Committee.
+The Audit Committee reviewed with Management and RSM US LLP,  the Company's audited consolidated financial statements and met separately with both Management and RSM US LLP,  to discuss and review those consolidated financial statements and reports prior to issuance. Management has represented, and RSM US LLP has confirmed, to the Audit Committee that the consolidated financial statements were prepared in accordance with accounting principles generally accepted in the United States of America. The Audit Committee also has discussed with RSM US LLP the matters required to be discussed by Statement of Auditing Standards No. 1301, Communications with Audit Committees, as currently in effect.
+The Audit Committee received from RSM US LLP,  the written disclosure and the letter required by Public Company Accounting Oversight Board (PCAOB) Rule 3526, Communication with Audit Committees Concerning Independence.  The Audit Committee first discussed with RSM US LLP,  the items related to the firm's independence from the Company. The Audit Committee also discussed with RSM US LLP,  matters required to be discussed by PCAOB Auditing Standards No. 16, Communication with Audit Committee. As such, the Audit Committee implemented a procedure to monitor auditor independence, reviewed audit and non-audit services performed by RSM US LLP,  and discussed with the auditors their independence.
+In reliance on these reviews and discussions referred to above, the Audit Committee recommended to the Board of Directors that the Company's audited consolidated financial statements be included in the Company's Annual Report on Form 10-K for the fiscal year ended December 31, 2018, for filing with the Securities and Exchange Commission.  The Committee and the Board of Directors have also recommended, subject to shareholder ratification, the selection of RSM US LLP, as the Company's independent registered public accounting firm for the year ending December 31, 2019.
+Members of the Audit Committee
+Michael J. McDonald, Chairman
+David L. Tressler, Sr.
+Mary E. McDonald
+Richard J. Lettieri BENEFICIAL OWNERSHIP OF THE COMPANY'S COMMON STOCK BY PRINCIPAL SHAREHOLDERS, DIRECTORS AND EXECUTIVE OFFICERS
+The following table shows, to the best of our knowledge, the names and address of each person or entity who owned more than 5% of the Company's outstanding common stock, either on the Company's records or indirectly as a "beneficial" owner, as of February 28, 2019:
+[BEGIN TABLE]
+     						    						    						    						    						     Stock(1)     						   
+     						    						    						    						    						     Stock(1)     						   
+     						    						    						    						    						     Stock(1)     						   
+     						    						   Name and  address   						      						   Amount and Nature of Beneficial Ownership of Company's Common Stock(1)    Percentage of Company's Common Stock Beneficially Owned   
+     						    						   Name and  address   						      						   Amount and Nature of Beneficial Ownership of Company's Common Stock(1)    Percentage of Company's Common Stock Beneficially Owned   
+     						    						   Name and  address   						      						   Amount and Nature of Beneficial Ownership of Company's Common Stock(1)    Percentage of Company's Common Stock Beneficially Owned   
+  Brian J. Cali  103 East Drinker Street  Dunmore, PA 18512    338,497 (2)    8.84%  
+  Brian J. Cali  103 East Drinker Street  Dunmore, PA 18512    338,497 (2)    8.84%  
+[END TABLE]
+The following table provides information, as of February 28, 2019, with respect to the following beneficial owners of the Company's common stock:
+[BEGIN TABLE]
+· Each Director of the Company 
+· Each Named Executive Officer  
+· All Executive Officers and Directors as a group 
+[END TABLE]
+We determined beneficial ownership by applying the General Rules and Regulations of the SEC, which state that a person may be credited with the ownership of common stock:
+[BEGIN TABLE]
+· Owned by or for the person's spouse, minor children or any other immediate family member sharing the person's home; 
+· Of which the person shares voting power, which includes the power to vote or to direct the voting of the stock; and 
+· Of which the person has investment power, which includes the power to dispose of or direct the disposition of the stock. 
+[END TABLE]
+Also, a person who has the right to acquire shares within 60 days after February 28, 2019, will be considered to own the shares.  As of February 28, 2019, the number of shares of common stock outstanding was approximately 3,808,787.  The calculation of percentages is based upon this number, plus the exercisable number of stock-settled stock appreciation rights (SSARs) for that individual or for the group which has a total of 20,615 shares of common stock subject to exercisable SSARs for a total of 3,829,402 shares.
+[BEGIN TABLE]
+  Name of Individual and  Position with Company    Amount and Nature of Beneficial Ownership of Company's Common Stock(1)    Percentage of Company's Common Stock Beneficially Owned  
+  Name of Individual and  Position with Company    Amount and Nature of Beneficial Ownership of Company's Common Stock(1)    Percentage of Company's Common Stock Beneficially Owned  
+  Brian J. Cali    338,497(2)    8.84%  
+  Chairman of the Board, Director & Nominee      						      						   
+  Michael J. McDonald     144,271(3)     3.77%  
+  Vice Chairman & Director     						      						   
+[END TABLE]
+[BEGIN TABLE]
+    Mary E. McDonald        139,638(4)     						   3.65%  
+    Mary E. McDonald        139,638(4)     						   3.65%  
+  Assistant Secretary, Director      						      						   
+  Patrick J. Dempsey   Chairman Emeritus, Director & Nominee      112,868(5)    2.95%  
+  Patrick J. Dempsey   Chairman Emeritus, Director & Nominee      112,868(5)    2.95%  
+  Kristin D. O'Donnell  Director       70,166(6)    1.83%  
+  Daniel J. Santaniello   President & Chief Executive Officer, Director & Nominee        55,647(7)    1.45%  
+  Richard J. Lettieri   Director       55,241(8)    1.44%  
+  Richard J. Lettieri   Director       55,241(8)    1.44%  
+  Salvatore R. DeFrancesco, Jr.  Treasurer & Chief Financial Officer      26,930(9)    *  
+  David L. Tressler, Sr.  Director      26,776(10)    *  
+  John T. Cognetti  Secretary & Director       20,846(11)    *  
+  John T. Cognetti  Secretary & Director       20,846(11)    *  
+  Timothy P. O'Brien  Senior Executive Vice President & Chief Lending Officer of the Bank        14,067(12)    *  
+  Eugene J. Walsh  Vice President & Chief Operating Officer            8,207(13)    *  
+  Michael J. Pacyna  Executive Vice President & Chief Business Development Officer of the Bank           6,10814)    *  
+  Michael J. Pacyna  Executive Vice President & Chief Business Development Officer of the Bank           6,10814)    *  
+  All Officers and Directors as a Group  (9 Directors, 5 Officers, 13 persons in total)                  1,019,262    26.62%  
+[END TABLE]
+*     Represents beneficial ownership of less than 1% of the Company's common stock.
+[BEGIN TABLE]
+    (1)      Information furnished by the directors, named executive officers and the Company. 
+    (2)      Figure includes 174,863 shares held solely by Mr. Cali, 70,808 shares held for Mr. Cali in a self-employed retirement trust, 23,383 shares held jointly by Mr. Cali and his children, 1,016 shares held by Mr. Cali's children, 67,027 shares held in Samuel C. Cali, GST Exempt Residuary Trust and 1,400 shares of unvested stock. 
+[END TABLE]
+[BEGIN TABLE]
+    (3)      Figure includes 112,246 shares held solely by Mr. McDonald, 25,022 shares held by Mr. McDonald's spouse, 2,509 shares held jointly by Mr. McDonald's spouse and children, 3,094 shares held by Mr. McDonald's children and 1,400 shares of unvested stock. 
+    (4)      Figure includes 138,238 shares held solely by Mrs. McDonald and 1,400 shares of unvested stock. 
+    (5)      Figure includes 29,314 shares held solely by Mr. Dempsey, 82,154 shares held by Mr. Dempsey's spouse and 1,400 shares of unvested stock. 
+    (6)      Figure includes 31,967 shares held solely by Mrs. O'Donnell, 31,215 shares held by Mrs. O'Donnell's spouse, 5,584 shares held by Mrs. O'Donnell's spouse and children and 1,400 shares of unvested stock. 
+    (7)      Figure includes 24,715 shares held solely by Mr. Santaniello, 10,393 shares held jointly by Mr. Santaniello and his spouse, 9,131 shares held jointly by Mr. Santaniello and his son, 3,233 shares of unvested stock and approximately 8,175 shares from 16,272 exercisable SSARs. 
+    (8)      Figure includes 5,543 shares held solely by Mr. Lettieri, 42,586 shares held in trust for Mr. Lettieri, 5,712 shares held in trust for Mr. Lettieri's spouse and 1,400 shares of unvested stock. 
+    (9)      Figure includes 5,246 shares held solely by Mr. DeFrancesco, 15,584 shares held jointly by Mr. DeFrancesco and his spouse, 1,765 shares of unvested stock and approximately 4,335 shares from 8,650 exercisable SSARs. 
+    (10)      Figure includes 4,125 shares held solely by Mr. Tressler, 21,215 shares held jointly by Mr. Tressler and his spouse, 36 shares held jointly by Mr. Tressler and his grandson and 1,400 shares of unvested stock. 
+    (11)      Figure includes 12,241 shares held solely by Mr. Cognetti, 5,156 shares held by Mr. Cognetti's spouse, 2,049 shares held by Mr. Cognetti's children and 1,400 shares of unvested stock. 
+    (12)      Figure includes 1,028 shares held solely by Mr. O'Brien, 1,593 shares held solely by Mr. O'Brien's spouse, 5,340 shares held jointly by Mr. O'Brien and his spouse, 1,705 shares of unvested stock and approximately 4,401 shares from 8,705 exercisable SSARs. 
+    (13)      Figure includes 4,162 shares held solely by Mr. Walsh, 1,811 shares of unvested stock and approximately 2,234 shares from 5,200 exercisable SSARs.  
+    (14)      Figure includes 2,415 shares held solely by Mr. Pacyna, 264 shares held jointly by Mr. Pacyna and his spouse, 1,959 shares of unvested stock and approximately 1,470 shares from 3,783 exercisable SSARs. 
+[END TABLE]
+SECTION 16(A) BENEFICIAL OWNERSHIP REPORTING COMPLIANCE
+Section 16(a) of the Securities Exchange Act of 1934 requires the Company's officers and directors, and persons who own more than 10% of the registered class of the Company's equity securities to file initial reports of ownership and reports of changes in ownership with the Securities and Exchange Commission.  Officers, directors and greater than 10% shareholders are required by SEC regulation to furnish the Company with copies of all filed Section 16(a) forms.  The Board of Directors knows of no persons who own greater than 10% of the Company's outstanding common stock. 
+Based solely on its review of the copies of such forms received by it, or written representations from certain reporting persons, the Company believes that during the period from January 1, 2018, through December 31, 2018, all officers and directors were in compliance with all filing requirements applicable to them.
+CERTAIN BUSINESS RELATIONSHIPS AND TRANSACTIONS WITH MANAGEMENT
+Except as described below, the Company has not entered into and does not intend to enter into any material transactions with any director or executive officer of the Company and/or the Bank or their immediate family members or associated companies. 
+Some of our directors, officers, their immediate family members and the companies with which they are associated had banking transactions with the Bank in the ordinary course of business during 2018, and the Bank expects to continue such banking transactions in the future. Total loans outstanding from the Bank at December 31, 2018, to the Company's/Bank's officers and directors as a group, members of their immediate families and companies in which they had an ownership interest of 5% or more, amounted to $6,541,613, or approximately 7% of the total Shareholders' equity of the Bank.  The Bank made these loans in the ordinary course of business on substantially the same terms, including interest rates and collateral, as those prevailing at the time for comparable transactions with other persons, not associated with the Bank, and they did not involve more than the normal risk of collection or present other unfavorable features.
+The largest total amount of indebtedness outstanding during 2018 to the above described group was approximately $7,507,114.  The aggregate amount of indebtedness outstanding as of the latest practicable date, February 28, 2019, to the above group was approximately $6,263,620.
+Written policies and procedures for approving loans to related parties are comparable to those applied to non-related parties. In deciding whether to approve other types of related person transactions the following factors may be considered:
+• Information about the goods or services proposed to be or being provided by or to the related party or the nature of the transactions;
+• The nature of the transactions and the costs to be incurred by the Company or payments to the Company;
+• An analysis of the costs and benefits associated with the transaction and a comparison of comparable or alternative goods or services that are available to the Company from unrelated parties; and
+• The business advantage the Company would gain by engaging in the transaction.
+To receive approval, the related person transaction must be on terms that are fair and reasonable to the Company, and that are as favorable to the Company as would be available from non-related entities in comparable transactions.
+Other than loans, there have been no material transactions between the Company or the Bank, or any material transactions proposed, with any director or executive officer of the Company or the Bank, or any associate of these persons.  The Bank does, from time-to-time, enter into non-material transactions with related parties.
+The Bank paid, in its ordinary course of business, for legal services performed by Brian J. Cali, Esquire until October 18, 2018, when Mr. Cali was named Chairman of the Board of Directors and stepped down as general counsel.  During 2018, the Bank paid in its ordinary course of business, approximately $176,000 in fees for architectural services performed by DX Dempsey, of which Michele Dempsey, daughter of Patrick J. Dempsey and sister of Kristin D. O'Donnell, is owner.  Further, in 2018, the Bank paid Dempsey Uniform & Linen Supply, Inc., of which Patrick J. Dempsey is Chairman of the Board, and of which Kristin D. O'Donnell is a vice president, for laundry and uniform services; Guy Cali and Associates, Inc., of which Guy Cali, brother of Brian J. Cali, is owner, for photography services and creative projects; KJB Investigative Service, of which Kevin Schmidt, brother-in-law of Eugene Walsh, is owner, for investigative services and to ERA One Source Realty, of which Antoinette Walsh, wife of Eugene Walsh, is a real estate agent, for the commissions on the sale of real estate.  The bank also paid for legal services performed by Tressler Law LLC, of which James M. Tressler, Esquire is an owner and the son of David L. Tressler, Sr.  All of these products and services were sold or provided according to the customary price or fee schedule of the seller or service provider.
+COMPENSATION DISCUSSION AND ANALYSIS
+The following Compensation Discussion and Analysis discusses the compensation awarded to named executive officers.  Named executive officers include the principal executive officer, the principal financial officer, the Corporation's three most highly compensated executive officers (earning over $100,000) other than the principal executive officer and the principal financial officer who were serving  as executive officers at the end of the last completed fiscal year. The named executive officers for the year 2018 are Daniel J. Santaniello, President and Chief Executive Officer; Salvatore R. DeFrancesco, Jr., Treasurer and Chief Financial Officer; Eugene J. Walsh, Vice President and Chief Operating Officer; Timothy P. O'Brien, Senior Executive Vice President and Chief Lending Officer of the Bank; and Michael J. Pacyna, Executive Vice President and Chief Business Development Officer of the Bank.
+Objectives of Compensation Programs 
+The Company's compensation philosophy is to reward management for exceptional performance.  The program is designed with compensation-based tools, allowing for recruitment and retention of executives and encouragement for executives to work toward enhancing shareholder value in an easily understood and calculable manner.  The Compensation Committee's intention is to provide a comprehensive plan to reward for consistent performance while avoiding outcomes that yield short term results that are risky, unsustainable, and beyond the sight of anticipated long term goals.  The philosophy fosters accountability by coupling base compensation with other forms of compensation, including specific goal-oriented plans.
+The Committee had determined that executive compensation should consist of:
+[BEGIN TABLE]
+• Base Pay• Incentive Plan  
+• Broad Based Benefits• Retirement Plan  
+• Profit Sharing Contributions• Equity Based Compensation  
+• Employee Stock Ownership Plan• Perquisites  
+[END TABLE]
+Base Pay
+Base pay is a fixed amount of money paid to the executive and is the core of the Company's executive compensation, allowing a predictable level of income.  It is paid in exchange for sustained performance of duties and responsibilities and is mainly determined by the position held, experience within the position, performance, and longevity.  There is no specific formula or weight used in determining the base pay but each factor is reviewed separately in developing the amount. In addition, gaining guidance from similar positions within the marketplace, input from compensation consultants, and reviews of peer banks of comparable asset size within the state assist in the determination.  The Committee uses its business judgment and input from the Chief Executive Officer in determining the amount of increase in base pay to award the other named executive officers.
+Incentive Plan
+In 2014, the Committee approved incentive plans for various areas of the Company, including an Annual Incentive Plan (AIP) covering the named executive officers.  The incentive plans, as a part of overall compensation plans, provide an opportunity for reward for meeting and exceeding established performance goals as well as recognition of individual achievements.  Its purpose is to motivate, reward and reinforce performance and achievement of executive's team and individual goals in support of strategic objectives for growth and profitability.   Linked to bank and individual performance factors, the plan provides a form of variable cash compensation. Factors and weighting, which are reviewed annually and may be updated from year to year, are determined at the beginning of each plan year and are developed with threshold, target and maximum goals.  Actual performance is compared to the goals set and awards are determined based on meeting and exceeding the annual performance objectives. The plan focuses on achievement of the goals in support of the strategic objectives of the Company and the best interest of the shareholders. For the year 2018, the plan focused upon net income and return on assets as follows: 
+[BEGIN TABLE]
+   						     Chief Executive Officer     						      Chief Financial Officer,   Chief Lending Officer,  Chief Operating Officer,  Chief Business Development Officer     						   
+   						     Chief Executive Officer     						      Chief Financial Officer,   Chief Lending Officer,  Chief Operating Officer,  Chief Business Development Officer     						   
+      Performance Measures     						     Performance Measures     						   
+      Net Income (50%)     						     Net Income (50%)     						   
+      Threshold    Budget Target    Maximum     						     Threshold    Budget Target    Maximum     						   
+      $9,141,300    $10,157,000    $11,172,700     						     $9,141,300    $10,157,000    $11,172,700     						   
+      Return on Assets (50%)     						     Return on Assets (50%)  
+      Threshold    Budget Target    Maximum     						     Threshold    Budget Target    Maximum     						   
+      1.00%    1.12%           1.23%     						     1.00%    1.12%    1.23%     						   
+      Awards (% of Base Pay)     						     Company Goal Award – 50% of Award     						   
+      Threshold    Budget Target    Maximum     						     Threshold    Budget Target    Maximum     						   
+      12%    24%    36%     						     4%    8%    12%     						   
+      Individual Performance Lever     						     Individual Goal Award – 50% of Award     						   
+      Individual performance multiplier of  +/- 0.20x of the award  as determined by Board of Directors     						     Threshold    Budget Target    Maximum     						   
+       						      						      						      						     4%    8%    12%     						   
+      Potential Award Range (% of Base Pay)     						     Potential Award Range (% of Base Pay)     						   
+      Threshold    Budget Target    Maximum     						     Threshold    Budget Target    Maximum     						   
+      12%    24%    36%     						     8%    16%    24%     						   
+[END TABLE]
+Clawback:
+The plan contains a clawback provision wherein awards will be recalculated if the relevant performance factor upon which they are based is restated or otherwise adjusted within the thirty-six (36) month period following the public release of the financial information. Any material overpayments or adjustments required by law will be owed back to the Company.
+Broad Based Benefits
+The Company offers competitive and comprehensive benefit plans to all qualifying employees, including the named executives.  The benefit plans offer additional incentive to recruit and retain employees.  The plans, including health insurance, short and long-term disability programs and term life insurance, help to protect the Company's employees from the financial consequences of being uninsured.  Each executive is eligible to participate in these plans to the same extent as all other employees of the Company.
+Retirement Plan
+Consistent with the Company's Compensation Philosophy, the Company provides a 401(k) plan for all of its full-time employees and for part-time employees working over a certain threshold of hours, subject to certain eligibility requirements regarding age and length of employment. The Company provides up to a 6% match of employee contributions which incents employees to save for retirement. Contributions by the executives and subsequent bank matches are subject to the normal discrimination testing for 401(k) plans and are limited by those rules. Profit Sharing Contribution
+The 401(k) plan maintains a profit sharing option with eligibility rules mirroring the 401(k) plus the requirement of being an active employee as of the plan's year end.  The profit sharing option is discretionary and allows the Company to make an annual award to all eligible employees based on the Company's profitability.  Participation is inclusive of executives under the same terms.  The Company believes that this plan encourages longevity with the Company and encourages the employees to assist in keeping the Company profitable.  No profit sharing contributions were made to employees in 2018.
+Equity Based Compensation
+Equity based compensation provides an incentive to attract, retain and reward persons performing services for the Company through providing the means by which eligible executives may be given the opportunity to benefit from increases in value of the common stock through the granting of awards.  In accordance with the Compensation Philosophy of the Bank, the Compensation Committee believes that incenting through equity based compensation plans will advance the interests of the Company and its shareholders by motivating executives to contribute to the growth and profitability of the Company. 
+In 2012, the Company approved the Omnibus Stock Incentive Plan that is designed to provide stock-based compensation including qualified and non-qualified stock options, restricted stock and stock-settled stock appreciation rights. The vesting period encouraged management continuity and aligned the interests of the participants with those of the shareholders. In 2015, the Long Term Incentive Plan (LTIP) was implemented by the Compensation Committee with the goals set for awards as both annual milestones and results over a three year period through 2017.      
+In 2018, the LTIP set parameters for a one year period.  The awards of restricted stock and stock appreciation rights in the LTIP are calculated following the end of the Company's 2018 fiscal year and are based on the metrics of return on equity (ROE) and core earnings per share growth (EPS). Awards were granted to named executives in February 2019 for the year 2018 with a three year vesting period. 
+For the 2018 annual award, ROE and EPS metrics are depicted in the following chart.  A plan for 2019 has not been adopted although the Compensation Committee is currently reviewing plan designs for future years. 
+[BEGIN TABLE]
+      Annual 2018 Goals  
+       						     Min    Target    Max  
+      ROE  9.63%   				 10.18%   				 11.01%   				 
+      EPS  $2.64   				 $2.72   				 $2.79   				 
+[END TABLE]
+Clawback:
+The plan does contain a clawback provision wherein awards will be recalculated if the relevant performance factor upon which they are based is restated or otherwise adjusted within the thirty-six (36) month period following the public release of the financial information. 
+Employee Stock Purchase Plan
+An Employee Stock Purchase Plan is offered to all employees, including executives.  The plan's purpose is to provide eligible employees the opportunity to acquire or increase their ownership interest in the company through the purchase of a limited number of shares of Company stock at a discounted price.  This program assists in aligning the interests of the employees with those of the shareholders and it provides further incentive to employees to enhance the financial results of the Company.  The Employee Stock Purchase Plan is an optional program with entry available at the beginning of each year. Supplemental Executive Retirement Plan
+In March 2017, the Bank entered into a supplemental executive retirement plan ("SERP") with Messrs. Santaniello, DeFrancesco, O'Brien and Walsh.  The intent of entering into the SERP was to recognize the valuable services each executive has performed for the Bank, to encourage the executive's continued employment, and to provide the executive with additional incentive to achieve corporate objectives by providing additional retirement benefits.   The triggering events are normal retirement age, disability, change in control and early termination as long as the early termination occurs after the first day of the fourth plan year.   The triggering events are designed to further the plan's intent to encourage continued employment.  The SERPs are considered a defined contribution plan, whereby the Bank contributes a specific sum to the executive's SERP unless the Board of Directors believes that an increase or decrease in the amount to be contributed is necessary.  The Committee thought it was in the best interest of the Bank to structure the SERPs as defined contribution plans and not to provide for specific guaranteed amounts upon retirement to shift a portion of the risks associated with SERPs to the executive.  The SERPs also contain a forfeiture provision should the executive violate certain noncompetition agreements to which the executive is a party. 
+On March 20, 2019, the Bank entered into a SERP with Mr. Pacyna for the same intent and under the same considerations as afforded to Messrs. Santaniello, DeFrancesco, O'Brien and Walsh.  
+Split Dollar Life Insurance 
+In March 2017, the Bank entered into split dollar life insurance agreements ("Split Dollar Agreement") with Messrs. Santaniello, DeFrancesco, O'Brien, Walsh and Pacyna.  The intent of entering into the Split Dollar Agreement was to recognize the valuable services each executive has performed for the Bank, to encourage the executive's continued employment, and to provide the executive with additional incentive to achieve corporate objectives by providing additional life insurance benefits.   The Split Dollar Agreement will vest upon the earlier of disability, change in control, normal retirement age or a date chosen by the Board.  Upon death while still employed by the Bank, the executive's beneficiary will receive the lesser of three (3) times the executive's base salary or the net death proceeds as defined in the policy.  If Messrs. O'Brien or Pacyna die after a separation of service, the Bank will receive all of the death proceeds.   Upon the death of Messrs. Santaniello, DeFrancesco or Walsh, following vesting and termination of employment, the executive will be entitled to the lesser of two (2) times his highest base salary or the net death proceeds.  If death occurs prior to vesting, the Bank will receive all death proceeds.
+Beginning on March 20, 2019, Mr. Pacyna will be entitled to the same considerations as Messrs. Santaniello, DeFrancesco and Walsh.  
+Perquisites
+Consistent with the Company's Compensation Philosophy, select executives may receive perquisites for purposes of providing opportunities to cultivate business.  Perquisites are considered an important part of the executive compensation mix and include business use of automobiles and/or memberships to country clubs and social clubs.  Use of a Company automobile is essential to conduct bank business in locations away from the office.  Developing relationships through outside activities via use of club memberships provides opportunity to market new and current clients. Any expense that is personal in nature is expected to be reimbursed to the Company by the executives.
+Role of Executive Officers in Compensation Decisions
+The Committee makes all compensation decisions with respect to executive officers.  The Chief Executive Officer provides input to the Committee based on daily oversight of the other named executives and presents compensation recommendations. Recommendations are derived from executive performance and other factors.  The Committee evaluates the recommendations and incorporates its interactions with executive officers in their respective positions in determining the level of compensation appropriate for the named executives.  The Chief Executive Officer is excluded from discussion when his  performance and compensation are discussed and no other executive officer is present when discussions regarding compensation occur. 
+Role of Executive Compensation Philosophy in Determining Executive Compensation
+In 2015, the Company adopted a Compensation Philosophy designed to assist in attracting, retaining and motivating key talent.  It was developed to maintain a competitive and pay-for-performance-focused executive compensation plan.  The plan does not provide specific compensation recommendations for the named officer but provides the guidance in developing and implementing compensation strategies for the executives.
+Role of Shareholder Vote – "Say-on-Pay"
+During the 2016 Annual Meeting of Shareholders, a "say-on-pay" proposal, giving shareholders the opportunity to express their views on named executive officers' compensation, was presented as an advisory vote and approved by shareholders.  It was not intended to address any specific item of compensation of named executive officers, but rather the overall compensation of named executive officers and the associated philosophy, policies and practices.  The current proxy contains a proposal for voting on executive pay. 
+Benchmarking
+In determining the appropriate levels of executive compensation, the Committee reviews levels of compensation from a variety of standard sources:
+[BEGIN TABLE]
+· Innovative Compensation and Benefits Concepts' study of executive compensation; 
+· Reviews of public information containing the compensation levels of peer banks of similar size and within the same or similar markets; 
+· Miscellaneous other general compensation surveys; and 
+· Comparison of executive compensation levels within the marketplace and regionally. 
+[END TABLE]
+The Committee uses the above resources as a method to educate itself on the current trends in compensation although no specific weight is given to any of the resources.  With banking being a highly regulated industry, adherence with regulatory guidelines is given the utmost consideration.
+With the adoption of the Compensation Philosophy, the Committee may consider compensation survey data, peer group comparisons, and associated recommendations contained within the study as a part of its process.
+Changes in 2018 Executive Officer Compensation
+The Summary Compensation Table outlines actual compensation of the executive officers.  The changes in base pay for named executive officers were based upon their performance and achievement of goals, their longevity with the Bank, their respective positions and data obtained from recent surveys.  The Company also provides employment agreements to the Chief Executive Officer, the Chief Lending Officer, the Chief Financial Officer, the Chief Operating Officer and a change in control agreement to the Chief Business Development Officer.  Beginning on March 20, 2019, the change in control agreement to the Chief Business Development Officer is replaced with an employment agreement.  
+The Committee believes that it is appropriate to provide employment agreements to the Chief Executive Officer, the Chief Lending Officer, the Chief Financial Officer, the Chief Operating Officer and the Chief Business Development Officer in order to protect the Company through the non-competition provisions contained in the agreements. Impact of Accounting and Tax
+There were no compensation decisions made as a result of accounting and/or tax treatments except the inclusion of gross-up or gross-down provisions contained in the respective agreements as discussed below.
+Section 162(m) of the Internal Revenue Code of 1986, as amended, imposes a $1 million limit on the amount that a public company may deduct for compensation paid to the company's Chief Executive Officer, the Chief Financial Officer or any of the Company's three other most highly compensated executive officers who are employed as of the end of the year.  The amount of the executive's compensation does not trigger Section 162(m) limitation.
+The employee stock purchase plan, the 401(k) plan, stock incentive plan, the employment agreements, and change in control agreements are designed to be compliant with the applicable Internal Revenue Code sections.
+Triggering Events in Contracts
+The Company is currently a party to employment agreements with Messrs. Santaniello, O'Brien, DeFrancesco, Walsh and Pacyna.   Mr. Pacyna became party to an employment agreement effective March 20, 2019 that replaces the change in control agreement originally effective March 29, 2017. Employment agreements are standard in the financial services industry and are used to protect the Company's client base through non-competition provisions. The agreements are also used to balance the financial goals of the executive with the needs of the Bank.  The triggering events that provide payment which are prevalent in the financial services industry include:
+[BEGIN TABLE]
+   1.      Change in control 
+   2.      Termination for good reason 
+   3.      Disability 
+   4.      Termination without cause 
+   5.      Death 
+   6.      Termination by the employee without good reason 
+   7.      Non-renewal of employment agreement 
+[END TABLE]
+The triggering events for payment incent executives to maintain expected performance levels for continued employment.  Upon the employee's death, a termination by the employee without good reason, the employee's disability or a termination for cause, the employment agreement is terminated and the employee will not receive any payments under the agreement. The Board did not determine it to be necessary to provide payment upon a disability or death because life insurance is provided to all employees and the employee may receive payments under the Company's disability insurance plan.  The employee only receives a payment under the agreement if the employee's employment is terminated after a change in control, without cause, or by the employee for good reason.  The contracts give the executive the security of knowing that if he is terminated in one of those scenarios, the executive will receive some form of compensation during his transition phase. The contracts contain change of control provisions whereby the executive is compensated upon a termination after a change of control in order to ensure that decisions regarding potential change of controls are made in the best interests of the shareholders and that personal concerns regarding subsequent employment are minimized. In addition, the contracts contain a non-competition provision, whereby the executive is not allowed to compete with the Company or solicit customers of the Company for a specific period of time, typically the time period during which he is being compensated.
+The Company is also a party to SERP agreements with Messrs. Santaniello, DeFrancesco, Walsh, O'Brien, and effective March 20, 2019, with Mr. Pacyna.  The triggering events for the SERPs are normal retirement, disability, change in control, death, and early termination.  The SERPs are intended to encourage the executives to continue in the employment of the Bank and therefore benefit amounts for a  termination prior to normal retirement will be less than benefit amounts for a termination after normal retirement.  
+Hedging and Pledging 
+Employees who own shares outright are permitted to hedge or pledge shares, subject to the Company's Insider Trading Policy Statement that restricts certain transactions prior to the release of certain nonpublic information.
+Ownership Guidelines
+At this time, the Company does not require its named executive officers to own a certain number of shares of Company stock; however, it encourages ownership of Company stock through its Employee Stock Purchase Plan and awards restricted stock and stock appreciation rights through the LTIP when plan goals are met.
+COMPENSATION COMMITTEE REPORT ON EXECUTIVE COMPENSATION
+The Compensation Committee of the Board of Directors has reviewed and discussed the Compensation Discussion and Analysis required by Item 402(b) of Regulation S-K with management and, based on such review and discussions, the Compensation Committee recommended to the Board that the Compensation Discussion and Analysis be included in this Proxy Statement and the Company's Form 10-K.
+Compensation Committee
+Brian J. Cali, Chairman
+Michael J. McDonald
+Kristin Dempsey O'Donnell
+Summary Compensation Table
+The following table provides the annual and equity based compensation for services rendered in all capacities to the Company and the Bank for the fiscal year ended December 31, 2018, for those persons who were:
+The current President and Chief Executive Officer, the Chief Financial Officer, and the other three most highly compensated executive officers of the Company or Bank to the extent such person's total exceeded $100,000.
+[BEGIN TABLE]
+   						    						    						   Name and Principal Position     						    						   Year     						   Salary  ($)     						   Bonus (6)  ($)    Stock  Awards (7)  ($)    Option  Awards (7)  ($)    All other Compensation(8) ($)     						   Total  ($)  
+   						    						    						   Name and Principal Position     						    						   Year     						   Salary  ($)     						   Bonus (6)  ($)    Stock  Awards (7)  ($)    Option  Awards (7)  ($)    All other Compensation(8) ($)     						   Total  ($)  
+   						    						    						   Name and Principal Position     						    						   Year     						   Salary  ($)     						   Bonus (6)  ($)    Stock  Awards (7)  ($)    Option  Awards (7)  ($)    All other Compensation(8) ($)     						   Total  ($)  
+  Daniel J. Santaniello,   President and Chief Executive Officer of the Company and the Bank    2018    281,385    101,495    44,682    48,777    191,108(1)    667,447  
+  2017    271,050    87,264    136,239(9)    147,166(9)    147,785(1)    789,504  
+  2016    257,127    69,211    31,085    33,676    30,715(1)    421,814  
+  Salvatore R. DeFrancesco, Jr.,  Treasurer and Chief Financial Officer of the Company; Executive Vice President and Chief Financial Officer of the Bank    2018    209,079    47,929    25,595    27,947    109,560(2)    420,110  
+  2017    205,621    45,021    72,954(9)    78,800(9)    159,161(2)    561,557  
+  2016    195,051    40,146    16,907    18,313    31,161(2)    301,578  
+  Timothy P. O'Brien,   Sr. Executive Vice President and  Chief Lending Officer of the Bank    2018    200,923    35,929    24,282    26,504    155,842(3)    443,480  
+  2017    198,846    39,230    70,800(9)    76,480(9)    162,967(3)    548,323  
+  2016    193,466    31,000    16,548    17,926    21,806(3)    280,746  
+[END TABLE]
+[BEGIN TABLE]
+   						    						    						   Name and Principal Position     						    						   Year     						   Salary  ($)     						   Bonus (6)  ($)    Stock  Awards (7)  ($)    Option  Awards (7)  ($)    All other Compensation(8) ($)     						   Total  ($)  
+   						    						    						   Name and Principal Position     						    						   Year     						   Salary  ($)     						   Bonus (6)  ($)    Stock  Awards (7)  ($)    Option  Awards (7)  ($)    All other Compensation(8) ($)     						   Total  ($)  
+   						    						    						   Name and Principal Position     						    						   Year     						   Salary  ($)     						   Bonus (6)  ($)    Stock  Awards (7)  ($)    Option  Awards (7)  ($)    All other Compensation(8) ($)     						   Total  ($)  
+  Eugene J. Walsh,  Vice President and Chief Operating Officer of the Company; Executive Vice President and Chief Operating Officer of the Bank    2018    195,865    44,879    24,392    26,621    87,313(4)    379,070  
+  2017    191,871    39,967    68,372(9)    73,858(9)    75,339(4)    449,407  
+  2016    185,490    38,262    15,830    17,145    14,149(4)    270,876  
+  Michael J. Pacyna, Jr.,  Executive Vice President and  Chief Business Development Officer of the Bank    2018    187,308    38,701    22,970    25,077    129,560(5)    403,616  
+  Michael J. Pacyna, Jr.,  Executive Vice President and  Chief Business Development Officer of the Bank    2018    187,308    38,701    22,970    25,077    129,560(5)    403,616  
+  2016    173,931    35,136    14,932    16,175    9,475(5)    249,649  
+[END TABLE]
+[BEGIN TABLE]
+    (1)      Figure represents the personal use value of a company automobile of $2,178 in 2018, $2,314 in 2017 and $2,141 in 2016. It also includes contributions for the 401(k) match and profit sharing plan of $16,500 in 2018, $16,200 in 2017 and $15,900 in 2016.  Included is $90 of life insurance premiums paid by the Company in 2018, $811 in 2017 and $864 in 2016.  In addition, $9,442 was paid by the Company on behalf of Mr. Santaniello for country club and membership dues during 2018, $9,620 in 2017 and $11,810 in 2016.  Also included in 2018 is excess fair value on exercise date of options exercised of $20,290 computed in accordance with FASB ASC Topic 718.  Also included is a contribution for the SERP of $142,608 in 2018 and $118,840 in 2017.   
+    (2)      Figure represents automobile allowance of $10,400 in 2018, $10,400 in 2017 and $8,400 in 2016.  It also includes contributions for the 401(k) match and profit sharing plan of $16,500 in 2018, $16,200 in 2017 and $15,900 in 2016.  Included is $90 of life insurance premiums paid by the Company in 2018, $552 in 2017 and $864 in 2016.  In addition, $6,118 was paid by the Company on behalf of Mr. DeFrancesco for country club and membership dues in 2018, $5,989 in 2017 and $5,997 in 2016.  Also included for 2017 is excess fair value on exercise date of options exercised of $62,310 computed in accordance with FASB ASC Topic 718.  Also included is a contribution for the SERP of $76,452 in 2018 and $63,710 in 2017. 
+    (3)      Figure represents the personal use value of a company automobile of $1,205 in 2018, $1,087 in 2017 and $1,294 in 2016. It also includes contributions for the 401(k) match and profit sharing plan of $15,712 for 2018, $16,200 for 2017 and $15,187 for 2016.  Included is $90 of life insurance premiums paid by the Company in 2018, $1,567 in 2017 and $562 in 2016. In addition, $3,763 was paid by the Company on behalf of Mr. O'Brien for country club and membership dues during 2018, $3,623 in 2017 and $4,763 in 2016.  Also included for 2017 is excess fair value on exercise date of options exercised of $27,930 computed in accordance with FASB ASC Topic 718.  Also included is a contribution for the SERP of $135,072 in 2018 and $112,560 in 2017. 
+    (4)      Figure represents automobile allowance of $5,200 in 2018 and $3,800 in 2017.  It also includes contributions for the 401(k) match and profit sharing plan of $15,723 in 2018, $15,665 in 2017 and $13,477 in 2016. Included is $90 for life insurance premiums paid by the Company in 2018, $624 in 2017 and $672 in 2016. Also included is a contribution for the SERP of $66,300 in 2018 and $55,250 in 2017. 
+    (5)      Figure represents contributions for the 401(k) match and profit sharing plan of $16,500 in 2018, $12,558 in 2017 and $7,929 in 2016. It also includes $90 for life insurance premiums paid by the Company in 2018, $555 in 2017, $864 in 2016. In addition, $2,385 was paid by the Company on behalf of Mr. Pacyna for country club and membership dues during 2018, $1,812 in 2017 and $682 in 2016.  Also included for 2018 is excess fair value on exercise date of SSARs exercised of $110,585 computed in accordance with FASB ASC Topic 718.    
+    (6)      Figures include awards received following the end of the fiscal year based on the reporting year's performance metrics under the AIP for 2018, 2017 and 2016. 
+    (7)      Figures include awards received following the end of the fiscal year based on the reporting year's performance metrics for restricted stock awarded under the LTIP in February 2017 with an aggregate grant      24      			     		  
+    (7)      Figures include awards received following the end of the fiscal year based on the reporting year's performance metrics for restricted stock awarded under the LTIP in February 2017 with an aggregate grant      24      			     		  
+date fair value based on $23.93 per share, in February 2018 with an aggregate grant date fair value based on $45.83 per share and in February 2019 with an aggregate grant date fair value based on $54.69 per share computed in accordance with FASB ASC Topic 718. SSARs were awarded under the LTIP in February 2017 with an aggregate grant date fair value based on $5.06 per share, in February 2018 with an aggregate grant date fair value based on $13.73 per share and in February 2019 with an aggregate grant date fair value based on $16.79 per share computed in accordance with FASB ASC Topic 718. Fair value calculations are described in the footnotes to the financial statements in the Annual Report on Form 10-K and incorporated by reference.  
+    (8)      Figures include contributions to the Supplemental Executive Retirement Plan, under which the executives are not vested until January 1, 2020. 
+    (9)      Restricted stock and SSARs grants in February 2018 included grants based on 3 year cumulative performance for 2015-2017 under the LTIP.  The awards vest over a three year period. 
+[END TABLE]
+Employment Agreement with Daniel J. Santaniello
+On March 23, 2011, the Company and the Bank entered into a three year term employment agreement with annual extensions with Mr. Santaniello. Under the terms of the employment agreement, in the event Mr. Santaniello is terminated without cause, after a change in control, or by Mr. Santaniello for good reason, he will receive two (2) times his annual base salary plus benefits for two years. He is also bound by non-competition and non-solicitation provisions.
+Employment Agreement with Salvatore R. DeFrancesco, Jr.   
+On March 17, 2016, the Company and the Bank entered into a three year term employment agreement with annual extensions with Mr. DeFrancesco. Under the terms of the employment agreement, in the event Mr. DeFrancesco is terminated without cause, after a change in control, or by Mr. DeFrancesco for good reason, he will receive two (2) times his annual base salary plus benefits for two years. He is also bound by non-competition and non-solicitation provisions. This agreement replaced the previously executed change in control agreement and severance agreement dated December 31, 2008.  
+Employment Agreement with Timothy P. O'Brien
+On March 23, 2011, the Company and the Bank entered into a three year term employment agreement with annual extensions with Mr. O'Brien. Under the terms of the employment agreement, in the event Mr. O'Brien is terminated without cause, after a change in control, or by Mr. O'Brien for good reason, he will receive two (2) times his annual base salary plus benefits for two years. He is also bound by non-competition and non-solicitation provisions. 
+Employment Agreement with Eugene J. Walsh
+On March 29, 2017, the Company and the Bank entered into a three year term employment agreement with annual extensions with Mr. Walsh. Under the terms of the employment agreement, in the event Mr. Walsh is terminated without cause, after a change in control, or by Mr. Walsh for good reason, he will receive two (2) times his annual base salary plus benefits for two years. He is also bound by non-competition and non-solicitation provisions. This agreement replaced the previously executed change in control agreement and severance agreement dated June 26, 2015.  
+Employment Agreement with Michael J. Pacyna, Jr.
+On March 20, 2019, the Company and the Bank entered into a three year term employment agreement with annual extensions with Mr. Pacyna. Under the terms of the employment agreement, in the event Mr. Pacyna is terminated without cause, after a change in control, or by Mr. Pacyna for good reason, he will receive two (2) times his annual base salary plus benefits for two years. He is also bound by non-competition and non-solicitation provisions. This agreement replaced the previously executed change of control agreement and severance agreement dated March 29, 2017.   EQUITY COMPENSATION PLAN INFORMATION
+2012 Omnibus Stock Incentive Plan
+The Company maintains an omnibus stock incentive plan (the 2012 Omnibus Plan) that was approved by the shareholders at the 2012 Annual Meeting.  The 2012 Omnibus Plan replaced the 2000 Stock Incentive Plan and will expire on, and no stock-based awards will be granted after the year 2022.  The purpose of this plan is to advance the development, growth and financial condition of the Company by providing incentives through participation in the appreciation in the value of the Company's common stock.  In return, the Company hopes to secure, retain and motivate employees who are responsible for the operation and the management of the affairs of the Company by aligning the interest of its employees and directors with the interest of its shareholders.  In the 2012 Omnibus Plan, the Company reserved 750,000 shares of its no-par common stock for issuance under the plan.  In the 2012 Omnibus Plan, employees are eligible to be awarded stock-based compensation grants which can consist of stock options (qualified and non-qualified), SSARs or restricted stock.  
+During 2015, the Company created a Long-Term Incentive Plan (LTIP) that awards restricted stock and stock-settled stock appreciation rights (SSARs) to senior officers based on the attainment of performance goals.  The service requirement is the participant's continued employment throughout the LTIP with a three-year vesting period.  The restricted stock has a two-year post vesting holding period requirement. The SSAR awards have a ten year term from the date of each grant.  The Company granted restricted stock and SSARs in February 2017 based on 2016 performance and in February 2018 based on 2017 performance and 3 year cumulative performance for 2015-2017 under the 2015 LTIP.  In February 2019, the Company granted restricted stock and SSARs based on 2018 performance.
+The following table is a summary of the activity and the status of the 2012 Omnibus Plan for restricted stock grants awarded to the named executives during 2018:
+Grants of Plan-Based Awards
+[BEGIN TABLE]
+  Name    Grant Date    All Other Stock Awards: Number of Shares of Stock or Units  (#)(1)    All Other Option Awards: Number of Securities Underlying Options (#)(1)    Exercise or Base Price of Option Awards ($/Sh)    Grant Date Fair Value of Stock and Option Awards ($)(2)  
+  Name    Grant Date    All Other Stock Awards: Number of Shares of Stock or Units  (#)(1)    All Other Option Awards: Number of Securities Underlying Options (#)(1)    Exercise or Base Price of Option Awards ($/Sh)    Grant Date Fair Value of Stock and Option Awards ($)(2)  
+  Daniel J. Santaniello    2/6/2018    2,973    10,720    49.50    283,405  
+  Salvatore R. DeFrancesco, Jr.    2/6/2018    1,592    5,740    49.50    151,754  
+  Timothy P. O'Brien    2/6/2018    1,545    5,571    49.50    147,280  
+  Eugene J. Walsh    2/6/2018    1,492    5,380    49.50    142,229  
+  Michael J. Pacyna, Jr.    2/6/2018    1,434    5,170    49.50    136,688  
+    (2)      Fair value computed in accordance with FASB ASC Topic 718 as described in the footnotes to the financial statements in the Annual Report on Form 10-K and incorporated by reference. 
+[END TABLE]
+The numbers represented in the chart below represent awards from the 2012 Omnibus Stock Incentive Plan and the 2000 Stock Incentive Plan as detailed above.  The following table summarizes each outstanding equity award as of December 31, 2018. Outstanding Equity Awards at Fiscal Year-End
+[BEGIN TABLE]
+     						    						    						    						    						    						    						    						    						      						      						   (1)     						      						     (2)    (3)  
+     						    						    						    						    						    						    						    						    						      						      						   (1)     						      						     (2)    (3)  
+     						    						    						    						    						    						    						    						    						      						      						   (1)     						      						     (2)    (3)  
+     						    						    						    						    						    						    						    						   Name    Number of Securities Underlying Unexercised Options  (#)  Exercisable    Number of Securities Underlying Unexercised Options  (#)  Unexercisable(1)    Option Exercise Price  ($)    Option Expiration Date    Number of Shares or Units of Stock That Have Not Vested  (#)(2)    Market Value of Shares or Units of Stock That Have Not Vested  ($)(3)  
+     						    						    						    						    						    						    						    						   Name    Number of Securities Underlying Unexercised Options  (#)  Exercisable    Number of Securities Underlying Unexercised Options  (#)  Unexercisable(1)    Option Exercise Price  ($)    Option Expiration Date    Number of Shares or Units of Stock That Have Not Vested  (#)(2)    Market Value of Shares or Units of Stock That Have Not Vested  ($)(3)  
+     						    						    						    						    						    						    						    						   Name    Number of Securities Underlying Unexercised Options  (#)  Exercisable    Number of Securities Underlying Unexercised Options  (#)  Unexercisable(1)    Option Exercise Price  ($)    Option Expiration Date    Number of Shares or Units of Stock That Have Not Vested  (#)(2)    Market Value of Shares or Units of Stock That Have Not Vested  ($)(3)  
+     						    						    						    						    						    						    						    						   Name    Number of Securities Underlying Unexercised Options  (#)  Exercisable    Number of Securities Underlying Unexercised Options  (#)  Unexercisable(1)    Option Exercise Price  ($)    Option Expiration Date    Number of Shares or Units of Stock That Have Not Vested  (#)(2)    Market Value of Shares or Units of Stock That Have Not Vested  ($)(3)  
+  Daniel J. Santaniello    5,505  2,220  -    2,753  4,442  10,720    21.60  26.17  49.50    02/01/2026  02/06/2027  02/05/2028    4,663    299,271  
+  Daniel J. Santaniello    5,505  2,220  -    2,753  4,442  10,720    21.60  26.17  49.50    02/01/2026  02/06/2027  02/05/2028    4,663    299,271  
+  Salvatore R. DeFrancesco, Jr.    2,881  1,207  -    1,441  2,416  5,740    21.60  26.17  49.50    02/01/2026  02/06/2027  02/05/2028    2,524    161,990  
+  Salvatore R. DeFrancesco, Jr.    2,881  1,207  -    1,441  2,416  5,740    21.60  26.17  49.50    02/01/2026  02/06/2027  02/05/2028    2,524    161,990  
+  Timothy P. O'Brien    2,990  1,182  -    1,495  2,364  5,571    21.60  26.17  49.50     02/01/2026  02/06/2027  02/05/2028    2,476    158,910  
+  Timothy P. O'Brien    2,990  1,182  -    1,495  2,364  5,571    21.60  26.17  49.50     02/01/2026  02/06/2027  02/05/2028    2,476    158,910  
+  Eugene J. Walsh    2,803  1,130  -    1,402  2,262  5,380    21.60  26.17  49.50    02/01/2026  02/06/2027  02/05/2028    2,538    162,889  
+  Eugene J. Walsh    2,803  1,130  -    1,402  2,262  5,380    21.60  26.17  49.50    02/01/2026  02/06/2027  02/05/2028    2,538    162,889  
+  Michael J. Pacyna, Jr.    -  -  -    993  2,134  5,170    21.60  26.17  49.50     02/01/2026  02/06/2027  02/05/2028    2,387    153,198  
+  Michael J. Pacyna, Jr.    -  -  -    993  2,134  5,170    21.60  26.17  49.50     02/01/2026  02/06/2027  02/05/2028    2,387    153,198  
+    (1) The SSARs vest over a 3 year period, 33% per year, ending 2/2/2019, 2/7/2020 and 2/6/2021. 
+    (2) The restricted stock vests over a 3 year period, 33% per year, ending 2/2/2019, 2/7/2020 and 2/6/2021. 
+    (3) The market value was computed using the market price of the Company's stock at the end of 2018 - $64.18 per                             share. 
+      Option Awards    Stock Awards  
+  Name    Number of Shares Acquired on Exercise  (#)    Value Realized on Exercise   ($)    Number of Shares Acquired on Vesting   (#)    Value Realized on Vesting   ($)  
+  Name    Number of Shares Acquired on Exercise  (#)    Value Realized on Exercise   ($)    Number of Shares Acquired on Vesting   (#)    Value Realized on Vesting   ($)  
+  Daniel J. Santaniello    750    22,875    1,520    73,440  
+  Salvatore R. DeFrancesco, Jr.    -    -    883    42,690  
+  Timothy P. O'Brien    -    -    887    42,879  
+  Eugene J. Walsh    -    -    824    40,105  
+  Michael J. Pacyna, Jr.    1,965    122,873    745    36,970  
+[END TABLE]
+2002 Employee Stock Purchase Plan
+The Company maintains an employee stock purchase plan that was approved by the shareholders at the 2002 Annual Meeting.  The purpose of this plan is to provide employees the opportunity to acquire ownership interests in the Company and to motivate the employees to improve job performance and enhance the financial results of the Company.  Under the plan, each eligible employee may purchase a limited number of shares of the Company's common stock on each January 1st at a purchase price per  share equal to 90% of the lower of the ten trading day average fair market value of the Company's common stock measured as of December 31st or January 1st of the previous year.  The subsequent sale or transfer of the purchased shares under the plan is restricted for one year from the purchase date.
+NONQUALIFIED DEFERRED COMPENSATION
+The following table includes information about activity in, amounts earned, and balances of each executive's supplemental executive retirement agreement:
+[BEGIN TABLE]
+  Name    Company Contributions in 2018 ($) (1)    Aggregate Earnings in 2018 ($)    Aggregate Withdrawals/  Distributions ($)    Aggregate Balance at December 31, 2018 ($)  
+  Name    Company Contributions in 2018 ($) (1)    Aggregate Earnings in 2018 ($)    Aggregate Withdrawals/  Distributions ($)    Aggregate Balance at December 31, 2018 ($)  
+  Timothy P. O'Brien  135,072   				 7,633   				   -  257,350   				 
+  Eugene J. Walsh  66,300   				 3,747   				   -  126,320   				 
+[END TABLE]
+(1) The Company contributions are included in All Other Compensation in the Summary Compensation table.
+On March 29, 2017, the Company entered into separate supplemental executive retirement (SERP) agreements with the above named executives pursuant to which the Company will credit an amount to a SERP account established for each participant's behalf while they are actively employed by the Company for each calendar month from March 1, 2017 until the normal retirement age. The SERP account will be credited with interest at an annual rate equal to 4.00%, compounded monthly. This rate is fixed from plan inception until all payments are distributed. The SERP account is payable in 180 monthly installments commencing upon separation of service after attaining normal retirement age. If separation from service occurs following the first day of the fourth plan year for a reason other than death, disability or following a change in control, the participant will receive the SERP account balance at that date, payable in 60 monthly installments beginning at normal retirement age. If the executive terminates prior to the first day of the fourth plan year, the executive will forfeit all rights under the SERP.
+On March 20, 2019, the Bank entered into a SERP with Mr. Pacyna under the same considerations as afforded to Messrs. Santaniello, DeFrancesco, O'Brien and Walsh.  
+POTENTIAL PAYMENTS UPON TERMINATION
+Payments under each executive's contracts as detailed below would be triggered by termination of executive's employment for cause, good reason, disability, death, voluntary separation absent good reason, involuntary termination absent cause, and in the event of a change in control. The value of equity awards was calculated using $64.18 per share, the closing market price of the Company's common stock on December 31, 2018.
+Daniel J. Santaniello
+The table below shows the payments upon termination of Mr. Santaniello as of December 31, 2018:
+[BEGIN TABLE]
+  Form of Compensation:       Death   ($)     Disability ($)       Cause ($)    Good Reason* ($)     Voluntary, Absent Good Reason ($)          Change in Control* ($)     Non- renewal   ($)      						   Involuntary  Without  Cause*   ($)  
+  Form of Compensation:       Death   ($)     Disability ($)       Cause ($)    Good Reason* ($)     Voluntary, Absent Good Reason ($)          Change in Control* ($)     Non- renewal   ($)      						   Involuntary  Without  Cause*   ($)  
+  Severance        -      -      -    610,000      -    610,000      -    610,000  
+  Life Insurance     915,000      -      -     -       -      -      -      -  
+  SERP    271,708    271,708     -      -      -     468,435     -      -   
+  Equity awards:     						      						      						      						      						      						      						      						   
+    Restricted Stock    SSARs    -  318,792     -  318,792    -    -    -  318,792    -  318,792     299,271   762,239    -   318,792    -  318,792  
+    Restricted Stock    SSARs    -  318,792     -  318,792    -    -    -  318,792    -  318,792     299,271   762,239    -   318,792    -  318,792  
+[END TABLE]
+ On December 31, 2018, if the Company terminated Mr. Santaniello's employment without cause, if Mr. Santaniello terminated his employment for good reason, or if Mr. Santaniello's employment terminated in connection with a change in control, he would have been entitled to a severance payment equal to two times his current annual salary, payable on the first business day of the month following the date that is six months after his termination from employment, and health care, life and disability benefits for two years. 
+According to the split dollar agreement, if Mr. Santaniello had died prior to separation from service, his named beneficiary would have been entitled to the lesser of 3 times his base salary as of the date of his death or the net death proceeds. The vesting date is the earliest of disability, change in control, normal retirement age or the date the Board chooses to vest the executive in the benefits.  If Mr. Santaniello dies after separation from service which occurs after the vesting date, his beneficiary shall be entitled to the lesser of 2 times the highest base salary earned by the executive in any calendar year or the net death proceeds.
+According to the SERP agreement, if Mr. Santaniello experienced a disability, the Company would pay him the SERP account balance calculated as of the date of determination of disability paid in 60 consecutive monthly installments commencing on the month following disability. If a change in control occurred, the Company would have paid Mr. Santaniello the sum of the SERP account balance plus the present value of the expected remaining monthly amounts paid in 36 consecutive monthly installments commencing on the month following the change in control. In the event Mr. Santaniello died, the Company would have paid his beneficiary the SERP account balance, paid in 60 consecutive monthly installments commencing on the month following his death.
+In the event of a change in control, provided Mr. Santaniello remained continuously employed with the Company, all unvested restricted stock would have immediately became and remained vested.
+If the Company terminated Mr. Santaniello's employment for any reason, except disability, death or cause, any vested SSARs on the date of termination may be exercised within 90 days after termination. In the case of death or disability, Mr. Santaniello or his beneficiary would have twelve months after termination to exercise the SSARs. In the event of a change-in-control, all outstanding SSARs would have immediately became and remained vested and exercisable.
+If after leaving the Company, Mr. Santaniello engages in acts that violate the Company's policies as set forth in the employment agreement, regarding non-competition, non-solicitation, confidentiality, or non-disparagement, in the judgement of the Compensation Committee, the entire amount of any incentive payments awarded to him under the long-term incentive plan during the most recent 12-month period shall be repaid in total. The executive shall also forfeit any non-distributed benefits under the SERP if the executive violates any of the provisions in the employment agreement regarding the covenant not to compete and unauthorized disclosures. This forfeiture provision shall not apply following a change in control. Salvatore R. DeFrancesco, Jr.
+The table below shows the payments upon termination of Mr. DeFrancesco as of December 31, 2018:
+[BEGIN TABLE]
+  Form of Compensation:       Death  ($)       Disability  ($)       Cause  ($)    Good Reason*  ($)     Voluntary, absent good Reason*  ($)          Change in Control*  ($)     Non- renewal  ($)      						   Involuntary  Without  Cause*  ($)  
+  Form of Compensation:       Death  ($)       Disability  ($)       Cause  ($)    Good Reason*  ($)     Voluntary, absent good Reason*  ($)          Change in Control*  ($)     Non- renewal  ($)      						   Involuntary  Without  Cause*  ($)  
+  Form of Compensation:       Death  ($)       Disability  ($)       Cause  ($)    Good Reason*  ($)     Voluntary, absent good Reason*  ($)          Change in Control*  ($)     Non- renewal  ($)      						   Involuntary  Without  Cause*  ($)  
+  Severance       -      -      -    430,000      -     430,000      -    430,000  
+  Life Insurance    645,000      -      -      -      -      -      -      -  
+  SERP    145,662    145,662     -      -      -      314,786     -      -   
+  Equity awards:     						      						      						      						      						      						      						      						   
+    Restricted Stock    SSARs      -  168,555      -  168,555      -    -      -  168,555      -  168,555     161,990   406,016      -  168,555      -  168,555  
+    Restricted Stock    SSARs      -  168,555      -  168,555      -    -      -  168,555      -  168,555     161,990   406,016      -  168,555      -  168,555  
+[END TABLE]
+If after leaving the Company, Mr. DeFrancesco engages in acts that violate the Company's policies as set forth in the employment agreement, regarding non-competition, non-solicitation, confidentiality, or non-disparagement, in the judgement of the Compensation Committee, the entire amount of any incentive payments awarded to him under the long-term incentive plan during the most recent 12-month period shall be repaid in total. The executive shall also forfeit any non-distributed benefits under the SERP if the executive violates any of the provisions in the employment agreement  regarding the covenant not to compete and unauthorized disclosures. This forfeiture provision shall not apply following a change in control.
+Timothy P. O'Brien
+The table below shows the payments upon termination of Mr. O'Brien as of December 31, 2018:
+[BEGIN TABLE]
+  Form of Compensation:       Death  ($)       Disability  ($)       Cause  ($)    Good Reason*  ($)     Voluntary, Absent Good Reason*  ($)          Change in Control*  ($)     Non- renewal  ($)      						   Involuntary  Without  Cause*  ($)  
+  Form of Compensation:       Death  ($)       Disability  ($)       Cause  ($)    Good Reason*  ($)     Voluntary, Absent Good Reason*  ($)          Change in Control*  ($)     Non- renewal  ($)      						   Involuntary  Without  Cause*  ($)  
+  Form of Compensation:       Death  ($)       Disability  ($)       Cause  ($)    Good Reason*  ($)     Voluntary, Absent Good Reason*  ($)          Change in Control*  ($)     Non- renewal  ($)      						   Involuntary  Without  Cause*  ($)  
+  Severance        -      -      -    408,000      -    408,000      -    408,000  
+  Life Insurance     612,000      -      -      -      -      -      -      -  
+  SERP    257,350    257,350     -      -      -     215,297     -      -   
+  Equity awards:     						      						      						      						      						      						      						      						   
+    Restricted Stock    SSARs      -  172,245      -  172,245      -    -      -  172,245      -  172,245    158,910  407,548      -  172,245      -  172,245  
+    Restricted Stock    SSARs      -  172,245      -  172,245      -    -      -  172,245      -  172,245    158,910  407,548      -  172,245      -  172,245  
+[END TABLE]
+ Eugene J. Walsh
+The table below shows the payments upon termination of Mr. Walsh as of December 31, 2018:
+[BEGIN TABLE]
+  Form of Compensation:       Death  ($)       Disability  ($)       Cause  ($)    Good Reason*  ($)     Voluntary, absent good Reason*  ($)          Change in Control*  ($)     Non- renewal  ($)      						   Involuntary  Without  Cause*  ($)  
+  Form of Compensation:       Death  ($)       Disability  ($)       Cause  ($)    Good Reason*  ($)     Voluntary, absent good Reason*  ($)          Change in Control*  ($)     Non- renewal  ($)      						   Involuntary  Without  Cause*  ($)  
+  Form of Compensation:       Death  ($)       Disability  ($)       Cause  ($)    Good Reason*  ($)     Voluntary, absent good Reason*  ($)          Change in Control*  ($)     Non- renewal  ($)      						   Involuntary  Without  Cause*  ($)  
+  Severance      -      -      -    410,000      -      410,000      -    410,000  
+  Life Insurance    615,000      -      -      -      -      -      -      -  
+  SERP    126,320    126,320     -      -      -       276,551      -     -   
+  Equity awards:     						      						      						      						      						      						      						      						   
+    Restricted Stock    SSARs      -  162,307      -  162,307      -    -      -  162,307      -  162,307      162,889    386,968      -  162,307      -  162,307  
+    Restricted Stock    SSARs      -  162,307      -  162,307      -    -      -  162,307      -  162,307      162,889    386,968      -  162,307      -  162,307  
+[END TABLE]
+ Michael J. Pacyna, Jr.
+The table below shows the payments upon termination of Mr. Pacyna as of December 31, 2018:
+[BEGIN TABLE]
+  Form of Compensation:       Death  ($)       Disability  ($)       Cause  ($)    Good Reason*  ($)     Voluntary, absent good Reason*  ($)          Change in Control*  ($)     Non- renewal  ($)      						   Involuntary  Without  Cause*  ($)  
+  Form of Compensation:       Death  ($)       Disability  ($)       Cause  ($)    Good Reason*  ($)     Voluntary, absent good Reason*  ($)          Change in Control*  ($)     Non- renewal  ($)      						   Involuntary  Without  Cause*  ($)  
+  Form of Compensation:       Death  ($)       Disability  ($)       Cause  ($)    Good Reason*  ($)     Voluntary, absent good Reason*  ($)          Change in Control*  ($)     Non- renewal  ($)      						   Involuntary  Without  Cause*  ($)  
+  Severance      -      -      -      -      -     193,000      -     96,500  
+  Life Insurance    579,000      -      -      -      -      -      -      -  
+  Equity awards:     						      						      						      						      						      						      						      						   
+    Restricted Stock    SSARs      -  -      -  -      -    -      -  -      -  -     153,198   199,291      -  -      -  -  
+    Restricted Stock    SSARs      -  -      -  -      -    -      -  -      -  -     153,198   199,291      -  -      -  -  
+[END TABLE]
+COMPENSATION COMMITTEE INTERLOCKS AND INSIDER PARTICIPATION
+The members of the Compensation Committee during 2018 were Patrick J. Dempsey, Michael J. McDonald and Brian J. Cali.  There were no Compensation Committee interlocks or any insider participation during 2018.  None of these directors were officers or employees of the Company during 2018, nor are they former officers of the Company or subsidiaries. In addition, none of the executive officers has served as a member of a board of directors or compensation committee, or other committee servicing an equivalent function of any other entity, one of whose executive officer serves as a member of the Company's Board of Directors. During 2018, the Bank paid approximately $176,000 in fees for architectural services provided by DX Dempsey, of which Michele Dempsey, daughter of Patrick J. Dempsey and sister of Kristin D. O'Donnell, is owner.
+Compensation of Directors
+Directors receive no remuneration for attendance at the Company's Board of Directors meetings.  However, the Bank pays each non-employee member of its Board of Directors a regular quarterly fee.  During 2018, the Bank paid $8,125 per quarter to each non-employee Bank director for his or her services.  In addition the Chairman of the Board received an additional $2,500 per quarter, the Audit Committee Chairman received an additional $1,250 per quarter, and members of the Executive Committee received an additional $1,875 per quarter. The Bank does not compensate employee directors  for attendance at Board of Directors meetings or committee meetings.  In the aggregate, the Bank paid its directors $857,675 for all services rendered for 2018.
+Director Compensation Table
+[BEGIN TABLE]
+  Name    Fees Earned or Paid in Cash ($) (1)    Stock  Awards  ($)    All Other  Compensation ($)    Total  ($)  
+  Name    Fees Earned or Paid in Cash ($) (1)    Stock  Awards  ($)    All Other  Compensation ($)    Total  ($)  
+  Brian J. Cali     57,500     51,975           20,000(2)    129,475  
+  Patrick J. Dempsey     65,000     51,975      -    116,975  
+  Michael J. McDonald      60,000     51,975      -    111,975  
+  Kristin D. O'Donnell     49,375     51,975    -    101,350  
+  John T. Cognetti, Mary E. McDonald,   Richard J. Lettieri, David L. Tressler, Sr., each     47,500     51,975      -    99,475  
+[END TABLE]
+[BEGIN TABLE]
+    (1)      Includes a $15,000 bonus for each Director over and above their regular Director, Chairman and Committee fees for 2018, paid in the first quarter of 2019. 
+    (2)      Retainer as General Counsel of the Company from January 2018 through October 2018.  On October 18, 2018, Mr. Cali was named Chairman of the Board and stopped receiving payments as General Counsel. 
+[END TABLE]
+2012 Director Stock Incentive Plan
+The Company maintains an independent director stock incentive plan (the "2012 Director Plan") that was approved by the shareholders at the 2012 Annual Meeting.  The purpose of this plan is to advance the development, growth and financial condition of the Company by providing an incentive, through participation in the appreciation of the common stock of the Company, in order to secure, retain and motivate members of the Company's Board of Directors who are not officers or employees of the Company or the Bank.  In the 2012 Director Plan, the Company reserved 750,000 shares of its no-par common stock for issuance under the plan.  Under the 2012 Director Plan, directors are eligible to be awarded stock-based compensation grants which can consist of non-qualified stock options; stock appreciation rights or restricted stock.  
+[BEGIN TABLE]
+  Grant of Equity Based Awards       
+       						     Shares    Grant Date    Shares of Stock       
+  Name    Grant Date    #    Fair Value ($)    Not Vested (#)(1)       
+  Brian J. Cali    February, 2018    1,050     51,975    1,575       
+  Mary E. McDonald    February, 2018    1,050     51,975    1,575       
+  Michael J. McDonald    February, 2018    1,050     51,975    1,575     						   
+  Patrick J. Dempsey    February, 2018    1,050     51,975    1,575       
+  Richard J. Lettieri    February, 2018    1,050     51,975    1,575       
+  Kristin D.  O'Donnell    February, 2018    1,050     51,975    1,575       
+  David L. Tressler, Sr.    February, 2018    1,050     51,975    1,575       
+  John T. Cognetti    February, 2018    1,050     51,975    1,575       
+[END TABLE]
+ (1) The 2017 Grant vests over a 2 year period, 50% per year, ending February 2019 and the 2018 Grant vests over a 3 year period,  33 1/3%   per year ending  February 2021.
+In February 2019, the Company granted a total of 5,600 restricted shares to its Board of Directors.  On the date of grant, the value of the Company's common stock was $59.70 per share.  The grants valued at an aggregate grant date fair value computed in accordance with FASB ASC Topic 718 will vest over a three year period, 33 1/3% each year from the date of grant with an additional two year post vesting holding period; the Company expects to recognize compensation expense of $306,264. FREQUENCY OF SHAREHOLDER ADVISORY VOTE ON EXECUTIVE COMPENSATION
+The shareholders approved a proposal at the Company's 2013 Annual Meeting of Shareholders to conduct an advisory vote on the Company's executive compensation for the named executive officers every three years.  The current proxy contains proposals for shareholder advisory votes on executive compensation and the frequency by which shareholders will vote on executive compensation.
+CEO PAY RATIO DISCLOSURE
+SEC rules provide for the disclosure of the annual total compensation of Daniel J. Santaniello and our median employee, as well as the ratio of their respective annual total compensation to each other.  We are providing the following information for the year ended December 31, 2018:
+[BEGIN TABLE]
+· The median employee's annual compensation - $ 38,676 
+· The CEO's annual compensation - $ 667,447 
+· The ratio of the CEO's annual compensation to our median employee's annual compensation - 17:1.   
+[END TABLE]
+The CEO's compensation is 17 times that of the median of the annual total compensation of all employees. 
+We completed the following steps to identify the median of the annual total compensation of all our employees.  The Company chose December 31, 2018 as the date for identifying the median employee.  We considered our entire employee population consisting of full-time, part-time, and temporary employees employed on that date.  To find the median of the annual total compensation of our employees, the Company used wages from our payroll records, excluding the CEO's wages.  We annualized compensation for full-time and part-time employees who were employed on December 31, 2018, but who did not work the entire year.  No full-time equivalent adjustments were made for part-time employees.  We calculated total annual compensation in accordance with the requirements of Item 402(c)(2)(x) of Regulation S-K.  We did not include personal benefits that aggregate less than $10,000 and compensation under non-discriminatory benefit plans in calculating the annual total compensation; however, we did use matching contributions and profit sharing contributions from the Bank's 401(k) and insurance premiums.  We did not rely on any material assumptions, adjustments, or estimates to identify our median employee or determine annual total compensation.  
+To calculate the CEO's pay ratio, under SEC rules, we used the total annual compensation in accordance with the requirements of Item 402(c)(2)(x) of Regulation S-K.  Mr. Santaniello's total annual compensation includes compensation for which he is not vested and which he did not actually receive.  For example, Mr. Santaniello's total annual compensation includes $142,608 of nonqualified deferred compensation which he will not be entitled to receive until after attaining the normal retirement age and only if he remains with the Bank until January 1, 2020.  It also includes $44,682 of Stock Awards and $48,777 of Option Awards which vest over a three year period.  Therefore, Mr. Santaniello did not actually receive the Stock and Options in 2018, but will receive them in the future if he remains with the Company.   RATIFICATION OF SELECTION OF INDEPENDENT REGISTERED PUBLIC ACCOUNTING FIRM (PROPOSAL NO. 2)
+The Board of Directors had selected RSM US LLP ("RSM") as the independent registered public accounting firm for the audit of the Company's consolidated financial statements for the year ending December 31, 2019. Representatives of RSM are expected to attend the annual meeting, will have an opportunity to make a statement, if they desire, and will be available to answer appropriate questions.
+Prior to selecting RSM, the Company did not consult with RSM regarding the application of accounting principles to a specific completed or contemplated transaction or regarding the type of audit opinions that might be rendered by RSM on the Company's financial statements, and RSM did not provide any written or oral advice that was an important factor considered by the Company in reaching a decision as to any such accounting, auditing or financial reporting issue.
+The report of independent registered public accounting firm of RSM regarding the Company's financial statements for the fiscal years ending December 31, 2018, 2017,  and 2016 did not contain any adverse opinion or disclaimer of opinion and were not qualified or modified as to uncertainty, audit scope or accounting principles.
+During the year ended December 31, 2018 and during the interim period from the end of the most recently completed fiscal year through the date of this proxy statement, there were no disagreements with RSM on any matter of accounting principles or practices, financial statement disclosure or auditing scope or procedures, which disagreements, if not resolved to the satisfaction of RSM would have caused it to make reference to such disagreement in its reports.
+RSM served as the Company's independent registered accountants for the 2018, 2017 and 2016 years. RSM advised the Company that none of its members has any financial interest in the Company or the Bank. RSM assisted the Company and the Bank with the preparation of their federal and state tax returns and provided assistance in connection with regulatory matters, charging for such services at its customary hourly billing rates. The Company's and the Bank's Audit Committee approved these non-audit services after due consideration of the accountants' objectivity and after finding them to be wholly independent.
+Aggregate fees billed to the Company by RSM for 2018 and 2017 on services rendered are presented below:
+[BEGIN TABLE]
+      For Year Ended December 31,  
+      2018    2017  
+  Audit fees………………….  $205,500   				 $214,500   				 
+  Audit related fees………….    $ -    $ -  
+  Tax fees……………………  $14,017   				 $12,300   				 
+  All other fees………………    $ -    $ -  
+[END TABLE]
+Audit fees included fees for professional services rendered for the audit of the Company's consolidated financial statements, effectiveness of the internal control over 2018 financial reporting under Section 404 of the Sarbanes-Oxley Act and the review of the Company's Forms 10-Q.  Audit related fees included fees for services that are provided by RSM and in connection with normal statutory and regulatory filings that are reasonably related to the audit of the Company's financial statements.  Also, fees billed for other engagements of assurance and related services by RSM that are reasonably related to the performance of the audit are reported under the audit related fees section. Tax fees include fees billed for professional services rendered by RSM for tax compliance or advice.  These services included the preparation of the Company's 2017 Consolidated Federal Corporate Income Tax Returns, the preparation of the Company's 2017 Pennsylvania Corporate Tax Reports along with the Bank's 2018 Pennsylvania Bank Shares Tax Returns. 
+There were no all other fees billed by RSM for 2018 and 2017.
+Audit Committee Pre-Approval of Audit and Permissible Non-Audit Services of Independent Accountants
+The Audit Committee pre-approves all audit and permissible non-audit services provided by the independent registered public accountants.  These services may include audit services, audit related services, tax services and other services.  The Audit Committee has adopted a policy for the pre-approval of services provided by the independent registered accountants.  Under the policy, pre-approval is generally provided for up to one year and any pre-approval is detailed as to the particular service or category of services and is subject to a specific budget.  In addition, the Audit Committee may also pre-approve particular services on a case-by-case basis.  For each proposed service, the independent registered accountant is required to provide detailed back-up documentation at the time of approval.
+In the event shareholders do not ratify the selection of RSM US LLP as the independent registered public accounting firm for the 2019 fiscal year, the Board of Directors may choose another accounting firm to provide independent registered public accountant/audit services for the 2019 fiscal year.
+The Board of Directors recommends a vote FOR the ratification of RSM US LLP, as the independent registered public accounting firm for the year ending December 31, 2019.
+Non-Binding Vote on Executive Compensation
+(Proposal No. 3)
+In accordance with the requirements of Section 14A of the Securities Exchange Act of 1934, as amended (the "Exchange Act") (which was added by the Dodd-Frank Wall Street Reform and Consumer Protection Act (the "Dodd-Frank Act")) and the related rules of the SEC, we are including in these proxy materials a separate resolution subject to shareholder vote to approve, in a non-binding vote, the compensation of our named executive officers.
+As described in detail under the heading "Compensation Discussion and Analysis" and "Executive Compensation," our executive compensation programs are designed to attract, incentivize and retain our named executive officers, who are critical to our success.  We are asking our shareholders to indicate their support for our named executive officer compensation as described in this proxy statement.  This proposal, commonly known as a "say-on-pay" proposal, gives our shareholders the opportunity to express their views on our named executive officers' compensation.  This vote is not intended to address any specific item of compensation, but rather the overall compensation of our named executive officers and the philosophy, policies and practices described in this proxy statement.  Accordingly, we ask our shareholders to vote "FOR" the following resolution at the Annual Meeting:
+"RESOLVED, that the Company's shareholders approve, on an advisory basis, the compensation of the named executive officers, as disclosed in the Company's Proxy Statement for the 2019 Annual Meeting of Shareholders pursuant to the compensation disclosure rules of the SEC, including the 2018 Summary Compensation Table and the other related tables and disclosure."
+The say-on-pay vote is advisory, and therefore not binding on the Company or our Board of Directors. Our Board of Directors values the opinions of our shareholders and to the extent there is any significant vote against the named executive officer compensation as disclosed in this proxy statement,  we will consider our shareholders' concerns and will evaluate whether any actions are necessary to address those concerns.
+Vote Required; Recommendation of the Board of Directors
+ The approval of the compensation of the named executive officers as disclosed in this proxy statement will be approved if a majority of the votes cast at the Annual Meeting are voted "FOR" this proposal. Abstentions and "broker non-votes" will not be counted as votes cast and therefore will not affect the determination as to whether this proposal is approved.
+The Board recommends a vote FOR the compensation of the named executive officers as disclosed in this proxy statement.
+Non-Binding Vote on the Frequency of Shareholder Votes on Executive Compensation
+(Proposal No. 4)
+In accordance with the requirements of Section 14A of the Exchange Act (which was added by the Dodd-Frank Act) and the related rules of the SEC, we are including in these proxy materials a separate resolution subject to shareholder vote to recommend, in a non-binding vote, whether a non-binding shareholder vote to approve the compensation of our named executive officers should occur every one, two or three years. The text of the resolution in respect of Proposal No. 4 is as follows:
+"RESOLVED, that the shareholders recommend, in a non-binding vote, whether a non-binding shareholder vote to approve the compensation of the Company's named executive officers should occur every one, two or three years."
+In considering your vote, you may wish to review the executive compensation information presented in this proxy statement.  In addition, shareholder should note the following:
+The Board of Directors believes shareholders should be given the opportunity to approve the Company's executive compensation triennially because triennial votes will provide the Company their direct input on the compensation philosophy, policies and practices as disclosed in the proxy statement every third year to allow the Company the time to thoughtfully consider the results of their say on pay votes, engage in discussions with the shareholders on corporate governance matters and executive compensation philosophy, policies and practices, respond to shareholders sentiments, and implement changes.
+For these reasons, we believe that a once every three years is appropriate in order to provide shareholders with a more comprehensive view of whether our named executive officer compensation programs are achieving their objectives.
+Vote Required; Recommendation of the Board of Directors
+The option of one year, two years or three years that receives the highest number of votes cast by shareholders will be the frequency for the advisory vote on executive compensation that has been selected by shareholders. Abstentions and "broker non-votes" will not be counted as votes cast and therefore will not affect the determination as to whether this proposal is approved.
+The Board of Directors recommends a vote every THREE YEARS on Proposal No. 4 regarding the frequency of the shareholder vote to approve the compensation of the named executive officers as required by SEC's compensation disclosure rules. OTHER MATTERS THAT MAY COME BEFORE THE ANNUAL MEETING
+The Board of Directors knows of no matters other than those referred to in the Notice of Annual Meeting of Shareholders that properly may come before the annual meeting.  However, if any other matter should be properly presented for consideration and voting at the annual meeting or any adjournments of the meeting, the persons named as proxy holders will vote the proxies in what they determine to be the best interest of the Company on the recommendation of the Board of Directors.
+ADDITIONAL INFORMATION
+The Company encloses a copy of the annual report for the fiscal year ended December 31, 2018, with this proxy statement.  The annual report is also available online at www.bankatfidelity.com/proxy materials.  In addition, upon request, any shareholder may obtain, without charge, a copy of the Company's annual report on Form 10-K for its fiscal year ended December 31, 2018, including the consolidated financial statements and the schedules thereto, required to be filed with the Securities and Exchange Commission, from Salvatore R. DeFrancesco, Jr., Treasurer and Chief Financial Officer, Fidelity D & D Bancorp, Inc., Blakely and Drinker Streets, Dunmore, Pennsylvania 18512 or by calling (570) 342-8281.  
+  			   		

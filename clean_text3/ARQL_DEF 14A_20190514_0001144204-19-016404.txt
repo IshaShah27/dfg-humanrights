@@ -1,0 +1,1079 @@
+TABLE OF CONTENTS
+UNITED STATES SECURITIES AND EXCHANGE COMMISSION Washington, D.C. 20549 
+SCHEDULE 14A 
+Proxy Statement Pursuant to Section 14(a) of the Securities Exchange Act of 1934 (Amendment No.    ) 
+Filed by the Registrant ☒ Filed by a Party other than the Registrant ☐
+Check the appropriate box: 
+☐
+Preliminary Proxy Statement 
+​
+☐
+Confidential, for Use of the Commission Only (as permitted by Rule 14a-6(e)(2))
+​
+☒
+Definitive Proxy Statement 
+​
+☐
+Definitive Additional Materials 
+​
+☐
+Soliciting Material under §240.14a-12 
+​
+ArQule, Inc.
+​
+(Name of Registrant as Specified In Its Charter) 
+​
+(Name of Person(s) Filing Proxy Statement, if other than the Registrant) 
+Payment of Filing Fee (Check the appropriate box): 
+☒
+No fee required. 
+​
+☐
+Fee computed on table below per Exchange Act Rules 14a-6(i)(1) and 0-11. 
+​
+(1)
+Title of each class of securities to which transaction applies:    
+​
+​
+(2)
+Aggregate number of securities to which transaction applies:    
+​
+​
+(3)
+Per unit price or other underlying value of transaction computed pursuant to Exchange Act Rule 0-11 (set forth the amount on which the filing fee is calculated and state how it was determined):    
+​
+​
+(4)
+Proposed maximum aggregate value of transaction:    
+​
+​
+(5)
+Total fee paid:    
+​
+​
+☐
+Fee paid previously with preliminary materials. 
+​
+☐
+Check box if any part of the fee is offset as provided by Exchange Act Rule 0-11(a)(2) and identify the filing for which the offsetting fee was paid previously. Identify the previous filing by registration statement number, or the Form or Schedule and the date of its filing. 
+​
+(1)
+Amount Previously Paid:    
+​
+​
+(2)
+Form, Schedule or Registration Statement No.:    
+​
+​
+(3)
+Filing Party:    
+​
+​
+(4)
+Date Filed:    
+​
+​
+TABLE OF CONTENTS
+LETTER TO STOCKHOLDERS
+Introduction 
+In 2018, we made important strides in advancing our pipeline of product candidates. As a result of those achievements, which build on steady progress from the prior two years, the Company's stock price began to recover, and we were able to raise the capital necessary to take the next steps in what could be a transformational phase for ArQule.
+After successfully partnering our FGFR inhibitor, derazantinib, early in 2018, we continued to focus our energies on the Phase 1 study with ARQ 531, the development of miransertib in rare diseases and the dose escalation study with ARQ 751, all in biomarker-defined patient populations. I am gratified to report that significant advances were made with all these programs, and we plan to redouble our efforts in 2019 as we strive to bring these important therapies to patients in areas of high unmet need.
+Pipeline of Product Candidates 
+For ARQ 531, our potent and reversible dual inhibitor of wild type and C481S-mutant Bruton's Tyrosine Kinase (BTK), we successfully enrolled over twenty patients across seven dose cohorts ranging from 5 mg to 65 mg QD in the Phase 1 trial. We presented data from this trial at three major conferences (AACR, EHA and ASH) that demonstrated a good safety profile, profound target engagement and encouraging signs of dose-dependent clinical activity in both lymphomas and C481S-mutant CLL. In addition, we recently reported that we saw the first partial response (88% tumor volume reduction) in a patient with C481S-mutant CLL in cohort 7 (65 mg) and that cohort 7 has been cleared for safety. We plan to present further data on the safety and activity of ARQ 531 at the 24th Annual European Hematological Association Congress in mid-June.
+For miransertib, our potent and selective inhibitor of the AKT serine/threonine kinase, we presented first-of-its kind clinical data in Proteus syndrome at the American Society of Human Genetics (ASHG), received FDA fast track designation in PROS and worked with regulators to define registrational trial designs for both indications. We are in the process of initiating a registrational program in Proteus syndrome and PROS and will seek to gain approval of miransertib as the first (and only) systemic treatment for patients suffering from these devastating overgrowth diseases.
+As previously reported, we have been collaborating with Memorial Sloan Kettering with miransertib in oncology, specifically in advanced endometrial cancer patients in combination with the aromatase inhibitor, anastrozole. In 2018, we expanded this Phase 1b study to up to forty patients, and we plan to present data for this trial in the second half of 2019.
+Finally, we are encouraged by the data that we produced during 2018 with our highly potent and selective next generation AKT inhibitor, ARQ 751. We completed the dose escalation portion of the Phase 1 trial in relapsed and refractory metastatic cancer patients harboring AKT1, PI3K or PTEN mutations, identified a recommended Phase 2 dose of 75 mg QD and presented data at the EORTC/AACR/NCI congress in November. We now have moved ARQ 751 into a Phase 1b study in patients harboring these mutations to further explore its safety and activity both as a single agent and in combination with other anti-cancer agents. We plan to present data on this Phase 1b study later in the year.
+In February 2018, we partnered our FGFR inhibitor, derazantinib, with Sinovant Sciences Ltd., a subsidiary of Roivant Sciences Ltd. (Sinovant), in Greater China and in April partnered derazantinib in the rest of the world with Basilea Pharmaceutica Ltd. (Basilea). Basilea continues the timely recruitment of the registrational trial in intrahepatic cholangiocarcinoma and reported encouraging safety and activity data as part of its interim assessment of the trial conducted in January 2019. We anticipate that Sinovant will launch the first human clinical trial of derazantinib in Greater China in mid-2019. We are eligible to receive up to approximately $400 million in regulatory and sales milestones and tiered royalties on sales from these collaborations.
+TABLE OF CONTENTS
+Looking Ahead 
+Building on the progress of 2018, we believe that 2019 could be a watershed year for our product pipeline through the achievement of the following goals:
+ ARQ 531 – complete the dose escalation portion of the Phase 1 trial; determine a recommended Phase 2 dose; initiate Phase 1b expansion cohorts; present results of the dose escalation Phase 1 trial at a major industry conference or conferences; and plan for a registrational trial in patients harboring the C481S  mutation 
+​
+ Miransertib (rare diseases) – initiate a registrational trial in Proteus syndrome and PROS 
+​
+ Miransertib (oncology) – complete recruitment of the ongoing Phase 1b trial in endometrial cancer and present data at a major conference later this year
+​
+ ARQ 751 – complete recruitment of the Phase 1b expansion trial and present data at a major conference later this year
+​
+ Derazantinib – complete the orderly and timely transfer of all clinical, manufacturing and regulatory responsibilities to our partners, Basilea and Sinovant
+​
+Finance 
+In July 2018, we successfully raised approximately $70 million as a result of significant clinical progress across our pipeline. This follow-on offering allowed us to finish the year with almost $100 million of cash and marketable securities, putting us on strong financial footing to move our pipeline forward and achieve key clinical milestones in 2019.
+As in years past, I would like to sincerely thank the patients that participate in our studies, the investigators with whom we collaborate, and the employees of ArQule whose dedication has allowed us to reach the point where we are today: on the cusp of launching a new registrational trial in rare diseases and delivering data that could change the landscape for the treatment of CLL and other B-cell malignancies.
+Sincerely,
+Paolo Pucci Chief Executive Officer
+TABLE OF CONTENTS
+ARQULE, INC.  NOTICE OF ANNUAL MEETING OF STOCKHOLDERS  TO BE HELD MAY 14, 2019 
+To Our Stockholders, 
+Our 2019 Annual Meeting of Stockholders will be held at the Boston Burlington Marriott, One Mall Road, Burlington, Massachusetts 01803 at 11:00 a.m. Eastern Daylight Savings Time on May 14, 2019 for the following purposes: 
+1.
+To elect Susan L. Kelley, M.D. and Michael D. Loberg, Ph.D. as directors to hold office for a term of three years and until their respective successors are elected and qualified; 
+​
+2.
+To approve an amendment and restatement of our 2014 Equity Incentives Plan to increase the number of shares of our Common Stock available for issuance pursuant to future awards made under the plan by 2,750,000; 
+​
+3.
+To ratify the selection of PricewaterhouseCoopers LLP as our independent registered public accounting firm for the year ending December 31, 2019; 
+​
+4.
+To approve, by non-binding vote, the compensation of our named executive officers; and 
+​
+5.
+To transact any other business that may properly come before the meeting or any adjournment of the meeting. 
+​
+Only stockholders of record at the close of business on March 20, 2019 will be entitled to vote at the meeting or any continuation of the meeting following an adjournment. A list of these stockholders will be available during ordinary business hours at the offices of ArQule, Inc. for a period beginning ten days before the meeting. Any stockholder may examine the list for any purpose germane to the meeting. 
+We look forward to seeing you at the meeting. 
+IT IS IMPORTANT THAT YOUR SHARES ARE REPRESENTED AT THE MEETING. THEREFORE, WHETHER OR NOT YOU PLAN TO ATTEND THE MEETING, PLEASE COMPLETE YOUR PROXY AND RETURN IT IN THE ENCLOSED ENVELOPE, WHICH REQUIRES NO POSTAGE IF MAILED IN THE UNITED STATES. YOU MAY ALSO SUBMIT YOUR PROXY ELECTRONICALLY OR BY TELEPHONE, ACCORDING TO THE INSTRUCTIONS ON THE ENCLOSED PROXY CARD. IF YOU ATTEND THE MEETING AND WISH TO VOTE IN PERSON, YOUR PROXY WILL NOT BE USED. YOU MAY REVOKE YOUR PROXY AT ANY TIME BEFORE IT IS VOTED. 
+By order of our Board of Directors, 
+Peter S. Lawrence President and Chief Operating Officer
+Burlington, Massachusetts 
+Dated: March 28, 2019
+TABLE OF CONTENTS​
+TABLE OF CONTENTS 
+[BEGIN TABLE]
+​   QUESTIONS AND ANSWERS ABOUT THE MEETING AND VOTING    ​ ​ ​ ​  1  ​ ​ 
+​   Why am I receiving these materials?    ​ ​ ​ ​  1  ​ ​ 
+​   What is a proxy statement and what is a proxy?    ​ ​ ​ ​  1  ​ ​ 
+​   What is the difference between holding shares as a stockholder of record and a stockholder who holds stock in street name?    ​ ​ ​ ​  1  ​ ​ 
+​   What is the purpose of the Annual Meeting?    ​ ​ ​ ​  1  ​ ​ 
+​   What are my voting choices for each of the proposals to be voted on at the Annual Meeting?    ​ ​ ​ ​  2  ​ ​ 
+​   What is the Majority Voting Policy?    ​ ​ ​ ​  2  ​ ​ 
+​   What shares can I vote?    ​ ​ ​ ​  2  ​ ​ 
+​   How many shares must be present or represented to conduct business at the Annual Meeting?    ​ ​ ​ ​  3  ​ ​ 
+​   What if I am a beneficial owner and do not give voting instructions to my bank, broker or other nominee?    ​ ​ ​ ​  3  ​ ​ 
+​   What vote is required to approve each proposal and how are votes counted?    ​ ​ ​ ​  3  ​ ​ 
+​   How do I vote if my shares are held by my broker?    ​ ​ ​ ​  4  ​ ​ 
+​   What different methods can I use to vote?    ​ ​ ​ ​  4  ​ ​ 
+​   What if I am a stockholder of record and do not specify a choice for a matter when returning a proxy?    ​ ​ ​ ​  4  ​ ​ 
+​   Can I change my vote after I have already voted?    ​ ​ ​ ​  4  ​ ​ 
+​   Who will bear the cost of soliciting votes for the Annual Meeting?    ​ ​ ​ ​  4  ​ ​ 
+​   What happens if additional matters are presented at the Annual Meeting?    ​ ​ ​ ​  4  ​ ​ 
+​   When will the Company announce the voting results?    ​ ​ ​ ​  4  ​ ​ 
+​   Can I access the Notice of Annual Meeting, Proxy Statement and Annual Report on Form 10-K on the Internet?    ​ ​ ​ ​  4  ​ ​ 
+​   CAUTIONARY NOTE REGARDING FORWARD-LOOKING STATEMENTS    ​ ​ ​ ​  6  ​ ​ 
+​   PROPOSAL 1—ELECTION OF DIRECTORS    ​ ​ ​ ​  7  ​ ​ 
+​   Nominees for Election at the Annual Meeting    ​ ​ ​ ​  7  ​ ​ 
+​   Vote Required     ​ ​ ​ ​  7  ​ ​ 
+​   Directors with Term Expiring at the 2020 Annual Meeting    ​ ​ ​ ​  8  ​ ​ 
+​   Directors with Term Expiring at the 2021 Annual Meeting    ​ ​ ​ ​  8  ​ ​ 
+​   Corporate Governance Guidelines and Code of Conduct    ​ ​ ​ ​  9  ​ ​ 
+​   Director Qualifications and Nomination Process    ​ ​ ​ ​  10  ​ ​ 
+​   Majority Voting Policy    ​ ​ ​ ​  11  ​ ​ 
+​   The Board's Role in Risk Oversight    ​ ​ ​ ​  11  ​ ​ 
+​   Communications with Directors    ​ ​ ​ ​  12  ​ ​ 
+​   Director Independence    ​ ​ ​ ​  12  ​ ​ 
+​   Compensation Committee Interlocks and Insider Participation    ​ ​ ​ ​  12  ​ ​ 
+​   BOARD COMMITTEES AND MEETINGS    ​ ​ ​ ​  12  ​ ​ 
+​   Committees of the Board    ​ ​ ​ ​  12  ​ ​ 
+​   DIRECTOR COMPENSATION    ​ ​ ​ ​  15  ​ ​ 
+​   COMPENSATION DISCUSSION AND ANALYSIS    ​ ​ ​ ​  17  ​ ​ 
+​   Compensation Philosophy    ​ ​ ​ ​  17  ​ ​ 
+​   The Role of the Compensation Committee    ​ ​ ​ ​  17  ​ ​ 
+​   The Compensation Committee's Process    ​ ​ ​ ​  18  ​ ​ 
+[END TABLE]
+i
+TABLE OF CONTENTS​
+[BEGIN TABLE]
+​   Elements of Compensation    ​ ​ ​ ​  19  ​ ​ 
+​   Potential Payments to Named Executive Officers Upon Termination or Change of Control    ​ ​ ​ ​  22  ​ ​ 
+​   Tax Considerations    ​ ​ ​ ​  23  ​ ​ 
+​   COMPENSATION COMMITTEE REPORT    ​ ​ ​ ​  24  ​ ​ 
+​   EXECUTIVE COMPENSATION    ​ ​ ​ ​  25  ​ ​ 
+​   SUMMARY COMPENSATION TABLE    ​ ​ ​ ​  25  ​ ​ 
+​   EMPLOYMENT AGREEMENTS    ​ ​ ​ ​  26  ​ ​ 
+​   Employment Agreement with Paolo Pucci    ​ ​ ​ ​  26  ​ ​ 
+​   Employment Agreement with Peter S. Lawrence    ​ ​ ​ ​  26  ​ ​ 
+​   Employment Agreement with Brian Schwartz    ​ ​ ​ ​  26  ​ ​ 
+​   GRANTS OF PLAN-BASED AWARDS FOR FISCAL YEAR 2018    ​ ​ ​ ​  27  ​ ​ 
+​   OUTSTANDING EQUITY AWARDS AT 2018 FISCAL YEAR-END    ​ ​ ​ ​  28  ​ ​ 
+​   OPTION EXERCISES AND STOCK VESTED IN FISCAL YEAR 2018    ​ ​ ​ ​  30  ​ ​ 
+​   CEO PAY RATIO    ​ ​ ​ ​  30  ​ ​ 
+​   PAYMENTS UPON TERMINATION OR CHANGE OF CONTROL    ​ ​ ​ ​  31  ​ ​ 
+​   REPORT OF THE AUDIT COMMITTEE    ​ ​ ​ ​  34  ​ ​ 
+​   PROPOSAL 2—APPROVAL OF AN AMENDMENT TO OUR 2014 EQUITY INCENTIVES PLAN    ​ ​ ​ ​  35  ​ ​ 
+​   PROPOSAL 3—RATIFICATION OF SELECTION OF INDEPENDENT REGISTERED PUBLIC ACCOUNTING FIRM    ​ ​ ​ ​  39  ​ ​ 
+​   PROPOSAL 4—ADVISORY VOTE ON APPROVAL OF THE COMPENSATION OF THE COMPANY'S NAMED EXECUTIVE OFFICERS    ​ ​ ​ ​  40  ​ ​ 
+​   CERTAIN RELATIONSHIPS AND RELATED TRANSACTIONS    ​ ​ ​ ​  41  ​ ​ 
+​   SHARE OWNERSHIP OF CERTAIN BENEFICIAL OWNERS    ​ ​ ​ ​  41  ​ ​ 
+​   SECTION 16(a) BENEFICIAL OWNERSHIP REPORTING COMPLIANCE    ​ ​ ​ ​  44  ​ ​ 
+​   STOCKHOLDER PROPOSALS    ​ ​ ​ ​  44  ​ ​ 
+​   OTHER MATTERS    ​ ​ ​ ​  45  ​ ​ 
+​   APPENDICES    ​ ​ ​ ​  A-1  ​ ​ 
+[END TABLE]
+ii
+TABLE OF CONTENTS​​​​​
+ARQULE, INC.  One Wall StreetBurlington, Massachusetts 01803Telephone: (781) 994-0300
+​
+Proxy Statement 
+​
+QUESTIONS AND ANSWERS ABOUT THE MEETING AND VOTING 
+Why am I receiving these materials? 
+ArQule, Inc., a Delaware corporation ("ArQule," the "Company," "we," "us," or "our"), sent you the Notice of Annual Meeting, this Proxy Statement and the accompanying proxy card because according to our stockholder records you own shares of our Common Stock, $0.01 par value ("Common Stock"). Any stockholder of record at the close of business on March 20, 2019 (the "Record Date") is entitled to vote those shares at the Company's upcoming Annual Meeting of Stockholders ("Annual Meeting"), which will be held on May 14, 2019 at 11:00 a.m. Eastern Daylight Savings Time at the Boston Burlington Marriott, One Mall Road, Burlington, Massachusetts 01803. Our Board of Directors (the "Board") is soliciting your proxy to vote at the Annual Meeting. All stockholders are invited to attend the Annual Meeting and are entitled to and requested to vote on the items of business described in this Proxy Statement; however, you do not need to attend the Annual Meeting to vote your shares. Instead, you may simply complete, sign and return the accompanying proxy card, or follow the instructions below to submit your proxy by telephone or on the Internet. Although our Annual Report on Form 10-K for the year ended December 31, 2018 is being delivered with the Proxy Statement, the Annual Report should not be deemed to be a part of the Proxy Statement. 
+What is a proxy statement and what is a proxy? 
+A proxy statement is a document that the Securities and Exchange Commission ("SEC") regulations require us to give you when we ask you to sign a proxy designating individuals to vote on your behalf. A proxy is your legal designation of another person to vote the shares you own. That other person is called a proxy. If you designate someone as your proxy in a written document, that document also is called a proxy or proxy card. We have designated Paolo Pucci and Peter S. Lawrence as proxies for the Annual Meeting. We will first provide this Proxy Statement and proxy card on or about March 28, 2019. 
+What is the difference between holding shares as a stockholder of record and a stockholder who holds stock in street name? 
+If your shares are registered directly in your name with our registrar and transfer agent, American Stock Transfer and Trust Company, LLC, you are considered a stockholder of record with respect to those shares. If your shares are held in "street name," meaning your shares are held in a bank or brokerage account or with another nominee, you are considered the "beneficial owner" of those shares and the proxy materials were forwarded to you by your bank or broker, who is considered the shareholder of record for purposes of voting at the Annual Meeting. As a beneficial owner, you have the right to direct your bank or broker how to vote the shares held in your account. 
+What is the purpose of the Annual Meeting? 
+The principal business expected to be transacted at the Annual Meeting, as more fully described below, will be: 
+1.
+To elect Susan L. Kelley, M.D. and Michael D. Loberg, Ph.D. as directors to hold office for a term of three years and until their respective successors are elected and qualified; 
+​
+2.
+To approve an amendment and restatement of our 2014 Equity Incentives Plan to increase the number of shares of our Common Stock available for issuance pursuant to future awards made under the plan by 2,750,000; 
+​
+​ TABLE OF CONTENTS​​​
+3.
+To ratify the selection of PricewaterhouseCoopers LLP as our independent registered public accounting firm for the year ending December 31, 2019; 
+​
+4.
+To approve, by non-binding vote, the compensation of our named executive officers; and 
+​
+5.
+To transact any other business that may properly come before the meeting or any adjournment of the meeting. 
+​
+What are my voting choices for each of the proposals to be voted on at the Annual Meeting? 
+[BEGIN TABLE]
+ Proposal   ​ ​  Voting Choices and Board Recommendation   ​ 
+ Proposal 1: Election of Directors   ​ ​• vote in favor of all nominees;  ​​ 
+ Proposal 1: Election of Directors   ​ ​• vote in favor of all nominees;  ​​ 
+​• withhold authority to vote for all nominees; or  ​​ 
+​• withhold authority to vote for all nominees; or  ​​ 
+​• withhold authority to vote for all nominees; or  ​​ 
+​• withhold authority to vote for any specified nominee.  ​​ 
+​• withhold authority to vote for any specified nominee.  ​​ 
+​• withhold authority to vote for any specified nominee.  ​​ 
+ Proposal 2: Approval of an amendment and restatement of our 2014 Equity Incentives Plan.   ​ ​• vote in favor of proposal;  ​​ 
+ Proposal 2: Approval of an amendment and restatement of our 2014 Equity Incentives Plan.   ​ ​• vote in favor of proposal;  ​​ 
+​• vote against proposal; or  ​​ 
+​• vote against proposal; or  ​​ 
+​• vote against proposal; or  ​​ 
+​• abstain from voting on proposal.  ​​ 
+​• abstain from voting on proposal.  ​​ 
+​• abstain from voting on proposal.  ​​ 
+ Proposal 3: Ratification of Selection of Independent Registered Public Accounting Firm  ​ ​• vote in favor of ratification;  ​​ 
+ Proposal 3: Ratification of Selection of Independent Registered Public Accounting Firm  ​ ​• vote in favor of ratification;  ​​ 
+​• vote against ratification; or  ​​ 
+​• vote against ratification; or  ​​ 
+​• vote against ratification; or  ​​ 
+​• abstain from voting on ratification.  ​​ 
+​• abstain from voting on ratification.  ​​ 
+​• abstain from voting on ratification.  ​​ 
+ Proposal 4: Advisory Proposal to Approve Executive Compensation   ​ ​• vote in favor of proposal;  ​​ 
+ Proposal 4: Advisory Proposal to Approve Executive Compensation   ​ ​• vote in favor of proposal;  ​​ 
+​• vote against proposal; or  ​​ 
+​• vote against proposal; or  ​​ 
+​• vote against proposal; or  ​​ 
+​• abstain from voting on proposal.  ​​ 
+​• abstain from voting on proposal.  ​​ 
+​• abstain from voting on proposal.  ​​ 
+[END TABLE]
+For Proposal 1, subject to our Majority Voting Policy described below, the affirmative vote of a plurality of shares of Common Stock cast by stockholders present at the Annual Meeting, in person or by proxy, is required to elect each of the nominees. 
+As an advisory vote, Proposal 4, the proposal to approve executive compensation, is not binding on the Company. However, the Compensation, Nominating and Governance Committee of the Board (the "Compensation Committee"), which is responsible for designing and administering our executive compensation program, values the opinions expressed by stockholders and will consider the outcome of the vote when making future compensation decisions. 
+What is the Majority Voting Policy? 
+Our Board has adopted a policy that provides that in an uncontested election of directors, any nominee that is elected but receives a greater number of votes withheld from his or her election than votes in favor of election is expected to tender his or her resignation promptly following the date of the stockholders' meeting at which the vote occurs. As described below, the Compensation Committee will consider the resignation and recommend to the Board whether to accept it in accordance with the terms of our Majority Voting Policy. 
+What shares can I vote? 
+Each holder of Common Stock is entitled to one vote for each share held as of the Record Date on each matter to be voted on at the Annual Meeting. March 20, 2019 is the Record Date for our Annual Meeting. On that date, we had outstanding 109,095,759 shares of Common Stock.  TABLE OF CONTENTS​​​
+How many shares must be present or represented to conduct business at the Annual Meeting? 
+The presence at the Annual Meeting, in person or by proxy, of the holders of a majority in interest of all stock issued and outstanding and entitled to vote at the Annual Meeting constitutes a quorum for the transaction of business. For purposes of determining whether a quorum exists, proxies received but marked as abstentions and so-called "broker non-votes" (described below) will be counted as present. 
+What if I am a beneficial owner and do not give voting instructions to my bank, broker or other nominee? 
+As a beneficial owner, in order to ensure that your shares of Common Stock are voted in the way you would like, you must provide voting instructions to your bank, broker or other nominee by the deadline provided in the materials received from your banker, broker or other nominee. If you do not provide voting instructions to your bank, broker or other nominee, whether your shares of Common Stock can be voted by such person depends on the type of item being voted on. 
+ Non-Discretionary Items.   The election of directors (Proposal 1), amendment and restatement of our 2014 Equity Incentives Plan (Proposal 2) and advisory proposal to approve executive compensation (Proposal 4) are non-discretionary items and may not be voted by banks, brokers or other nominees who have not received specific voting instructions from beneficial owners. If you have not specifically instructed your bank, broker or other nominee how to vote your shares on these proposals, your shares will not be voted on that matter, creating what is called a "broker non-vote." 
+​
+ Discretionary Items.   The ratification of the appointment of PricewaterhouseCoopers LLP as our independent registered public accounting firm (Proposal 3) is a discretionary item. Generally, banks, brokers or other nominees that do not receive specific voting instructions from beneficial owners may vote on this proposal at their discretion. 
+​
+What Vote is Required to Approve Each Proposal and How are Votes Counted? 
+[BEGIN TABLE]
+ Proposal   ​ ​  Required Vote   ​ ​  Abstentions and Broker Non-Votes   ​ 
+[END TABLE]
+ TABLE OF CONTENTS​​​​​​​​
+How do I vote if my shares are held by my broker? 
+If your shares are held by your broker in "street name," you will need to instruct your broker, in the manner provided by your broker, how to vote your shares. If your shares are held in "street name" and you wish to vote them in person at the Annual Meeting, you must obtain from your broker a properly executed legal proxy, identifying you as an ArQule stockholder, authorizing you to act on behalf of the broker at the Annual Meeting and specifying the number of shares with respect to which the authorization is granted. 
+What different methods can I use to vote? 
+Your vote is very important. Whether or not you plan to attend the Annual Meeting, we urge you to either: 
+ complete, sign, date and return the accompanying proxy card; 
+​
+ vote on the Internet pursuant to the instructions provided in the proxy card; or 
+​
+ vote by telephone (toll-free) in the United States or Canada, in accordance with the instructions on the proxy card. 
+​
+What if I am a stockholder of record and do not specify a choice for a matter when returning a proxy? 
+Stockholders should specify their choice for each matter on the Proxy Card. If you submit a valid proxy without directions as to votes on the matters to be considered at the Annual Meeting, the proxy will be voted "FOR" each of Proposals 1 through 4. 
+Can I change my vote after I have already voted? 
+Stockholders may revoke the authority granted by an executed proxy at any time before its exercise by voting in person at the Annual Meeting or by filing with our President and Chief Operating Officer a written revocation or a duly executed proxy with a later date. If your shares are held in "street name," you should contact your broker for instructions on changing your vote. 
+Who will bear the cost of soliciting votes for the Annual Meeting? 
+We will bear the cost of solicitation of proxies, including charges and expenses of brokerage firms and others for forwarding solicitation material by mail to beneficial owners of stock. We have engaged The Proxy Advisory Group, LLC®, to assist in the solicitation of proxies and provide related advice and informational support for a services fee and the reimbursement of customary disbursements in an amount that is not expected to exceed $15,000 in the aggregate. In addition, our officers, employees and other representatives may solicit proxies in person or by telephone. 
+What happens if additional matters are presented at the Annual Meeting? 
+Other than the items of business described in this Proxy Statement, we are not aware of any other business to be acted upon at the Annual Meeting. If you grant a proxy, the persons named as proxy holders will have discretion to vote your shares on any additional matters properly presented for a vote at the Annual Meeting. If for any reason any of our nominees is not available as a candidate for director, the person named as proxy holder will vote your proxy for such other candidates as may be nominated by the Board. 
+When will the Company announce the voting results? 
+We will announce the preliminary voting results at the Annual Meeting. The Company will report the final results in a Current Report on Form 8-K filed with the SEC which can be accessed on the SEC's website at www.sec.gov or on our website at www.arqule.com. 
+Can I access the Notice of Annual Meeting, Proxy Statement and Annual Report on Form 10-K on the Internet? 
+The Notice of Annual Meeting, Proxy Statement and Annual Report are available at www.proxyvote.com. In addition, stockholders are able to view these documents by accessing the "Investors and Media" Section of our website at www.arqule.com and clicking on the heading "Financial Information".  TABLE OF CONTENTS
+Instead of receiving future copies of our Notice of Annual Meeting, Proxy Statement and Form 10-K by mail, stockholders can elect to receive an e-mail that will provide electronic links to these documents. Opting to receive your proxy materials online will save us the cost of producing and mailing your documents to your home or business, and also will give you an electronic link to the proxy voting site. 
+ Stockholders of Record.   If you vote on the Internet at www.proxyvote.com, simply follow the prompts for enrolling in the electronic proxy delivery service. You also may enroll in the electronic proxy delivery service at any time in the future by going directly to www.proxyvote.com and following the enrollment instructions. 
+​
+ Stockholders in Street Name.   If you hold your shares of Common Stock in street name through a bank or brokerage account, you also may have the opportunity to receive copies of these documents electronically. Please check the information provided in your proxy material provided to you by your bank or broker regarding the availability of this service. 
+​
+​ TABLE OF CONTENTS​
+CAUTIONARY NOTE REGARDING FORWARD-LOOKING STATEMENTS 
+This Proxy Statement, including the accompanying letter to stockholders, as well as other written reports and oral statements that we make from time to time, include statements that express our opinions, expectations, beliefs, plans, objectives, goals, assumptions or projections regarding future events or future results and therefore are, or may be deemed to be, "forward-looking statements" within the meaning of the Private Securities Litigation Reform Act of 1995. These statements can generally be identified by use of forward-looking terminology such as "believes", "expects", "intends", "may", "will", "plans", "should", "anticipates," "potential," "goal" or similar terminology. Forward-looking statements are not guarantees that the future results, plans, intentions or expectations, expressed or implied, will be achieved. Matters subject to forward-looking statements involve known and unknown risks and uncertainties. Although we believe that the expectations reflected in such forward-looking statements are reasonable as of the date hereof, such expectations are based on certain assumptions regarding the progress of product development efforts including clinical trials and pre-clinical activities conducted by ourselves and third parties, the prosecution of existing and efforts to execute new collaborative agreements, receipt of potential milestones and royalties under our collaborative agreements, government regulations, reliance on third parties to conduct clinical trials and perform research and analysis services, adequate financial resources, changes in economic and business conditions, and other factors relating to our growth. Such expectations may not materialize if product development efforts, including any necessary trials of our potential drug candidates, are delayed or suspended, if our compounds fail to demonstrate safety and efficiency, if positive early results are not repeated in later studies or in humans, if the therapeutic value of our compounds is not realized, if negotiations with potential collaborators are delayed or unsuccessful, if we are unsuccessful at integrating acquired assets or technologies, or if other assumptions prove incorrect. We describe additional risks and uncertainties that could cause actual results and events to differ materially from these forward-looking statements in the "Risk Factors" section of our annual report on Form 10-K for the year ended December 31, 2018 and other public filings with the SEC. 
+Any forward-looking statements contained herein represent our judgment as of the date hereof and you are cautioned not to place undue reliance on these forward-looking statements. We undertake no obligation to revise or update publicly any forward-looking statements for any reason. TABLE OF CONTENTS​​​
+PROPOSAL 1—ELECTION OF DIRECTORS 
+Our By-laws provide that the number of directors is established by our Board. The number of directors is currently fixed at eight, divided into three classes as equal in number as possible and defined by the expiration dates of their terms of service. At the Annual Meeting, two directors will be elected to terms of three years, expiring in 2022, and until their respective successors are elected and qualified. 
+Susan L. Kelley, M.D. and Michael D. Loberg, Ph.D., each of whom is presently serving as a director, have been nominated for re-election by our Board for a term of three years. If any nominee is unable to serve, which is not expected, the shares represented by your proxy will be voted for such other candidate as may be nominated by the Board. 
+Set forth below is certain information about the qualifications and other directorships of the director nominees. 
+Nominees for Election at the Annual Meeting 
+Susan L. Kelley, M.D. (Age: 64) Dr. Kelley has been a director since April 2011. Dr. Kelley served as Chief Medical Officer of the Multiple Myeloma Research Consortium and its sister organization, the Multiple Myeloma Research Foundation from 2008 to 2011. Previously, Dr. Kelley held positions of increasing responsibility at Bayer Healthcare Pharmaceuticals and Bayer-Schering Pharma including Vice President, Global Clinical Development and Therapeutic Area Head—Oncology. Prior to joining Bayer, she worked at Bristol-Myers Squibb in Oncology and Immunology drug development where she held positions of increasing responsibility, ultimately serving as Executive Director, Oncology Clinical Research, at the Bristol-Myers Squibb Pharmaceutical Research Institute. She was a Fellow in Medical Oncology and Clinical Fellow in Medicine at Dana-Farber Cancer Institute, Harvard Medical School, and a Fellow in Medical Oncology and Pharmacology at Yale University School of Medicine, where she also served as a Clinical Assistant Professor of Medicine. Dr. Kelley also serves on the board of directors of Daré Bioscience (formerly Cerulean Pharma, Inc.), Immune Design Corp. and Vascular Biogenics Ltd. She formerly served as a Director of Alchemia, Ltd. Dr. Kelley received her M.D. from Duke University School of Medicine. 
+Michael D. Loberg, Ph.D. (Age: 71) Dr. Loberg has been a director since January 2007. Previously, he served as Chief Executive Officer and a member of the Board of Directors of NitroMed, Inc., a pharmaceutical company, from September 1997 to March 2006 and as its President from September 2003 to March 2006. From 1979 to 1997, Dr. Loberg held a number of senior management positions at Bristol-Myers Squibb, including President of Bristol-Myers Squibb's Oncology and Immunology, U.S. Primary Care, Northern Europe, Specialty Pharmaceuticals and Squibb Diagnostics. Dr. Loberg is a Director of IGM Biosciences, a developer of immunotherapeutics. He holds a B.S. in Chemistry from Trinity College and a Ph.D. in Chemistry from Washington University. 
+Vote Required 
+Subject to our Majority Voting Policy described below, the affirmative vote of a plurality of the shares of Common Stock cast by the stockholders present at the Annual Meeting in person or by proxy is required to elect each of the nominees. If you submit a proxy without direction as to a vote on this matter, your proxy will be treated as a vote "FOR" each nominee. Broker non-votes will not affect the outcome of the election of directors. 
+OUR BOARD OF DIRECTORS RECOMMENDS A VOTE "FOR" THE ELECTION OF THE NOMINEES LISTED ABOVE. TABLE OF CONTENTS​​
+Set forth below is certain information about the qualifications and other directorships of our continuing incumbent directors. 
+Directors with Term Expiring at the 2020 Annual Meeting 
+Ronald M. Lindsay, Ph.D. (Age: 71) Dr. Lindsay has been a director since June 2005. He is currently Chairman and CEO of Zebra Biologics Inc., a privately held biopharmaceutical company. He was formerly EVP R&D and a director at Sequenom, Inc., and is currently a director of two privately-held companies, NeurocentRx Pharmaceuticals Ltd, Edinburgh and Depixus SAS, Paris. Dr. Lindsay was previously Chief Scientific Officer and Vice President, Research and Development, at diaDexus, Inc., and held a number of senior management positions at Millennium Pharmaceuticals, Inc., including SVP, Biotherapeutics. At Regeneron Pharmaceuticals, he was a founding scientist and led pre-clinical R&D from 1988 – 1998. Dr. Lindsay also worked at the Sandoz Institute for Medical Research, London. Dr. Lindsay completed post-doctoral work at the Friedrich Miescher Institute, Basel, and he holds a B.Sc. (Hons) in Chemistry from the University of Glasgow and a Ph.D. in Biochemistry from the University of Calgary. He is the author of over 150 peer reviewed publications in the field of neuroscience. 
+William G. Messenger, D. Min. (Age: 58) Dr. Messenger has been a director since January 2005. He has been the owner and managing director of the Lexington Sycamore Group, consultants in the fields of business strategy, organization and leadership, since 1994. He also serves as Executive Editor of the Theology of Work Project, a small international organization conducting research and publication in the field of business ethics. From 1999 to 2008, Dr. Messenger served as Director of the Mockler Center for Faith and Ethics in the Workplace at Gordon-Conwell Theological Seminary. Dr. Messenger received a B.S. in Physics with highest honors from Case Western Reserve University, an M.B.A. with high distinction from Harvard Business School, a Master of Divinity degree, summa cum laude, from Boston University School of Theology, and a Doctor of Ministry from Gordon-Conwell Theological Seminary 
+Patrick J. Zenner (Age: 72) Mr. Zenner was named Chairman of the Board in May 2004 and has been a director since 2002. Mr. Zenner retired in 2001 from the position of President and Chief Executive Officer of Hoffmann-La Roche Inc., North America, based in Nutley, N.J. Mr. Zenner held various executive positions during his 32-year career with the company. Mr. Zenner is currently a member of the Board of Trustees of Creighton University and is Chairman of the Board of Trustees of Fairleigh Dickinson University. In addition, Mr. Zenner is Chairman of the Board of Directors of West Pharmaceutical Services, Inc. and a director at Selecta Bioscience, Inc. Until its sale in 2012, Mr. Zenner was a director of Par Pharmaceuticals, Inc. In 2010, he resigned from the boards of Geron Corporation, Xoma Ltd. and Exact Sciences, Inc. He has a B.S./B.A. from Creighton University and an M.B.A. from Fairleigh Dickinson University. 
+Directors with Term Expiring at the 2021 Annual Meeting 
+Timothy C. Barabe (Age: 66) Mr. Barabe has been a director since November 2001. In July of 2016, Mr. Barabe joined the Board of Selecta Biosciences, a biopharma company specializing in antigen immunotherapies for rare and serious diseases. He has been a member of the Board of Veeva Systems, Inc., a healthcare software company based in Pleasanton, CA, since September 2015, and member of the Board of Vigilant Biosciences, a private medical device company based in Fort Lauderdale, Florida, since November 2014. Mr. Barabe is on the Board and Executive Committee of Project Open Hand, a San Francisco-based nonprofit providing meals to the elderly and ill. Mr. Barabe retired in June 2013 from his position as Executive Vice President and Chief Financial Officer of Affymetrix, Inc. Previously, from July 2006 until March 2010, he was Senior Vice President and Chief Financial Officer of Human Genome Sciences, Inc. He was with Regent Medical Limited, a U.K.-based, privately owned, surgical supply company, where he was Chief Financial Officer, from 2004 to 2006. Mr. Barabe served with Novartis AG from 1982 through August 2004 in a succession of senior executive positions in finance and general management, most recently as the Chief Financial Officer of Sandoz GmbH, the generic pharmaceutical subsidiary of Novartis. Mr. Barabe received his B.B.A. degree from the University of Massachusetts (Amherst) and his M.B.A. degree from the University of Chicago. 
+Ran Nussbaum (Age: 45) Mr. Nussbaum has been a director since November 2017. Mr. Nussbaum is a managing partner and co-founder of The Pontifax Group (founded in 2004). The fund runs more than 50 portfolio companies all around the globe. Prior to joining Pontifax, he was a partner at Israel's largest  TABLE OF CONTENTS​
+business intelligence and strategic consulting firm. He currently serves as a board member on many of Pontifax's portfolio companies, including, VBI Vaccines, UroGen Pharma, Eloxx Pharmaceuticals, Keros Therapeutics (as chairman) and served as a board member of Kite Pharma, Inc. until its acquisition by Gilead Sciences, Inc. in October 2017. 
+Paolo Pucci (Age: 57) Mr. Pucci joined ArQule as Chief Executive Officer and a member of the Board in June 2008 from Bayer A.G., where he served as Senior Vice President and President in charge of the Bayer-Schering Pharmaceuticals Global Oncology/Specialized Therapeutics Business Units. Previously, Mr. Pucci was senior vice president of Bayer Pharmaceuticals Global Specialty Business Unit, President of U.S. Pharmaceutical Operations and a member of the Bayer Pharmaceuticals Global Management Committee. At Bayer, Mr. Pucci was involved in a broad range of activities related to Nexavar® (sorafenib), an oral multiple kinase inhibitor used to treat liver and kidney cancers. These activities included clinical development, regulatory review, corporate alliance management, product launch and marketing. Mr. Pucci joined Bayer as head of its Italian Pharmaceutical operations in 2001. Prior to Bayer, Mr. Pucci held positions of increasing responsibility with Eli Lilly, culminating with his appointment as Managing Director, Eli Lilly Sweden AB. At Lilly, his responsibilities included operations, sales, marketing and strategic planning. In November 2011, Mr. Pucci was appointed to the Board of Directors of Dyax Corp where he served as an independent director, member of the audit committee and chairman of the governance and nomination committee until the acquisition of Dyax by Shire in January 2016. In April 2013, he was appointed to the Board of Directors of Algeta ASA, an oncology company based in Oslo, Norway, where he served as an independent director and member of the audit committee until the acquisition of Algeta by Bayer A.G. He also served as a Director of NewLink Genetics Corp., from November 2015 to December 2018. During September 2016, Mr. Pucci was elected to the Board of Directors of West Pharmaceutical Services, Inc., an international manufacturer of packaging components and delivery systems for injectable drugs and healthcare products. Mr. Pucci holds an M.B.A from the University of Chicago and is a graduate of the Università Degli Studi Di Napoli in Naples, Italy. 
+Corporate Governance Guidelines and Code of Conduct 
+At ArQule, we value honesty, integrity, and fairness in our dealings with our fellow employees, our stockholders, our collaborators and our communities. In addition to meeting both the letter and the spirit of regulations and rules adopted by the SEC, other federal and state laws and regulations and the standards of the Nasdaq Global Market ("Nasdaq"), our directors have mandated that our business dealings comply with the highest ethical and corporate governance standards. 
+We have adopted general corporate governance principles, the ArQule Corporate Code of Conduct ("Code of Conduct") and related policies to provide guidance to our directors and management in their efforts to provide effective and appropriate corporate governance. As is the case with our other policies and practices, the tenets reflected in our governance principles, Code of Conduct and policies are intended to align the interests of our directors, management and other employees with those of our stockholders. We review and, if necessary in our judgment, modify the guidelines from time to time. 
+The Code of Conduct applies to our directors, employees and officers, including our Chief Executive Officer, President and Chief Operating Officer and Chief Financial Officer and Treasurer (our principal executive officer, principal financial officer and principal accounting officer, respectively) and our Chief Medical Officer. The Code of Conduct addresses: the standards of conduct expected of each director, officer and employee; conflicts of interest; corporate disclosure processes; compliance with laws, rules and regulations (including insider trading laws); corporate opportunities; confidentiality; fair dealing; and protection and proper use of Company assets. It also strongly encourages the reporting of any illegal or unethical behavior. Waivers of the requirements of the Code of Conduct or associated policies with respect to members of the Board and executive officers are subject to the approval of the full Board or a committee of the Board to which resolution of the matter is delegated and will be disclosed on our website. The governance principles, Code of Conduct and certain related policies are available on our website at http://www.arqule.com in the "Investors and Media" section under the heading "Corporate Governance."  TABLE OF CONTENTS​
+Director Qualifications and Nomination Process 
+Director Qualifications 
+Our Compensation Committee identifies nominees for director from various sources including referrals from current Board members and industry contacts. In the past, the Compensation Committee has also used third party consultants to assist in identifying, evaluating, and recruiting potential nominees; however, no third-party consultant was used for this purpose during 2018. The directors have not set formal criteria or qualifications for individuals to be nominated or re-nominated as candidates for Board membership. Instead, the Compensation Committee has developed a general profile for candidates reflecting the personal and professional characteristics that our directors believe a suitable individual should possess. Such characteristics include integrity, business acumen and educational background, relevant industry experience, understanding of interpersonal relationships, no conflict of interest, a high degree of commitment to the functioning of the Board and its committees, and the ability to meet the independence and financial literacy requirements defined by applicable Nasdaq and SEC rules. Additionally, the Compensation Committee carefully considers issues of diversity among its members in identifying and considering potential nominees and attempts, where appropriate, to achieve a diversity of professional experiences, business cultures, perspectives, genders, ages and ethnicities, among other characteristics, in the membership of the Board and its committees. 
+Our Company is a clinical-stage biotechnology company engaged in the research and development of innovative therapeutics to treat cancers and rare diseases. In light of the Company's current needs and business priorities, the Compensation Committee believes that the Board's membership should include directors with a high level of scientific and relevant business experience. Our business requires an understanding of the science behind our pre-clinical and clinical product candidates, as well as the clinical development and commercialization processes. Accordingly, the Compensation Committee has determined that scientific, drug development and commercialization experience should be represented on the Board. In addition, as a public company, our Board should include individuals who are financially literate to serve as members of the audit committee. We also believe that members should have a firm grounding in corporate governance and business ethics. Lastly, our business is dynamic and rapidly evolving and benefits from having a Board that includes individuals from a variety of backgrounds and professional experiences who contribute to the Board's overall ability to identify and ask difficult questions and to think innovatively. 
+The following table summarizes how the qualifications, attributes, skills and experience described above relate to each individual director's contributions to the Board and its Committees. An "X" in the chart below indicates a specific competency for which the director has been nominated to serve on the Company's Board and its committees. 
+The lack of an "X" for a particular qualification does not mean that the director does not possess that qualification or skill. Rather, an "X" indicates a primary area of focus or expertise of a director on which the Board currently relies. 
+[BEGIN TABLE]
+​ ​ ​  Timothy C. Barabe(1)   ​ ​  Susan L. Kelley(3)   ​ ​  Ronald M. Lindsay(3)   ​ ​  Michael D. Loberg(2)(3)   ​ ​  William G. Messenger(1)(2)   ​ ​  Ran Nussbaum   ​ ​  Paolo Pucci   ​ ​  Patrick J. Zenner(1)(2)   ​ 
+ High level of financial literacy   ​ ​ ​ ​ X ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ X ​ ​ ​ ​ ​ X ​ ​ ​ ​ ​ X ​ ​ ​ ​ ​ X ​ ​ ​ ​ ​ X ​ ​ 
+ Relevant biotechnology business experience   ​ ​ ​ ​ X ​ ​ ​ ​ ​ X ​ ​ ​ ​ ​ X ​ ​ ​ ​ ​ X ​ ​ ​ ​ ​ X ​ ​ ​ ​ ​ X ​ ​ ​ ​ ​ X ​ ​ ​ ​ ​ X ​ ​ 
+ Extensive knowledge of drug research and development   ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ X ​ ​ ​ ​ ​ X ​ ​ ​ ​ ​ X ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ X ​ ​ ​ ​ ​ X ​ ​ ​ ​ ​ X ​ ​ 
+ Extensive knowledge of drug commercialization and marketing   ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ X ​ ​ ​ ​ ​ X ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ X ​ ​ ​ ​ ​ X ​ ​ 
+ Expertise in corporate governance and business ethics   ​ ​ ​ ​ X ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ X ​ ​ ​ ​ ​ X ​ ​ ​ ​ ​ X ​ ​ ​ ​ ​ X ​ ​ 
+ Diversity of background, professional experience or culture   ​ ​ ​ ​ X ​ ​ ​ ​ ​ X ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ X ​ ​ ​ ​ ​ X ​ ​ ​ ​ ​ X ​ ​ ​ ​ ​ X ​ ​ ​ ​ ​ ​ ​ ​ 
+[END TABLE]
+​
+(1)
+Member of Audit Committee 
+​
+(2)
+Member of Compensation Committee 
+​
+(3)
+Member of Science Committee 
+​
+​ TABLE OF CONTENTS​​
+Stockholder Nominations 
+Stockholders may recommend individuals to our Compensation Committee for consideration as potential director candidates by submitting their names, together with any pertinent information regarding the candidate, including biographical information and a statement by the proposed candidate that he or she is willing to serve if nominated and elected, by mail to our corporate secretary at our offices at One Wall Street, Burlington, MA 01803. The Compensation Committee will evaluate stockholder-recommended candidates by following substantially the same process, and applying substantially the same criteria, as it follows for candidates submitted by others. If the Board determines to nominate a stockholder-recommended candidate and recommends his or her election, then his or her name will be included in our proxy card for the next annual meeting. 
+Stockholders also have the right under our By-laws to directly nominate director candidates, without any action or recommendation on the part of the Compensation Committee or our Board, by following the procedures set forth under "Stockholder Proposals." 
+Majority Voting Policy 
+In March 2014, our Board adopted a majority voting policy with respect to the election of directors. The policy provides that in an uncontested election of directors of the Company, any nominee for election as a director who receives a greater number of votes "withheld" from his or her election than votes "for" such election (a "Majority Withheld Vote") shall, promptly following the date of the stockholders' meeting at which the election occurred, tender his or her resignation to the Chairman of the Board for consideration by the Compensation Committee. For purposes of the policy, an "uncontested election" means an election in which the number of nominees for election as director is equal to the number of directors to be elected. 
+The Compensation Committee will consider the resignation and, promptly following the stockholders' meeting at which the election occurred, will recommend to the Board whether or not to accept it. The Compensation Committee will be expected to accept the resignation except in situations where circumstances would warrant the applicable director continuing to serve on the Board. 
+In its deliberations about the proper recommendation, the Compensation Committee will consider a range of possible alternatives concerning the director's tendered resignation as it deems appropriate including, without limitation, acceptance of the resignation, rejection of the resignation, or rejection of the resignation coupled with a commitment to seek to address and cure the underlying reasons reasonably believed by the Compensation Committee to have substantially resulted in the "withheld" votes. 
+The Board will act on the Compensation Committee's recommendation within 90 days of the date of the stockholders' meeting at which the election occurred. The Board will consider the information, factors and alternatives evaluated by the Compensation Committee in arriving at its recommendation and such additional information, factors and alternatives that the Board may consider to be relevant. 
+Following the Board's decision on the Compensation Committee's recommendation, the Company will promptly disclose the decision regarding whether or not to accept the nominee's resignation (or the reasons for rejecting the resignation, if applicable), as well as a summary of the factors considered, in a Form 8-K furnished to the SEC. 
+The Board's Role in Risk Oversight 
+Our Board retains ultimate responsibility for risk oversight and our management retains the responsibility for risk management. The role of our Board in our Company's risk oversight process includes receiving regular reports that include areas of material long- and short-term internal and external risks to our Company, including clinical, regulatory, manufacturing, financial, information technology, intellectual property, legal, compensation, strategic and reputational risks. The full Board (or the appropriate committee in the case of risks that are under the purview of a particular committee) receives these reports from the member of management responsible for the function from which the risk arises so that it can understand and assess our ongoing risk identification, risk management and risk mitigation strategies. Our Board also administers its risk oversight function through the required approval by the Board (or a committee of the Board) of significant transactions and other material decisions, and regular periodic  TABLE OF CONTENTS​​​​​
+reports from our company's independent registered public accounting firm and other outside consultants regarding various areas of potential risk, including, among others, those relating to our internal controls and financial reporting. As part of its charter, the Audit Committee discusses with management and our independent registered public accounting firm significant financial risks and exposures and the steps management has taken to minimize those risks. 
+Communications with Directors 
+We do not have a formal process for communication by stockholders with our directors. However, stockholders and others who wish to communicate may write to the Board as a whole, or to individual director's c/o: 
+ArQule, Inc.One Wall StreetBurlington, Massachusetts 01803-4757Attn: Peter S. Lawrence President and Chief Operating Officer 
+Such communications will be forwarded directly to the addressee. 
+Director Independence 
+Rule 5605 of the Nasdaq rules requires a majority of a listed company's board of directors to be comprised of independent directors. In addition, the Nasdaq rules require that, subject to specified exceptions, each member of a listed company's audit and compensation committees be independent under the Securities Exchange Act of 1934, as amended (the "Exchange Act"). Audit committee members must also satisfy the independence criteria set forth in Rule 10A-3 under the Exchange Act and compensation committee members must also satisfy the independence criteria set forth in Rule 10C-1 under the Exchange Act. 
+On January 15, 2019, our Board determined that all of our directors, other than Paolo Pucci, our Chief Executive Officer, are "independent directors" under the Nasdaq rules. 
+Compensation Committee Interlocks and Insider Participation 
+No member of the Compensation Committee during 2018 was an officer, former officer, or employee of the Company or had a relationship disclosable under our policies or SEC regulations. Further, during 2018, no executive officer of the Company served as: 
+ a member of the compensation committee (or equivalent) of any other entity, one of whose executive officers served as one of our directors or was an immediate family member of a director, or served on our Compensation Committee; or 
+​
+ a director of any other entity, one of whose executive officers or their immediate family member served on our Compensation Committee. 
+​
+BOARD COMMITTEES AND MEETINGS 
+During 2018, the Board held seven meetings in person or by telephone. Each director attended at least 75% of the aggregate number of meetings of the Board and the committees of the Board on which he or she served. 
+We do not have a policy regarding attendance of directors at our annual meeting of stockholders. In May 2018, all of our directors attended our 2018 Annual Meeting. We also do not have a formal policy regarding the separation of our Board Chairman and Chief Executive Officer positions. At this time, the positions are separate because the Board believes that this structure is in the best current interest of the Company and our stockholders. 
+Committees of the Board 
+Our Board has a standing audit committee (the "Audit Committee"), Compensation Committee and science committee (the "Science Committee"). Independent directors, as defined under the Nasdaq listing  TABLE OF CONTENTS
+standards and SEC rules, chair and make up the entire membership of each of these committees. The Board has adopted written charters for each of our standing committees, which may be viewed by accessing the "Investors and Media" section of our website at www.arqule.com and clicking on the heading "Corporate Governance". 
+Audit Committee 
+In 2018, the members of the Audit Committee were Mr. Barabe (Chairman), Dr. Messenger and Mr. Zenner. The Audit Committee met five times in 2018. Each member of the Audit Committee meets the independence and financial literacy requirements as defined by applicable Nasdaq and SEC rules. The Board has determined that Mr. Barabe is an "audit committee financial expert" as defined by the rules and regulations of the SEC. 
+The duties and principal purposes of the Audit Committee include: 
+ oversight of the Company's accounting and financial reporting process; 
+​
+ monitoring of the Company's compliance with legal and regulatory requirements; 
+​
+ monitoring the qualifications, independence and performance of the Company's independent registered public accountants and the Company's internal audit function; 
+​
+ pre-approval of all audit and non-audit services; 
+​
+ assessment of significant financial risks and exposures and the adequacy of the Company's overall risk assessment and risk management policies and procedures to mitigate such risks and exposures; 
+​
+ reviewing and approving or rejecting proposed related party transactions; and 
+​
+ overseeing the Company's investment policies and procedures. 
+​
+The Company's independent registered public accounting firm (currently, PricewaterhouseCoopers LLP) is ultimately accountable to the Audit Committee in its capacity as a committee of the Board. The Audit Committee has sole authority and responsibility to select, hire, oversee, evaluate, approve the compensation of, and, where appropriate, replace our independent registered public accounting firm. 
+A more detailed description of the duties of the Audit Committee is set forth in the committee's charter. 
+Compensation Committee 
+In 2018, the members of the Compensation Committee were Dr. Messenger (Chairman), Dr. Loberg and Mr. Zenner. The Compensation Committee met four times in 2018. Each member of the Compensation Committee meets the independence requirements as defined by applicable Nasdaq and SEC rules. 
+The duties and purposes of the Compensation Committee include: 
+ advising the Board concerning the Company's compensation philosophy and policies, in general, and, in particular, to determine, or recommend to the Board for determination, the compensation of the Company's Chief Executive Officer and all other executive officers and directors; 
+​
+ advising the Board regarding succession planning for the Company's Chief Executive Officer; 
+​
+ identifying individuals qualified to become members of the Board, including developing and periodically reviewing the desired qualifications of members of the Board; 
+​
+ recommending candidates to the Board to fill vacancies on the Board; 
+​
+ recommending to the Board the directors to be appointed to its committees; 
+​
+ assessing, or ensuring that the Board assesses, the performance of individual members of the Board and the Board as a whole; 
+​
+ administering our equity compensation plans; 
+​
+​ TABLE OF CONTENTS
+ overseeing the Company's corporate governance principles and compliance therewith; 
+​
+ overseeing the Company's Code of Conduct and compliance therewith; and 
+​
+ reviewing any risks created by the Company's compensation practices and determining the adequacy of the Company's risk assessment and risk management policies and procedures to mitigate such. 
+​
+A more detailed description of the duties of the Compensation Committee is set forth in the committee's charter. 
+Science Committee 
+In 2018, the members of the Science Committee were Dr. Lindsay (Chairman), Dr. Loberg and Dr. Kelley. The Science Committee met six times in 2018. 
+The Science Committee is responsible for: 
+ reviewing the scientific direction of the Company; 
+​
+ playing a role in assessing the manner by which the Company will continue to enhance its capabilities as a drug discovery and development organization (whether by acquisition, merger, in-licensing, internal growth, or a combination of those methods); 
+​
+ evaluating the scientific opportunities under consideration by management; and 
+​
+ regularly reviewing data relating to pre-clinical and clinical testing and analysis being conducted by the Company. 
+​
+A more detailed description of the duties of the Science Committee is set forth in the committee's charter.  TABLE OF CONTENTS​
+2018 DIRECTOR COMPENSATION 
+The following table provides information concerning compensation paid by the Company to its non-employee directors during 2018. Any director who is also an employee of the Company is not compensated for his or her service as a director. During 2018, Mr. Pucci, the Company's Chief Executive Officer, also served on the Board, but did not receive any compensation for services as a director. 
+[BEGIN TABLE]
+ Name   ​ ​  Fees Earned or Paid in Cash ($)   ​ ​  Option Awards(1) ($)   ​ ​  Total ($)   ​ 
+ Timothy C. Barabe   ​ ​ ​ $ 60,250 ​ ​ ​ ​ $ 32,188 ​ ​ ​ ​ $ 92,438 ​ ​ 
+ Susan L. Kelley, M.D.   ​ ​ ​ ​ 54,000 ​ ​ ​ ​ ​ 32,188 ​ ​ ​ ​ ​ 86,188 ​ ​ 
+ Ronald M. Lindsay, Ph.D.   ​ ​ ​ ​ 74,000 ​ ​ ​ ​ ​ 32,188 ​ ​ ​ ​ ​ 106,188 ​ ​ 
+ Michael D. Loberg, Ph.D   ​ ​ ​ ​ 59,000 ​ ​ ​ ​ ​ 32,188 ​ ​ ​ ​ ​ 91,188 ​ ​ 
+ William G. Messenger, D. Min.   ​ ​ ​ ​ 65,250 ​ ​ ​ ​ ​ 32,188 ​ ​ ​ ​ ​ 97,438 ​ ​ 
+ Ran Nussbaum   ​ ​ ​ ​ 39,000 ​ ​ ​ ​ ​ 32,188 ​ ​ ​ ​ ​ 71,188 ​ ​ 
+ Patrick J. Zenner   ​ ​ ​ ​ 70,250 ​ ​ ​ ​ ​ 40,235 ​ ​ ​ ​ ​ 110,485 ​ ​ 
+[END TABLE]
+​
+(1)
+This column reflects the aggregate grant date fair values for all option awards granted during 2018. Assumptions used in the calculation of these amounts are included in Note 2 to the Company's audited financial statements for the year ended December 31, 2018, set forth in the Company's Annual Report on Form 10-K filed with the SEC on March 7, 2019 ("2018 Annual Report on Form 10-K"). As of December 31, 2018, for each director the aggregate number of shares of Common Stock that may be acquired upon exercise of outstanding option awards is as follows Mr. Barabe, 160,000; Dr. Kelley, 165,000; Dr. Lindsay, 160,000; Dr. Loberg, 160,000; Dr. Messenger, 160,000; Mr. Nussbaum, 50,000; and Mr. Zenner, 240,000. 
+​
+Our non-employee director compensation program is designed to provide a total compensation package that enables us to attract and retain, on a long-term basis, high caliber non-employee directors. In 2018, each of our non-employee directors who was serving as a director prior to and immediately following the annual meeting of stockholders received a $25,000 annual retainer. In addition, the Board and/or committees chairs received an additional annual retainer as follows: 
+ $20,000 for the Chairman of the Board; 
+​
+ $15,000 for the Chairman of the Audit Committee; 
+​
+ $15,000 for the Chairman of the Compensation Committee; and 
+​
+ $20,000 for the Chairman of the Science Committee. 
+​
+Each non-employee director receives an additional fee for each Board and/or committee meeting as follows: 
+ $2,000 for each day on which the Board meets and the director attends; 
+​
+ $1,250 for each day on which the Audit Committee meets and the director attends; 
+​
+ $1,250 for each day on which the Compensation Committee meets and the director attends; and 
+​
+ $2,500 for each day on which the Science Committee meets and the director attends. 
+​
+All of our non-employee directors are eligible to participate in our 2014 Equity Incentives Plan. In 2018, our non-employee directors were entitled to the following stock-based compensation: 
+ An initial grant upon election to the Board of an option to purchase 30,000 shares of Common Stock, vesting in three equal annual installments; 
+​
+ An annual grant of an option to purchase 20,000 shares of Common Stock (25,000 shares of Common Stock for the Chairman of the Board), vesting as to 100% of the award on the first anniversary of the date of grant; and 
+​
+​ TABLE OF CONTENTS
+ An initial grant upon appointment as Chairman of the Board of an option to purchase 25,000 shares of Common Stock, vesting in three equal annual installments. 
+​
+In June 2018, the Compensation Committee engaged Radford, an AON Hewitt company ("Radford"), to analyze our non-employee director compensation program. Further information on the Compensation Committee's engagement of Radford is set forth in the Compensation Discussion and Analysis under the subheading "Independent Compensation Consultant." Radford concluded that the directors overall total cash compensation was generally consistent with the 50th percentile of our peer group, but that the annual equity value was below the 25th percentile of our peer group. Radford updated its calculations in January 2019. Based on the Company's policy that equity compensation for non-employee directors should be targeted at the 50th percentile of our peer group, Radford recommended certain changes to the equity component of our non-employee director compensation program. Accordingly, the Compensation Committee accepted Radford's recommendations and the Board adopted the Compensation Committee's recommendations by amending the equity portion of our non-employee director compensation program in March 2019. From and after the date of such amendment, our non-employee directors will be entitled to the following stock-based compensation: 
+ An initial grant upon election to the Board of an option to purchase 60,000 shares of Common Stock, vesting in three equal annual installments; 
+​
+ An annual grant of an option to purchase 40,000 shares of Common Stock (50,000 shares of Common Stock for the Chairman of the Board), vesting as to 100% of the award on the first anniversary of the date of grant; and 
+​
+ An initial grant upon appointment as Chairman of the Board of an option to purchase 50,000 shares of Common Stock, vesting in three equal annual installments. 
+​
+Each non-employee director is also entitled to reimbursement for reasonable travel and other expenses incurred in connection with attending meetings of the Board and any committee on which he or she serves. TABLE OF CONTENTS​​​
+COMPENSATION DISCUSSION AND ANALYSIS 
+The Compensation Committee is responsible for recommending the compensation of our named executive officers, including our Chief Executive Officer, to the Board for its consideration. 
+Compensation Philosophy 
+Guiding Principles: 
+Our executive compensation program is designed to be closely linked to corporate performance and returns to stockholders. To this end, we have developed an overall compensation strategy and a specific compensation plan that establishes competitive base salaries and ties a significant portion of executive compensation to the Company's success in meeting specified and measurable Company-wide performance goals. By using stock options and other stock-based awards, we ensure that part of each executive officer's compensation is closely tied to the performance of our stock. We believe that a significant part of overall compensation for senior executives should be "at risk," i.e., contingent upon successful implementation of the Company's strategy and achievement of its goals. Individuals with the greatest influence on company-wide performance should have the largest amount of cash benefits and stock-based awards at risk. In our view, a balanced approach to compensation decisions motivates management's efforts to drive positive outcomes in both current and future environments and mitigates the risk that any one incentive could lead executive officers to take actions that are not in the Company's best interest. In addition, the tying of compensation to performance goals that must be achieved in a heavily regulated business environment such as ours adds an additional layer of scrutiny to the Company's actions and reduces the opportunity for individuals to take inappropriate actions without discovery and sanctions. 
+Objectives: 
+ To attract and retain the best executive talent available; 
+​
+ To motivate our executives to achieve the goals inherent in our business strategy; 
+​
+ To link executive and stockholder interests through equity-based compensation; and 
+​
+ To provide a compensation package that recognizes corporate performance and individual contributions. 
+​
+Key compensation elements: 
+ Base salary; 
+​
+ Annual performance-based cash bonuses; 
+​
+ Stock-based incentive awards; and 
+​
+ Employee benefits. 
+​
+Each of these elements is described in more detail below. 
+The Role of the Compensation Committee 
+The Compensation Committee advises our Board concerning the Company's compensation philosophy and policies, in general, and, in particular, recommends to the Board for determination, the compensation of our Chief Executive Officer and other named executive officers and of members of the Board. Recommendations and decisions made by the Compensation Committee are typically reported to the full Board for approval, endorsement or ratification, as appropriate. As part of our Board's risk oversight responsibilities, our Compensation Committee reviews the Company's compensation policies and practices that are generally applicable to our employees and discusses with management risks created by such policies and practices. Based on that review and discussions with management, and taking into consideration ArQule's risk assessment and risk management policies and procedures, we believe that our compensation policies and procedures do not encourage excessive or unnecessary risk-taking and that the level of risk that they do encourage is appropriate.  TABLE OF CONTENTS​
+The Compensation Committee's Process 
+General 
+Our Compensation Committee sets the mix of elements of executive compensation to be recommended to the Board for approval including base salary, annual performance-based cash bonuses and stock-based awards for our named executive officers. While the Compensation Committee considers the elements of compensation described below separately, it takes into account the full compensation package afforded to each executive officer in making its recommendations. The Compensation Committee also makes recommendations concerning the appropriate linkage of executive compensation to corporate and individual performance and financial returns to stockholders. In evaluating compensation, the Compensation Committee considers the views of our Chief Executive Officer regarding achievement of individual and departmental objectives of those executives reporting directly to him. 
+Independent Compensation Consultant 
+Under its charter, SEC regulations and Nasdaq rules, the Compensation Committee has access to extensive resources and broad discretionary authority to engage compensation consultants and other advisors to assist it in its deliberations. From time to time and on an ad hoc basis, as needed, the Compensation Committee may retain an independent compensation consultant to provide executive compensation advice. In making its selection of a compensation consultant, the Compensation Committee assesses the consultant's independence to determine whether a conflict of interest exists that would prevent the consultant from exercising independent judgment when advising the Compensation Committee. 
+Approximately every two years the Compensation Committee reviews peer group compensation data and additional selected compensation data produced by Radford. In 2018, the Compensation Committee engaged Radford as its independent compensation consultant to provide compensation consulting services. Specifically, the Compensation Committee requested that Radford compile, analyze and present third-party data regarding the compensation of executives and non-employee directors at comparable companies and to compare that compensation with our current executive and non-employee director compensation programs. Radford did not provide any other services to us in 2018 beyond its engagement as an advisor to the Compensation Committee on executive and director compensation matters. Radford concluded that our executive officer's overall total cash compensation was generally consistent with the 50th percentile of our peer group, but that the annual equity value was below the 25th percentile of our peer group. Based on the Company's policy that equity compensation for executive officers should be targeted at the 50th percentile of our peer group, Radford recommended certain changes to the equity component of our executive compensation program. Accordingly, the Compensation Committee accepted Radford's recommendations and the Board adopted the Compensation Committee's recommendations by amending the equity portion of our executive compensation program in January 2019. These amendments will affect equity awards granted to executive officers in 2019 and beyond. 
+In reviewing our executive compensation program, our peer group of companies, which we evaluate in conjunction with our review of peer compensation data, is comprised principally of non-commercial, life sciences companies with products in phase 2 or phase 3 clinical trials that Radford has deemed to be most comparable to us in market capitalization and head count. In 2018, our peer group was comprised of the following companies: 
+[BEGIN TABLE]
+​  AVEO Pharmaceuticals, Inc.   ​ ​ Epizyme, Inc.  ​ ​  Spring Bank Pharmaceuticals, Inc.   ​ 
+​ Cytokinetics, Incorporated  ​ ​  Karyopharm Therapeutics Inc.   ​ ​ Ziopharm Oncology, Inc. ​ 
+[END TABLE]
+Benchmarking 
+In general terms on a periodic basis, the Compensation Committee benchmarks total compensation for all of our employees to the median compensation (i.e. 50th percentile) of employees performing similar job  TABLE OF CONTENTS​
+functions at our peer companies. However, we strongly believe in retaining the best talent among our executive management team. Therefore, we have recommended in the past, and may recommend in the future, total compensation packages for executive management that vary substantially from the median based on factors such as industry experience, scope of responsibility, knowledge, and unique qualifications. 
+Say-on-Pay 
+In 2018, our stockholders cast an advisory vote on the compensation of our named executive officers. Our stockholders endorsed our compensation philosophy with more than 99% of stockholders' votes cast being in favor our named executive officers' compensation. Consequently, our current intention is to continue implementing our existing programs and policies. 
+Elements of Compensation 
+Base Salary 
+Salary levels are considered annually as part of our performance review process, but also in cases including promotion or other change in the job responsibilities of an executive officer. For named executive officers, initial base salaries generally are established in connection with negotiation of an offer of employment or an employment agreement. In addition to promotion and increased responsibilities, base salaries may also be adjusted based on merit and/or to reflect company-wide salary adjustments. 
+The following table shows changes in the annualized base salaries of our named executive officers from 2017 to 2018: 
+[BEGIN TABLE]
+ Name and Principal Position   ​ ​  2017 Annualized Base Salary ($)   ​ ​  2018 Annualized Base Salary ($)   ​ ​% Increase   ​ ​  Comment   ​ 
+ Paolo Pucci, CEO   ​ ​ ​ ​ 499,000 ​ ​ ​ ​ ​ 506,000 ​ ​ ​ ​ ​ 1.5 ​ ​ ​ Base salary negotiated in and adjusted per amended employment agreement and annual review.  ​ 
+ Peter S. Lawrence, COO   ​ ​ ​ ​ 448,000 ​ ​ ​ ​ ​ 459,000 ​ ​ ​ ​ ​ 2.5 ​ ​ ​ Base salary negotiated in and adjusted per amended employment agreement and annual review.  ​ 
+ Dr. Brian Schwartz, CMO   ​ ​ ​ ​ 446,000 ​ ​ ​ ​ ​ 457,000 ​ ​ ​ ​ ​ 2.5 ​ ​ ​ Base salary negotiated in and adjusted per employment agreement and annual review.  ​ 
+ Robert J. Weiskopf, CFO   ​ ​ ​ ​ 317,000 ​ ​ ​ ​ ​ 325,000 ​ ​ ​ ​ ​ 2.5 ​ ​ ​  Base salary adjusted at annual review.  ​ 
+[END TABLE]
+Salaries of our named executive officers are also reported in the Summary Compensation Table. 
+Performance-Based Bonuses 
+Cash bonuses represent a percentage of each named executive officer's salary. In determining the target award opportunity for the bonus of a particular executive, we consider compensation data and the level of strategic contribution to the Company's performance. This determination is made at the time an executive officer is hired and generally is one of the negotiated terms of his or her employment agreement. Adjustments to bonus targets are also considered, subject to the requirements of those employment agreements, as part of the annual review process. 
+At the beginning of each fiscal year, we set corporate goals at minimum, planned, and maximum levels of performance and weight the goals according to their importance to our corporate strategy. Levels of performance for these goals are expressed as percentages which, when determined by our Compensation Committee and Board following conclusion of the fiscal year, are aggregated to arrive at an overall level of performance for the Company. In determining individual bonus amounts for our named executive officers, our directors take into consideration the Company's overall performance, the named executive officer's achievement of specific individual goals and the amount of the named executive officer's target bonus.  TABLE OF CONTENTS
+The following is a summary description of the primary corporate goals for 2018 used to determine performance-based bonuses: 
+Development Goals
+ Derazantinib (ARQ 087): Dose a specified number of patients in the registrational trial for derazantinib in Intrahepatic cholangiocarcinoma by year end. 
+​
+ ARQ 531: Establish recommended Phase 1b dose and dose first patient a Phase 1b trial by year end. 
+​
+ Miransertib (ARQ 092): Dose first patient in registrational trial in Proteus syndrome by a specified date. 
+​
+ ARQ 751: Reach a go/no go decision for ARQ751 in oncology by a specified date. 
+​
+Finance
+ End year with a specified amount of cash and marketable securities while meeting all key budget parameters. 
+​
+Business Development
+ Conclude one or more business development transactions with a specified amount of upfront payment and other milestones. 
+​
+Following the recommendations of the Compensation Committee, our Board determined that, on a weighted basis, our overall level of performance warranted payment of bonuses at 100% of the bonus target. This determination reflected results with respect to development goals that were at and in certain cases below planned performance levels and finance and business development goals that were at or above planned performance levels. The following table shows percentages of target and actual bonuses paid to our named executive officers. 
+The following table shows percentages of target and actual bonuses paid to our named executive officers. 
+[BEGIN TABLE]
+ Name and Principal Position   ​ ​  2018 Bonus Target (% of Base Salary)   ​ ​  2018 Bonus Actual (% of Base Salary)   ​ ​  Comment   ​ 
+ Paolo Pucci, CEO   ​ ​  60.0%   ​ ​  60.0%   ​ ​ Target bonus set by terms of amended employment agreement.  ​ 
+ Peter S. Lawrence, COO   ​ ​  45.0%   ​ ​  45.0%   ​ ​ Target bonus set by terms of amended employment agreement.  ​ 
+ Dr. Brian Schwartz, CMO   ​ ​  40.0%   ​ ​  40.0%   ​ ​ Target bonus set by terms of employment agreement.  ​ 
+ Robert J. Weiskopf, CFO   ​ ​  40.0%   ​ ​  40.0%   ​ ​ Bonus target set by Compensation Committee in accordance with annual process. ​ 
+[END TABLE]
+The amounts of cash bonus awards made to our named executive officers are also reported in the Summary Compensation Table. 
+Stock-based Awards 
+Primarily, we have granted stock options and/or shares of restricted stock to our named executive officers under our stockholder-approved equity incentive plans. Stock options must be issued with an exercise price equal to the closing price of our Common Stock as reported by Nasdaq on the date of grant. Options vest over various periods of time, generally four years. Restricted stock awards have restrictions which lapse over various periods of time, also generally four years. We have also awarded performance-based stock units (PSUs), each of which represents a contingent right to receive one share of  TABLE OF CONTENTS
+Common Stock. Under the terms of our plans and subject to the restrictions contained in those plans, the Compensation Committee has the flexibility to rebalance the vesting terms and performance conditions of these awards as it deems necessary or advisable, for example to take into account unforeseen adverse events or clinical developments. 
+Stock option grants, and awards of restricted stock and stock units, are designed to encourage the creation of stockholder value over the long term since the full benefits of the options and awards cannot be realized unless stock price appreciation is achieved, and, once achieved, is maintained and increased. Accordingly, awards of options, restricted stock and stock units align the interests of executive officers and employees with those of stockholders. 
+In general, we establish ranges for these grants and awards to our named executive officers based on a number of factors, including published third-party data, the executive's job level, promotions, responsibilities he or she may assume in the upcoming year, responsibilities undertaken in prior years and other considerations deemed appropriate by the Compensation Committee. In determining an executive's annual grant, we apply the results of the Company's annual performance and the executive's individual performance to the applicable range, and then take into consideration any other factors that the Compensation Committee deems relevant. 
+After consideration of all of these factors, as well as corporate and individual performance, in January 2019 for performance in 2018, we awarded Mr. Pucci an option to purchase 650,850 shares of our Common Stock; Mr. Lawrence, an option to purchase 368,350 shares of our Common Stock, Dr. Schwartz, an option to purchase 314,050 shares of our Common Stock and Mr. Weiskopf, an option to purchase 100,000 shares of our Common Stock. All of these options vest ratably over a four-year period commencing from the date awarded. 
+The Compensation Committee makes a recommendation regarding annual stock option awards at a meeting in December prior to the first meeting of the Board in the following calendar year. At its January meeting, the Board acts upon the recommendations of the Compensation Committee and the actual awards are granted on the date of Board approval. 
+Performance-Based Option Awards 
+In 2017, the Compensation Committee granted participating executives performance-based options at an exercise price of  $0.95 per share. Mr. Pucci, Mr. Lawrence, Dr. Schwartz and Mr. Weiskopf have the opportunity to earn options covering up to 600,000, 300,000, 260,000 and 160,000 shares, respectively. In addition to time-based vesting, the options will vest and become exercisable only if specified performance conditions are satisfied. These performance conditions are linked to our product candidate development pipeline, with the percentages of achievement ranging from 25% to 100% depending upon the level of our clinical success. In addition, the option grants to Messrs. Pucci and Lawrence are subject to an additional condition tied to our stock price. As of March 20, 2019, the performance conditions have been achieved with respect to 50% of the performance-based options. If the remaining performance conditions are not satisfied within 36 months of the date of grant, the unearned performance options will terminate. 
+Other Factors 
+Each year, prior to arriving at final compensation for the Company's named executive officers, the Compensation Committee typically considers other factors that it deems relevant in addition to those listed above. These factors may include the performance of the Company's stock relative to its peer group as well as other considerations and circumstances. As a result, even in cases where progress against corporate performance goals has been positive and an individual's performance has been judged as strong, the individual's compensation may be impacted. For example, until 2017 our Chief Executive Officer's realizable pay (base salary and bonus) had been effectively unchanged for five years since its adjustment in January 2012 despite relatively strong performance against corporate performance goals and high levels of individual performance during that period. The Compensation Committee will continue to exercise this type of discretion in situations where it is deemed appropriate. 
+Employment Agreements 
+ArQule generally enters into employment agreements with its named executive officers. Typically, these agreements are offered in connection with recruiting executive officers when ArQule deems it necessary or  TABLE OF CONTENTS​
+appropriate to attract, incentivize and retain new hires. Agreements of this type exist to establish initial salary and bonuses, benefits, initial option grants, reporting lines, and change of control and related severance provisions, among other things. Mr. Pucci, Mr. Lawrence and Dr. Schwartz have such agreements. 
+Other Elements of Compensation and Perquisites 
+We provide our named executive officers with certain benefits and perquisites. In general, we provide these benefits on the same terms as those applicable to all of our other employees. Any non-recurring benefit or program such as housing allowance or relocation costs, will be reported as "All Other Compensation" in the Summary Compensation Table. The primary benefits are: 
+ health (medical, dental and vision) insurance for which the Company pays a portion of the premiums; 
+​
+ a life insurance benefit equivalent to two times base salary up to a maximum of  $400,000 for which the Company pays the premiums; 
+​
+ long-term disability insurance equal to 60% of base salary up to $15,000 per month, the premiums for which are paid by the Company with the amount of the premiums being included in the taxable compensation of employees; 
+​
+ if necessary to attract management talent, housing allowances and relocation costs; 
+​
+ a retirement plan (401(k) Plan) under which an employee can choose to contribute up to 60% (subject to Tax Code limits) of compensation on a pre-tax basis with a matching contribution from the Company of  $0.50 for each $1.00 contributed up to the first 6% of compensation; 
+​
+ a tax-qualified stock purchase plan which permits participants to acquire shares of Common Stock at a price that is 85% of the stock price on either the first day or last day of the designated offering period (generally six months), whichever is lower; and 
+​
+ tuition reimbursement up to $3,000 per year for undergraduate courses and $6,000 for graduate courses. 
+​
+Currently, the Company does not have a nonqualified deferred compensation plan, a pension plan, or other defined benefit plan. In addition, the Company does not have a policy on adjustments to, or recovery of, awards if the performance measures on which they were based are adjusted or restated. 
+Potential Payments to Named Executive Officers upon Termination or Change of Control 
+The employment agreements of Mr. Pucci, Mr. Lawrence and Dr. Schwartz provide for certain payments to be made to them in the event that their employment with the Company is, or is deemed to be (as provided in the employment agreements), terminated without "cause." Severance benefits are an important tool in attracting and retaining key employees and provide a degree of financial security to such employees where their employment is terminated through no fault of their own. Each of the agreements also provides for acceleration of vesting of the executive's stock-based awards in certain circumstances following the occurrence of a change of control of the Company. We believe that it is generally appropriate to vest stock-based awards to key employees who are terminated in connection with a change of control transaction, as such a transaction may often result in the elimination or reduction of the employee's ability to realize value from his or her options. 
+For information regarding the severance and change of control benefits provided to Mr. Pucci, Mr. Lawrence and Dr. Schwartz under their employment agreements, see "Payments upon Termination or Change of Control". TABLE OF CONTENTS​
+Tax Considerations 
+If an executive is entitled to nonqualified deferred compensation benefits that are subject to Section 409A of the Internal Revenue Code of 1986, as amended ("Tax Code"), and such benefits do not comply with Section 409A, the executive would be subject to adverse tax treatment, including accelerated income recognition (in the first year that benefits are no longer subject to a substantial risk of forfeiture) and an additional income tax of 20% of the amount so recognized. The employment agreements of our named executive officers described herein contain provisions intended to limit or eliminate adverse tax consequences through timing of payments. 
+In 2017, the U.S. federal government enacted the Tax Cuts and Jobs Act, which substantially modified the Tax Code and, among other things, eliminated the performance-based compensation exception under Section 162(m). As a result, the Compensation Committee currently expects that compensation in amounts over $1 million paid to any named executive officer will no longer be deductible.  TABLE OF CONTENTS​
+COMPENSATION COMMITTEE REPORT 
+The Compensation, Nominating and Governance Committee of the Board of Directors of ArQule, Inc., composed entirely of independent directors in accordance with applicable laws, regulations, Nasdaq rules and listing requirements and our governance guidelines, sets and administers policies that govern the Company's executive compensation programs and various incentive and stock programs. The Compensation, Nominating and Governance Committee has reviewed and discussed the Compensation Discussion and Analysis with the management of ArQule, Inc. Based on this review and discussion, the Committee recommended to the full Board of Directors that the Compensation Discussion and Analysis be included in this Proxy Statement. 
+Submitted by the Compensation, Nominating and Governance Committee, 
+William G. Messenger, Chairman Michael D. Loberg Patrick J. Zenner  TABLE OF CONTENTS​​
+EXECUTIVE COMPENSATION 
+The table and text below describe the cash and additional incentive compensation paid to Paolo Pucci, the Company's Chief Executive Officer, Peter S. Lawrence, the Company's President and Chief Operating Officer (principal financial officer for SEC reporting purposes), Brian Schwartz, the Company's Chief Medical Officer and Robert J. Weiskopf, the Company's Chief Financial Officer (the "named executive officers") for the fiscal periods indicated. Mr. Weiskopf is retiring from the Company effective March 29, 2019.
+SUMMARY COMPENSATION TABLE 
+The following table summarizes total compensation earned during the fiscal years ended December 31, 2018, 2017 and 2016 by each of our named executive officers: 
+[BEGIN TABLE]
+ Name and Principal Position   ​ ​  Year   ​ ​  Salary ($)(1)   ​ ​  Bonus ($)   ​ ​  Stock Awards ($)   ​ ​  Option Awards ($)(2)   ​ ​  Non-Equity Incentive Plan Compensation ($)(3)   ​ ​  All Other Compensation ($)(4)   ​ ​  Total ($)   
+ Paolo Pucci Chief Executive Officer   ​ ​ ​ ​ 2018 ​ ​ ​ ​ ​ 506,302 ​ ​ ​ ​ ​ — ​ ​ ​ ​ ​ — ​ ​ ​ ​ ​ 925,512 ​ ​ ​ ​ ​ 303,971 ​ ​ ​ ​ ​ 8,742 ​ ​ ​ ​ ​ 1,744,527 
+ Peter S. Lawrence President, Chief Operating Officer, General Counsel and Secretary   ​ ​ ​ ​ 2018 ​ ​ ​ ​ ​ 458,591 ​ ​ ​ ​ ​ — ​ ​ ​ ​ ​ — ​ ​ ​ ​ ​ 494,626 ​ ​ ​ ​ ​ 206,579 ​ ​ ​ ​ ​ 8,742 ​ ​ ​ ​ ​ 1,168,538 
+ Dr. Brian Schwartz Chief Medical Officer and Senior Vice President   ​ ​ ​ ​ 2018 ​ ​ ​ ​ ​ 456,521 ​ ​ ​ ​ ​ — ​ ​ ​ ​ ​ — ​ ​ ​ ​ ​ 409,554 ​ ​ ​ ​ ​ 182,797 ​ ​ ​ ​ ​ 8,742 ​ ​ ​ ​ ​ 1,057,614 
+ Robert J. Weiskopf Chief Financial Officer and Treasurer   ​ ​ ​ ​ 2018 ​ ​ ​ ​ ​ 324,795 ​ ​ ​ ​ ​ — ​ ​ ​ ​ ​ — ​ ​ ​ ​ ​ 92,336 ​ ​ ​ ​ ​ 130,052 ​ ​ ​ ​ ​ 8,742 ​ ​ ​ ​ ​ 555,925 
+[END TABLE]
+​
+(1)
+The amounts in this column include compensation earned but deferred at the election of the named executive officer, under the Company's retirement savings plan established under Section 401(k) of the Tax Code. 
+​
+(2)
+This column reflects the aggregate grant date fair values for all option awards granted during the fiscal year. Assumptions used in the calculation of these amounts are included in Note 2 to the Company's audited financial statements for the year ended December 31, 2018, included in the Company's 2018 Annual Report on Form 10-K. Additional information regarding stock options issued to the named executive officers is provided in the table "Outstanding Equity Awards at Fiscal Year-End". 
+​
+(3)
+Represents bonus amounts earned under our annual incentive program for 2018 service and paid in the first quarter of 2019. Additional information regarding the annual incentive program is provided in "Compensation Discussion and Analysis—Performance-Based Bonuses". 
+​
+(4)
+In 2018, for each named executive officer, the amount includes the Company's contributions to a 401(k) plan account for the executive and payment of group term life insurance and long-term disability premiums.
+​
+​ TABLE OF CONTENTS​​​​
+EMPLOYMENT AGREEMENTS 
+The Company is party to employment agreements with several of its named executive officers. A summary of the material terms of these agreements follows below. For information regarding the post-employment and change of control benefits provided by these agreements, see "Payments upon Termination or Change of Control". 
+Employment Agreement with Paolo Pucci 
+Mr. Pucci's employment agreement, as amended, provides that the Company will employ Mr. Pucci as its Chief Executive Officer at a base salary of  $475,000. The base salary is subject to annual review and upward adjustment by the Company. Mr. Pucci is also eligible to receive a discretionary annual cash bonus based on a current target amount of 60% of his base salary. The award of a bonus is in the discretion of the Board based on Company and individual performance. 
+Employment Agreement with Peter S. Lawrence 
+Mr. Lawrence's employment agreement, as amended, provides that the Company will employ Mr. Lawrence as President and Chief Operating Officer at an initial base salary of  $375,000 per year. The base salary is subject to annual review and upward adjustment by the Company. Mr. Lawrence is also eligible to receive a discretionary annual cash bonus based on a current target amount of 45% of his base salary. The award of a bonus is in the discretion of the Company's Board based on Company and individual performance. 
+Employment Agreement with Brian Schwartz 
+Dr. Schwartz's employment agreement, as amended, provides that the Company will employ Dr. Schwartz as its Chief Medical Officer at an initial base salary of  $325,000. The base salary is subject to annual review and upward or downward adjustment by the Company. Dr. Schwartz is also eligible to receive a discretionary annual cash bonus based on a current target amount of 40% of base salary. The award of a bonus is in the discretion of the Company's Board based on Company and individual performance.  TABLE OF CONTENTS​
+GRANTS OF PLAN-BASED AWARDS FOR FISCAL YEAR 2018 
+The following table sets forth certain information with respect to awards granted during the fiscal year ended December 31, 2018 to our named executive officers under our equity and non-equity incentive plans. 
+[BEGIN TABLE]
+​ ​ ​ ​ ​ ​ ​ ​ ​  Estimated Future Payouts Under Non-Equity Incentive Plan Awards(1)   ​ ​  All Other Option Awards: Number of Securities UnderlyingOptions (#)   ​ ​  Exercise or base price of option awards($/Sh)   ​ ​  Grant Date Fair Value of Stock and OptionAwards ($)   ​ ​ ​ ​ 
+ Name   ​ ​  Grant Date   ​ ​  Threshold ($)   ​ ​  Target ($)   ​ ​  Maximum ($)   ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ 
+ Paolo Pucci   ​ ​ ​ ​ N/A ​ ​ ​ ​ ​ — ​ ​ ​ ​ ​ 316,130 ​ ​ ​ ​ ​ 474,195 ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ 
+ Peter S. Lawrence   ​ ​ ​ ​ N/A ​ ​ ​ ​ ​ — ​ ​ ​ ​ ​ 214,842 ​ ​ ​ ​ ​ 322,264 ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ 
+ Dr. Brian Schwartz  ​ ​ ​ ​ N/A ​ ​ ​ ​ ​ — ​ ​ ​ ​ ​ 190,109 ​ ​ ​ ​ ​ 285,164 ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ 
+ Robert J. Weiskopf   ​ ​ ​ ​ N/A ​ ​ ​ ​ ​ — ​ ​ ​ ​ ​ 130,052 ​ ​ ​ ​ ​ 195,078 ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ 
+[END TABLE]
+​
+(1)
+The threshold amount under the cash bonus program is zero. The target amount is based on the individual's current salary. The target represents 60%, 45%, 40% and 40% of the base salaries of Mr. Pucci, Mr. Lawrence, Dr. Schwartz and Mr. Weiskopf, respectively. The maximum amount is 150% of the target amount. 
+​
+​ TABLE OF CONTENTS​
+OUTSTANDING EQUITY AWARDS AT 2018 FISCAL YEAR-END 
+The following table sets forth certain information with respect to the value of all unexercised options previously awarded to our named executive officers as of December 31, 2018: 
+[BEGIN TABLE]
+ Name   ​ ​  Number of Securities Underlying Unexercised Options (#)(1)Exercisable   ​ ​  Number of Securities Underlying Unexercised Options (#)(1)Unexercisable   ​ ​  Option Exercise Price ($)   ​ ​  Option Expiration Date   ​ 
+ Paolo Pucci   ​ ​ ​ ​ 225,000 ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ $ 3.42 ​ ​ ​ ​ ​ 1/21/2020 ​ ​ 
+ Peter S. Lawrence   ​ ​ ​ ​ 130,000 ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ 3.42 ​ ​ ​ ​ ​ 1/21/2020 ​ ​ 
+ Dr. Brian Schwartz   ​ ​ ​ ​ 90,000 ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ 3.42 ​ ​ ​ ​ ​ 1/21/2020 ​ ​ 
+[END TABLE]
+ TABLE OF CONTENTS
+[BEGIN TABLE]
+ Name   ​ ​  Number ofSecuritiesUnderlyingUnexercisedOptions (#)(1)Exercisable   ​ ​  Number ofSecuritiesUnderlyingUnexercisedOptions (#)(1)Unexercisable   ​ ​  Option ExercisePrice($)   ​ ​  OptionExpiration Date   ​ 
+ Robert J. Weiskopf   ​ ​ ​ ​ 45,000 ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ 3.42 ​ ​ ​ ​ ​ 1/21/2020 ​ ​ 
+[END TABLE]
+​
+(1)
+Except as otherwise noted, each option award vests at the rate of one-fourth of the underlying shares annually beginning on the anniversary of the date of grant. 
+​
+​ TABLE OF CONTENTS​​
+OPTION EXERCISES AND STOCK VESTED IN FISCAL YEAR 2018 
+The table below sets forth certain information regarding stock option exercises and vested stock awards for the Company's executive officers during the last fiscal year. 
+[BEGIN TABLE]
+ Name   ​ ​  Number of Securities Acquired on Exercise   ​ ​  Value Realized Upon Exercise ($)   ​ 
+ Paolo Pucci   ​ ​ ​ ​ 500,000 ​ ​ ​ ​ ​ 2,861,519 ​ ​ 
+ Dr. Brian Schwartz   ​ ​ ​ ​ 200,000 ​ ​ ​ ​ ​ 1,036,000 ​ ​ 
+[END TABLE]
+CEO Pay Ratio—9.9:1 
+We believe our executive compensation program must be consistent and internally equitable to motivate our employees to perform in ways that enhance shareholder value. We are committed to internal pay equity, and the Compensation Committee monitors the relationship between the pay of our executive officers and the pay of our non-executive employees. The Compensation Committee reviewed a comparison of our Chief Executive Officer's annual total compensation in fiscal year 2018 to that of all other Company employees for the same period. The calculation of annual total compensation of all employees was determined in the same manner as the "Total Compensation" shown for our Chief Executive Officer in the "Summary Compensation Table" in this proxy. Pay elements that were included in the annual total compensation for each employee are: 
+ salary received in fiscal year 2018;
+​
+ annual bonus payment received in fiscal year 2018;
+​
+ grant date fair value of annual stock-based awards granted in 2018;
+​
+ Company-paid 401(k) Plan match made during fiscal year 2018; and
+​
+ Company-paid life insurance premiums during fiscal year 2018.
+​
+Our calculation includes all employees as of December 31, 2018. 
+We determined the compensation of our median employee by: (i) calculating the annual total compensation described above for each of our employees, (ii) ranking the annual total compensation of all employees except for the Chief Executive Officer from lowest to highest (a list of 30 employees), and (iii) since we have an even number of employees when not including the Chief Executive Officer, determining the average of the annual total compensation of the two employees ranked fifteen and sixteen on the list ("Median Employee"). 
+The annual total compensation for fiscal year 2018 for our Chief Executive Officer was $1,744,527, and for the Median Employee was $175,993. The resulting ratio of our Chief Executive Officer's pay to the pay of our Median Employee for fiscal year 2018 is 9.9 to 1.  TABLE OF CONTENTS​
+PAYMENTS UPON TERMINATION OR CHANGE OF CONTROL 
+The Company has employment agreements with Mr. Pucci, Mr. Lawrence and Dr. Schwartz. Each of these employment agreements provides for the payment of severance and change of control benefits. The following discussion and table provide information about the severance and change of control provisions of these employment agreements, and are qualified by reference to the full text of the agreements, as amended, each of which is on file with the SEC. 
+The following terms are used in the discussion below: 
+"Change of Control" means any of the following: 
+ the acquisition by any person or entity of our Common Stock so that such person or entity holds or controls 50% or more of our outstanding Common Stock; 
+​
+ the merger or consolidation of the Company with or into any other entity in circumstances where the holders of the Company's outstanding shares of capital stock before the transaction do not retain stock representing a majority of the voting power of the surviving entity; 
+​
+ a sale of all or substantially all of the assets of the Company to a third party; 
+​
+ within any 24-month period, the election by the Company's stockholders of 20% or more of the Company's directors other than pursuant to nomination by management; or 
+​
+ the execution of an agreement approved by the Board providing for any of the above. 
+​
+"Cause" means any of the following: 
+ arbitrary, unreasonable, or willful failure of the executive to follow the reasonable instructions of the Chief Executive Officer (or, in the case of the Chief Executive Officer, the Board), or otherwise perform his or her duties; 
+​
+ willful misconduct by the executive that is materially injurious to the Company; 
+​
+ willful commission by the executive of an act constituting fraud with respect to the Company; 
+​
+ conviction of the executive for a felony under state or federal law; or 
+​
+ material breach by the executive of his or her obligations to the Company regarding confidentiality of information or rights in intellectual property. 
+​
+Termination "without Cause" means any of the following occurrences: 
+ the Company terminates the executive's employment without Cause; or 
+​
+ the executive terminates his employment upon the occurrence of any of the following: (a) the Company substantially reduces or diminishes the executive's responsibilities or title without cause; (b) the Company reduces the executive's base salary or bonus target (other than in connection with a Company-wide decrease in salary or bonus, respectively); (c) the Company materially breaches any of its obligations to the executive under his or her employment agreement, and fails to cure such breach; (d) the Company relocates the executive's place of employment without his or her consent by a distance of more than fifty (50) miles; or (e) a successor in interest to the Company fails to assume the obligations of the employment agreement. 
+​
+In the case of Mr. Pucci, Termination without Cause shall also occur if, following a Change of Control, the executive terminates his employment: 
+ because the executive is unable to have direct responsibility for the Company's fully-integrated profit and loss statement (whether as a stand-alone entity or as a division or other business unit of some other acquiring entity); or 
+​
+​ TABLE OF CONTENTS
+ because of the exclusion from, or failure to appoint the executive to, the board of directors, or the executive committee, management committee or equivalent corporate managerial body of senior executives, of the acquiring company. 
+​
+Employment Agreement with Paolo Pucci 
+Mr. Pucci's agreement, as amended, provides for a term of employment until March 31, 2022. If Mr. Pucci is terminated without Cause, the Company will be required to pay Mr. Pucci an amount equal to twenty-four months of his base salary in effect at the time of termination, plus an amount equal to the total of bonuses paid to him with respect to the two years preceding the year in which he is terminated. These amounts will be paid in substantially equal installments according to the Company's normal payroll schedule during the twenty-four month period following termination. In addition, the Company will, at its expense, continue to provide Mr. Pucci with certain employee benefits for a period of twenty-four months from the date of termination. Finally, all of Mr. Pucci's unvested stock options and restricted stock that would have become exercisable or vested within one year from the termination date will immediately become exercisable or vested free of restrictions without regard to the original vesting schedule. The employment agreement further provides that, if the Company terminates (or is deemed to terminate) Mr. Pucci's employment with the Company without Cause within one year following a Change of Control of the Company, in addition to the severance benefits described above, any then unvested stock options will become immediately exercisable without regard to the original vesting schedule and any shares of restricted stock previously granted shall immediately be free and clear of any restrictions. 
+Employment Agreement with Peter S. Lawrence 
+Mr. Lawrence's employment agreement, as amended, provides for a term of employment until March 31, 2022. If Mr. Lawrence is terminated without Cause, he is entitled, subject to the execution of a general release of claims, to a lump sum severance payment equal to twelve months' base salary as of the date of termination, plus the average of the annual performance bonuses that he received in the preceding two years. In addition, 50% of any then unvested options that were granted at the time that the employment agreement was originally executed will become immediately exercisable on the termination date, and the Company will pay, for the twelve-month period following the date of termination, the cost of continuing the health and other employee benefits that Mr. Lawrence is entitled to receive under his employment agreement at the level in effect as of the termination date. The employment agreement further provides that, if the Company terminates (or is deemed to terminate) Mr. Lawrence's employment with the Company without Cause within one year following a Change of Control of the Company, in addition to the severance benefits described above, any then unvested options held by Mr. Lawrence will become immediately exercisable and any shares of restricted stock previously granted shall immediately be free and clear of any restrictions. 
+Employment Agreement with Brian Schwartz 
+Dr. Schwartz's employment agreement provides for a term of employment until March 31, 2022. If Dr. Schwartz is terminated without Cause, he is entitled, subject to the execution of a general release of claims, to a severance payment equal to twelve months' base salary as of the date of termination, plus the average of the annual performance bonuses that he received in the preceding two years. This amount will be paid in substantially equal installments according to the Company's normal payroll schedule during the twelve-month period following termination. In addition, the Company will pay, for the 12-month period following the date of termination, the cost of continuing the benefits that Dr. Schwartz is entitled to receive under his employment agreement at the level in effect as of the termination date. The employment agreement further provides that, if the Company terminates (or is deemed to terminate) Dr. Schwartz's employment with the Company without Cause within one year following a Change of Control of the Company, in addition to the severance benefits described above, any then unvested stock options will become immediately exercisable without regard to the original vesting schedule and any shares of restricted stock previously granted shall immediately be free and clear of any restrictions. TABLE OF CONTENTS
+The following table sets forth information with respect to compensation that would have been payable to Mr. Pucci, Mr. Lawrence and Dr. Schwartz if the named executive officer's employment had been terminated without Cause as of December 31, 2018 immediately following a Change of Control of the Company: 
+[BEGIN TABLE]
+ Name   ​ ​  Cash Payment(1) ($)   ​ ​  Equity Acceleration ($)   ​ ​  Benefits and Perquisites(2) ($)   ​ ​  Total ($)   ​ 
+ Paolo Pucci   ​ ​ ​ $ 1,555,413 ​ ​ ​ ​ $ 2,040,355 ​ ​ ​ ​ $ 51,261 ​ ​ ​ ​ $ 3,647,029 ​ ​ 
+ Peter S. Lawrence   ​ ​ ​ ​ 627,003 ​ ​ ​ ​ ​ 1,068,188 ​ ​ ​ ​ ​ 25,630 ​ ​ ​ ​ ​ 1,720,821 ​ ​ 
+ Dr. Brian Schwartz   ​ ​ ​ ​ 605,597 ​ ​ ​ ​ ​ 876,846 ​ ​ ​ ​ ​ 25,630 ​ ​ ​ ​ ​ 1,508,073 ​ ​ 
+[END TABLE]
+​
+(1)
+For Mr. Pucci, the cash payment is calculated as the sum of an amount equal to two times his annual salary as of December 31, 2018, plus a bonus payment equal to the sum of his 2016 and 2017 bonuses. For each of Mr. Lawrence and Dr. Schwartz, the cash payment is calculated as the sum of the executive's annual salary as of December 31, 2018, plus a bonus payment equal to the average of their annual bonuses from 2016 and 2017. 
+​
+(2)
+For Mr. Pucci, reflects the premiums for twenty-four months for group medical, dental, life and disability programs. For each of Mr. Lawrence and Dr. Schwartz, reflects the premiums for twelve months for group medical, dental, life and disability programs. Amounts are based on the premiums in effect at December 31, 2018. 
+​
+​ TABLE OF CONTENTS​
+REPORT OF THE AUDIT COMMITTEE 
+In the course of its oversight of the Company's financial reporting process, the Audit Committee of the Board of Directors has: 
+ reviewed and discussed with management the Company's audited financial statements for the fiscal year ended December 31, 2018; 
+​
+ discussed with our independent registered public accounting firm, PricewaterhouseCoopers LLP, matters required to be discussed under Public Company Accounting Oversight Board standards; 
+​
+ received the written disclosures and the letter from PricewaterhouseCoopers LLP pursuant to applicable requirements of the Public Company Accounting Oversight Board regarding the independent accountant's communications with the Audit Committee concerning independence; 
+​
+ discussed with PricewaterhouseCoopers LLP the firm's independence; and 
+​
+ considered whether the provision of non-audit services by PricewaterhouseCoopers LLP is compatible with maintaining independence. 
+​
+Based on the foregoing review and discussions, the Audit Committee recommended to the Board of Directors that the Company's audited financial statements be included in the Company's Annual Report on Form 10-K for the year ended December 31, 2018 for filing with the SEC. 
+By the Audit Committee, 
+Timothy C. Barabe, Chairman William G. Messenger Patrick J. Zenner TABLE OF CONTENTS​
+PROPOSAL 2—APPROVAL OF AN AMENDMENT AND RESTATEMENT OF OUR 2014 EQUITY INCENTIVES PLAN 
+General 
+We are asking our stockholders to approve an amendment and restatement of our 2014 Equity Incentives Plan, referred to as the 2014 Plan, to provide for a 2,750,000 share increase in the aggregate number of shares of Common Stock that may be issued under the 2014 Plan. Other than the increase in the number of shares that may be issued under the 2014 Plan, the amended and restated 2014 Plan is unchanged from the existing 2014 Plan that was previously approved by stockholders. The Board approved the amendment and restatement of the 2014 Plan on March 12, 2019. 
+The following summary of the material terms of the 2014 Plan is qualified by reference to the full text of the 2014 Plan, a copy of which is attached hereto as Appendix A. 
+The 2014 Plan permits us to grant awards to our directors, employees and consultants in any of the following forms: 
+ options to purchase shares of Common Stock, which may be non-statutory stock options or incentive stock options; 
+​
+ stock appreciation rights, which give the holder the right to receive the difference between the fair market value per share of Common Stock on the date of exercise over the grant price; 
+​
+ performance shares vesting upon the attainment of specified performance goals; 
+​
+ restricted stock, which is subject to restrictions on transferability and subject to forfeiture on terms set by the Compensation Committee; 
+​
+ stock units, which represent the right to receive shares of Common Stock in the future, subject to terms, restrictions, conditions, performance criteria, vesting requirements and payment rules as set by the Compensation Committee; and 
+​
+ other stock-based awards in the discretion of the Compensation Committee, including convertible Preferred Stock, convertible debentures, exchangeable securities and Common Stock awards or options. 
+​
+The 2014 Plan also allow us to make cash awards under specified circumstances. 
+To date, we have granted only incentive stock options, non-statutory stock options, restricted stock and stock units under the 2014 Plan. Currently, we plan to issue only stock options and restricted stock under the 2014 Plan but retain the flexibility to make awards in other forms. 
+Common Stock Available under the 2014 Plan 
+The amendment and restatement of the 2014 Plan will increase the aggregate number of shares of Common Stock that we may issue under the 2014 Plan by 2,750,000 shares. If stockholders approve the amendment and restatement of the 2014 Plan, the aggregate number of shares that will be available for grants and awards under the 2014 Plan will be 10,250,000, plus an undetermined number of shares subject to awards made under our 1994 Equity Incentive Plan that otherwise would have been returned to that plan on account of the expiration, cancellation or forfeiture of awards. We are not able to grant additional awards under our 1994 Equity Incentive Plan. 
+As of March 20, 2019, options to purchase an aggregate of 2,346,956 shares remain available for issuance under the 2014 Plan and there were 8,839,822 shares subject to outstanding options under the 2014 Plan. In addition, as of March 20, 2019, there were 3,476,995 shares subject to outstanding options under the 1994 Equity Incentive Plan that could become available for issuance under the 2014 Plan if they expire, terminate or are otherwise forfeited. TABLE OF CONTENTS
+Under the 2014 Plan, the number of shares of Common Stock available for grants and awards is calculated as follows: 
+ To the extent that any award is forfeited, or any stock option or stock appreciation right terminates, expires or lapses without being exercised, the shares subject to those awards not delivered are again available for awards under the 2014 Plan. 
+​
+ Shares tendered or withheld to pay the exercise price of a stock option or to pay tax withholding for restricted stock will count against shares authorized but unissued under the 2014 Plan and will not be added back to the shares available under the 2014 Plan. When a stock appreciation right is exercised and settled for shares, the number of shares subject to the grant will be counted against the number of shares available for issuance under the 2014 Plan regardless of the number of shares used to settle the stock appreciation right upon exercise. 
+​
+ For any two (2) shares of Common Stock issued in connection with a full value award, i.e., performance shares, restricted stock, stock units or other stock-based awards, three (3) fewer shares of Common Stock will be available for issuance in connection with options and future stock awards under the 2014 Plan. 
+​
+Administration and Eligibility 
+The selection of persons who will receive awards under the 2014 Plan and the sizes and types of awards will be generally determined by the Compensation Committee. The Compensation Committee determines, within the limits of the 2014 Plan, the terms and conditions of each award. All of the Company's directors and employees are eligible to participate in the 2014 Plan. As of January 2019, the Company had 36 employees. Consultants of the Company or any affiliate, who are capable of contributing significantly to the successful performance of the Company are also eligible to participate in the 2014 Plan, but only for awards other than incentive stock options.
+The exercise price of any stock option (non-statutory and incentive) granted under the 2014 Plan may not be less than 100% of the fair market value of the Common Stock on the date of grant and the term of any such option or stock appreciation right may not be greater than 10 years. Incentive stock options granted to an employee who owns 10% of our voting stock may not be less than 110% of the fair market value of the Common Stock on the date of grant and the term of any such option may not be greater than five years. Fair market value under the 2014 Plan is defined as the the closing sale price of a share of Common Stock as reported on the applicable securities exchange or quotation system as of the relevant date. 
+Subject to certain limitations, the Compensation Committee or the Board may delegate to one or more of our executive officers the power to make awards to participants who are not subject to Section 16 of the Exchange Act. The Board has granted such authority to Mr. Pucci and Mr. Lawrence. 
+Adjustments to Reflect Certain Events and Transactions 
+If the outstanding Common Stock of the Company changes as a result of a stock dividend, stock split, extraordinary cash dividend, recapitalization, reorganization, split-up, spin-off, combination, exchange of shares, or the like, the 2014 Plan permits the Compensation Committee to substitute or adjust: (a) the number and class of securities subject to outstanding awards or the type of consideration to be received upon exercise or payment of an award, (b) the exercise price of options, (c) the aggregate number and class of securities for which awards may be granted under the 2014 Plan, and/or (d) the maximum number of securities with respect to which an employee may be granted awards during any calendar year. In the event of a merger or consolidation to which the Company is a party or other specified transactions, the 2014 Plan authorizes the Compensation Committee to make such changes and adjustments to outstanding awards as it deems equitable including causing any award to become vested in whole or in part, be assumed by a successor or acquirer, or be cancelled in consideration of a cash payment equal to the fair value of the cancelled award. 
+Withholding 
+The Company is generally required to withhold tax on the amount of income recognized by a participant with respect to an award. Withholding requirements may be satisfied, as provided in the  TABLE OF CONTENTS
+agreement evidencing the award, by (a) tender of a cash payment to the Company, (b) withholding of shares of Common Stock otherwise issuable, or (c) delivery to the Company by the participant of unencumbered shares of Common Stock. 
+Termination and Amendment; Term of Plan 
+Unless sooner terminated by the Board in accordance with its terms, the 2014 Plan will terminate on May 12, 2024. Once the 2014 Plan is terminated, no further awards may be granted or awarded under the 2014 Plan. Termination of the 2014 Plan will not affect the validity of any awards outstanding on the date of termination. 
+Federal Income Tax Considerations 
+The following discussion briefly summarizes certain federal income tax consequences of awards under the 2014 Plan and does not attempt to describe all possible federal or any foreign, state, local, or other tax consequences related to awards or tax consequences based upon particular circumstances. 
+Incentive Stock Options.   In general, no taxable income is realized by a participant upon the grant of an Incentive Stock Option ("ISO"). If stock is issued to the participant pursuant to the exercise of an ISO, and if no disqualifying disposition of such shares is made by the participant within two years after the date of grant or within one year after the transfer of such shares to such him or her, then upon the sale of such shares, any amount realized in excess of the option price will be taxed to the participant as a long-term capital gain and any loss sustained will be a long-term capital loss. However, if the participant disposes of the shares acquired on exercise before the later of the second anniversary of the date of grant or one year after the receipt of the shares by the participant (a "Disqualifying Disposition"), the participant generally would include in ordinary income in the year of the Disqualifying Disposition an amount equal to the excess of the fair market value of the shares at the time of exercise (or, if less, the amount realized on the disposition of the shares), over the exercise price paid for the shares. Subject to certain exceptions, an ISO generally will not be treated as an ISO if it is exercised more than three months following termination of employment. If an ISO is exercised at a time when it no longer qualifies as an ISO, it will be treated for tax purposes as a non-statutory stock option as discussed below. 
+Non-statutory Stock Options.   A participant generally is not required to recognize income on the grant of a non-statutory stock option. Generally, ordinary income is instead required to be recognized on the date the non-statutory stock option is exercised. In general, the amount of ordinary income required to be recognized is the excess, if any, of the fair market value of the shares of Common Stock on the date of exercise over the exercise price. 
+Restricted Stock.   A participant who is granted restricted stock under the 2014 Plan is not required to recognize income with respect to the shares until the shares vest, unless the participant makes a special tax election to recognize income upon award of the shares. In either case, the amount of income the participant recognizes equals the fair market value of the shares of Common Stock at the time income is recognized. 
+Stock Appreciation Rights, Performance Shares, Stock Units and Other Stock Based Awards.   A participant generally is not required to recognize income on the grant of a stock appreciation right, an award of performance shares, an award of stock units, or any other stock-based award. Generally, ordinary income is instead required to be recognized upon the issuance of shares and/or cash pursuant to the terms of the award. In general, the amount of ordinary income required to be recognized is the excess, if any, of the amount of cash and the fair market value of any shares received, over the amount, if any, paid for the award. 
+Deductibility by Company.   The Company generally is not allowed a deduction in connection with the grant or exercise of an incentive stock option. However, if a participant is required to recognize ordinary income as a result of a Disqualifying Disposition, the Company generally will be entitled to a deduction equal to the amount of ordinary income so recognized. In general, for a non-statutory stock option (including an incentive stock option that is treated as a non-statutory stock option, as described above), a restricted stock award, a stock appreciation right, a performance shares award, a stock units award, or any other stock-based award, the Company will be allowed to deduct the amount of ordinary income recognized by the participant, provided certain income tax reporting requirements are satisfied.  TABLE OF CONTENTS
+Performance-Based Compensation.   Subject to certain exceptions, Section 162(m) of the Tax Code disallows federal income tax deductions for compensation paid by a publicly-held corporation to certain executives to the extent the amount paid to an executive exceeds $1 million for the taxable year. Historically, compensation that qualified as "performance-based compensation" under Section 162(m) could be excluded from this $1 million limit, but this exception has now been repealed, effective for taxable years beginning after December 31, 2017, unless transition relief for certain compensation arrangements in place as of November 2, 2017 is available. 
+Tax Rules Affecting Nonqualified Deferred Compensation Plans.   Section 409A of the Tax Code imposes tax rules that apply to "nonqualified deferred compensation plans." Failure to comply with, or to qualify for an exemption from, the rules with respect to an award could result in significant adverse tax results to the award recipient including immediate taxation upon vesting, an additional income tax of 20 percent of the amount of income so recognized, plus a tax in the nature of interest. The 2014 Plan is intended to comply with, or qualify for an exemption from, Section 409A of the Tax Code to the extent applicable. 
+Parachute Payments.   Where payments to certain persons that are contingent on a change of control exceed limits specified in the Tax Code, the person generally is liable for a 20 percent excise tax on, and the corporation or other entity making the payment generally is not entitled to any deduction for, a specified portion of such payments. Any award under which vesting is accelerated by a change of control of the Company, would be relevant in determining whether the excise tax and deduction disallowance rules would be triggered. 
+Vote Required 
+The affirmative vote of a majority of the total votes cast by the stockholders present at the Annual Meeting, in person or by proxy, is needed to approve the increase in the number of shares that may be issued under the 2014 Plan. If you submit a proxy without direction as to a vote on this matter, your proxy will be treated as a vote "FOR" this proposal. Broker non-votes and abstentions will not be treated as votes cast and will have no effect on the outcome of the vote on this proposal. 
+OUR BOARD OF DIRECTORS RECOMMENDS A VOTE "FOR" THIS PROPOSAL. TABLE OF CONTENTS​
+PROPOSAL 3—RATIFICATION OF SELECTION OF INDEPENDENT REGISTERED PUBLIC ACCOUNTING FIRM 
+We are asking our stockholders to ratify the selection by our Audit Committee of PricewaterhouseCoopers LLP, as our independent registered public accounting firm for the fiscal year ending December 31, 2019. PricewaterhouseCoopers LLP has audited our financial statements since our inception. 
+The Audit Committee of our Board selected PricewaterhouseCoopers LLP to audit our financial statements and internal control over financial reporting for the year ending December 31, 2019. We expect that representatives of PricewaterhouseCoopers LLP will attend our Annual Meeting to respond to appropriate questions. They will also have the opportunity to make a statement if they so desire. PricewaterhouseCoopers LLP has no direct or indirect financial interest in the Company or in any of its subsidiaries, nor has it had any connection with the Company or any of its subsidiaries in the capacity of promoter, underwriter, voting trustee, director, officer or employee. 
+The following table presents fees billed and expected to be billed for professional audit and audit related services rendered by PricewaterhouseCoopers LLP for fiscal years 2018 and 2017. 
+[BEGIN TABLE]
+​ ​ ​  2018   ​ ​  2017   ​ 
+ Audit Fees   ​ ​ ​ $ 562,000 ​ ​ ​ ​ $ 544,000 ​ ​ 
+ Audit-Related Fees   ​ ​ ​ ​ — ​ ​ ​ ​ ​ — ​ ​ 
+ Tax Fees   ​ ​ ​ ​ — ​ ​ ​ ​ ​ — ​ ​ 
+ All Other Fees   ​ ​ ​ ​ — ​ ​ ​ ​ ​ — ​ ​ 
+ Total   ​ ​ ​ $ 562,000 ​ ​ ​ ​ $ 544,000 ​ ​ 
+[END TABLE]
+"Audit Fees" are fees for the audit of our financial statements and internal controls over financial reporting, included in our Annual Reports on Form 10-K, the review of interim financial statements included in our Quarterly Reports on Form 10-Q, other services normally associated with statutory and regulatory filings or engagements, and services that generally only the principal auditor can reasonably provide to a client, such as comfort letters, consents and assistance with review of documents to be filed with the SEC. In 2018, these fees included $64,000 incurred in connection with SEC filings associated with our stock offering in July 2018. In 2017, these fees included $82,000 incurred in connection with SEC filings associated with our ATM stock offering in September 2017, our Common Stock offering in October 2017 and our Preferred Stock offering in November 2017. 
+The Audit Committee pre-approves each proposed service by PricewaterhouseCoopers LLP on a case-by-case basis. The Audit Committee does not have any pre-approval policies or procedures for PricewaterhouseCoopers LLP's services. The Audit Committee approved 100% of the audit and audit-related services PricewaterhouseCoopers LLP provided to us in 2018 and 2017. 
+Vote Required 
+The affirmative vote of a majority of the total votes cast by the stockholders present at the Annual Meeting, in person or by proxy, is necessary to ratify the selection of PricewaterhouseCoopers LLP to audit our financial statements. If you submit a proxy without direction as to a vote on this matter, your proxy will be treated as a vote "FOR" this proposal. Abstentions will have no effect on this proposal. 
+OUR BOARD OF DIRECTORS RECOMMENDS A VOTE "FOR" THIS PROPOSAL. TABLE OF CONTENTS​
+PROPOSAL 4—ADVISORY VOTE ON APPROVAL OF THE COMPENSATION OF THE COMPANY'S NAMED EXECUTIVE OFFICERS 
+The SEC's proxy rules permit our stockholders to cast an advisory vote on the compensation of our named executive officers as described in this proxy statement. Furthermore, our Board recognizes that stockholders have a legitimate interest in executive compensation matters and a growing interest in voicing their approval on our policies with respect to such matters. 
+Accordingly, this proposal gives you, as a stockholder, the opportunity to endorse or not endorse our overall compensation programs and policies relating to our named executive officers, as described in detail in the Compensation Discussion and Analysis, the Summary Compensation Table and related compensation tables (and accompanying narrative disclosures) contained in this proxy statement, by voting for or against the compensation of our named executive officers.
+Your vote will not directly affect or otherwise limit any compensation or award arrangements that have already been granted to any of our named executive officers. Because your vote is advisory, it will not be binding on the Board. However, our Compensation Committee will take into account the outcome of the vote when considering future executive compensation arrangements. 
+We believe that our compensation policies and procedures support our business strategy by rewarding successful achievement of specific business goals, as well as our operating and financial results. Furthermore, we believe that our compensation policies and procedures, which provide performance-based incentives to maximize stockholder value, are strongly aligned with the long-term interests of our stockholders. 
+Vote Required 
+The affirmative vote of a majority of the total votes cast by the stockholders present at the Annual Meeting, in person or by proxy, is needed to approve, on an advisory basis, the compensation of our named executive officers. If you submit a proxy without direction as to a vote on this matter, your proxy will be treated as a vote "FOR" this proposal. Broker non-votes and abstentions will not be treated as votes cast and will have no effect on the outcome of the vote on this proposal. 
+OUR BOARD OF DIRECTORS RECOMMENDS A VOTE "FOR" THIS PROPOSAL. TABLE OF CONTENTS​​​
+CERTAIN RELATIONSHIPS AND RELATED TRANSACTIONS 
+Review and Approval of Related Person Transactions 
+Pursuant to our written Conflict of Interest Policy, no director, director nominee, or executive officer may enter into any transaction or relationship that is disclosable by the Company pursuant to SEC Regulation S-K, Item 404, without the prior approval of the disinterested members of our Compensation Committee. No director or executive officer may directly or indirectly approve or represent the Company or the other party in arranging, the terms of any transaction between the Company and a party with which he/she has any relationship of a type that is disclosable by the Company pursuant to Item 404. All transactions between ArQule and a party with which a director or executive officer has such a relationship shall be on an arm's length basis. 
+Relationships or transactions disclosable under Item 404 may be deemed acceptable and appropriate upon full disclosure of the relationship or transaction, review of all of the relevant factors, including those specified in our Conflict of Interest Policy, and approval by the disinterested members of our Compensation Committee. During 2018, there were no transactions requiring disclosure under SEC Regulation S-K, Item 404.
+SHARE OWNERSHIP OF CERTAIN BENEFICIAL OWNERS 
+The following table and footnotes set forth certain information regarding the beneficial ownership of the Company's Common Stock by persons known by us based on required filings made by the holders with the SEC to be beneficial owners of more than 5% of our Common Stock as of March 20, 2019. Each of the warrants to purchase Common Stock referenced in the table below is currently exercisable. The warrants are included as outstanding and beneficially owned for that group, but are not deemed outstanding for the purposes of computing the percentage ownership of any other group. 
+We had 109,095,759 shares of Common Stock outstanding as of March 20, 2019. 
+[BEGIN TABLE]
+ Name   ​ ​  Common Stock Owned   ​ ​  Warrants to Purchase Common Stock   ​ ​  Options to Purchase Common Stock   ​ ​  Total Shares Beneficially Owned   ​ ​  Percent of Class   ​ 
+ First Eagle Investment Management, LLC (1) 1345 Avenue of the Americas, New York, NY 10105  ​ ​ ​ ​ 16,081,128 ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ 16,081,128 ​ ​ ​ ​ ​ 14.7% ​ ​ 
+ Nantahala Capital Management, LLC(2) 19 Old Kings Highway S, Suite 200, Darien, CT 06820  ​ ​ ​ ​ 12,101,879 ​ ​ ​ ​ ​ 535,242 ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ 12,637,121 ​ ​ ​ ​ ​ 11.5% ​ ​ 
+ BlackRock, Inc.(3) 55 East 52nd Street, New York, NY 10055  ​ ​ ​ ​ 8,618,012 ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ 8,618,012 ​ ​ ​ ​ ​ 7.9% ​ ​ 
+ BVF Inc.(4) 44 Montgomery St., 40th Floor San Francisco, California 94104   ​ ​ ​ ​ 6,230,418 ​ ​ ​ ​ ​ 2,439,932 ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ 8,670,350 ​ ​ ​ ​ ​ 7.8% ​ ​ 
+ Pontifax Group(5) 14 Shenkar Street Herzliya Pituach 46140, Israel   ​ ​ ​ ​ 6,798,429 ​ ​ ​ ​ ​ 1,784,000 ​ ​ ​ ​ ​ 30,000 ​ ​ ​ ​ ​ 8,612,429 ​ ​ ​ ​ ​ 7.8% ​ ​ 
+ Vanguard Group(6) 100 Vanguard Blvd, Malvern, PA 19355  ​ ​ ​ ​ 5,465,858 ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ 5,465,858 ​ ​ ​ ​ ​ 5.0% ​ ​ 
+[END TABLE]
+​
+(1)
+These shares are beneficially owned by First Eagle Investment Management, LLC as a result of acting as investment adviser to various clients based on the Schedule 13G/A filed with the SEC on February 11, 2019. According to the Schedule 13G/A, First Eagle Investment Management, LLC has sole voting power and sole dispositive power over all of the shares. 
+​
+​ TABLE OF CONTENTS
+(2)
+These shares are beneficially owned by Nantahala Capital Management, LLC and persons associated with it based on the Schedule 13G/A filed with the SEC on February 14, 2019. The shares reported include 12,637,121 shares of Common Stock, including 535,242 shares of Common Stock issuable upon the exercise of warrants beneficially owned by Nantahala Capital Management, LLC. According to the Schedule 13G/A, Nantahala Capital Management, LLC and persons associated with it have shared voting power and shared dispositive power over all of the shares. 
+​
+(3)
+These shares are beneficially owned by BlackRock, Inc., and persons associated with it based on the Schedule 13G/A filed with the SEC on February 8, 2019. The percentage of ownership is calculated as of March 20, 2019. According to the Schedule 13G/A, BlackRock, Inc., and persons associated with it have sole voting power with respect to 8,395,755 shares of Common Stock and sole dispositive power with respect to 8,618,012 shares of Common Stock. 
+​
+(4)
+These shares are beneficially owned by BVF Inc. and persons associated with it based on the Schedule 13G/A filed with the SEC on February 14, 2019. The shares reported include (i) 4,223,009 shares of Common Stock, including 1,201,053 shares of Common Stock issuable upon the exercise of warrants beneficially owned by Biotechnology Value Fund, L.P., (ii) 3,241,109 shares of Common Stock, including 823,231 shares of Common Stock issuable upon the exercise of warrants beneficially owned by Biotechnology Value Fund II, L.P.,(iii) 626,421 shares of Common Stock, including 199,687 shares of Common Stock issuable upon the exercise of warrants beneficially owned by Biotechnology Value Trading Fund OS LP and (iv) 579,811 shares of Common Stock, including 215,961 shares of Common Stock issuable upon the exercise of warrants beneficially owned by certain BVF Partners L.P. managed accounts. According to the Schedule 13G/A, BVF Inc. and persons associated with it have shared voting power over all of the shares. 
+​
+(5)
+These shares are beneficially owned by the Pontifax Group and persons associated with it, including Ran Nussbaum, Pontifax's managing partner and a director of the Company. The shares reported include (i) 4,228,676 shares of Common Stock, including 880,000 shares of Common Stock issuable upon the exercise of warrants beneficially owned by Pontifax (Israel) IV, L.P., (ii) 2,286,485 shares of Common Stock, including 476,000 shares of Common Stock issuable upon the exercise of warrants beneficially owned by Pontifax (China) IV, L.P., (iii) 2,058,657 shares of Common Stock, including 428,000 shares of Common Stock issuable upon the exercise of warrants beneficially owned by Pontifax (Cayman) IV, L.P., and (iv) 8,611 shares of Common Stock beneficially owned by Pontifax III Management of Fund (2011) Ltd. The total shares of Common Stock beneficially owned also includes 30,000 shares subject to options held by Mr. Nussbaum that are currently exercisable or may be exercised within 60 days after March 20, 2019. Mr. Nussbaum is the managing partner of the Pontifax Group and as a result, the foregoing options are deemed beneficially owned by Pontifax under SEC rules.
+​
+(6)
+These shares are beneficially owned by Vanguard Group and persons associated with it based on the Schedule 13G filed with the SEC on February 11, 2019. According to the Schedule 13G, Vanguard Group and persons associated with it have shared voting power with respect to 201,852 shares of Common Stock, sole dispositive power with respect to 5,264,006 shares of Common Stock and shared dispositive power with respect to 201,852 shares of Common Stock.
+​
+​ TABLE OF CONTENTS
+The following table and footnotes set forth certain information regarding the beneficial ownership of the Company's Common Stock as of March 20, 2019 by (i) our directors, (ii) our named executive officers, and (iii) all directors and executive officers as a group. Shares of Common Stock underlying options include shares for which options are currently exercisable or will become exercisable within 60 days after March 20, 2019. Options and warrants are deemed to be outstanding for computing the percentage of the person or group holding such option or warrant but are not deemed outstanding for computing the percentage of any other person or group. 
+We had 109,095,759 shares of Common Stock outstanding as of March 20, 2019. 
+[BEGIN TABLE]
+ Directors and Executive Officers(1)   ​ ​  Common Stock Owned   ​ ​  Options to Purchase Common Stock   ​ ​  Warrants to Purchase Common Stock   ​ ​  Total Shares Beneficially Owned   ​ ​  Percent of Class   ​ 
+ Timothy C. Barabe(2)   ​ ​ ​ ​ 136,897 ​ ​ ​ ​ ​ 160,000 ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ 296,897 ​ ​ ​ ​ ​  ​ *  ​ ​ 
+ Susan L. Kelley   ​ ​ ​ ​ 50,000 ​ ​ ​ ​ ​ 165,000 ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ 215,000 ​ ​ ​ ​ ​  ​ *  ​ ​ 
+ Ronald M. Lindsay   ​ ​ ​ ​ 50,800 ​ ​ ​ ​ ​ 160,000 ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ 210,800 ​ ​ ​ ​ ​  ​ *  ​ ​ 
+ Michael D. Loberg   ​ ​ ​ ​ 162,514 ​ ​ ​ ​ ​ 160,000 ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ 322,514 ​ ​ ​ ​ ​  ​ *  ​ ​ 
+ William G. Messenger   ​ ​ ​ ​ 10,000 ​ ​ ​ ​ ​ 160,000 ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ 170,000 ​ ​ ​ ​ ​  ​ *  ​ ​ 
+ Ran Nussbaum(3)   ​ ​ ​ ​ 6,798,429 ​ ​ ​ ​ ​ 30,000 ​ ​ ​ ​ ​ 1,784,000 ​ ​ ​ ​ ​ 8,612,429 ​ ​ ​ ​ ​ 7.8% ​ ​ 
+ Patrick J. Zenner   ​ ​ ​ ​ 82,216 ​ ​ ​ ​ ​ 240,000 ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ 322,216 ​ ​ ​ ​ ​  ​ *  ​ ​ 
+ Peter S. Lawrence   ​ ​ ​ ​ 77,743 ​ ​ ​ ​ ​ 1,234,375 ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ 1,312,118 ​ ​ ​ ​ ​ 1.2% ​ ​ 
+ Paolo Pucci   ​ ​ ​ ​ 699,378 ​ ​ ​ ​ ​ 2,364,752 ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ 3,064,130 ​ ​ ​ ​ ​ 2.7% ​ ​ 
+ Brian Schwartz   ​ ​ ​ ​ 115,317 ​ ​ ​ ​ ​ 936,475 ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ 1,051,792 ​ ​ ​ ​ ​ 1.0% ​ ​ 
+ Robert J. Weiskopf   ​ ​ ​ ​ 30,407 ​ ​ ​ ​ ​ 475,562 ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ 505,969 ​ ​ ​ ​ ​  ​ *  ​ ​ 
+ Directors and executive officers as a group (11 persons)   ​ ​ ​ ​ 8,213,701 ​ ​ ​ ​ ​ 6,086,164 ​ ​ ​ ​ ​ 1,784,000 ​ ​ ​ ​ ​ 16,083,865 ​ ​ ​ ​ ​ 13.8% ​ ​ 
+[END TABLE]
+​
+*
+Indicates less than 1%. 
+​
+(1)
+The persons named in the table have sole voting and investment power with respect to the shares beneficially owned by them, except as noted below or as otherwise provided under community property laws. 
+​
+(2)
+Mr. Barabe disclaims any direct, indirect or beneficial ownership of 420 shares of Common Stock owned by his spouse. 
+​
+(3)
+The shares reported include (i) 4,228,676 shares of Common Stock, including 880,000 shares of Common Stock issuable upon the exercise of warrants beneficially owned by Pontifax (Israel) IV, L.P., (ii) 2,286,485 shares of Common Stock, including 476,000 shares of Common Stock issuable upon the exercise of warrants beneficially owned by Pontifax (China) IV, L.P., and (iii) 2,058,657 shares of Common Stock, including 428,000 shares of Common Stock issuable upon the exercise of warrants beneficially owned by Pontifax (Cayman) IV, L.P. and (iv) 8,611 shares of Common Stock beneficially owned by Pontifax III Management of Fund (2011) Ltd. Mr. Nussbaum is the managing partner of the Pontifax Group and as a result, the foregoing shares are deemed beneficially owned by Mr. Nussbaum under SEC rules.
+​
+​ TABLE OF CONTENTS​​
+SECTION 16(a) BENEFICIAL OWNERSHIP REPORTING COMPLIANCE 
+Our executive officers and directors and persons who beneficially own more than 10% of a registered class of our equity securities are required under Section 16(a) of the Exchange Act to file reports of ownership and changes in ownership of our securities with the SEC. Copies of those reports must also be furnished to us, unless we and the person reporting have agreed that we will file on his or her behalf pursuant to a power of attorney. 
+We file reports required under Section 16(a) on behalf of all our directors and officers pursuant to powers of attorney. Based solely on a review of the copies of reports furnished to, or filed by, us and written representations that no other reports were required, we believe that during 2018, our executive officers and directors and persons who beneficially own more than 10% of a registered class of our equity securities complied with all applicable Section 16(a) filing requirements, except that Ran Nussbaum did not timely file one Form 4. 
+STOCKHOLDER PROPOSALS 
+Stockholder Proposals Included in Proxy Statement 
+In order to be considered for inclusion in our proxy statement and proxy card relating to our 2020 annual meeting of stockholders, stockholder proposals must be received by us no later than November 29, 2019, which is 120 days prior to the first anniversary of the mailing date of this proxy, unless the date of the 2020 annual meeting of stockholders is changed by more than 30 days from the anniversary of our 2019 Annual Meeting, in which case, the deadline for such proposals will be a reasonable time before we begin to print and send our proxy materials. Upon receipt of any such proposal, we will determine whether or not to include such proposal in the proxy statement and proxy card in accordance with Rule 14a-8 adopted under the Exchange Act. 
+Stockholder Proposals Not Included in Proxy Statement 
+In addition, our By-laws establish an advance notice procedure for nominations for election to our board of directors and other matters that stockholders wish to present for action at an annual meeting other than those to be included in our proxy statement. We must receive other proposals of stockholders (including director nominations) intended to be presented at the 2020 annual meeting of stockholders but not included in the proxy statement by February 22, 2019, which is 75 days prior to the first anniversary of the 2019 Annual Meeting, unless the date of the 2020 annual meeting of stockholders is changed by more than 30 days from the anniversary of our 2019 Annual Meeting, in which case, the deadline for such proposals will be (i) 45 days before the 2020 annual meeting, if at least 60 days' notice or prior public disclosure of the date of the 2020 annual meeting is provided or (ii) in the absence of the requisite 60 days' notice or prior public disclosure of the date of the 2020 annual meeting, 15 days after the date on which notice of the date of the 2020 annual meeting was mailed or public disclosure was made of such meeting date. 
+The notice must include the stockholder's name and address, the class and number of shares of securities beneficially owned by such stockholder, and each nominee's: 
+(i)
+name, age, business address, and home address; 
+​
+(ii)
+principal occupation or employment; 
+​
+(iii)
+beneficial ownership of Company securities, including the class and number of shares of stock; and 
+​
+(iv)
+any other information relating to the nominee that is required to be disclosed in solicitations for proxies for election of directors by Regulation 14A under Exchange Act.
+​
+​ TABLE OF CONTENTS​
+Notices of stockholder proposals and nominations should be given in writing to: 
+Peter S. LawrencePresident and Chief Operating OfficerArQule, Inc.One Wall StreetBurlington, Massachusetts 01803-4757 
+OTHER MATTERS 
+Our Board does not know of any business to come before the Annual Meeting other than the matters described in the Notice of Annual Meeting. If other business is properly presented for consideration at the meeting, the enclosed proxy authorizes the persons named therein to vote the shares represented thereby in their discretion. 
+A copy of our Annual Report on Form 10-K for the year ended December 31, 2018, as filed with the SEC on March 7, 2019, accompanies this Proxy Statement. Any exhibit to Form 10-K is also available upon written request at a reasonable charge for copying and mailing. Written requests should be addressed to: 
+Peter S. LawrencePresident and Chief Operating OfficerArQule, Inc.One Wall StreetBurlington, Massachusetts 01803-4757 
+Copies of these documents may also be accessed electronically by means of the SEC's website at http://www.sec.gov and http://www.proxyvote.com. The Annual Report on Form 10-K is not part of the proxy solicitation material. TABLE OF CONTENTS​
+Appendix A    ARQULE, INC.    AMENDED AND RESTATED    2014 EQUITY INCENTIVES PLAN 
+1. Purpose; Effective Date
+1.1. The purpose of the Plan is to attract and retain key Employees and Consultants of the Company and its Affiliates, to provide an incentive for them to achieve long-range performance goals, and to enable them to participate in the long-term growth of the Company. 
+1.2. The Plan became effective on May 13, 2014 and was amended on May 8, 2018. Subject to approval by an affirmative vote of the holders of a majority of the Shares that are present in person or by proxy and entitled to vote at the 2019 Annual Meeting of Stockholders of the Company, the amendment and restatement of the Plan will be effective on May 14, 2019. 
+2. Definitions.   In the Plan, except where the context otherwise indicates, the following definitions shall apply: 
+2.1. "Adjustment Event" means an event in which there occurs any change in the outstanding Common Stock by reason of any corporate transaction involving the Company (including, without limitation, any stock dividend, stock split, extraordinary cash dividend, recapitalization, reorganization, split-up, spin-off, combination, or exchange of shares). 
+2.2. "Affiliate" means a corporation, partnership, business trust, limited liability company, or other form of business organization at least a majority of the total combined voting power of all classes of stock or other equity interests of which is owned by the Company, either directly or indirectly, and any other entity designated by the Committee in which the Company has a significant interest. 
+2.3. "Agreement" means an agreement or other document evidencing an Award. An Agreement may be in written or such other form as the Committee may specify in its discretion, and the Committee may, but need not, require a Participant to sign an Agreement. 
+2.4. "Applicable Laws" means the requirements relating to the administration of equity-based awards under U.S. state corporate laws, U.S. federal and state securities laws and regulations, the Code, any stock exchange or quotation system on which Common Stock is listed or quoted and the applicable laws and regulations of any foreign country or jurisdiction where Awards are, or will be, granted under the Plan. 
+2.5. "Award" means a grant of an Option, Restricted Stock, a Restricted Stock Unit, a Performance Award, or an Other Stock-Based Award. 
+2.6. "Board" means the Board of Directors of the Company. 
+2.7. "Code" means the Internal Revenue Code of 1986, as amended. 
+2.8. "Committee" means the Compensation, Nominating and Governance Committee of the Board or such other committee(s), subcommittee(s) or person(s) the Board or an authorized committee of the Board appoints to administer the Plan or to make and/or administer specific Awards hereunder. If no such appointment is in effect at any time, "Committee" shall mean the Board. Notwithstanding the foregoing, "Committee" means the Board for purposes of granting Awards to members of the Board who are not Employees, and administering the Plan with respect to those Awards, unless the Board determines otherwise. 
+2.9. "Common Stock" means the Company's common stock, $.01 par value per share. 
+2.10. "Company" means ArQule, Inc. and any successor thereto. 
+A-1
+TABLE OF CONTENTS
+2.11. "Consultant" means any consultant, independent contractor, or other person who provides significant services to the Company or its Affiliates, but who is neither an Employee nor a Director.
+2.12. "Date of Exercise" means the date on which the Company receives notice of the exercise of an Option in accordance with Section 7. 
+2.13. "Date of Grant" means the date on which an Award is granted under the Plan. 
+2.14. "Designated Beneficiary" means the beneficiary designated by a Participant, in a manner determined by the Committee, to receive amounts due or exercise rights of the Participant in the event of the Participant's death. In the absence of an effective designation of a beneficiary by a Participant, "Designated Beneficiary" shall mean (i) the Participant's estate, if such amounts or rights are, under applicable inheritance laws, deemed to be part of the Participant's estate, or (ii) such person who acquired the right to receive amounts due or exercise rights of the Participant by bequest or inheritance. 
+2.15. "Director" means an individual who is a member of the Board or the board of directors of an Affiliate. 
+2.16. "Eligible Person" means any person who is (a) an Employee, (b) a member of the Board or the board of directors of an Affiliate, or (c) a consultant. 
+2.17. "Employee" means any person who the Committee determines to be an employee of the Company or an Affiliate. A person will not be considered as an Employee under the Plan because such person is deemed to be a "common law" employee of the Company or any Affiliate. 
+2.18. "Exercise Price" means the price per Share at which an Option or SAR may be exercised. 
+2.19. "Fair Market Value" means, as of any date on which the Shares are listed or quoted on a securities exchange or quotation system, and except as otherwise determined by the Committee, the closing sale price of a Share as reported on such securities exchange or quotation system as of the relevant date, and if the Shares are not listed or quoted on a securities exchange or quotation system, then an amount equal to the then fair market value of a Share as determined by the Committee pursuant to a reasonable method adopted in good faith for such purpose. 
+2.20. "Full Value Award" means a Performance Award, Restricted Stock or Restricted Stock Units or any combination thereof and any Other Stock-Based Award (other than an Option or Stock Appreciation Right) under which the Participant receives the entire value of each Share that vests. 
+2.21. "Incentive Stock Option" means an Option that the Committee designates as an incentive stock option under Section 422 of the Code. 
+2.22. "Nonqualified Stock Option" means an Option that is not an Incentive Stock Option. 
+2.23. "Option" means an option to purchase Shares granted pursuant to Section 6. 
+2.24. "Option Period" means the period during which an Option may be exercised. 
+2.25. "Other Stock-Based Award" means an Award of Shares or units that are valued in whole or in part by reference to, or otherwise based on the value of Common Stock, granted pursuant to Section 12. 
+2.26. "Participant" means an Eligible Person who has been granted an Award. 
+2.27. "Performance Award" means a performance award granted pursuant to Section 8. 
+2.28. "Performance Goals" means performance goals that the Committee establishes, which may be based on satisfactory internal or external audits, achievement of balance sheet or income statement objectives, cash flow, customer satisfaction metrics, achievement of customer satisfaction goals, dividend payments, earnings (including before or after taxes, interest, depreciation, and amortization), earnings growth, earnings per share, economic value added, expenses (including sales, general and administrative expenses), improvement of financial ratings, internal rate of return, market share, geographic expansion, net asset value, net income, net operating gross margin, net operating profit 
+A-2
+TABLE OF CONTENTS
+after taxes, net sales growth, operating income, operating margin, comparisons to the performance of other companies, pro forma income, regulatory compliance, business development, collaboration management, pre-clinical and clinical product development, return measures (including return on assets, designated assets, capital, capital employed, equity, or stockholder equity, and return versus the Company's cost of capital), revenues, sales, stock price (including growth measures and total stockholder return), comparison to stock market indices, implementation or completion of one or more projects or transactions (including mergers, acquisitions, dispositions, and restructurings), working capital, or any other objective goals that the Committee establishes. Performance Goals may be absolute in their terms or measured against or in relationship to other companies comparably, similarly or otherwise situated. Performance Goals may be particular to an Eligible Person or the department, branch, Affiliate, or division in which the Eligible Person works, or may be based on the performance of the Company, one or more Affiliates, or the Company and one or more Affiliates and may cover such period as the Committee may specify. 
+2.29. "Performance Shares" means Shares awarded as part of a Performance Award. 
+2.30. "Plan" means this ArQule, Inc. Amended and Restated 2014 Equity Incentives Plan, as amended from time to time. 
+2.31. "Restricted Stock" means Shares granted pursuant to Section 9. 
+2.32. "Restricted Stock Units" means an Award providing for the contingent grant of Shares (or the cash equivalent thereof) pursuant to Section 10. 
+2.33. "Section 422 Employee" means an Employee who is employed by the Company or a "parent corporation" or "subsidiary corporation" (each as defined in Sections 424(e) and (f) of the Code) with respect to the Company, including a "parent corporation" or "subsidiary corporation" that becomes such after adoption of the Plan. 
+2.34. "Share" means a share of Common Stock. 
+2.35. "Stock Appreciation Right" or "SAR" means a right to receive any excess in value of Shares over the exercise price awarded to a Participant under Section 11. 
+2.36. "Ten-Percent Stockholder" means a Section 422 Employee who (applying the rules of Section 424(d) of the Code) owns stock possessing more than ten percent (10%) of the total combined voting power of all classes of stock of the Company or a "parent corporation" or "subsidiary corporation" (each as defined in Sections 424(e) and (f) of the Code) with respect to the Company. 
+2.37. "Transaction" means a merger or consolidation to which the Company is a party or any sale, disposition or exchange of at least 50% of the Company's Common Stock or all or substantially all of the Company's assets for cash, securities or other property, or any other similar transaction or event. 
+Unless the context expressly requires the contrary, references in the Plan to (a) the term "Section" refers to the sections of the Plan, and (b) the word "including" means "including (without limitation)." 
+3. Administration.   The Committee shall administer the Plan and shall have plenary authority, in its discretion, to grant Awards to Eligible Persons, subject to the provisions of the Plan. The Committee shall have plenary authority and discretion, subject to the provisions of the Plan, to determine (i) who is an Employee or a Designated Beneficiary; (ii) the effect on an Award of the disability, death, retirement or other termination of employment of a Participant and the extent to which, and the period during which, the Participant's legal representative, guardian or Designated Beneficiary may receive payment of an Award or exercise rights thereunder; (iii) the Eligible Persons to whom it grants Awards, the terms (which terms need not be identical) of all Awards, including without limitation, the Exercise Price of Options, the time or times at which Awards are granted, the number of Shares covered by Awards, whether an Option shall be an Incentive Stock Option or a Nonqualified Stock Option, any exceptions to non-transferability, any Performance Goals applicable to Awards, any provisions relating to vesting, and the periods during which Options may be exercised and Restricted Stock shall be subject to restrictions. In making these determinations, the Committee may take into account the nature of the services rendered or to be rendered by Award recipients, their present and potential contributions to the success of the Company and its 
+A-3
+TABLE OF CONTENTS
+Affiliates, and such other factors as the Committee in its discretion shall deem relevant. Subject to the provisions of the Plan, the Committee shall have plenary authority and discretion to interpret the Plan and Agreements, prescribe, amend and rescind rules and regulations relating to them, and make all other determinations deemed necessary or advisable for the administration of the Plan and Awards granted hereunder. The determinations of the Committee on the matters referred to in this Section 3 shall be binding and final. The Committee, in its sole discretion and on such terms and conditions as it may provide, may, consistent with the requirements of Applicable Laws, delegate all or any part of its authority and powers under the Plan to one or more members of the Board or officers of the Company, except that the Committee may not delegate all or any part of its authority under the Plan with respect to Awards granted to a nonemployee Director. Notwithstanding the foregoing, with respect to Awards that are intended to qualify as performance-based compensation under Section 162(m) of the Code, the Committee may not delegate its authority and powers with respect to such Awards if such delegation would cause the Awards to fail to so qualify. 
+4. Eligibility.   Awards may be granted only to Eligible Persons, provided that Incentive Stock Options may be granted only to Eligible Persons who are Section 422 Employees. 
+5. Stock Subject to Plan.
+5.1. Subject to adjustment as provided in Section 5.2 or Section 14 or amendment of the Plan pursuant to Section 15, the maximum number of Shares that may be issued pursuant to Awards (including Incentive Stock Options) under the Plan shall equal the sum of  (a) 10,250,000 and (b) any Shares that otherwise would have been returned to the Amended and Restated 1994 Equity Incentive Plan after the Effective Date, on account of the expiration, cancellation or forfeiture of awards granted under the Company's Amended and Restated 1994 Equity Incentive Plan. Shares granted under the Plan may be either authorized but unissued Shares or treasury Shares. 
+5.2. If any Shares subject to an Award under the Plan or an award outstanding under the Company's Amended and Restated 1994 Equity Incentive Plan are forfeited, or any Award or award outstanding under the Company's Amended and Restated 1994 Equity Incentive Plan is settled for cash, the Shares shall, to the extent of such forfeiture or cash settlement, again be available for Awards under the Plan subject to the following sentence. Notwithstanding anything to the contrary contained herein, the following Shares shall not be added to the Shares authorized for grant under this Section: (i) Shares tendered by the Participant or withheld by the Company in payment of the purchase price of an Option, (ii) Shares tendered by the Participant or withheld by the Company to satisfy any tax withholding obligation with respect to an Award, (iii) Shares subject to an SAR settled in Shares for which the Award is exercised (that is, Shares actually issued pursuant to an SAR, as well as the Shares that represent payment of the exercise price) will cease to be available under the Plan. 
+5.3. Subject to adjustment as provided in Section 14, the maximum number of Shares with respect to which an Employee may be granted Awards under the Plan (whether settled in Shares or the cash equivalent thereof) during any calendar year is one million (1,000,000) Shares. The maximum number of Shares with respect to which an Employee has been granted Awards shall be determined in accordance with Section 162(m) of the Code. 
+5.4. Notwithstanding the provisions of Section 5, for any two (2) Shares issued in connection with a Full Value Award, three (3) fewer Shares will be available for issuance in connection with Awards under Section 5.1. 
+5.5. Shares of Common Stock underlying any outstanding stock option or Full Value Award granted under the Amended and Restated 1994 Equity Incentive Plan that, after the Effective Date, expires, or is terminated, surrendered or forfeited, in whole or in part, for any reason without issuance of such Shares shall be available for the grant of new Awards under this Plan. For purposes of Section 5.7, for any two (2) Shares added back in connection with a Full Value Award, three (3) Shares will be available for issuance in connection with Awards under Section 5.1.
+A-4
+TABLE OF CONTENTS
+6. Options.
+6.1. Options granted under the Plan shall be either Incentive Stock Options or Nonqualified Stock Options, as designated by the Committee. Each Option granted under the Plan shall be a Nonqualified Stock Option unless expressly identified as an Incentive Stock Option, and each Option shall be evidenced by an Agreement that specifies the terms and conditions of the Option. Options shall be subject to the terms and conditions set forth in Section 6 and such other terms and conditions not inconsistent with the Plan as the Committee may specify. The Committee, in its discretion, may condition the grant or vesting of an Option upon the achievement of one or more specified Performance Goals. 
+6.2. The Exercise Price of an Option granted under the Plan shall not be less than 100% of the Fair Market Value of a Share on the Date of Grant. Notwithstanding the foregoing, in the case of an Incentive Stock Option granted to an Employee who, on the Date of Grant is a Ten-Percent Stockholder, the Exercise Price shall not be less than 110% of the Fair Market Value of a Share on the Date of Grant. 
+6.3. The Committee shall determine the Option Period for an Option, which shall be specifically set forth in the Agreement, provided that an Option shall not be exercisable after ten years (five years in the case of an Incentive Stock Option granted to an Employee who on the Date of Grant is a Ten-Percent Stockholder) from its Date of Grant. 
+7. Exercise of Options.
+7.1. Subject to the terms of the applicable Agreement, an Option may be exercised, in whole or in part, by delivering to the Company a notice of the exercise, in such form as the Committee may prescribe, accompanied by (a) full payment for the Shares with respect to which the Option is exercised or (b) to the extent provided in the applicable Agreement, irrevocable instructions to a broker to deliver promptly to the Company cash equal to the Exercise Price of the Option. 
+7.2. To the extent provided in the applicable Agreement or otherwise authorized by the Committee, payment of the Exercise Price may be made by delivery (including constructive delivery) of Shares (provided that such Shares, if acquired pursuant to an Option or other Award granted hereunder or under any other compensation plan maintained by the Company or any Affiliate, have been held by the Participant for such period, if any, as the Committee may specify) valued at Fair Market Value on the Date of Exercise. 
+7.3. To the extent provided in the applicable Agreement, an Option may be exercised by directing the Company to withhold from the Shares to be issued upon exercise of the Option (or portion thereof) being exercised a number of Shares having a Fair Market Value not in excess of the aggregate Exercise Price of the Option (or portion thereof being exercised), with payment of the balance of the Exercise Price, if any, being made pursuant to Section 7.1 and/or Section 7.2. 
+8. Performance Awards.   Each Performance Award granted under the Plan shall be evidenced by an Agreement that (a) provides for the payment of cash or issuance of Shares to a Participant contingent upon the attainment of one or more specified Performance Goals over such period as the Committee may specify, and (b) contains such other terms and conditions as the Committee may specify. If the terms of a Performance Award provide for payment in the form of Shares, for purposes of Section 5.3, the Performance Award shall be deemed to cover a number of Shares equal to the maximum number of Shares that may be issued upon payment of the Award. If the terms of a Performance Award provide for payment in the form of cash, the maximum cash amount payable to any Employee pursuant to all Performance Awards granted to an Employee during a calendar year shall not exceed two million dollars $2,000,000. 
+9. Restricted Stock Awards.   Each Award of Restricted Stock under the Plan shall be subject to an Agreement specifying the terms and conditions of the Award. Restricted Stock granted under the Plan shall consist of Shares that are restricted as to transfer, subject to forfeiture, and subject to such other terms and conditions as the Committee may specify. Such terms and conditions may provide, in the discretion of the Committee, for the lapse of such transfer restrictions or forfeiture provisions to be contingent upon the achievement of one or more specified Performance Goals. 
+A-5
+TABLE OF CONTENTS
+10. Restricted Stock Unit Awards.   Each Award of Restricted Stock Units under the Plan shall be evidenced by an Agreement that (a) provides for the issuance of Shares (or the cash equivalent thereof) to a Participant at such time(s) as the Committee may specify and (b) contains such other terms and conditions as the Committee may specify, including terms that condition the issuance, vesting, or payment of Restricted Stock Unit Awards upon the achievement of one or more specified Performance Goals. 
+11. Stock Appreciation Rights.
+11.1. Subject to the provisions of the Plan, the Committee may award SARs in tandem with an Option (at or after the award of the Option), or alone and unrelated to an Option. SARs in tandem with an Option shall terminate to the extent that the related Option is exercised, and the related Option shall terminate to the extent that the tandem SARs are exercised. SARs granted in tandem with Options shall have an Exercise Price not less than the Exercise Price of the related Option. SARs granted alone and unrelated to an Option shall have an Exercise Price not less than the Fair Market Value of a Share on the date of such Award. 
+11.2. Any SAR related to an Option, which SAR can only be exercised upon or during limited periods following a change in control of the Company, may entitle the Participant to receive an amount based upon the highest price paid or offered for Common Stock in any transaction relating to the change in control or paid during the thirty-day period immediately preceding the occurrence of the change in control in any transaction reported in the stock market in which the Common Stock is normally traded. No SAR may be exercised more than ten years from the date of Award. 
+12. Other Stock-Based Awards.   The Committee may in its discretion grant stock-based awards of a type other than those otherwise provided for in the Plan, including the issuance or offer for sale of unrestricted Shares ("Other Stock-Based Awards"). Other Stock-Based Awards shall cover such number of Shares and have such terms and conditions as the Committee shall determine, including terms that condition the payment or vesting of the Other Stock-Based Award upon the achievement of one or more Performance Goals. Shares awarded in connection with Other Stock Awards shall be issued for no cash consideration or such minimum consideration as may be required by Applicable Laws. 
+13. Dividends and Dividend Equivalents.   The terms of an Award may provide a Participant with the right, subject to such terms and conditions as the Committee may specify, to receive dividend payments or dividend equivalent payments with respect to Shares covered by such Award, which payments (a) may be either made currently or credited to an account established for the Participant, (b) may be made contingent upon the achievement of one or more Performance Goals, and (c) may be settled in cash or Shares, as determined by the Committee; provided, however, that any Shares or other securities distributed as a dividend or otherwise with respect to any Restricted Shares as to which the restrictions have not yet lapsed, shall be subject to the same restrictions as those on such Restricted Shares and provided further that for any such Restricted Shares that are part of a Performance Award any such dividends shall be earned by the Participant only to the extent the Performance Goals underlying such are achieved and such Award is earned. 
+14. Capital Events and Adjustments.
+14.1 In the event of an Adjustment Event, the Committee shall provide for a substitution for or adjustment in: (a) the number and class of securities subject to outstanding Awards or the type of consideration to be received upon the exercise or vesting of outstanding Awards, (b) the Exercise Price of Options, (c) the aggregate number and class of Shares for which Awards thereafter may be granted under the Plan, and (d) the maximum number of Shares with respect to which an Employee may be granted Awards during any calendar year. 
+14.2 Any provision of the Plan or any Agreement to the contrary notwithstanding, in the event of a Transaction, the Committee shall take such actions, and make such changes and adjustments to outstanding Awards as it deems equitable, and may in its discretion, cause any Award granted hereunder to (a) vest in whole or in part, (b) be assumed or continued by any successor or acquirer, and/or (c) be canceled (in whole or in part) in consideration of a payment (or payments), in such form as the Committee may specify, equal to the fair value of the canceled Award (or portion thereof), as determined by the Committee in its discretion. The fair value of an Option shall be deemed to be equal 
+A-6
+TABLE OF CONTENTS
+to the product of  (a) the number of Shares the Option covers (and has not previously been exercised) and (b) the excess, if any, of the Fair Market Value of a Share as of the date of cancellation over the Exercise Price of the Option. For sake of clarity and notwithstanding anything to the contrary herein, (a) the fair value of an Option would be zero if the Fair Market Value of a Share is equal to or less than the Exercise Price and (b) payments in cancellation of an Award in connection with a Transaction may be delayed to the same extent that payment of consideration to holders of Shares in connection with the Transaction is delayed as a result of escrows, earn-outs, holdbacks, or any other contingencies. 
+14.3 The Committee need not take the same action under Section 14 with respect to all Awards or with respect to all Participants and may, in its discretion, take different actions with respect to vested and unvested portions of an Award. No fractional shares or securities shall be issued pursuant to any adjustment made pursuant to Section 14, and any fractional shares or securities resulting from any such adjustment shall be eliminated by rounding downward to the next whole share or security, either with or without payment in respect thereof, as determined by the Committee. All determinations required to be made under Section 14 shall be made by the Committee in its discretion and shall be final and binding.
+15. Termination or Amendment.   The Board may amend or terminate the Plan in any respect at any time; provided, however, that after the stockholders of the Company have approved the Plan, the Board shall not amend or terminate the Plan without approval of  (a) the Company's stockholders to the extent Applicable Laws require stockholder approval of the amendment or termination, and (b) each affected Participant if the amendment or termination would adversely affect the Participant's rights or obligations under any Award granted prior to the date of the amendment or termination. 
+16. Modification, Substitution of Awards.
+16.1. Subject to the terms and conditions of the Plan, the Committee may modify the terms of any outstanding Awards; provided, however, that (a) no modification of an Award shall, without the consent of the Participant, alter or impair any of the Participant's rights or obligations under such Award, and (b) except as approved by the Company's stockholders pursuant to Section 17, or in connection with an Adjustment Event, the Committee may not modify the terms of outstanding Awards to reduce the Exercise Price of outstanding Options or SARs or cancel outstanding Options or SARS in exchange for cash, other Awards or Options or SARs with an exercise price that is less than the exercise price of the original Options or SARs. 
+16.2. Anything contained herein to the contrary notwithstanding, Awards may, in the discretion of the Committee, be granted under the Plan in substitution for stock options and other awards covering capital stock of another corporation which is merged into, consolidated with, or all or a substantial portion of the property or stock of which is acquired by, the Company or an Affiliate. The terms and conditions of the substitute Awards so granted may vary from the terms and conditions set forth in the Plan to such extent as the Committee may deem appropriate in order to conform, in whole or part, to the provisions of the awards in substitution for which they are granted. Such substitute Awards shall not be counted toward the Share limit imposed by Section 5.3, except to the extent the Committee determines that counting such Awards is required in order for Awards granted hereunder to be eligible to qualify as "performance-based compensation" within the meaning of Section 162(m) of the Code. 
+17. Stockholder Approval.   The Plan, and any amendments hereto requiring stockholder approval pursuant to Section 15 are subject to approval by vote of the stockholders of the Company at the next annual or special meeting of stockholders following adoption by the Board. If the adoption of the Plan is not so approved by the Company's stockholders, any Awards granted under the Plan shall be cancelled and void ab initio immediately following such next annual or special meeting of stockholders. 
+18. Withholding.   The Company's obligation to issue or deliver Shares or pay any amount pursuant to the terms of any Award granted hereunder shall be subject to satisfaction of applicable federal, state, local, and foreign tax withholding requirements. To the extent authorized by the Committee, and in accordance with such rules as the Committee may prescribe, a Participant may satisfy any withholding tax requirements by one or any combination of the following means: (a) tendering a cash payment, (b) authorizing the Company to withhold Shares otherwise issuable to the Participant, or (c) delivering to the Company already-owned and unencumbered Shares. 
+A-7
+TABLE OF CONTENTS
+19. Term of Plan.   Unless sooner terminated by the Board pursuant to Section 15, the Plan shall terminate on the date that is ten (10) years after the Effective Date, and no Awards may be granted or awarded after such date. The termination of the Plan shall not affect the validity of any Award outstanding on the date of termination. 
+20. Indemnification of Committee.   In addition to such other rights of indemnification as they may have as members of the Board or Committee, the Company shall indemnify members of the Committee against all reasonable expenses, including attorneys' fees, actually and reasonably incurred in connection with the defense of any action, suit or proceeding, or in connection with any appeal therein, to which they or any of them may be a party by reason of any action taken or failure to act under or in connection with the Plan or any Award granted hereunder, and against all amounts reasonably paid by them in settlement thereof or paid by them in satisfaction of a judgment in any such action, suit or proceeding, if such members acted in good faith and in a manner which they believed to be in, and not opposed to, the best interests of the Company. 
+21. General Provisions.
+21.1. The establishment of the Plan shall not confer upon any Eligible Person any legal or equitable right against the Company, any Affiliate or the Committee, except as expressly provided in the Plan. Participation in the Plan shall not give an Eligible Person any right to be retained in the service of the Company or any Affiliate. 
+21.2. Neither the adoption of the Plan nor its submission to the Company's stockholders shall be taken to impose any limitations on the powers of the Company or its Affiliates to issue, grant or assume options, warrants, rights, restricted stock or other awards otherwise than under the Plan, or to adopt other stock option, restricted stock, or other plans, or to impose any requirement of stockholder approval upon the same. 
+21.3. The interests of any Eligible Person under the Plan and/or any Award granted hereunder are not subject to the claims of creditors and may not, in any way, be transferred, assigned, alienated or encumbered except to the extent provided in an Agreement. 
+21.4. The Plan shall be governed, construed and administered in accordance with the laws of the State of Delaware without giving effect to conflict of laws principles. 
+21.5. Notwithstanding any other provision of the Plan or any Agreement to the contrary, Awards and any Shares issued or payments made under Awards shall be subject to any compensation claw-back or recoupment policy (or policies) that the Company may have in effect from time to time, subject to such terms and conditions of such policy (or policies). 
+21.6. The Committee may require each person acquiring Shares pursuant to Awards granted hereunder to represent to and agree with the Company in writing that such person is acquiring the Shares without a view to distribution thereof. The certificates for such Shares may include any legend which the Committee deems appropriate to reflect any restrictions on transfer. All certificates for Shares issued pursuant to the Plan shall be subject to such stock transfer orders and other restrictions as the Committee may deem advisable under Applicable Laws. The Committee may place a legend or legends on any such certificates to make appropriate reference to such restrictions. 
+21.7. The Company shall not be required to issue any certificate or certificates for Shares with respect to Awards granted under the Plan, or record any person as a holder of record of Shares, without obtaining, to the complete satisfaction of the Committee, the approval of all regulatory bodies the Committee deems necessary, and without complying to the Board's or Committee's complete satisfaction, with all Applicable Laws. 
+21.8. To the extent that the Plan provides for issuance of stock certificates to reflect the issuance of Shares, the issuance may be given effect on a non-certificated basis, to the extent not prohibited by Applicable Laws. No fractional Shares shall be issued or delivered pursuant to the Plan or any Award. The Committee shall determine whether cash, other Awards, or other property shall be issued or paid in lieu of any fractional Shares or whether any fractional Shares or any rights thereto shall be forfeited or otherwise eliminated. 
+A-8
+TABLE OF CONTENTS
+21.9. Each type of Award may be made alone, in addition to or in relation to any other type of Award. The terms of each type of Award need not be identical, and the Committee need not treat Participants uniformly. Except as otherwise provided by the Plan or a particular Award, any determination with respect to an Award may be made by the Committee at the time of award or at any time thereafter. 
+21.10. Except as specifically provided herein or in the provisions of the applicable Award, no Participant or Designated Beneficiary shall have any rights as a stockholder with respect to any Shares to be distributed under the Plan until he or she becomes the holder thereof. A Participant to whom Common Stock is awarded shall be considered the holder of the Share at the time of the Award except as otherwise provided in the applicable Award. 
+21.11. Awards granted under this Plan are intended to comply with the requirements of Section 409A of the Code (including the exceptions thereto), to the extent applicable, and shall be interpreted in accordance with such requirements. Notwithstanding anything to the contrary herein, if the issuance of shares or payment of cash under an Agreement constitutes the payment to a Participant of nonqualified deferred compensation for purposes of Section 409A of the Code and the Participant is a "specified employee" (as determined under Treas. Reg. §1.409A-1(i)), then such issuance of Shares or payment of cash shall, to the extent necessary to comply with the requirements of Section 409A of the Code, be made on the later of   (a) the date specified in the Agreement or (b) the date that is six (6) months after the date of the Participant's separation from service (or, if earlier, the date of the Participant's death). In no event shall the Company or any of its Affiliates have any liability to any Participant with respect to any Award failing to qualify for any specific tax treatment (such as an Option designated as an incentive stock option failing to qualify for treatment as an incentive stock option under Section 422 of the Code) or for any taxes or penalties incurred by a Participant under Section 409A of the Code with respect to any Award. The Committee may grant Awards that qualify as performance-based compensation under Section 162(m) and awards that do not so qualify. 
+The Board of Directors amended this Plan on March 6, 2018 to increase the number of authorized shares of Common Stock available for issuance hereunder by 3,750,000 and stockholders approved the amendment on May 8, 2018. The Board of Directors amended and restated this Plan on March 12, 2019 to increase the number of authorized shares of Common Stock available for issuance hereunder by 2,750,000. 
+A-9
+TABLE OF CONTENTS
+TABLE OF CONTENTS

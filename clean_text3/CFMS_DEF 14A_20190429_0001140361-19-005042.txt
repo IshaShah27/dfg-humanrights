@@ -1,0 +1,145 @@
+
+[BEGIN TABLE]
+ Conformis, Inc.  
+ (Name of Registrant as Specified In Its Charter)  
+ (Name of Person(s) Filing Proxy Statement, if other than the Registrant)  
+[END TABLE]
+[BEGIN TABLE]
+ (1)   Title of each class of securities to which transaction applies:  
+ (2)   Aggregate number of securities to which transaction applies:  
+ (3)   Per unit price or other underlying value of transaction computed pursuant to Exchange Act Rule 0-11 (set forth the amount on which the filing fee is calculated and state how it was determined):  
+ (4)   Proposed maximum aggregate value of transaction:  
+ (5)   Total fee paid:  
+[END TABLE]
+[BEGIN TABLE]
+ (1)   Amount Previously Paid:  
+ (2)   Form, Schedule or Registration Statement No.:  
+ (3)   Filing Party:  
+ (4)   Date Filed:  
+[END TABLE]
+[BEGIN TABLE]
+Information About the Annual Meeting and Voting   1   
+Votes Required   2   
+CORPORATE GOVERNANCE   4   
+Board of Directors   4   
+Board Committees   8   
+Compensation Committee Interlocks and Insider Participation   9   
+Board Meetings and Attendance   9   
+Board Processes   10   
+Board Policies   11   
+EXECUTIVE OFFICERS   15   
+EXECUTIVE COMPENSATION   15   
+Summary Compensation Table   16   
+Narrative Disclosure to Summary Compensation Table   16   
+Outstanding Equity Awards at Year End   19   
+Agreements with Named Executive Officers   20   
+Stock Option and Other Compensation Plans   24   
+401(k) Plan   28   
+Securities Authorized for Issuance under Equity Compensation Plans   28   
+DIRECTOR COMPENSATION   29   
+Summary Compensation Table   29   
+Director Compensation Arrangements   30   
+AUDIT-RELATED MATTERS   31   
+Audit Committee Report   31   
+Audit Fees and Services   31   
+Pre-Approval Policies and Procedures   31   
+MATTERS TO BE VOTED ON   32   
+Proposal 1: Election of Class I Directors   32   
+Proposal 2: To Approve the 2019 Sales Team Performance-Based Equity Incentive Plan   32   
+Proposal 3: To Ratify the Selection of Grant Thornton LLP as Conformis' Independent Registered Public Accounting Firm for the Fiscal Year Ending December 31, 2019   41   
+OWNERSHIP OF COMMON STOCK   42   
+Section 16(a) Beneficial Ownership Reporting Compliance   44   
+OTHER MATTERS   45   
+Solicitation of Proxies   45   
+Householding of Annual Meeting Materials   45   
+Deadline for Submission of Stockholder Proposals for 2020 Annual Meeting of Stockholders   45   
+[END TABLE]
+  3
+[BEGIN TABLE]
+ Name   Age   Position(s)  
+ Mark A. Augusti   53   President and Chief Executive Officer and Director  
+ Carrie Bienkowski   47   Director  
+ Kenneth Fallon III(2)(3)   79   Director and Chairman of the Board of Directors  
+ Philip W. Johnston(3)   73   Director  
+ Bradley Langdale(1)(2)   53   Director  
+ Richard Meelia(1)(2)   69   Director  
+ Michael Milligan(1)(3)   54   Director  
+[END TABLE]
+          14
+[BEGIN TABLE]
+ Name   Age   Position(s)  
+ Mark Augusti   53   President and Chief Executive Officer and Director  
+ Paul Weiner   54   Chief Financial Officer and Treasurer  
+ Patricia A. Davis   53   Chief Legal Officer, General Counsel and Corporate Secretary  
+[END TABLE]
+[BEGIN TABLE]
+Name and principal position Year Salary ($) Bonus ($)(1) Stock Awards ($)(2) Option Awards ($)(2) Non-equity Incentive Plan Compensation ($) All Other Compensation($)(3) Total ($) 
+Mark Augusti(4) President and Chief  Executive Officer    2018     535,600     124,045     461,458     0     0     110,438 (5)    1,231,541   
+  2017     520,000     120,156     838,570     486,635     0     112,718 (6)    2,078,079   
+Paul Weiner Chief Financial Officer  and Treasurer    2018     362,351     55,947     230,729     0     0           649,027   
+  2017     350,097     53,930     359,615     243,317     0           1,006,959   
+Patricia Davis(7) Chief Legal Officer,  General Counsel  and Secretary    2018     268,750 (9)    33,196     203,413     95,167     0           600,526   
+[END TABLE]
+  18
+[BEGIN TABLE]
+  Option Awards Stock Awards 
+Name Number of Securities Underlying Unexercised Options(#) Exercisable Number of Securities Underlying Unexercised Options (#) Unexercisable Option Exercise Price ($) Option Expiration Date Number of Shares or Units of Stock That Have Not Vested (#) Market Value of Shares or Units of Stock That Have Not Vested ($)(12) 
+Mark Augusti President and Chief Executive Officer    89,581     89,597 (1)    8.78     12/2/2026     22,375 (2)    8,010 (2)  
+  75,253     114,861 (3)    5.10     5/15/2027     71,702 (4)    25,669 (4)  
+                          75,000 (5)    26,850 (5)  
+                          331,984 (6)    118,850 (6)  
+Paul Weiner  Chief Financial Officer    237,958     —     8.96 (7)    8/3/2024     2,720 (8)    974 (8)  
+  37,625     57,431 (3)    5.10     5/15/2027     13,889 (9)    4,972 (9)  
+                          35,851 (4)    12,835 (4)  
+                          24,750 (5)    8,861 (5)  
+                            165,992 (6)    59,425 (6)  
+Patricia Davis  Chief Legal Officer    —     132,065 (10)    1.35     3/14/2028     70,561 (11)    25,261 (11)  
+                          95,602 (6)    27,856 (6)  
+[END TABLE]
+        27
+[BEGIN TABLE]
+Plan category Number of securities to be issued upon exercise of outstanding options, warrants and rights Weighted-average exercise price of outstanding options, warrant and rights Number of securities remaining available for future issuance under equity compensation plans (excluding securities reflected in column (a)) 
+  (a) (b) (c) 
+Equity compensation plans approved by security holders   2,876,199   $ 6.57     1,572,828   
+Equity compensation plans not approved by security holders   —     —     —   
+Total   2,876,199   $ 6.57     1,572,828   
+[END TABLE]
+[BEGIN TABLE]
+Name Fees Earned or Paid in Cash ($) Stock Awards($)(3) Total ($) 
+Carrie Bienkowski(1)   16,667     81,230 (4)    97,897   
+Kenneth Fallon III   114,997     63,451 (5)    178,448   
+Philip W. Johnston   53,376     63,451 (6)    116,827   
+Bradley Langdale   81,000     63,451 (7)    144,451   
+Richard Meelia   67,081     63,451 (8)    130,531   
+Michael Milligan(2)   —     —     —   
+[END TABLE]
+ 30
+[BEGIN TABLE]
+Fee Category 2018 2017 
+Audit Fees(1) $ 426,133   $ 612,324   
+Audit-Related Fees(2)   —     —   
+Tax Fees(3)   48,336     28,090   
+All Other Fees(4)   4,900     11,619   
+Total Fees $ 479,369   $ 652,033   
+[END TABLE]
+[BEGIN TABLE]
+Name and Address of beneficial owner Number of  shares  beneficially  owned Percentage of  shares  beneficially  owned 
+5% Stockholders Archon Capital Management LLC(1) Constantinos Christofilis Strategos Fund L.P. 1100 19th Avenue E Seattle, WA 98112   8,170,455     12.03% 
+Renaissance Technologies LLC(2) Renaissance Technologies Holdings Corporation 800 Third Avenue New York, NY 10022   3,656,246     5.38% 
+aeris CAPITAL Archer L.P.(3) c/o Avalon Trust & Corporate Services, Ltd. Landmark Sq, 1st Floor 64 Earth Close, PO Box 715 Grand Cayman, KY1-1107, Cayman Islands SGR Sagittarius Holding AG Brügglistrasse 2 8852 Altendorf, Switzerland   3,392,626     5.00% 
+[END TABLE]
+[BEGIN TABLE]
+Name and Address of beneficial owner Number of  shares  beneficially  owned Percentage of  shares  beneficially  owned 
+Named Executive Officers and Directors              
+Mark Augusti(4)   363,755         
+Paul Weiner(5)   418,274       * 
+Patricia Davis(6)   69,344       * 
+Carrie Bienkowski   —     —   
+Kenneth Fallon III(7)   187,403       * 
+Philip Johnston(8)   45,648       * 
+Brad Langdale(9)   179,452       * 
+Richard Meelia(10)   93,569       * 
+Michael Milligan(11)   937,500     1.38% 
+    4,549,612     3.38% 
+[END TABLE]
+   A- A- A- A- A- A- A- A- A- A- A-  

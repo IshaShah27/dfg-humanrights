@@ -1,0 +1,557 @@
+ 
+Table of Contents
+SECURITIES AND EXCHANGE COMMISSION
+Washington, D.C. 20549
+SCHEDULE 14A INFORMATION
+Proxy Statement Pursuant to Section 14(a) of the Securities Exchange Act of 1934
+Filed by the Registrant [x]
+Filed by a party other than the Registrant [ ]
+Check the appropriate box:
+[BEGIN TABLE]
+ [  ]   Preliminary Proxy Statement  
+ [  ]   Confidential, For Use of the Commission Only (as permitted by Rule 14a-6(e)(2))  
+ [x]   Definitive Proxy Statement  
+ [  ]   Definitive Additional Materials  
+ [  ]   Soliciting Material under Rule14a-12  
+[END TABLE]
+AMES NATIONAL CORPORATION
+(Name of Registrant as Specified In Its Charter)
+____________________________________________
+(Name of Person(s) Filing Proxy Statement if Other Than the Registrant)
+Payment of Filing Fee (Check the appropriate box):
+[BEGIN TABLE]
+ [x]   No fee required.  
+ [  ]   Fee computed on table below per Exchange Act Rules 14a-6(i)(1) and 0-11.  
+[END TABLE]
+(1)     Title of each class of securities to which transaction applies:
+(2)     Aggregate number of securities to which transaction applies:
+(3)     Per unit price or other underlying value of transaction computed pursuant to Exchange Act Rule 0-11 (Set forth the amount on which the filing fee is calculated and state how it was determined):
+(4)     Proposed maximum aggregate value of transaction:
+(5)     Total fee paid:
+[BEGIN TABLE]
+ [  ]   Fee paid previously with preliminary materials.  
+ [  ]   Check box if any part of the fee is offset as provided by Exchange Act Rule 0-11(a)(2) and identify the filing for which the offsetting fee was paid previously. Identify the previous filing by registration statement number, or the Form or Schedule and the date of its filing.  
+[END TABLE]
+(1) Amount Previously Paid:
+(2) Form, Schedule or Registration Statement No.:
+(3) Filing Party:
+(4) Date Filed:
+March 14, 2019
+Dear Shareholder:
+You are cordially invited to attend the 2019 Annual Meeting of Shareholders of Ames National Corporation ("Company") to be held Tuesday, April 23, 2019, at Reiman Gardens, 1407 University Boulevard, Ames, Iowa. Registration begins at 4:00 p.m., with the Annual Meeting to commence at 4:30 p.m.
+In connection with the Annual Meeting, we have prepared a Notice of Annual Meeting of Shareholders, a Proxy Statement and our 2018 Annual Report on Form 10-K. On or about March 14, 2019, we began mailing to our shareholders a Notice of Internet Availability of Proxy Materials containing instructions on how to access these materials online at the Company's website.
+Two proposals will be voted upon at the Annual Meeting, consisting of the election of directors and the ratification of the appointment of CliftonLarsonAllen LLP as the Company's independent registered public accounting firm for 2019.
+The Board of Directors of the Company presently consists of eleven directors. Three of the current directors, whose terms of service will expire at the Annual Meeting, have been nominated by the Board of Directors to stand for re-election to a three-year term. One director will not stand for re-election as he has reached mandatory retirement age for directors established by Company policy. One individual who has not previously served as director has been nominated for election to a three-year term at the Annual Meeting. Consequently, you will be asked to vote on the election of four members of the Board of Directors.
+The Annual Meeting will also provide management with the opportunity to report on the operations and activities of the Company and will give shareholders time to ask questions.
+Your vote is important regardless of the number of shares you own. Whether or not you plan to attend the Annual Meeting, the Board of Directors encourages you to submit your proxy via the Internet or to mark, sign and return the proxy card if you have requested to receive printed annual meeting information the Company will be mailing on or around March 14, 2019. If you submit your proxy via the Internet, the web address is www.amesnational.com and you should use the identification numbers indicated on the Notice of Internet Availability of Proxy Materials. Submitting your proxy via the Internet or returning the proxy card will not prevent you from voting in person at the Annual Meeting, but will assure that your vote is counted if you are unable to attend.
+On behalf of the Boards of Directors, officers and staff of Ames National Corporation, Boone Bank & Trust Co., First National Bank, Reliance State Bank, State Bank & Trust Co. and United Bank & Trust NA, we thank you for your continued support and look forward to visiting with you at the Annual Meeting.
+Sincerely,
+Thomas H. Pohlman
+Chairman
+AMES NATIONAL CORPORATION
+405 5th Street
+Ames, Iowa 50010
+NOTICE OF ANNUAL MEETING OF SHAREHOLDERS
+April 23, 2019
+NOTICE IS HEREBY GIVEN that the Annual Meeting of Shareholders of Ames National Corporation, an Iowa corporation (the "Company"), will be held on Tuesday, April 23, 2019, at 4:30 p.m., local time, at Reiman Gardens, 1407 University Boulevard, Ames, Iowa, and at any adjournment or postponement thereof (the "Meeting"), for the following purposes:
+[BEGIN TABLE]
+   1.   To elect four members of the Board of Directors who will serve for a three-year term.  
+[END TABLE]
+[BEGIN TABLE]
+   2.   To ratify the appointment of CliftonLarsonAllen LLP as the Company's independent registered public accounting firm for 2019.  
+[END TABLE]
+[BEGIN TABLE]
+   3.   To consider such other business as may properly be brought before the Meeting.  
+[END TABLE]
+Important Notice Regarding the Internet Availability of
+Proxy Materials for the Meeting to be held on April 23, 2019
+The Company is mailing to its shareholders a Notice of Internet Availability of Proxy Materials ("Notice of Availability"), rather than mailing a paper copy of the proxy materials. The Notice of Availability contains instructions on how to access the proxy materials on the Internet, as well as instructions for obtaining a paper copy. Any shareholder who requests to receive a paper copy of the proxy materials will receive a full set of paper proxy materials without charge by U.S. mail. Internet availability of proxy materials will reduce the Company's costs to print and distribute its proxy materials.
+You may vote if you are a shareholder of record on February 28, 2019. It is important that your shares be represented and voted at the Meeting. The Board of Directors recommends that you vote your shares in the manner described in the Proxy Statement. Please vote in one of the following ways:
+[BEGIN TABLE]
+• VISIT WWW.AMESNATIONAL.COM TO VIEW THE PROXY MATERIALS AND VOTE VIA THE INTERNET, using the identification numbers indicated on the Notice of Availability or proxy card mailed to you;  
+[END TABLE]
+[BEGIN TABLE]
+• MARK, SIGN, DATE AND PROMPTLY RETURN THE PROXY CARD if you have requested to receive a paper copy of the proxy materials; or  
+[END TABLE]
+[BEGIN TABLE]
+• VOTE BY WRITTEN BALLOT at the Meeting.  
+[END TABLE]
+TABLE OF CONTENTS
+[BEGIN TABLE]
+ GENERAL INFORMATION ABOUT THE MEETING AND VOTING  1 
+ CORPORATE GOVERNANCE    
+ Board of Directors  7 
+ Director Independence  8 
+ Meetings  8 
+ Board Committees  8 
+ Nominations for Directors  9 
+ Leadership Structure  10 
+ Risk Oversight  10 
+ Shareholder Communications  11 
+ Director Attendance at Annual Meetings  11 
+ Director Compensation for 2018  11 
+ PROPOSALS TO BE VOTED ON AT MEETING    
+ Proposal 1 – Election of Directors  13 
+ Proposal 2 – Ratification of Appointment of Public Accounting Firm  16 
+ SECURITY OWNERSHIP OF MANAGEMENT AND CERTAIN BENEFICIAL OWNERS    
+ Directors and Named Executive Officers  17 
+ Other Beneficial Owners  19 
+ Section 16(a) Beneficial Ownership Reporting Compliance  19 
+ EXECUTIVE COMPENSATION    
+ Summary Compensation Table for 2018  20 
+ Narrative Discussion of Summary Compensation Table  21 
+ LOANS TO DIRECTORS AND EXECUTIVE OFFICERS AND RELATED PARTY TRANSACTIONS  25 
+ REPORT OF THE AUDIT COMMITTEE  26 
+ RELATIONSHIP WITH INDEPENDENT REGISTERED PUBLIC ACCOUNTING FIRM  27 
+ PROPOSALS BY SHAREHOLDERS  28 
+ AVAILABILITY OF FORM 10-K REPORT  28 
+ OTHER MATTERS  28 
+[END TABLE]
+AMES NATIONAL CORPORATION
+405 5th Street
+Ames, Iowa 50010
+PROXY STATEMENT FOR ANNUAL MEETING OF SHAREHOLDERS
+To Be Held on April 23, 2019
+This Proxy Statement is furnished to the shareholders of Ames National Corporation, an Iowa corporation (the "Company"), in connection with the solicitation of proxies by the Board of Directors of the Company (the "Board") for use at the Annual Meeting of Shareholders to be held Tuesday, April 23, 2019, at 4:30 p.m., local time, at Reiman Gardens, 1407 University Boulevard, Ames, Iowa, and at any adjournment or postponement thereof (the "Meeting"). The Notice of Internet Availability of Proxy Materials ("Notice of Availability") and the Notice of Annual Meeting of Shareholders are being mailed to the shareholders on or about March 14, 2019. If you have requested to receive a paper copy of the proxy materials, those materials (including a proxy card and return envelope) will also be mailed on or about March 14, 2019.
+GENERAL INFORMATION ABOUT THE MEETING AND VOTING
+Why is the Company making these materials available to me?
+The Board is soliciting your proxy to vote at the Meeting because you were a shareholder of record of the Company at the close of business on February 28, 2019 (the "Record Date"). As a shareholder of record on the Record Date, you are entitled to vote at the Meeting. You are invited to attend the Meeting and vote your shares on the proposals described in this Proxy Statement, including the election of directors to the Board.
+What is included in these materials?
+The materials made available to you by the Company include (i) this Proxy Statement containing information about the Meeting, (ii) the Annual Report on Form 10-K for the year ended December 31, 2018, which includes the Company's audited consolidated financial statements, and (iii) a proxy card (if you have requested a paper copy of the proxy materials) that can be completed and returned to the Company by mail to vote your shares. As described below, you may choose to submit your vote through the Internet instead of returning the proxy card by mail.
+Where do I obtain these materials?
+The Company has elected to take advantage of the Securities and Exchange Commission's rule that allows it to furnish proxy materials to you online at its Internet website. The Company believes electronic delivery will expedite shareholders' receipt of materials and lower costs by reducing printing and mailing of paper copies of the materials. On or about March 14, 2019, the Company mailed to its shareholders a Notice of Availability containing instructions on how to access the proxy materials online. You will not receive a paper copy of the proxy materials unless you previously requested the Company to provide you with paper copies of the proxy materials or you specifically request a paper copy for this Meeting by following the instructions in the Notice of Availability.
+How do I receive a paper or electronic copy of the materials?
+If you previously requested the Company to provide you with paper copies of its proxy materials, a paper copy of the proxy materials (including a proxy card) will automatically be mailed to you on or about March 14, 2019. If you have not previously requested paper copies of proxy materials, you can obtain a paper copy of the proxy materials for this Meeting by following the instructions in the Notice of Availability on how to receive a paper copy of the materials through the U.S. mail. You can also request that an electronic copy of the proxy materials be sent to you by email by following the instructions in the Notice of Availability. There is no charge to you for requesting a paper or electronic copy of the proxy materials.
+What information is contained in this Proxy Statement?
+The information included in this Proxy Statement relates to the proposals to be voted on at the Meeting, the voting process, the Company's corporate governance, the compensation of directors and executive officers and certain other required information.
+What am I being requested to vote on at the Meeting?
+There are two proposals to be voted on at the Meeting:
+[BEGIN TABLE]
+● Proposal 1 - To elect four directors to the Board, with each director to serve for a three-year term. The nominees are David W. Benson, John P. Nelson and Kevin L. Swartz, each of whom is currently serving as a director of the Company and is standing for re-election to the Board, and Michelle R. Cassabaum, who has not previously served as a director.  
+[END TABLE]
+[BEGIN TABLE]
+● Proposal 2 - To ratify the appointment of CliftonLarsonAllen LLP as the Company's independent registered public accounting firm for 2019. CliftonLarsonAllen LLP was appointed by the Audit Committee of the Board, and the Board is requesting that the shareholders ratify this appointment.  
+[END TABLE]
+What are my choices when voting?
+Depending on the proposal, you have a choice when voting as follows:
+[BEGIN TABLE]
+● Proposal 1 - With respect to the election of directors, your vote may be cast "FOR" one or more of the nominees or your vote may be "VOTE WITHHELD" with respect to one or more of the nominees.  
+[END TABLE]
+[BEGIN TABLE]
+● Proposal 2 – With respect to the ratification of the appointment of the independent registered public accounting firm, your vote may be cast "FOR" or "AGAINST" such proposal, or you may choose to "ABSTAIN" from voting on the proposal.  
+[END TABLE]
+Does the Board have a recommendation for voting?
+The Board unanimously recommends you vote your shares as follows:
+[BEGIN TABLE]
+● Proposal 1 - "FOR" each of the persons nominated for election to the Board.  
+[END TABLE]
+[BEGIN TABLE]
+● Proposal 2 - "FOR" ratification of the appointment of the Company's independent registered public accounting firm.  
+[END TABLE]
+What are the voting requirements for the proposals at the Meeting?
+The vote required to approve each of the proposals to be acted on at the Meeting is set forth below for each proposal under the heading "PROPOSALS TO BE VOTED ON AT MEETING."
+What is the quorum requirement for the Meeting?
+A majority of the outstanding shares of the Company's common stock (the "Common Stock"), present at the Meeting, in person or represented by proxy, constitutes a quorum for the Meeting. On the Record Date there were 9,242,822 shares of Common Stock outstanding, all of which will be entitled to vote at the Meeting. Shares represented at the Meeting which abstain from voting on any proposal will be counted toward determining the presence of a quorum. Proxies containing broker non-votes will also be counted toward determining the presence of a quorum (see "What is the effect of broker non-votes?" below).
+What shares can I vote?
+You are entitled to cast one vote for each share of Common Stock you owned on the Record Date. These include shares held directly in your name as a shareholder of record and shares held for you as a beneficial owner through a stockbroker, bank or other nominee.
+What is the difference between holding shares as a shareholder of record and as a beneficial owner?
+Many shareholders of the Company hold their shares through a stockbroker, bank or other nominee rather than directly in their own name. As described below, there are some differences between shares held of record and shares beneficially owned when determining how to vote your shares at the Meeting.
+Shareholder of Record
+If your shares are registered directly in your name with the Company's transfer agent, you are considered to be the "shareholder of record" with respect to those shares, and these proxy materials are being made available directly to you by the Company. As the shareholder of record, you have the right to vote in person at the Meeting or to grant your voting proxy directly to the persons named in the proxy card (who will vote your shares on your behalf at the Meeting). You can vote your shares by submitting your proxy via the Internet or, if you have requested a paper copy of the proxy materials, by completing and returning the proxy card as described below under "How can I vote my shares without attending the Meeting?".
+Beneficial Owner
+If your shares are held in a stock brokerage account or by a bank or other nominee, you are considered to be the beneficial owner of shares held in "street name," and these proxy materials are being made available to you by your stockbroker, bank or other nominee who is considered to be the shareholder of record with respect to those shares. Your stockbroker, bank or other nominee has enclosed a voting instruction card for you to use in directing it how to vote your shares and you should complete and return that card as directed by your stockbroker, bank or other nominee. Alternatively, the voting instruction card provided by your stockbroker, bank or other nominee may include instructions on how you can submit your voting instructions via an Internet website or by telephone. As the beneficial owner, you have the right to direct your stockbroker, bank or other nominee on how to vote your shares at the Meeting. As beneficial owner, you are also invited to attend the Meeting. However, since you are not the shareholder of record, you may not vote your shares in person at the Meeting unless you obtain a proxy signed by the shareholder of record of your shares.
+How can I vote my shares in person at the Meeting?
+Shares held directly in your name as the shareholder of record may be voted by you in person at the Meeting. Even if you plan to attend the Meeting, the Company recommends you vote your shares in advance, as described below, so that your vote will be counted if you later decide not to attend the Meeting. Shares held in "street name," of which you are the beneficial owner, may be voted by you in person only if you obtain a signed proxy from the stockbroker, bank or other nominee that is the shareholder of record giving you the right to vote the shares at the Meeting.
+How can I vote my shares without attending the Meeting?
+Shareholder of Record
+If you are the shareholder of record with respect to your shares, you can vote your shares without attending the Meeting by submitting your proxy through either of the following methods:
+● By Internet – You can vote via the Internet at www.amesnational.com. Your identification numbers for Internet voting are on the Notice of Availability, and voting is available 24 hours a day. Those numbers can also be found on your proxy card if you requested a paper copy of the proxy materials.
+● By Mail – Complete, sign and date the proxy card that will be mailed to you if you have requested a paper copy of the proxy materials. Return it to the Company in the postage prepaid envelope that will be included in the mailing.
+If your proxy is submitted via the Internet or mail (and your proxy is not later revoked), your shares will be voted in accordance with your instructions as indicated in the proxy. If, however, you do not indicate the manner in which your shares should be voted in your proxy, your shares will be voted in accordance with the recommendations of the Board as set forth above under "Does the Board have a recommendation for voting?"
+Beneficial Owner
+If you are the beneficial owner of your shares, you can vote your shares without attending the Meeting by following the directions contained in the voting instruction card sent to you by your stockbroker, bank or other nominee. Typically, voting instruction cards allow you to direct the voting of your shares by returning the voting instruction card by mail or by submitting your directions via the Internet or by telephone. Your stockbroker, bank or other nominee is required to vote your shares according to the directions you have given.
+Can I revoke my proxy or change my vote?
+Shareholder of Record
+If you are the shareholder of record of your shares, you may revoke your proxy at any time prior to the vote at the Meeting. Your proxy may be revoked through any of the following methods:
+● By sending a written revocation of your proxy to the attention of the Secretary of the Company at the Company's principal executive office located at P.O. Box 846, 405 5th Street, Ames, IA 50010, Attn: Secretary.
+● By submitting to the Company by mail a signed proxy card bearing a later date.
+● By submitting a new proxy via the Internet.
+● By attending the Meeting in person, requesting your proxy be withdrawn and voting your shares in person. Attendance at the Meeting without voting in person, however, will not serve as a revocation of a proxy.
+Beneficial Owner
+If you are the beneficial owner of your shares, you may revoke or change your voting instructions prior to the Meeting. To do so, you should contact your stockbroker, bank or other nominee who is the shareholder of record of your shares and obtain directions as to how you can revoke or change the voting instructions you have previously given.
+What is the effect of "broker non-votes"?
+If your broker holds your shares in its name and you have not provided voting instructions for your shares, your broker may choose to either leave your shares unvoted or vote your shares on certain "routine" matters on which the broker is deemed to have discretionary voting authority. Of the matters to be voted on at the Meeting, only Proposal 2 (ratifying the appointment of the Company's independent registered public accounting firm) is considered a "routine" matter on which your broker would have discretionary voting authority. Proposal 1 (election of directors), is considered a "non-routine" matter and, without your instructions, your broker cannot vote your shares on this proposal. If your broker returns a proxy card but does not have discretionary authority to vote your shares, this results in a so-called "broker non-vote" with respect to the "non-routine matter". Broker non-votes will be counted as present for the purpose of determining a quorum at the Meeting. However, because brokers do not have discretionary authority to vote on Proposal 1 (election of directors), broker non-votes will not be counted for purposes of determining the number of votes cast on Proposal 1 and will not affect the outcome of the vote on this proposal. Because Proposal 2 (ratification of the appointment of the independent public accounting firm) is considered a "routine" matter, your broker can vote your shares on this proposal even though you have not provided voting instructions for your shares. Since brokers have discretionary authority to vote on Proposal 2, shares voted in this manner will be counted for purposes of determining the number of votes cast on this proposal and will affect the outcome of this vote.
+Who will count the votes?
+The Board has appointed an inspector of election who will be responsible for tabulating the votes by proxy, counting the votes cast in person at the Meeting and announcing the results of voting at the Meeting.
+Who will pay the expenses of soliciting proxies for the Meeting and how will proxies be solicited?
+The Company will pay all expenses associated with soliciting proxies for the Meeting. In addition to making these proxy materials available on-line and mailing a paper copy or emailing an electronic copy of the materials to those shareholders who request them, proxies may be solicited by officers, directors and regular employees of the Company, without extra compensation, by telephone, facsimile, personal contact or electronic means. To assist the Company in limiting its expenses in connection with the Meeting, you are requested to promptly submit your proxy via the Internet or return a signed proxy card by mail, even if you plan to attend the Meeting.
+How can I obtain directions to attend the Meeting?
+The meeting will be held at Reiman Gardens in Ames, Iowa. To obtain directions to this location, please contact Lori Hill at (515) 663-3059.
+CORPORATE GOVERNANCE
+Board of Directors
+The Board currently consists of eleven directors separated into three classes elected on a staggered basis, with each director serving a term of three years. Each director (with the exception of John P. Nelson, President and Chief Executive Officer of the Company; John L. Pierschbacher, Chief Financial Officer of the Company; and Thomas H. Pohlman, Chairman of Board) also serves on one or more of the three standing committees (Audit, Compensation and Nominating) established by the Board. The following table lists each director currently serving on the Board, the director's term of service and the committee(s) to which the director is currently appointed, if any.
+[BEGIN TABLE]
+   Name of Director   Term(1)   Audit Committee   Compensation Committee   Nominating Committee  
+   Name of Director   Term(1)   Audit Committee   Compensation Committee   Nominating Committee  
+   Betty A. Baudler Horras     2020     X         X  
+   Betty A. Baudler Horras     2020     X         X  
+   David W. Benson     2019       X     X  
+   David W. Benson     2019       X     X  
+   Lisa M. Eslinger     2021     X     X      
+   Lisa M. Eslinger     2021     X     X      
+   Steven D. Forth     2021         X     X  
+   Steven D. Forth     2021         X     X  
+   Patrick G. Hagan     2020         X  
+   James R. Larson II     2021     X     X      
+   James R. Larson II     2021     X     X      
+   John P. Nelson     2019        
+   Richard O. Parker     2019             X  
+   Richard O. Parker     2019             X  
+   John L. Pierschbacher     2021        
+   Thomas H. Pohlman     2020              
+   Thomas H. Pohlman     2020              
+   Kevin L. Swartz     2019     X          
+[END TABLE]
+Note:
+[BEGIN TABLE]
+   (1)   A director's term of service expires at the annual meeting of shareholders to be held in the year indicated for each director.  
+[END TABLE]
+Director Independence
+The Common Stock is listed and traded on the NASDAQ Capital Market. The corporate governance rules of the NASDAQ Capital Market require that a majority of the Board consist of directors who are "independent" of the Company. The Board has determined each of the directors and the nominees for director qualify as "independent" under the NASDAQ standards for determining independence, with the exception of Mr. Nelson, Mr. Pierschbacher and Mr. Pohlman who do not qualify as independent directors as a result of their current or past employment relationships with the Company.
+Meetings
+The Board holds regular quarterly meetings and held four such meetings during 2018. The Board also held two special meetings during 2018. During 2018, each director of the Company attended at least 75% of all meetings of the Board and meetings of committees to which such director was appointed.
+Board Committees
+The Board has established an Audit Committee, a Compensation Committee and a Nominating Committee as standing committees of the Board. Additional information is set forth below concerning each of the committees and the directors serving thereon.
+Audit Committee
+The Audit Committee is responsible for oversight of the Company's auditing, accounting, financial reporting and internal control functions and for the appointment, compensation and oversight of the Company's independent accountants. Additionally, the Audit Committee is responsible for monitoring the quality of the Company's accounting policies and financial reporting as well as the independence of the Company's independent accountants. The Audit Committee is also required to preapprove any audit or permissible non-audit services to be provided by the independent accountants and to review and approve any transaction constituting a "related party transaction" under rules adopted by the Securities and Exchange Commission. The Board has adopted a written charter for the Audit Committee, a copy of which may be accessed on the Company's website at www.amesnational.com. A report of the Audit Committee appears in this Proxy Statement. The Audit Committee currently consists of Mr. Larson, who acts as chair, Ms. Baudler Horras, Mr. Swartz and Ms. Eslinger, each of whom qualify as an independent director. Ms. Eslinger has been designated by the Board to serve in the capacity as the "financial expert" for the Audit Committee. The Audit Committee met on four occasions during 2018.
+Compensation Committee
+The Compensation Committee determines and makes recommendations to the Board on all elements of compensation for the executive officers of the Company and certain executive officers of the Company's subsidiary banks (the "Banks"). The Compensation Committee also assists the Board in establishing fees to be paid to the directors of the Company and in determining appropriate employee benefit programs to be provided to eligible employees of the Company and the Banks. The Board has adopted a written charter for the Compensation Committee, a copy of which can be accessed on the Company's website at www.amesnational.com. The Compensation Committee currently consists of Mr. Benson, who acts as chair, Ms. Eslinger, Mr. Larson and Mr. Forth, each of whom qualify as an independent director. The Compensation Committee met on two occasions during 2018.
+Nominating Committee
+The Nominating Committee is responsible for evaluating and recommending to the Board the names of nominees for election as directors. The Nominating Committee also reviews and recommends to the Board the desired characteristics of the composition of the Board, including the number of directors, age, experience and other appropriate attributes. The Board has adopted a written charter for the Nominating Committee, a copy of which may be accessed on the Company's website at www.amesnational.com. The Nominating Committee currently consists of Ms. Baudler Horras, who acts as chair, Mr. Benson, Mr. Forth, Mr. Hagan and Mr. Parker, each of whom qualify as an independent director. The Nominating Committee met once during 2018.
+Nominations for Directors
+The Nominating Committee evaluates and recommends to the Board the names of nominees for election as directors. The Nominating Committee will consider, as part of its nomination process, any nominee submitted by a shareholder of the Company, provided the shareholder has complied with the procedure set forth in the Company's bylaws (the "Bylaws") for the submission of nominees. In order to submit the name of a nominee, a shareholder must provide written notice of such nominee, accompanied by other information concerning the nominee as specified in Section 3.1(c) of the Bylaws, to the Secretary of the Company no less than 120 days prior to the first anniversary of the date of the proxy statement distributed by the Company in connection with the prior year's annual meeting of shareholders. A nomination with respect to the election of directors at the annual meeting of shareholders to be held in 2020 would need to be submitted no later than November 18, 2019. A copy of the relevant provisions of the Bylaws pertaining to nominations may be obtained by contacting the Secretary of the Company or by accessing the Bylaws on the Company's website at www.amesnational.com. A shareholder who has complied with the procedure set forth in the Bylaws for submitting the name of a nominee may nominate such individual at an annual meeting notwithstanding that such individual has not been nominated for election by the Board.
+On an annual basis the Board compiles a list of candidates for submission to the Nominating Committee for its evaluation. As noted above, the list of candidates will include any person nominated by a shareholder in compliance with the nomination procedures set forth in the Bylaws. The Nominating Committee may also identify and evaluate any other person that may come to the attention of the Nominating Committee as a candidate for nomination. The Nominating Committee evaluates each candidate utilizing the minimum qualifications specified in the Nominating Committee Charter and taking into account any other information deemed by the Nominating Committee to be relevant to the evaluation process. The evaluation process for director and shareholder-nominated candidates is applied on a uniform basis. The Nominating Committee may, to the extent it deems appropriate, contact other directors not serving on the Nominating Committee, directors and officers of the Banks and any shareholder nominating an individual, to ensure the necessary information is obtained to properly evaluate the desirability of each candidate. Upon completion of the evaluation process, the Nominating Committee will make its recommendations to the Board based upon the desired composition of the Board, review of minimum qualifications, readily ascertainable strengths and weaknesses of each candidate and other information deemed by the Nominating Committee to be relevant.
+The Nominating Committee Charter identifies the following minimum qualifications under which a candidate will be evaluated: (i) the ability to understand financial affairs and complexities of business organizations; (ii) business experience and community involvement in the market areas in which the Banks conduct their business; (iii) although not required, the prior experience of a candidate as a director of one of the Banks; (iv) reputation for high moral and ethical business standards that will add to the stature of the Board; and (v) compliance with the requirements of the Company's age limitation policies. The age limitation policy provides that a newly-nominated director must be under age 60 (unless the nominee also serves as an executive officer of the Company or a Bank or as a director of a Bank) and that a current director will be eligible for re-election only if such director will not be more than 75 years of age at the end of the term for which the director would be re-elected.
+The Board has not adopted a formal policy with respect to the consideration of diversity in identifying or selecting nominees for election as directors. The Nominating Committee Charter does, however, include the concept of diversity as being a factor the Nominating Committee may wish to consider in making recommendations to the Board with respect to the composition of the Board, although no specific recommendation regarding diversity has been made.
+With respect to the nominees for election as directors at the Meeting, Mr. Benson, Mr. Nelson and Mr. Swartz currently serve as directors of the Company and are standing for re-election, while Ms. Cassabaum has not previously served as a director of the Company. Ms. Cassabaum, who currently serves as a director of one of the Banks, was recommended for nomination by John P. Nelson, President and Chief Executive Officer of the Company.
+Leadership Structure
+During 2017 and 2018, the leadership structure of the Company has been undergoing a transition related to the retirement of the previous Chairman of the Board in 2017 and the announcement by Thomas H. Pohlman, President and Chief Executive Officer, that he would retire in mid-2018. In response, a succession plan was developed by the Board under which Mr. Pohlman was appointed as Chairman of the Board in 2017, with the intent that he would continue in that position after retiring as President and Chief Executive Officer. As a result, during the first six months of 2018, the leadership structure of the Company was combined under Mr. Pohlman who served as both President and Chief Executive Officer and as Chairman of the Board pending completion of the succession plan. Effective June 29, 2018, John P. Nelson was appointed President and Chief Executive Officer and the leadership structure became separated between Mr. Nelson and Mr. Pohlman, who continued serving as Chairman of the Board following his retirement as President and Chief Executive Officer on June 29, 2018. The separation of these leadership positions is consistent with the Company's past practice and the Board's belief that separating these positions is a sound corporate governance practice. During the period of time that the leadership positions were combined in Mr. Pohlman, the Board had appointed Betty A. Baudler-Horras to serve as the lead independent director who was responsible, among other things, for chairing executive sessions of the independent directors, chairing meetings in the absence of the Chairman of the Board, and consulting and meeting with independent directors for discussions with management on corporate governance issues and other matters.
+Risk Oversight
+Risk is inherent with every business, and how well a business manages risk can ultimately determine its success. The Company faces a number of risks, including general economic risks, credit risks, regulatory risks, audit risks, reputational risks and others, such as interest rate risk or the impact of competition. Management is responsible for the day-to-day management of risks the Company faces, while the Board, as a whole and through its committees, has responsibility for the oversight of risk management. In its risk oversight role, the Board has the responsibility to satisfy itself that the risk management processes designed and implemented by management are adequate and functioning as designed.
+While the full Board is charged with ultimate oversight responsibility for risk management, various committees of the Board and members of management also have responsibilities with respect to the Company's risk oversight. In particular, the Audit Committee plays a large role in monitoring and assessing the Company's financial, legal and organizational risks, and receives quarterly reports from the Chief Financial Officer regarding organizational risk as well as particular areas of concern. The Compensation Committee monitors and assesses the various risks associated with compensation policies, and oversees incentive plans to ensure a reasonable and manageable level of risk-taking consistent with the Company's overall strategy. Additionally, the Directors and Officers Loan Committees at the Bank level are directly responsible for overseeing the Banks' credit risk.
+The Board believes that establishing the right "tone at the top" and providing for full and open communication between management and the Board are essential for effective risk management and oversight. Members of the Company's executive management team meet regularly with other senior officers to discuss strategy and risks facing the Company. Senior officers attend many of the Board meetings or, if not in attendance, are available to address any questions or concerns raised by the Board on risk management-related and any other matters.
+Shareholder Communications
+The Board has adopted a process whereby a shareholder may direct written communications to the Board. A shareholder desiring to communicate with the Board may send a written communication addressed to the Board and directed, if by e-mail, to info@amesnational.com with Attention: "Board of Directors" in the subject line or, if sent by regular mail, addressed to Ames National Corporation, P.O. Box 846, 405 5th Street, Ames, Iowa 50010, Attention: Board of Directors. Upon receipt of a written communication from a shareholder addressed to the Board in a manner described above, the communication will be reviewed by the Chairman and President of the Company for purposes of determining whether the communication raises an issue of appropriate concern to the Board. Communications raising issues of appropriate concern will be forwarded to each member of the Board for consideration by the Board as a whole. All written communications directed to the Board and submitted in the manner prescribed by the process will, regardless of whether such communication is ultimately submitted to the Board, receive a written response from the Chairman of the Company.
+Director Attendance at Annual Meetings
+The Board has adopted a policy providing that each member of the Board shall use his or her reasonable efforts to attend each annual meeting of shareholders of the Company, giving appropriate consideration to the business and travel schedule of the director. Each person who was serving as a director of the Company at the time of the 2018 annual meeting of shareholders attended such meeting.
+Director Compensation for 2018
+Compensation paid to the non-employee directors of the Company is determined on an annual basis by the Board upon recommendation of the Compensation Committee. Each year, the President of the Company develops a recommendation to the Compensation Committee with respect to fees to be paid to the non-employee directors of the Company for attendance at meetings of the Board and of committees of the Board and fees to be paid to members of the boards of directors of the Banks for board and committee meetings. The recommendation is provided to the Compensation Committee which, in turn, reviews and makes its recommendation to the Board with respect to director fees to be paid for the year.
+The following table provides information concerning all compensation paid to each director during 2018 for services as a member of the Board and, to the extent applicable, for services as a member of the board of directors of one of the Banks.
+[BEGIN TABLE]
+     Name   Fees Earned or Paid in  Cash(1) ($)  
+     Name   Fees Earned or Paid in  Cash(1) ($)  
+     Name   Fees Earned or Paid in  Cash(1) ($)  
+     Name   Fees Earned or Paid in  Cash(1) ($)  
+   Betty A. Baudler Horras     $28,200  
+   Betty A. Baudler Horras     $28,200  
+   David W. Benson     $28,060  
+   David W. Benson     $28,060  
+   Lisa M. Eslinger     $28,280  
+   Lisa M. Eslinger     $28,280  
+   Steven D. Forth     $23,340  
+   Steven D. Forth     $23,340  
+   Patrick G. Hagan     $22,430  
+   Patrick G. Hagan     $22,430  
+   James R. Larson II     $29,360  
+   James R. Larson II     $29,360  
+   John P. Nelson     None  
+   John P. Nelson     None  
+   Richard O. Parker     $22,530  
+   Richard O. Parker     $22,530  
+   John L. Pierschbacher     None  
+   John L. Pierschbacher     None  
+   Thomas H. Pohlman (2)     $15,080  
+   Thomas H. Pohlman (2)     $15,080  
+   Kevin L. Swartz     $21,785  
+   Kevin L. Swartz     $21,785  
+[END TABLE]
+Notes:
+[BEGIN TABLE]
+   (1)   Consists of cash payments of director fees determined as follows: (i) $1,900 for each regular meeting of the Board attended by a director during 2018 and an annual retainer of $7,600; and (ii) $460 for members and $600 for the committee chair for each meeting of a committee of the Board attended by a director during 2018. In addition, nine (9) directors also received cash payments of director fees for service as a member of the board of directors of one of the Banks determined as follows: (i) fees ranging from $590 to $840 for Bank board meetings attended by a director during 2018; and (ii) fees ranging from $235 to $440 for meetings of Bank board committees attended by a director during 2018. No other form of compensation was paid to any director during 2018.  
+[END TABLE]
+[BEGIN TABLE]
+   (2)   Mr. Pohlman starting receiving director fees beginning in July of 2018 upon his retirement from full-time employment with the Company on June 29, 2018. This amount has also been included in Mr. Pohlman's compensation as reported in the Summary Compensation Table under "EXECUTIVE COMPENSATION."  
+[END TABLE]
+PROPOSALS TO BE VOTED ON AT MEETING
+Proposal 1 – Election of Directors
+The Board of the Company currently consists of eleven directors, divided into two classes of four directors each and one class of three directors for the purpose of electing and defining the terms of service of such directors. The terms of four directors will expire at the Meeting, three of whom have been nominated for re-election to the Board and one who is no longer eligible for re-election due to the Board's age limitation policy. Ms. Cassabaum, who has not previously served on the Board, has been nominated to fill the vacancy resulting from the retirement. The four nominees standing for election will serve for a three-year term expiring at the annual meeting of shareholders to be held in 2022.
+Each director elected at the Meeting will serve until his or her successor is elected and qualified, or until his or her earlier death, resignation or removal. The Board has no reason to believe that any nominee named in this Proxy Statement will be unable to serve as a director, if elected. However, in case any nominee should become unavailable for election, the proxy will be voted for such substitute, if any, as the Board may designate.
+Set forth below are the names of the four persons nominated by the Board for election as directors at the Meeting, along with certain information concerning such persons.
+Nominees for Three-Year Terms Expiring in 2022
+[BEGIN TABLE]
+ David W. Benson Age 67   Mr. Benson has served as a director of the Company since 2011. He is an attorney with Nyemaster Goode, P.C. in Ames, Iowa, assisting clients in real estate, estate planning, estate and trust settlement, tax planning and charitable giving matters. He has served on the board of directors of First National Bank since 2008.  
+ David W. Benson Age 67   Mr. Benson has served as a director of the Company since 2011. He is an attorney with Nyemaster Goode, P.C. in Ames, Iowa, assisting clients in real estate, estate planning, estate and trust settlement, tax planning and charitable giving matters. He has served on the board of directors of First National Bank since 2008.  
+ Michelle R. Cassabaum  Age 51     Ms. Cassabaum serves as Chief Operating and Financial Officer and is a cofounder of 21st Century Rehab P.C., a provider of physical therapy services with offices predominately located in central Iowa. She has served on the board of directors of State Bank & Trust Co. since 2004.  
+ Michelle R. Cassabaum  Age 51     Ms. Cassabaum serves as Chief Operating and Financial Officer and is a cofounder of 21st Century Rehab P.C., a provider of physical therapy services with offices predominately located in central Iowa. She has served on the board of directors of State Bank & Trust Co. since 2004.  
+ John P. Nelson Age 52   Mr. Nelson has served as a director of the Company since 2013. On June 29, 2018, he was appointed President and Chief Executive Officer of the Company after having served as the Chief Financial Officer and Secretary of the Company since 1999. He also currently serves as Chairman of the Board of Boone Bank & Trust Co., Reliance State Bank, State Bank & Trust Co., and United Bank & Trust, N.A.  
+ Kevin L. Swartz Age 59   Mr. Swartz has served as a director of the Company since 2016. He is the Chief Executive Officer of Wolfe Clinic PC, a medical clinic headquartered in Marshalltown, Iowa that specializes in treating eye conditions. Wolfe Clinic has over 20 locations throughout the State of Iowa. Mr. Swartz has served on the board of directors of United Bank & Trust since 2003.  
+ Kevin L. Swartz Age 59   Mr. Swartz has served as a director of the Company since 2016. He is the Chief Executive Officer of Wolfe Clinic PC, a medical clinic headquartered in Marshalltown, Iowa that specializes in treating eye conditions. Wolfe Clinic has over 20 locations throughout the State of Iowa. Mr. Swartz has served on the board of directors of United Bank & Trust since 2003.  
+[END TABLE]
+Board Recommendation
+The Board unanimously recommends a vote "FOR" the election of each of the foregoing nominees to the Board.
+Required Vote
+The four nominees who receive the greatest number of votes "FOR" their election will be elected to the Board, regardless of whether any individual nominee receives votes from a majority of the votes cast at the Meeting. Brokers or other nominees who hold shares in "street name", and who have not received voting instructions from the beneficial owner of such shares, will have no discretionary authority to vote on the election of directors.
+Directors Continuing in Office
+Set forth below is certain information with respect to directors of the Company who will continue to serve subsequent to the Meeting and who are not nominees for election at the Meeting.
+Terms Expiring in 2020
+[BEGIN TABLE]
+ Betty A. Baudler Horras Age 65   Ms. Baudler Horras has served as a director of the Company since 2000. She is the President of Baudler Enterprises, Inc., dba Sign Pro, a sign and graphics business located in Ames, Iowa, and the former owner and General Manager of radio stations KASI and KCCQ located in Ames, Iowa, and KIKD located in Carroll, Iowa. She has served on the board of directors of First National Bank since 1991.  
+ Betty A. Baudler Horras Age 65   Ms. Baudler Horras has served as a director of the Company since 2000. She is the President of Baudler Enterprises, Inc., dba Sign Pro, a sign and graphics business located in Ames, Iowa, and the former owner and General Manager of radio stations KASI and KCCQ located in Ames, Iowa, and KIKD located in Carroll, Iowa. She has served on the board of directors of First National Bank since 1991.  
+ Patrick G. Hagan Age 62   Mr. Hagan has served as a director of the Company since 2017. He is the Senior Vice President and Treasurer of Fareway Stores, Inc., a privately owned company operating grocery stores in Iowa, Illinois, Minnesota and Nebraska. He joined Fareway in 1996 and serves on its board of directors. Prior to joining Fareway, he was an Executive Vice President and director of Citizens National Bank in Boone, Iowa for five years. Mr. Hagan has served on the board of directors of Boone Bank & Trust Co. since 2015.  
+ Thomas H. Pohlman Age 68   Mr. Pohlman has served as a director of the Company since 2007 and was elected as Chairman of the Board in 2017. He served as President and Chief Executive Officer of the Company from 2007 to June 29, 2018. From 2000 to 2008, he served as President of First National Bank. He also currently serves as Chairman of the Board of First National Bank.   
+ Thomas H. Pohlman Age 68   Mr. Pohlman has served as a director of the Company since 2007 and was elected as Chairman of the Board in 2017. He served as President and Chief Executive Officer of the Company from 2007 to June 29, 2018. From 2000 to 2008, he served as President of First National Bank. He also currently serves as Chairman of the Board of First National Bank.   
+[END TABLE]
+Terms Expiring in 2021
+[BEGIN TABLE]
+ Steven D. Forth Age 68  Mr. Forth has served as a director of the Company since 2007. He owns and operates a large row crop farm in western Story County, Iowa. He has served on the board of directors of Reliance State Bank since 1999. 
+ Steven D. Forth Age 68  Mr. Forth has served as a director of the Company since 2007. He owns and operates a large row crop farm in western Story County, Iowa. He has served on the board of directors of Reliance State Bank since 1999. 
+[END TABLE]
+[BEGIN TABLE]
+ James R. Larson II Age 67   Mr. Larson has served as a director of the Company since 2000. He is President of Larson Development Corporation, a real estate development and property management company located in Ames, Iowa. He retired in 2004 from ACI Mechanical, Inc., a commercial and industrial mechanical contracting and engineering company of which he served as President. He has served on the board of directors of First National Bank since 1994.  
+ James R. Larson II Age 67   Mr. Larson has served as a director of the Company since 2000. He is President of Larson Development Corporation, a real estate development and property management company located in Ames, Iowa. He retired in 2004 from ACI Mechanical, Inc., a commercial and industrial mechanical contracting and engineering company of which he served as President. He has served on the board of directors of First National Bank since 1994.  
+ Lisa M. Eslinger Age 56   Ms. Eslinger has served as a director of the Company since 2015. Ms. Eslinger serves as the Chief Financial and Administrative Officer for the Iowa State University Foundation. Prior to joining the Foundation as Controller in 1998, she was a senior manager with the international public accounting firm KPMG LLP, providing audit and consulting services to governmental and not-for-profit entities. She has served on the board of directors of First National Bank since 2011.  
+ John L. Pierschbacher Age 59   Mr. Pierschbacher has served as a director of the Company since 2018. On June 29, 2018, he was appointed Chief Financial Officer and Secretary of the Company after having served as Controller since 2008. Prior to joining the Company, Mr. Pierschbacher served as a director with RSM, US LLP, and as Chief Financial Officer of a publicly traded bank holding company in Iowa.  
+ John L. Pierschbacher Age 59   Mr. Pierschbacher has served as a director of the Company since 2018. On June 29, 2018, he was appointed Chief Financial Officer and Secretary of the Company after having served as Controller since 2008. Prior to joining the Company, Mr. Pierschbacher served as a director with RSM, US LLP, and as Chief Financial Officer of a publicly traded bank holding company in Iowa.  
+[END TABLE]
+None of the directors or nominees currently serves, or has served in the past five years, as a director of another company whose securities are registered under the Securities Exchange Act of 1934 or a company registered under the Investment Company Act of 1940. There are no family relationships among the Company's directors, nominees for director and executive officers.
+Director Qualifications
+Under rules adopted by the Securities and Exchange Commission, the Company is required to describe the experience and qualifications of those persons serving as directors or nominated for election as directors. The Nominating Committee, which is charged with the responsibility of evaluating nominees for director, has historically sought individuals with prior experience in business, professional practice or government, a commitment to community involvement and, perhaps most importantly, prior service as a member of the board of directors of one of the Banks. Experience gained through these pursuits is viewed by the Nominating Committee as a strong indication that individuals nominated for election as directors will possess the attributes for successful service as a member of the Board.
+● Mmes. Baudler Horras and Cassabaum and Messrs. Forth, Hagan, Larson and Swartz all have substantial business experience as the owner and/or a senior executive officer of a small or medium-sized business enterprise through which they have obtained, to varying degrees, knowledge with respect to financial and accounting matters, operational matters, risk management issues, marketing issues and human resources issues. Ms. Eslinger possesses a high level of qualification with respect to financial and accounting matters based on her experience as the senior financial officer of the Iowa State University Foundation and as a former senior manager of a public accounting firm. Mr. Benson has practiced business, real estate and trust and estate law for over 41 years and contributes his legal and business knowledge to the Board. Mr. Pohlman, whose career in the financial services industry has spanned 42 years, brings his knowledge and experience as a senior bank executive to the Board. Mr. Nelson was a commissioned bank examiner for the Federal Deposit Insurance Corporation prior to joining the Company as Auditor in 1993 and brings a high level of qualification with respect to banking, accounting and regulatory matters, as well as his many years of service as the Company's senior financial officer. Mr. Pierschbacher also brings a high level of qualification with respect to banking, accounting and regulatory matters as he has considerable experience as a senior bank officer of publicly traded bank holding companies and as a director of a public accounting firm.
+● Each of the directors and nominees has demonstrated active involvement in the community in which he or she resides, all of which are included in the trade areas in which the Banks conduct their business operations. This demonstrated commitment to community involvement is important to the Company as the directors are viewed as key links to clients and prospective clients, as well as furthering the reputation of the Banks in those communities.
+● Each of the directors and nominees, with the exception of Mr. Pierschbacher, has served on the board of directors of one of the Banks prior to his or her election to the Board of the Company. This prior experience is highly desired for members of the Board, as it enables the individual to become familiar with the Company's practices and business philosophy, as well as the financial and operational aspects of a financial institution, before accepting a position on the Board of the Company. Prior service on the board of a Bank has also enabled the Nominating Committee to assess the performance of the individual as a director of a Bank and to determine that such performance merits elevation to the Board of the Company.
+Proposal 2 – Ratification of Appointment of Public Accounting Firm
+The Audit Committee of the Board has appointed CliftonLarsonAllen LLP to serve as the Company's independent registered public accounting firm to audit its consolidated financial statements for 2019. During 2018, CliftonLarsonAllen LLP served as the Company's independent registered public accounting firm and also provided certain tax and other non-audit services. Although the Company is not required to seek shareholder approval of this appointment, the Board believes it to be sound corporate governance to do so. If the appointment is not ratified, the Audit Committee will investigate the reasons for shareholder rejection and will reconsider the appointment. Representatives of CliftonLarsonAllen LLP are expected to attend the Meeting, where they will be able to respond to questions and, if they desire, make a statement.
+Board Recommendation
+The Board unanimously recommends a vote "FOR" ratification of the appointment of CliftonLarsonAllen LLP as the Company's independent registered public accounting firm for 2019.
+Required Vote
+The proposal to ratify the appointment of the Company's independent registered public accounting firm will be approved if the number of votes cast "FOR" the proposal exceeds the number of votes cast "AGAINST" the proposal. Shares which abstain from voting on this proposal will not be counted as votes cast and will not affect the outcome. Brokers or other nominees who hold shares in "street name", and who do not receive voting instructions from the beneficial owner of such shares, will have discretionary voting authority on this proposal and shares voted by such brokers or nominees will be counted in determining the outcome of this matter.
+SECURITY OWNERSHIP OF MANAGEMENT AND
+CERTAIN BENEFICIAL OWNERS 
+Directors and Named Executive Officers 
+The following table sets forth the shares of Common Stock beneficially owned as of February 28, 2019, by each director of the Company, each nominee for director, each executive officer of the Company or the Banks named in the Summary Compensation Table included herein (the "named executive officers") and by all directors and executive officers (including the named executive officers) as a group.
+[BEGIN TABLE]
+     Shares Beneficially       Percent of Total    
+ Name     Owned (1)(2)       Shares Outstanding    
+ Betty A. Baudler Horras(3)      24,450       *   
+ Scott T. Bauer(4) (5)      242,379       2.62%   
+ David W. Benson(5)(6)      12,300       *   
+ Michelle R. Cassabaum      840       *   
+ Lisa M. Eslinger(5)      1,630       *   
+ Steven D. Forth(5)      2,520       *   
+ Patrick G. Hagan(7)      4,286       *   
+ James R. Larson II (8)      27,965       *   
+ John P. Nelson (9)      242,711       2.63%   
+ Richard O. Parker(10)      19,441       *   
+ John L. Pierschbacher(11)      3,750       *   
+ Thomas H. Pohlman (5) (12)      15,443       *   
+ Kevin L. Swartz(5)      1,680       *   
+ Directors and Executive                  
+ Officers as a Group (13)      443,392       4.80%   
+[END TABLE]
+Notes:
+[BEGIN TABLE]
+ *   Indicates ownership of less than 1% of outstanding shares.  
+[END TABLE]
+[BEGIN TABLE]
+   (1)   Shares "beneficially owned" includes, in addition to shares directly owned by the named individual, shares owned by or for the benefit of, among others, the spouse and/or minor children of the named individual and any other relative who has the same home as such individual, as well as other shares with respect to which the named individual has sole investment or voting power or shares investment or voting power. Beneficial ownership may be disclaimed as to certain of the shares.  
+[END TABLE]
+[BEGIN TABLE]
+   (2)   Except as otherwise indicated in the following notes, each named individual owns his or her shares directly and has sole investment and voting power with respect to such shares.  
+[END TABLE]
+[BEGIN TABLE]
+   (3)   Includes 3,200 shares held in her spouse's name over which she has shared investment and voting power.  
+[END TABLE]
+[BEGIN TABLE]
+   (4)   Includes: (i) 4,070 shares held by the Ames National Corporation 401(k) Plan (the "Company 401(k) Plan") for the benefit of Mr. Bauer over which he has investment and voting power in his personal capacity; and (ii) shares over which Mr. Bauer has sole or shared investment and/or voting power in his capacity as trust officer of First National Bank for various trust clients, as follows:  
+[END TABLE]
+[BEGIN TABLE]
+ Shares Held By:   Investment Power   Voting Power  
+ Various First National Bank Trust Clients    235,185   (sole)    101,384   (sole)  
+ Various First National Bank Trust Clients     1,010 (shared)      6,263 (shared)  
+[END TABLE]
+Mr. Bauer disclaims any pecuniary interest in shares reported in the preceding table. Beneficial ownership of shares over which Mr. Bauer has sole or shared investment and/or voting power in his capacity as a trust officer have also been reported below under the holding of Mr. Nelson who also acts in a trust officer capacity for First National Bank.
+[BEGIN TABLE]
+   (5)   Consists of, or includes, shares held jointly with his or her spouse over which he or she has shared investment and voting power.  
+[END TABLE]
+[BEGIN TABLE]
+   (6)   Includes 5,651 shares held in an individual retirement account (IRA) over which Mr. Benson has sole investment and voting power.  
+[END TABLE]
+[BEGIN TABLE]
+   (7)   Includes shares held through individual retirement accounts (IRA) over which Mr. Hagan has sole investment and voting power.  
+[END TABLE]
+[BEGIN TABLE]
+   (8)   Includes shares held in the name of James R. & Teresa B. Larson Revocable Trust dated November 28, 1990, James R. & Teresa B. Larson Trustees over which he has shared investment and voting power.  
+[END TABLE]
+[BEGIN TABLE]
+   (9)   Includes: (i) 6,516 shares held by the Company 401(k) Plan for the benefit of Mr. Nelson over which he has investment and voting power in his personal capacity; and (ii) shares over which Mr. Nelson has sole or shared investment and/or voting power in his capacity as trust officer of First National Bank for various trust clients, as follows:  
+[END TABLE]
+[BEGIN TABLE]
+ Shares Held By:   Investment Power   Voting Power  
+ Various First National Bank Trust Clients    235,185   (sole)    101,384   (sole)  
+ Various First National Bank Trust Clients        1,010 (shared)        6,263 (shared)  
+[END TABLE]
+Mr. Nelson disclaims any pecuniary interest in shares reported in the preceding table. Beneficial ownership of shares over which Mr. Nelson has sole or shared investment and/or voting power in his capacity as a trust officer have also been reported under the holdings of Mr. Bauer who also acts in a trust officer capacity for First National Bank.
+[BEGIN TABLE]
+   (10)   Includes 1,300 shares held in an individual retirement account (IRA) for the benefit of his spouse over which he has shared investment and voting power; 6,000 shares held in a Simplified Employee Pension (SEP) Plan for the benefit of Mr. Parker over which he has sole investment and voting power; 990 shares owned jointly by Mr. Parker and his son over which he has shared investment and voting power; and 2,000 shares in the Harold L. Parker Family Trust dated December 18, 1989; Delores E. Parker, Richard O. Parker, and Ronald L. Parker, Trustees over which he has shared investment and voting power.  
+[END TABLE]
+[BEGIN TABLE]
+   (11)   Consists of shares held through an individual retirement account (IRA) over which Mr. Pierschbacher has sole investment and voting power.  
+[END TABLE]
+[BEGIN TABLE]
+   (12)   Includes 2,808 shares held by the Company 401(k) Plan for the benefit of Mr. Pohlman over which he has investment and voting power.  
+[END TABLE]
+[BEGIN TABLE]
+   (13)   Includes, in addition to shares beneficially owned by the directors and named executive officers, a total of 39,384 shares beneficially owned by four other executive officers of the Company or the Banks for whom disclosure of individual share ownership is not required, including 22,588 shares held by the Company 401(k) Plan for their benefit over which they have investment and voting power.  An additional 40,808 shares owned by trust clients of State Bank & Trust Co. are also included in this total, as one of the executive officers exercises shared investment and voting power in his capacity as trust officer of State Bank & Trust Co. which serves as trustee of the trusts.  
+[END TABLE]
+Other Beneficial Owners
+The following table sets forth certain information on each person who is known to the Company to be the beneficial owner, as of February 28, 2019, of more than five percent of the Common Stock.
+[BEGIN TABLE]
+   Name and Address   Shares Beneficially Owned   Percent of Total Shares Outstanding  
+   Name and Address   Shares Beneficially Owned   Percent of Total Shares Outstanding  
+ BlackRock, Inc.(1) 55 East 52nd Street New York, NY 10055   580,285   6.2%  
+ BlackRock, Inc.(1) 55 East 52nd Street New York, NY 10055   580,285   6.2%  
+ Royce & Associates, LP(2) 745 Fifth Avenue New York, NY 10151   550,428   5.91%  
+ Royce & Associates, LP(2) 745 Fifth Avenue New York, NY 10151   550,428   5.91%  
+[END TABLE]
+Notes:
+[BEGIN TABLE]
+   1.   This information is based solely on the contents of a Schedule 13G/A filed by BlackRock, Inc. on February 4, 2019, indicating beneficial ownership of 580,285 shares, with sole voting power over 565,853 shares and sole dispositive power over 580,285 shares.  
+[END TABLE]
+[BEGIN TABLE]
+   2.   This information is based solely on the contents of a Schedule 13G/A filed by Royce & Associates, LP on January 14, 2019, disclosing beneficial ownership of 550,428 shares, with sole voting and dispositive power over all of such shares.  
+[END TABLE]
+Section 16(a) Beneficial Ownership Reporting Compliance
+Section 16(a) of the Securities Exchange Act of 1934, as amended, requires the directors and executive officers of the Company and the holders of more than ten percent of the Common Stock to file with the Securities and Exchange Commission reports regarding their ownership and changes in ownership of the Common Stock. The Company believes that during 2018 its directors and executive officers complied with all Section 16(a) filing requirements. In making the foregoing statement, the Company has relied upon an examination of the copies of Forms 3, 4 and 5 provided to the Company and on the written representations of its directors and executive officers. The Company, to its knowledge, does not have any holder of more than ten percent of the Common Stock.
+EXECUTIVE COMPENSATION
+Commencing in 2018, the Company qualified as a "smaller reporting company" under new rules adopted by the Securities and Exchange Commission. Accordingly the Company is now providing executive compensation disclosure that satisfies the requirements applicable to the Company in its new status as a smaller reporting company. The Company's named executive officers for 2018 are:
+[BEGIN TABLE]
+● Thomas H. Pohlman, former President and Chief Executive Officer of the Company. Mr. Pohlman retired effective June 29, 2018, but continues to serve as Chairman of the Board of the Company;  
+[END TABLE]
+[BEGIN TABLE]
+● John P. Nelson, President and Chief Executive Officer of the Company. Mr. Nelson assumed the role of President and Chief Executive Officer effective June 29, 2018. Mr. Nelson had previously served as Chief Financial Officer of the Company;  
+[END TABLE]
+[BEGIN TABLE]
+● John L. Pierschbacher, Chief Financial Officer of the Company. Mr. Pierschbacher assumed the role of Chief Financial Officer effective June 29, 2018. Mr. Pierschbacher had previously served as Controller for the Company; and  
+[END TABLE]
+[BEGIN TABLE]
+● Scott T. Bauer, President of First National Bank.  
+[END TABLE]
+Messrs. Pohlman, Nelson and Pierschbacher are or were employed by the Company and are sometimes referred to below as a "Company Executive", while Mr. Bauer is employed by First National Bank and is sometimes referred to below as a "Bank Executive." Together, the four executives are referred to below as the "Executive Officers."
+Summary Compensation Table for 2018
+The following table sets forth information concerning all forms of compensation paid to or earned by the following Executive Officers during 2018 and 2017.
+[BEGIN TABLE]
+  Name and Principal Position           Year      Salary(1) ($)     Non-Equity  Incentive Plan  Compensation(2) ($)      All Other  Compensation(3) ($)       Total (4) ($)    
+  Name and Principal Position           Year      Salary(1) ($)     Non-Equity  Incentive Plan  Compensation(2) ($)      All Other  Compensation(3) ($)       Total (4) ($)    
+  Name and Principal Position           Year      Salary(1) ($)     Non-Equity  Incentive Plan  Compensation(2) ($)      All Other  Compensation(3) ($)       Total (4) ($)    
+  Name and Principal Position           Year      Salary(1) ($)     Non-Equity  Incentive Plan  Compensation(2) ($)      All Other  Compensation(3) ($)       Total (4) ($)    
+   Thomas H. Pohlman Retired President of the Company (Retired Principal Executive Officer)       2018 2017     $221,533 $284,050     $30,064 $41,157     $30,176 $22,092     $281,773 $347,299  
+   Thomas H. Pohlman Retired President of the Company (Retired Principal Executive Officer)       2018 2017     $221,533 $284,050     $30,064 $41,157     $30,176 $22,092     $281,773 $347,299  
+   Thomas H. Pohlman Retired President of the Company (Retired Principal Executive Officer)       2018 2017     $221,533 $284,050     $30,064 $41,157     $30,176 $22,092     $281,773 $347,299  
+   Thomas H. Pohlman Retired President of the Company (Retired Principal Executive Officer)       2018 2017     $221,533 $284,050     $30,064 $41,157     $30,176 $22,092     $281,773 $347,299  
+   John P. Nelson President of the Company (Principal Executive Officer)       2018 2017     $320,540 $280,020       $80,547 $48,446     $16,500 $22,174     $417,587 $350,640  
+   John P. Nelson President of the Company (Principal Executive Officer)       2018 2017     $320,540 $280,020       $80,547 $48,446     $16,500 $22,174     $417,587 $350,640  
+   John P. Nelson President of the Company (Principal Executive Officer)       2018 2017     $320,540 $280,020       $80,547 $48,446     $16,500 $22,174     $417,587 $350,640  
+   John L. Pierschbacher Chief Financial Officer of the Company       2018 2017     $167,855 $147,420     $51,016 $24,222     $13,132 $14,460     $232,003 $186,102  
+   John L. Pierschbacher Chief Financial Officer of the Company       2018 2017     $167,855 $147,420     $51,016 $24,222     $13,132 $14,460     $232,003 $186,102  
+   John L. Pierschbacher Chief Financial Officer of the Company       2018 2017     $167,855 $147,420     $51,016 $24,222     $13,132 $14,460     $232,003 $186,102  
+   Scott T. Bauer President of First National Bank       2018 2017     $219,080 $206,050     $44,324 $28,937     $15,804 $19,332     $279,208 $254,319  
+   Scott T. Bauer President of First National Bank       2018 2017     $219,080 $206,050     $44,324 $28,937     $15,804 $19,332     $279,208 $254,319  
+   Scott T. Bauer President of First National Bank       2018 2017     $219,080 $206,050     $44,324 $28,937     $15,804 $19,332     $279,208 $254,319  
+[END TABLE]
+Notes:
+[BEGIN TABLE]
+   1)   Amounts reported in this column represent the base salary paid to each Executive Officer during 2018 and 2017.  
+[END TABLE]
+[BEGIN TABLE]
+   2)   Amounts reported in this column represent the total amount of incentive compensation paid to each Executive Officer during 2018 and 2017, consisting of deferred salary and, if applicable, performance awards. During 2018, Mr. Pohlman earned deferred salary of $10,650 and performance awards of $19,414 for total incentive compensation of $30,064; Mr. Nelson earned deferred salary of $25,999 and performance awards of $54,548 for total incentive compensation of $80,547; Mr. Pierschbacher earned deferred salary of $16,172 and performance awards of $34,844 for total incentive compensation of $51,016; and Mr. Bauer earned deferred salary of $18,864 and performance awards of $25,460 for total incentive compensation of $44,324.  
+[END TABLE]
+[BEGIN TABLE]
+   3)   Amounts reported in this column represent: (i) employer contributions to the Company 401(k) Plan in which each of the Executive Officers participated during 2018 and 2017; (ii) cash awards under the Bank Awards Program in which each of the Executive Officers participated during 2017; and (iii) in the case of Mr. Pohlman, director fees of $15,080 paid in 2018 following his retirement as a full time employee of the Company. During 2018, Mr. Pohlman received contributions to his 401(k) account of 15,096; Mr. Nelson received contributions to his 401(k) account of $16,500; Mr. Pierschbacher received contributions to his 401(k) account of $13,132; and Mr. Bauer received contributions to his 401(k) account of $15,804.  
+[END TABLE]
+[BEGIN TABLE]
+   4)   Amounts reported in this column consist of total compensation paid to each Executive Officer during 2018 and 2017, calculated by adding the figures appearing in the Salary column, the Non-Equity Incentive Plan Compensation column and the All Other Compensation column for each Executive Officer.  
+[END TABLE]
+Narrative Discussion of Summary Compensation Table
+General
+The Company compensates its Executive Officers through a combination of base salary, deferred salary, cash performance awards, and other benefits. Each of the Executive Officers has or had substantial responsibilities in connection with the day-to-day operations of the Company.
+Compensation Philosophy
+The Company's focus is on sound, profitable growth through engaging our employees and customers to create shareholder value. The Company's executive compensation program contributes to this focus by rewarding the Executive Officers for the achievement of profitability goals. The Company's objective is to provide compensation that is fair to the Executive Officers, focused on performance, and aligned with the long-term best interests of our shareholders and customers.
+Components of the Compensation Program
+The executive compensation program, as administered through the Management Incentive Compensation (MIC) Plan, consists of total salary (with total salary being divided between base salary and deferred salary) and performance awards. Deferred salary and performance awards are considered to be forms of incentive compensation as they are dependent upon performance as measured against a pre-determined performance target. The components of the MIC Plan are described in greater detail as follows:
+● Base salary - This is the portion of total salary not contingent upon performance. Base salary is paid to the Executive Officer in equal bi-weekly installments.
+● Deferred salary - This is the portion of total salary that is contingent, in that it is "deferred" until earned through performance by a Bank in the case of a Bank Executive and performance by all the Banks in the case of a Company Executive. The right to receive deferred salary is reviewed on a semi-annual basis (based on performance during the previous two calendar quarters) and, if earned, is paid on June 15 and December 15 of each year. If the review indicates the performance target has been achieved for the semi-annual period, the Executive Officer will receive all of the deferred salary for which he was eligible during the period. If, on the other hand, the review indicates the performance target was not satisfied, the amount of deferred salary to be paid will be reduced in accordance with a formula contained in the MIC Plan and could be forfeited entirely in the event actual performance trails targeted performance by an amount which results in an elimination of the deferred salary for the period. Any deferred salary not earned during the particular semi-annual period for which it was established will be forfeited and not carried over to the following period. The deferred salary component can, in essence, be viewed as placing a portion of total salary "at risk" in that the Executive Officer must work with his management team to achieve a level of performance that is adequate, based on the performance target, to earn all deferred salary for which he is eligible.
+● Performance awards - Performance awards are additional incentive compensation an Executive Officer is eligible to earn (over and above deferred salary) upon exceeding the performance target for a Bank in the case of a Bank Executive or, in the case of a Company Executive, exceeding the performance targets of one or more of the Banks. The right to receive a performance award is also reviewed on a semi-annual basis (based on performance during the previous two calendar quarters) and, if earned, is paid on June 15 and December 15 of each year. If the review determines actual performance has exceeded the performance target (which is established at the same level as used for purposes of determining entitlement to deferred salary), the Executive Officer will receive a performance award, the amount of which is calculated in accordance with a formula contained in the MIC Plan and is dependent upon the amount by which actual performance has exceeded targeted performance. As with deferred salary, any performance award not earned during the particular semi-annual period for which it was established will be forfeited and not carried over to the following period.
+There are two additional components of the Company's compensation program, neither of which are encompassed within the scope of the MIC Plan and both of which provide for broad-based participation by eligible employees of the Company and the Banks, as follows:
+● 401(k) Plan - The Ames National Corporation 401(k) Profit Sharing Plan (the "Company 401(k) Plan") is a defined contribution plan in which participating employees (including the Executive Officers) are eligible to receive a matching employer contribution of up to 3% of total compensation (assuming an employee contribution up to that amount), plus an additional employer contribution of 3% of total compensation that is not dependent upon an employee contribution to the plan.
+● Bank Awards - The "Bank Award" program is an incentive arrangement covering Company and Bank employees eligible to participate in the Company 401(k) Plan. Under this program, participating employees are eligible to receive additional cash compensation based on the profitability of their employer (with profitability being determined in accordance with the formula contained in the MIC Plan, including the use of the same performance target). The Executive Officers participated in this program in 2017; however, the program was discontinued for the Executive Officers beginning in 2018.
+Compensation Process and Decisions for 2018
+In determining compensation on an annual basis, the Board, based on recommendation of the Compensation Committee, must establish the parameters required under the terms of the MIC Plan to implement the three components of executive compensation discussed above. These parameters consist of: (i) performance criteria for each Bank which are used to determine entitlement to deferred salary and performance awards; (ii) an allocation percentage for each Executive Officer which is also used in determining entitlement to deferred salary and performance awards; and (iii) total salary for each Executive Officer which, as noted above, is divided between base salary and deferred salary. The following is a description of the process by which these parameters are established and the manner in which the three components of compensation under the MIC Plan interact in determining compensation for the Executive Officers:
+● Performance criteria - Performance criteria are established by the Compensation Committee for each Bank to define the performance target (also known as the "earnings threshold"), as well as a performance "floor" and a performance "cap." Each of these criteria is defined by reference to an appropriate "return on assets" ratio selected by the Compensation Committee. The return on assets ratio is an industry-accepted measure of profitability for which substantial information is available (through the Federal Deposit Insurance Corporation ("FDIC") in the form of Uniform Bank Performance Reports) to enable the Compensation Committee to evaluate the profitability of the Banks as compared to other financial institutions of similar size and characteristics. The performance target is defined by selecting a specific return on assets target that the Compensation Committee views as representing an acceptable level of Bank profitability, such that the Executive Officer will receive all deferred salary to which he was entitled and, in addition, become eligible to receive performance awards based on the amount by which actual performance exceeds the performance target. In establishing the performance target, the Compensation Committee reviews and relies primarily on historical earnings of the Bank and on national and state peer group return on asset ratios of financial institutions of similar size and characteristics as reported by the FDIC. Although the MIC Plan provides that the Banks are generally expected to achieve profitability results above the peer group average, the MIC Plan does not include specific methodology for establishing the performance target (or the margin by which the target should exceed the peer group average) and, ultimately, selection of the appropriate target is a subjective decision of the Compensation Committee. The MIC Plan also requires the Compensation Committee to establish a performance "floor" and a "cap," both of which are also expressed in terms of specific return on asset ratios. Generally, the "floor" and the "cap" are established at equal intervals under and over the performance target selected for each Bank. The "floor" represents a level of profitability sufficiently below the performance target that the Executive Officer should not be entitled to receive any portion of his deferred salary for the year. The "cap," on the other hand, establishes an upper limit on the receipt of additional compensation in the form of performance awards in situations in which the level of Bank profitability has exceeded the performance target.
+The Compensation Committee recommended, and the Board approved, the following performance criteria for each Bank for the first and second semi-annual evaluation periods during 2018 (with such criteria being expressed in terms of designated "return on assets" earnings ratios):
+[BEGIN TABLE]
+     Floor       Target       Cap    
+ First 6 Months of 2018      0.47%     1.02%     1.57% 
+ Second 6 Months of 2018      0.57%     1.12%     1.67% 
+[END TABLE]
+The foregoing performance criteria were established by setting the "target" return on assets ratio for each Bank at the peer group average for the relevant period. An additional margin was not added in 2018 to maintain a competitive total compensation level for the Executive Officers with other financial institutions in the state of Iowa.
+Entitlement to deferred salary and performance awards in 2018 was determined by comparing the earnings of each Bank against the performance target. The earnings of each Bank were based on net income of the Bank as determined in accordance with generally accepted accounting principles ("GAAP"), subject to an addition to net income for the loan loss provision of each Bank (to reverse the effect of the loan loss provision deducted in calculating net income on a GAAP basis) and a deduction in the amount of the net charge-offs for the loan portfolio of each Bank.
+● Allocation percentage - An allocation percentage for each Executive Officer is determined by the Compensation Committee for purposes of dividing the "performance award pool" between the executive management team of each Bank and, in the case of the Company Executives, the "performance award pool" of the Company. The performance award pool provides the source for payment of performance awards to an executive management team when the profitability of a Bank has exceeded its performance target, thus resulting in the right to receive performance awards. The performance award pool is an amount equal to 10% of the amount by which the actual earnings exceed the performance target. Each member of the management team is assigned an allocation percentage which, in turn, defines the portion of the performance award pool to which the executive will be entitled as a performance award. Allocation percentages are generally determined on the basis of the level of responsibility within the Bank, with higher allocation percentages being awarded to the president of a Bank and lower allocation percentages being awarded to lower-level executive officers. Allocation percentages typically remain static over time, but may be altered as a result of additions or departures to or from the executive management team or to reflect performance.
+● Total salary - Total salary (consisting of base salary and deferred salary) of an Executive Officer is established on an annual basis by the Board upon recommendation of the Compensation Committee. In establishing total salary, the Compensation Committee reviews individual performance, Bank performance in the case of a Bank Executive and Company performance (including performance of all the Banks) in the case of a Company Executive (primarily in terms of profitability ratios) as compared to peer groups both on a national and state basis. Also reviewed is a compensation survey prepared by the Iowa Bankers Association providing state-wide peer group compensation data by position for similarly-sized institutions and for institutions located in communities with similar populations. No specific weight is accorded to the various factors considered, and the total salary established is ultimately a subjective decision of the Board based upon recommendation of the Compensation Committee. The Compensation Committee does not maintain any policy or practice with respect to the level within the range of peer group salaries at which an Executive Officer will be compensated. Although the allocation of total salary between base salary and deferred salary is accomplished through use of a formula outlined in the MIC Plan, the Compensation Committee takes the proposed allocation into account when establishing total salary. Under the MIC Plan, deferred salary is determined according to a formula based on the average assets of the particular Bank (as calculated for the two quarters ended September 30 of the year prior to the year for which compensation is being determined). For 2018, the formula provided that deferred salary would be an amount equal to $100 for each $1 million of average assets of the Bank multiplied by the allocation percentage assigned to the Executive Officer. By way of example, if the average assets of a Bank for the previous two quarters were $350 million and the Executive Officer's allocation percentage was 20%, the portion of that Executive Officer's total salary deferred would be equal to $100 x 350 x .20 or $7,000.
+Under the MIC Plan, the entitlement to deferred salary and performance awards are reviewed and determined on a semi-annual basis, with such review comparing the actual performance during the two prior calendar quarters against the performance target established under the MIC Plan. The first semi-annual review occurs in May of each year and is based upon results for the fourth quarter of the previous year and the first quarter of the current year. A second semi-annual review occurs in November of each year and is based on results during the second and third quarters of the current year. If the review determines actual performance is below the target, the Executive Officer will receive only a portion of the deferred salary (or no deferred salary at all if actual performance is below the "floor") and no performance award. The reduction in deferred salary is determined by multiplying the Executive Officer's assigned allocation percentage times 10% of the shortfall between the performance target and actual performance for the two quarters. If the review determines actual performance has exceeded the target, the Executive Officer will receive all deferred salary to which he was eligible. In addition, the Executive Officer will receive his allocation percentage of the performance award pool established under the MIC Plan, with such pool being an amount equal to 10% of the amount by which the actual performance exceeded the performance target for the two quarters, subject to the "cap" established by the Compensation Committee over and above which additional performance awards will not be earned.
+The determination of whether an Executive Officer is entitled to deferred salary and performance award varies depends on whether the Executive Officer is a Bank Executive or a Company Executive. For Bank Executives, deferred salary and performance awards are determined solely with respect to the actual performance of the Bank by which the Bank Executive is employed based on a comparison of actual performance to the performance target as described above. In the case of a Company Executive, however, the performance of each Bank is analyzed on an individual basis and the Company Executive will earn or forfeit deferred salary and become entitled to additional performance awards based on a comparison of the actual performance of each Bank to its target performance. Under this approach, a Company Executive could forfeit a portion of his deferred salary and earn no performance award with respect to the performance of one Bank, while earning all deferred salary and additional performance awards based on the performance of another Bank.
+LOANS TO DIRECTORS AND EXECUTIVE OFFICERS
+AND RELATED PARTY TRANSACTIONS 
+Certain directors, nominees for director and executive officers of the Company, their associates or members of their families, were customers of, and have had transactions with, the Banks from time to time in the ordinary course of business, and additional transactions may be expected to take place in the ordinary course of business in the future. All loans and commitments included in such transactions have been made on substantially the same terms, including interest rates and collateral, as those prevailing at the time for comparable transactions with other persons. In the opinion of management of the Company, such loan transactions do not involve more than the normal risk of collectability or present other unfavorable features.
+The Audit Committee is responsible for reviewing and approving any transaction involving the Company or a Bank which constitutes a "related party transaction" except that any loan made by any of the Banks in the ordinary course of business which would otherwise constitute a related party transaction is not subject to Audit Committee review if the loan is made on substantially the same terms, including interest rates and collateral, as those prevailing at the time for comparable transactions with non-related parties and the loan otherwise meets the requirements of Regulation O of the Federal Reserve System. Approval of a transaction constituting a related party transaction requires a determination by the Audit Committee that the transaction is "fair and reasonable" to the Company or the Bank involved in the transaction. The requirement for review and approval of related party transactions is set forth in the Audit Committee Charter.
+REPORT OF THE AUDIT COMMITTEE
+The Audit Committee assists the Board in carrying out its oversight responsibilities for the Company's financial reporting process, audit process and its internal control over financial reporting. The Audit Committee also reviews the audited financial statements and recommends to the Board whether the financial statements should be included in the Company's Annual Report on Form 10-K filed with the Securities and Exchange Commission. The Audit Committee is comprised solely of independent directors.
+The Audit Committee has reviewed and discussed the Company's audited financial statements for the year ended December 31, 2018 with management and CliftonLarsonAllen LLP, the Company's independent registered public accounting firm. The Audit Committee has also discussed with CliftonLarsonAllen LLP the matters required to be discussed by AS 1301, "Communications with Audit Committees". The Audit Committee received and reviewed the written disclosures and the letter from CliftonLarsonAllen LLP required by the applicable standards of the Public Company Accounting Oversight Board regarding the independent accountant's communications with the Audit Committee concerning independence, and discussed with CliftonLarsonAllen LLP its independence with respect to the Company. Based on the review and discussions with management and CliftonLarsonAllen LLP, the Audit Committee recommended to the Board that the audited financial statements be included in the Company's Annual Report on Form 10-K for the year ending December 31, 2018, to be filed with the Securities and Exchange Commission.
+The undersigned members of the Audit Committee have submitted this report.
+[BEGIN TABLE]
+         James R. Larson, II, Chair Betty A. Baudler Horras Lisa M. Eslinger Kevin L. Swartz      
+         James R. Larson, II, Chair Betty A. Baudler Horras Lisa M. Eslinger Kevin L. Swartz      
+[END TABLE]
+RELATIONSHIP WITH INDEPENDENT REGISTERED PUBLIC ACCOUNTING FIRM
+CliftonLarsonAllen LLP, an independent registered public accounting firm, provided professional services to the Company during the year ended December 31, 2018, and has been appointed by the Audit Committee to provide professional services to the Company for the year ending December 31, 2019. A representative of CliftonLarsonAllen LLP is expected to be present at the Meeting. This representative will have the opportunity to make a statement at the Meeting and is expected to be available to respond to appropriate questions from shareholders.
+The following table presents professional fees for services rendered by CliftonLarsonAllen LLP for the years ended December 31, 2018 and 2017.
+[BEGIN TABLE]
+     2018       2017    
+ Audit Fees(1)    $ 183,100     $ 178,000   
+ Audit-Related Fees(2)      18,300       17,800   
+ Tax Fees (3)      20,600       20,600   
+ Other Fees(4)      21,975       0   
+ Total    $ 243,975     $ 216,400   
+[END TABLE]
+Notes:
+[BEGIN TABLE]
+   (1)   Audit fees consist of fees for professional services provided for the audit of the Company's annual financial statements, review of the Company's quarterly financial reports on Form 10-Q and the audit of the Company's internal control over financial reporting.  
+[END TABLE]
+[BEGIN TABLE]
+   (2)   Audit-related fees consist of fees for an audit of financial statements of the Company 401(k) Plan.  
+[END TABLE]
+[BEGIN TABLE]
+   (3)   Tax fees consist of fees for tax consultation and tax compliance services for the Company and its employee benefit plans.  
+[END TABLE]
+[BEGIN TABLE]
+   (4)   Other fees primarily consist of billings associated with the acquisition and subsequent merger of Clarke County State Bank with First National Bank, Ames, Iowa.  
+[END TABLE]
+The Audit Committee pre-approves all audit and permissible non-audit services provided by the Company's independent registered public accounting firm and pre-approved all such services provided in 2018. The non-audit services include audit-related services, tax services and other services. The Audit Committee's policy is to pre-approve all services and fees for up to one year, which approval includes the appropriate detail with regard to each particular service and its related fees. In addition, the Audit Committee can be convened on a case-by-case basis to pre-approve any services not anticipated or services whose costs exceed the previously pre-approved amounts.
+PROPOSALS BY SHAREHOLDERS
+In order for any proposals of shareholders pursuant to the procedures prescribed in Rule 14a-8 under the Securities Exchange Act of 1934, as amended, to be presented as an item of business at the annual meeting of shareholders to be held in 2020, the proposal must be received at the Company's principal executive offices no later than November 15, 2019. Such proposals will need to comply with the regulations of the Securities and Exchange Commission regarding the inclusion of shareholder proposals in the Company's proxy materials. Any shareholder proposal submitted outside the procedures prescribed in Rule 14a-8 shall be considered untimely under the Bylaws unless received at the Company's principal executive offices no later than November 15, 2019, and unless such proposal contains the information required by the Bylaws. Proposals should be submitted to the Company at its principal executive offices at P.O. Box 846, 405 5th Street, Ames, Iowa 50010, Attention: Secretary. A copy of the Bylaws may be obtained by contacting John L. Pierschbacher, Chief Financial Officer and Secretary, at the Company's principal executive offices or by accessing the Company's website at www.amesnational.com.
+AVAILABILITY OF FORM 10-K REPORT
+Copies of the Company's Annual Report to the Securities and Exchange Commission (Form 10-K) including the financial statements and schedules thereto for the year ended December 31, 2018 (except for exhibits), will be mailed when available without charge to a holder of shares of the Common Stock upon written request directed to John L. Pierschbacher, Chief Financial Officer and Secretary, Ames National Corporation, P.O. Box 846, 405 5th Street, Ames, Iowa 50010.
+OTHER MATTERS
+Management of the Company knows of no matters which will be presented for consideration at the Meeting other than those stated in the Notice of Annual Meeting which is part of this Proxy Statement, nor does management intend itself to present any other business. If any other matters do properly come before the Meeting, it is intended that the persons named in the accompanying proxy will vote thereon in accordance with their judgment. The persons named in the proxy will also have the power to vote for the adjournment of the Meeting from time to time.
+At the annual meeting of shareholders held in 2017, the shareholders of the Company voted, on an advisory basis, to hold an advisory vote on executive compensation every three (3) years. The Board, based on the results of the shareholder advisory vote, approved the frequency of an advisory vote on executive compensation every three (3) years. The most recent advisory vote on executive compensation occurred at the annual meeting of shareholder held in 2017. Consistent with the three year schedule, shareholders will next be asked to cast an advisory vote on executive compensation at the annual meeting of shareholders to be held in 2020.
+A copy of the Annual Report on Form 10-K for the year ended December 31, 2018, has been posted on the Company's website at www.amesnational.com, together with a copy of this Proxy Statement. Such report is not incorporated in this Proxy Statement and is not to be considered a part of the proxy soliciting material.
+The Report of the Audit Committee (including the reference to the independence of the Audit Committee members) contained herein is not being filed with the Securities and Exchange Commission and shall not be deemed incorporated by reference in any prior or future filings made by the Company under the Securities Act of 1933, as amended, or the Securities Exchange Act of 1934, as amended, except to the extent the Company specifically incorporates such information by reference.

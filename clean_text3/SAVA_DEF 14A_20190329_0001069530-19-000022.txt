@@ -1,0 +1,473 @@
+UNITED STATES
+SECURITIES AND EXCHANGE COMMISSION
+WASHINGTON, DC 20549
+SCHEDULE 14A
+(Rule 14a-101)
+INFORMATION REQUIRED IN PROXY STATEMENT
+SCHEDULE 14A INFORMATION
+Proxy Statement Pursuant to Schedule 14a of the Securities 
+Exchange Act Of 1934
+Filed by the Registrant ☑ 
+Filed by a party other than the Registrant ☐
+Check the appropriate box:
+☐   Preliminary Proxy Statement
+☐   Confidential, for Use of the Commission Only (as permitted by Rule 14a-6(e)(2))
+☑    Definitive Proxy Statement
+☐   Definitive Additional Materials
+☐   Soliciting Material Pursuant to §240.14a‑12
+[BEGIN TABLE]
+  Cassava Sciences, Inc.  (Name of Registrant as Specified in its Charter)  
+  Cassava Sciences, Inc.  (Name of Registrant as Specified in its Charter)  
+    Not Applicable   (Name of Person(s) Filing Proxy Statement, if other than the Registrant)  
+    Not Applicable   (Name of Person(s) Filing Proxy Statement, if other than the Registrant)  
+    Not Applicable   (Name of Person(s) Filing Proxy Statement, if other than the Registrant)  
+[END TABLE]
+Payment of Filing Fee (Check the appropriate box):
+[BEGIN TABLE]
+  ☑    No fee required.  
+  ☐    Fee computed on table below per Exchange Act Rules 14a‑6(i)(1) and 0‑11.  
+  (1)   Title of each class of securities to which transaction applies:  
+  (2)   Aggregate number of securities to which transaction applies:  
+  (3)   Per unit price or other underlying value of transaction computed pursuant to Exchange Act Rule 0 11 (set forth the amount on which the filing fee is calculated and state how it was determined):  
+  (4)   Proposed maximum aggregate value of transaction:  
+  (5)   Total fee paid:  
+  ☐    Fee paid previously with preliminary materials.  
+  ☐    Check box if any part of the fee is offset as provided by Exchange Act Rule 0 11(a)(2) and identify the filing for which the offsetting fee was paid previously.  Identify the previous filing by registration statement number, or the Form or Schedule and the date of its filing.  
+  (1)   Amount Previously Paid:  
+  (2)   Form, Schedule or Registration Statement No.:  
+  (3)   Filing Party:  
+  (4)   Date Filed:  
+[END TABLE]
+ Cassava Sciences, Inc.
+NOTICE OF ANNUAL MEETING OF STOCKHOLDERS
+May 9, 2019
+To the Stockholders:
+NOTICE IS HEREBY GIVEN that the Annual Meeting of Stockholders of Cassava Sciences, Inc. ("we" or the "Company"), a Delaware corporation, will be held on Thursday, May 9, 2019 at 10:00 a.m., local time, at the Company's offices located at 7801 N Capital of Texas Highway, Suite 260, Austin, Texas, 78731 for the following purposes:
+[BEGIN TABLE]
+    1.      Proposal One: To re-elect Nadav Friedmann, Ph.D., M.D. and Michael J. O'Donnell as Class I Directors to serve for three-year terms and until their successors are duly elected and qualified; 
+    2.      Proposal Two: To ratify the selection of Ernst & Young LLP as the independent registered public accounting firm for the Company for the fiscal year ending December 31, 2019;  
+    3.      Proposal Three: To approve, by a non-binding advisory vote, the 2018 executive compensation for the Company's executive officers; and 
+    4.      To transact such other business as may properly be brought before the meeting and any adjournment(s) thereof. 
+[END TABLE]
+The foregoing items of business are more fully described in the Proxy Statement accompanying this Notice.  Only stockholders of record at the close of business on March 19, 2019 are entitled to notice of the meeting and to vote at the meeting.
+Sincerely,
+/s/Remi Barbier
+Remi Barbier
+President, Chief Executive Officer, and Chairman of the Board of Directors
+Austin, Texas
+March 29,  YOUR VOTE IS IMPORTANT
+THIS PROXY STATEMENT IS FURNISHED IN CONNECTION WITH THE SOLICITATION OF PROXIES BY THE COMPANY, ON BEHALF OF THE BOARD OF DIRECTORS, FOR THE 2019 ANNUAL MEETING OF STOCKHOLDERS. THE PROXY STATEMENT AND THE RELATED PROXY FORM ARE BEING DISTRIBUTED ON OR ABOUT MARCH 29, 2019.  YOU CAN VOTE YOUR SHARES USING ONE OF THE FOLLOWING METHODS: 
+[BEGIN TABLE]
+· COMPLETE AND RETURN A WRITTEN PROXY CARD  
+· BY INTERNET OR TELEPHONE 
+· ATTEND THE COMPANY'S 2019 ANNUAL MEETING OF STOCKHOLDERS AND VOTE 
+[END TABLE]
+ALL STOCKHOLDERS ARE CORDIALLY INVITED TO ATTEND THE MEETING. TO ENSURE YOUR REPRESENTATION AT THE MEETING, HOWEVER, YOU ARE URGED TO MARK, SIGN, DATE AND RETURN THE ENCLOSED PROXY CARD AS PROMPTLY AS POSSIBLE IN THE POSTAGE-PREPAID ENVELOPE ENCLOSED FOR THAT PURPOSE OR TO VOTE YOUR SHARES BY INTERNET OR TELEPHONE.  ANY STOCKHOLDER ATTENDING THE MEETING MAY VOTE IN PERSON EVEN IF HE OR SHE HAS RETURNED A PROXY CARD OR HAS VOTED BY INTERNET OR TELEPHONE.
+IMPORTANT NOTICE REGARDING THE AVAILABILITY OF PROXY 
+MATERIALS FOR THE STOCKHOLDER MEETING TO BE HELD ON MAY 9, 2019: 
+The Company's Proxy Statement, form of proxy card and Annual Report on Form 10-K are available at: http://investor.cassavasciences.com/financial-information. Cassava Sciences, Inc.
+7801 N Capital of Texas Highway, Suite 260, Austin, Texas, 78731 
+________________
+PROXY STATEMENT
+________________
+INFORMATION CONCERNING SOLICITATION AND VOTING
+General
+The enclosed Proxy is solicited on behalf of the Board of Directors of Cassava Sciences, Inc. (the "Company") for use at the Annual Meeting of Stockholders to be held at the Company's offices located at 7801 N Capital of Texas Highway, Suite 260, Austin, Texas, 78731, on Thursday, May 9, 2019, at 10:00 a.m., local time, and at any adjournment(s) thereof, for the purposes set forth herein and in the accompanying Notice of Annual Meeting of Stockholders. The Company's principal executive offices are located at the address listed at the top of this page and the Company's telephone number is (512) 501-2444.
+The Company's Annual Report on Form 10-K, containing financial statements for the fiscal year ended December 31, 2018, are being mailed together with these proxy solicitation materials to all stockholders entitled to vote. This Proxy Statement, the accompanying Proxy and the Company's Annual Report on Form 10-K will first be mailed on or about April 5, 2019 to all stockholders entitled to vote at the meeting.
+THE COMPANY SHALL PROVIDE WITHOUT CHARGE TO ANY STOCKHOLDER SOLICITED BY THESE PROXY SOLICITATION MATERIALS A COPY OF THE COMPANY'S ANNUAL REPORT ON FORM 10-K, TOGETHER WITH THE FINANCIAL STATEMENTS REQUIRED TO BE FILED WITH THE ANNUAL REPORT ON FORM 10-K, UPON REQUEST OF A STOCKHOLDER MADE IN WRITING TO CASSAVA SCIENCES, INC., 7801 N CAPITAL OF TEXAS HIGHWAY, SUITE 260, AUSTIN, TEXAS, 78731, ATTENTION:  INVESTOR RELATIONS.
+Record Date and Share Ownership
+Stockholders of record at the close of business on March 19, 2019 (the "Record Date") are entitled to notice of the meeting and to vote at the meeting and at any adjournment(s) thereof. The Company has one series of common shares issued and outstanding, designated as common stock, $0.001 par value per share (the "Common Stock"), and one series of undesignated preferred stock, $0.001 par value per share (the "Preferred Stock").  As of the Record Date, 120,000,000 shares of Common Stock were authorized and 17,219,300 shares of Common Stock were issued and outstanding and 10,000,000 shares of Preferred Stock were authorized and none were issued or outstanding. Each share of Common Stock entitles its holder to one vote. Cumulative voting of shares of Common Stock is not permitted.
+Revocability of Proxies
+Any proxy given pursuant to this solicitation may be revoked by the person giving it at any time before its use by delivering to the Company at its principal offices (Attention: Corporate Secretary) a written notice of revocation or a duly executed proxy bearing a later date or attending the meeting and voting in person.
+Voting
+There are differing vote requirements for the approval of the various proposals, as follows:
+[BEGIN TABLE]
+· Proposal One: The directors will be elected by a plurality vote of the shares of Common Stock. See Proposal One – Election of Three Class I Directors – Vote Required. 
+· Proposals Two and Three: The ratification of the selection of Ernst & Young LLP as the independent registered public accounting firm to the Company and the non-binding advisory vote on executive compensation will be approved if the votes cast for the proposal exceed those cast against the proposal.  Abstentions will not be counted either for or against either proposal. 
+[END TABLE]
+Solicitation of Proxies
+The Company will bear the entire cost of solicitation of proxies, including preparation, assembly, printing and mailing of this Proxy Statement, the Proxy and any additional information furnished to stockholders.  Copies of solicitation materials will be furnished to banks, brokerage houses, fiduciaries and custodians holding shares of Common Stock in street name to forward to the beneficial owners of such shares.  The Company may reimburse persons representing beneficial owners of Common Stock for their costs of forwarding solicitation materials to such beneficial owners. Proxies may also be solicited by certain of the Company's directors, officers and regular employees, without additional compensation, personally or by telephone or facsimile.
+Quorum; Abstentions; Broker Non-Votes 
+Votes cast by proxy or in person at the Annual Meeting of Stockholders ("Votes Cast") will be tabulated by the Inspector of Elections (the "Inspector").  The Inspector will also determine whether or not a quorum is present at the meeting. Except in certain specific circumstances,  the affirmative vote of a majority of shares present in person or represented by proxy at a duly held meeting at which a quorum is present is required under Delaware law for approval of proposals presented to stockholders.  In general, Delaware law provides that a quorum consists of a majority of shares entitled to vote are present or represented by proxy at the meeting.
+The Inspector will treat shares that are voted WITHHELD or ABSTAIN as being present and entitled to vote for purposes of determining the presence of a quorum, but shares voted WITHHELD or ABSTAIN will not be treated as votes in favor of approving any matter submitted to the stockholders for a vote.  When proxies are properly dated, executed and returned, the shares represented by such proxies will be voted at the Annual Meeting of Stockholders  in accordance with the instructions of the stockholder. If no specific instructions are given, the shares will be voted:
+[BEGIN TABLE]
+· for the election of the nominees for director set forth herein; 
+· for the ratification of the selection of Ernst & Young LLP as the independent registered public accounting firm to the Company for the fiscal year ending December 31, 2019;   
+· to APPROVE, by a non-binding advisory vote, the 2018 executive compensation for the Company's executive officers; and 
+· upon such other business as may properly come before the Annual Meeting of Stockholders or any adjournment thereof, but will not be voted in the election of directors other than as provided above. 
+[END TABLE]
+If a broker indicates on the enclosed proxy or its substitute that such broker does not have discretionary authority as to certain shares to vote on a particular matter ("broker non-votes"), those shares will be considered as present at the meeting with respect to establishing a quorum for the transaction of business.  The Company believes that the tabulation procedures to be followed by the Inspector are consistent with the general statutory requirements in Delaware concerning voting of shares and determination of a quorum.
+Broker non-votes with respect to proposals set forth in this Proxy Statement will not be considered "Votes Cast" and, accordingly, will not affect the determination as to whether the requisite majority of Votes Cast has been obtained with respect to a particular matter. 
+Deadline for Receipt of Stockholder Proposals  
+Stockholders are entitled to present proposals for action, including nominees for the election of directors and other business, at a forthcoming meeting if they comply with the requirements of the Company's bylaws and the rules established by the Securities and Exchange Commission (the "SEC"), under the Securities Exchange Act of 1934, as amended (the "Exchange Act").  Under these requirements, proposals of stockholders of the Company that are intended to be presented by such stockholders at the Company's 2020 Annual Meeting of Stockholders must be received by the Company no later than November 29, 2019, or not less than 120 days prior to the date the Company's proxy statement was released to the stockholders in connection with the previous year's annual meeting of stockholders; provided however, if the 2020 Annual Meeting of Stockholders is more than 30 days before or after the anniversary date of the Annual Meeting of Stockholders, notice by the stockholder must be delivered a reasonable time before the Company begins to print and send its proxy materials  (the "Proposal Deadline"). After the Proposal Deadline, a proposal of a stockholder is considered untimely. A copy of the relevant bylaw provisions related to stockholder proposals is available upon written request to the Company at: 7801 N Capital of Texas Highway, Suite 260, Austin, Texas, 78731, Attention: Investor Relations.
+How to Obtain Directions to Location of Annual Meeting of Stockholders 
+Our Annual Meeting of Stockholders is being held at the time and place set forth above under the heading "General". For directions to the Annual Meeting of Stockholders, contact the Company at (512) 501-2444. 
+Internet Availability of Proxy Materials and Annual Report
+ This Proxy Statement, the form of proxy card and the Annual Report on Form 10-K are available at: http://investor.cassavasciences.com/financial-information. PROPOSAL ONE
+ELECTION OF TWO CLASS I DIRECTORS
+Nominees
+The Company's Board of Directors consists of seven directors. The Company has a classified Board of Directors, which is divided into three classes of directors whose terms expire at different times. The three classes are currently comprised of the following directors: 
+[BEGIN TABLE]
+· Class I consists of Nadav Friedmann, Ph.D., M.D. and Michael J. O'Donnell, who will serve until the 2019 Annual Meeting of Stockholders and who stand for re-election as Class I directors at such meeting; 
+· Class II consists of Robert Z. Gussin, Ph.D. and Saira Ramasastry, who will serve until the 2020 Annual Meeting of Stockholders and who stand for re-election as Class II directors at such meeting; and 
+· Class III consists of Remi Barbier, Sanford R. Robertson and Patrick J. Scannon, M.D., Ph.D., who will serve until the 2021 Annual Meeting of Stockholders and who stand for re-election as Class III directors at such meeting. 
+[END TABLE]
+At each Annual Meeting of Stockholders, the successors to directors whose terms will then expire will be elected to serve from the time of election and qualification until the third annual meeting following election and until their successors have been duly elected and qualified. 
+Unless otherwise instructed, the proxy holders will vote the proxies received by them for the Company's nominees named below, who are currently directors of the Company. The nominees have consented to be named as such in this Proxy Statement and to continue to serve as directors if elected. If a nominee becomes unable or declines to serve as a director or if additional persons are nominated at the meeting, the proxy holders intend to vote all proxies received by them in such a manner as will assure the election of the nominees listed below if possible (or, if new nominees have been designated by the Company's Board of Directors, in such a manner as to elect such nominees), and the specific nominees to be voted for will be determined by the proxy holders.
+The nominees for Class I Director are Nadav Friedmann, Ph.D., M.D. and Michael J. O'Donnell.  Biographical information for the nominees can be found below in the section entitled "Directors and Executive Officers."
+The Company is not aware of any reason that the nominees will be unable or will decline to serve as director. The term of office of an individual elected as director will continue until the Company's Annual Meeting of Stockholders held in 2022 or until a successor has been elected and qualified. Other than the relationships noted in the section entitled "Legal Services," there are no arrangements or understandings between any director or executive officer and any other person pursuant to which he is or was to be selected as a director or officer of the Company.
+Vote Required
+Each director will be elected by a plurality vote of the shares of Common Stock present or represented and entitled to vote on this matter at the meeting. Accordingly, the candidate receiving the highest number of affirmative votes of shares represented and voting on this proposal at the meeting will be elected as director of the Company. Votes withheld from a nominee and broker non-votes will be counted for purposes of determining the presence or absence of a quorum but, because directors are elected by a plurality vote, votes withheld and broker non-votes will have no impact once a quorum is present. See "Quorum; Abstentions; Broker Non-Votes."
+THE CLASS II AND III DIRECTORS RECOMMEND THAT
+STOCKHOLDERS VOTE FOR THE CLASS I NOMINEES LISTED ABOVE. PROPOSAL TWO
+RATIFICATION OF SELECTION OF ERNST & YOUNG LLP 
+AS INDEPENDENT REGISTERED PUBLIC ACCOUNTING FIRM  
+TO THE COMPANY FOR THE FISCAL YEAR ENDING DECEMBER 31, 2019
+The Board of Directors and the Audit Committee have selected Ernst & Young LLP, independent registered public accounting firm, to audit the financial statements of the Company for the fiscal year ending December 31, 2019 and recommend that the stockholders vote to ratify such selection.  Although action by stockholders is not required by law, the Board of Directors has determined that it is desirable to request approval of this selection by the stockholders.  Notwithstanding the selection or ratification, the Board of Directors and the Audit Committee, in their discretion, may direct the selection of a new independent registered public accounting firm at any time during the year, if the Board of Directors and the Audit Committee determine that such a change would be in the best interest of the Company. 
+We expect a representative of Ernst & Young LLP to be present at the meeting and will be afforded the opportunity to make a statement if he or she desires to do so, and is also expected to be available to respond to appropriate questions.
+THE BOARD OF DIRECTORS UNANIMOUSLY RECOMMENDS THAT STOCKHOLDERS 
+VOTE FOR THE PROPOSAL TO RATIFY THE SELECTION OF ERNST & YOUNG LLP 
+AS THE INDEPENDENT REGISTERED PUBLIC ACCOUNTING FIRM 
+TO THE COMPANY FOR THE FISCAL YEAR ENDING DECEMBER 31, 2019.
+Principal Accountant Fees and Services
+Fees for professional services provided by our independent registered public accounting firm in each of the last two fiscal years, in each of the following categories were:
+[BEGIN TABLE]
+      Years Ended December 31,  
+      2018     						     2017  
+  Audit fees     $  228,500   				    						     $  259,800   				 
+  Audit-related fees      						       —     						      						       —  
+  Tax fees      						   23,176   				    						      						   21,000   				 
+  All other fees      						       —     						      						       —  
+      $  251,676   				    						     $  280,800   				 
+[END TABLE]
+Ernst & Young LLP served as the Company's independent registered public accounting firm for the years ended December 31, 2018 and 2017.  Audit fees include fees associated with the Annual Reports on Form 10-K; the Quarterly Reports on Form 10-Q and all services that are normally provided by the independent registered public accounting firm in connection with statutory and regulatory filings.  Tax fees include tax compliance services.  The Company did not incur audit-related or other fees in the years ended December 31, 2018 or December 31, 2017. 
+All auditing services and non-audit services provided to the Company by our independent registered public accounting firm are required to be pre-approved by the Audit Committee.  Any pre-approval of non-audit services by Ernst & Young LLP includes making a determination that the provision of the services is compatible with maintaining the independence of Ernst & Young LLP as an independent registered public accounting firm.  In addition, the Audit Committee has delegated pre-approval authority to the Chairperson of the Audit Committee, provided that the Chairperson reports any decisions to pre-approve such audit and non-audit services to the Audit Committee at its next regularly scheduled meeting.  All services for audit and tax fees for the years ended December 31, 2018 and December 31, 2017 as set forth in the table above were pre-approved by the Company's Audit Committee. PROPOSAL THREE
+ADVISORY VOTE ON EXECUTIVE COMPENSATION
+Our compensation programs are designed to provide long-term and currently-paid compensation and cash and non-cash compensation for our executive officers in order to align the compensation of our executive officers with our performance on a short term and long term basis.  This proposal provides stockholders with the opportunity to cast an advisory vote on the Company's executive compensation practices and principles. 
+In 2017, our stockholders recommended that the advisory vote on executive compensation be held every year.  Accordingly, we have included this proposal for consideration at our 2019 Annual Meeting of Stockholders.
+Stockholders should consider the compensation programs and their implementation, including the section entitled "Executive Compensation and Other Matters", the compensation tables, and any other executive compensation disclosure below, and cast a non-binding vote either to endorse or not endorse our executive compensation programs through the following resolution: 
+"RESOLVED: That the compensation paid to the Company's named executive officers in 2018, as disclosed pursuant to Item 402 of Regulation S-K, including the Compensation Discussion and Analysis, compensation tables, and narrative discussion is hereby approved." 
+This vote is being provided pursuant to Section 14A of the Exchange Act.  While the vote does not bind our Board of Directors to any particular action, the Board of Directors expects to take into account the outcome of this vote in considering future compensation programs. The next advisory vote on our executive compensation will be at the 2020 Annual Meeting of Stockholders.
+THE BOARD OF DIRECTORS UNANIMOUSLY RECOMMENDS THAT STOCKHOLDERS 
+VOTE FOR THE PROPOSAL TO APPROVE, IN A NON-BINDING ADVISORY VOTE, 
+THE 2018 EXECUTIVE COMPENSATION FOR THE COMPANY'S EXECUTIVE OFFICERS. DIRECTORS AND EXECUTIVE OFFICERS
+The following table sets forth for each Class I Director, each Class II Director, each Class III Director and the executive officers of the Company, their ages and positions with the Company as of the Record Date.
+[BEGIN TABLE]
+  Name    Age    Position  
+  Remi Barbier     59    President, Chief Executive Officer, Chairman of the Board of Directors and Class III Director  
+  Nadav Friedmann, Ph.D., M.D.     76    Chief Medical and Operating Officer and Class I Director  
+  Eric Schoen    50    Chief Financial Officer  
+  Robert Z. Gussin, Ph.D. (1)(2)(3)     81    Class II Director  
+  Michael J. O'Donnell, Esq. (3)     60    Class I Director  
+  Saira Ramasastry (1)(3)     43    Class II Director  
+  Sanford R. Robertson (1)(2)(3)     86    Class III Director  
+  Patrick J. Scannon, M.D., Ph.D. (3)    71    Class III Director  
+[END TABLE]
+_________
+[BEGIN TABLE]
+    (1)      Member of Audit Committee. 
+    (2)      Member of Compensation Committee.  
+    (3)      Meets the definition of independence under the Nasdaq Stock Market LLC listing standards. 
+[END TABLE]
+There is no family relationship between any director or executive officer of the Company. There are no material proceedings to which any director, officer or affiliate, or any associate thereof, of the Company, any owner of record or beneficially of more than five percent of any class of voting securities of the Company, or security holder is a party adverse to the Company or any of its subsidiaries or has a material interest adverse to the Company or any of its subsidiaries. During the past ten years, none of our officers, directors, promoters or control persons have been involved in any legal proceedings as described in Item 401(f) of Regulation S-K.
+Remi Barbier,  the Company's founder, has served as President, Chief Executive Officer and Chairman of the Board of Directors since the Company's inception in May 1998. Prior to that time, Mr. Barbier helped in the growth or founding of: Exelixis Inc., a publicly-traded drug development company, ArQule, Inc., a publicly-traded drug development company, and EnzyMed, Inc. (now owned by Albany Molecular Research, Inc.), a chemistry company. Mr. Barbier served as Chief Operating Officer of Exelixis, Inc. from January 1996 to May 1998.  Mr. Barbier was Vice President of Corporate Development and Clinical Project Manager of XOMA Corporation ("XOMA"), a biotechnology company, from 1993 to 1995.  Mr. Barbier is a trustee emeritus of the Carnegie Institute of Washington and the Santa Fe Institute and is on the Advisory Board of the University of California Institute for Quantitative Biosciences.  Mr. Barbier received his B.A. from Oberlin College and his M.B.A. from the University of Chicago.
+Nadav Friedmann, Ph.D., M.D. has served as a director since September 1998.  Dr. Friedmann has served as Chief Operating Officer since October 2001 and Chief Medical and Operating Officer since 2004.  Dr. Friedmann was President and Chief Executive Officer of Daiichi Pharmaceutical Corporation from 1997 to 2000, and was a consultant to the Board of Directors of Daiichi Pharmaceutical Co., Ltd. in Tokyo from 1995 to 1997.  From 1992 to 1995, Dr. Friedmann served as Vice President, Clinical Research at XOMA.  From 1980 to 1991, Dr. Friedmann held senior leadership positions with Johnson & Johnson ("J&J"), including Vice President and Head of Research of the J&J Biotechnology Center.  Prior to that, Dr. Friedmann was Medical Director of Abbott Laboratories.  Dr. Friedmann received his M.D. from the Albert Einstein College of Medicine and his Ph.D. in Biochemistry from the University of California, San Diego.
+Eric Schoen has served as Chief Financial Officer since October 2018. Prior to joining the Company, Mr. Schoen served in numerous financial leadership roles.  Most recently, he served as Vice President, Senior Vice President, Finance and Chief Accounting Officer of Vermillion, Inc., a publicly-held bioanalytical-based women's health company focused on gynecologic disease, from 2011 to 2017. Prior to that, Mr. Schoen served as Revenue Controller for Borland Software from 2007 to 2010. Mr. Schoen also began his career and spent nine years with PricewaterhouseCoopers in the audit and assurance, transaction services and global capital markets practices. Mr. Schoen received his B.S. in Finance from Santa Clara University. 
+Robert Z. Gussin, Ph.D. has served as a director since March 2003.  Dr. Gussin worked at J&J for 26 years, most recently as Chief Scientific Officer and Corporate Vice President, Science and Technology from 1986 through his retirement in 2000.  Prior to assuming this role, Dr. Gussin worked at J&J's McNeil division for 12 years, most recently as Vice President, Research and Development and Vice President, Scientific Affairs.  Dr. Gussin served on the board of directors of Duquesne University and the advisory boards of the Duquesne University Pharmacy School and the University of Michigan Medical School Department of Pharmacology.  Dr. Gussin received his B.S. and M.S. degrees and D.Sc. with honors from Duquesne University and his Ph.D. in Pharmacology from the University of Michigan, Ann Arbor.
+Michael J. O'Donnell, Esq. has served as a director since June 1998. Mr. O'Donnell has been a member of the law firm of Morrison & Foerster, LLP since January 2011.  From 1993 to January 2011, Mr. O'Donnell was a member of the law firm of Wilson Sonsini Goodrich & Rosati, Professional Corporation. Morrison & Foerster, LLP is the Company's corporate counsel and provides legal services to the Company.  Mr. O'Donnell serves as corporate counsel to numerous public and private biopharmaceutical and life sciences companies.  Mr. O'Donnell received his J.D., cum laude, from Harvard University and his B.A. from Bucknell University, summa cum laude.  Saira Ramasastry has served as a director since February 2013.  Prior to 2013, Ms. Ramasastry was an advisor to the Company. Since 2009 she has served as Managing Partner of Life Sciences Advisory, LLC, a life science company advisory business.  From 1999 to 2009, Ms. Ramasastry was an investment banker with Merrill Lynch & Company, Inc., an investment banking firm.  From 1997 to 1998, she was a financial analyst in the M&A group at Wasserstein Perella & Co., an investment banking firm. Ms. Ramasastry serves on the Board of Directors of Sangamo Biosciences, Inc. and Innovate Biopharmaceuticals, Inc., each a publicly-held biopharmaceutical company, the Industry Advisory Board of the Michael J. Fox Foundation for Parkinson's Research and the head of business and sustainability for the European Prevention of Alzheimer's Dementia (EPAD). She received her B.A. in Economics with Honors and Distinction and an M.S. in Management Science and Engineering from Stanford University, Phi Beta Kappa, as well as an M. Phil. in Management Studies from the University of Cambridge. 
+Sanford R. Robertson has served as a director since September 1998. Mr. Robertson has been a partner of Francisco Partners, a technology buyout fund, since 1999.  Prior to founding Francisco Partners, Mr. Robertson was the founder and chairman of Robertson, Stephens & Company, a technology investment bank sold to BankBoston in 1998.  Since the sale, Mr. Robertson has been a technology investor and advisor to several technology companies.  Mr. Robertson was also the founder of Robertson, Colman, Siebel & Weisel, later renamed Montgomery Securities, another technology investment bank.  Mr. Robertson is a director of Salesforce.com, a publicly-held provider of enterprise cloud computing applications.  Mr. Robertson received his B.A. and M.B.A. degrees with distinction from the University of Michigan.
+Patrick J. Scannon, M.D., Ph.D. has served as a director since December 2007.  Dr. Scannon is one of the founders of XOMA.  From 2006 to 2016, Dr. Scannon was Executive Vice President, Chief Biotechnology Officer of XOMA. From 1993 to 2006, Dr. Scannon served as Chief Scientific and Medical Officer of XOMA.  Dr. Scannon retired from XOMA and resigned from XOMA's board of directors in 2016. Dr. Scannon received his Ph.D. in organic chemistry from the University of California, Berkeley and his M.D. from the Medical College of Georgia. 
+Board Structure
+The Board of Directors maintains a structure with the Chief Executive Officer of the Company holding the position as Chairman of the Board of Directors, and with an Audit Committee and Compensation Committee for oversight of specific areas of responsibility, discussed further below. The Company does not have a lead independent director. The Company believes that this structure is appropriate and allows for efficient and effective oversight, given the Company's relatively small size (both in terms of number of employees and in scope of operational activities directly conducted by the Company), its corporate strategy (including the use of outsourcing for certain activities) and its focus on drug research and development. The Chairman, President and Chief Executive Officer, the Committees of the Board of Directors and, as needed, other executive officers and employees of the Company provide the Board of Directors with information regarding the Company's risks.  The Board of Directors, or the Committee with special responsibility for oversight of the area implicated by the highlighted risks, then uses this information to perform its oversight role and inform its decision making with respect to such areas of risk. Board Qualifications and Nominations
+The Board of Directors requires that its members and its candidates for appointment or nomination maintain high personal and professional integrity and the ability to contribute to the Board of Directors' effectiveness in serving the interests of the Company's stockholders.  In addition, the Board of Directors and director nominees are expected to have appropriate management or scientific experience that are relevant to our current and expected future direction, a track record of accomplishment and a commitment to ethical business practices.  The particular experience, qualification or skills of each member of the Board of Directors that led the Board of Directors to conclude that the individual should serve as a director are set forth below:
+[BEGIN TABLE]
+  Director    Key Qualifications  
+  Remi Barbier     Experience as President, Chief Executive Officer, Chairman of the Board of Directors since the inception of the Company.  Founded and grew several publicly-traded biotechnology companies.  
+  Nadav Friedmann, Ph.D., M.D.     Experience as Chief Medical and Operating Officer of the Company.  Additional experience as President and CEO and other executive roles at other pharmaceutical and biotechnology companies as an executive officer.  
+  Robert Z. Gussin, Ph.D.     Experience in executive roles at J&J and as a director or as advisor to a number of academic institutions.  
+  Michael J. O'Donnell, Esq.     Experience as a member of law firms and as counsel and advisor to numerous public and private biopharmaceutical and life sciences companies.  
+  Saira Ramasastry      Experience as founder and managing director of a biotechnology advisory firm, in global healthcare investment banking and strategic advisory consulting, as a director of a public company and a director or advisor to a number of academic or biotechnology institutions.  
+  Sanford R. Robertson      Experience as founder and director of investment banks and funds and as a director to public companies.  
+  Patrick J. Scannon, M.D., Ph.D.    Experience as a founder and executive of a biopharmaceutical company.  
+[END TABLE]
+The Board of Directors evaluates all proposed director nominees and incumbent directors before nomination, including those proposed by the Board of Directors for election and those to be elected or appointed by the Board of Directors to fill interim director vacancies on the Board of Directors.  The Board of Directors utilizes its own resources to identify qualified candidates and may, in the future, use an executive recruiting firm to assist in the identification and evaluation of such qualified candidates.  For these services, an executive recruiting firm would be paid a fee.  The Board of Directors determined that a Nominating Committee was not necessary, and that it was in the best interest of the Company to continue to directly oversee the activities and responsibilities that might be delegated to a Nominating Committee.  All of the Company's directors may participate in the consideration of director candidates.  The approval of at least a majority of the independent directors on the Board of Directors is required to nominate a director candidate for a position on the Company's Board of Directors.  Such independent directors are identified below in the section entitled: "Certain Relationships and Related Party Transactions – Independence of Directors."
+The Board of Directors has not established a procedure for considering nominees for director nominated by the Company's stockholders.  The Board of Directors believes that it can identify appropriate candidates to our Board of Directors.  Stockholders may nominate candidates for director in accordance with the advance notice and other procedures contained in our bylaws.
+Board Meetings 
+The Board of Directors held a total of four meetings during the fiscal year 2018.  No director serving throughout fiscal year 2018 attended fewer than 75% of the aggregate of all meetings of the Board of Directors and the committees of the Board of Directors upon which such director served, except for Dr. Scannon who attended 50% of meetings.  Mr. Barbier, Dr. Friedmann, Mr. Gussin, Mr. O'Donnell, Mr. Robertson and Ms. Ramasastry attended all meetings of the Board of Directors.  
+The Company does not have formal policies regarding attendance by members of the Board of Directors at its annual meetings of stockholders, but directors are encouraged to attend.  Two directors attended the 2018 Annual Meeting of Stockholders. 
+Stockholder Communications with the Board of Directors 
+The Company does not have a written policy regarding stockholder communication with the Board of Directors.  However, stockholders may communicate with the Board of Directors by sending an e-mail to the Company at IR@cassavasciences.com or by writing to the Company at Cassava Sciences, Inc., Attention: Investor Relations, 7801 N Capital of Texas Highway, Suite 260, Austin, Texas, 78731.  Stockholders who would like their submissions directed to an individual member of the Board of Directors may so specify, and the communication will be forwarded, as appropriate. Board Committees
+The Board of Directors has a standing Audit Committee that oversees the Company's accounting and financial reporting processes and audits of the Company's financial statements. The Company also has a standing Compensation Committee. The Board of Directors does not have a lead director or a standing Nominating Committee. Mr. Barbier is the Chairman of the Board of Directors, President and Chief Executive Officer of the Company.
+The Audit Committee consists of directors Dr. Gussin, Mr. Robertson and Ms. Ramasastry.  The Board of Directors of the Company has determined that these individuals are independent as defined under the Nasdaq Stock Market LLC listing standards as well as the SEC rules.  The Board of Directors has also determined that Mr. Robertson is an "audit committee financial expert" as defined in the SEC rules.  The Audit Committee operates under a written charter adopted by the Board of Directors.  The Company maintains a copy of the Audit Committee charter on its website: www.cassavasciences.com.  The Audit Committee reviews the Company's internal accounting procedures, consults with and reviews the services provided by the Company's independent registered public accounting firm and makes recommendations to the Board of Directors regarding the selection of the independent registered public accounting firm.  The Audit Committee held five meetings during fiscal year 2018. 
+The Compensation Committee consists of directors Dr. Gussin and Mr. Robertson.  The Board of Directors of the Company has determined that these individuals are independent as defined under the Nasdaq Stock Market LLC listing standards. The Compensation Committee reviews and recommends to the Board of Directors the salaries, incentive compensation and benefits of the Company's officers and administers the Company's stock plans and employee benefit plans. Refer to the "Compensation Discussion and Analysis" section herein for more information about the Company's Compensation Committee and its processes and procedures.  The Compensation Committee operates under a written charter adopted by the Board of Directors.  The Company maintains a copy of the Compensation Committee charter on its website: www.cassavasciences.com.  The Compensation Committee held one meeting during fiscal year 2018. 
+Compensation Committee Interlocks and Insider Participation
+No member of the Compensation Committee or any executive officer of the Company has served as a member of the Board of Directors or compensation committee of any entity that has one or more executive officers serving as a member of the Company's Board of Directors or Compensation Committee.  No Compensation Committee member has been an officer or employee of the Company while also serving as a member of the Compensation Committee. SECURITY OWNERSHIP OF CERTAIN BENEFICIAL OWNERS AND MANAGEMENT
+The following table sets forth certain information with respect to the beneficial ownership of Common Stock as of March 18, 2019 by:
+[BEGIN TABLE]
+· any person (including any group as that term is used in Section 13(d)(3) of the Exchange Act), known by the Company to be the beneficial owner of more than 5% of the Company's voting securities (a "5% Holder");  
+· each director and each nominee for director to the Company;  
+· each executive officer named in the Summary Compensation Table appearing herein; and  
+· all executive officers, directors and nominees for director of the Company as a group.  
+[END TABLE]
+The number of shares and percentage of Common Stock outstanding are based on the aggregate of 17,219,300 shares of Common Stock outstanding as of March 18, 2019.  The Company does not know of any arrangements, including any pledge by any person of securities of the Company, the operation of which may at a subsequent date result in a change of control of the Company.
+[BEGIN TABLE]
+  Name and Address of Beneficial Owners (1)    Number of Shares     						     Percentage of Common Stock Outstanding  
+  5% Holders      						      						      						   
+  First Eagle Investment Management, LLC(2)  2,458,846   				    						     13.7%  
+  1345 Avenue of the Americas     						      						      						   
+  New York, NY 10105     						      						      						   
+  UBS Group AG(3)  2,186,540   				    						     12.7%  
+  Bahnhofstrasse 45     						      						      						   
+  PO Box CH-8098 Switzerland     						      						      						   
+  Armistice Capital Master Fund, Ltd.(4)  1,911,130   				    						     10.0%  
+  510 Madison Avenue, 7th Floor     						      						      						   
+  New York, NY 10022     						      						      						   
+  AIGH Capital Management, LLC(5)  1,237,781   				    						     7.2%  
+  6006 Berkeley Avenue      						      						      						   
+  Baltimore Maryland 21209     						      						      						   
+  Thomas A. Satterfield, Jr.(6)  1,373,195   				    						     7.7%  
+  2609 Caldwell Mill Lane     						      						      						   
+  Birmingham, Alabama 35243     						      						      						   
+  Hudson Bay Master Fund Ltd.(7)  1,176,471   				    						     6.4%  
+  777 Third Avenue, 30th Floor     						      						      						   
+  New York, NY 10017     						      						      						   
+  Intracoastal Capital LLC(8)  907,446   				    						     5.0%  
+  2211A Lakeside Drive     						      						      						   
+  Bannockbum, IL 60015     						      						      						   
+  CVI Investments, Inc.(9)  904,371   				    						     5.0%  
+  101 California Street, Suite 3250     						      						      						   
+  San Francisco, CA 94111     						      						      						   
+  Directors and Executive Officers     						      						      						   
+  Remi Barbier(10)  1,766,676   				    						     9.8%  
+  Nadav Friedmann, Ph.D., M.D.(11)  471,655   				    						     2.7%  
+  Eric Schoen(12)  6,250   				    						     *      
+  Sanford R. Robertson(13)  255,076   				    						     1.5%  
+  Robert Z. Gussin, Ph.D.(14)  96,358   				    						     *      
+  Michael J. O'Donnell, Esq.(15)      72,428   				    						     *      
+  Saira Ramasastry(12)  60,586   				    						     *      
+  Patrick J. Scannon, M.D., Ph.D.(12)  80,794   				    						     *      
+  All directors, executive officers and nominees for director as a group (8 persons)(16)  2,809,823   				    						     14.9%  
+    (1)      This table is based upon information supplied by officers, directors and principal stockholders and Schedules 13G filed with the SEC.  Unless otherwise indicated in the footnotes to this table, and subject to community property laws where applicable, each of the stockholders named in this table has sole voting and investment power with respect to the shares indicated as beneficially owned.  The address for directors and executive officers is the Company's address. Percentages of common stock outstanding are rounded to the nearest tenth. 
+    (2)      Based on a Schedule 13G/A as filed with the SEC and dated February 11, 2019. 
+    (3)      Based on a Schedule 13G as filed with the SEC and dated September 10, 2018. 
+    (4)      Based on a Schedule 13G/A as filed with the SEC and dated February 14, 2019. 
+    (5)      Based on a Schedule 13G as filed with the SEC and dated March 4, 2019 and includes a joint filing of AIGH Capital Management, LLC, AIGH Investment Partners, L.L.C. and Mr. Orin Hirschman. 
+    (6)      Based on a Schedule 13G/A as filed with the SEC and dated February 13, 2019. 
+    (7)      Based on a Schedule 13G as filed with the SEC and dated February 5, 2019. 
+[END TABLE]
+[BEGIN TABLE]
+    (8)      Based on a Schedule 13G/A as filed with the SEC and dated February 8, 2019. 
+    (9)      Based on a Schedule 13G/A as filed with the SEC and dated February 14, 2019. 
+    (10)      Includes (i) 709,010 shares issuable pursuant to options exercisable within 60 days of March 18, 2019, (ii) 89,521 shares issuable pursuant to options exercisable within 60 days of March 18, 2019 by Mr. Barbier's spouse, who is an employee of the Company and (iii) 311,252 shares held by members of Mr. Barbier's immediate family.  Mr. Barbier is also a 5% Holder. 
+    (11)      Includes 400,099 shares issuable pursuant to options exercisable within 60 days of March 18, 2019 and 143 shares held in trust by Dr. Friedmann for a member of Dr. Friedmann's family. 
+    (12)      Represents shares issuable pursuant to options exercisable within 60 days of March 18, 2019. 
+    (13)      Includes 86,121 shares issuable pursuant to options exercisable within 60 days of March 18, 2019. 
+    (14)      Includes 86,117 shares issuable pursuant to options exercisable within 60 days of March 18, 2019.   
+    (15)      Includes 61,858 shares issuable pursuant to options exercisable within 60 days of March 18, 2019.    
+    (16)      Includes 1,567,053 shares issuable pursuant to options exercisable within 60 days of March 18, 2019. 
+[END TABLE]
+*    Represents beneficial ownership of less than one percent (1%) of the outstanding shares of Common Stock, adjusted as required by the rules promulgated by the SEC.
+EXECUTIVE COMPENSATION AND OTHER MATTERS
+Compensation Discussion and Analysis
+Our compensation programs are designed to provide long-term and currently-paid compensation and cash and non-cash compensation for our executive officers in order to align the compensation of our executive officers with our performance on a short-term and long-term basis.  Our compensation programs reflect the following objectives: 
+[BEGIN TABLE]
+· to attract and retain high-performing executive talent; 
+· to encourage corporate behavior that is consistent with our values and goals; 
+· to create financial incentives for superior performance; 
+· to balance the achievement of corporate and individual goals, whereby individual executives are rewarded for the performance of the business functions for which they are responsible in addition to our overall performance; 
+· to ensure that our executive compensation programs are competitive with those of regional companies in our industry, so that we can continue to attract, retain and motivate executive talent; and 
+· to encourage the development of a diverse executive talent pool and continuity of leadership. 
+[END TABLE]
+These objectives include qualitative factors that strengthen our ability to meet long-term growth, such as demonstrated leadership ability, management development, ensuring compliance with laws, regulations and our policies, and anticipating and responding to changing conditions. 
+We do not have a set policy for allocating long-term and currently-paid compensation.  Each year, our Compensation Committee determines the amount and allocation of long-term and currently-paid compensation and cash and non-cash compensation for executive officers.  We believe there is no single source of data that provides the information sought by the Compensation Committee to arrive at these determinations.  We have relied on data from a number of sources, including a review of internally generated industry surveys; the experience and knowledge of members of the Compensation Committee, Board of Directors and senior management; and additional factors, such as recent market trends and general business conditions.  Survey data from prior years that we use include compensation information regarding publicly-held companies in our industry that are similar in size, breadth, stage of development or complexity to us. 
+While none of these sources of data is prescriptive per se, each source helps the Compensation Committee evaluate the appropriateness of total compensation for each executive at a particular point in the Company's life cycle.  For example, a certain position may be highly strategic for a period of time and we believe it may therefore be desirable to pay that position closer to the level of a chief executive officer during that period of time.
+To assist the Compensation Committee with its responsibilities, we provide briefing materials prepared or summarized by management.  Our Chief Executive Officer participates in the collection and dissemination of briefing materials and interacts with the Compensation Committee in reviewing some of the elements of yearly performance and compensation of the executive management team.  The Compensation Committee believes that an appropriate level of input from our Chief Executive Officer provides a necessary and valuable perspective in helping the Compensation Committee formulate its own independent views on compensation.  The Compensation Committee makes all final determinations as to compensation levels for executive officers.
+Elements of Executive Compensation
+We focus our executive compensation program on three related but distinct elements: base salary, cash bonuses and stock related compensation. We did not purchase or generate updated internal survey data in connection with the review of compensation in 2018. Base Salary. We offer a base salary to attract and retain qualified executive officers. Base salaries are based on broad salary ranges that take into consideration a number of factors, including:
+[BEGIN TABLE]
+· an executive's job responsibilities;  
+· individual performance;  
+· our corporate performance;  
+· competitive market data; and  
+· our total compensation expense. 
+[END TABLE]
+Changes to base salary vary according to individual contributions to our success and comparisons to similar positions here and at other comparable companies.
+In 2018, after reviewing each executive's job responsibilities, individual performance, our corporate performance, competitive market data and our total compensation expense, the annualized salary for Mr. Barbier and Dr. Friedmann were not changed. Mr. Schoen joined the Company in October 2018; and thus, he was not eligible for review.
+Cash Bonuses. Each executive officer is eligible for an annual cash bonus.  We provide such bonuses to motivate executive officers to perform on behalf of general corporate goals and to perform in their areas of responsibility.  We do not have a policy of prospectively establishing annual target bonuses or bonus criteria.  
+Each individual executive officer's bonus for the prior year is determined through an evaluation of overall corporate performance with a particular focus on our progress since the prior year's bonus determination in the areas of research and development, finance and other operations.
+In 2018, the Compensation Committee determined that no bonuses were to be paid for 2018.  
+Stock Related Compensation. Stock related compensation includes both stock option grants and other types of equity awards within the terms of our 2008 Equity Incentive Plan and 2018 Omnibus Incentive Plan, as applicable, (the "Equity Plan").
+Each executive officer is eligible for stock option grants as well as share-based awards that vest upon achievement of certain performance criteria, or "Performance Awards".  Such grants are intended to link executive rewards with stockholder value over time.  Only our Board of Directors, acting in its sole discretion, or the Compensation Committee grants options or Performance Awards to our executive officers.
+We view stock options as one of the more important components of our long-term, performance-based compensation philosophy.  We provide options through initial grants at or near the date of hire and through subsequent periodic grants.  Options for executive officers are granted, vest and become exercisable at such time as determined by our Board of Directors.  Generally, stock option grants are exercisable over a four-year period and have an exercise price equal to the fair market value of our stock at the time of grant.  Initial grants are based on ranges that take into consideration an executive's job responsibilities and competitive market data.  For subsequent periodic grants, the Compensation Committee evaluates performance based on each individual's contribution to the long-term success and growth of the Company, the Company's performance based on the factors discussed above and the motivational value of additional incremental stock option grants.  No stock options are granted in the absence of satisfactory performance.  Stock option grants generally terminate shortly after an executive officer ceases providing services to the Company.
+We grant periodic additional stock options:
+[BEGIN TABLE]
+· to reflect the individuals' ongoing contributions; 
+· to create an incentive to remain with us; and  
+· to provide a long-term incentive to achieve or exceed our financial goals. 
+[END TABLE]
+In granting stock options in the current year, we may consider the cumulative benefit of stock options granted in prior years.
+In granting stock options in the current year, we may consider the cumulative benefit of stock options granted in prior years.  We do not have a program, plan or practice to time stock option grants to our executives in coordination with the release of material nonpublic information.  We have not re-priced any of our options and do not intend to re-price or otherwise adjust options in the event that fair market value of our common stock declines below an option grant price.  In September 2018, after review of each individual's contributions to the Company and consideration of option grants provided in prior years, Mr. Barbier, received options to purchase 60,000 shares of our common stock and Dr. Friedmann received options to purchase 50,000 shares of common stock. Mr. Schoen received options to purchase 50,000 shares of our common stock as his initial grant upon joining the Company in October 2018.
+Any personal tax obligations resulting from equity awards are the responsibility of the award recipient.  If we issue certain shares for equity awards net of applicable individual taxes, the number of shares issued would be reduced, without reducing the amount of taxable compensation to the award recipient.   Performance Awards
+No Performance Awards were granted in 2018.
+Other Compensation
+Pension or Retirement Plans.  We do not offer any of our employees a pension plan, retirement plan or other forms of compensation or perquisites paid out upon retirement.  Executive officers are eligible for other benefits in each case on generally the same basis as other employees, subject to applicable law.  
+Employee Medical and Welfare Benefit Plans.  Our employee medical and welfare benefit plans include medical, dental, life, disability and accidental death and dismemberment insurance.  We add to taxable income of each Named Executive an amount representing the premium for term life insurance. 
+2000 Employee Stock Purchase Plan.    Our Named Executives are eligible to participate in our 2000 Employee Stock Purchase Plan ("ESPP"), but did not participate in the ESPP in 2018.  We may terminate the ESPP at any time.
+401(k) Plan.  We maintain a 401(k) Plan that is a defined contribution plan intended to qualify under Section 401(a) of the IRS Code.  We have not matched any pre-tax contributions to the 401(k) Plan.
+Paid Time Off.  Our executive officers do not accrue vacation benefits available to our other employees, but do receive other paid time off benefits on the same basis as other employees.
+Post-Employment Obligations
+We have employment agreements with Messrs. Barbier and Schoen that provide for payments related to termination without cause.  The primary basis for selecting termination without cause for triggering payment was that such terms are deemed necessary in attracting and retaining high-performing executive talent.  For additional information on the specific terms and conditions of this employment arrangements, see the discussion in the section entitled "Employment and Severance Arrangements" of this Proxy Statement.
+Accounting and Tax Considerations
+Generally, the expense related to an option grant or award is established at the time of awards for purposes of financial reporting and recognized as appropriate over the period of time covered by the option grant or award.  Our financial statements include more information regarding accounting for stock options.
+The tax deductions related to equity awards are generally determined in the future, usually at the time of exercise or sale of the underlying stock from stock options or at the time of vesting of other equity awards.  These tax deductions may be more or less than the amount of the underlying expense recorded for financial reporting purposes.  We cannot predict the amount of tax deductions we earn in the future, if any, because the deductions are based on the fair market value of Common Stock on the date when the tax deduction is earned.
+Under current U.S. federal tax law, publicly-held companies are generally precluded from deducting certain compensation paid to certain executive officers in excess of $1.0 million per year.  Prior to January 1, 2018, certain performance-based compensation could generally be excluded from such preclusion if certain requirements were satisfied. Under the Tax Cuts and Jobs Act of 2017 ("TCJA"), such exclusion is no longer available, except with respect to certain grandfathered compensation. Given the lack of regulatory guidance to date, we are not yet able to determine the full impact of the TCJA's changes on the Company and our compensation programs. In addition, distributions under severance arrangements with an executive officer can only be made after six months after separation from service.  We have endeavored and will continue to endeavor to structure our compensation arrangements to comply with current U.S. tax laws.
+Stock Ownership Guidelines
+We do not have any stock ownership guidelines, ownership goals or holding requirements.  We have an insider trading policy that establishes certain restrictions on trading windows.
+If and as we succeed in achieving approval for and commercializing our product candidates, we expect that we will adapt the elements of our compensation program as appropriate and may include or substitute other elements in our compensation program.  Changes in the elements of our compensation program may also reflect changes in the importance of tax or accounting treatments of a particular element of our compensation program.
+Results of 2018 Say-on-Pay Advisory Vote
+In 2018, our stockholders approved, in a non-binding advisory vote, the 2017 compensation paid to the Company's named executive officers. We considered the stockholders' vote in our review of our compensation programs and in establishing compensation for our executive officers in 2018. Summary Compensation Table 
+The following table sets forth information regarding compensation for each of our executive officers.
+[BEGIN TABLE]
+  Name and Principal Position    Year     						     Salary($)     						     Bonus($)     						     Stock  Awards ($)     						     Option Awards($)     						     Non-Equity Incentive Plan Compen-sation($)     						     All Other Compen- sation ($)     						     Total($)  
+  Remi Barbier     2018     						   875,000   				    						       —     						       —     						   51,714   				    						       —     						   6,991   				    						   933,705   				 
+  President, Chief Executive Officer     2017     						   875,000   				    						       —     						       —     						   1,016,223   				    						       —     						   4,386   				    						   1,895,609   				 
+  and Chairman of the Board     						      						      						      						      						      						      						      						      						      						      						      						      						      						      						   
+  Nadav Friedmann, Ph.D., M.D.    2018     						   320,000   				    						       —     						       —     						   32,934   				    						       —     						       —     						   352,934   				 
+  Chief Medical and Operating Officer     2017     						   320,000   				    						       —     						       —     						   537,647   				    						       —     						       —     						   857,647   				 
+  and Director     						      						      						      						      						      						      						      						      						      						      						      						      						      						      						   
+  Eric J. Schoen (1)    2018     						   42,628   				    						       —     						       —     						   52,700   				    						       —     						   11,242   				    						   106,570   				 
+  Chief Financial Officer     						      						      						      						      						      						      						      						      						      						      						      						      						      						      						   
+    (1)      Mr. Schoen joined the Company in October 2018. 
+[END TABLE]
+Assumptions used in calculating the value of Stock Awards and Option Awards are described in Notes 2 and 5 to the Financial Statements in our Annual Report on Form 10-K for the year ended December 31, 2018, incorporated herein by reference. For information about these awards, see section herein entitled "Compensation Discussion and Analysis."  All Other Compensation includes life insurance premiums paid by us on behalf of our executive officers. All Other Compensation for Mr. Schoen includes consulting fees paid prior to his being named Chief Financial Officer of the Company.
+Grants of Plan-Based Awards
+There were no grants of plan-based awards during 2018 to our executive officers named in the Summary Compensation Table. Outstanding Equity Awards at Fiscal Year End
+The following table sets forth information regarding the outstanding equity awards at December 31, 2018 held by each of the executive officers named in the Summary Compensation Table.
+[BEGIN TABLE]
+       						      						     Option Awards    Stock Awards  
+  Name    Option/ Award Grant Date     						     Number of Securities Underlying Unexercised Options Exercisable  (#)      						     Number of Securities Underlying Unexercised Options Unexercisable  (#)      						     Option Exercise Price ($)     						     Option Expiration Date     Equity Incentive Plan Awards: Unearned Shares, Units or Other Rights That Have Not Vested  (#)     						     Equity Incentive Plan Awards: Market or Payout Value of Unearned Shares, Units or Other Rights That Have Not Vested ($)  
+  Remi Barbier     7/31/09     						   73,539   				    						       —     						   18.06   				    						     7/31/19     						      						      						   
+      9/1/10     						   73,539   				    						       —     						   23.87   				    						     9/1/20     						      						      						   
+      6/1/11     						   56,030   				    						       —     						   53.55   				    						     6/1/21     						      						      						   
+      6/8/12     						   65,368   				    						       —     						   23.38   				    						     6/8/22     						      						      						   
+      6/8/12     						      						      						      						      						      						      						      						   57,142   				    						   951,986   				 
+      6/5/13     						   71,428   				    						       —     						   16.87   				    						     6/5/23     						      						      						   
+      6/6/14     						   85,714   				    						       —     						   35.00   				    						     6/6/24     						      						      						   
+      11/14/14     						   85,714   				    						       —     						   12.04   				    						     11/14/24     						      						      						   
+      12/11/15     						   64,285   				    						   21,429   				    						   13.02   				    						     12/11/25     						      						      						   
+      8/23/17     						   100,000   				    						   200,000   				    						   3.24   				    						     8/23/27     						      						       -  
+      9/28/18     						   3,750   				    						   56,250   				    						   1.01   				    						     9/28/28     						      						      						   
+  Nadav Friedmann, Ph.D., M.D.    7/31/09     						   36,769   				    						       —     						   18.06   				    						     7/31/19     						      						      						   
+      9/1/10     						   36,768   				    						       —     						   23.87   				    						     9/1/20     						      						      						   
+      6/1/11     						   28,015   				    						       —     						   53.55   				    						     6/1/21     						      						      						   
+      6/8/12     						   28,014   				    						       —     						   23.38   				    						     6/8/22     						      						      						   
+      6/8/12     						      						      						      						      						      						      						      						   37,353   				    						   622,301   				 
+      6/5/13     						   42,856   				    						       —     						   16.87   				    						     6/5/23     						      						      						   
+      6/6/14     						   37,499   				    						   5,358   				    						   35.00   				    						     6/6/24     						      						      						   
+      11/14/14     						   33,035   				    						   9,822   				    						   12.04   				    						     11/14/24     						      						      						   
+      12/11/15     						   21,428   				    						   21,429   				    						   13.02   				    						     12/11/25     						      						      						   
+      8/23/17     						   20,833   				    						   229,167   				    						   3.24   				    						     8/23/27     						      						      						   
+      9/14/18     						   3,125   				    						   46,875   				    						   0.95   				    						     9/14/28     						      						      						   
+  Eric J. Schoen    10/31/18     						   2,083   				    						   47,917   				    						   1.18   				    						     10/31/28     						      						      						   
+[END TABLE]
+Option Awards were granted with an exercise price equal to the fair market value on the date of grant.  One forty-eighth of the shares subject to each such option vest and become exercisable one month after the vesting commencement date, and an additional one forty-eighth of the shares subject to such option vest each month thereafter.  Stock Awards reflect Performance Awards. Stock Awards granted on June 8, 2012 vest upon achievement of certain performance goals. 
+Option Exercises 
+No options were exercised in 2018 by the executive officers named in the Summary Compensation Table.
+Employment and Severance Arrangements
+We have employment agreements with Mr. Barbier and Mr. Schoen, each of which include payments related to termination of employment without cause.  
+Employment Agreement with Remi Barbier    
+The employment agreement with Mr. Barbier automatically renews for consecutive one-year terms each July, unless the Company or Mr. Barbier terminates the agreement 90 days prior to the end of the then-current term or otherwise at any time on sixty days' notice. The agreement entitles Mr. Barbier to serve on the Board of Directors for as long as he is our President and Chief Executive Officer. Thereafter, he will remain a member of the Board of Directors only if we terminate his employment without cause. The agreement also provides that if we terminate Mr. Barbier for reasons other than cause we must pay him his base salary for 12 months, provide him continued participation in our medical and disability plans for 12 months and continuation of insurance policies covering Mr. Barbier as of the date of termination. 
+Mr. Barbier's employment agreement defines "cause" as a termination for any of the following, unless cured within five business days of Mr. Barbier receiving notice of such event:
+[BEGIN TABLE]
+· any intentional action or failure to act that was performed in bad faith and to the detriment of the Company;  
+· any intentional action or failure to act in accordance with any lawful and proper direction or order of the Board of Directors; 
+· any willful and habitual neglect of the duties of employment assigned by the Board of Directors; and 
+· any felony conviction.  
+[END TABLE]
+ Under Mr. Barbier's employment agreement, a termination for reasons "other than cause" also includes a resignation by Mr. Barbier for any of the following:
+[BEGIN TABLE]
+· the assignment to or reduction of Mr. Barbier's duties that results in a significant diminution in Mr. Barbier's position or responsibilities; 
+· the substantial reduction, without good business reasons, of the facilities or perquisites (including office space and location) available to Mr. Barbier; 
+· a reduction of Mr. Barbier's base compensation, other than a bonus reduction resulting from application of a bonus plan or formula consistent with prior practice; 
+· a material reduction in the kind or level of employee benefits available to Mr. Barbier that would result in his overall benefits package being significantly reduced; 
+· the relocation of Mr. Barbier to a facility more than 25 miles from the then current location; 
+· any termination of Mr. Barbier which is not effected for "cause," for valid grounds or due to Mr. Barbier's death or disability; or  
+· any purported termination of Mr. Barbier's employment without meeting the term-end 90-day prior notice requirements described above. 
+[END TABLE]
+In the event of a change of control in which this employment agreement is not assumed by the successor entity either operation of law or by assignment, Mr. Barbier's employment with the Company shall be deemed to be termination for "other than cause."  The cost of our post-employment obligations to Mr. Barbier cannot be determined until a termination has occurred. However, assuming Mr. Barbier's employment was terminated for reasons other than cause on December 31, 2018, we would have had to pay Mr. Barbier approximately $875,000, $25,000 and $13,000 for base salary, medical and disability plan-related expenses and insurance policy expenses, respectively, pursuant to his employment agreement with the Company. 
+Employment Agreement with Eric Schoen 
+Under the terms of an employment agreement provided to Mr. Schoen, we may terminate employment at any time for any reason or no reason.  However, if we terminate employment without cause or in the event of a "constructive dismissal", terms not specifically defined in such agreement, after his initial 6 months of employment, we must pay severance equal to Mr. Schoen's base salary and benefits until the sooner of the date that he secures other employment, or the date that is three months after the date of his termination.  The cost of our post-employment obligations under this offer letter cannot be determined until a termination has actually occurred.  However, assuming Mr. Schoen's employment was terminated without cause after his initial 6 months of employment, and assuming further that Mr. Schoen did not secure employment within three months of such termination, we would have had to pay Mr. Schoen approximately $62,500 and $7,200 for base salary and benefit expenses, respectively, pursuant to his employment agreement with the Company. Director Compensation
+The following table sets forth all director compensation for 2018 for all directors who are not named executive officers.
+[BEGIN TABLE]
+      Option  Awards ($)     						     Total($)  
+  Robert C. Gussin, Ph.D.  12,160   				    						   12,160   				 
+  Michael J. O'Donnell, Esq.  8,107   				    						   8,107   				 
+  Saira Ramasastry  12,160   				    						   12,160   				 
+  Sanford R. Robertson  12,160   				    						   12,160   				 
+  Patrick J. Scannon, M.D., Ph.D.  8,107   				    						   8,107   				 
+[END TABLE]
+Assumptions made in the valuation of Option Awards are described in Notes 1 and 5 to the Financial Statements in our Annual Report on Form 10-K for the year ended December 31, 2018, incorporated herein by reference.  
+We maintain director and officer indemnification insurance coverage.  This insurance covers directors and officers individually.  These policies currently run from July 13, 2018 through July 12, 2019 at a total annual cost of approximately $368,000.  The primary carrier is U.S. Specialty Insurance Company.  We reimburse our officers and directors for expenses incurred in attending any Board of Directors or committee meeting.
+Periodically, the Compensation Committee reviews and determines the adequacy of the compensation program for outside directors and, based upon the results of its review, the Compensation Committee will make recommendations regarding the compensation program for outside directors to the Board.  For 2018, the Board of Directors granted an option to purchase 10,000 shares of Common Stock at $1.01 per share to each non-employee director as well as an option to purchase 5,000 shares of Common Stock at $1.01 per share to each non-employee director then serving on a committee of the Board of Directors. These options granted to non-employee directors will:
+[BEGIN TABLE]
+· vest as to 1/48th of the shares subject to the option each 1/48th of the date of grant, subject to his or her continuing to serve as a member of the Board of Directors on such date;  
+· be exercisable only while he or she remains a member of the Board of Directors; 
+· have a term of 10 years; and  
+· have an exercise price equal to 100% of the fair market value per share of Common Stock on the date of grant. 
+[END TABLE]
+ REPORT OF THE COMPENSATION COMMITTEE
+OF THE BOARD OF DIRECTORS
+The purpose of the Compensation Committee of the Board of Directors is, in part, to review and approve the compensation and benefits to be provided to the officers and directors of the Company and to administer the Company's various stock plans and the issuance of stock options and other stock-related awards not pursuant to a plan.  The Compensation Committee shall also make recommendations to the Board of Directors regarding adoption or modification of all stock plans.
+One of the Compensation Committee's goals is to ensure that the Company's executive compensation programs are competitive with those of regional companies in our industry.  In addition, the Compensation Committee strives to enable the Company to attract and retain key people and motivate them to achieve or exceed certain key objectives of the Company by making individual compensation directly dependent on the achievement of certain corporate and individual goals, and by providing rewards for meeting or exceeding those goals.
+The Compensation Committee has reviewed and discussed the Compensation Discussion and Analysis with management.  Based on the review and discussion, the Compensation Committee has recommended to the Board of Directors that the Compensation Discussion and Analysis be included in the Company's Proxy Statement.
+Respectfully Submitted By:
+MEMBERS OF THE COMPENSATION COMMITTEE
+Robert Z. Gussin, Ph.D.
+Sanford R. Robertson
+Dated:  March 1, 2019 REPORT OF THE AUDIT COMMITTEE
+OF THE BOARD OF DIRECTORS
+The Audit Committee operates under a written charter adopted by the Board of Directors.  The purpose of the Audit Committee includes the following:
+[BEGIN TABLE]
+· Oversee the accounting and financial reporting processes of the Company and audits of the financial statements of the Company; 
+· Assist the Board of Directors of the Company in oversight and monitoring: 
+· the integrity of the Company's financial statements;  
+· the Company's financial reporting process; 
+· the Company's compliance with legal and regulatory requirements under applicable securities law; 
+· the independent registered public accounting firms' qualifications, independence and performance; and 
+· the Company's systems of internal accounting and financial controls; 
+· Prepare a report in the Company's annual proxy statement in accordance with the rules of the SEC; 
+· Provide the Board of Directors with the results of its monitoring and recommendations derived therefrom; and 
+· Provide to the Board of Directors such additional information and materials as it may deem necessary to make the Board aware of significant financial matters that come to its attention and that require the attention of the Board of Directors. 
+[END TABLE]
+Management has the primary responsibility for the financial statements and the reporting process including the system of internal controls.
+In fulfilling its responsibilities, the Audit Committee has:
+[BEGIN TABLE]
+· Reviewed and discussed the audited financial statements, including balance sheets, related statements of operations, stockholders' equity and cash flows, with management; 
+· Discussed with Ernst & Young LLP, the matters required to be discussed by Auditing Standard No. 1301, Communications with Audit Committees, as adopted by the Public Company Accounting Oversight Board; 
+· Received from Ernst & Young LLP the written disclosures and the letter required by applicable requirements of the Public Company Accounting Oversight Board regarding the independent accountant's communications with the Audit Committee concerning independence; and 
+· Discussed with Ernst & Young LLP the independent accountant's independence. 
+[END TABLE]
+The Audit Committee discusses with the Company's independent registered public accounting firm, the overall scope and plans for their audits.  The Audit Committee meets with the independent registered public accounting firm, with and without management present, to discuss the results of their examinations, their evaluations of the Company's internal controls and the overall quality of the Company's financial reporting.  
+Based on the foregoing, the Audit Committee recommended to the Board of Directors that the audited financial statements be included in the Company's annual report on Form 10-K for the year ended December 31, 2018 for filing with the SEC.  The Audit Committee and the Board of Directors have also recommended, subject to stockholder ratification, the selection of the Company's independent registered public accounting firm.
+Respectfully Submitted by:
+MEMBERS OF THE AUDIT COMMITTEE
+Sanford R. Robertson, Audit Committee Chair
+Robert Z. Gussin, Ph.D.
+Saira Ramasastry
+Dated: March 1, 2019
+The information contained above under the captions "Report of the Compensation Committee of the Board of Directors" and "Report of the Audit Committee of the Board of Directors" shall not be deemed to be soliciting material or to be filed with the SEC, nor shall such information be incorporated by reference into any future filing under the Securities Act of 1933, as amended, (the "Securities Act") or the Exchange Act, except to the extent that the Company specifically incorporates it by reference into such filing.
+Section 16(a) Beneficial Ownership Reporting Compliance
+Section 16(a) of the Exchange Act requires our officers and directors, and persons who own more than ten percent of a registered class of our equity securities, to file reports of ownership and changes in ownership with the SEC.  Such officers, directors and ten-percent stockholders are also required by SEC rules to furnish us with copies of all forms that they file pursuant to Section 16(a).  Based solely on its review of the copies of such forms received by it, or written representations from certain reporting persons, we believe that all of our executive officers and directors complied with all such applicable filing requirements during fiscal year 2018 on a timely basis other than one late Form 4 filed on October 9, 2018 on behalf of Mr. Barbier with respect to grant of stock options. CERTAIN RELATIONSHIPS AND RELATED TRANSACTIONS
+Related Party Transactions
+There has not been nor is there currently proposed any transaction or series of similar transactions requiring disclosure in this Proxy Statement to which we were or are a party in which any director, executive officer, holder of more than 5% of our Common Stock or any member of the immediate family of any of the foregoing persons had or will have a direct or indirect material interest, other than fees and expenses incurred for legal services, described below, and compensation agreements and other arrangements which are described in the section entitled "Employment and Severance Arrangements" and the indemnification agreements described below. In accordance with the charter of the Company's Audit Committee, the Company's policy is to require that any related party transactions be reviewed and approved by the Audit Committee.  
+Legal Services
+During 2018, Morrison & Foerster LLP ("Morrison & Foerster") provided legal services to the Company. Mr. O'Donnell, a director of the Company, is a member of Morrison & Foerster. For the fiscal year of 2018 and 2017, we paid Morrison & Foerster a total of $347,900 and $147,100, respectively, for legal services. All such services provided by Morrison & Foerster to the Company were made in the ordinary course of business and on substantially the same terms as other comparable transactions with third parties. We believe the legal fees paid in 2018 to Morrison Foerster were less than 5% of such firm's total gross revenues for its last completed fiscal year.
+Independence of Directors 
+The Board of Directors has determined that directors Robert Z. Gussin, Ph.D., Michael J. O'Donnell, Esq., Saira Ramasastry, Sanford R. Robinson and Patrick J. Scannon, M.D., Ph.D. are each independent as defined under the Nasdaq Stock Market LLC listing standards.  In determining the independence of Mr. O'Donnell, our Board of Directors reviews our relationship with Morrison & Foerster, LLP in conjunction with the applicable independence guidelines under the applicable listing standards of the Nasdaq Stock Market LLC.  The Board of Directors has also determined that each member of the Compensation Committee is independent as defined under the Nasdaq Stock Market LLC listing standards, and that each member of the Audit Committee is independent as defined under Nasdaq Stock Market LLC listing standards, as well as applicable SEC rules.
+Indemnification of Directors and Officers
+We have entered into indemnification agreements with each of our directors and officers, which require us to indemnify our directors and officers to the fullest extent permitted by Delaware law.
+OTHER MATTERS
+We know of no other matters to be submitted to the meeting.  If any other matters properly come before the meeting, it is the intention of the persons named in the enclosed Proxy form to vote the shares they represent as the Board of Directors may recommend.
+THE BOARD OF DIRECTORS
+Dated: March 29,  PAIN THERAPEUTICS, INC.  IMPORTANT ANNUAL MEETING INFORMATION Using a black ink pen, mark your votes with an X as shown in this example. Please do not write outside the designated areas. Electronic Voting Instruction Available 24 hours a day, 7 days week! Instead of mailing your proxy, you may choose one of the voting methods outlined below to vote your proxy.  VALIDATION DETAILS ARE  LOCATED BELOW IN THE TITLE BAR.  Proxies submitted by the internet or telephone must be received by 1:00 AM, PDT, on May 10, 2018.  Vote by Internet Go to www.investorvote.com/PTIE Or scan the QR code with your smartphone Follow the steps outlined on the secure website. Vote by telephone Call toll free 1-800-652-VOTE (8683) within the USA, US territories & Canada on a touch tone telephone Follow the instructions provided by the recorded message Annual Meeting Proxy Card 123456789012345 IF YOU HAVE NOT VOTED VIA THE INTERNET OR TELEPHONE, FOLD ALONG THE PERFORATION, DETACH AND RETURN THE BOTTOM PORTION IN THE ENCLOSED ENVELOPE. A Proposals — DIRECTORS RECOMMEND VOTE "FOR" ITEMS 1-4. 1. Elect three (3) Class III Directors to serve for three-year terms and until their successors are duly elected and qualified: 1a) Remi Barbier For Withhold 1b) Sanford R. Robertson For Withhold 1c) Patrick J. Scannon M.D., Ph.D. For Withhold 2. To approve the 2018 Omnibus Incentive Plan and the reservation of a total of 1,000,000 shares of the Company's common stock for issuance thereunder; For Against Abstain 3. Ratify the selection of Ernst & Young LLP as the independent registered public accounting firm for the Company for the fiscal year ending December 31, 2018. For Against Abstain 4. Approve, by non-binding advisory vote, the 2017 executive compensation for the Company's executive officers. 5. To transact such other business as may properly be brought before the meeting and any adjournment(s) thereof. B Non-Voting items. Change of Address – Please print new address below.  Comments – Please print your comments below. C. Authorized Signatures – This section must be completed for your vote to be counted. Date and Sign Below NOTE: Please sign as name appears hereon.  Joint owners should each sign.  When signing as attorney, executor, administrator, trustee or guardian, please give full title as such.  Date (mm/dd/yyyy) – Please print date below. Signature 1 – Please keep signature within the box. Signature 2 – Please keep signature within the box. PAIN THERAPEUTICS, INC. THIS PROXY IS SOLICITED ON BEHALF OF THE BOARD OF DIRECTORS FOR THE2018 ANNUAL MEETING OF STOCKHOLDERS TO BE HELD MAY 10, 2018 YOUR VOTE IS IMPORTANT This Proxy Statement is furnished in connection with the solicitation of proxies by the Company, on behalf of the Board of Directors, for the 2018 Annual Meeting of Stockholders. The Proxy Statement and the related Proxy Form are being distributed on or about April 3, 2018. You can vote your shares using one of the following methods:• Complete and return a written Proxy Card,• By internet or telephone, or• Attend the Company's 2018 Annual Meeting of Stockholders and vote. All stockholders are cordially invited to attend the Meeting. To ensure your representation at the Meeting, however, you are urged to mark, sign, date and return the attached Proxy Card as promptly as possible in the postage pre-paid envelope enclosed for that purpose or to vote your shares by Internet or Telephone. Any Stockholder attending the Meeting may vote in person even if he or she has returned a Proxy Card or has voted by internet or telephone. IMPORTANT NOTICE REGARDING THE AVAILABILITY OF PROXY MATERIALS FOR THE STOCKHOLDER MEETING TO BE HELD ON MAY 10, 2018 The Company's Proxy Statement, form of proxy card and Annual Report on Form 10-K are available at: http://investor.paintrials.com/annual-proxy.cfm IF YOU HAVE NOT VOTED VIA THE INTERNET OR TELEPHONE, FOLD ALONG THE PERFORATION, DETACH AND RETURN THE BOTTOM PORTION IN THE ENCLOSED ENVELOPE. Proxy — PAIN THERAPEUTICS, INC. THIS PROXY IS SOLICITED ON BEHALF OF THE BOARD OF DIRECTORS OF PAIN THERAPEUTICS, INC. The undersigned hereby appoints Remi Barbier with power to act as proxy and attorney-in-fact and hereby authorizes him to represent and vote, as provided on the other side, all the shares of Pain Therapeutics, Inc. Common Stock which the undersigned is entitled to vote, and, in their discretion, to vote upon such other business as may properly come before the Annual Meeting of Stockholders of the Company to be held on Thursday, May 10, 2018 at 10:00 am local time, at the Company offices at 7801 N. Capital of Texas Highway, Suite 260, Austin, Texas, 78731, or at any adjournment or postponement thereof, with all powers which the undersigned would possess if present at the Meeting. (Continued and to be marked, dated and signed, on the other side) THIS PROXY CARD IS VALID ONLY WHEN SIGNED AND DATED THIS PROXY WILL BE VOTED AS DIRECTED, OR IF NO DIRECTION IS INDICATED, WILL BE VOTED WITH THE RECOMMENDATIONS OF THE BOARD OF DIRECTORS. THIS PROXY STATEMENT IS FURNISHED IN CONNECTION WITH THE SOLICITATION OF PROXIES BY THE COMPANY, ON BEHALF OF THE BOARD OF DIRECTORS, FOR THE 2018 ANNUAL MEETING OF STOCKHOLDERS. THE PROXY STATEMENT AND THE RELATED PROXY FORM ARE BEING DISTRIBUTED ON OR ABOUT APRIL 3, 2018. YOU CAN VOTE YOUR SHARES USING ONE OF THE FOLLOWING METHODS:• COMPLETE AND RETURN A WRITTEN PROXY CARD,• BY INTERNET OR TELEPHONE, OR• ATTEND THE COMPANY'S 2018 ANNUAL MEETING OF STOCKHOLDERS AND VOTE. ALL STOCKHOLDERS ARE CORDIALLY INVITED TO ATTEND THE MEETING. TO ENSURE YOUR REPRESENTATION AT THE MEETING, HOWEVER, YOU ARE URGED TO MARK, SIGN, DATE AND RETURN THE ENCLOSED PROXY CARD AS PROMPTLY AS POSSIBLE IN THE POSTAGE-PREPAID ENVELOPE ENCLOSED FOR THAT PURPOSE OR VOTE YOUR SHARES BY INTERNET OR TELEPHONE. ANY STOCKHOLDER ATTENDING THE MEETING MAY VOTE IN PERSON EVEN IF HE OR SHE HAS RETURNED A PROXY CARD OR HAS VOTED BY INTERNET OR TELEPHONE.
+25

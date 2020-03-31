@@ -1,0 +1,112 @@
+
+[BEGIN TABLE]
+ ELASTIC N.V.  
+ (Name of Registrant as Specified In Its Charter)  
+[END TABLE]
+[BEGIN TABLE]
+ (Name of Person(s) Filing Proxy Statement, if other than the Registrant)  
+[END TABLE]
+[BEGIN TABLE]
+ ☒   No fee required.  
+  o   Fee computed on table below per Exchange Act Rules 14a-6(i)(4) and 0-11.  
+     (1)   Title of each class of securities to which transaction applies:  
+     (2)   Aggregate number of securities to which transaction applies:  
+     (3)   Per unit price or other underlying value of transaction computed pursuant to Exchange Act Rule 0-11 (Set forth the amount on which the filing fee is calculated and state how it was determined):  
+     (4)   Proposed maximum aggregate value of transaction:  
+     (5)   Total fee paid:  
+  o   Fee paid previously with preliminary materials.  
+  o   Check box if any part of the fee is offset as provided by Exchange Act Rule 0-11(a)(2) and identify the filing for which the offsetting fee was paid previously. Identify the previous filing by registration statement number, or the Form or Schedule and the date of its filing.  
+     (1)   Amount Previously Paid:  
+     (2)   Form, Schedule or Registration Statement No.:  
+     (3)   Filing Party:  
+     (4)   Date Filed:  
+[END TABLE]
+[BEGIN TABLE]
+CAUTIONARY STATEMENT REGARDING FORWARD-LOOKING STATEMENTS   1   
+AGENDA ITEM I— OPENING AND ANNOUNCEMENTS   2   
+AGENDA ITEM II—VOTING PROPOSAL NO. 1 — BOARD APPOINTMENT   3   
+AGENDA ITEM III—CLOSING OF THE MEETING   4   
+QUESTIONS AND ANSWERS ABOUT THE SPECIAL MEETING AND PROCEDURAL MATTERS   5   
+REPORT OF THE AUDIT COMMITTEE   9   
+CORPORATE GOVERNANCE   10   
+EXECUTIVE COMPENSATION   20   
+SECTION 16(a) BENEFICIAL OWNERSHIP REPORTING COMPLIANCE   27   
+CERTAIN RELATIONSHIPS AND RELATED PARTY TRANSACTIONS   28   
+PRINCIPAL SHAREHOLDERS   30   
+FUTURE SHAREHOLDER PROPOSALS   32   
+HOUSEHOLDING OF PROXY MATERIALS   32   
+WHERE YOU CAN FIND MORE INFORMATION   33   
+OTHER MATTERS   33   
+[END TABLE]
+ 2
+[BEGIN TABLE]
+Name Age 
+Caryn Marooney   51   
+[END TABLE]
+      9
+[BEGIN TABLE]
+Name Age Position(s) 
+Executive Officers:              
+Shay Banon 41 Executive Director, Chief Executive Officer and Chairman 
+Janesh Moorjani 46 Chief Financial Officer 
+Aaron Katz 42 Chief Revenue Officer 
+Kevin Kluge 47 Senior Vice President of Engineering 
+W.H. Baird Garrett 57 Senior Vice President and General Counsel 
+Non-Executive Directors:      
+Jonathan Chadwick(1)(2) 53 Director 
+Peter Fenton(2)(3) 46 Director 
+Chetan Puttagunta*(1)(3) 32 Director 
+Steven Schuurman 43 Director 
+Michelangelo Volpi(1)(2)(3) 52 Director 
+[END TABLE]
+        18
+[BEGIN TABLE]
+Name Option Awards(1) Total 
+Jonathan Chadwick(2)   —     —   
+Peter Fenton   —     —   
+Elizabeth Nelson(3) $ 814,275   $ 814,275   
+Chetan Puttagunta   —     —   
+Steven Schuurman   —     —   
+Michelangelo Volpi   —     —   
+[END TABLE]
+[BEGIN TABLE]
+Name and Principal Position Fiscal Year Salary ($) Bonus ($) Option Awards ($)(1) All Other Compensation ($) Total ($) 
+Shay Banon Chief Executive Officer    2018     400,000     —     7,514,361     306,494 (2)    8,220,855   
+Janesh Moorjani Chief Financial Officer    2018     272,820 (3)    200,000 (4)    3,462,657     23,600 (5)    3,959,077   
+Aaron Katz Chief Revenue Officer    2018     500,000     110,246 (6)    1,134,880     —     1,695,219   
+[END TABLE]
+ 21
+[BEGIN TABLE]
+  Option Awards Share Awards 
+Name Grant Date Number of Securities Underlying Unexercised Options (#) Exercisable Number of Securities Underlying Unexercised Options (#) Unexercisable Option Exercise Price ($) Option Expiration Date Number of Shares That Have Not Vested (#) Market Value of Shares That Have Not Vested ($)(1) 
+Shay Banon   04/19/2016     605,250 (2)    —     5.46     04/19/2026     —     —   
+    09/07/2017     216,079 (3)    648,239     10.15     09/07/2027     —     —   
+    09/07/2017     — (4)    314,297     10.15     09/07/2027     —     —   
+    04/02/2018     — (5)    400,000     13.07     04/02/2028     —     —   
+Janesh Moorjani   09/07/2017     602,169 (6)    —     10.15     09/07/2027     —     —   
+    04/02/2018         (7)    50,000     13.07     04/02/2028     —     —   
+          —     —     —     —     105,000 (8)    1,750,350   
+Aaron Katz   07/04/2014     484,961 (9)    58,076     4.26     07/04/2024     —     —   
+    03/10/2016     190,615 (10)    225,274     5.46     03/10/2026     —     —   
+    04/02/2018     — (7)    200,000     13.07     04/02/2028     —     —   
+[END TABLE]
+[BEGIN TABLE]
+Name of Beneficial Owner Number of Shares% 
+5% Shareholders:              
+Entities affiliated with Benchmark Capital Partners(1)   8,394,532     11.5   
+Hexavest S.à.r.l.(2)   6,571,709     9.0   
+Entities affiliated with New Enterprise Associates(3)   5,562,153     7.6   
+Future Fund Investment Company No.5 Pty Ltd(4)   5,107,200     7.0   
+Executive Officers and Directors:              
+Shay Banon(5)   9,919,736     13.3   
+Janesh Moorjani(6)   707,169     1.0   
+Aaron Katz(7)   1,082,949     1.5   
+Jonathan Chadwick(8)   200,000       * 
+Peter Fenton(9)   8,469,693     11.6   
+Caryn Marooney   —       * 
+Chetan Puttagunta   —       * 
+Steven Schuurman(10)   11,822,000     16.1   
+Michelangelo Volpi(11)   6,571,709     9.0   
+All current executive officers and directors as a group (11 persons)(12)   39,917,841     51.8   
+[END TABLE]
+     

@@ -1,0 +1,206 @@
+
+[BEGIN TABLE]
+ Filed by the Registrant ☒   Filed by a Party other than the Registrant  o  
+[END TABLE]
+[BEGIN TABLE]
+  o   Preliminary Proxy Statement o   Confidential, For Use of the Commission Only (as permitted by Rule 14a-6(e)(2))  
+ ☒   Definitive Proxy Statement o   Definitive Additional Materials o   Soliciting Material Pursuant to § 240.14a-12  
+[END TABLE]
+[BEGIN TABLE]
+ ☒   No fee required.  
+  o   Fee computed on table below per Exchange Act Rules 14a-6(i)(1) and 0-11.  
+     (1)   Title of each class of securities to which transaction applies:  
+     (2)   Aggregate number of securities to which transaction applies:  
+     (3)   Per unit price or other underlying value of transaction computed pursuant to Exchange Act Rule 0-11 (set forth the amount on which the filing fee is calculated and state how it was determined):  
+     (4)   Proposed maximum aggregate value of transaction:  
+     (5)   Total fee paid:  
+  o   Fee paid previously with preliminary materials:  
+  o   Check box if any part of the fee is offset as provided by Exchange Act Rule 0-11(a)(2) and identify the filing for which the offsetting fee was paid previously. Identify the previous filing by registration statement number, or the Form or Schedule and the date of its filing.  
+     (1)   Amount previously paid:  
+     (2)   Form, Schedule or Registration Statement No.:   
+     (3)   Filing Party:   
+     (4)   Date Filed:  
+[END TABLE]
+[BEGIN TABLE]
+     By Order of the Board of Directors  
+     David B. Thomson  
+     Executive Vice President, General Counsel and Secretary  
+[END TABLE]
+    5
+[BEGIN TABLE]
+ Name   Age   Position Held With the Company  
+ Kent Kresa(1)(2)   81   Chairman of the Board of Directors  
+ Michael E. Castagna, Pharm.D.    42   Chief Executive Officer and Director  
+ Ronald J. Consiglio(2)(3)    75   Director  
+ Michael A. Friedman, M.D.(1)(2)    75   Director  
+ Christine Mundkur(3)    50   Director   
+ Henry L. Nordhoff(3)    77   Director  
+ James S. Shannon, M.D., MRCP (UK)(1)    62   Director  
+[END TABLE]
+         15
+[BEGIN TABLE]
+  2018 2017 
+Audit Fees(1) $ 1,132,475   $ 1,143,258   
+Tax Fees(2)   183,625     101,208   
+Total Fees $ 1,316,100   $ 1,244,466   
+[END TABLE]
+ 17
+[BEGIN TABLE]
+  Beneficial Ownership 
+Name and Address of Beneficial Owner Number of Shares Percent of Total 
+Greater than 5% Stockholders              
+The Mann Group LLC(1)   19,674,442     9.90% 
+12744 San Fernando Road              
+Sylmar, CA 91342              
+The Alfred E. Mann Living Trust(2)   19,859,000     9.99% 
+12744 San Fernando Road              
+Sylmar, CA 91342              
+Named Executive Officers and Directors              
+Michael E. Castagna, Pharm.D.(3)   232,468       * 
+Steven B. Binder(4)   3,629       * 
+David M. Kendall, M.D.(5)   60,353       * 
+James P. McCauley, Jr.(6)   50,165       * 
+David B. Thomson, Ph.D., J.D.(7)   383,942       * 
+Ronald J. Consiglio(8)   126,511       * 
+Michael A. Friedman(9)   81,389       * 
+Kent Kresa(10)   283,231       * 
+David H. MacCallum(11)   80,819       * 
+Christine Mundkur(12)   —       * 
+Henry L. Nordhoff(13)   77,595       * 
+James S. Shannon(14)   49,750       * 
+All current executive officers and directors as a group (17 persons)(15)   1,918,492     1.02% 
+[END TABLE]
+ 19
+[BEGIN TABLE]
+ Name   Age   Position(s)  
+ Michael E. Castagna, Pharm.D.    42   Chief Executive Officer and Director  
+ Steven B. Binder    56   Chief Financial Officer  
+ Courtney Barton    36   Chief Compliance and Privacy Officer  
+ Elizabeth G. Ingram    53   Chief Marketing Officer  
+ David M. Kendall, M.D.    57   Chief Medical Officer  
+ Joseph Kocinsky    55   Chief Technology Officer  
+ James P. McCauley, Jr.    54   Chief Commercial Officer  
+ David B. Thomson, Ph.D., J.D.    52   Executive Vice President, General Counsel and Secretary  
+ Stuart A. Tross, Ph.D.    52   Chief People and Workplace Officer  
+ Rosabel R. Alinaya    58   Senior Vice President, Investor Relations and Treasury  
+[END TABLE]
+ 21
+[BEGIN TABLE]
+Name Fees Earned or Paid in Cash ($) Option Awards ($)(1) Restricted Stock Units ($)(2) Total ($) 
+Ronald J. Consiglio   80,000     —     124,532     204,532   
+Michael A. Friedman, M.D.   67,500     —     124,532     192,032   
+Kent Kresa   107,500     —     124,532     232,032   
+David H. MacCallum   60,000     —     124,532     184,532   
+Christine Mundkur(3)   —     —     —     —   
+Henry L. Nordhoff   60,000     —     124,532     184,532   
+James S. Shannon   57,500     —     124,532     182,032   
+[END TABLE]
+   25
+[BEGIN TABLE]
+ Arena Pharmaceuticals Inc.   Macrogenics Inc.  
+ ACADIA Pharmaceuticals Inc.   Momenta Pharmaceuticals  
+ Acceleron Pharma Inc.   Newlink Genetics Corp  
+ Intersect ENT Inc.   Rigel Pharmaceuticals Inc.  
+ Lexicon Pharmaceuticals Inc.    Vanda Pharmaceuticals Inc.  
+[END TABLE]
+[BEGIN TABLE]
+ Arena Pharmaceuticals Inc.   Macrogenics Inc.  
+ Acceleron Pharma Inc.   Momenta Pharmaceuticals  
+ Dynavax Technologies Inc.   Rigel Pharmaceuticals Inc.  
+ Intersect Ent Inc.   Seres Therapeutics, Inc.  
+ Lexicon Pharmaceuticals Inc.   Vanda Pharmaceuticals Inc.  
+[END TABLE]
+[BEGIN TABLE]
+Name and Principal Position Year Salary ($)(1) Bonus ($)(2) Restricted Stock Awards ($)(3) Option Awards ($)(3) Non-Equity Incentive Plan Compensation ($)(4) All Other Compensation ($)(5) Total ($) 
+Michael E. Castagna, Pharm.D. 2018   500,000     20,000     —     833,040     150,000     5,701 (7)    1,508,741   
+Chief Executive Officer  2017   458,718     —     —     606,160     247,708     20,648     1,333,234   
+  2016   315,385     —     72,800     1,209,572     144,615     13,028     1,755,400   
+Steven B. Binder 2018   400,000     —     —     333,840     100,000     20,452 (8)    854,292   
+Chief Financial Officer  2017   176,923     50,000     —     190,204     79,615     18,581     515,323   
+David M. Kendall, M.D.(6) 2018   367,789     50,000     —     461,670     91,947     175,495 (9)    1,146,901   
+Chief Medical Officer                                              
+James P. McCauley, Jr. 2018   400,000     —     —     333,840     100,000     231,642 (10)    1,065,482   
+Chief Commercial Officer                                              
+David B. Thomson, Ph.D., J.D. 2018   433,255     20,000     —     333,840     108,314     19,716 (11)    915,125   
+General Counsel and Secretary  2017   435,839     —     —     151,076     193,936     36,234     817,085   
+  2016   424,760     —     —     767,788     127,428     33,915     1,353,891   
+[END TABLE]
+[BEGIN TABLE]
+Name Grant Date All Other  Stock  Awards:  Number of  Shares of  Stock or  Units (#) All Other  Option  Awards:  Number of  Securities  Underlying  Options (#)(2) Exercise or  Base Price  of Options  Awards  Options  ($/Sh) Grant Date  Fair Value  of Stock  and Option  Awards ($) 
+Michael E. Castagna, Pharm.D.   5/16/18     —     534,000     1.91     833,040   
+Steven B. Binder   5/16/18     —     214,000     1.91     333,840   
+David M. Kendall, M.D.   2/21/18     —     180,100     2.76     378,210   
+    5/16/18     —     53,500     1.91     83,460   
+James P. McCauley, Jr.   5/16/18     —     214,000     1.91     333,840   
+David B. Thomson, Ph.D., J.D.   5/16/18     —     214,000     1.91     333,840   
+[END TABLE]
+[BEGIN TABLE]
+  Option Awards Stock Awards 
+Name Number of  Securities  Underlying  Unexercised  Options (#)  Exercisable Number of  Securities  Underlying  Unexercised  Options  (#)  Unexercisable Equity Incentive  Plan Awards:  Number of  Securities  Underlying  Unexercised  Unearned  Options (#) Option  Exercise  Price ($) Option  Expiration  Date Number  of Shares  or Units  of Stock  That  Have  Not  Vested  (#) Market  Value of  Shares or  Units of  Stock  That  Have  Not  Vested  ($) Equity Incentive  Plan Awards:  Number of  Unearned  Shares,  Units or  Other Rights  That Have  Not Vested  (#) Equity Incentive  Plan Awards:  Market or  Payout  Value of  Unearned  Shares,  Units or  Other Rights  That Have  Not Vested  ($) 
+Michael E. Castagna, Pharm.D.   48,008     17,832 (1)    —     4.55     3/14/2026     8,000 (2)    8,480     —     —   
+    50,000     150,000 (3)    —     4.55     5/18/2026     —     —     —     —   
+    37,525     112,575 (4)    —     1.42     5/25/2027     —     —     —     —   
+    57,750     173,250 (5)    —     1.52     5/29/2027     —     —     —     —   
+    75,604     115,396 (6)    —     1.52     5/29/2027     —     —     —     —   
+    —     534,000 (7)    —     1.91     5/16/2028     —     —     —     —   
+Steven B. Binder   45,025     135,075 (8)    —     1.47     7/17/2027     —     —     —     —   
+    —     214,000 (7)    —     1.91     5/16/2028     —     —     —     —   
+David M. Kendall, M.D.   —     180,100 (9)    —     2.76     2/12/2029     —     —     —     —   
+    —     53,500 (7)    —     1.91     5/16/2028     —     —     —     —   
+James P. McCauley, Jr.   45,025     135,075 (8)    —     1.47     7/17/2027     —     —     —     —   
+    —     214,000 (7)    —     1.91     5/16/2028     —     —     —     —   
+David B. Thomson, Ph.D., J.D.   12,400 (10)    —     —     29.65     8/19/2020     —     —     —     —   
+    12,380 (11)    —     —     19.00     3/2/2021     —     —     —     —   
+    14,320 (12)    —     —     12.05     8/17/2021     —     —     —     —   
+    4,000 (13)    —     —     8.45     5/17/2022     —     —     —     —   
+    12,000 (14)    —     —     8.45     5/17/2022     —     —     —     —   
+    15,000 (15)    —     —     11.60     8/16/2022     —     —     —     —   
+    72,000 (16)    —     —     34.25     5/23/2023     —     —     —     —   
+    10,000 (17)    —     —     29.45     8/22/2023     —     —     —     —   
+    8,680 (18)    —     —     35.45     8/20/2024     —     —     —     —   
+    12,049 (19)    2,411 (19)    —     19.55     8/26/2025     805 (21)    853     —     —   
+    62,177 (20)    25,603 (20)    —     4.60     2/18/2026     —     —     —     —   
+    20,000 (3)    60,000 (3)    —     4.55     5/18/2026     —     —     —     —   
+    37,525 (4)    112,575 (4)    —     1.42     5/25/2027     —     —     —     —   
+    —     214,000 (7)    —     1.91     5/16/2028     —     —     —     —   
+[END TABLE]
+[BEGIN TABLE]
+  Option Awards Stock Awards(1) 
+Name Number of  Shares Acquired  on Exercise (#) Value Realized  on Exercise ($) Number of  Shares Acquired  on Vesting (#) Value Realized  on Vesting ($) 
+Michael E. Castagna, Pharm.D.   —     —     4,000     10,720   
+Steven B. Binder   —     —     —     —   
+David M. Kendall, M.D.   —     —     —     —   
+James P. McCauley, Jr.   —     —     —     —   
+David B. Thomson, Ph.D., J.D.   —     —     1,290     1,440   
+[END TABLE]
+[BEGIN TABLE]
+  Triggering Event 
+  Termination  ($) Change in  Control ($)(3) 
+Michael E. Castagna Lump sum cash payment   —     1,243,603   
+  Continuing health and welfare benefits(1)         39,784   
+  Intrinsic value of accelerated unvested stock options(2)   —     —   
+  Total   —     1,283,387   
+Steven B. Binder Lump sum cash payment   —     808,013   
+  Continuing health and welfare benefits(1)         34,175   
+  Intrinsic value of accelerated unvested stock options(2)   —     —   
+  Total   —     842,188   
+David M. Kendall, M.D. Lump sum cash payment   —     685,297   
+  Continuing health and welfare benefits(1)         15,601   
+  Intrinsic value of accelerated unvested stock options(2)   —     —   
+  Total   —     700,898   
+James P. McCauley, Jr. Lump sum cash payment         809,744   
+  Continuing health and welfare benefits(1)   —     34,544   
+  Intrinsic value of accelerated unvested stock options(2)   —     —   
+  Total   —     844,288   
+David B. Thomson, Ph.D., J.D. Lump sum cash payment   871,984     1,042,666   
+  Continuing health and welfare benefits(1)   49,632     49,362   
+  Intrinsic value of accelerated unvested stock options(2)   —     —   
+  Total   921,346     1,092,028   
+[END TABLE]
+    39
+[BEGIN TABLE]
+Plan Category Number of Securities to  be Issued Upon  Exercise of Outstanding  Options, Warrants and  Rights (#)(a) Weighted- Average  Exercise Price  of Outstanding  Options,  Warrants and  Rights ($)(b) Number of Securities  Remaining Available for  Issuance Under Equity  Compensation Plans  (Excluding Securities  Reflected in Column (a)  (#)(c) 
+Equity compensation plans approved by security holders   11,667,384     5.75     12,108,773(1)  
+Equity compensation plans not approved by security holders(2)   —     —     —   
+[END TABLE]
+       

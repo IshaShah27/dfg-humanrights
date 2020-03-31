@@ -1,0 +1,1252 @@
+
+[BEGIN TABLE]
+ Popular, Inc.  
+ (Name of Registrant as Specified in its Charter)  
+ (Name of Person(s) Filing Proxy Statement, if other than the Registrant)  
+[END TABLE]
+[BEGIN TABLE]
+ ☒   No fee required.  
+     Fee computed on table below per Exchange Act Rules 14a-6(i)(1) and 0-11.  
+     (1)   Title of each class of securities to which transaction applies:  
+     (2)   Aggregate number of securities to which transaction applies:  
+     (3)   Per unit price or other underlying value of transaction computed pursuant to Exchange Act Rule 0-11 (set forth the amount on which the filing fee is calculated and state how it was determined):  
+     (4)   Proposed maximum aggregate value of transaction:  
+     (5)   Total fee paid:  
+  o   Fee paid previously with preliminary materials.  
+  o   Check box if any part of the fee is offset as provided by Exchange Act Rule 0-11(a)(2) and identify the filing for which the offsetting fee was paid previously. Identify the previous filing by registration statement number, or the Form or Schedule and the date of its filing.  
+     (1)   Amount Previously Paid:  
+     (2)   Form, Schedule or Registration Statement No.:  
+     (3)   Filing Party:  
+     (4)   Date Filed:  
+[END TABLE]
+[BEGIN TABLE]
+     HOW TO VOTE      
+     Online   Phone   Mail   In                   Person      
+     Only shareholders of record at the close of business on March 8, 2019 are entitled to notice of, and to vote at, the meeting. Each share of common stock                  is entitled to one vote. Your vote is important.      
+     We encourage you to attend the meeting. Whether or not you plan to attend, please vote as soon as possible so that we may be assured of the presence of a quorum at the                  meeting.      
+     You may vote online, in person, by telephone or, if you received a paper proxy card in the mail, by mailing the completed proxy card. The instructions on the Notice of                  Internet Availability of Proxy Materials or your proxy card describe how to use these convenient services.      
+     Important Notice Regarding the Availability of Proxy Materials for the Annual Meeting of Shareholders to be held on May 7, 2019:      
+    This 2019 Proxy Statement and our Annual Report for the year ended December 31, 2018 are available free of charge at www.popular.com and www.proxyvote.com. 
+    This 2019 Proxy Statement and our Annual Report for the year ended December 31, 2018 are available free of charge at www.popular.com and www.proxyvote.com. 
+                                            209 Muñoz Rivera Avenue                   San Juan, Puerto Rico 00918      
+[END TABLE]
+[BEGIN TABLE]
+ TABLE OF CONTENTS   
+[END TABLE]
+[BEGIN TABLE]
+ PROXY STATEMENT SUMMARY        1      
+ CORPORATE GOVERNANCE, DIRECTORS AND EXECUTIVE OFFICERS       6      
+ Corporate Governance       6      
+ Key Corporate Governance Features       6      
+ Board of Directors' Independence       7      
+ Board Leadership       7      
+ Director Continuing Education       8      
+ Board Meetings and Executive Sessions       8      
+ Board Self-Assessment       8      
+ Committees of the Board       9      
+ Membership in Board Committees       11      
+ Board Oversight of Risk Management       11      
+ Nomination of Directors       12      
+ Succession Planning       14      
+ Code of Ethics       14      
+ Communication with the Board       14      
+ Where to Find More Information on Governance       15      
+ Directors and Executive Officers       16      
+ Nominees for Election as Directors and Other Directors       16      
+ Executive Officers       22      
+ Certain Relationships and Transactions        26      
+ EXECUTIVE AND DIRECTOR COMPENSATION       30      
+ Compensation Discussion and Analysis       30      
+ Overview       31      
+ Compensation Objectives and Components       35      
+ 2018 Compensation Program and Pay Decisions       36      
+ Governance and Assessment of Executive Compensation       44      
+ Other Aspects of Our Executive Compensation Program       46      
+ Risk Mitigation       46      
+ Report of the Compensation Committee       47      
+ 2018 Executive Compensation Tables and Compensation Information       48      
+ Summary Compensation Table       48      
+ Grants of Plan-Based Awards       50      
+ Outstanding Equity Awards at Fiscal Year End       51      
+ Option Exercises and Stock Vested Table for 2018       52      
+ Post-Termination Compensation       52      
+ CEO Pay Ratio        56       
+ Compensation of Non-Employee Directors       57      
+ Compensation of Directors       57      
+ Director Stock Ownership Requirements       58      
+[END TABLE]
+[BEGIN TABLE]
+ SECURITY OWNERSHIP OF CERTAIN BENEFICIAL OWNERS AND MANAGEMENT       59      
+ Beneficial Ownership        59       
+ Shares Beneficially Owned by Directors and Executive Officers       59       
+ Principal Shareholders       60      
+ Section 16(A) Beneficial Ownership Reporting Compliance       60      
+ PROPOSALS       61      
+ Proposal 1: Election of Directors       61      
+ Proposal 2: Advisory Vote to Approve Executive Compensation       62      
+ Proposal 3: Ratification of Appointment of Independent Registered Public Accounting Firm       63      
+ AUDIT COMMITTEE REPORT       64      
+ GENERAL INFORMATION ABOUT THE MEETING       65      
+ About the Meeting       65      
+ Voting Procedure and Results       66      
+ Proxy Materials       68      
+ Shareholder Proposals       69      
+ APPENDIX A—POPULAR, INC., RECONCILIATION OF NON-GAAP MEASURES       71      
+[END TABLE]
+[BEGIN TABLE]
+     PROXY STATEMENT SUMMARY       
+     This summary highlights information contained elsewhere in this Proxy Statement. You should read the entire Proxy Statement before voting.       
+    Meeting Agenda and Voting Recommendations
+    Meeting Agenda and Voting Recommendations
+     PROPOSAL 1       
+     Election of Directors      
+                      THE BOARD OF DIRECTORS RECOMMENDS THAT YOU VOTE FOR EACH NOMINEE.      
+     We are asking shareholders to elect four directors for a three-year term. The table below sets forth information with respect to our four nominees standing for election.                  All of the nominees are currently serving as directors. Additional information about the candidates and their respective qualifications can be found on the "Nominees for Election as Directors and Other Directors" section of this Proxy                  Statement.      
+      JOAQUÍN E. BACARDÍ, III    ROBERT CARRADY    JOHN W. DIERCKSEN    MYRNA M. SOTO      
+      Age 53     Age 63     Age 69     Age 50       
+      Chairman of Edmundo B.  Fernández, Inc.     President of Caribbean  Cinemas    Principal of Greycrest,  LLC     Chief Operating Officer of  Digital Hands, LLC      
+      Director since 2013     Director since 2019     Director since 2013     Director since 2018      
+     PROPOSAL 2       
+     Advisory Vote to Approve Executive Compensation      
+                      THE BOARD OF DIRECTORS RECOMMENDS THAT YOU VOTE FOR THIS PROPOSAL.      
+     We are asking shareholders to approve, on an advisory basis, the compensation of our named executive officers ("NEOs") as described in the sections titled "Compensation                  Discussion and Analysis" and "2018 Executive Compensation Tables and Compensation Information." We hold this advisory vote on an annual basis.      
+[END TABLE]
+[BEGIN TABLE]
+     PROPOSAL 3       
+     Ratification of Auditors       
+                      THE BOARD OF DIRECTORS RECOMMENDS THAT YOU VOTE FOR RATIFICATION.      
+     We are asking shareholders to ratify the Audit Committee's appointment of PricewaterhouseCoopers LLP as our independent registered public accounting firm for 2019.                  Information on fees paid to PricewaterhouseCoopers LLP during 2018 and 2017 appears on the "Proposal 3: Ratification of Appointment of Independent Registered Public Accounting Firm" section of this Proxy Statement.      
+[END TABLE]
+2019 PROXY STATEMENT  |  1          
+[BEGIN TABLE]
+    2018 Financial Performance and Executive 
+                 Compensation Highlights
+    2018 Financial Performance and Executive 
+                 Compensation Highlights
+     2018 CORPORATE HIGHLIGHTS       
+     During 2018, we demonstrated the continued strength of our franchise while operating in an ongoing challenging fiscal and economic environment. Results for our business in                  Puerto Rico were outstanding, as the economy continued to recover from the impact of Hurricanes Irma and Maria (the "Hurricanes") in 2017. We achieved year-over-year growth in our net interest income and maintained stable credit indicators                  and strong capital levels.       
+     Our Puerto Rico business experienced growth in deposits, an increase in our customer base and strong net interest margins. Popular (the "Corporation") completed the                  acquisition of Wells Fargo's auto finance business in Puerto Rico ("Reliable"), positioning the Corporation as the leader in the Island's auto financing segment. Furthermore, we negotiated the early termination of our loss share agreements                  with the Federal Deposit Insurance Corporation (the "FDIC"). In the United States, our total loan portfolio grew by 7%, driven primarily by commercial loans, and net margins increased. In addition, Popular's capital levels remained strong.                  A common stock repurchase program of $125 million was completed, $450 million of senior debt with a 7% coupon was redeemed, $300 million in senior debt was issued at 6.125% and $53 million of Trust Preferred Securities were redeemed by the                  Corporation.       
+     During 2018, we also made progress in each of the strategic pillars established last year:      
+• Sustainable and profitable growth: We maintained strong margins, expanded our auto finance business in Puerto Rico and niche businesses in the United States and grew our customer base.      
+• Simplicity: We advanced projects to streamline our organization to reduce costs, improve quality                    and agility, enable a superior customer and employee experience and provide a platform for future growth.       
+• Customer focus: We executed targeted initiatives to measure and improve our customers'                    experience, including the migration of transactions to digital channels.       
+• Fit for the Future: We continue to bolster a solid foundation of talent and risk management frameworks to support our future growth. We created the Corporate Security Group, focused on fraud prevention and cybersecurity efforts. We also implemented various initiatives                    focused on our employees' well-being and development, including a voluntary retirement program in Puerto Rico and the Virgin Islands                                                and base salary increases in all our markets.      
+     True to Popular's core value of social commitment, valuable financial and in-kind assistance was provided through Fundación Banco Popular, Popular Foundation and corporate                  donations and social programs. Our total social investment during 2018 was $6.1 million, impacting communities in Puerto Rico, the mainland United States and the Virgin Islands.      
+     2018 FINANCIAL HIGHLIGHTS       
+     Our 2018 GAAP net income increased from $107.7 million in 2017 to $618.2 million. These results were driven by strong top line revenue growth in our Puerto Rico franchise                  and reflect the positive contribution of the acquisition of Reliable.      
+     Our net income reported under GAAP for 2018 was impacted by the early termination of our loss share agreements with the FDIC, entered into in connection with the acquisition                  of certain assets and the assumption of certain liabilities of Westernbank Puerto Rico through an FDIC-assisted transaction in 2010, as well as the impact of the 2018 Puerto Rico Tax Reform on the valuation of Popular's deferred tax asset.                  These factors contributed a net amount of $130.9 million to net income. To provide meaningful information about the underlying performance of our ongoing operations, the $130.9 million is deducted from net income to express our results on                  an adjusted net income basis, which is a non-GAAP measure; on this basis, our adjusted net income was $487.3 million. This compares favorably to our $276.0 million adjusted net income attained in 2017. In addition, for purposes of certain                  incentive awards, the Compensation Committee of our Board of Directors decided to make further net income adjustments related to Hurricane insurance claims, the impact of the voluntary retirement program and early extinguishment of debt to                  more accurately reflect our core performance so that participants are neither rewarded nor penalized for items that are non-recurring, unusual or not indicative of ongoing operations. On this basis,       
+[END TABLE]
+2  |  2019 PROXY STATEMENT 
+[BEGIN TABLE]
+     our after-tax adjusted net income for certain incentives was $500.0 million. Refer to the GAAP to non-GAAP reconciliation in Appendix A of this                  Proxy Statement.      
+     Popular, Inc. ("BPOP") shares closed 2018 at $47.22, 33% higher than year-end 2017. This performance compared very positively against our U.S. peers and the KBW Nasdaq                  Regional Banking Index ("KRX"), which declined by 18% and 19%, respectively. In fact, Popular was the best performing bank in the KRX, outperforming the Index throughout 2018 due, in part, to the Island's steady economic recovery after the                  2017 Hurricanes, strong earnings and stable credit quality metrics.      
+[END TABLE]
+[BEGIN TABLE]
+     EXECUTIVE COMPENSATION PROGRAM HIGHLIGHTS  
+     Our executive compensation program is designed to motivate and reward performance, align executives with shareholder interests, promote building long-term shareholder value,                  attract and retain highly qualified executives and mitigate conduct that may promote excessive or unnecessary risk taking. Our program is premised upon:      
+     PAY-FOR-PERFORMANCE       
+• Focus on variable, incentive-based pay (62%-74% of total target NEO pay is performance-based)      
+• Combination of short-term (cash) and long-term (equity) incentives      
+• Equity awards promote performance and retention of high-performing talent      
+• Total compensation opportunity targeted at median of our peer group      
+• No special retirement or severance programs      
+• Limited perquisites      
+     STRONG GOVERNANCE       
+• Incentive risk mitigation through balanced compensation design and strong internal control framework      
+• No speculative transactions in Popular securities nor pledging or hedging of common stock       
+• Clawback guideline      
+• Annual say-on-pay advisory vote       
+• Independent compensation consultant      
+• Compensation governance framework that includes internal guidelines covering compensation programs and incentive design       
+     EXECUTIVE ALIGNMENT WITH LONG-TERM SHAREHOLDER VALUE       
+• Stock ownership requirements       
+• Extended equity vesting (including a portion at retirement)       
+• Double-trigger equity vesting upon change in control      
+[END TABLE]
+2019 PROXY STATEMENT  |  3          
+[BEGIN TABLE]
+     PAY MIX IN THE COMPENSATION PROGRAM   
+     Our executive compensation program focuses on the achievement of annual and long-term goals that generate sustained company performance and strong returns to our                  shareholders. As illustrated in the graphs below, the majority of total target compensation is at-risk, subject to company and individual performance: 64% of total target compensation for the Executive Chairman, 74% for the President and                  CEO and 62% for the other NEOs.      
+ 2018 TARGET COMPENSATION PAY MIX  
+               Note: Target total compensation is based on base salary as of December 31, 2018.  
+[END TABLE]
+[BEGIN TABLE]
+     2018 COMPENSATION PROGRAM AND PAY DECISIONS       
+     For 2018, the total compensation paid to or earned by our NEOs was as follows:       
+         Name and Principal Position    Salary    Bonus    Stock                   Awards    Non-Equity                   Incentive Plan                   Compensation    Change in                   Pension                   Value                   and                   Nonqualified                   Deferred                   Compensation                   Earnings    All Other                   Compensation    Total         
+         Richard L. Carrión                   Executive Chairman    $1,200,000   $50,000   $1,020,000   $1,366,360            —   $328,134   $3,964,494        
+         Ignacio Alvarez                   President and Chief Executive                   Officer ("CEO")   1,013,231   45,833   1,665,000   1,652,800   —   40,699   4,417,563        
+         Carlos J. Vázquez                   Executive Vice President and Chief Financial Officer ("CFO")   686,423   28,688   540,000   763,111   —   18,041   2,036,262        
+         Javier D. Ferrer                   Executive Vice President and Chief Legal Officer ("CLO")   559,308   23,375   440,000   623,659   —   15,605   1,661,946        
+         Lidio V. Soriano                   Executive Vice President and Chief Risk Officer ("CRO")   508,462   21,250   400,000   523,015   —   11,889   1,464,616       
+[END TABLE]
+[BEGIN TABLE]
+     BASE SALARY   
+     In March 2018, each NEO, except for the Executive Chairman, received a 2% merit increase adjustment to his base salary upon consideration of salary market benchmarking and                  individual performance. Effective June 2018, the Compensation Committee approved a further increase to Mr. Alvarez's base salary to position his total compensation closer to market median while recognizing solid performance after his first                  year as CEO.      
+[END TABLE]
+[BEGIN TABLE]
+     SHORT-TERM ANNUAL CASH INCENTIVE   
+     The short-term annual cash incentive is awarded based on the achievement of corporate results, individual goals and leadership competencies. In 2018, it had a target of 85%                  of base pay for Mr. Carrión, 100% for Mr. Alvarez and 80% of base pay for the other NEOs. Actual payouts can range from zero to 1.5 times the target award. After considering all incentive components, the Compensation Committee granted                  annual cash incentive awards at 113.6% of base pay for Mr. Carrión, 150% for Mr. Alvarez, 110.4% for Mr. Vázquez, 110.7% for Mr. Ferrer and 102% for Mr. Soriano.      
+[END TABLE]
+4  |  2019 PROXY STATEMENT 
+[BEGIN TABLE]
+     LONG-TERM EQUITY INCENTIVE   
+     The annual equity grant rewards performance and aligns the interests of our NEOs with those of our shareholders. One half of the target award consists of performance shares,                  with actual earned shares determined at the end of a 3-year performance period based on total shareholder return and earnings per share metrics. The other half of this award consists of restricted stock granted based on corporate and                  individual performance, with a vesting period. At the time of grant, in February 2018, the target incentive opportunity was 85% of base pay for Mr. Carrión, 185% of base pay for Mr. Alvarez and 80% of base pay for the other NEOs. The actual                  long-term incentive awards range from zero to 1.5 times the target award. The 2018 long-term incentive awards were granted considering our performance in 2017, recognizing that although the 2017 net income goal had not been achieved, the                  senior management team had demonstrated strong leadership during Puerto Rico's unprecedented challenging macroeconomic conditions (due in large part to the impact of the Hurricanes), including maintaining a strong franchise and market                  position in Puerto Rico, stable credit quality and strong capital position. Upon consideration of the corporate and individual performance factors, the Compensation Committee granted equity awards in 2018 to NEOs at the previously mentioned                  target levels. Our executive compensation programs are discussed in more detail in the "Compensation Discussion and Analysis" and "2018 Executive Compensation Tables and Compensation Information" sections of this Proxy Statement.    
+[END TABLE]
+2019 PROXY STATEMENT  |  5          
+[BEGIN TABLE]
+ Director                   Independence   Popular's Corporate Governance Guidelines provide that at least two-thirds of the Board shall consist of independent directors. At present, all of our non-employee directors                  (nine of eleven directors) are independent in accordance with the standards of The Nasdaq Stock Market ("NASDAQ"). Messrs. Carrión and Alvarez are our only employee directors and are not considered independent.   
+ Majority Voting in Director Elections   Directors are elected by the affirmative vote of a majority of the shares represented at the annual meeting. An incumbent director not elected by the affirmative vote of a                  majority of the shares represented at the annual meeting must tender his or her resignation to the Board, which may accept or reject the director's resignation.   
+ Independent Lead Director   The Board has a Lead Director elected annually by a majority of the independent members of the Board.   
+ Board Oversight of Risk Management    Popular's Board has a significant role in risk oversight. You can read about the role of the Board in risk oversight under "Board Oversight of Risk Management."   
+ Succession Planning   The Compensation Committee annually reviews a management succession plan, developed by the CEO, to ensure an orderly succession of the CEO and executive officers in both                  ordinary course and emergency situations.   
+ Director Retirement   Popular's Corporate Governance Guidelines provide that directors may serve on the Board until the end of their term following their 72nd birthday, and may not be initially elected or re-elected after reaching age 72.   
+ Stock Ownership   Within three years of their election, directors must hold Popular stock with a value equal to five times the annual Board retainer. Within five years of designation, the                  Executive Chairman and the President and CEO must hold Popular stock with a value equal to six times base pay and other executive officers must hold three times their base pay.   
+ Restrictions on Pledging, Hedging and Speculative Transactions   Popular's directors and executive officers are prohibited from pledging Popular's common stock as collateral for loans. In addition, directors and executive officers are not                  allowed to engage in speculative transactions, such as hedging and monetization transactions, using Popular's securities.   
+ Annual Board and Committee Self-Assessments    The Board and each committee conduct annual self-evaluations to determine whether they are functioning effectively.  
+ Executive Sessions of Non-Management Directors    Popular's independent directors hold executive sessions without Popular's management.   
+ Limits on Board Service   To ensure that Directors have sufficient time to devote to their responsibilities on Popular's Board, Popular's Corporate Governance Guidelines contain a policy about other                  directorships. Directors who also serve as CEOs of public companies should not serve on more than one public company board in addition to Popular's Board, and other directors should not serve on more than four public company boards in                  addition to Popular's Board. In addition, members of the Audit Committee may not serve on more than three public company audit committees, including Popular's Audit Committee, without prior Board approval.  
+[END TABLE]
+6  |  2019 PROXY STATEMENT 
+As part         of the process to determine director independence, the Board considered payments made by Popular in the ordinary course of business to various entities related to Ms. Ferré and Mr. Carrady in connection with advertising activities of Popular and         its affiliates. In the case of Mr. Carrady, it also considered payments made and received by Popular in the ordinary course of business in connection with property lease transactions. The Board determined that these business relationships are not         material and did not impair the ability of neither Ms. Ferré nor Mr. Carrady to act independently.   
+the         Chairman and CEO positions if it determines that doing so would serve the best interests of the Corporation.Popular's                       Corporate Governance Guidelines require the designation of a Lead Director when the Chairman of the Board is not an independent director. The Lead Director is an independent director elected annually by a majority of the independent members of the         Board. On February 15, 2019, Mr. Teuber was reappointed as the Lead Director. The Corporate Governance Guidelines provide that the Lead Director will have the responsibilities listed below.
+[BEGIN TABLE]
+ Lead Director Responsibilities   
+ ✔   Preside over all meetings of the Board at which the Chairman is not present.  
+ ✔   Preside over executive sessions of the independent directors.  
+ ✔   Act as liaison between the independent directors and the Chairman.  
+ ✔   Have authority to call meetings of independent directors.  
+ ✔   Assist the other independent directors by ensuring that independent directors have adequate opportunities to meet in executive sessions and communicate to the Chairman, as                  appropriate, the results of such sessions and other private discussions among outside directors.  
+ ✔   Assist the Chairman and the remainder of the Board in assuming effective corporate governance in managing the affairs of the Board.  
+ ✔   Serve as the contact person to facilitate communications requested by major shareholders with independent members of the Board.  
+ ✔   Approve, in collaboration with the Chairman, meeting agendas and information sent to the Board.  
+ ✔   Approve, in collaboration with the Chairman, meeting schedules to assure that there is sufficient time for discussion of all agenda items.  
+ ✔   Serve temporarily as Chairman of the Board and the Board's spokesperson if the Chairman is unable to act.  
+ ✔   Interview Board candidates.  
+ ✔   Recommend to the Corporate Governance and Nominating Committee nominees to Board committees and sub-committees as may come to the Lead Director's attention.  
+ ✔   Ensure the Board works as a cohesive team.  
+ ✔   Be available for consultation and direct communication upon request of major shareholders.  
+ ✔   Make such recommendations to the Board as the Lead Director may deem appropriate for the retention of consultants who will report to the Board.  
+ ✔   Retain consultants, with the approval of the Board, as the Lead Director and the Board deem appropriate.  
+[END TABLE]
+2019 PROXY STATEMENT  |  7          
+Leadership                       Program. This program offers our directors access to a wide range of in-person, peer-based and webinar educational programs on corporate governance, committee duties, board leadership and industry developments.
+Corporate Governance                       Guidelines provide that the independent directors will meet in executive sessions once every in-person regularly scheduled Board meeting. During 2018, the independent directors met in executive sessions without Popular's management after each         regularly scheduled in-person Board meeting (except one regularly scheduled in-person Board meeting where it was determined that no executive session was necessary). 
+8  |  2019 PROXY STATEMENT 
+[BEGIN TABLE]
+ Members: Alejandro M. Ballester                   John W. Diercksen (Chair)                   C. Kim Goodwin                   William J. Teuber, Jr.                   Carlos A. Unanue                                         Independence: Each member of the                   committee is independent                                         Audit Committee                   Financial Expert: Messrs. Teuber and Diercksen                   and Ms. Goodwin are Audit                   Committee Financial Experts                   as defined by SEC rules                                         Meetings in 2018: 10 meetings, of which 8 were devoted to the discussion of earnings releases, Form 10-K and Form                    10-Q filings                                         Charter last revised: December 13, 2018   Primary Responsibilities:    
+ Assists the Board in its oversight of:    
+• the outside auditors' qualifications, independence and performance;    
+• the performance of Popular's internal audit function;    
+• the integrity of Popular's financial statements, including overseeing the accounting and financial processes, principles and policies, the effectiveness of internal controls                  over financial reporting and the audits of the financial statements; and    
+• compliance with legal and regulatory requirements.    
+ In addition, the Audit Committee issues a report, as required by the U.S. Securities and Exchange Commission (the "SEC") rules, for inclusion in Popular's annual proxy                  statement. The Audit Committee was established in accordance with the requirements of the Securities Exchange Act of 1934.    
+[END TABLE]
+[BEGIN TABLE]
+ Members: Joaquín E. Bacardí, III                   Alejandro M. Ballester (Chair)                   Maria Luisa Ferré                   William J. Teuber, Jr.                                         Independence: Each member of the                   committee is independent                                         Meetings in 2018: 6                                         Charter last revised: January 25, 2019   Primary Responsibilities:    
+ The Corporate Governance and Nominating Committee is responsible for:    
+• exercising general oversight with respect to the governance of the Board;    
+• identifying and recommending individuals qualified to become Board members and recommending director nominees and committee members to the Board;    
+• reviewing and reporting to the Board on matters of corporate governance and developing and recommending to the Board a set of corporate governance principles applicable to                  Popular;    
+• leading the Board and assisting its committees in the annual assessment of their performance; and    
+• recommending to the Board the form and amount of compensation for Popular's directors.    
+[END TABLE]
+2019 PROXY STATEMENT  |  9          
+[BEGIN TABLE]
+ Members: Joaquín E. Bacardí, III Robert Carrady                     John W. Diercksen                     C. Kim Goodwin (Chair)                     Myrna M. Soto                     William J. Teuber, Jr.                                            Independence: Each member of the                   committee is independent                                         Meetings in 2018: 10                                         Charter last revised: February 15, 2019   Primary Responsibilities:    
+ Assists the Board in the oversight of:    
+• Popular's overall risk management framework; and    
+• the monitoring, review and approval of the policies and procedures that measure, limit and manage Popular's main risks, including operational, liquidity, interest rate,                  market, legal, compliance and credit risks.    
+[END TABLE]
+[BEGIN TABLE]
+ Members: John W. Diercksen                   María Luisa Ferré (Chair)                   William J. Teuber, Jr.                   Carlos A. Unanue                                         Independence: Each member of the                   committee is independent                                         Meetings in 2018: 6                                         Charter last revised: December 13, 2018   Primary Responsibilities:    
+ Discharges the Board's responsibilities, subject to review by the full Board, relating to:    
+• compensation of Popular's Executive Chairman, CEO and all other executive officers;    
+• adoption of policies that govern Popular's compensation and benefit programs;    
+• overseeing plans for executive officer development and succession;    
+• overseeing, in consultation with management, compliance with federal, state and local laws as they affect compensation matters;    
+• considering, in consultation with the CRO, whether the incentives and risks arising from the compensation plans for all employees are reasonably likely to have a material                  adverse effect on Popular and taking necessary actions to limit any risks identified as a result of the risk-related reviews; and    
+• reviewing and discussing with management the "Compensation Discussion and Analysis" section for Popular's annual proxy statement in compliance with and to the extent                  required by applicable law, rules and regulations.    
+ Compensation Committee Interlocks and Insider Participation:    
+ None of the members of the Compensation Committee is or has been an officer or employee of Popular. In addition, none of our executive officers is, or was during 2018, a                  member of the board of directors or compensation committee (or other committee serving an equivalent function) of another company that has, or had during 2018, an executive officer serving as a member of our Compensation Committee. Other                  than as disclosed in the "Certain Relationships and Transactions" section of this Proxy Statement, none of the members of the Compensation Committee had any relationship with Popular requiring disclosure under Item 404 of Regulation S-K.    
+[END TABLE]
+10  |  2019 PROXY STATEMENT 
+[BEGIN TABLE]
+         Audit   Compensation    Corp. Gov. &                   Nominating    Risk      
+     Class 1      
+     Ignacio Alvarez                       
+     Alejandro M. Ballester          Richard L. Carrión                       
+     Carlos A. Unanue•       Class 2      
+     Joaquín E. Bacardí, III•       Robert Carrady                      John W. Diercksen•       Myrna M. Soto                      Class 3      
+     María Luisa Ferré                 C. Kim Goodwin                      
+     William J. Teuber, Jr. (Lead Director)• •  [END TABLE]
+[BEGIN TABLE]
+• Member      Committee Chair      Financial Expert  
+[END TABLE]
+[BEGIN TABLE]
+ Risk Management                   Committee   Responsibilities:    
+• Review, approve and oversee management's implementation of Popular's risk management program and related policies, procedures and controls to measure, limit and manage                  Popular's risks, including operational, liquidity, interest rate, market, legal, compliance and credit risks, while taking into consideration their alignment with Popular's strategic and capital plans.    
+• Review and discuss with management Popular's major financial risk exposures and the steps taken by management to monitor and control such exposures.    
+• Review and receive reports on selected risk topics as management or the committee may deem appropriate.    
+• After each meeting, report to the full Board regarding its activities.    
+[END TABLE]
+2019 PROXY STATEMENT  |  11          
+[BEGIN TABLE]
+ Audit                   Committee   Responsibilities:    
+• Oversight of accounting and financial reporting principles and policies, internal controls and procedures and controls over financial reporting.    
+• Review reports from management, independent auditors, internal auditors, compliance group, legal counsel, regulators and outside experts, as considered appropriate, that                  include risks Popular faces and Popular's risk management function.    
+• Evaluate and approve the annual risk assessment of the Internal Audit Division, which identifies the areas to be included in the annual audit plan.    
+• After each meeting, report to the full Board regarding its activities.    
+[END TABLE]
+[BEGIN TABLE]
+ Compensation                   Committee   Responsibilities:    
+• Establish Popular's executive compensation and other incentive-based compensation programs, taking into account the risks to Popular that such programs may pose.    
+• Periodically evaluate, in consultation with the CRO, whether the incentives and risks arising from Popular's compensation plans for all employees are likely to have a                  material adverse effect on Popular.    
+• Take such action as the Committee deems necessary to limit any risks identified as a result of the risk-related reviews.    
+• After each meeting, report to the full Board regarding its activities.    
+[END TABLE]
+ recommended by a shareholder. There were no nominees for director recommended by shareholders for consideration by the Corporate Governance and Nominating Committee for election at the 2019 annual meeting of shareholders.         Shareholders who wish to submit nominees for director for consideration by the Corporate Governance and Nominating Committee for election at Popular's 2020 annual meeting of shareholders may do so as set forth under "General Information About the         Meeting—Shareholder Proposals." Under         Popular's Corporate Governance Guidelines, the Board should, based on the recommendations of the Corporate Governance and Nominating Committee, select new nominees for the position of independent director by considering the criteria outlined below:       
+[BEGIN TABLE]
+ Criteria for Nomination   
+ ✔   Personal qualities and characteristics, accomplishments and reputation in the business community.   
+ ✔   Current knowledge and contacts in the communities in which Popular does business and in Popular's industry or other industries relevant to Popular's business.   
+ ✔   Ability and willingness to commit adequate time to Board and committee matters.   
+ ✔   The fit of the individual's skills and personality with those of other directors and potential directors in building a Board that is effective, collegial and responsive to                  the needs of Popular.   
+ ✔   Diversity of viewpoints, background, experience and other demographic factors.  
+[END TABLE]
+12  |  2019 PROXY STATEMENT 
+directors and nominees reflect an appropriate diversity of gender, age, race, geographical background and experience. The Board is committed to considering diversity issues in evaluating its composition.The         following summarizes the diversity, tenure, independence, age, and the main experience and skills of our Board of Directors:
+2019 PROXY STATEMENT  |  13          
+ succession, (2) a proposed plan for CEO succession in the ordinary course of business, and (3) the CEO's plan for management succession for the other policy-making officers of Popular. The succession plan includes an assessment of the         experience, performance, skills and planned career paths for possible candidates within the senior management team. Development initiatives supporting the succession plan include job enhancements and rotations, the Popular Leadership Academy,         specialized external trainings and competency assessments. 
+During         2018, Popular did not receive or grant any request from directors, NEOs or other executive officers for waivers under the provisions of the Code. The Code was last revised on September 21, 2018 and is available on the Corporate Governance section         of Popular's website at www.popular.com/en/investor-relations/. Popular will post on its website any amendments to the Code and any waivers granted to the Executive Chairman, President and CEO, the CFO, the Corporate Comptroller or directors. Popular         expects employees to report behavior that concerns them or that may represent a violation of the Code. Popular offers several channels by which employees may raise an issue or concern, including any actual or potential violations of the Code. One         such method is EthicsPoint, a website and telephone hotline that is available 24/7. EthicsPoint reports can be submitted anonymously. 
+[BEGIN TABLE]
+ Popular, Inc., Board of Directors (751),                   P.O. Box 362708, San Juan, PR 00936-2708                                         Alternatively, a shareholder may contact the Audit Committee or any of its members telephonically by calling the toll-free number (866) 737-6813 or electronically through www.popular.com/ethicspoint-en.  
+[END TABLE]
+Popular's                       Chief Legal Officer and Secretary reviews all correspondence addressed to the Board or any of its members and provides the Board with copies of all communications that deal with the functions of the Board or its committees, or that otherwise         require Board attention. Communications received by the Audit Committee that are not related to accounting or auditing matters may, in its discretion, be forwarded by the Audit Committee or any of its members to other committees of the Board or         Popular's management for review.
+14  |  2019 PROXY STATEMENT 
+[BEGIN TABLE]
+ Popular maintains a corporate governance section on its website at www.popular.com/en/investor-relations/ where investors may find copies of its principal governance                  documents. The corporate governance section of Popular's website contains, among others, the following documents:  
+ ✔   Code of Ethics   ✔   Risk Committee Charter  
+ ✔   Audit Committee Charter   ✔   Corporate Governance Guidelines  
+ ✔   Corporate Governance and Nominating Committee Charter   ✔   Insider Trading Policy  
+ ✔   Compensation Committee Charter          
+[END TABLE]
+2019 PROXY STATEMENT  |  15          
+[BEGIN TABLE]
+                 JOAQUÍN E. BACARDÍ, III
+                 Director since 2013 
+                 Age 53 
+                 Committees 
+• Corporate Governance & 
+                      Nominating 
+• Risk     
+                  BACKGROUND   
+                 JOAQUÍN E. BACARDÍ, III
+                 Director since 2013 
+                 Age 53 
+                 Committees 
+• Corporate Governance & 
+                      Nominating 
+• Risk     
+                  BACKGROUND   
+ QUALIFICATIONS  
+ On November 2017, Mr. Bacardí completed the acquisition of Edmundo B. Fernández, Inc., a 137 year old privately owned rum company. Mr. Bacardí has extensive experience in                  the development and implementation of international marketing, sales and distribution strategies acquired throughout more than 24 years at various Bacardi companies and 3 years as Product Manager of Nestlé of Puerto Rico. As President and                  Chief Executive Officer of Bacardi Corporation, Mr. Bacardí directed and managed all business operations with full profit and loss responsibilities and government relations for Bacardi in the Caribbean, Mexico, Central and South America.                  Prior to becoming President and Chief Executive Officer of Bacardi Corporation, Mr. Bacardí held positions in various Bacardi enterprises where, among other things, he was responsible for the development of all global communication                  strategies for Bacardi Limited's whisky portfolio, with total sales of approximately $400 million, and supervision of marketing for all Bacardi brands globally. Mr. Bacardí's vast experience in business operations in Puerto Rico and across                  various international markets, as well as his expertise in global communication strategies, have been of great benefit to the Board.  
+[END TABLE]
+[BEGIN TABLE]
+                 ROBERT CARRADY
+                 Director since January 2019 
+                 Age 63 
+                 Committee 
+• Risk    
+                  BACKGROUND   
+                 ROBERT CARRADY
+                 Director since January 2019 
+                 Age 63 
+                 Committee 
+• Risk    
+                  BACKGROUND   
+ QUALIFICATIONS  
+ Mr. Carrady, as President of Caribbean Cinemas, has acquired extensive leadership and business operations experience by overseeing and managing a theater operation of                  approximately 570 cinema screens in 68 locations across Puerto Rico, the Dominican Republic and several other Caribbean islands, as well as in Guyana, Panama and Bolivia. His entrepreneurial skills have helped develop Caribbean Cinemas into                  the largest movie theater chain in the Caribbean and has transformed the company which today manages in-house the construction of new sites, theatre operations, film buying, food concessions, screen advertising, game room concessions and                  real estate leasing and management. Mr. Carrady's experience as a business leader and entrepreneur, as well as his thorough understanding of the Caribbean region, one of the markets where Popular operates, brings great value to our board.  
+[END TABLE]
+16  |  2019 PROXY STATEMENT 
+[BEGIN TABLE]
+                 JOHN W. DIERCKSEN
+                 Director since 2013 
+                 Age 69 
+                 Committees 
+• Audit (Chair and 
+                     Financial Expert) 
+• Risk 
+• Compensation    
+                 JOHN W. DIERCKSEN
+                 Director since 2013 
+                 Age 69 
+                 Committees 
+• Audit (Chair and 
+                     Financial Expert) 
+• Risk 
+• Compensation    
+ BACKGROUND  
+ Principal of Greycrest, LLC, a privately-held financial and operational advisory services company, since October 2013. Chief Executive Officer of Beachfront Wireless LLC, a                  privately-held investment entity organized to participate in a Federal Communications Commission airwaves auction, from December 2015 to November 2016, when it was sold. Senior Advisor at Liontree Investment Advisors, an investment banking                  firm, since April 2014. Director of Harman International Industries, Incorporated, an audio and infotainment equipment company, from June 2013 to June 2017, when it was sold, Intelsat, S.A., a communications satellite services provider,                  since September 2013 and Cyxtera Technologies, an entity that provides data center security and analytic services, since May 2017.  
+ QUALIFICATIONS  
+ Mr. Diercksen has 29 years of experience in the communications industry. From 2003 to 2013, he was an Executive Vice President of Verizon Communications, Inc., a global                  leader in delivering consumer, enterprise wireless and wire line services, as well as other communication services. At Verizon he was responsible for key strategic initiatives related to the review and assessment of potential mergers,                  acquisitions and divestitures and was instrumental in forging Verizon's strategy of technology investment and repositioning its assets. He possesses a vast experience in matters related to corporate strategy, mergers, acquisitions and                  divestitures, business development, venture investments, strategic alliances, joint ventures and strategic planning. Mr. Diercksen's extensive senior leadership experience, together with his financial and accounting expertise, position him                  well to advise the Board and senior management on a wide range of strategic and financial matters.  
+[END TABLE]
+[BEGIN TABLE]
+                 MYRNA M. SOTO
+                 Director since July 2018 
+                 Age 50 
+                 Committee 
+• Risk     
+                 MYRNA M. SOTO
+                 Director since July 2018 
+                 Age 50 
+                 Committee 
+• Risk     
+ BACKGROUND  
+ Chief Operating Officer of Digital Hands, LLC, a managed security service provider, since March 4, 2019. Partner at ForgePoint Capital, a venture capital firm concentrating                  exclusively on cybersecurity related companies, from April 2018 to March 2019, when she assumed the role of Venture Advisor. Senior Vice President and Global Chief Information Security Officer of Comcast Corporation, a worldwide media and                  technology company, from September 2009 to April 2018. Vice President of Information Technology Governance and Chief Information Security Officer of MGM Resorts International, a global hospitality company, from 2005 until September 2009.                  Director of CMS Energy Corporation, a publicly-traded energy company, since January 2015, and of Spirit Airlines, Inc., a publicly-traded airline company, since March 2016.  
+ QUALIFICATIONS  
+ Ms. Soto has over 28 years of information technology and security experience in a variety of industries, including financial services, hospitality, insurance, risk                  management, as well as gaming and entertainment. During her years in the information and cybersecurity field, she successfully managed global cybersecurity and technology risk programs at leading Fortune 500 companies. Ms. Soto's extensive                  experience in cybersecurity, as well as her experience as a business leader and as a member of several public company boards, brings an invaluable and unique perspective to our Board and helps ensure that the Corporation is well-positioned                  to meet the technology and cybersecurity needs of today's marketplace, a matter that becomes more critical each day.  
+[END TABLE]
+2019 PROXY STATEMENT  |  17          
+[BEGIN TABLE]
+                 IGNACIO ALVAREZ
+                 Director since 2017 
+                 Age 60    
+                 IGNACIO ALVAREZ
+                 Director since 2017 
+                 Age 60    
+ BACKGROUND  
+ Chief Executive Officer of Popular, BPPR and Popular Bank since July 2017. President of Popular, BPPR and Popular Bank since October 2014 and Chief Operating Officer of                  Popular and BPPR from October 2014 to July 2017. Executive Vice President and Chief Legal Officer of Popular from June 2010 to September 2014. President and CEO of Popular North America, Inc. and other direct and indirect wholly-owned                  subsidiaries of Popular. President of the Puerto Rico Bankers Association since October 2017. Director of Centro Financiero BHD León, S.A. and Banco BHD León, from March 2018 to March 2019. Member of the Board of Trustees of Fundación Banco                  Popular, Inc. and of Popular Bank Foundation, Inc. since November 2015.  
+ QUALIFICATIONS  
+ Prior to joining Popular in 2010 as Chief Legal Officer, Mr. Alvarez was one of the six founding partners of the law firm Pietrantoni Méndez & Alvarez LLC, one of Puerto                  Rico's principal law firms. During his 27 years in private law practice, his main areas of expertise included banking, corporate and commercial law, corporate and public finance law, securities and capital markets. As President and Chief                  Operating Officer, Mr. Alvarez demonstrated his solid strategic and analytical skills, understanding of the markets in which we operate, business acumen and strength as a leader, delivering positive results in our Puerto Rico business                  despite challenging conditions and overseeing the repositioning of our operations in the United States. Mr. Alvarez's understanding of the Corporation and excellent business skills, as well as his background as an attorney with vast                  experience on corporate matters, including regulatory and corporate governance, have proven to be a great asset.  
+[END TABLE]
+[BEGIN TABLE]
+                 ALEJANDRO M. BALLESTER
+                 Director since 2010 
+                 Age 52 
+                 Committees 
+• Audit 
+• Corporate Governance & 
+                      Nominating (Chair)    
+                 ALEJANDRO M. BALLESTER
+                 Director since 2010 
+                 Age 52 
+                 Committees 
+• Audit 
+• Corporate Governance & 
+                      Nominating (Chair)    
+ BACKGROUND  
+ President of Ballester Hermanos, Inc., a major food and beverage distributor in Puerto Rico, since 2007.  
+ QUALIFICATIONS  
+ Mr. Ballester has a comprehensive understanding of Puerto Rico's consumer products and distribution industries acquired through over 28 years of experience at Ballester                  Hermanos, Inc., a privately-owned business dedicated to the importation and distribution of grocery products, as well as beer, liquors and wine for the retail and food service trade in Puerto Rico. As of December 31, 2018, Ballester                  Hermanos had approximately $121 million in assets and annual revenues of approximately $345 million. Mr. Ballester is familiar with the challenges faced by family-owned businesses, which constitute an important market segment for Popular's                  commercial banking units. He has proven to be a successful entrepreneur establishing the food service division of Ballester Hermanos in 1999, which today accounts for 35% of the firm's revenues. During 2009, he was a director of the                  Government Development Bank for Puerto Rico and member of its audit and investment committees where he obtained experience in overseeing a variety of fiscal issues related to various government agencies, instrumentalities and                  municipalities. The experience, skills and understanding of the Puerto Rico economy and government financial condition acquired by Mr. Ballester have been of great value to the Board.  
+[END TABLE]
+18  |  2019 PROXY STATEMENT 
+[BEGIN TABLE]
+                 RICHARD L. CARRIÓN
+                 Director since 1991 
+                 Age 66 
+                 Chairman since 1993 
+                 Executive Chairman since 
+                  July 2017    
+                 RICHARD L. CARRIÓN
+                 Director since 1991 
+                 Age 66 
+                 Chairman since 1993 
+                 Executive Chairman since 
+                  July 2017    
+ BACKGROUND                     
+ Executive Chairman of Popular since July 2017. CEO of Popular from 1994 to June 2017 and President from 1991 to January 2009 and from May 2010 to September 2014. Executive                  Chairman of BPPR since July 2017, Chairman since 1993 and CEO from 1989 to June 2017. President of BPPR from 1985 to 2004 and from May 2010 to September 2014. Executive Chairman of Popular Bank since July 2017 and Chairman since 1998.                  Chairman of Popular North America, Inc. and other direct and indirect wholly-owned subsidiaries of Popular and CEO until 2017. Director of the Federal Reserve Bank of New York from January 2008 to December 2015. Chairman of the Board of                  Trustees of Fundación Banco Popular, Inc. since 1991. Chairman and Director of Popular Bank Foundation, Inc. since 2005. Member of the Board of Directors of Verizon Communications, Inc. since 1995. Member of the International Olympic                  Committee since 1990 and Chairman of the International Olympic Committee Finance Commission from 2002 to 2013. Managing Member of RCA3 Investments, LLC, an entity engaged in financial consulting since October 2017. Chairman of the Board of                  Vall Banc, an Andorra-based bank, since October 2017. Member of the Supervisory Board of NIBC Holding N.V. and NIBC Bank N.V., both entities engaged in banking in the Netherlands, since 2017. Member of the Board of Directors of First Bank,                  an entity engaged in banking in Romania, since November 2018.  
+ QUALIFICATIONS  
+ Mr. Carrión's 42 years of banking experience, 33 heading Popular, give him a unique level of knowledge of the Puerto Rico financial system. Mr. Carrión is a well-recognized                  leader with a vast knowledge of the Puerto Rico economy, and is actively involved in major efforts impacting the local economy. His knowledge of the financial industry led him to become a director of the Federal Reserve Bank of New York for                  eight years.  
+[END TABLE]
+[BEGIN TABLE]
+                 CARLOS A. UNANUE
+                 Director since 2010 
+                 Age 55 
+                 Committees
+• Compensation 
+• Audit    
+                 CARLOS A. UNANUE
+                 Director since 2010 
+                 Age 55 
+                 Committees
+• Compensation 
+• Audit    
+ BACKGROUND  
+ President of Goya de Puerto Rico, Inc. since 2003 and of Goya Santo Domingo, S.A. since 1994, food processors and distributors.  
+ QUALIFICATIONS  
+ Mr. Unanue has 32 years of experience at Goya Foods, Inc., a privately-held family business with operations in the United States, Puerto Rico, Spain and the Dominican                  Republic that is dedicated to the sale, marketing and distribution of Hispanic food, as well as to the food processing and canned food manufacturing business. Through his work with Goya Foods, Mr. Unanue has developed a profound                  understanding of Popular's two main markets, Puerto Rico and the United States. His experience in distribution, sales and marketing has provided him with the knowledge and experience to contribute to the development of Popular's business                  strategy, while his vast experience in management at various Goya entities has allowed him to make valuable contributions to the Board in its oversight functions.  
+[END TABLE]
+2019 PROXY STATEMENT  |  19          
+[BEGIN TABLE]
+                 MARÍA LUISA FERRÉ
+                 Director since 2004 
+                 Age 55 
+                 Committees
+• Compensation (Chair) 
+• Corporate Governance & 
+                      Nominating    
+                 MARÍA LUISA FERRÉ
+                 Director since 2004 
+                 Age 55 
+                 Committees
+• Compensation (Chair) 
+• Corporate Governance & 
+                      Nominating    
+ BACKGROUND  
+ President and CEO of FRG, Inc., a diversified family holding company with operations in media, real estate, contact centers and distribution in Puerto Rico, the United                  States and Chile, since 2001. Member of the Board of Directors of GFR Media, LLC since 2003 and Chair from 2006 to February 2016. Publisher of El Nuevo Día, Puerto Rico's most widely read and influential newspaper, and Primera Hora since                  2006. Member of the Board of Directors of W.R. Berkley Corporation, an insurance holding company, since May 2017. President and Trustee of The Luis A. Ferré Foundation, Inc. since 2003. Trustee and Vice President of the Ferré Rangel                  Foundation, Inc. since 1999. President of the Board of Directors of Multisensory Reading Center of PR, Inc. since 2012. Member of the Latin American Caribbean Fund of The Museum of Modern Art since 2013 and of the Smithsonian National Board                  since 2017. Member of the Board of Directors of Endeavor Puerto Rico since January 2018 and of the Advisory Board of Boys & Girls Club of Puerto Rico since 2017.  
+ QUALIFICATIONS  
+ Ms. Ferré has 17 years of experience as the President and CEO of FRG, Inc., the largest communications and media group in Puerto Rico, with consolidated assets of                  approximately $368 million and annual net revenues of approximately $187 million as of December 31, 2018. She holds positions as director and officer of numerous entities related to FRG, Inc. She also serves as director and trustee of                  philanthropic and charitable organizations related to fine arts and education. As a result of these experiences, Ms. Ferré possesses a deep understanding of Popular's main market and has developed management and oversight skills that allow                  her to make significant contributions to the Board. She also provides thoughtful insight regarding the communications needs of Popular.  
+[END TABLE]
+[BEGIN TABLE]
+                 C. KIM GOODWIN
+                 Director since 2011 
+                 Age 59 
+                 Committees 
+• Risk (Chair) 
+• Audit (Financial Expert)    
+                 C. KIM GOODWIN
+                 Director since 2011 
+                 Age 59 
+                 Committees 
+• Risk (Chair) 
+• Audit (Financial Expert)    
+ BACKGROUND  
+ Private investor since 2008. Non-executive director of PineBridge Investments, LLC, a global asset management boutique with over $89 billion in assets under management,                  since May 2011, and Chair of its Audit Committee. Trustee-Director of various equity funds within the Allianz Global Investors family of funds from June 2010 to October 2014.  
+ QUALIFICATIONS  
+ Ms. Goodwin's experience as chief investment officer at several global financial services firms provides the Board with insight into the perspective of institutional                  investors. Her analytical skills and understanding of global financial markets have proved to be valuable assets. As Head of Equities at Credit Suisse Asset Management from 2006 to 2008, Ms. Goodwin oversaw enterprise risk functions for her                  global department. Through her experiences as a member of the Audit Committee of Akamai Technologies, Chair of the Audit Committee of PineBridge Investments and Chair of Popular's Risk Management Committee, Ms. Goodwin has developed                  profound knowledge of the risks related to our business. She has also developed expertise in identifying, assessing and managing risk exposure, successfully leading the Board's efforts on risk oversight. Finally, Ms. Goodwin also provides                  Popular with valuable insight regarding the use of technology by financial firms.  
+[END TABLE]
+20  |  2019 PROXY STATEMENT 
+[BEGIN TABLE]
+                 WILLIAM J. TEUBER, JR.
+                 Director since 2004 
+                 Age 67 
+                 Lead Director 
+                 Committees 
+• Audit (Financial Expert) 
+• Risk 
+• Compensation 
+• Corporate Governance & 
+                      Nominating    
+                 WILLIAM J. TEUBER, JR.
+                 Director since 2004 
+                 Age 67 
+                 Lead Director 
+                 Committees 
+• Audit (Financial Expert) 
+• Risk 
+• Compensation 
+• Corporate Governance & 
+                      Nominating    
+ BACKGROUND  
+ Senior Operating Principal of Bridge Growth Partners, LLC, a private equity firm, since November 2016. Vice Chairman of EMC Corporation, a provider of information technology                  infrastructure solutions, from May 2006 to September 2016, when Dell Technologies acquired the company. Director of Inovalon Holdings, Inc., a provider of data driven healthcare solutions, since April 2013 and of CRH Plc, a global                  diversified building materials group based in Ireland, since March 2016. Director of Accedian Networks, Inc., a privately held developer of network communication and application monitoring software and hardware, and of BackOffice                  Associates, LLC, a software and data management services provider, since 2017.  
+ QUALIFICATIONS  
+ Mr. Teuber has significant financial and financial reporting expertise, which he acquired as a Partner in Coopers & Lybrand LLP from 1988 to 1995 and then as Chief                  Financial Officer of EMC Corporation from 1996 to 2006. At EMC he demonstrated vast management and leadership skills as he led EMC's worldwide finance operation and was responsible for all of its financial planning and reporting, balance                  sheet management, foreign exchange, audit, tax, treasury, investment banking, governance and investor relations function. As Vice Chairman of EMC, he focused on strategy and business development in emerging markets, assisted with government                  relations and worked closely with the Board of Directors. Mr. Teuber's significant financial and accounting expertise, experience in identifying, assessing and managing risk and vast management experience and skills developed throughout the                  years that he provided strategic direction at a multinational public company provide the Board with invaluable insight and a unique global perspective.  
+[END TABLE]
+2019 PROXY STATEMENT  |  21          
+[BEGIN TABLE]
+                     RICHARD L. CARRIÓN
+AGE: 66
+                   Mr. Carrión has been Chairman of the Board since 1993. He has served as Executive
+                     Chairman of Popular since July 2017, as CEO from 1994 to June 2017 and as President from 1991 to January 2009 and from May 2010 to September 2014. For additional information, please refer to the "Nominees for Election as
+                     Directors and Other Directors" section of this Proxy Statement.
+ Mr. Carrión has been Chairman of the Board since 1993. He has served as 
+[END TABLE]
+Mr. Carrión has been Chairman of the Board since 1993. He has served as 
+[BEGIN TABLE]
+                     IGNACIO ALVAREZ
+AGE: 60
+                   Mr. Alvarez has been Chief Executive Officer of Popular since July 2017 and President and Chief Operating Officer since October 2014. Prior to that he was Executive Vice President and Chief Legal Officer of Popular from June 2010 to September 2014. For additional information, please refer to the "Nominees for Election as
+                     Directors and Other Directors" section of this Proxy Statement.
+ Mr. Alvarez has been Chief Executive Officer of Popular since July 2017 and 
+[END TABLE]
+Mr. Alvarez has been Chief Executive Officer of Popular since July 2017 and 
+[BEGIN TABLE]
+                     CAMILLE BURCKHART
+AGE: 39
+                   Ms. Burckhart has been Executive Vice President and Chief Information and
+                     Digital Officer of Popular since July 2015. Prior to becoming Executive Vice President, Ms. Burckhart was the Senior Vice President in charge of the Technology Management Division from December 2010 to June 2015. She has been a member of the
+                     Board of Directors of Nuestra Escuela since August 2016 and of Fundación Banco Popular since October 2018.
+ Ms. Burckhart has been Executive Vice President and Chief Information 
+[END TABLE]
+Ms. Burckhart has been Executive Vice President and Chief Information 
+[BEGIN TABLE]
+                     BEATRIZ CASTELLVÍ
+AGE: 51
+                   Ms. Castellví has been Executive Vice President and Chief Security Officer of
+                     Popular in charge of cybersecurity and fraud since May 2018. Prior to becoming
+                     Executive Vice President, she was Senior Vice President and General Auditor of the Corporation from November 2012 to April 2018. Ms. Castellví has served as a member of the Executive Council of the Puerto Rico Ellevate Chapter since 2013 and as Treasurer from 2013 to January 2019, when she became a member of its Advisory Board.
+ Ms. Castellví has been Executive Vice President and Chief Security Officer 
+[END TABLE]
+Ms. Castellví has been Executive Vice President and Chief Security Officer 
+22  |  2019 PROXY STATEMENT 
+[BEGIN TABLE]
+                     LUIS E. CESTERO
+AGE: 45
+                   Mr. Cestero has been Executive Vice President of BPPR in charge of the Retail
+                     Banking Group since July 2017. Prior to becoming Executive Vice President, Mr. Cestero was the Senior Vice President in charge of Retail Banking Administration from May 2009 to June 2017.
+ Mr. Cestero has been Executive Vice President of BPPR in charge of the 
+[END TABLE]
+Mr. Cestero has been Executive Vice President of BPPR in charge of the 
+[BEGIN TABLE]
+                     MANUEL CHINEA
+AGE: 53
+                   Mr. Chinea has been Executive Vice President of Popular since January 2016
+                     and Chief Operating Officer of Popular Bank since February 2013. He has served as a Member of the Board of Trustees of Popular Bank Foundation, Inc. since October 2013, member of the Board of Directors of the Hispanic Federation since June 2016 and member of the Board of Junior Achievement New York since October 2017.
+ Mr. Chinea has been Executive Vice President of Popular since January 
+[END TABLE]
+Mr. Chinea has been Executive Vice President of Popular since January 
+[BEGIN TABLE]
+                     JAVIER D. FERRER
+ AGE: 57
+                   Mr. Ferrer has been the Executive Vice President, Chief Legal Officer and Secretary of the Board of Directors of Popular since October 2014 and a Director of BPPR since March 2015. In January 2019, he assumed oversight of the Corporation's strategic planning function. Prior to joining Popular, Mr. Ferrer was a
+                     Partner at Pietrantoni Méndez & Alvarez LLC, a San Juan, Puerto Rico based law firm, were he worked from September 1992 to December 2012 and from August 2013 to September 2014. From January 2013 to July 2013, Mr. Ferrer served as President of the Government Development Bank for Puerto Rico and Vice Chairman of its Board of Directors as well as Chairman of the Economic Development Bank for Puerto Rico. From March 2001 to December 2012 and from
+                     September 2013 to September 2014, Mr. Ferrer was Secretary of the Board of Directors of the First Puerto Rico Family of Funds, which, as of September 2014, was comprised of 17 funds.
+ Mr. Ferrer has been the Executive Vice President, Chief Legal Officer and 
+[END TABLE]
+Mr. Ferrer has been the Executive Vice President, Chief Legal Officer and 
+[BEGIN TABLE]
+                     JUAN O. GUERRERO
+AGE: 59
+                   Mr. Guerrero has been an Executive Vice President of BPPR in charge of the
+                     Financial and Insurance Services Group since April 2004. He has been a Director of Popular Securities LLC since 1995, Popular Insurance LLC since 2004 and of other subsidiaries of Popular. Mr. Guerrero has served as a Director of SER de
+                     Puerto Rico since December 2010 and the Puerto Rico Open since October 2016.
+ Mr. Guerrero has been an Executive Vice President of BPPR in charge of 
+[END TABLE]
+Mr. Guerrero has been an Executive Vice President of BPPR in charge of 
+2019 PROXY STATEMENT  |  23          
+[BEGIN TABLE]
+                     GILBERTO MONZÓN
+AGE: 59
+                   Mr. Monzón has been an Executive Vice President of BPPR in charge of the Individual
+                     Credit Group since October 2010. He has also served as Member of the Board of Directors of the San Jorge Children's Hospital Professional Board since 2011 and director of the Center for a New Economy and the Coalition for the
+                     Prevention of Colorectal Cancer of Puerto Rico since 2014.
+ Mr. Monzón has been an Executive Vice President of BPPR in charge of the 
+[END TABLE]
+Mr. Monzón has been an Executive Vice President of BPPR in charge of the 
+[BEGIN TABLE]
+                     EDUARDO J. NEGRÓN
+AGE: 54
+                   Mr. Negrón has been Executive Vice President of Popular since April 2008 and has been in charge of the Administration Group since December 2010. He became Chairman of Popular's Benefits Committee on April 2008. He has served as Member of the Board of Trustees and Treasurer of Fundación Banco Popular, Inc. and of the Popular Bank Foundation, Inc. since March 2008. He has also been a Director of the Fundación Puertorriqueña de las Humanidades since June 2017.
+ Mr. Negrón has been Executive Vice President of Popular since April 2008 
+[END TABLE]
+Mr. Negrón has been Executive Vice President of Popular since April 2008 
+[BEGIN TABLE]
+                     ELI S. SEPÚLVEDA
+AGE: 56
+                   Mr. Sepúlveda has been Executive Vice President of Popular since February 2010
+                     and of BPPR since December 2009. He has been the supervisor in charge of the Commercial Credit Group in Puerto Rico since January 2010. Mr. Sepúlveda has been a member of the Board of Managers of the Puerto Rico Idea Seed Fund, LLC
+                     since December 2016.
+ Mr. Sepúlveda has been Executive Vice President of Popular since February 
+[END TABLE]
+Mr. Sepúlveda has been Executive Vice President of Popular since February 
+[BEGIN TABLE]
+                     LIDIO V. SORIANO
+AGE: 50
+                 Mr. Soriano has been the Executive Vice President and Chief Risk Officer of Popular since August 2011 and a Director of BPPR and Popular Bank since October 2014. He has been a member of the Board of Directors of the Puerto Rican League Against Cancer since August 2018.
+ Mr. Soriano has been the Executive Vice President and Chief Risk Officer of 
+[END TABLE]
+Mr. Soriano has been the Executive Vice President and Chief Risk Officer of 
+24  |  2019 PROXY STATEMENT 
+[BEGIN TABLE]
+                     CARLOS J. VÁZQUEZ
+AGE: 60
+                   Mr. Vázquez has been the Chief Financial Officer of Popular since March 2013.
+                     He was President of Popular Bank from September 2010 to September 2014 and has been Executive Vice President of Popular since February 2010 and Senior Executive Vice President of BPPR since 2004. He has served as Director of BPPR
+                     and of Popular Bank since October 2010. He has been Vice Chairman of the Board of Directors of Popular Bank Foundation since November 2010, Director of the Federal Home Loan Bank of New York since November 2013 and Member of the
+                     National Board of Directors of Operation Hope since 2012.
+ Mr. Vázquez has been the Chief Financial Officer of Popular since March 
+[END TABLE]
+Mr. Vázquez has been the Chief Financial Officer of Popular since March 
+2019 PROXY STATEMENT  |  25          
+to submit the corresponding form to the Audit Committee. Pre-approved transactions include certain banking-related services and transactions in the ordinary course of business involving financial         products and services provided by, or to, Popular, including loans, provided such transactions comply with the Sarbanes-Oxley Act of 2002, Federal Reserve Board Regulation O and other applicable laws and regulations. In the event Popular becomes         aware of a transaction with a Related Party that has not been approved under the terms of the Related Party Policy, the Audit Committee considers all relevant facts and circumstances regarding the transaction with the Related Party and evaluates         all options available to Popular, including ratification, revision or termination. The Audit Committee also examines the facts and circumstances pertaining to the failure of reporting such related party transaction to the Committee, as required by         the Related Party Policy, and may take such actions as it deems appropriate. RELATED PARTY           TRANSACTIONS In         2018, Popular and its subsidiaries contributed approximately $692,000 to Fundación Banco Popular, Inc. (the "BPPR Foundation") through the matching of employee contributions. During 2018, Popular also contributed to the BPPR Foundation $1.1 million         of which $100,000 were from the proceeds of BPPR's Holiday Special. In addition, Popular provides human and operational resources to support the activities of the BPPR Foundation, which during 2018 amounted to approximately $1,300,000, including         maintenance and the amortization of leasehold improvements for the BPPR Foundation's headquarters. BPPR and the Puerto Rico employees of Popular, through voluntary personal donations, are a significant source of funds for the BPPR Foundation. The         BPPR Foundation is a Puerto Rico not-for-profit corporation created to improve the quality of life in Puerto Rico. As BPPR's philanthropic arm, it provides a scholarship fund for employees' children and supports education and community development         projects. The Board of Directors of BPPR appoints six of the eleven members of the Board of Trustees. The remaining five trustees are appointed by the Board of Trustees of the BPPR Foundation. Mr. Carrión is the Chairman while Messrs. Alvarez and         Negrón and Ms. Burckhart are members, of the BPPR Foundation's Board of Trustees. During         2018, Popular Bank contributed approximately $90,000 to the Popular Bank Foundation (the "PB Foundation") through the matching of employee contributions and made additional contributions of approximately $150,000. Popular Bank and its employees,         through voluntary personal donations, are the
+26  |  2019 PROXY STATEMENT 
+2019 PROXY STATEMENT  |  27          
+Mr. Cestero's brother operates a property appraisal business. The borrowers will be required to make monthly payments of $500 until the maturity date of the promissory note, when their financial capacity will be         reevaluated and a new payment plan is expected to be entered into. Related           parties of Mr. Ballester have outstanding loans made prior to the borrowers on such loans having become Related Parties of Mr. Ballester and which were acquired by BPPR in 2010 as part of the Westernbank FDIC assisted transaction. Such loans         consist of the following: (i) four commercial loans made to entities that were wholly-owned by one brother-in-law of Mr. Ballester and (ii) one commercial loan made to an entity that was owned by same brother-in-law together with Mr. Ballester's         father-in-law and another brother-in-law. The loans were secured by real estate and personally guaranteed by the owners of each borrower. The loans were originated by Westerbank between 2001 and 2005 and had an aggregate outstanding principal         balance of approximately $33.5 million when they were acquired by BPPR. Between 2011 and 2014, the loans were restructured to consist of (i) five notes with an aggregate outstanding principal balance of $19.8 million with a 6% annual interest rate         ("Notes A") and (ii) five notes with an aggregate outstanding balance of $13.5 million with a 1% annual interest rate, to be paid upon maturity ("Notes B"). The restructured notes had a maturity of September 30, 2016 and, thereafter, various         interim renewals were approved, with the last two renewals occurring in May and November of 2018. The May 2018 renewals included a six-month payment plan reduction from monthly principal and interest payments of approximately $36,000 to monthly         principal payments of approximately $5,000 plus accrued interest in one of the Notes A, commencing on January 2018. The November 2018 renewals included a change in the interest rate from 6% to 4.5% for four of the Notes A and from 4.25% to 4.5% in         the remaining Note A, commencing on May 2018, and an increase in the monthly principal payments of the Note A that had been modified in May from $5,000 to $10,000, effective December 2018. The renewed loans mature on June 30, 2019. The aggregate         outstanding balance on the loans as of December 31, 2018 was approximately $31.7 million and, during 2018, approximately $400,000 and $925,000 were paid in principal and interest, respectively. The largest outstanding balance of the loans during         2018 was approximately $32.1 million.Mr.         Carrión is President of and owns, together with his siblings, an entity which owns 35% of a corporation that owns a commercial building. In addition, Mr. Carrión's sister and brother-in-law are owners of an entity that has a participation of 21.5%         in the same corporation. This corporation obtained 
+28  |  2019 PROXY STATEMENT 
+Finance         Holding Company, Puerto Rico-based subsidiaries of Wells Fargo & Company engaged in the auto finance business in Puerto Rico. Prior to the acquisition, Reliable Financial Services had entered into a lease agreement with respect to approximately         61,442 square feet of space (comprising approximately 34.54% of the rentable square feet) in the commercial building securing the aforementioned commercial loan to Related Parties of Mr. Carrión. The lease, which expires in accordance with its         terms in April 2019 and is not expected to be extended, is documented pursuant to a lease agreement between Reliable Financial Services and the corporation which is the borrower in the loan and of which Mr. Carrión's Related Parties own 56.5% in         the aggregate. As part of the acquisition, Popular Auto, as assignee of BPPR under the acquisition agreement, entered into an agreement with Reliable Financial Services to sublease the space necessary for Popular Auto, doing business as Reliable         Auto, to continue the acquired operations until the expiration of the lease, when the property will be fully vacated by Popular Auto. Since February 2018, the lease agreement has been amended three times, most recently in January 2019 to reduce the         square footage and rent payments due under the lease (and as a result, the sublease) as a result of the gradual transfer out of the building of Popular Auto operations. Rents paid pursuant to the sublease will be a source of repayment of, and serve         as collateral to, the commercial loan. During 2018, Popular Auto paid to Reliable Financial Services approximately $778,500 under the sublease.
+2019 PROXY STATEMENT  |  29          
+[BEGIN TABLE]
+ For 2018, Popular's NEOs were:  
+ Richard L. Carrión   Executive Chairman of the Board of Directors  
+ Ignacio Alvarez   President & Chief Executive Officer ("CEO")  
+ Carlos J. Vázquez   Executive Vice President and Chief Financial Officer ("CFO")  
+ Javier D. Ferrer   Executive Vice President and Chief Legal Officer ("CLO")  
+ Lidio V. Soriano   Executive Vice President and Chief Risk Officer ("CRO")  
+[END TABLE]
+[BEGIN TABLE]
+     Page:  
+ Overview       31      
+ Compensation Objectives and Components       35      
+ 2018 Compensation Program and Pay Decisions       36      
+ Governance and Assessment of Executive Compensation       44      
+ Other Aspects of Our Executive Compensation Program       46      
+ Risk Mitigation       46       
+ Report of the Compensation Committee        47      
+[END TABLE]
+30  |  2019 PROXY STATEMENT 
+2019 PROXY STATEMENT  |  31          
+[BEGIN TABLE]
+ Puerto Rico                   ("P.R.")                   Business• We acquired Reliable – approximately $2 billion in auto and commercial loans, positioning the Corporation as the leader in the Puerto Rico auto financing segment.  
+• As of 2018 year-end, we served 1.75 million customers, reflecting a 4.7% increase from 2017; our 2018 client base includes 30,000 new clients acquired as part of the Reliable                  transaction.  
+• Total deposits rose by $4 billion (14%) from 2017.  
+• Net interest margins remained strong at 4.27%.  
+• We achieved a successful early termination of our loss share agreements with the FDIC in connection with the 2010 acquisition of Westernbank's assets and liabilities.  
+• We continued the expansion of the U.S. consumer business managed from P.R., consisting of white label credit cards and our Eloan on-line lending platform.  
+• We remain focused on providing innovative solutions to our customers through our digital transformation. Digital deposits captured 47% of total deposit transactions in                  December 2018, up 17% from December 2017, and Mi Banco (internet) active customers reached 839,422 in 2018, up 12% from 2017.  
+ United States ("U.S.") Business• We completed the rebranding efforts (from Popular Community Bank to Popular) to align with Popular's strategic growth, expanded capabilities and launched several business                  platforms designed to attract diverse consumer and business segments. Furthermore, a significant portion of the retail branch network has been transformed to better reflect the evolving needs and expectations of our customers.  
+• Our total loan portfolio grew by $409 million (7%).  
+• Specialized business segments with nationwide scope (Popular Association Banking, healthcare and not-for-profit) have continued their healthy growth, and the private banking                  and residential mortgage programs are showing encouraging results.   
+• Digital deposit transactions increased to 47% of all deposits in December 2018, up from 43% in December 2017.  
+ Credit                   Quality• Non-performing loans held-in-portfolio as a percent of loans held-in-portfolio (2.3%) and net charge-offs as a percent of average loans held-in-portfolio (1.1%) remained                  stable compared to 2017. The Corporation continues to closely monitor its portfolios and related credit metrics given Puerto Rico's ongoing economic and fiscal challenges.  
+ Capital                   Strategy• Our capital levels remained robust, with year-end Common Equity Tier 1 capital equal to 16.9%.  
+• We completed a common stock repurchase of $125 million in 2018.   
+• We redeemed $450 million of senior debt with a 7% coupon and issued $300 million in senior debt at 6.125%.  
+• We redeemed $53 million of Trust Preferred Securities.  
+ Organizational                   Excellence• We achieved a continued effective CEO transition, ensuring our new CEO's early success. This was crucial in attaining our corporate achievements during 2018, despite the                  impact of the Hurricanes and the challenging economic and fiscal environment in Puerto Rico.   
+• We created the Corporate Security Group, focused on fraud prevention and cybersecurity.  
+• We continue to streamline our operations through the development of robotic automation technology and the simplification of procurement and vendor management processes.  
+• We made significant progress in the development of a corporate-wide customer service framework to enhance customer experience, as well as in each of the four strategic                  pillars that were established in 2017.  
+• We offered a voluntary early retirement program in Puerto Rico and the Virgin Islands. Effective February 1, 2019, 314 eligible employees retired, helping us streamline                  operations and be better fit for the future.  
+• To continue attracting top talent, we increased minimum base salaries in all our markets, with additional salary adjustments made based on market and gender pay equity                  analyses and employee performance.  
+ Social Commitment• Valuable financial and in-kind assistance was provided through Fundación Banco Popular, Popular Bank Foundation and Popular's corporate donations and social programs. Our                  total social investment during 2018 was $6.1 million, impacting communities in Puerto Rico, United States and Virgin Islands. In Puerto Rico and Virgin Islands, we continued efforts related to recovery in the aftermath of the Hurricanes,                  concentrating on longer-term projects in the areas of education, sustainable infrastructure, access to primary health services and the promotion of social innovation ideas.   
+• 79% of our employees made voluntary financial contributions to our foundations, which were matched by Popular.  
+[END TABLE]
+32  |  2019 PROXY STATEMENT 
+two         components: (i) one-half (50%) is granted as restricted stock, a portion of which vests upon retirement (whose grant value considers prior-year company and individual performance); and (ii) one-half (50%) is granted as performance shares, with         actual value based on future performance over a 3-year period (one-half based on Total Shareholder Return ("TSR") relative to banks with assets greater than $10 billion and one-half based on an absolute 3-year cumulative Earning per Share ("EPS")         goal). A breakdown of the target incentive elements is provided in the "2018 Compensation Program and Pay Decisions" section of this Proxy Statement.
+2019 PROXY STATEMENT  |  33          
+[BEGIN TABLE]
+ ✔   Use a combination of performance metrics to deter excessive risk-taking by eliminating focus on any single performance goal. Also, the Committee may adjust incentive payouts                  if results are not aligned with Popular's risk appetite and related tolerances.  
+ ✔   Balance short-term (cash) and long-term (equity) compensation to discourage short-term risk taking at the expense of long-term results.  
+ ✔   Use equity incentives to promote total return to shareholders, company performance and executive retention.  
+ ✔   Require significant stock ownership from our executive officers. Our Executive Chairman and CEO have a requirement of six times their base salary, and the other NEOs must own                  three times their base salary. As of February 2019, all NEOs had either met the requirement or were on track to comply within the designated timeframe.  
+ ✔   Hold a portion of equity vesting until retirement, thereby reinforcing long-term risk management and alignment with shareholder interests.   
+ ✔   Apply clawback features to all executive officer variable pay in the event of a financial results restatement, a performance metric found to be materially inaccurate, or an                  executive's misconduct.  
+ ✔   Employ "double-trigger" vesting of equity awards in the event of a change of control (i.e., vesting is only triggered upon a qualifying termination of employment following a                  change of control).  
+ ✔   Conduct annual incentives and sales practices risk reviews in conjunction with Popular's Chief Risk Officer.  
+ ✔   Engage an independent compensation consultant who advises and reports directly to the Committee.  
+[END TABLE]
+[BEGIN TABLE]
+    No tax gross-ups provided for any compensation or benefits.  
+    No special executive retirement programs and no severance programs specific to executive officers.  
+     No speculative transactions in Popular securities by executive officers is permitted, including: hedging and monetization transactions, such as zero-cost collars, forward                  sale contracts and short sales; equity swaps; options; and other derivative transactions.  
+    No pledging of common stock as collateral for margin accounts or for loans.  
+    No employment or change of control agreements with our NEOs.  
+    No excessive perquisites for executives.  
+[END TABLE]
+34  |  2019 PROXY STATEMENT 
+Attract           and Retain Highly Qualified ExecutivesPopular's                       executive compensation program seeks to attract, motivate and retain the talent needed to successfully deliver future earnings stability and growth. Our mix of salary and performance-based short- and long-term incentives provides a competitive         offering to attract the best executive talent and promote engagement and long-term career retention. In consultation with management and its independent compensation consultant, the Committee balances competitiveness and retention features while         considering individual performance, experience and qualifications, as well as market practices and Popular's financial performance. Ensure           Effective Controls and Sound Risk Management Our         incentive design seeks to dissuade our executives from taking excessive or unnecessary risks and promoting improper sales practices and ensures sound risk management and effective controls. Popular uses a balanced approach to incentive design         through short-term (cash) and long-term (equity) components, a series of performance measures (financial, strategic, leadership, shareholder value), and the use of threshold performance requirements and payout caps, focusing on long-term         performance periods and rewards (including a portion of equity awards that vests at retirement). The Corporation's Incentive Recoupment Guideline, which applies to cash and equity-based incentives, covers financial statement restatement, materially         inaccurate performance criteria and misconduct. Also, the Compensation Committee may adjust individual awards based on consideration of compliance with policies, guidelines, laws and regulations; results and follow-up of audits and examinations;         and operation within Popular's risk appetite.
+2019 PROXY STATEMENT  |  35          
+[BEGIN TABLE]
+     Pay Component    Rationale   How it is Paid   
+ Fixed   Base Pay   Fixed compensation to reflect each executive's role, contribution and performance.   Paid in cash on a bi-weekly basis.  
+ Variable   Short-Term                   Cash Incentive   Short-term incentive aligning performance measures with Popular's annual goals and business strategy. Actual pay depends on the prior-year achievement of performance goals                  (based on Popular's net income results, each NEO's individual goals and leadership competencies).   Paid in cash during the first quarter of each year.  
+ Long-Term                   Equity Incentive   Annual equity grant that rewards performance and aligns the NEOs with the interest of our shareholders. The award is granted during the first quarter of each year.   Performance Shares (50%)                   One-half of the target equity award consists of performance shares, with actual earned shares determined at the end of a 3-year performance period:• 1/2 based on TSR – relative to an index of banks.• 1/2 based on EPS – an absolute 3-year cumulative goal.                   Restricted Stock (50%)                   One-half of the target equity award is restricted stock granted upon consideration of corporate and individual performance. Supports NEO stock ownership and retention. Shares vest 20% annually over 4 years, holding the remaining 20% to vest                  upon retirement.  
+[END TABLE]
+[BEGIN TABLE]
+ NEO   New Base                   Salary% of                   adjustment  
+ Richard L. Carrión   $   1,200,000           0.0%      
+ Ignacio Alvarez       1,100,000           22.2                        
+ Carlos J. Vázquez       688,500           2.0                       
+ Javier D. Ferrer       561,000           2.0                       
+ Lidio V. Soriano       510,000           2.0                       
+[END TABLE]
+36  |  2019 PROXY STATEMENT 
+[BEGIN TABLE]
+ Short-Term Incentives                   (STI)   Level of                   Achievement   Executive                   Chairman   CEO   Other NEOs  
+[END TABLE]
+[BEGIN TABLE]% of base salary award  
+ Corporate Net Income   Threshold (85%)   12.5%   15%   10%  
+ Target   25.0%   30%   25%  
+ Max (115%)   37.5%   45%   40%  
+ Individual Annual Goals                   (financial/non-financial)   Threshold (85%)   22.5%   25%   20%  
+ Target   45.0%   50%   40%  
+ Max (115%)   67.5%   75%   60%  
+ Leadership   Min   0.0%   0%   0%  
+ Target   15.0%   20%   15%  
+ Max   22.5%   30%   20%  
+ Total STI   <Threshold   0.0%   0%   0%  
+ Threshold   35.0%   40%   30%  
+ Target   85.0%   100%   80%  
+ Max   127.5%   150%   120%  
+[END TABLE]
+[BEGIN TABLE]
+ Long-Term Incentives                   (LTI)   Level of                   Achievement   Executive                   Chairman   CEO   Other NEOs  
+[END TABLE]
+[BEGIN TABLE]% of base salary award  
+ Equity Incentive -                   Performance Shares   Threshold   21.25%   46.25%   20%  
+ Target   42.50%   92.50%   40%  
+ Max   63.75%   138.75%   60%  
+ Equity Incentive -                   Restricted Stock   Threshold   21.25%   46.25%   20%  
+ Target   42.50%   92.50%   40%  
+ Max   63.75%   138.75%   60%  
+ Total LTI   Threshold   42.50%   92.50%   40%  
+ Target   85.00%   185.00%   80%  
+ Max   127.50%   277.50%   120%  
+[END TABLE]
+[BEGIN TABLE]
+ Consolidated Total                   (STI & LTI)   Threshold   77.50%   132.50%   70%  
+ Target   170.00%   285.00%   160%  
+ Max   255.00%   427.50%   240%  
+[END TABLE]
+2019 PROXY STATEMENT  |  37          
+[BEGIN TABLE]
+                  Corporate Net                   Income   Annual                   Goals  Leadership                   Total Earned                       
+ Richard L. Carrión                      150%             119%                     150%                             133.7%                           113.6%               $1,363,560  
+ Ignacio Alvarez       150              150              150              150.0              150.0          1,650,000                       
+ Carlos J. Vázquez       160              126              133              138.0              110.4          760,311                       
+ Javier D. Ferrer       160              127              133              138.3              110.7          620,859                       
+ Lidio V. Soriano       160              105              133              127.5              102.0          520,215                       
+[END TABLE]
+38  |  2019 PROXY STATEMENT 
+[BEGIN TABLE]
+ Richard L. Carrión                                        Executive Chairman                   119% of target earned   Main Goals  
+• Collaborate with the CEO in role transition and in the design and execution of Popular's strategy, particularly areas related to mergers and acquisitions and investments.  
+• Expand outreach efforts with local and federal governments and other stakeholders.  
+• Continue expanding the reach and impact of Popular's corporate social responsibility efforts.  
+ Considerations  
+• Ensured a continued successful CEO transition, lending guidance and support that enabled our CEO to effectively lead the organization through the Hurricane recovery and                  achieve strong corporate results during 2018.  
+• Provided support and guidance to the CEO in the implementation of the overall corporate strategy, with emphasis on: (i) mergers and acquisitions: overseeing critical aspects                  of the Reliable transaction and ensuring a successful negotiation; and (ii) real estate: spearheaded the creation of a development plan for the Hato Rey sector in San Juan to promote commercial and community development, safety and                  prosperity.  
+• Enhanced Board effectiveness by recruiting two new directors with expertise and backgrounds that complement the existing Board, including cybersecurity and thorough                  understanding of business development in the Caribbean.  
+• Maintained frequent communication with local and federal government representatives regarding Puerto Rico's fiscal situation, economic environment and alternatives for                  recovery in the aftermath of the Hurricanes. Served as co-chair of the Resilient Puerto Rico Commission, a multi-sectoral group backed by the Rockefeller Foundation, the Open Society Foundations and the Ford Foundation. The Commission                  developed a long-term vision and plan for the recovery of Puerto Rico after the Hurricanes.  
+• Oversaw the implementation of Fundación Banco Popular and Popular Foundation's strategic plan. Popular's total social investment in 2018 reached $6 million. This figure                  includes Fundación Banco Popular, Popular Foundation, Embracing Puerto Rico (Hurricane relief efforts), Echar Pa'lante (entrepreneurship education), Finanzas en tus Manos (financial literacy) and our corporate donations program.  
+ Ignacio Alvarez                                        CEO                   150% of target earned   Main Goals  
+• Support efforts to manage Puerto Rico's fiscal and economic situation.  
+• Spearhead efforts to successfully execute corporate and business strategies.  
+• Strengthen risk management practices.  
+• Promote employee engagement and leadership capabilities.  
+     Considerations  
+• Attained solid business results in Puerto Rico. Maintained strong interest margins (4.27% in Puerto Rico and 4.01% for the Corporation) and stable credit quality. Completed                  the acquisition of Reliable, which contributed $30 million in net income. Grew our customer base in Puerto Rico by 50,000, excluding 30,000 from the Reliable transaction. Executed several capital actions, including a $125 million stock                  repurchase. Continued expanding our consumer business in the U.S., leveraging capabilities in Puerto Rico.  
+• Improved Popular Bank's profitability, reaching a net income of $77.5 million in 2018, up $51.5 million from an adjusted net income of $26 million in 2017 (excluding the DTA                  write-down related to the US tax reform). Total deposits grew by 4.3% ($290 million) from 2017. Loan portfolio grew by 7%, prompted by an increase in the commercial loan portfolio. Grew key niche businesses (Popular Association Banking,                  healthcare and not-for-profit).  
+• Expanded digital reach and migration of customer interactions to digital channels. In Puerto Rico, captured 47% of total deposits through digital channels, up 17% from 2017.                  Launched capability to process utility bill payments through ATMs. In United States, increased digital deposit transactions to 47% in 2018 from 43% in 2017 and launched an online lending platform for commercial clients.  
+• Successfully negotiated the early termination of the FDIC loss-share agreements, recognizing a gain of $158.5 million.  
+[END TABLE]
+2019 PROXY STATEMENT  |  39          
+[BEGIN TABLE]
+• Strengthened the Corporation's business continuity and disaster recovery strategy by implementing several initiatives that enhanced our crisis management protocols.  
+• Secured leadership team cohesion and alignment to execute the corporate strategy established for the year and implement Popular's new strategic framework.  
+• Oversaw corporate initiatives in the areas of performance management, wellness, and leadership development. Demonstrated outstanding leadership skills, personally undertaking                  initiatives supporting employee engagement. Enhanced organizational structure by: (i) creating the Corporate Security Group to advance efforts related enterprise fraud prevention and cybersecurity; and (ii) restructured the Operations unit                  in order to materialize potential synergies, standardize / optimize processes, and enhance customer experience.  
+• Strengthened our stakeholder relationships by interacting extensively with customers, private sector business leaders, community leaders and local and federal government                  officials.  
+ Carlos J. Vázquez                                        126% of target earned   Main Goals  
+• Manage and maintain adequate liquidity and capital resources.  
+• Support asset acquisition, business growth and efficiency initiatives.  
+• Implement strategic initiatives related to procurement and finance.  
+ Considerations  
+• Maintained adequate liquidity and capital resources, ending the year with Common Equity Tier capital of 16.9%. Developed strategies for the management of liquidity and                  investments that successfully increased revenues without significant additional risk. Executed various liability management strategies, including the cancellation of $450 million of senior debt with a 7% coupon and issuance of $300 million                  in senior debt at 6.125%.  
+• Planned and executed the common stock repurchase of $125 million.  
+• Guided the analysis and negotiations of multiple asset acquisition and business expansion initiatives, including the execution of the Reliable transaction.  
+• Negotiated with the FDIC resulting in the successful termination of the FDIC loss share agreement.  
+• Furthered investor outreach efforts and communication with analysts to achieve additional coverage and enhance investor information. Achieved #1 ranking for mid-cap                  financials in Institutional Investor's All-America Survey.  
+• Supported the claim processing and payout negotiations of Popular's insurance and federal reimbursement claims related to the Hurricanes.  
+• Directed key strategic initiatives related to sourcing and procurement, finance operations and expense management, driving efficiency and standardization within the core                  financial activities and throughout the organization.  
+ Javier D. Ferrer                                        127% of target earned   Main Goals  
+• Support and advise management and the Board with respect to Popular's strategic and business initiatives, including material asset acquisitions, growth initiatives and new                  business ventures.  
+• Strengthen legal function and advise on matters involving legal or regulatory risk.  
+     Considerations  
+• Provided strategic and legal advice on principal strategic initiatives and critical legal matters throughout the year, including commercial and regulatory aspects. Major                  projects included the acquisition of Reliable, the early termination of the FDIC loss-share agreements and implementation of the Corporation's 2018 Capital Plan.  
+• Contributed to the enhancement of risk management practices and the oversight of major regulatory and governmental matters.  
+• Oversaw completion of reorganization and centralization of the legal function to leverage Popular's internal legal resources and manage legal risk while aligning with                  business needs.  
+• Led the enhancement of legal expense management efforts, resulting in a year-over-year reduction in outside legal expenses and below-budget internal legal operating costs.  
+• Drove improvements to corporate governance and disclosure practices.  
+[END TABLE]
+40  |  2019 PROXY STATEMENT 
+[BEGIN TABLE]
+ Lidio V. Soriano                                        105% of target earned   Main Goals  
+• Implement measures and controls to ensure the Corporation operates within defined risk appetite and related tolerances.  
+• Implement enhancements to Popular's compliance, financial, operational, model validation, and credit risk programs.  
+• Guide technology initiatives to bolster our risk management framework.  
+• Enhance quantitative analytics resources within the organization.  
+ Considerations  
+• Actively monitored key risk indicators for legal, strategic, reputational and cyber risks and managed credit, compliance, interest rate, liquidity, operational, model, and                  market risks to ensure compliance with the Board of Directors' risk appetite. During the year, all risks indicators operated within approved tolerance levels.  
+• Identified and established initiatives and projects to improve Popular's cyber resilience and maturity level in Puerto Rico and the United States.  
+• Established a framework for the implementation, oversight, and reporting of compliance with the Popular's Sales Practices Policy.  
+• Strengthened the Corporation's business continuity and disaster recovery strategy by implementing several initiatives that enhanced our crisis management protocols.  
+• Continued to develop internal analytical capabilities with respect to model validation.  
+• Facilitated the integration of Reliable and Popular Auto, focusing on credit acquisition and credit administration policies and criteria.  
+[END TABLE]
+2019 PROXY STATEMENT  |  41          
+The         Committee granted 2018 equity awards to the NEOs, based on percentage of base pay, with the grant date fair market value indicated in the table below. They will vest as previously described to the extent that the corresponding service and         performance conditions are met.
+[BEGIN TABLE]
+     Total Grant Date Fair Value                   (granted at target award)   Restricted Stock                   (50%)   Performance Shares                   (50%)  
+ NEO% of base                   pay   $   $   $  
+ Richard L. Carrión       85.0%   $   1,020,000       $   510,000       $   510,000      
+ Ignacio Alvarez       185.0           1,665,000           832,500           832,500      
+ Carlos J. Vázquez       80.0           540,000           270,000           270,000      
+ Javier D. Ferrer       80.0           440,000           220,000           220,000      
+ Lidio V. Soriano       80.0           400,000           200,000           200,000      
+[END TABLE]
+42  |  2019 PROXY STATEMENT 
+contribution          by Popular to the Savings and Investment Plan, shown as Other Compensation in the Summary Compensation Table.BENEFITS AND PERQUISITES         Perquisites                       and other executive benefits do not represent a significant portion of our executive compensation program. We do not provide employment agreements, change in control arrangements, tax gross-ups, supplemental retirement benefits or club memberships         to our executives. During 2018, perquisites such as home security, the use of company-owned automobiles and personal tickets to events sponsored by Popular were offered on a limited basis to NEOs. Popular owns an apartment in New York City, which         was used by our Executive Chairman during 2018 for business and non-business matters. Because availability of the corporate-owned apartment for personal use conveys a personal benefit to our Executive Chairman, we disclose the full rental value of         said apartment as Other Compensation in the Summary Compensation Table.
+2019 PROXY STATEMENT  |  43          
+44  |  2019 PROXY STATEMENT 
+The         Committee has reviewed and concluded that Meridian's consultation services comply with the standards adopted by the SEC and by NASDAQ with regard to compensation advisor independence and conflicts of interest. The Committee will continue to monitor         this compliance on an ongoing basis.COMPENSATION           INFORMATION AND PEER GROUP The         Committee periodically assesses the competitiveness of its executive pay practices through external studies conducted by Meridian as well as supplemental internal research based on proxies and compensation surveys (including resources provided by         Equilar, Willis Towers Watson, and similar service providers). The Committee also considers executive compensation information from financial institutions in its headquarters market of Puerto Rico. The         Committee utilizes the information from internal and external analyses to assess the appropriateness of compensation levels (relative to market and performance) and considers the information when setting program guidelines, including base salary         ranges, incentive targets and equity compensation. An individual's relative compensation with respect to the peer group may vary according to his or her role, Popular's financial performance, individual qualifications, experience and performance as         assessed by the Committee. Our         compensation peer group used for 2018 pay and performance comparisons, as well as reviews of compensation structure and design, was approved by the Committee in June 2017 and comprised the banks listed in the table below. Popular's total assets         were positioned near the median of the group. 
+[BEGIN TABLE]
+ Peer Group      
+ Associated Banc-Corp   New York Community Bancorp   
+ BankUnited, Inc.   People's United Financial   
+ BOK Financial Corporation   Signature Bank   
+ Comerica Incorporated   SVB Financial Group   
+ Commerce BancShares, Inc.   Synovus Financial Corp.   
+ Cullen/Frost Bankers Inc.   Umpqua Holdings Corporation   
+ East West Bancorp Inc.   Webster Financial Crop   
+ First Horizon National Corporation   Wintrust Financial Corporation   
+ First Republic Bank   Zions Bancorporation  
+[END TABLE]
+2019 PROXY STATEMENT  |  45          
+In         their place, the following banks were added to the peer group: KeyCorp, Regions Financial Corporation and M&T Bank Corporation. This new peer group will be used for any benchmarking going forward.
+the         Committee's first regularly scheduled meeting taking place in the month of February, and equity awards to other employees are granted on the first business day that the NASDAQ is open following the second complete day of trading following the         release of the Corporation's earning results for the first quarter of the calendar year. Equity grants to certain newly hired employees or promoted individuals, including executive officers, are made on the last business day prior to the 15th day         of each month or the last business day of each month, whichever day first follows the date on which the newly-hired individual commences providing active services to the Corporation or the promoted individual commences providing active services to         the Corporation at the promoted level.TAX           DEDUCTIBILITY OF EXECUTIVE COMPENSATION As         part of its role, the Committee considers the deductibility of executive compensation under Section 162(m) of the U.S. Internal Revenue Code. The Committee is cognizant of and will continue to consider the impact of the U.S. Tax Cuts and Jobs Act         of 2017, which expanded the number of individuals covered by Section 162(m) of the Internal Revenue Code and eliminated the exception for performance-based compensation (generally effective beginning for the 2018 tax year) on the Corporation's         compensation programs and design. In addition, for NEOs who are residents of Puerto Rico, compensation is deductible for income tax purposes if it is reasonable. It is the Committee's intention that the compensation paid to Popular's NEOs be         deductible, but the Committee reserves the ability to grant or pay compensation that is not deductible. For the fiscal year 2018, all NEOs were residents of Puerto Rico.
+The         Committee conducts an annual review of incentive and sales practices risk in conjunction with the CRO. During the December 2018 Committee meeting, the CRO outlined the results of his evaluation, which covered absolute levels and year-over-year         changes in number of participants and incentive award payouts, trends in customer claims and complaints, and an in-depth 
+46  |  2019 PROXY STATEMENT 
+thresholds         and caps to limit payouts; mix of financial and non-financial components; link to company performance; and competitive pay practices. Furthermore, an executive's incentive payout may be adjusted by the Committee at its discretion if results are not         aligned with Popular's risk appetite. The Committee will continue to monitor our compensation programs to ensure that they do not promote improper sales practices or inappropriate risk-taking, and that they comply with current and emerging         regulations and industry leading practices.
+2019 PROXY STATEMENT  |  47          
+[BEGIN TABLE]
+ Name and Principal Position   Year                        Salary                     ($)(a)                        Bonus                     ($)(b)                        Stock                     Awards                     ($)(c)                        Non-Equity                     Incentive Plan                     Compensation                     ($)(d)                        Change in                     Pension Value                     and                     Nonqualified                     Deferred                     Compensation                     Earnings ($)(e)                        All Other                     Compensation                     ($)(f)                        Total                     ($)                       
+ Richard L. Carrión                   Executive Chairman       2018       $   1,200,000       $   50,000       $   1,020,000       $   1,366,360       $   —       $   328,134       $   3,964,494      
+     2017           1,300,000           50,205           2,100,000           1,016,133           170,591           209,168           4,846,097      
+     2016           1,453,846           58,533           2,520,000           1,850,800           —           266,141           6,149,320      
+ Ignacio Alvarez                   President and                   Chief Executive Officer       2018           1,013,231           45,833           1,665,000           1,652,800           —           40,699           4,417,563      
+     2017           807,500           37,535           1,145,670           831,387           —           40,846           2,862,938      
+     2016           742,500           29,822           804,375           845,155           —           15,130           2,436,982      
+ Carlos J. Vázquez                   Executive Vice President and Chief Financial Officer       2018           686,423           28,688           540,000           763,111           —           18,041           2,036,262      
+     2017           675,000           28,225           506,250           537,030           47,055           21,089           1,814,649      
+     2016           700,962           28,220           607,500           709,250           —           13,617           2,059,549      
+ Javier D. Ferrer                   Executive Vice President and Chief Legal Officer       2018           559,308           23,375           440,000           623,659           —           15,605           1,661,946      
+     2017           550,000           22,932           412,500           437,953           —           13,693           1,437,078      
+     2016           571,154           22,927           495,000           477,950           —           14,296           1,581,327      
+ Lidio V. Soriano                   Executive Vice President and Chief Risk Officer       2018           508,462           21,250           400,000           523,015           —           11,889           1,464,616      
+     2017           500,000           20,863           375,000           365,764           —           12,855           1,274,482      
+     2016           519,231           20,858           450,000           526,500           —           12,524           1,529,113      
+[END TABLE]
+48  |  2019 PROXY STATEMENT 
+[BEGIN TABLE]
+ Types of Perquisites Received   Richard L.                   Carrión   Ignacio                   Alvarez   Carlos J.                   Vázquez   Javier D.                   Ferrer   Lidio V.                   Soriano  
+ Non Work-Related Security(i)   X   X              
+ Use of Company-Owned Vehicle   X   X   X   X   X  
+ Use of Company-Owned Apartment(ii)   X                  
+ Other(iii)   X   X   X   X   X  
+[END TABLE]
+[BEGIN TABLE]
+     Employer Match                     to Savings Plan ($)                        Profit Sharing Contribution                     to Savings Plan ($)                           
+ Richard L. Carrión   $   8,250       $   2,800      
+ Ignacio Alvarez       8,250           2,800      
+ Carlos J. Vázquez       8,250           2,800      
+ Javier D. Ferrer       8,250           2,800      
+ Lidio V. Soriano       7,500           2,800      
+[END TABLE]
+2019 PROXY STATEMENT  |  49          
+[BEGIN TABLE]
+         Estimated Future Payouts Under                   Non-Equity Incentive Plan                   Awards(a)   Estimated Future Payouts Under                   Equity Incentive Plan Awards(b)   All Other                   Stock                   Awards:                   Number of                   Shares of                   Stock or                   Units                   (#)(c)   Grant Date                   Fair Value of                   Stock and                   Option                   Awards                   ($)(d)  
+ Name   Grant Date   Threshold ($)   Target ($)   Maximum ($)   Threshold (#)   Target (#)   Maximum (#)  
+ Richard L. Carrión                                                                                                   $   1,020,000      
+ 2018 Short-Term Cash Incentive   $   420,000       $   1,020,000       $   1,530,000                                                                  
+ Restricted Stock       23-Feb-18                                                                                   11,880                  
+ Performance Shares       23-Feb-18                                               5,940           11,880           17,820                              
+ Ignacio Alvarez                                                                                                       1,665,000      
+ 2018 Short-Term Cash Incentive       440,000           1,100,000           1,650,000                                                                  
+ Restricted Stock       23-Feb-18                                                                                   19,393                  
+ Performance Shares       23-Feb-18                                               9,697           19,393           29,090                              
+ Carlos J. Vázquez                                                                                                       540,000      
+ 2018 Short-Term Cash Incentive       206,550           550,800           826,200                                                                  
+ Restricted Stock       23-Feb-18                                                                                   6,290                  
+ Performance Shares       23-Feb-18                                               3,146           6,290           9,436                              
+ Javier D. Ferrer                                                                                                       440,000      
+ 2018 Short-Term Cash Incentive       168,300           448,800           673,200                                                                  
+ Restricted Stock       23-Feb-18                                                                                   5,125                  
+ Performance Shares       23-Feb-18                                               2,563           5,125           7,688                              
+ Lidio V. Soriano                                                                                                       400,000      
+ 2018 Short-Term Cash Incentive       153,000           408,000           612,000                                                                  
+ Restricted Stock       23-Feb-18                                                                                   4,659                  
+ Performance Shares       23-Feb-18                                               2,330           4,659           6,989                              
+[END TABLE]
+50  |  2019 PROXY STATEMENT 
+[BEGIN TABLE]
+     Stock Awards  
+ Name   Number of Shares                   or Units of Stock That                   Have Not Vested (#)(a)   Market Value of Shares                   or Units of Stock That                   Have Not Vested ($)   Equity Incentive Plan Awards:                   Number of Unearned Shares,                   Units or Other Rights That                   Have Not Vested (#)(b)   Equity Incentive Plan Awards:                   Market or Payout Value of                   Unearned Shares, Units or                   Other Rights That                   Have Not Vested ($)  
+ Richard L. Carrión       133,400       $   6,299,148           37,134       $   1,753,467      
+ Ignacio Alvarez       54,039           2,551,722           27,455           1,296,425      
+ Carlos J. Vázquez       33,052           1,560,715           12,378           584,489      
+ Javier D. Ferrer       26,443           1,248,638           10,087           476,308      
+ Lidio V. Soriano       24,038           1,135,074           9,169           432,960      
+[END TABLE]
+[BEGIN TABLE]
+     2005                   Restricted                   Stock                   Award(i)   2006                   Restricted                   Stock                   Award(i)   2015                   Restricted                   Stock                   Award(ii)   2016                   Restricted                   Stock                   Award(iii)   2016                   Performance                   Shares                   Award(iv)   2017                   Restricted                   Stock                   Award(v)   2018                   Restricted                   Stock                   Award(vi)   Total  
+ Richard L. Carrión       6,069           6,931           20,138           34,133           36,572           17,677           11,880           133,400      
+ Ignacio Alvarez       –           –           6,428           10,895           11,674           5,649           19,393           54,039      
+ Carlos J. Vázquez       –           601           4,855           8,228           8,817           4,261           6,290           33,052      
+ Javier D. Ferrer       –           –           3,956           6,705           7,185           3,472           5,125           26,443      
+ Lidio V. Soriano       –           –           3,597           6,095           6,531           3,156           4,659           24,038      
+[END TABLE]
+[BEGIN TABLE]
+     2017                   Performance                   Shares Award(i)   2018                   Performance                   Shares Award(ii)   Total  
+ Richard L. Carrión       25,254           11,880           37,134      
+ Ignacio Alvarez       8,062           19,393           27,455      
+ Carlos J. Vázquez       6,088           6,290           12,378      
+ Javier D. Ferrer       4,962           5,125           10,087      
+ Lidio V. Soriano       4,510           4,659           9,169      
+[END TABLE]
+2019 PROXY STATEMENT  |  51          
+[BEGIN TABLE]
+     Stock Awards  
+     Number of Shares                   Acquired on Vesting (#)   Value Realized                   on Vesting ($)(a)  
+ Richard L. Carrión       36,295       $   1,527,516      
+ Ignacio Alvarez       23,791           920,787      
+ Carlos J. Vázquez       8,752           368,339      
+ Javier D. Ferrer       7,131           300,117      
+ Lidio V. Soriano       6,484           272,888      
+[END TABLE]
+[BEGIN TABLE]
+ Name   Plan Name   Number of Years of                   Credited Service                   Through April 30, 2009   Present Value of                   Accumulated                   Benefit ($)(a)   Payments                   During Last                   Fiscal Year ($)  
+ Richard L. Carrión   Retirement Pension Plan       32.917       $   1,267,823           —      
+     Benefit Restoration Plan                   5,524,387           —      
+ Carlos J. Vázquez   Retirement Pension Plan       8.750       $   316,922           —      
+     Benefit Restoration Plan                   838,311           —      
+[END TABLE]
+are         designed to restore benefits that would otherwise have been received by an eligible employee under the Retirement Plan but for the limitations imposed by the U.S. Internal Revenue Code. The Restoration Plans do not offer credit for years of service         not actually worked, preferential benefit formulas or accelerated vesting of pension benefits, beyond the provisions of the Retirement Plan. The restoration benefits of employees who are residents of Puerto Rico are funded through a pension trust         that is qualified under the Puerto Rico Internal Revenue Code.
+52  |  2019 PROXY STATEMENT 
+applicable tax laws. Popular matches 50% of employee pre-tax contributions up to eight percent of the participant's cash compensation. USA           Savings and Investment Plan. The Popular, Inc. 401(k) USA Savings and Investment Plan is a U.S. tax-qualified plan that permits eligible U.S.-based employees to defer a portion of their eligible annual cash compensation on a pre-tax basis,         subject to the maximum amount permitted by applicable tax laws. Popular matches 50% of employee pre-tax contributions up to eight percent of the participant's cash compensation. 
+[BEGIN TABLE]
+ Name   Executive                   Contribution in                   Last FY                   (2018)(a)   Registrant                   Contribution in                   Last FY                   (2018)   Aggregate                   Earnings in                   Last FY                   (2018)(b)   Aggregate                   Withdrawals/                   Distributions   Aggregate                   Balance at Last                   FYE                   (12/31/2018)  
+ Richard L. Carrión   $   36,001           —       $   (4,326)       —       $   71,858      
+ Ignacio Alvarez       97,092           —           (10,086)       —           168,829      
+ Carlos J. Vázquez       70,025           —           (15,411)       —           194,397      
+ Javier D. Ferrer       33,533           —           (5,095)       —           62,750      
+[END TABLE]
+service are allowed due to financial hardship and post-secondary education. The         Puerto Rico and North America deferral plans maintain irrevocable "rabbi" trusts as a source of funds for payment of deferred compensation obligations to participants.POTENTIAL           PAYMENTS UPON TERMINATION OR CHANGE IN CONTROLNo           Employment or Change of Control Agreements; No Gross-Ups. Popular does not have any employment or change of control agreements with our NEOs and does not provide for any tax gross-ups. 2004           Omnibus Plan. Popular's 2004 Omnibus Incentive Plan, as amended (the "Omnibus Plan"), contains provisions governing change of control with respect to outstanding equity awards. The terms of the Omnibus Plan, as amended as of April 30, 2013,         provide for "double-trigger" vesting in the event of a Change of Control, which means that awards subject to time-based vesting will vest if the holder's employment is terminated without Cause, or if the holder terminates employment for Good Reason         (each as defined in the Omnibus Plan) within two years after a Change of Control. Except as
+2019 PROXY STATEMENT  |  53          
+[BEGIN TABLE]
+       Long-Term Incentive Plan ($)(b)  
+ Name and Termination Scenarios(a)   Total ($)   Restricted Stock   Performance Shares   Senior Executive                   Long-Term                   Incentive Plan(f)  
+ Richard L. Carrión                                                  
+ Retirement(c)   $   6,450,412       $   6,183,931       $   —       $   266,480      
+ Death & Disability       8,203,879           6,183,931           1,753,467           266,480      
+ Change of Control(d)       8,203,879           6,183,931           1,753,467           266,480      
+ Resignation(e)       6,450,412           6,183,931           —           266,480      
+ Termination With Cause       266,480           —           —           266,480      
+ Termination Without Cause(e)       7,432,399           6,183,931           981,987           266,480      
+ Ignacio Alvarez                                                                     
+ Retirement(c)       2,514,937           2,514,937           —           —      
+ Death & Disability       3,811,362           2,514,937           1,296,425           —      
+ Change of Control(d)       3,811,362           2,514,937           1,296,425           —      
+ Resignation(e)       2,514,937           2,514,937           —           —      
+ Termination With Cause       —           —           —           —      
+ Termination Without Cause(e)       3,073,975           2,514,937           559,038           —      
+ Carlos J. Vázquez                                                                     
+ Retirement(c)       1,532,903           1,532,903           —           —      
+ Death & Disability       2,117,392           1,532,903           584,489           —      
+ Change of Control(d)       2,117,392           1,532,903           584,489           —      
+ Resignation(e)       1,532,903           1,532,903           —           —      
+ Termination With Cause       —           —           —           —      
+ Termination Without Cause(e)       1,823,558           1,532,903           290,655           —      
+[END TABLE]
+54  |  2019 PROXY STATEMENT 
+[BEGIN TABLE]
+         Long-Term Incentive Plan ($)(b)  
+ Name and Termination Scenarios(a)   Total ($)   Restricted Stock   Performance Shares   Senior Executive                   Long-Term                   Incentive Plan(f)  
+ Javier D. Ferrer                                                                     
+ Retirement(c)       —           —           —           —      
+ Death & Disability       1,702,281           1,225,973           476,308           —      
+ Change of Control(d)       1,702,281           1,225,973           476,308           —      
+ Resignation(e)       —           —           —           —      
+ Termination With Cause       —           —           —           —      
+ Termination Without Cause(e)       1,118,481           881,609           236,871           —      
+ Lidio V. Soriano                                                                     
+ Retirement(c)       —           —           —           —      
+ Death & Disability       1,547,447           1,114,486           432,960           —      
+ Change of Control(d)       1,547,447           1,114,486           432,960           —      
+ Resignation(e)       —           —           —           —      
+ Termination With Cause       —           —           —           —      
+ Termination Without Cause(e)       985,691           770,383           215,307           —      
+[END TABLE]
+[BEGIN TABLE]
+  (b) Values of equity grants are based on $47.22, the closing price of Popular's common stock as of December 31, 2018. Amounts paid with respect to incentive awards granted after September 25th, 2014 are subject to clawback based on Popular's
+                 Incentive Recoupment Guideline, as previously discussed in the "Other Aspects of Our Executive Compensation Program" section. Termination provisions based on type of termination prior to vesting are detailed in the table below. The termination provisions identified in the table below as Become Vested and Prorated Vesting, entail a lump sum payment by the Corporation. The termination provision identified as Contingent Vesting, entails a payment by the Corporation at the end of the performance cycle.  
+  (b) Values of equity grants are based on $47.22, the closing price of Popular's common stock as of December 31, 2018. Amounts paid with respect to incentive awards granted after September 25th, 2014 are subject to clawback based on Popular's
+                 Incentive Recoupment Guideline, as previously discussed in the "Other Aspects of Our Executive Compensation Program" section. Termination provisions based on type of termination prior to vesting are detailed in the table below. The termination provisions identified in the table below as Become Vested and Prorated Vesting, entail a lump sum payment by the Corporation. The termination provision identified as Contingent Vesting, entails a payment by the Corporation at the end of the performance cycle.  
+[END TABLE]
+[BEGIN TABLE]
+     Regular                   Restricted Stock   Performance                   Shares  
+ Retirement   Become Vested   Contingent Vesting  
+ Death & Disability   Become Vested   Become Vested  
+ Change of Control   Become Vested   Become Vested  
+ Resignation   Forfeiture   Forfeiture  
+ Termination With Cause   Forfeiture   Forfeiture  
+ Termination Without Cause   Prorated Vesting   Prorated Vesting  
+[END TABLE]
+2019 PROXY STATEMENT  |  55          
+[BEGIN TABLE]
+ CEO 2018 annual total compensation (A)   $   4,417,563      
+ Median employee 2018 annual total compensation (B)   $   36,443      
+ Ratio of (A) to (B)       121:1      
+[END TABLE]
+56  |  2019 PROXY STATEMENT 
+[BEGIN TABLE]
+ Compensation   Amount ($)  
+ Restricted Stock Grant   $   100,000      
+ Retainer       50,000      
+ Lead Director Restricted Stock Grant       20,000      
+ Audit and Risk Committee Chair Retainer       15,000      
+ Compensation and Corporate Governance and Nominating Committee Chair Retainer       10,000      
+[END TABLE]
+the Lead         Director restricted stock grant, could be paid in either cash or restricted stock under Popular's 2004 Omnibus Incentive Plan, at the director's election. All restricted stock awards are subject to risk of forfeiture and restrictions on         transferability until retirement of the director, when the awards become vested. Any dividends paid on the restricted stock during the vesting period are reinvested in shares of common stock. Popular           reimburses directors for travel expenses incurred in connection with attending Board, committee and shareholder meetings, participating in continuing director education programs and for other Popular-related business expenses (including the travel         expenses of spouses if they are specifically invited to attend the event for appropriate business purposes). 
+[BEGIN TABLE]
+ Name   Fees                   Earned                   or Paid in                   Cash                   ($)(a)   Stock                   Awards                   ($)(b)   Option                   Awards                   ($)   Non-Equity                   Incentive                   Plan                   Compensation                   ($)   Nonqualified                   Deferred                   Compensation                   Earnings ($)   All Other                   Compensation                   ($)   Total ($)  
+ Joaquín E. Bacardí, III   $   50,000       $   100,000           —           —           —           —       $   150,000      
+ Alejandro M. Ballester       60,000           100,000           —           —           —           —           160,000      
+ John W. Diercksen       65,000           100,000           —           —           —           —           165,000      
+ María Luisa Ferré       60,000           100,000           —           —           —           —           160,000      
+ David E. Goel(c)       50,000           100,000           —           —           —           —           150,000      
+ C. Kim Goodwin       65,000           100,000           —           —           —           —           165,000      
+ Myrna M. Soto(d)       41,667           83,334           —           —           —           —           125,001      
+ William J. Teuber, Jr.       50,000           120,000           —           —           —           —           170,000      
+ Carlos A. Unanue       50,000           100,000           —           —           —           —           150,000      
+[END TABLE]
+2019 PROXY STATEMENT  |  57          
+[BEGIN TABLE]
+ Revised Compensation   Amount ($)  
+ Equity Grant   $   125,000      
+ Retainer       75,000      
+ Lead Director Equity Grant       25,000      
+ Audit and Risk Committee Chair Retainer       20,000      
+ Compensation and Corporate Governance and Nominating Committee Chair Retainer       15,000      
+[END TABLE]
+Pledging           of common stock as collateral for loans or in margin accounts is prohibited. Each director and nominee for director is currently in compliance with his or her common stock ownership requirements.
+58  |  2019 PROXY STATEMENT 
+[BEGIN TABLE]
+ Name   Amount and Nature of                   Beneficial Ownership(1)   Percent of                   Class(2)  
+ Joaquín E. Bacardí, III       36,387           *      
+ Alejandro M. Ballester       23,666   (3)        *      
+ Robert Carrady       4,802   (4)        *      
+ Richard L. Carrión       290,954   (5)        *      
+ John W. Diercksen       21,742           *      
+ María Luisa Ferré       55,643   (6)        *      
+ C. Kim Goodwin       46,696           *      
+ Myrna M. Soto       2,803           *      
+ William J. Teuber, Jr.       64,092           *      
+ Carlos A. Unanue       131,924   (7)        *      
+ Ignacio Alvarez       132,721   (8)        *      
+ Javier D. Ferrer       40,413   (9)        *      
+ Lidio V. Soriano       67,938           *      
+ Carlos J. Vázquez       106,155   (10)        *      
+ All directors, NEOs, executive officers and the Principal Accounting Officer and Comptroller as a group (23 persons in total)       1,283,201           1.33%  
+[END TABLE]
+[BEGIN TABLE]
+ Name   Title of Security   Amount and Nature of                   Beneficial Ownership(1)   Percent of  Class(2)  
+ María Luisa Ferré   8.25% Preferred Stock       4,175   (11)        *      
+ All directors, NEOs, executive officers and the Principal Accounting Officer and Comptroller as a group (23 persons in total)   8.25% Preferred Stock       4,175           *      
+[END TABLE]
+2019 PROXY STATEMENT  |  59          
+[BEGIN TABLE]
+ Name and Address of Beneficial Owner   Amount and Nature of                   Beneficial Ownership(1)   Percent of Class  
+ The Vanguard Group(2)                   100 Vanguard Blvd.                   Malvern, PA 19355       9,703,345           9.66%      
+[END TABLE]
+60  |  2019 PROXY STATEMENT 
+[BEGIN TABLE]
+     ELECTION OF DIRECTORS      
+     Popular's Restated Certificate of Incorporation establishes that the Board of Directors shall be composed of such number of directors as shall be established from time to                  time by the Board, but not less than 9 nor more than 25, and that the Board shall be divided into three classes as nearly equal in number as possible, with each class having at least three members and with the term of office of one class                  expiring each year. When the number of directors is changed, any newly created directorship will be assigned among classes by a majority of the directors then in office in a manner that would make all classes as equal in number as possible.                  In the event of inequality within classes, the Restated Certificate of Incorporation provides that the class assigned to the new director will be the class having the last date for expiration of its term.                    
+     Our Board named Myrna M. Soto and Robert Carrady as members of the Board, effective July 1, 2018 and January 1, 2019, respectively. In accordance with our Restated                  Certificate of Incorporation, any director named by the Board will hold office only until the next annual meeting of shareholders, at which such director should be duly elected and qualified. The Board is therefore nominating Ms. Soto and                  Mr. Carrady as "Class 2" members, consistent with the requirements in our Restated Certificate of Incorporation. As a result, at the meeting, four directors assigned to "Class 2" will be elected to serve until the 2022 annual meeting of                  shareholders or until their respective successors are duly elected and qualified. The remaining seven directors of Popular will continue to serve as directors, as follows: the three directors assigned to "Class 3," until the 2020 annual                  meeting of shareholders of Popular, and the four directors assigned to "Class 1," until the 2021 annual meeting of shareholders, or in each case until their successors are duly elected and qualified.      
+     The persons named as proxies have advised Popular that, unless otherwise instructed, they intend to vote at the meeting the shares covered by the proxies "FOR" the election                  of the four nominees, and that if any one or more of such nominees should become unavailable for election they intend to vote such shares "FOR" the election of such substitute nominees as the Board may propose. Popular has no knowledge that                  any nominee will become unavailable for election.              
+     Popular's Restated Certificate of Incorporation requires that each director receive a majority of the votes cast by shareholders in person or by proxy and entitled to vote                  (the number of shares voted "FOR" a director nominee must exceed the number of votes cast "AGAINST" that nominee). All nominees are currently serving on the Board. If an incumbent director is not elected by a majority of the shares                  represented at the annual meeting, Puerto Rico corporation law provides that the director continues to serve on the Board as a "holdover director." Under Popular's Restated By-Laws and Corporate Governance Guidelines, an incumbent director                  who is not elected by a majority of the votes cast must tender his or her resignation to the Board. In that situation, Popular's Corporate Governance and Nominating Committee would make a recommendation to the Board about whether to accept                  or reject the resignation, or whether to take other action. The Board would act on the Corporate Governance and Nominating Committee's recommendation and publicly disclose its decision.      
+     The "Class 2" nominees for election as director at the 2019 Annual Meeting of Shareholders are: Joaquín E., Bacardí, III, Robert Carrady, John W. Diercksen and Myrna M. Soto.                  Refer to the "Nominees for Election as Directors and Other Directors" section of this Proxy Statement for information on the director's experience and qualifications.      
+[END TABLE]
+[BEGIN TABLE]
+                         OUR BOARD RECOMMENDS THAT YOU VOTE "FOR" EACH NOMINEE TO THE BOARD.  
+[END TABLE]
+2019 PROXY STATEMENT  |  61          
+[BEGIN TABLE]
+     ADVISORY VOTE TO APPROVE EXECUTIVE COMPENSATION                    
+     The Dodd-Frank Wall Street Reform and Consumer Protection Act and SEC regulations require a separate, nonbinding "say on pay" shareholder vote to approve the compensation of                  executives. The compensation paid to our NEOs and Popular's overall executive compensation policies and procedures are described in the "Compensation Discussion and Analysis" section and the tabular disclosure (together with the                  accompanying narrative disclosure) in this Proxy Statement      
+     This proposal gives you as a shareholder the opportunity to endorse or not endorse the compensation paid to Popular's NEOs through the following resolution.      
+     "RESOLVED, that the shareholders of Popular approve the compensation of our named executive officers as disclosed in the Compensation Discussion and Analysis                    Section and the tabular disclosure regarding named executive officer compensation (together with the accompanying narrative disclosure) in this Proxy Statement."      
+     Because your vote is advisory, it will not be binding upon the Board and may not be construed as overruling any decision by the Board. However, the Compensation Committee                  will consider the outcome of the vote when evaluating the effectiveness of our compensation policies and procedures and in connection with its future executive compensation determinations.      
+     The approval of the advisory vote on executive compensation requires the affirmative vote of the holders of a majority of shares represented in person or by proxy and                  entitled to vote on that matter. At our annual shareholders' meeting held in May 2018, the vast majority of Popular's voting shareholders (94.74% of shares voted) expressed support for our executive compensation policies and procedures.      
+[END TABLE]
+[BEGIN TABLE]
+                        OUR BOARD RECOMMENDS THAT YOU VOTE "FOR" THIS PROPOSAL.  
+[END TABLE]
+62  |  2019 PROXY STATEMENT 
+[BEGIN TABLE]
+     RATIFICATION OF APPOINTMENT OF INDEPENDENT REGISTERED PUBLIC                   ACCOUNTING FIRM    
+     The Audit Committee intends to appoint PricewaterhouseCoopers LLP as the independent registered public accounting firm of Popular for 2019. PricewaterhouseCoopers LLP has served as the                  independent registered public accounting firm of BPPR since 1971 and of Popular since 1991.      
+     The following table summarizes the fees billed to Popular by PricewaterhouseCoopers LLP for the years ended December 31, 2018 and 2017:      
+         December 31, 2018   December 31, 2017      
+     Audit Fees   $7,098,840      $6,909,029      
+     Audit-Related Fees(a)   1,455,250     1,001,013      
+     Tax Fees(b)   43,029     42,625      
+     All Other Fees(c)   4,500     3,600    
+         $8,601,619     $7,956,267    
+     (a)   Includes fees for assurance services such as audits of pension plans, compliance-related audits, accounting consultations and          Statement on Standards for                  Attestation Engagements No. 18 reports.    
+  (b)   Includes fees associated with tax return preparation and tax consulting services. (c)   Includes software licensing fees.   
+  (b)   Includes fees associated with tax return preparation and tax consulting services. (c)   Includes software licensing fees.   
+     The Audit Committee has established controls and procedures that require the pre-approval of all audit and permissible non-audit services provided by PricewaterhouseCoopers LLP. The Audit                  Committee may delegate to one or more of its members the authority to pre-approve any audit or permissible non-audit services. Under the pre-approval controls and procedures, audit services for Popular are negotiated annually. In the event                  that any additional audit services are required by Popular, a proposed engagement letter is obtained from the auditors and evaluated by the Audit Committee or the member(s) of the Audit Committee with authority to pre-approve auditor                  services. Any decisions to pre-approve such audit and non-audit services and fees are to be reported to the full Audit Committee at its next regular meeting. The Audit Committee has considered that the provision of the services covered by                  this paragraph is compatible with maintaining the independence of the independent registered public accounting firm of Popular. During 2018, fees for all services provided by PricewaterhouseCoopers LLP were approved by the Audit Committee.                                         Neither Popular's Restated Certificate of Incorporation nor its Restated By-Laws require that the shareholders ratify the appointment of PricewaterhouseCoopers LLP as Popular's independent registered public accounting firm. If the                  shareholders do not ratify the appointment, the Audit Committee will reconsider whether or not to appoint PricewaterhouseCoopers LLP, but may nonetheless appoint such firm. Even if the appointment is ratified, the Audit Committee, in its                  discretion, may change the appointment at any time during the year if it determines that such change would be in the best interest of Popular and its shareholders.                                         Representatives of PricewaterhouseCoopers LLP will attend the meeting and will be available to respond to any appropriate questions that may arise. They will also have the opportunity to make a statement if they so desire.                                         The ratification of the appointment of PricewaterhouseCoopers LLP as Popular's auditors requires the affirmative vote of the holders of a majority of shares represented in person or by proxy and entitled to vote on that matter.    
+[END TABLE]
+[BEGIN TABLE]
+                        OUR BOARD RECOMMENDS THAT YOU VOTE "FOR" THIS PROPOSAL.  
+[END TABLE]
+2019 PROXY STATEMENT  |  63          
+conformity         with GAAP, and annually auditing the effectiveness of the Company's internal control over financial reporting. The         members of the Audit Committee are not engaged professionally in the practice of auditing or accounting and are not employees of Popular. Popular's management is responsible for its accounting, financial management and internal controls. As such,         it is not the duty or responsibility of the Audit Committee or its members to conduct "field work" or other types of auditing or accounting reviews or procedures to set auditor independence standards. Based         on the Audit Committee's consideration of the audited financial statements and the discussions referred to above with management and the independent registered public accounting firm, and subject to the limitations on the role and responsibilities         of the Audit Committee set forth in the Charter and those discussed above, the Audit Committee recommended to the Board that Popular's audited financial statements be included in Popular's Annual Report on Form 10-K for the year ended December 31,         2018 for filing with the SEC. Respectfully submitted, The Audit Committee John         W. Diercksen, Chair          Alejandro M. Ballester          C. Kim Goodwin          William J. Teuber, Jr.          Carlos A. Unanue
+64  |  2019 PROXY STATEMENT 
+2019 PROXY STATEMENT  |  65          
+66  |  2019 PROXY STATEMENT 
+2019 PROXY STATEMENT  |  67          
+68  |  2019 PROXY STATEMENT 
+2019 PROXY STATEMENT  |  69          
+[BEGIN TABLE]
+ Richard L. Carrión                   Executive Chairman   Javier D. Ferrer                   Executive Vice President,                   Chief Legal Officer and Secretary  
+[END TABLE]
+70  |  2019 PROXY STATEMENT 
+[BEGIN TABLE]
+ (Unaudited)              
+ (In thousands)   Pre-tax   Income tax                   effect   Impact on net                   income  
+ U.S. GAAP net income                           $   618,158      
+ Non-GAAP Adjustments:                                      
+ Termination of FDIC Shared-Loss Agreements [1]       (94,633)       45,059           (49,574)  
+ Tax Closing Agreement [2]                   (108,946)       (108,946)  
+ Impact of Act No. 257[3]                   27,686           27,686      
+ Adjusted net income (Non-GAAP)                           $   487,324      
+ Hurricane Claims [4]       (19,271)       7,516           (11,755)  
+ Voluntary Retirement Program [5]       19,500           (7,605)       11,895      
+ Early Extinguishment of Debt [6]       12,522                       12,522      
+ Adjusted net income for incentive purposes                           $   499,986      
+[END TABLE]
+[BEGIN TABLE]
+ (Unaudited)              
+ (In thousands)   Pre-tax   Income tax                   effect   Impact on net                   income  
+ U.S. GAAP net income                           $   107,681      
+ Non-GAAP Adjustments:                                      
+ Impact of the Tax Cut and Jobs Act [1]       —           168,358           168,358      
+ Adjusted net income (Non-GAAP)                           $   276,039      
+ Hurricanes Impact [2]:                                      
+ Non interest income       31,000           (12,049)       18,951      
+ Provision for indemnity reserves on loans sold       3,436           (1,340)       2,096      
+ Provision for loan losses       67,615           (26,370)       41,245      
+[END TABLE]
+2019 PROXY STATEMENT  |  71          
+[BEGIN TABLE]
+ (Unaudited)              
+ (In thousands)   Pre-tax   Income tax                   effect   Impact on net                   income  
+ Operating expenses       16,981           (6,623)       10,358      
+ Adjusted net income, excluding the impact of the Hurricanes (Non-GAAP)                           $   348,690      
+[END TABLE]
+[BEGIN TABLE]
+ (Unaudited)              
+ (In thousands)   Pre-tax   Income tax                   effect   Impact on net                   income  
+ U.S. GAAP net income                           $   216,691      
+ Non-GAAP Adjustments:                                      
+ Impact of EVERTEC restatement [1]       2,173           —           2,173      
+ Bulk sale of WB loans and OREO [2]       (891)       347   [4]        (544)  
+ FDIC arbitration award [3]       171,757           (41,108)[4]       130,649      
+ Goodwill impairment charge [5]       3,801           —           3,801      
+ Other FDIC—LSA adjustments[6]       8,806           (2,380)[4]       6,426      
+ Income from discontinued operations[7]       (2,015)       880           (1,135)  
+ Adjusted net income (Non-GAAP)                           $   358,061      
+[END TABLE]
+[BEGIN TABLE]
+ (In thousands)   2016   2017   2018   Cumulative                   EPS  
+ Adjusted net income (non-GAAP) [1]   $   358,061       $   348,690       $   475,569       $   —      
+ Preferred dividends       (3,723)       (3,723)       (3,723)       —      
+ Net income for common stock       354,338           344,967           471,846           —      
+ Average common share outstanding[2]       103,275,264           103,478,247           103,745,485           —      
+ Adjusted EPS   $   3.43       $   3.33       $   4.55       $   11.31      
+[END TABLE]
+72  |  2019 PROXY STATEMENT 
+ 

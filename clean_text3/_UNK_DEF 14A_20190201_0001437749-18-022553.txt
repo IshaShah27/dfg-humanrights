@@ -1,0 +1,1019 @@
+ 
+UNITED STATES
+SECURITIES AND EXCHANGE COMMISSION
+Washington, D.C. 20549
+SCHEDULE 14A
+Proxy Statement Pursuant to Section 14(a) of the Securities Exchange Act of 1934
+[BEGIN TABLE]
+ Filed by the Registrant   [X]  
+ Filed by Party other than the Registrant   [   ]  
+[END TABLE]
+[BEGIN TABLE]
+ [   ]   Preliminary Proxy Statement  
+ [   ]   Confidential, for Use of the Commission Only (as permitted by Rule 14a-6(e)(2))  
+ [X]   Definitive Proxy Statement  
+ [   ]   Definitive Additional Materials  
+ [   ]   Soliciting Material Pursuant to § 240.14a-12  
+[END TABLE]
+MCORPCX, INC.
+(Exact name of Registrant as specified in its charter.)
+Commission File number 000-54918
+[BEGIN TABLE]
+ Payment of Filing Fee (Check the appropriate box):  
+ [X]   No fee required.  
+ [   ]   Fee computed on table below per Exchange Act Rules 14c-6(i) and 0-11:  
+     1.   Title of each class of securities to which transaction applies:  
+     2.   Aggregate number of securities to which transaction applies:  
+     3.   Per unit price or other underlying value of transaction computed pursuant to Exchange Act Rule 0-11 (Set forth the amount on which the filing fee is calculated and state how it was determined):  
+     4.   Proposed maximum aggregate value of transaction:  
+     5.   Total fee paid:  
+ [   ]   Fee paid previously with preliminary materials.  
+ [   ]   Check box if any part of the fee is offset as provided by Exchange Act Rule 240.0-11(a)(2) and identify the filing for which the offsetting fee was paid previously. Identify the previous filing by registration statement number, or the Form or Schedule and the date of its filing.  
+     1.   Amount Previously Paid;  
+     2.   Form, Schedule or Registration Statement No.  
+     3.   Filing Party:  
+     4.   Date Filed:  
+[END TABLE]
+NOTICE OF ANNUAL MEETING OF STOCKHOLDERS
+February 1, 2019
+NOTICE IS HEREBY GIVEN that the Annual Meeting of Stockholders of McorpCX, Inc. (the "Company") will be held at our corporate headquarters at 201 Spear Street, Suite 1100, San Francisco, California 94105 at 11:00 a.m. Pacific Time on February 1, 2019, for the following purposes, as more fully described in the accompanying proxy statement:
+[BEGIN TABLE]
+ (1)   To elect four directors nominated by the Company's board of directors to serve until the 2020 Annual Meeting of Stockholders;  
+ (2)   To approve the McorpCX Amended and Restated Stock Option Plan, as required under the rules of the TSX Venture Exchange;  
+[END TABLE]
+The board of directors of the Company has fixed the close of business on December 21, 2018 as the record date for the determination of stockholders entitled to vote at the annual meeting or any adjournment, postponement or rescheduling thereof.
+For information on how to vote, please refer to the instructions on the accompanying proxy card, or review the section titled "Commonly Asked Questions and Answers" beginning on page 2 of the accompanying proxy statement.
+[BEGIN TABLE]
+     /s/ Michael Hinshaw  
+     /s/ Michael Hinshaw  
+   Michael Hinshaw Chairman of the Board  
+   Michael Hinshaw Chairman of the Board  
+[END TABLE]
+December 21, 2018
+Important Notice Regarding the Availability of Proxy Materials for the Annual Meeting of Stockholders to be held on February 1, 2019: Our proxy statement and our Annual Report on Form 10-K, are available at www.investorvote.com/MCCX a site that does not have "cookies" that identify visitors to the site.
+YOUR VOTE IS VERY IMPORTANT. WHETHER OR NOT YOU PLAN TO ATTEND THE ANNUAL MEETING, WE URGE YOU TO CAST YOUR VOTE AND SUBMIT YOUR PROXY AS PROMPTLY AS POSSIBLE IN ORDER TO ENSURE YOUR REPRESENTATION AND THE PRESENCE OF A QUORUM. AS AN ALTERNATIVE TO VOTING IN PERSON AT THE ANNUAL MEETING, YOU MAY VOTE VIA THE INTERNET, OVER THE TELEPHONE, OR BY MAIL. A PROXY MAY BE REVOKED IN THE MANNER DESCRIBED IN THE ACCOMPANYING PROXY STATEMENT.
+TABLE OF CONTENTS
+[BEGIN TABLE]
+ GENERAL INFORMATION   1  
+ COMMONLY ASKED QUESTIONS AND ANSWERS   2  
+ OUR BOARD OF DIRECTORS RECOMMENDS A VOTE IN FAVOR OF EACH OF THESE PROPOSALS.   3  
+ PROPOSAL NO. 1 - ELECTION OF DIRECTORS  6 
+ Nominees for Election as Directors   6  
+ EXECUTIVE OFFICERS   8  
+ Background of Officers   9  
+ Involvement in Certain Legal Proceedings   10  
+ CORPORATE GOVERNANCE AND BOARD MATTERS   11  
+ Board Meetings and Attendance   11  
+ Independence of Directors   11  
+ Board Leadership Structure   11  
+ Risk Oversight   11  
+ Our Director Nominations Process   12  
+ The Committees of the Board   13  
+ Audit Committee and Charter   13  
+ Audit Committee Financial Expert   14  
+ Code of Ethics   14  
+ Whistleblower Policy   14  
+ Section 16(a) of the Securities Exchange Act of 1934   14  
+ EXECUTIVE COMPENSATION   15  
+ Compensation Committee Interlocks and Insider Participation   19  
+ CERTAIN RELATIONSHIPS AND TRANSACTIONS   20  
+ Related Party Transactions   20  
+ Review and Approval of Related Party Transactions   20  
+ SECURITY OWNERSHIP OF CERTAIN BENEFICIAL OWNERS AND MANAGEMENT   20  
+ Securities Authorized for Issuance under Equity Compensation Plans   22  
+ PROPOSAL 3 ‑ INDEPENDENT ACCOUNTANTS AND AUDITORS   26  
+ Accountants' Fees   27  
+ AUDIT COMMITTEE REPORT   27  
+ PROPOSAL 4 – NON-BINDING ADVISORY VOTE ON EXECUTIVE COMPENSATION   28  
+ STOCKHOLDER PROPOSALS   29  
+ IMPORTANT NOTICE REGARDING THE AVAILABILITY OF PROXY MATERIALS FOR THE ANNUAL MEETING   29  
+ DUPLICATE ANNUAL REPORT AND PROXY STATEMENT   30  
+ OTHER MATTERS   30  
+ MISCELLANEOUS   30  
+ APPENDIX A   A-1  
+[END TABLE]
+MCORPCX, INC.
+GENERAL INFORMATION
+This proxy statement ("Proxy Statement") and the accompanying proxy card are furnished in connection with the solicitation by the board of directors (the "Board" or the "Board of Directors") of McorpCX, Inc. (the "Company" or "McorpCX") of proxies to be used at the Annual Meeting of Stockholders of the Company to be held at 201 Spear Street, Suite 1100, San Francisco, California 94105, 11:00 a.m. Pacific Time on February 1, 2019 (the "Annual Meeting"), and any adjournments or postponements thereof. The Company's mailing address is 201 Spear Street, Suite 1100, San Francisco, California 94105.
+If a proxy in the accompanying form ("Proxy") is properly executed and received by us prior to the Annual Meeting or any adjournment, postponement or rescheduling thereof, our shares of common stock, no par value per share ("Shares") represented by such Proxy will be voted in the manner directed. In the absence of voting instructions, the Shares will be voted for the proposals set out in the accompanying Notice of Annual Meeting of Stockholders. Please see the Proxy for voting instructions.
+A Proxy may be revoked at any time prior to its use by filing a written notice of revocation of proxy or a later dated Proxy with Computershare Investor Services, the Company's registrar and transfer agent, at 250 Royall St, Canton, Massachusetts, 02021. A Proxy may also be revoked by submitting another Proxy with a later date over the internet, to our registrar and transfer agent or by voting in person at the Annual Meeting. Attending the Annual Meeting will not, in and of itself, constitute revocation of a Proxy.
+Proxies for the Annual Meeting will be solicited by the Company primarily by mail. Proxies may also be solicited personally by our directors, officers or regular employees without additional compensation. We may reimburse banks, broker-dealers or other nominees for their reasonable expenses in forwarding the proxy materials for the Annual Meeting to beneficial owners of Shares. The costs of this solicitation will be borne by the Company.
+Section 602(a) of the California Corporations Code provides that a majority of the shares entitled to vote shall constitute a quorum at a meeting of stockholders. Abstentions, withheld votes and shares held of record by a broker or its nominee that are voted on any matter are included in determining the number of votes present.
+The approximate date on which this Proxy Statement, our annual report on Form 10-K for the fiscal year ended December 31, 2017 and the enclosed Proxy are first being given or sent to stockholders is December 21, 2018.
+Your vote is important — we urge you to vote by Proxy even if you plan to attend the Annual Meeting. 
+COMMONLY ASKED QUESTIONS AND ANSWERS
+[BEGIN TABLE]
+ Q:    Why am I receiving this Proxy Statement and Proxy?  
+[END TABLE]
+[BEGIN TABLE]
+ A:   This Proxy Statement describes the proposals upon which you, as a stockholder, will vote. It also gives you information on the proposals, as well as other information so that you can make an informed decision.  
+[END TABLE]
+[BEGIN TABLE]
+ Q:    What is the Proxy?  
+[END TABLE]
+[BEGIN TABLE]
+ A:   The Proxy enables you to appoint Gregg Budoi as your representative at the Annual Meeting. By completing and returning the Proxy, you are authorizing Mr. Budoi to vote your Shares at the Annual Meeting as you have instructed on the Proxy. This way your Shares will be voted whether or not you attend the Annual Meeting. Even if you plan to attend the Annual Meeting, it is a good idea to complete and return your Proxy before the date of the Annual Meeting just in case your plans change.  
+[END TABLE]
+[BEGIN TABLE]
+ Q:   What happens if you do not indicate how your Shares are to be voted?  
+[END TABLE]
+[BEGIN TABLE]
+ A:   If you submit your executed Proxy designating Mr. Budoi as the individual authorized to vote your Shares, but you do not indicate how your Shares are to be voted, then your Shares will be voted by Mr. Budoi in accordance with the Board's recommendations, which are described in this Proxy Statement. In addition, if any other matters are properly brought up at the Annual Meeting (other than the proposals contained in this Proxy Statement), then Mr. Budoi will have the authority to vote your shares on those other matters in accordance with his discretion and judgment. The Board currently does not know of any matters to be raised at the Annual Meeting other than the proposals contained in this Proxy Statement.  
+[END TABLE]
+[BEGIN TABLE]
+ Q:    Who can vote at the Meeting?  
+[END TABLE]
+[BEGIN TABLE]
+ A:   Registered stockholders who own our Shares on December 14, 2018 (the "Record Date") may attend and vote at the Meeting. Each Share is entitled to one vote. There were 20,426,158 Shares outstanding on the Record Date. If you own your Shares through a brokerage account or in another nominee form, you must provide instructions to the broker or nominee as to how your Shares should be voted. Your broker or nominee will generally provide you with the appropriate forms at the time you receive this Proxy Statement. If you own your Shares through a brokerage account or nominee, you cannot vote in person at the Annual Meeting unless you receive a Proxy from the broker or the nominee.  
+[END TABLE]
+The list of stockholders entitled to vote at the Annual Meeting will be open for the examination by any stockholder for any purpose relevant to the Annual Meeting during normal business hours for 10 days before the Annual Meeting at the Company's head office at 201 Spear Street, Suite 1100, San Francisco, California 94105 and in our statutory registered agent's office at Computershare Investor Services, 250 Royall St, Canton, Massachusetts, 02021. The list will also be available during the Annual Meeting for inspection by stockholders.
+You are entitled to attend the Annual Meeting only if as of the close of business on the Record Date you are a stockholder of record, or a beneficial owner and you hold a valid proxy from the record holder for the Annual Meeting. You should be prepared to present photo identification for admission to the Annual Meeting. Note that even if you attend the Annual Meeting, you cannot vote the Shares that are held by your broker or other nominee unless you have a proxy from your nominee.
+[BEGIN TABLE]
+ Q:    How can Shares held through a brokerage account be voted?  
+[END TABLE]
+[BEGIN TABLE]
+ A:   If your shares are not registered in your name but in the "street name" of a bank, broker or other holder of record, then your name will not appear in the Company's register of stockholders. Those Shares are held in your nominee's name, on your behalf, and your nominee will be entitled to vote your Shares. Your nominee is required to vote your Shares in accordance with your instructions. If you do not give instructions to your nominee, your nominee will be entitled to vote your Shares with respect to "discretionary" items. On non-routine items, nominees cannot vote without instructions from the beneficial owner, which if such instructions are not given result in "broker non-votes". For the purposes of the Annual Meeting, brokers are able to vote on the ratification of MaloneBailey LLP as our independent auditors without instructions from the beneficial owner of the Shares being voted, while all of the other matters to be voted on require voting instructions from the underlying beneficial owner or such Shares will be considered broker non-votes.  
+[END TABLE]
+[BEGIN TABLE]
+ Q:    What am I voting on?  
+[END TABLE]
+[BEGIN TABLE]
+ A:   We are asking you to: (i) vote for the election of the Company's directors for the ensuing year; (ii) to approve the McorpCX Amended and Restated Stock Option Plan; (iii) ratify the selection of MaloneBailey LLP as our independent auditors; and (iv) approve, on a non-binding advisory basis, the compensation of the Company's executive officers as disclosed in this Proxy Statement.  
+[END TABLE]
+OUR BOARD OF DIRECTORS RECOMMENDS A VOTE IN FAVOR OF EACH OF THESE PROPOSALS.
+[BEGIN TABLE]
+ Q:    How do I vote?  
+[END TABLE]
+[BEGIN TABLE]
+ A:   Registered stockholders may vote in person at the Annual Meeting, by mail, by phone, or on the Internet.  
+[END TABLE]
+Voting by Mail. Complete, date, sign and mail the Proxy in the enclosed postage pre-paid envelope. If you mark your voting instructions on the Proxy, your Shares will be voted as you instruct. Please see the Proxy for voting instructions. In order for your Proxy to be validly submitted and for your Shares to be voted in accordance with your instructions, we must receive your mailed proxy card by 11:59 p.m. Pacific Time on January 31, 2019.
+Voting by Telephone. Call the toll-free number listed on the Proxy from any touch-tone telephone and follow the instructions. You should have your Proxy in hand when you call.
+Voting in Person. If you attend the Annual Meeting, you may vote as instructed at the Annual Meeting. However, if you hold your Shares in street name (that is, through a broker/dealer or other nominee), you will need to bring to the Annual Meeting a proxy delivered to you by such nominee reflecting your Share ownership as of the Record Date.
+Voting on the Internet. Go to www.investorvote.com/tickersymbol and follow the instructions. You should have your Proxy in hand when you access the website.
+If you own your Shares through a brokerage account or in other nominee form, you should follow the instructions you receive from the record holder to see which voting methods are available.
+Your vote is very important to us. If you do not plan to attend the Annual Meeting, we encourage you to read this Proxy Statement and submit your completed Proxy prior to the Annual Meeting in accordance with the above instructions so that your Shares will be represented and voted in accordance with your instructions. 
+Even if you plan to attend the Annual Meeting in person, we recommend that you vote your Shares in advance as described above so that your vote will be counted if you later decide not to attend the Annual Meeting. 
+[BEGIN TABLE]
+ Q:    What does it mean if I receive more than one Proxy?  
+[END TABLE]
+[BEGIN TABLE]
+ A:   It means that you hold Shares in multiple accounts. Please complete and return all Proxies to ensure that all your Shares are voted in accordance with your instructions.  
+[END TABLE]
+[BEGIN TABLE]
+ Q:    What if I change my mind after returning my Proxy?  
+[END TABLE]
+[BEGIN TABLE]
+ A:   If you are a registered stockholder, you may revoke your Proxy and change your vote at any time before it is voted at the Annual Meeting. You may do this by:  
+[END TABLE]
+[BEGIN TABLE]
+● sending a signed notice of revocation of proxy to Computershare Investor Services, our registrar and transfer agent, at 250 Royall St, Canton, Massachusetts, 02021, stating that the Proxy is revoked; or  
+[END TABLE]
+[BEGIN TABLE]
+● submitting another Proxy with a later date over the Internet, by telephone, or to our registrar and transfer agent at the address set out above; or  
+[END TABLE]
+[BEGIN TABLE]
+● voting at the Annual Meeting.  
+[END TABLE]
+If you wish to revoke your submitted Proxy and submit new voting instructions by mail, by telephone, or over the Internet then we must receive a new Proxy with your new voting instructions by 11:59 p.m. Pacific Time on January 31, 2019.
+Your Proxy will not be revoked if you attend the Annual Meeting but do not vote.
+If you own your Shares through a broker or other nominee and wish to change your vote, you must send those instructions to your broker or nominee.
+[BEGIN TABLE]
+ Q:    Will my Shares be voted if I do not sign and return my Proxy?  
+[END TABLE]
+[BEGIN TABLE]
+ A:   If your Shares are registered in your name, they will not be voted unless you submit your Proxy or vote in person at the Annual Meeting. If your Shares are held in street name, your broker/dealer or other nominee will not have the authority to vote your Shares unless you provide instructions.  
+[END TABLE]
+[BEGIN TABLE]
+ Q:    Who will count the votes?  
+[END TABLE]
+[BEGIN TABLE]
+ A:   Agents of the Company will tabulate the Proxies. Additionally, votes cast by stockholders voting in person at the Annual Meeting are tabulated by a person who is appointed by our management before the Annual Meeting.  
+[END TABLE]
+[BEGIN TABLE]
+ Q:    How many Shares must be present to hold the Meeting?  
+[END TABLE]
+[BEGIN TABLE]
+ A:   Section 602(a) of the California Corporations Code provides that a majority of the Shares entitled to vote shall constitute a quorum at a meeting of stockholders. Consequently, to hold the Annual Meeting and conduct business, at least a majority of the outstanding Shares entitled to vote at the Annual Meeting must be present at the Annual Meeting. This is called a quorum.  
+[END TABLE]
+Votes are counted as present at the Annual Meeting if a stockholder either:
+[BEGIN TABLE]
+● is present and votes in person at the Meeting; or  
+[END TABLE]
+[BEGIN TABLE]
+● has properly submitted a Proxy.  
+[END TABLE]
+Abstentions and broker non-votes (Shares held by a broker/dealer or other nominee that are not voted because the broker/dealer or other nominee does not have the authority to vote on a particular matter) will be counted for the purposes of establishing a quorum.
+[BEGIN TABLE]
+ Q:    How many votes are required to elect directors?  
+[END TABLE]
+[BEGIN TABLE]
+ A:   To be elected, a director nominee must receive a plurality of the votes cast at the Annual Meeting. Only votes cast FOR a nominee will be counted. Votes withheld and broker non-votes will be excluded entirely from the vote.  
+[END TABLE]
+[BEGIN TABLE]
+ Q:    How many votes are required to adopt the other proposals?  
+[END TABLE]
+[BEGIN TABLE]
+ A:   The approval of the Company's Amended and Restated Stock Option Plan, as amended, the ratification of the appointment of MaloneBailey LLP, and the approval of the compensation of the Company's named executive officers will all require the affirmative vote of a majority of the Shares represented at the Annual Meeting and entitled to vote thereon.  
+[END TABLE]
+[BEGIN TABLE]
+ Q:    What is the effect of withholding votes or "abstaining"?  
+[END TABLE]
+[BEGIN TABLE]
+ A:   You can withhold your vote for any nominee in the election of directors. Withheld votes will be excluded entirely from the vote and will have no effect on the outcome. On other proposals, you can "Abstain". If you abstain, your Shares will be counted as present at the Annual Meeting for purposes of that proposal and your abstention will have the effect of a vote against the proposal.  
+[END TABLE]
+[BEGIN TABLE]
+ Q:    How are votes counted?  
+[END TABLE]
+[BEGIN TABLE]
+ A:   You may vote "For" or "Withhold" your vote on the proposal to elect directors. You may vote "For" or "Against" or "Abstain" on the other proposals outlined in this Proxy Statement. If you abstain from voting on a proposal, it will have the practical effect of voting against the proposal.  
+[END TABLE]
+If you sign and return your Proxy without voting instructions, your Shares will be counted as a "For" vote in favor of each proposal.
+[BEGIN TABLE]
+ Q:   Could other matters be discussed at the Meeting?  
+[END TABLE]
+[BEGIN TABLE]
+ A:   We do not know of any other matters to be brought before the Annual Meeting other than those referred to in this Proxy Statement. If other matters are properly presented at the Annual Meeting for consideration, the person named in the Proxy will have the discretion to vote on those matters on your behalf.  
+[END TABLE]
+[BEGIN TABLE]
+ Q:    Where and when will I be able to find the voting results?  
+[END TABLE]
+[BEGIN TABLE]
+ A:   You can find the official results of voting at the Annual Meeting in a current report on Form 8-K filed with the Securities and Exchange Commission (the "SEC") within four business days of the Meeting.  
+[END TABLE]
+[BEGIN TABLE]
+ Q:   Do you have plans to implement rules that allow companies to direct their shareholders to an on-line copy of the proxy materials, rather than sending them paper copies?  
+[END TABLE]
+[BEGIN TABLE]
+ A:   SEC rules allow companies to mail their stockholders a notice that their proxy materials can be accessed over the internet, instead of sending a paper copy of the proxy statement and annual report. We have decided not to adopt this new delivery method for the Annual Meeting. We are considering how to realize the cost savings opportunity and environmental benefits of this new rule while still maintaining a meaningful and convenient proxy process for our stockholders.  
+[END TABLE]
+[BEGIN TABLE]
+ Q:    Who do I contact if I have any further questions?  
+[END TABLE]
+[BEGIN TABLE]
+ A:   If you have questions or require any assistance with voting your Shares, please contact the Company's President and Chief Executive Officer, Gregg Budoi at McorpCX, Inc., 201 Spear Street, Suite 1100, San Francisco, California 94105, Telephone (415) 526-2655.  
+[END TABLE]
+PROPOSAL NO. 1 - ELECTION OF DIRECTORS
+In the election of directors, every stockholder has the right to vote each Share owned by such stockholder on the Record Date for as many persons as there are directors to be elected. Four directors are to be elected at the Annual Meeting to serve until the next annual meeting of stockholders and until their successors are duly elected and qualified. Cumulative voting is not permitted. To be elected, a nominee must receive a plurality of the votes cast at the Annual Meeting. Only votes cast FOR a nominee will be counted. Abstentions, votes withheld and broker non-votes will be excluded entirely from the vote.
+NOMINEES
+Gregg R Budoi
+Matthew Kruchko
+Michael Hinshaw
+Nii A. Quaye
+Each of our directors serves until his or her successor is elected and qualified.
+OUR BOARD RECOMMENDS A VOTE "FOR" EACH OF THE NOMINEES LISTED ABOVE.
+Set forth below is certain information furnished to us by the director nominees. There are no family relationships among any of our current directors, nominees or officers. None of the corporations or other organizations referenced in the biographical information below is a parent, subsidiary or other affiliate of the Company.
+We believe that our directors should satisfy a number of qualifications, including demonstrated integrity, a record of personal accomplishments, a commitment to participation in Board activities and other traits discussed below in "Our Director Nominations Process". We also endeavor to have a Board representing a range of skills and depth of experience in areas that are relevant to and contribute to the Board's oversight of our operations.
+The Board believes its current size is appropriate for the size and scope of our business.
+We believe that the following nominees represent a desirable mix of backgrounds, skills and experiences. Additionally, we believe that the specific leadership skills and other experiences of the nominees described below, particularly in the areas of technology, senior executive leadership, financial accounting/reporting, and global marketing should provide us with the perspectives and judgment necessary to guide our strategies and monitor their execution.
+Nominees for Election as Directors
+Gregg Budoi, age 54, has been a director and our interim President and Chief Executive Officer since August 2018. Previously, from September 2017 to November 2018 Mr. Budoi served as the Company's Chief Financial Officer. Prior to joining the Company, Mr. Budoi was from 2014 to 2017 the Chief Financial Officer and member of the Board of Directors of Kalibrate Technologies Plc, a London Stock Exchange (AIM) listed SaaS software and consulting company which recently completed a successful going private transaction with the private equity firm Hanover Investors. Prior to that, from 2007 to 2014 he was a co-founder and former President and CEO of EZ Energy USA, Inc. ("EZ"), a wholesale fuel and retail convenience store company with over $500 million in revenue that was successfully sold to a strategic buyer. EZ utilized a shell parent company domiciled in Israel to raise bond debt and equity through its listing on the Tel Aviv stock exchange. Mr. Budoi has also been Managing Director at Barnes Wendling Corporate Finance, LLC, a financial advisory firm where from 2006 to 2007 where he established a corporate finance advisory services platform and completed several corporate restructurings as well as M&A and capital raising transactions. Prior to that, he was Chief Executive Officer of his own financial advisory firm, Budoi & Company, Inc. from 2003 to 2006 and was from 1999 to 2003 the Chief Financial Officer, Vice President Finance and Treasurer of Dairy Mart Convenience Stores, Inc., where he led the strategic evaluation and recapitalization process for this publicly traded (American Stock Exchange) chain of over 850 company operated convenience stores and 300 franchisees. Mr. Budoi holds a BS in Business Administration/Finance from Ohio State University, and a Masters of Business Administration from Cleveland State University.
+Specific Qualifications, Attributes, Skills and Experience. Mr. Budoi brings to the Board extensive executive management experience from several public and private companies, as well as significant experience in the SaaS software industry. Also, as the Company's current interim President and Chief Executive Officer, Mr. Budoi provides the Board with exposure to the Company's executive team and insight into our specific strategic and operational challenges and opportunities.
+Matthew Kruchko, age 48, director since August 31, 2017. Since 2016 Mr. Kruchko has been a principal and the Chief Strategy Officer of Connect Brands, Inc., a San Francisco based marketing and advertising company. He has also been a member of the board of directors of that company since 2016. Previously, from 2007 to 2015 he was a Managing Director and a member of the board of directors of Applied Storytelling, a brand consultancy/strategy firm, and was previously Executive Vice President of Strategy and Global Marketing for the UK-based SaaS software company Kalibrate Technologies PLC from 2007 to 2015. Mr. Kruchko studied finance and marketing at the University of Southern Maine and is currently an advisory board member for the Detroit Creative Corridor Center (DC3).
+Specific Qualifications, Attributes, Skills and Experience. Mr. Kruchko brings to the Board extensive knowledge of global marketing and marketing strategy, including in the SaaS software industry, which the Board believes will important as the Company continues to develop and market its customer experience services.
+Michael Hinshaw, age 57. Since March 2006 Mr. Hinshaw has served on the Board as a director, since September 2016 as our corporate secretary and from August 2018 to the present Mr. Hinshaw has been the President of our wholly-owned operating subsidiary, McorpCX, LLC. From March 2006 to August 2018 Mr. Hinshaw served our President and Chief Executive Officer and from December 2011 to August 2018 as our Treasurer and Principal Accounting. From December 7, 2011 until November 20, 2015, Mr. Hinshaw was our Chief Financial Officer. Mr. Hinshaw founded The Innes Group, Inc. (now McorpCX, Inc.) in 2001.  From 1999 until 2002, Mr. Hinshaw served as President and Chief Executive Officer of Verida Internet Corp.  Prior to its sale in 1999, Mr. Hinshaw served as President of Triad Inc., a brand strategy and management consulting firm. Mr. Hinshaw holds a MFA in Design and Communication and a BFA in Graphic Design from the Academy of Art University in San Francisco.
+Specific Qualifications, Attributes, Skills and Experience. Mr. Hinshaw possesses particular knowledge and experience in our business as our "founder" and as our former President and Chief Executive Officer. He also has broad knowledge and experience in brand strategy and management consulting. Through his experience and background, Mr. Hinshaw provides vision and leadership to the Board. Mr. Hinshaw also provides the Board with insight and information regarding our strategy, operations and business.
+Nii Quaye, age 45, director since August 31, 2017. From 2015 to 2016, Mr. Quaye was the Senior Vice President of Global Head of Service Quality for the Abu Dhabi based First Gulf Bank (FGB). Previously, from 2013 to 2014, Mr. Quaye was Vice President, Group Head of Customer Service for Ecobank Transnational Incorporated. Mr. Quaye also was General Manager and Head of Service and Quality for the Saudi Investment Bank from 2010 to 2012, and was a Senior Vice President at CitiGroup where he was responsible for administering that company's Global Contact Center. A GE-trained Six Sigma Black Belt, Mr. Quay holds a B.A. from Ottawa University, a J.D. from the University of Maryland Law School, and an MBA in Finance & Investments from The George Washington University in Washington, DC.
+Specific Qualifications, Attributes, Skills and Experience. Mr. Quay brings to the Board significant global finance and technology experience with several large global organizations, which the Board believes will be important as the Company continues to grow.
+EXECUTIVE OFFICERS
+Each of our officers is appointed by the Board to a term of one (1) year and serves until his or her successor is duly appointed and qualified, or until he or she is removed from office. None of our current executive officers were selected to serve as an executive officer as a result of any arrangement or understanding with any other person.
+ The names, ages and positions of our officers are set forth below: The address of our officers is the same as the Company's address at 201 Spear Street, Suite 1100, San Francisco, California 94105.
+[BEGIN TABLE]
+ Name and Address   Age   Position(s)  
+ Gregg Budoi 201 Spear Street, Suite 1100 San Francisco, CA 94105   54   Interim President, Chief Executive Officer and a member of the Board of Directors  
+ Gregg Budoi 201 Spear Street, Suite 1100 San Francisco, CA 94105   54   Interim President, Chief Executive Officer and a member of the Board of Directors  
+   Lynn Davison 201 Spear Street, Suite 1100 San Francisco, CA 94105     55     Chief Operating Officer   
+   Lynn Davison 201 Spear Street, Suite 1100 San Francisco, CA 94105     55     Chief Operating Officer   
+   Lynn Davison 201 Spear Street, Suite 1100 San Francisco, CA 94105     55     Chief Operating Officer   
+ Tricia Tomko 201 Spear Street, Suite 1100 San Francisco, CA 94105   Stephen Shay 201 Spear Street, Suite 1100 San Francisco, CA 94105   53       59           Chief Financial Officer       Vice President  
+ Tricia Tomko 201 Spear Street, Suite 1100 San Francisco, CA 94105   Stephen Shay 201 Spear Street, Suite 1100 San Francisco, CA 94105   53       59           Chief Financial Officer       Vice President  
+ Tricia Tomko 201 Spear Street, Suite 1100 San Francisco, CA 94105   Stephen Shay 201 Spear Street, Suite 1100 San Francisco, CA 94105   53       59           Chief Financial Officer       Vice President  
+ Tricia Tomko 201 Spear Street, Suite 1100 San Francisco, CA 94105   Stephen Shay 201 Spear Street, Suite 1100 San Francisco, CA 94105   53       59           Chief Financial Officer       Vice President  
+ Tricia Tomko 201 Spear Street, Suite 1100 San Francisco, CA 94105   Stephen Shay 201 Spear Street, Suite 1100 San Francisco, CA 94105   53       59           Chief Financial Officer       Vice President  
+ Tricia Tomko 201 Spear Street, Suite 1100 San Francisco, CA 94105   Stephen Shay 201 Spear Street, Suite 1100 San Francisco, CA 94105   53       59           Chief Financial Officer       Vice President  
+ Tricia Tomko 201 Spear Street, Suite 1100 San Francisco, CA 94105   Stephen Shay 201 Spear Street, Suite 1100 San Francisco, CA 94105   53       59           Chief Financial Officer       Vice President  
+ Michael Hinshaw 201 Spear Street, Suite 1100 San Francisco, CA 94105     57    President, McorpCX, LLC  
+ Michael Hinshaw 201 Spear Street, Suite 1100 San Francisco, CA 94105     57    President, McorpCX, LLC  
+[END TABLE]
+There are no family relationships between any of the Company's directors, director nominees and executive officers.
+Background of Officers 
+The following provides certain background information about each of our officers other than Gregg Budoi and Michael Hinshaw, whose information appears above under "Nominees for Election as Directors":
+Lynn Davison – Chief Operating Officer
+Since October 9, 2013, Ms. Davison has been our Chief Operating Officer, and has served as our Secretary from February 3, 2012 until November 20, 2015.  Ms. Davison served as our Vice-President from February 7, 2011 to October 9, 2013.  From April 2004 to February 2011, Ms. Davison worked as a management consultant to a range of start-up, mid-sized and Fortune 500 clients providing strategic business consulting services. From 1994 through April, 2004, Ms. Davison was a co-founder of C-Change, Inc., a management consulting firm working with Fortune 500 companies. Ms. Davison has a BA in economics from Whitman College in Walla Walla, Washington and is a certified Project Management Professional (PMP) by the Project Management Institute.
+Tricia Tomko – Chief Financial Officer
+Ms. Tomko was appointed as our Chief Financial Officer on November 6, 2018. Prior to becoming the Company's Chief Financial Officer, Ms. Tomko was from May 2017 to present the Director of Finance for Falls Communications, a privately held communications and consulting company. Ms. Tomko has also served from April 2016 to December 2016 as the Controller for Kalibrate, an international SaaS software company, and from June 2007 to April 2016 as the Controller for the Federal Reserve Bank in Cleveland, Ohio. Additionally, from November 1998 to June 2007, Ms. Tomko served as Director of Accounting Operations for Penton Media, Inc., a publicly traded media company, and from April 1989 to November 1998 as Retail Controller for Riser Foods, Inc., large retail grocery chain. Ms. Tomko holds a Bachelor of Applied Science from the University of Akron and held a Certified Public Accounting license, which is now inactive.
+Stephen Shay – Vice President
+On May 16, 2015, Stephen Shay was appointed as our Vice President. Mr. Shay was appointed as Vice President because of his previous experience in accelerating business growth by building global sales teams, bringing enterprise-class technology solutions to market, executing mergers & acquisitions, and developing enterprise-wide customer and partner experience capabilities.  Mr. Shay is engaged in areas of strategic planning, business development, client engagement management and furthering McorpCX's expertise, domain knowledge, and product and service offerings in the customer experience space.  Prior to joining McorpCX, Mr. Shay enjoyed a nearly 21-year career with Microsoft Corporation, where he served as an executive leader in Sales, Operations, and IT. From November 2010 to September 2014, he was General Manager, Customer Experience, responsible for conceptualizing and driving high-impact initiatives designed to transform the customer centricity of the organization and delivering simplified, seamless, and successful interactions across the customer and partner lifecycle at Microsoft. From August 2005 to November 2010, Mr. Shay was General Manager, Strategy & Business Development, providing strategic leadership for the sales, marketing and services functions supporting the Microsoft's acquisition growth strategy–building monetization and integration strategies for 90+ acquisitions with a total consideration of approximately $13 billion.  Mr. Shay earned a Bachelor of Science Degree in Management & Computer Information Systems, from Park University, Kansas City, Missouri and completed additional undergraduate studies in architecture at the University of Kansas.
+Involvement in Certain Legal Proceedings
+During the past ten years, none of our directors, director nominees or officers have been the subject of any of the following events:
+[BEGIN TABLE]
+ 1.   A petition under United States federal bankruptcy laws or any state insolvency law filed by or against, or a receiver, fiscal agent or similar officer appointed by a court for the business or property of such person, or any partnership in which he/she was a general partner at or within two years before the time of such filing, or any corporation or business association of which he/she was an executive officer at or within two years before the time of such filing;  
+[END TABLE]
+[BEGIN TABLE]
+ 2.   Convicted in a criminal proceeding or named subject of a pending criminal proceeding (excluding traffic violations and other minor offenses);  
+[END TABLE]
+[BEGIN TABLE]
+ 3.   The subject of any order, judgment, or decree, not subsequently reversed, suspended or vacated, of any court of competent jurisdiction, permanently or temporarily enjoining him/her from, or otherwise limiting, the following activities;  
+[END TABLE]
+[BEGIN TABLE]
+   i)   Acting as a futures commission merchant, introducing broker, commodity trading advisor, commodity pool operator, floor broker, leverage transaction merchant, any other person regulated by the Commodity Futures Trading Commission, or an associated person of any of the foregoing, or as an investment adviser, underwriter, broker or dealer in securities, or as an affiliated person, director or employee of any investment company, bank, savings and loan association or insurance company, or engaging in or continuing any conduct or practice in connection with such activity; or  
+[END TABLE]
+[BEGIN TABLE]
+   ii)   Engaging in any type of business practice; or  
+[END TABLE]
+[BEGIN TABLE]
+   iii)   Engaging in any activity in connection with the purchase or sale of any security or commodity or in connection with any violation of United States federal or state securities laws or federal commodities laws.  
+[END TABLE]
+[BEGIN TABLE]
+ 4.   The subject of any order, judgment or decree, not subsequently reversed, suspended or vacated, of any United States federal or state authority barring, suspending or otherwise limiting for more than 60 days the right of such person to engage in any activity described in paragraph 3.i in the preceding paragraph or to be associated with persons engaged in any such activity;  
+[END TABLE]
+[BEGIN TABLE]
+ 5.   Found by a court of competent jurisdiction in a civil action or by the SEC to have violated any United States federal or state securities law, and the judgment in such civil action or finding by the SEC has not been subsequently reversed, suspended, or vacated;  
+[END TABLE]
+[BEGIN TABLE]
+ 6.   Found by a court of competent jurisdiction in a civil action or by the United States Commodity Futures Trading Commission to have violated any United States federal commodities law, and the judgment in such civil action or finding by the United States Commodity Futures Trading Commission has not been subsequently reversed, suspended or vacated;  
+[END TABLE]
+[BEGIN TABLE]
+ 7.   The subject of, or a party to, any United States federal or state judicial or administrative order, judgment, decree, or finding, not subsequently reversed, suspended or vacated, relating to an alleged violation of:  
+[END TABLE]
+[BEGIN TABLE]
+   i)   Any United States federal or state securities or commodities law or regulation; or  
+[END TABLE]
+[BEGIN TABLE]
+   ii)   Any law or regulation respecting financial institutions or insurance companies including, but not limited to, a temporary or permanent injunction, order of disgorgement or restitution, civil money penalty or temporary or permanent cease-and-desist order, or removal or prohibition order, or  
+[END TABLE]
+[BEGIN TABLE]
+   iii)   Any law or regulation prohibiting mail or wire fraud or fraud in connection with any business entity; or  
+[END TABLE]
+8.          Was the subject of, or a party to, any sanction or order, not subsequently reversed, suspended or vacated, of any self-regulatory organization (as defined in Section 3(a)(26) of the Securities Exchange Act of 1934, as amended, (15 U.S.C. 78c(a)(26))), any registered entity (as defined in Section 1(a)(29) of the Commodity Exchange Act (7 U.S.C. 1(a)(29))), or any equivalent exchange, association, entity or organization that has disciplinary authority over its members or persons associated with a member.
+CORPORATE GOVERNANCE AND BOARD MATTERS
+Board Meetings and Attendance
+The Board met two times during fiscal 2017. Each member of the Board attended at least 75% of all meetings of our Board and of the committees of the Board on which they served in 2017 that took place since each such director's appointment to the Board. Although we do not have a formal policy with respect to attendance of directors at our annual meetings, all directors are encouraged and expected to attend such meetings if possible. Mr. Hinshaw was the only one of our directors who were serving on the Board at the time of the annual meeting held in November 2017 that attended such meeting.
+Independence of Directors
+Our Shares are not listed on a national securities exchange or an inter-dealer quotation system that requires that a majority of our Board of Directors consist of independent directors. Under these circumstances, the rules of the SEC require that we identify which of our directors is independent using a definition for independence for directors of a national securities exchange or inter-dealer quotation system which has requirements that a majority of the board of directors be independent. Based upon information requested from and provided by each director concerning his background, employment and affiliations, including family relationships, with us, our senior management and our independent registered public accounting firm, our Board of Directors has determined that two of our current directors, Messrs. Quaye and Kruchko are independent directors under standards established by the NASDAQ Stock Market.
+Board Leadership Structure 
+The Board believes that it should maintain flexibility to select our Chairman and its board leadership structure from time to time and our policies do not preclude the Company's Chief Executive Officer from also serving as Chairman of the Board. The Board had previously determined that having the Company's Chief Executive Officer also serve as Chairman of the Board was in the best interests of Company's stockholders given the Company's size and Mr. Hinshaw's in-depth knowledge of the Company's business, his leadership in formulating and implementing strategic initiatives and the market environment. Although he resigned as the Company's Chief Executive Officer in August 2018, the Board determined that Mr. Hinshaw should remain Chairman of the Board The Board believes that this current leadership structure is optimal for the Company.
+Risk Oversight
+The Company's officers are responsible for assessing and managing our various exposures to risk on a day-to-day basis, including the creation and implementation of appropriate risk management policies and programs.
+Our Board has overall responsibility for overseeing our officers in the execution of these responsibilities and for assessing our overall approach to risk management.
+Additionally, while oversight of our risk management process is a full Board responsibility, the responsibility for monitoring financial risks has been delegated to the Board's audit committee. The audit committee meets periodically with management to review our major financial risk exposures and the steps our management has taken to monitor and control such exposures. Such risk exposures and steps are reported by the audit committee to the full Board.
+The Board's role in risk oversight has not had any effect on the Board's leadership structure.
+Our Director Nominations Process
+We do not have a standing nominating committee as because of our size as well as the current size of our Board, the Board believes that it is appropriate for the Board as a whole to perform the functions of a nominating committee. Consequently, our Board is responsible for approving candidates for Board membership.
+Criteria for Directors
+Our Board believes that certain criteria should be met by director nominees to ensure effective corporate governance, support the Company's strategies and businesses, account for individual director attributes and the effect of the overall mix of those attributes on the Board's effectiveness, and support the successful recruitment of qualified candidates for the Board. Qualified candidates are those who, in the judgment of the Board, possess certain personal attributes and a sufficient mix of experience and related attributes to assure effective service on the Board. The personal attributes of director nominees that the Board considers include:
+[BEGIN TABLE]
+• Experience. Each candidate should possess professional and personal experiences and expertise relevant to the Company's business operations.  
+[END TABLE]
+[BEGIN TABLE]
+• Best Interests of All stockholders. Each candidate must be prepared to represent the best interests of all stockholders and not just one particular constituency;   
+[END TABLE]
+[BEGIN TABLE]
+• Active Participation. Each candidate must be prepared to participate fully in Board activities, including attendance at, and active participation in, meetings of the Board and the committee(s) of which he or she is a member, and not have other personal or professional commitments that would, in the Board's sole judgment, interfere with or limit his or her ability to do so;  
+[END TABLE]
+[BEGIN TABLE]
+• Independence. No candidate, or family member or affiliate or associate (as defined in federal securities laws) of a candidate, shall have any material personal, financial or professional interest in any present or potential competitor of the Company;  
+[END TABLE]
+[BEGIN TABLE]
+• Collegiality. Each candidate should contribute positively to the existing chemistry and collegial culture among Board members; and  
+[END TABLE]
+[BEGIN TABLE]
+• Diversity. Each candidate should contribute to the Board's overall diversity – diversity being broadly construed to mean a variety of viewpoints, perspectives, personal and professional experiences and backgrounds, such as nationality, gender and ethnicity differences.  
+[END TABLE]
+Processes for Identifying Director Candidates
+The Board has two principal methods for identifying potential Board candidates (other than those proposed by stockholders, as discussed below). First, the Board solicits ideas for possible candidates from a number of sources, including other members of the Board, senior executives, individuals personally known to Board members and research.
+The Board will also consider nominees recommended by the Company's stockholders as candidates for Board membership. A stockholder wishing to nominate a candidate for Board membership should provide written notice to the Board at the following address: 201 Spear Street, Suite 1100, San Francisco, California 94105. To nominate a candidate for election to the Board at an annual meeting, the notice must be received not less than 120 days before the first anniversary of the date of the Company's Proxy Statement released to stockholders in connection with the annual meeting held in the prior year. The notice should contain information about both the nominee and the stockholder making the nomination, including such information regarding each nominee required to be included in a proxy statement filed pursuant to SEC rules and regulations and such other information sufficient to allow the Board to determine if the candidate meets the criteria for Board membership described above. The Board may require that the proposed nominee furnish additional information to determine that person's eligibility to serve as a director. All recommendations will be brought to the attention of the Board.
+Evaluation of Director Candidates
+The Board will consider and evaluate all candidates identified through the processes described above, including incumbents and candidates proposed by stockholders.
+If, based upon Board's initial evaluation, the candidate continues to be of interest, members of the Board may interview the candidate and communicate their evaluation to the rest of the Board. Additional meetings between the candidate and other members of the Board may also be arranged. Ultimately, background and reference checks may also be conducted by the Board.
+The Committees of the Board
+Due to the Company's current size, the only committee of the Board is an audit committee. The Board currently does not have a nominating or compensation committee and the functions normally performed by such committees are performed by the Board as a whole.
+Compensation Committee Functions
+The Board believes that because of the limited number of executives and employees currently employed by the Company and that the Board is currently composed of four directors, that having a separate compensation committee is not necessary. Since the Company currently does not have a compensation committee or other committee of the Board performing similar functions, executive officer compensation is determined by the entire Board. The Board determines our compensation objectives, philosophy and forms of compensation and benefits for executive officers. Executive compensation decisions are generally made by the Board after our fiscal year end and when our financial statements for such year are finalized. The Board continually reviews and considers best practices in executive compensation and stockholder expectations, as well as the size and financial results of the Company in making its decisions regarding appropriate compensation levels. Mr. Hinshaw, our former President and Chief Executive Officer and Mr. Budoi, our current Interim President and Chief Executive Officer, are the only officers or employees of the Company who participated in deliberations of the Company's Board concerning executive officer compensation. However, each of Mr. Budoi and Mr. Hinshaw excused themselves from the Board's discussions concerning the compensation of our President and Chief Executive Officer.
+The Board currently does not delegate any of its authority to make compensation decisions to any other person and neither the Board no Company management has ever used a compensation consultant to determine or recommend the amount or form of executive or director compensation.
+Audit Committee and Charter
+We have a separately-designated audit committee of the Board that is currently comprised of the following directors: Gregg Budoi, Nii Quaye and Matthew Kruchko of which Mr. Quaye and Mr. Kruchko are determined to be independent directors under the standards established by the NASDAQ Stock Market.
+According to our audit committee charter, which is available on our website at http://investors.mcorp.cx, our audit committee is responsible for: (1) selection and oversight of our independent accountant; (2) establishing procedures for the receipt, retention and treatment of complaints regarding accounting, internal controls and auditing matters; (3) establishing procedures for the confidential, anonymous submission by our employees of concerns regarding accounting and auditing matters; (4) engaging outside advisors; and, (5) funding for the outside auditory and any outside advisors engagement by the audit committee.
+Audit Committee Financial Expert
+Our Board has also determined that each of Mr. Quaye and Mr. Kruchko (who are each independent directors under the standards established by the NASDAQ Stock Market) qualify as an "audit committee financial expert" as defined in applicable SEC rules.
+Code of Ethics
+We have adopted a corporate code of ethics. We believe our code of ethics is reasonably designed to deter wrongdoing and promote honest and ethical conduct; provide full, fair, accurate, timely and understandable disclosure in public reports; comply with applicable laws; ensure prompt internal reporting of code violations; and provide accountability for adherence to the code.
+Whistleblower Policy
+We have adopted a whistleblower policy that provides for the protection of our employees from our retaliation where an employee believes that we are violating some law, rule or regulation and wants to disclose the same to proper authorities or to the public at large.  This policy further provides a mechanism whereby the employee may disclose the information to us in a confidential manner and may possibly resolve the issue without the need of going to third parties outside of our organization.
+Stockholder Communications with Board
+Stockholders who wish to communicate with the Board should send written correspondence to the Board in the care of the Secretary, McorpCX, Inc., 201 Spear Street, Suite 1100, San Francisco, California 94105. The correspondence should indicate that the person sending the correspondence is a stockholder and set out the purpose of such communication. The secretary will: (i) forward the correspondence to the director to whom it is addressed or, in the case of correspondence addressed to the Board generally, to the Chairman of the Board; (ii) attempt to handle the inquiry directly where it is a request for information about the Company; or (iii) not forward the correspondence if it is primarily commercial in nature or if it relates to an improper topic. All such correspondence will be summarized for the Board periodically, and each such correspondence will be made available to any director upon request.
+Section 16(a) of the Securities Exchange Act of 1934
+Section 16(a) of the Securities Exchange Act of 1934, as amended ("Exchange Act") requires our executive officers and directors, and persons who beneficially own more than 10% of our equity securities, to file reports of ownership and changes in ownership with the SEC. Officers, directors and greater than 10% stockholders are required by SEC regulation to furnish the Company with copies of all Section 16(a) forms they file. Based upon a review of information available to us and a review of the information filed with the SEC, with the exception of two Form 3s that were filed late, all officers, directors and owners of 10% or more of our Shares have filed all reports required by Section 16(a) of the Exchange Act for the year ended December 31, 2017.
+EXECUTIVE COMPENSATION
+On February 1, 2011, we entered into an employment agreement with Lynn Davison, pursuant to which she agreed to serve as our Vice President. This initial agreement provided for an annual base salary of $132,000, but was subsequently increased to $162,000 effective August 22, 2014.  In addition, Ms. Davison is eligible for bonus compensation as established by us from time to time. On February 7, 2011, we granted Ms. Davison 10-year options, with an exercise price of $0.35 per share, to purchase 300,000 Shares.  A Board resolution dated December 17, 2015 later reset the exercise price of these options to $0.05 per share.  On September 3, 2013, we granted Ms. Davison additional 10-year options, with an exercise price of $0.40 per share, to purchase 300,000 shares of our common stock.  The options granted in 2011 vest as follows:  20% six months after the grant date, and 20% every six months thereafter until all options are fully vested while the options granted in 2013 have the following vesting schedule: i) 20% on the one year anniversary of the grant date, ii) 20% on the eighteen month anniversary of the grant date, iii) 20% on the two year anniversary of the grant date, iv) 20% on the thirty month anniversary of the grant date, and (v) the remaining 20% on the three year anniversary of the grant date. 
+On May 15, 2015, we granted Ms. Davison additional 10-year options, with an exercise price of $0.75 per share, to purchase 100,000 shares of our common stock.  The options granted in 2015 vest as follows:  20% six months after the grant date, and 20% every six months thereafter until all options are fully vested.
+On May 15, 2016 the Company entered into an employment agreement with Stephen Shay pursuant to which he agreed to serve as our Vice President.  This initial agreement provided for an annual base salary of $240,000.  In addition, Mr. Shay is eligible for bonus compensation as established by us from time to time.
+On May 15, 2015, we granted Mr. Shay 10-year options, with an exercise price of $0.75 per share, to purchase 600,000 Shares.  The options granted in 2015 vest as follows:  20% six months after the grant date and 20% every six months thereafter until all options are fully vested.
+While he was serving as our President and Chief Executive Officer, Michael Hinshaw did not have a written employment agreement with the Company. However, pursuant to the terms of a verbal agreement between Mr. Hinshaw and the Company, Mr. Hinshaw received an annual base salary of $300,000 for his executive services as the Company's President and Chief Executive Officer.
+In connection with his appointment as the Company's President and Chief Executive Officer, the Company and Mr. Budoi have entered into an executive employment agreement dated August 16, 2018, under which Mr. Budoi will be paid a base salary of $204,000 subject to an adjustment to $300,000 upon the occurrence of any of the following events: (i) the Company raises an aggregate of at least $5.0 million in connection with the new issuance of any form of equity securities, or (ii) the acquisition of another company with annual revenues that when combined with the Company's revenues over that previous 12 calendar month period equals $5.0 million or more on an annualized pro forma basis.
+Mr. Budoi's employment agreement also provides that Mr. Budoi will be entitled to receive a one-time signing bonus of $100,000 contingent upon the achievement of certain milestone events, including (i) the completion of an equity financing in excess of $5.0 million, (ii) the completion of an acquisition of a new business with annualized revenues (which when combined with the Company's annual revenues over the previous 12 months) that are in excess of $5.0 million per year, or (iii) the determination by the Board that Mr. Budoi has successfully executed a strategic plan developed by the Board that includes the acquisition and/or disposition of material assets or business operations in a transaction approved by the Board and the Company's shareholders, if required, in each case to be achieved prior to the one year anniversary of the effective date of Mr. Budoi's employment agreement.
+In addition, Mr. Budoi will be entitled to participate in the Company's employee benefit plans and receive stock options under the Company's stock option plan. Mr. Budoi's employment is for an initial term expiring October 31, 2018 with automatic renewals (subject to right of the Company and Mr. Budoi to elect not to renew) for additional one month periods. Upon the initial expiration of the employment agreement on October 31, 2018, Mr. Budoi and the Company agreed to amend the employment agreement as follows:
+[BEGIN TABLE]
+   (a)   For the months of November and December 2018 Mr. Budoi agreed to not receive any compensation and effective January 1, 2019, Mr. Budoi's base salary shall be reduced to $60,000 subject to an adjustment by the Board in connection with the determination by the Board that Mr. Budoi has successfully executed a strategic plan developed by the Board that may include the acquisition, joint venture, licensing and/or merger of new business operations or technology in a transaction approved by the Board and the Company's shareholders, if required, in each case to be achieved prior to the one year anniversary of the effective date of Mr. Budoi's employment agreement.  
+[END TABLE]
+[BEGIN TABLE]
+   (b)   Mr. Budoi's one-time signing bonus shall be increased to an amount of up to $200,000 contingent upon the determination by the Board that Mr. Budoi has successfully executed a strategic plan developed by the Board that may include the acquisition, joint venture, licensing and/or merger of new business operations or technology in a transaction approved by the Board and the Company's shareholders, if required, in each case to be achieved prior to the one year anniversary of the effective date of Mr. Budoi's employment agreement.  
+[END TABLE]
+The Board also granted Gregg Budoi 290,000 stock options with an exercise price of $0.30(Canadian). The options vest incrementally in three roughly equal installments on August 16, 2019, August 16, 2020 and August 16, 2021, respectively. The stock options are subject to accelerated vesting in connection with a change in control of the Company, pursuant to the terms of the Company's Amended and Restated Stock Option Plan.
+In connection with his appointment as President of McorpCX, LLC in August 2018, Michael Hinshaw has entered into an executive compensation agreement with McorpCX, LLC under which he will be paid a base salary of $250,000 and will be entitled to receive the following additional incentive remuneration (collectively, "Variable Compensation"):
+[BEGIN TABLE]
+● Quarterly payments equal to (i) 2.5% of all gross revenues generated by McorpCX, LLC, plus (ii) an additional 2.5% (for a total of 5%) of all gross revenues generated by McorpCX, LLC  in excess of $5.0 million per year, and  
+[END TABLE]
+[BEGIN TABLE]
+● An amount up to 10% of the aggregate of all fees received by McorpCX, LLC from existing Clients of McorpCX, LLC for projects that were not agreed to as of the effective date of Mr. Hinshaw's  employment agreement ("New Projects"), and for all projects with clients of the McorpCX, LLC that were not clients of the McorpCX, LLC as of the effective date of Mr. Hinshaw's employment agreement ("New Clients"), where such New Projects or projects from New Clients were originated  by Mr. Hinshaw, provided that the aggregate sales commission paid to both Mr. Hinshaw and to  other persons related to the same New Project or project from a New Client will not exceed 15%  of the total fees received by McorpCX, LLC on such New Project or project from a New Client.  
+[END TABLE]
+In addition, Mr. Hinshaw will be entitled to participate in any deferred compensation plan that may be adopted by McorpCX, LLC reflecting Mr. Hinshaw's right to receive awards from a share of the deferred compensation pool that will be comprised of up to 50% of the annual cash flow of McorpCX, LLC, which will include net income (i) plus depreciation and amortization expense, (ii) less principal payments made on any indebtedness, and (iii) less any capital expenditures paid in cash during a fiscal year.
+The initial term of Mr. Hinshaw's employment is six months from the date of his employment agreement, with automatic renewals (subject to right of McorpCX, LLC and Mr. Hinshaw to elect not to renew) for additional three month periods. McorpCX, LLC may terminate Mr. Hinshaw's employment without cause (or Mr. Hinshaw can terminate the agreement upon good reason) in which case Mr. Hinshaw is entitled to payment of six months' salary as severance plus all Variable Compensation earned by Mr. Hinshaw during the previous twelve months.
+The following table sets forth information with respect to compensation paid by us to our "named executive officers" (which includes our principle executive officer or "PEO" and our two highest compensated officers in 2017 outside of our PEO) for each of the last two years.
+Summary Compensation Table
+[BEGIN TABLE]
+ (a)   (b)     (c)       (d)       (e)       (f)       (g)       (h)     (i)     (j)        
+ (a)   (b)     (c)       (d)       (e)       (f)       (g)       (h)     (i)     (j)        
+ Name and                   Stock       Option       Incentive Plan       Compensation     All Other        
+ Principal       Salary       Bonus       Awards       Awards       Compensation       Earnings     Compensation     Totals    
+ Position    Year     ($)       ($)       ($)       ($)       ($)       ($)     ($)     ($)    
+ President & CEO[1]   2016    300,000     0     0     0     0     0    23,649[2]    323,649   
+ Lynn Davison   2017    152,227     20,000     0     0     0     0    15,316[3]    187,543   
+ COO   2016    149,244     12,000     0     0     0     0    8,218[3]    169,462   
+ Stephen Shay   2017    230,000     0     0     0     0     0    6,000[4]    236,000   
+ Vice President   2016    240,000     0     0     0     0     0    6,000[4]    246,000   
+ [1]   Mr. Hinshaw resigned as the Company's President and Chief Executive Officer in August 2018, and was appointed the President of the Company's wholly owned subsidiary, McoprCX, LLC at such time.  
+ [2]   All other compensation for Michael Hinshaw for each of the years ended 2017 and 2016 consisted of payments for health insurance in the amount of $25,601 and 22,115, respectively. For the year ended 2016 payments were made in the amount of $1,534 for an automobile lease.  
+ [3]   All other compensation for Lynn Davison for each of the years ended 2017 and 2016 consisted of payments for health insurance.  
+ [4]   All other compensation for Stephen Shay for each of the years ended 2017 and 2016 consisted of cash payments to Mr. Shay intended to cover the cost of health insurance premiums.  
+[END TABLE]
+The following table sets forth information with respect to compensation paid by us to our non-employee directors (all directors except Mr. Hinshaw and Mr. Budoi) during the last completed fiscal year ending December 31, 2017. Neither Mr. Hinshaw nor Mr. Budoi received any compensation to serve on the Board
+Director Compensation Table
+[BEGIN TABLE]
+ (a)     (b)       (c)       (d)       (e)       (f)       (g)       (h)    
+     Fees                         Nonqualified                
+     Earned or                   Non-Equity       Deferred                
+     Paid in        Stock       Option       Incentive Plan       Compensation       All Other          
+     Cash       Awards       Awards       Compensation       Earnings       Compensation       Total    
+ Name     ($)       ($)       ($)       ($)       ($)       ($)       ($)    
+ Ashley Garnot(1)    0     0     0     0     0     12,500(2)     12,500   
+ Hugh Rogers(3)    0     0     0     0     0     0     0   
+ Graham Clark(4)    0     0     0     0     0     183,633(5)     183,633   
+ Chris Beltgens (6)    0     0     0     0     0     0     0   
+ Nii Quaye(7)    10,000     0     0     0     0     25,000(8)     35,000   
+ Matthew Kruchko(9)    0     0     0     0     0     26,400(10)     26,400   
+[END TABLE]
+[BEGIN TABLE]
+   (1)   Ms. Garnot resigned from the Company's board of directors on August 15, 2017.  
+   (2)   Fees earned by Ms. Garnot for consulting services provided to Company by Ms. Garnot during the fiscal year ended 2017.  
+   (3)   Mr. Rogers resigned from the Company's board of directors on February 1, 2017.  
+   (4)   Mr. Clark was appointed to the Company's board of directors on February 1, 2017 and resigned on May 19, 2017.  
+   (5)   $338,848 in fees were earned by Customer Results, LLC, of which Mr. Clark is the managing member and majority equity holder, for consulting services provided to the Company during the fiscal year ended 2017. Of these fees, Mr. Clark was entitled to $183,633 through his ownership interest in Customer Results, LLC.  
+   (6)   Mr. Beltgens was appointed to the Company's board of directors on May 25, 2017 and resigned on August 25, 2017.  
+   (7)   Mr. Quaye was appointed to the Company's board of directors on August 31, 2017.  
+   (8)   Fees earned by Mr. Quaye for consulting services provided to the Company by Mr. Quaye from January 2017 to June 2017.  
+   (9)   Mr. Kruchko was appointed to the Company's board of directors on August 31, 2017.   
+   (10)   Fees earned by Mr. Kruchko for consulting services provided to the Company by Mr. Kruchko during the fiscal year ended 2017.  
+[END TABLE]
+Non-employee members of our Board of Directors receive stock options granted under the Company's Amended and Restated Stock Option Plan (the "Plan") as consideration for their services on our Board of Directors. Each director was awarded option grants in amounts proportionate to their level of involvement with the activities of the Board (meeting attendance, service on committees, etc.). On August 7, 2013, we entered into an independent contractor agreement with Ashley Garnot, pursuant to which she agreed to provide consulting services to the company. Ms. Garnot's agreement provided for monthly compensation of $2,500 as invoiced. Additionally, in August 2017, the Company decided to pay a $2,500 monthly fee to our non-employee directors in consideration for their service on our board of directors. Mr. Quaye received $10,000 in total fees for his service on our board of directors in 2017 as a result of this program, while Mr. Kruchko declined to receive any fees in 2017. In 2018, both of our non-employee directors have been receiving the $2,500 monthly fee for their service on our board of directors.
+On August 16, 2018, the Company granted 200,000 stock options to each of Mr. Quaye and Mr. Kruchko. These options had an exercise price of $0.30 (Canadian) and vested incrementally in roughly equal amounts on August 16, 2019, 2020 and 2021.
+There are no retirement, pension, or profit sharing plans for the benefit of our officers and directors other than the Plan. Securities offered under the Plan will consist exclusively of our Shares. The aggregate number of shares of common stock reserved for issuance under the Plan is fixed at 10% of the total number of issued and outstanding Shares from time to time, such that the Shares reserved for issuance under the Plan will increase automatically with increases in the total number of Shares issued and outstanding.
+If an option awarded under the Plan expires, is surrendered in exchange for another option, or terminates for any reason during the term of the Plan prior to its exercise in full, the Shares subject to but not delivered under such option will be available for issuance pursuant to the exercise of future options granted under the Plan.
+The following table sets forth information with respect to outstanding equity awards held by our named executive officers at December 31, 2016.
+Outstanding Equity Awards at December 31, 2017
+[BEGIN TABLE]
+                 Equity Incentive                     Equity Incentive    
+     Number of       Number of       Plan Awards:               Number of       Plan Awards:    
+     Securities       Securities       Securities               Shares       Number of    
+     Underlying       Underlying       Underlying               Or Units of       Unearned    
+     Unexercised       Unexercised       Unexercised       Option     Option     Stock       Shares,    
+     Options       Options       Unearned       Exercise     Expiration     that have not       Units that    
+ Name     Exercisable       Unexercisable       Options       Price     Date     Vested       have not vested    
+ (a)     (b)       (c)       (d)       (e)     (f)     (g)       (h)    
+ Lynn Davison    300,000     0     0         $0.05[1]     2/7/2021    0     0   
+    300,000     0     0     $0.40    9/3/2023    0     0   
+    100,000     0     0     $0.75    5/15/2025    0     0   
+ Stephen Shay    600,000     0     0     $0.75    5/16/2025    0     0   
+ Gregg Budoi    290,000     290,000     0     $0.23    8/16/2023    0     0   
+[END TABLE]
+[BEGIN TABLE]
+ [1]   The option exercise price was set at $0.35 per share with a provision to reset if subsequent common stock offerings are made at a lower stock price. There was a subsequent private placement at $0.01 per share, lowering the option exercise price from $0.35 to $0.01. A Board resolution dated December 17, 2015 further reset the exercise price of these options to $0.05 per share.  
+[END TABLE]
+Compensation Committee Interlocks and Insider Participation
+Since the Company currently does not have a compensation committee or other committee of the Board performing similar functions, executive officer compensation is determined by the entire Board. With the exception of Mr. Hinshaw, no member of the Board was, during the year ended December 31, 2017, an officer, former officer or employee of the Company or any of its subsidiaries, or had any relationship requiring disclosure by the Company under the SEC rules requiring disclosure of certain relationships and related party transactions.  No executive officer of the Company served as a member of (i) the compensation committee of another entity in which one of the executive officers of such entity served on the Board, (ii) the board of directors of another entity in which one of the executive officers of such entity served on the Board, or (iii) the compensation committee of another entity in which one of the executive officers of such entity served as a member of the Board, during the year ended December 31, 2017.
+CERTAIN RELATIONSHIPS AND TRANSACTIONS
+Related Party Transactions
+Other than in connection with the fees paid to Customer Results, LLC, an entity controlled by our former director Mr. Graham Clark, for consulting services provided to the Company by Customer Results, LLC as described above under "Director Compensation Table", the Company did not engage in any transactions with related parties requiring disclosure under Item 404 of Regulation S-K under the Securities Act since January 1, 2017 and there are currently no such transactions proposed. 
+Review and Approval of Related Party Transactions
+The Board understands that related party transactions can present a heightened risk of potential or actual conflicts of interest and may create the appearance that Company decisions are based on considerations other than the best interests of the Company and its stockholders. As a result, the Board prefers to avoid related party transactions. However, the Board recognizes that there are situations where related party transactions may be in, but may not be inconsistent with, the best interests of the Company and its stockholders.
+As a result, the Board is responsible for reviewing and approving the terms and conditions of all proposed transactions between us, any of our officers, directors or stockholders who beneficially own more than 5% of our outstanding Shares, or relatives or affiliates of any such officers, directors or stockholders, to ensure that such related party transactions are fair and are in our overall best interest and that of our stockholders.
+The Board has not adopted any specific procedures for conduct of reviews and considers each transaction in light of the facts and circumstances. In the course of its review and approval of a transaction, the Board considers, among other factors it deems appropriate:
+[BEGIN TABLE]
+• whether the transaction is fair and reasonable to us;  
+[END TABLE]
+[BEGIN TABLE]
+• the business reasons for the transaction; and  
+[END TABLE]
+[BEGIN TABLE]
+• whether the transaction is material, taking into account the significance of the transaction.  
+[END TABLE]
+Any member of the Board who is a related person with respect to a transaction under review may not participate in the deliberations or vote respecting approval or ratification of the transaction, provided, however, that such director may be counted in determining the presence of a quorum at a meeting of the Board that considers the transaction.
+SECURITY OWNERSHIP OF CERTAIN BENEFICIAL OWNERS AND MANAGEMENT
+The following table sets forth, as of December 14, 2018 the total number of shares owned beneficially by each of our directors, director nominees and named executive officers, individually and directors and all executive officers as a group, and the present owners of 5% or more of our total outstanding Shares. Shares subject to options and warrants exercisable within 60 days from the date of this table are deemed to be outstanding and beneficially owned for purposes of computing the number of shares held and the percentage ownership of such each individual but are not treated as outstanding for purposes of computing the percentage ownership of others.
+The information in this table reflects "beneficial ownership" as defined in Rule 13d-3 of the Exchange Act. We have determined beneficial ownership in accordance with the rules of the SEC or other information we believe to be reliable. Except as indicated by the footnotes below, we believe, based on the information furnished to us, that the persons and entities named in the table below have sole voting and investment power with respect to all Shares that they beneficially own, subject to applicable community property laws where applicable.
+Applicable percentage ownership is based on 20,426,158 Shares outstanding as of December 14, 2018.
+[BEGIN TABLE]
+   Shares of Common Stock  
+   Beneficially Owned  
+ Name and Address of Beneficial Owner   Number%  
+ Michael Hinshaw   5,200,000   25.46%  
+ 201 Spear Street, Suite 1100      
+ San Francisco, CA 94105      
+ Lynn Davison   700,000[1]   3.31%  
+ 201 Spear Street, Suite 1100      
+ San Francisco, CA 94105      
+ Stephen Shay   600,000[2]   2.85%  
+ 201 Spear St. Suite 1100      
+ San Francisco, CA 94105      
+ Mathew Kruchko   0   *  
+ 30 Berkshire Park Dr.      
+ Chagrin Falls, OH 44022      
+ Nii Quaye   0   *  
+ 1732 Ruston Lane,      
+ Redondo Beach, CA 90278      
+ Gregg Budoi 201 Spear Street, Suite 1100 San Francisco, CA   0   *  
+ Gregg Budoi 201 Spear Street, Suite 1100 San Francisco, CA   0   *  
+ All officers and directors as a group (7 individuals)   6,600,000[7]   29.92%  
+ Alex Guidi [3]   2,762,302   13.52%  
+ 2040 – 885 West Georgia Street      
+ Vancouver, British Columbia V6C 3E8      
+ Eva Lundin[4]  6 Rue de Rive 1204 Geneva, Switzerland   2,900,000   14.20%  
+ Eva Lundin[4]  6 Rue de Rive 1204 Geneva, Switzerland   2,900,000   14.20%  
+ Peter Loretto[5] 350-6165 Highway 17 Delta, British Columbia V4K 5B8   1,443,262   7.07%  
+ Peter Loretto[5] 350-6165 Highway 17 Delta, British Columbia V4K 5B8   1,443,262   7.07%  
+[END TABLE]
+[BEGIN TABLE]
+ [1]   Includes 700,000 Shares issuable pursuant to presently exercisable stock options.    
+[END TABLE]
+[BEGIN TABLE]
+ [2]   Includes 600,000 Shares issuable pursuant to presently exercisable stock options.    
+[END TABLE]
+[BEGIN TABLE]
+ [3]   Based on Schedule 13D filed by the reporting person with the SEC on February 24, 2016.  
+[END TABLE]
+[BEGIN TABLE]
+ [4]   Based on Schedule 13G filed by the reporting person with the SEC on February 18, 2016.  
+[END TABLE]
+[BEGIN TABLE]
+ [5]   Based on Schedule 13G filed by the reporting person with the SEC on February 11, 2016. Mr. Loretto has sole voting and dispositive power over 1,425,000 Shares and has shared voting and dispositive power over the remaining 18,262 Shares he beneficially owns.  
+[END TABLE]
+Securities Authorized for Issuance under Equity Compensation Plans
+The following table presents information as of December 31, 2017 with respect to compensation plans under which Shares may be issued.
+[BEGIN TABLE]
+       Number of securities  
+   Number of securities to   Weighted-average   remaining available for be issued upon exercise   exercise price of   Future issuance under of outstanding options,   outstanding options,   equity compensation plans warrants and rights   warrants and rights   (excluding securities  
+ Plan category   (a)   (b)   in column (a)) (c)  
+ Equity compensation plans approved by security holders   1,350,000   $0.70   692,616  
+ Equity compensation plans not approved by securities holders   None   None   None  
+ Total   1,350,000   $0.70   692,616  
+[END TABLE]
+PROPOSAL 2 – MCORPCX, INC. AMENDED AND RESTATED STOCK OPTION PLAN
+The Plan originally became effective on January 15, 2016 and was approved by the Company's shareholders on August 10, 2018 and November 9, 2017. We are asking the Company's shareholders to approve the Plan, as the rules of the TSX Venture Exchange (the "TSX-V Exchange") require the Company's shareholders annually approve the Plan. Consequently, the Board is seeking shareholder approval of the Plan at the Annual Meeting.
+The purpose of the Plan is to promote to the interests of the Company and its stockholders by attracting, retaining, and stimulating the performance of selected employees and consultants, including officers and directors, and giving such employees, management, directors, and consultants the opportunity to acquire a proprietary interest in the Company's business and an increased personal interest in its continued success and progress as well as increasing the productivity of those individuals whom the Board deems to have the potential to contribute to the success of the Company. The Plan seeks to achieve this purpose by providing for awards to participants in the form of incentive stock options and non-qualified stock options.
+The Company received shareholder approval of the Plan on August 10, 2016 and November 9, 2017, whereby 10% of the number of issued and outstanding shares of the Company at any given time may be reserved for issuance pursuant to the exercise of options. The Plan amended and restated the Company's original stock option plan dated January 25, 2008 (the "Original Plan"). All stock options granted under the Original Plan remain in full force and effect as stock options under the Plan without amendment other than as required to conform such original stock options to the terms and conditions of the Plan. As of the Record Date 2,050,000 unexercised stock options were issued and outstanding.
+The Plan is designed to ensure that certain awards granted under the Plan will qualify as "performance-based compensation" within the meaning of Section 162(m) under the Internal Revenue Code of 1986, as amended ("Section 162(m)"). Section 162(m) provides that compensation paid to a "covered employee" in excess of $1 million in a taxable year is not deductible by the Company for federal income tax purposes. However, certain types of compensation, including performance-based compensation, are not subject to this limit.
+For these and other related reasons, the Board has determined that it is in the best interests of the Company for its stockholders to approve the Plan, as amended. The following summary of the Plan is qualified in its entirety by reference to the full text of the Plan, a copy of which is attached as Appendix A to this Proxy Statement.
+Eligibility
+All directors and officers of the Company, employees of the Company and management company employees (defined in the Plan to include individuals that either directly provide management services to the Company or are employed by a company that provides such services to the Company, excluding individuals or companies engaged in investor relations activities) and certain consultants (as defined in the policies of the TSX-V Exchange) are potentially eligible to receive awards under the Plan (each an "Eligible Participant"). Additionally, companies of whose entire share capital is beneficially owned by one or more individual Eligible Participants are eligible to receive awards under the Plan. Consultants will only be eligible to receive awards if they have furnished bona fide services to the Company and such services are not in connection with the offer or sale of securities in a capital-raising transaction. As of December 14, 2018, approximately 5 employees and directors are expected to participate in the Plan, including all of our directors, except for Mr. Hinshaw.
+Plan Administration
+The Plan will be administered by the Board's compensation committee or if there is no compensation committee appointed by the Board, then by the Board as a whole (the "Committee"). Except for the terms and conditions explicitly set forth in this Plan, the Committee will have the authority, in its discretion, to determine all matters relating to the award and issuance of Shares or the grant of stock options to be granted under this Plan, including the selection of individuals to be granted stock options, the number of Shares to be subject to each grant, the date of grant, the termination of the stock options, the term of the options, vesting schedules, and all other terms and conditions thereof. Such authority will also include the authority in the event of a spin-off or other corporate transaction to permit substitution of a stock option with a stock option from another company or an award denominated in something other than Shares. Grants under the Plan to Eligible Participants need not be identical in any respect, even when made simultaneously. The Committee will also determine and approve whether the grant of stock options will consist of an incentive stock option as described in Section 422 of the Internal Revenue Code of 1986, as amended (the "Code"), or a non-qualified stock option, which will consist of any stock option other than an incentive Stock Option
+Shares Subject to the Plan
+The aggregate number of Shares reserved for issuance under this Plan will be fixed at 10% of the total number of issued and outstanding Shares from time to time, such that the Shares reserved for issuance under the Plan will increase automatically with increases in the total number of Shares issued and outstanding. The prescribed maximum percentage may be subsequently increased to any other specified amount, provided the change is authorized by a vote of the stockholders of the Company in accordance with the policies of the TSX-V Exchange.
+If a stock option expires, is surrendered in exchange for another stock option, or terminates for any reason during the term of the Plan prior to its exercise in full, the Shares subject to but not delivered under such stock option will be available for stock options thereafter granted and for replacement stock options which may be granted in exchange for such surrendered or terminated stock options. Shares which has been issued pursuant to the exercise of stock options granted under the Plan since the inception of the Plan will not be considered to reduce the maximum number of Shares which may be issued to Eligible Participants under stock options issued and outstanding pursuant to this Plan.
+Awards to Participants
+Awards that may be granted under the Plan consist of incentive stock options and non-qualified stock options. The Plan provides for the grant of incentive stock options (commonly referred to as ISOs) to employees of the Company or any subsidiary of the Company and non-qualified stock options (commonly referred to as NSOs) to all Eligible Participants. A stock option designated by the Committee as an incentive stock option" is intended to qualify as an "Incentive Stock Option" within the meaning of Subsection (b) of Section 422 of the Code. To the extent that the aggregate fair market value (determined at the time the stock option is granted) of the Shares with respect to which incentive stock options are exercisable for the first time by the optionee during any calendar year (under the Plan and all other incentive stock option plans of the Company) exceed $100,000, such stock options will be treated as NSOs and will not qualify as ISOs.
+The Committee determines the terms of options, such as price, expiration date and other material conditions, provided that ISOs are subject to statutory limitations. The Committee determines the exercise price for a stock option, within the terms and conditions of the Plan and applicable law. The exercise price of a nonqualified stock option may not be less than 100% of the fair market value of the Shares on the date of grant unless in substitution for another option. The exercise price of an ISO may not be less than 100% (or 110% in the case of a recipient who is also a 10% stockholder) of the fair market value of the Shares on the date of grant. Additionally, in accordance with the terms of the Plan, the price at which Shares may be purchased upon the exercise of any stock option will not be less than (i) the Discounted Market Price (as defined in the policies of the TSX-V Exchange) if the Shares are listed on the TSX-V Exchange at the time of the grant, or (ii) 85% of the Fair Market Value (as defined in the Plan) if the Shares are not listed on the TSX-V Exchange at the time of the grant of the stock option.
+Stock options granted under the Plan will vest at the rate specified by the Committee up to five years from the date of grant, with the vesting schedule or performance conditions for each stock option to be set forth in the stock option agreement for such option grant.
+After termination of an optionee's service relationship with the Company, all unvested stock options will immediately terminate and all vested stock options will expire 90 days after the termination date of such optionee's service relationship with the Company except (i) to the extent provided in such optionee's employment agreement, or (ii) in the case of death of an optionee holding vested stock options, by such optionee's lawful personal representatives, heirs or executors until the earlier of one year after the date of death of such optionee or the expiry date of such option. Notwithstanding the forgoing, in the case of an optionee being dismissed from his or her service relationship with the Company for cause, such optionee's stock options, whether or not vested at the time of dismissal will immediately terminate without the right to exercise the same.
+In no event may the term of a stock option exceed 10 years from the date of grant.
+Amendment of Plan
+The Board may amend the terms of the Plan from time to time subject to any approval required from the TSX-V Exchange and, if required by the policies of the TSX-V Exchange, the stockholders of the Company.
+Term of the Plan
+The Plan will terminate on the earlier of January 25, 2020 or such earlier date as the Board may determine.
+Amounts of Awards
+Since specific grants under the Plan are discretionary, the actual number of awards to be paid under the Plan as proposed herein cannot be determined at this time. The awards earned by our named executive officers in the two-year period prior to 2018 are disclosed in this Proxy Statement under our "Summary Compensation Table".
+Taxation of Awards
+When a non-qualified stock option is exercised, the difference between the exercise price and the stock price on the date of exercise is taxable as ordinary income, and the Company is entitled to a tax deduction in the same amount, while any subsequent increase in the stock price is taxable as a capital gain. For an incentive stock option, there is no taxation on exercise of the option and all the gain is taxed on disposition of the stock by the participant as capital gain, so long as the participant holds the stock for at least one year after exercise and two years after the date of grant. If such holding period requirements are not met, the option exercise will be retroactively treated as the exercise of a non-qualified stock option for tax purposes and the participant will incur ordinary income tax. The exercise of an incentive stock option may also cause the participant to be subject to the alternative minimum tax upon exercise, which would require the participant to include the difference between the exercise price and the value of the stock on the date of exercise in the participant's taxable income for the purposes of calculating the amount of alternative minimum tax that would be owed. The Company is not allowed a tax deduction for an incentive stock option unless the participant sells the stock after exercise in a disqualifying disposition. 
+THE BOARD RECOMMENDS THAT STOCKHOLDERS VOTE "FOR" APPROVAL OF THE MCORPCX AMENDED AND RESTATED STOCK OPTION PLAN
+PROPOSAL 3 - INDEPENDENT ACCOUNTANTS AND AUDITORS
+Replacement of Hillary CPA Group, CPA as Independent Auditors
+The Board appointed MaloneBailey LLP as our independent auditors on February 15, 2016 in place of Hillary CPA Group, CPA, who voluntarily resigned as the Company's independent auditors effective on such date.
+The reports of Hillary CPA Group, CPA dated March 5, 2015 on the Company's financial statements for the fiscal years ended December 31, 2014 and 2013, respectively, did not contain an adverse opinion or disclaimer of opinion, or qualification or modification as to uncertainty, audit scope, or accounting principles.
+In connection with the audit of the Company's financial statements for the fiscal years ended December 31, 2014 and 2013, and in the subsequent interim periods through the effective date of resignation of Hillary CPA Group, CPA on February 15, 2016, there were no "disagreements" (as that term is defined in Item 304(a)(1)(iv) of Regulation S-K and the instructions to Item 304), resolved or not, with Hillary CPA Group, CPA on any matters of accounting principles or practices, financial statement disclosure or auditing scope or procedures, which disagreements, if not resolved to the satisfaction of Hillary CPA Group, CPA, would have caused Hillary CPA Group, CPA to make reference to the subject matter of the disagreements in connection with its reports on the financial statements for such years.
+During the fiscal years ended December 31, 2014 and 2013 and in any subsequent interim periods through the effective date of resignation of Hillary on February 15, 2016, there were no "reportable events" (as that term is defined in Item 304(a)(1)(v) of Regulation S-K).
+Ratification of Independent Auditors
+The Board requests that stockholders ratify the selection of MaloneBailey LLP as our independent auditors as a matter of good corporate practice.
+Stockholder ratification of the selection of MaloneBailey LLP is not required by our bylaws or other applicable legal requirements. However, the Board is submitting the selection of MaloneBailey LLP to our stockholders for ratification as a matter of good corporate practice. In the event that this selection of MaloneBailey LLP as our independent registered public accounting firm is not ratified by our stockholders at the Annual Meeting, the appointment of MaloneBailey LLP as our independent registered public accounting firm will be reconsidered by each of the Board and the Company's audit committee. Even if the selection is ratified, the Board in its discretion may direct the appointment of a different accounting firm at any time during the year if the Board determines that such a change would be in the best interests of the Company and its stockholders.
+We do not anticipate that representatives of MaloneBailey LLP or Hillary CPA Group, CPA will be present at the meeting to respond to questions about financial statements and related matters or to make a statement (though they will have the opportunity to make a statement at the meeting if they desire to do so).
+The selection of MaloneBailey LLP must be ratified by a majority of the votes cast at the Annual Meeting, in person or by proxy, in favor of such ratification.
+OUR BOARD RECOMMENDS A VOTE "FOR" THE RATIFICATION OF MALONEBAILEY LLP AS OUR INDEPENDENT AUDITORS.
+ACCOUNTANTS' FEES
+The following table presents fees for professional audit services for the audit of the Company's annual financial statements for fiscal year 2017 and 2016 and fees billed for other services rendered during 2017 and 2016:
+[BEGIN TABLE]
+     Year Ended December 31,    
+     Malone Bailey LLP    
+     2017       2016    
+ Audit Fees(1)    $ 44,500     $ 35,300   
+ Audit-Related Fees(2)    $ -     $ -   
+ Tax Fees(3)    $ -     $ -   
+ All Other Fees    $ -     $ -   
+[END TABLE]
+[BEGIN TABLE]
+ (1)   Audit Fees consist of fees for professional services rendered for the audit of the Company's consolidated financial statements included in its Annual Report on Form 10-K, the review of the interim financial statements included in its Quarterly Reports on Form 10-Q, and for the services that are normally provided in connection with regulatory filings or engagements.  
+ (2)   Includes fees associated with assurance and related services that are reasonably related to the performance of the audit or review of the Company's financial statements.  This category includes fees related to consultation regarding generally accepted accounting principles.  
+ (3)   Tax Fees consist of fees for tax compliance, tax advice and tax planning.  The fee includes the preparation of the Company's income tax returns, franchise tax reports, and other tax filings.  
+[END TABLE]
+Although our audit committee currently does not have a formal policy in place to pre-approve all audit and non-audit services provided by our independent auditor and the fees for such non-audit services, the Company's audit committee has adopted a policy to review on an annual basis the performance, objectivity and independence of our independent auditor.  
+AUDIT COMMITTEE REPORT
+The Company's audit committee monitors and oversees the Company's financial reporting process on behalf of our Board. Management has primary responsibility for the Company's financial statements and the financial reporting process, including the Company's system of internal controls.
+The audit committee met four times in the fiscal year ended December 31, 2017. Each member of the audit committee attended all of the meetings of the committee from the date on which they became a member of the audit committee.
+The audit committee has reviewed and discussed the audited financial statements of the Company for the year ended December 31, 2017 with the Company's management but did not discuss with MaloneBailey LLP the matters required to be discussed by Auditing Standard No. 16 (Communications with Audit Committees). The audit committee also did not discuss with MaloneBailey LLP the overall scope and plans for their audit. The audit committee did not meet with MaloneBailey LLP without management present during the year ended December 31, 2017, to discuss the results of their examinations, the evaluations of the Company's internal controls, and the overall quality of the Company's financial reporting.
+The audit committee has received the written disclosures and the letter from MaloneBailey LLP required by applicable requirements of the Public Company Accounting Oversight Board regarding MaloneBailey LLP's communications with the audit committee concerning independence.  The audit committee did not discuss with MaloneBailey LLP their independence.
+Based on the review and discussions referred to above, the audit committee recommended to the Board that the audited financial statements for the fiscal year ended December 31, 2017, be included in the Company's Annual Report on Form 10-K for that year for filing with the Securities and Exchange Commission.
+Respectfully submitted by:
+Michael Hinshaw
+Nii A. Quaye 
+Matthew Kruchko
+PROPOSAL 4 – NON-BINDING ADVISORY VOTE ON EXECUTIVE COMPENSATION
+The Company believes that the compensation policies for our named executive officers are designed to attract, motivate and retain talented executive officers and are aligned with the long-term interests of our stockholders. This advisory stockholder vote, commonly referred to as a "say-on-pay vote" gives you as a stockholder the opportunity to approve or not approve the compensation of our named executive officers that is disclosed in this Proxy Statement. This advisory stockholder vote occurs every year and will next occur at our annual meeting of stockholders to be held in 2020. This vote is not intended to address any specific item of executive compensation, but rather the overall compensation of our named executive officers and the philosophy, policies and practices described in this Proxy Statement. Accordingly, the Company asks that you indicate your support for our executive compensation policies and practices as described in this Proxy Statement by voting "FOR" the following resolution:
+RESOLVED that the Company's stockholders approve, on an advisory basis, the compensation of the Company's executives named in the Summary Compensation Table, as disclosed in the Company's 2018 Proxy Statement pursuant to the executive compensation disclosure rules of the Securities and Exchange Commission, which disclosure includes the compensation tables, narrative disclosure and other related tables and disclosure.
+Since this say-on-pay vote is advisory, it will not be binding on the Board. However, the Board values the opinions of our stockholders and will review the voting results and take them into consideration when making future decisions regarding executive compensation. The affirmative vote of the holders of a majority of the Shares represented in person or by proxy entitled to vote on the proposal will be required for approval.
+THE BOARD RECOMMENDS A VOTE "FOR" THIS PROPOSAL.
+STOCKHOLDER PROPOSALS
+Any proposal which a Stockholder wishes to include in the proxy statement and proxy relating to the 2020 annual meeting of stockholders as well as any nominations to our Board pursuant to Rule 14a-11 of the Exchange Act must be received by the Company on or before August 23, 2019. The Company reserves the right to reject, rule out of order, or take other appropriate action with respect to any proposal that does not comply with Rule 14a-8 under the Exchange Act and all other applicable requirements.
+Stockholders wishing to bring any other item before the 2018 annual meeting, other than in accordance with the process of Rule 14a-8 under the Exchange Act, must submit written notice of such proposal to the Company no later than November 6, 2019. If the Company receives notice of a stockholder proposal after November 6, 2018, such notice will be considered untimely and the Company's management will have discretionary authority to vote proxies received with respect to such proposal.
+IMPORTANT NOTICE REGARDING THE AVAILABILITY OF PROXY MATERIALS FOR THE ANNUAL MEETING
+The Proxy Statement and the Company's Form 10-K and all subsequent reports filed with the SEC are available on the Company's website at www.McorpCXcom.
+Information on how to obtain directions to be able to attend the Annual Meeting and vote in person are available by contacting to the Company's President and Chief Executive Officer , Gregg Budoi at McorpCX, Inc., 201 Spear Street, Suite 1100, San Francisco, California 94105, Telephone (415) 526-2655.
+The Company makes available, free of charge, the Proxy Statement, Annual Report on Form 10-K, Quarterly Reports on Form 10-Q, Current Reports on Form 8-K and amendments to these reports filed or furnished pursuant to Section 13(a) or 15(d) of the Exchange Act, as soon as reasonably practicable after these documents are electronically filed with, or furnished to, the SEC., to stockholders upon written request to Gregg Budoi, President and Chief Executive Officer McorpCX, Inc., 201 Spear Street, Suite 1100, San Francisco, California 94105.
+DUPLICATE ANNUAL REPORT AND PROXY STATEMENT
+If you are a stockholder of record and share an address with another stockholder and have received only one copy of the Proxy Statement, you may write or call the Company to request a separate copy of these materials at no cost to you. In addition, if you are a stockholder of record and share an address with another stockholder and have received multiple copies of the Proxy Statement, you may write or call the Company to request delivery of a single copy of such materials in the future. You may write to the Company at McorpCX, Inc., 201 Spear Street, Suite 1100, San Francisco, California 94105.
+OTHER MATTERS
+As of the date of this Proxy Statement, management has not been notified of any stockholder proposals intended to be raised at the Annual Meeting outside of the Company's proxy solicitation process nor does it know of any other matters, which will be presented for consideration at the Annual Meeting. However, if any other stockholder proposals or other business should come before the Annual Meeting, the persons named in the enclosed Proxy (or their substitutes) will have discretionary authority to take such action as is in accordance with their best judgment.
+MISCELLANEOUS
+The Company will pay all solicitation expenses in connection with this Proxy Statement and related Company proxy soliciting material, including the expense of preparing, printing, assembling and mailing this Proxy Statement and any other material used in the Company's solicitation of proxies. Proxies are being solicited through the mail. Certain executive officers and other employees of the Company, on behalf of the Company and without additional compensation, may also solicit proxies personally, by telephone or other electronic means.
+/s/ Gregg Budoi
+President and Chief Executive Officer
+December 21, 2018
+APPENDIX A
+MCORP CX, INC.
+(a California corporation)
+AMENDED AND RESTATED STOCK OPTION PLAN  (the "Plan")
+[BEGIN TABLE]
+ 1.   Purpose. The purpose of this Plan is to promote to the interests of the Company and its stockholders by attracting, retaining, and stimulating the performance of selected employees and consultants, including officers and directors, and giving such employees, management, directors, and consultants the opportunity to acquire a proprietary interest in the Company's business and an increased personal interest in its continued success and progress as well as increasing the productivity of those individuals whom the Committee deems to have the potential to contribute to the success of the Company.  
+[END TABLE]
+[BEGIN TABLE]
+ 2.   Definitions. Unless otherwise indicated, the following words when used herein will have the following meanings:  
+[END TABLE]
+[BEGIN TABLE]
+   (a)   "Board of Directors" means the board of directors of the Company.  
+[END TABLE]
+[BEGIN TABLE]
+   (b)   "Code" means the Internal Revenue Code of 1986, as amended from time to time.  
+[END TABLE]
+[BEGIN TABLE]
+   (c)   "Common Stock" means the shares of common stock, no par value in the capital of the Company.  
+[END TABLE]
+[BEGIN TABLE]
+   (d)   "Company" means McorpCX, Inc., a California corporation and its directly and indirectly-controlled subsidiaries, if any.  
+[END TABLE]
+[BEGIN TABLE]
+   (e)   "Committee" means the body appointed by the Board of Directors which will be comprised in such a manner as to comply with the requirements, if any, of Rule 16b-3 (or any successor rule) under the Exchange Act and of Section 162 of the Code.  
+[END TABLE]
+[BEGIN TABLE]
+   (f)   "Compensation Committee" means the compensation committee of the Board of Directors.  
+[END TABLE]
+[BEGIN TABLE]
+   (g)   "Consultant" has the meaning set out in the policies of the TSX-V.  
+[END TABLE]
+[BEGIN TABLE]
+   (h)   "Director" means a member of the Board of Directors.  
+[END TABLE]
+[BEGIN TABLE]
+   (i)   "Discounted Market Price" has the meaning set out in the policies of the TSX-V.  
+[END TABLE]
+[BEGIN TABLE]
+   (j)   "Effective Date" means January 15, 2016.  
+[END TABLE]
+[BEGIN TABLE]
+   (k)   "Eligible Participant" has the meaning set forth in Section 4 hereto.  
+[END TABLE]
+[BEGIN TABLE]
+   (l)   "Employee" means:  
+[END TABLE]
+[BEGIN TABLE]
+   (i)   an individual who is considered an employee under the Code;  
+[END TABLE]
+[BEGIN TABLE]
+   (ii)   an individual who works full-time for the Company or an affiliate of the Company providing services normally provided by an employee and who is subject to the same control and direction by the Company over the details and methods of work as an employee of the Company, but for whom income tax deductions are not made at source; or  
+[END TABLE]
+[BEGIN TABLE]
+   (iii)   an individual who works for the Company or an affiliate on a continuing and regular basis for a minimum amount of time per week providing services normally provided by an employee and who is subject to the same control and direction by the Company over the details and methods of work as an employee of the Company, but for whom income tax deductions need not be made at source,  
+[END TABLE]
+and may include an Officer.
+[BEGIN TABLE]
+   (m)   "Exchange Act" means the Securities Exchange Act of 1934.  
+[END TABLE]
+[BEGIN TABLE]
+   (n)   "Fair Market Value" means, subject to Section 70 of this Plan, the per share value of the Common Stock determined as follows:  
+[END TABLE]
+[BEGIN TABLE]
+   (i)   if the Common Stock is listed on the TSX-V, then the Fair Market Value will be determined as being the "Market Price" as determined in accordance with the policies of the TSX-V;  
+[END TABLE]
+[BEGIN TABLE]
+   (ii)   if the Common Stock is not listed on the TSX-V but is listed on an established stock exchange, exchanges, or a NASDAQ market, the closing price per share on the last trading day immediately preceding such date on the principal exchange on which the Common Stock is traded or as reported by NASDAQ;  
+[END TABLE]
+[BEGIN TABLE]
+   (iii)   if the Common Stock is not then listed on the TSX-V, an established exchange or a NASDAQ market, but is quoted on the OTCQB or the OTC pink sheets, the average of the closing bid and asked prices per share for the Common Stock as quoted by OTCQB or the OTC, as the case may be, on the last trading day immediately preceding such date; or  
+[END TABLE]
+[BEGIN TABLE]
+   (iv)   if there is no such reported market for the Common Stock for the date in question, then an amount determined in good faith by the Committee.  
+[END TABLE]
+[BEGIN TABLE]
+   (o)   "Incentive Stock Option" means any option granted to an Eligible Participant under the Plan which the Company intends at the time the option is granted to be an Incentive Stock Option within the meaning of Section 422 of the Code.  
+[END TABLE]
+[BEGIN TABLE]
+   (p)   "Insider" has the meaning set out in the policies of the TSX-V.  
+[END TABLE]
+[BEGIN TABLE]
+   (q)   "Investor Relations Activities" has the meaning set out in the policies of the TSX-V.  
+[END TABLE]
+[BEGIN TABLE]
+   (r)   "Management Company Employee" means an individual employed by a Company or individual providing management services to the Company, which are required for the ongoing successful operation of the business enterprise of the Company, but excluding a Company or individual engaged in Investor Relations Activities.  
+[END TABLE]
+[BEGIN TABLE]
+   (s)   "Nonqualified Stock Option" means any option granted to an Eligible Participant under the Plan which is not an Incentive Stock Option.  
+[END TABLE]
+[BEGIN TABLE]
+   (t)   "Officer" means a duly-appointed senior officer of the Company, including the President, Vice-President, Secretary, Treasurer, Chief Executive Officer, Chief Financial Officer and/or Principal Financial Officer of the Company.  
+[END TABLE]
+[BEGIN TABLE]
+   (u)   "Option" means and refers collectively to Incentive Stock Options and Nonqualified Stock Options.  
+[END TABLE]
+[BEGIN TABLE]
+   (v)   "Option Agreement" means such Option agreement or agreements as are approved from time to time by the Board and as are not inconsistent with the terms of this Plan.  
+[END TABLE]
+[BEGIN TABLE]
+   (w)   "Option Share" means any share of Common Stock issuable upon exercise of an Option.  
+[END TABLE]
+[BEGIN TABLE]
+   (x)   "Optionee" means any Eligible Participant who is granted an Option under the Plan. "Optionee" will also mean the personal representative of an Optionee and any other person who acquires the right to exercise an Option by bequest or inheritance or pursuant to a QDRO.  
+[END TABLE]
+[BEGIN TABLE]
+   (y)   "Subsidiary" means a subsidiary corporation of the Company as defined in Section 425(f) of the Code.  
+[END TABLE]
+[BEGIN TABLE]
+   (z)   "TSX-V" means the Toronto Stock Venture Exchange.  
+[END TABLE]
+[BEGIN TABLE]
+ 3.   Administration.  
+[END TABLE]
+[BEGIN TABLE]
+   (a)   This Plan will be administered by the Compensation Committee or if there is no Compensation Committee appointed by the Board of Directors, then by the Board of Directors as a whole (the "Committee"). Except for the terms and conditions explicitly set forth in this Plan, the Committee will have the authority, in its discretion, to determine all matters relating to the award and issuance of Common Stock or the grant of Options to be granted under this Plan, including the selection of individuals to be granted Options, the number of shares of Common Stock to be subject to each grant, the date of grant, the termination of the Options, the term of Options, vesting schedules, and all other terms and conditions thereof. Such authority will also include the authority in the event of a spin-off or other corporate transaction to permit substitution of an Option with a stock option from another company or an award denominated in other than shares of Common Stock. Grants under this Plan to Eligible Participants need not be identical in any respect, even when made simultaneously. The Committee will also determine and approve whether the grant of Options will consist of an Incentive Stock Option as described in Section 422 of the Internal Revenue Code of 1986, as amended (hereinafter referred to as the "Code"), or a Non-Qualified Stock Option, which will consist of any Option other than an Incentive Stock Option.  
+[END TABLE]
+[BEGIN TABLE]
+   (b)   Options will be evidenced by written agreements ("Option Agreements") which will contain such terms and conditions as may be determined by the Committee. Each Option Agreement will be signed on behalf of the Company by an officer or officers delegated such authority by the Committee.  
+[END TABLE]
+[BEGIN TABLE]
+   (c)   All decisions made by the Committee pursuant to the provisions of this Plan and all determinations and selections made by the Committee pursuant to such provisions and related orders or resolutions of the Board of Directors will be final and conclusive, subject to regulatory approval, including the approval of the TSX-V.  
+[END TABLE]
+[BEGIN TABLE]
+   (d)   No member of the Committee will be liable for any action, failure to act, determination or interpretation made in good faith with respect to this Plan or any transaction hereunder, except for liability arising from his or her own willful misfeasance, gross negligence or reckless disregard of his or her duties. The Company will indemnify each member of the Committee for all costs and expenses and, to the extent permitted by applicable law, any liability incurred in connection with defending against, responding to, negotiation for the settlement of or otherwise dealing with any claim, cause of action or dispute of any kind arising in connection with any actions in administering this Plan or in authorizing or denying authorization to any transaction hereunder.  
+[END TABLE]
+[BEGIN TABLE]
+ 4.   Eligibility and Participation. The group of individuals eligible to receive Options will consist only of the following (the "Eligible Participants"):  
+[END TABLE]
+[BEGIN TABLE]
+   (a)   Directors and Officers of the Company,  
+[END TABLE]
+[BEGIN TABLE]
+   (b)   Employees of the Company and Management Company Employees, and  
+[END TABLE]
+[BEGIN TABLE]
+   (c)   Consultants of the Company, except as provided herein,  
+[END TABLE]
+and includes a company of which 100% of the share capital is beneficially owned by one or more individual Eligible Participants.
+Consultants will only be eligible to receive Options if they have furnished bona fide services to the Company and such services are not in connection with the offer or sale of securities in a capital-raising transaction.
+[BEGIN TABLE]
+ 5.   Shares Subject to This Plan.  
+[END TABLE]
+[BEGIN TABLE]
+   (a)   The stock to be offered under the Plan will be shares of Common Stock. The aggregate number of shares reserved for issuance under this Plan will be fixed at 10% of the total number of issued and outstanding shares of Common Stock from time to time, such that the Common Stock reserved for issuance under this Plan will increase automatically with increases in the total number of shares of Common Stock issued and outstanding. The prescribed maximum percentage may be subsequently increased to any other specified amount, provided the change is authorized by a vote of the stockholders of the Company in accordance with the policies of the TSX-V.  
+[END TABLE]
+[BEGIN TABLE]
+   (b)   If an Option expires, is surrendered in exchange for another Option, or terminates for any reason during the term of this Plan prior to its exercise in full, the shares subject to but not delivered under such Option will be available for Options thereafter granted and for replacement Options which may be granted in exchange for such surrendered or terminated Options. Common Stock which has been issued pursuant to the exercise of Options granted under this Plan since the inception of the Plan will not be considered to reduce the maximum number of Shares which may be issued to Eligible Participants under Options issued and outstanding pursuant to this Plan.  
+[END TABLE]
+[BEGIN TABLE]
+ 6.   Grants of Options  
+[END TABLE]
+[BEGIN TABLE]
+   (a)   At any time and from time to time prior to the termination of the Plan, Options may be granted by the Committee to any individual who is an Eligible Participant at the time of grant. Options granted pursuant to the Plan will be contained in an Option Agreement in a form approved by the Committee and, except as hereinafter provided, will be subject to the provisions of this Plan, in addition to such other terms and conditions as the Committee may specify.  
+[END TABLE]
+[BEGIN TABLE]
+   (b)   In addition, for as long as the Common Stock of the Company is listed on the TSX-V, the Company will comply with the following requirements in addition to any other requirements imposed under the policies of the TSX-V:  
+[END TABLE]
+[BEGIN TABLE]
+   (i)   Options to acquire more than 2% of the issued and outstanding Common Stock of the Company will not be granted to any one Consultant in any 12 month period, calculated at the date the Option was granted;  
+[END TABLE]
+[BEGIN TABLE]
+   (ii)   Options to acquire more than an aggregate of 2% of the issued and outstanding Common Shares of the Company may not be granted to persons employed to provide Investor Relations Activities in any 12 month period, calculated at the date the Option was granted;  
+[END TABLE]
+[BEGIN TABLE]
+   (iii)   Options issued to Eligible Persons performing Investor Relations Activities must vest in stages over 12 months with no more than one-quarter (1/4) of the Options vesting in any three-month period;  
+[END TABLE]
+[BEGIN TABLE]
+   (iv)   For Options granted to Employees, Consultants or Management Company Employees, the Company and the Optionee are responsible for confirming that the Optionee is a bona fide Employee, Consultant or Management Company;  
+[END TABLE]
+[BEGIN TABLE]
+   (v)   Any Options granted to an Eligible Participant must expire within a reasonable period following the date that the Optionee ceases to occupy such role;  
+[END TABLE]
+No term of any Option may exceed 10 years; and
+[BEGIN TABLE]
+   (vi)   The Company will obtain disinterested shareholder approval in accordance with the policies of the TSX-V in the following circumstances:  
+[END TABLE]
+[BEGIN TABLE]
+   (A)   for Options granted to any one individual in any 12-month period to acquire Option Shares exceeding 5% of the issued and outstanding Common Stock of the Company;  
+[END TABLE]
+[BEGIN TABLE]
+   (B)   for Options granted to Insiders within a 12-month period to acquire Option Shares exceeding 10% of the issued and outstanding Common Shares of the Company;  
+[END TABLE]
+[BEGIN TABLE]
+   (C)   for any amendment to or reduction in the exercise price of an Option if the Optionee is an Insider of the Company at the time of the amendment; and  
+[END TABLE]
+[BEGIN TABLE]
+   (D)   for the Plan, if the Plan, together with all of the Company's previously established and outstanding stock option plans or grants, could result at any time in the grant to Insiders of the Company of a number of Option Shares exceeding 10% of the Company's issued Common Shares.  
+[END TABLE]
+[BEGIN TABLE]
+ 7.   Incentive Stock Options.  
+[END TABLE]
+[BEGIN TABLE]
+   (a)   An Option designated by the Committee as an "Incentive Stock Option" is intended to qualify as an "Incentive Stock Option" within the meaning of Subsection (b) of Section 422 of the Code. Any Option that is not designated by the Committee as an "Incentive Stock Option" will be deemed to not be an "Incentive Stock Option".  
+[END TABLE]
+[BEGIN TABLE]
+   (b)   To the extent that the aggregate fair market value (determined at the time the option is granted) of the Common Stock with respect to which Incentive Stock Options (determined without regard to this Subsection 7(b)) are exercisable for the first time by the Optionee during any calendar year (under this Plan and all other Incentive Stock Option Plans of the Company) exceed $100,000, such Options will be treated as Non-Qualified Options and will not qualify as incentive Stock Options.  
+[END TABLE]
+[BEGIN TABLE]
+   (c)   Should Section 422 of the Code or regulations or pronouncements thereunder be modified during the term of this Plan, this Plan and any outstanding Options may be amended to conform to such modification, if approved by the Board of Directors, upon recommendation by the Committee.  
+[END TABLE]
+[BEGIN TABLE]
+   (d)   Notwithstanding the definition of "Fair Market Value" in this Plan, fair market value in connection with any Incentive Stock Options will be determined under the applicable method provided by Regulations under Section 2031 of the Code.  
+[END TABLE]
+[BEGIN TABLE]
+   (e)   In the case of an Incentive Stock Option: (a) granted to a Eligible Participant who at the time of the grant owns Common Stock representing more than 10% of the voting power of all classes of stock of the Company or any parent or subsidiary of the Company, the per share exercise price will be no less than 110% of the fair market value per share on the date of grant; or (b) granted to any other Eligible Participant, the per share exercise price will be no less than 100% of the fair market value per share of Common Stock on the date of grant.  
+[END TABLE]
+[BEGIN TABLE]
+   (f)   In the case of an Incentive Stock Option granted to a Eligible Participant who at the time of the grant of such Incentive Stock Option owns stock representing more than 10% of the voting power of all classes of stock of the Company or any Parent or Subsidiary, such Incentive Stock Option may not be exercised after the expiration of five (5) years from the date the Incentive Stock Option is granted.  
+[END TABLE]
+[BEGIN TABLE]
+   (g)   If Common Stock acquired upon exercise of an Incentive Stock Option is disposed of by an Optionee prior to the expiration of either two years from the date of grant of such Option, one year from the transfer of shares of Common Stock to the Optionee pursuant to the exercise of such Option or in any other disqualifying disposition, within the meaning of Section 422 of the code, such Optionee will notify the Company in writing of the date and terms of such disposition. A disqualifying disposition by an Optionee will not affect the status of any other Incentive Stock Option granted under the Plan.  
+[END TABLE]
+[BEGIN TABLE]
+   (h)   No Incentive Stock Options will be granted under this Plan more than 10 years after the date that the Plan is adopted or approved by the shareholders of the Company, whichever is earlier.  
+[END TABLE]
+[BEGIN TABLE]
+   (i)   No Incentive Stock Option will be exercisable more than 10 years from the date it is granted; provided, however, that the case of an Eligible Participant who at the time of grant owns Common Stock representing more than 10% of the voting power of all classes of stock of the Company or any subsidiary, the Incentive Stock Option may not be exercised after the expiration of five (5) years from the date of grant.  
+[END TABLE]
+[BEGIN TABLE]
+   (j)   Incentive Stock Options will only be granted to Eligible Participants who qualify as employees of the Company or any subsidiary of the Company under the meaning of "employee" for the purposes of the Code. A subsidiary of the Company means any corporation (other than the Company) in an unbroken chain of corporations beginning with the Company, if each corporation (other than the last corporation) in such chain owns stock possessing 50% or more of the total combined voting power of all classes of stock in one of the other corporations in such chain. The preceding definition of the term "subsidiary" is intended to comply with, and will be interpreted consistently with, section 424(f) of the Code.  
+[END TABLE]
+[BEGIN TABLE]
+ 8.   Term of Option Period. The term during which Options may be exercised will be determined in the discretion of the Committee, except that the period during which each Option may be exercised will expire no later than on the tenth anniversary of the date of grant.  
+[END TABLE]
+[BEGIN TABLE]
+ 9.   Exercise Price. Subject to any limitations provided for in Section 7 herein and to any additional limitations imposed by the TSX-V, the price at which shares of Common Stock may be purchased upon the exercise of an Option will be such price as fixed by the Committee, provided that such exercise price will not be less than:  
+[END TABLE]
+[BEGIN TABLE]
+   (a)   the Discounted Market Price if the Common Stock is listed on the TSX-V at the time of the grant (noting that an "Exchange Hold Period" may apply under the policies of the TSX-V if the exercise price is below the Market Price), and  
+[END TABLE]
+[BEGIN TABLE]
+   (b)   85% of the Fair Market Value if the Common Stock is not listed on the TSX-V at the time of the grant of the Option.  
+[END TABLE]
+If the shares of Common Stock become listed on another stock exchange, then the exercise price will not be less than the exercise price permitted by such exchange.
+[BEGIN TABLE]
+ 10.   Payment of Exercise Price. The Committee will determine the terms of payment by each Eligible Participant for shares of Common Stock to be purchased upon the exercise of Stock Options. Such terms will be set forth or referred to in the Option Agreement. No Option Share may be issued until payment in full of the exercise price has been received by the Company.  
+[END TABLE]
+[BEGIN TABLE]
+ 11.   Form of Exercise Payment. An Option may be exercised by payment of cash, cashier's check or wired funds, or any combination of the foregoing methods, as approved by the Committee.  
+[END TABLE]
+[BEGIN TABLE]
+ 12.   Vesting; Exercise of Options and Rights.  
+[END TABLE]
+[BEGIN TABLE]
+   (a)   Subject to the provisions of subsection 12(g) herein, an Option will vest and become nonforfeitable and exercisable, pursuant to such vesting schedules as determined by the Committee, but in no event later than 5 years from the date of grant. Eligible Participants may be credited with prior years of service for purposes of any vesting schedules, at the discretion of the Committee.  
+[END TABLE]
+[BEGIN TABLE]
+   (b)   Each Option granted will be exercisable in whole or in part at any time or from time to time during the option period as the Committee may determine, provided that the election to exercise an Option will be made in accordance with applicable Federal laws and regulations, and further provided that each Option will contain a provision that will prevent exercise of the Option unless the Optionee remains in the employ of the Company or its subsidiary at least one year after the granting of the Option. However, the Committee may in its discretion accelerate the vesting schedule of any option at any time.  
+[END TABLE]
+[BEGIN TABLE]
+   (c)   No Option may at any time be exercised with respect to a fractional share of Common Stock.  
+[END TABLE]
+[BEGIN TABLE]
+   (d)   As a condition to the exercise of an Option, Optionees will make such arrangements as the Committee may require for the satisfaction of any federal, state, or local withholding tax obligations that may arise in connection with such exercise.  
+[END TABLE]
+[BEGIN TABLE]
+   (e)   No shares of Common Stock will be delivered pursuant to the exercise of any Option, in whole or in part, until qualified for delivery under such securities laws and regulations as may be deemed by the Committee to be applicable thereto.  
+[END TABLE]
+[BEGIN TABLE]
+   (f)   Notwithstanding any vesting requirements contained in any Option and the restrictions on trading imposed on Option Shares under Section 19 of this Plan, all outstanding Options will become immediately exercisable and any Option Shares issued upon exercise immediately tradeable (a) following the first purchase of Common Stock pursuant to a tender offer or exchange offer (other than an offer made by the Company) for all or part of the Common Stock, (b) at such time as a third person, including a "group" as defined in Section 13(d) of the Exchange Act, becomes the beneficial owner of shares of the Company having 25% or more of the total number of votes that may be cast for the election of Directors of the Company, (c) on the date on which the shareholders of the Company approve (i) any agreement for a merger or consolidation in which the Company will not survive as an independent, publicly-owned corporation or (ii) any sale, exchange or other disposition of all or substantially all of the Company's assets. The Committee's reasonable determination as to whether such an event has occurred will be final and conclusive.  
+[END TABLE]
+[BEGIN TABLE]
+   (g)   Notwithstanding any other provisions of this Agreement to the contrary, the right of any Eligible Participant to receive any benefits hereunder will terminate and will be forever forfeited if such Eligible Participant's employment with the Company is terminated because of his/her fraud, embezzlement, dishonesty, or breach of fiduciary duty. In such an event, all unexercised Options will be deemed null and void.  
+[END TABLE]
+[BEGIN TABLE]
+ 13.   Transferability of Options. The right of any Optionee to exercise an Option granted under the Plan will, during the lifetime of such Optionee, be exercisable only by such Optionee or pursuant to a qualified domestic relations order as defined by the Code, or Title I of the Employee Retirement Income Security Act, or the rules thereunder (a "QDRO") and will not be assignable or transferable by such Optionee other than by will or the laws of descent and distribution or a QDRO.  
+[END TABLE]
+[BEGIN TABLE]
+ 14.   Termination of Relationship. No Option may be exercised after the Optionee, if a Director or Officer, has ceased to be a Director or Officer or, if an Employee or other Eligible Participant has left the employ or service of the Company or an affiliate of the Company, except as follows:  
+[END TABLE]
+[BEGIN TABLE]
+   (a)   notwithstanding any other provision of this Section 14, if and to the extent provided in the Optionee's employment agreement;  
+[END TABLE]
+[BEGIN TABLE]
+   (b)   in the case of the death of an Optionee, any vested Option held by him or her at the date of death will become exercisable by the Optionee's lawful personal representatives, heirs or executors until the earlier of one year after the date of death of such Optionee and the expiry date of such Option;  
+[END TABLE]
+[BEGIN TABLE]
+   (c)   subject to the other provisions of this Section 14, including the proviso below, vested Options will expire 90 days after the date the Optionee ceases to be employed by, provide services to, or be a Director or Officer of, the Company or an affiliate of the Company, and all unvested Options will immediately terminate without right to exercise same; and  
+[END TABLE]
+[BEGIN TABLE]
+   (d)   in the case of an Optionee being dismissed from employment or service for cause, such Optionee's Options, whether or not vested at the date of dismissal will immediately terminate without right to exercise same,  
+[END TABLE]
+provided that in no event may the term of the Option exceed 10 years. Notwithstanding the provisions of subsection 140, the Board may provide for the vesting of all or any part of the Optionee's Options that are unvested at the date the Optionee ceases to be employed by, provide services to, or be a Director or Officer of, the Company or an affiliate, and may extend the time period for exercise of an Option to a maximum of the original term of the Option, all as the Board deems appropriate in the circumstances contemplated by subsection 140.
+[BEGIN TABLE]
+ 15.   Changes in Common Stock. The aggregate number and class of shares on which Options may be granted under this Plan, the number and class of shares covered by each outstanding Option, and the exercise price per share thereof (but not the total price), of each such Option, will all be proportionately adjusted for any increase or decrease in the number of issued shares of Common Stock resulting from a split-up or consolidation of shares of Common Stock, or any spin-off, spin-out, split-up, or other distribution of assets to shareholders, or any like capital adjustment or the payment of any such stock dividend, or any other increase or decrease in the number of shares of Common Stock without the receipt of consideration by the Company, or assumption and conversion of outstanding grants due to an acquisition.  
+[END TABLE]
+[BEGIN TABLE]
+ 16.   Amendment and Discontinuance of Options. The Board of Directors may suspend, discontinue, or amend the Plan to reduce the number of shares of Common Stock under option, increase the exercise price, or cancel an Option. Except as contemplated below, the Board of Directors may amend other terms of an Option only where approval of the TSX-V has been obtained, and where the following requirements are met:  
+[END TABLE]
+[BEGIN TABLE]
+   (a)   If the Optionee is an Insider of the Company at the time of the amendment, the Company obtains disinterested shareholder approval;  
+[END TABLE]
+[BEGIN TABLE]
+   (b)   If the Option exercise price is amended, at least six months have elapsed since the later of the date of commencement of the term, the date the Company's shares of Common Stock commenced trading, or the date the Option exercise price was last amended;  
+[END TABLE]
+[BEGIN TABLE]
+   (c)   If the option price is amended to the Discounted Market Price, the TSX-V hold period will apply from the date of the amendment (and, for more certainty, if the option price is amended to the Market Price, the Exchange hold period will not apply);  
+[END TABLE]
+[BEGIN TABLE]
+   (d)   If the length of the stock option term is amended, any extension of the length of the term of the Option is treated as a grant of a new Option, which must comply with the policies of the TSX-V as it were a newly granted option. The term of an Option cannot be extended so that the effective term of the Option exceeds 10 years in total. An Option must be outstanding for at least one year before the Company can extend its term; and  
+[END TABLE]
+The TSX-V must accept a proposed amendment before the amended Option is exercised.
+The Board may amend the terms of the Plan from time to time subject to the any approval required from the TSX-V and, if required by the policies of the TSX-V, the shareholders of the Company. However, the Board may amend the terms of the Plan to comply with the requirements of any applicable regulatory authority without obtaining shareholder approval, including (a) amendments of a housekeeping nature to the Plan; (b) a change to the vesting provisions of an Option or the Plan; and (c) a change to the termination provisions of an Option or the Plan which does not entail an extension beyond the original expiry date.
+Notwithstanding the foregoing, no amendment to this Plan will, except with the consent of the Optionee, adversely affect the rights under an Option previously granted.
+If the amendment of an Option requires regulatory approval or shareholder approval, such amendment may be made prior to such approvals being given, but no such amended Options may be exercised unless and until such approvals are given.
+[BEGIN TABLE]
+ 17.   Term of Plan. This Plan will terminate on the earlier of:  
+[END TABLE]
+[BEGIN TABLE]
+   (a)   January 25, 2018; and  
+[END TABLE]
+[BEGIN TABLE]
+   (b)   Such earlier date as the Board may determine (the "Termination Date").  
+[END TABLE]
+No Incentive Stock Options will be granted under this Plan after the Termination Date.
+[BEGIN TABLE]
+ 18.   Compliance with Securities Laws. No Option will be exercisable in whole or in part, nor will the Company be obligated to issue any Option Shares pursuant to the exercise of any such Option, if such exercise and issuance would, in the opinion of counsel for the Company, constitute a breach of any applicable laws from time to time, or the rules from time to time of the TSX-V or other securities regulatory authority to which the Company is subject. Each Option will be subject to the further requirement that if at any time the Board determines that the listing or qualification of the Option Shares under any securities legislation or other applicable law, or the consent or approval of any governmental or other regulatory body (including the TSX-V), is necessary as a condition of, or in connection with, the issue of the Option Shares hereunder, such Option may not be exercised in whole or in part unless such listing, qualification, consent or approval has been effected or obtained free of any conditions not acceptable to the Board. If required by the Company in order to ensure compliance with applicable securities laws, the Optionee will deliver to the Company a representation in writing that the purchase of Option Shares upon exercise of an Option is being made for investment only and not for resale or with a view to distribution and containing such other representations and provisions with respect thereto as the Company may require. Each Optionee further acknowledges that any Option Shares issued upon exercise of an Option may be "restricted securities" upon issuance and the certificates representing such shares legended in the event that the issuance of the Option Shares has not been registered by an effective registration statement under the United States Securities Act of 1933, as amended (the "1933 Act"). Each Optionee that is an "affiliate" of the Company, as defined under the 1933 Act, further acknowledges that any Option Shares issued upon exercise of an Option may be "control securities" upon issuance and may be subject to additional restrictions on resale imposed by Rule 144 of the 1933 Act, including (i) the Rule 144 volume restrictions that will limit the maximum number of shares that may be sold in any three month period to the greater of 1% of the outstanding shares of the same class being sold, or if the class is listed on a "national securities exchange", as defined in the 1933 Act, the greater of 1% or the average reported weekly trading volume during the four weeks preceding the filing of a notice of sale on Form 144, (ii) the Rule 144 manner of sale requirements, (iii) the Rule 144 current public information requirements, and (iv) the Form 144 notice filing requirements, and the certificates representing such shares may be legended to reflect such status as "control securities". In addition to any resale restrictions imposed under securities laws, where the exercise price of the Option is based on the Discounted Market Price, any Option Shares will be legended with a four-month hold period under the policies of the TSX-V, which hold will date from the date the Option is granted.  
+[END TABLE]
+[BEGIN TABLE]
+ 19.   Restrictions on Transfer of Option Shares. All Option Shares will, upon issuance, be subject to the following restrictions on transfer (the "Plan Restrictions on Transfer") unless (i) the Committee has determined in writing that the Plan Restrictions on Transfer will not apply, or (ii) the circumstances in Section 12(f) of this Plan apply. The Plan Restrictions on Transfer are contractual restrictions on transfer that may be enforced by the Company against the Optionee and will be in addition to any transfer restrictions imposed under applicable securities laws, as referred to above in Section 18 of this Plan. Under the Plan Restrictions on Transfer, the maximum number of Option Shares that may be sold in any three month period by any Optionee, which three month period will be measured on a "look-back" basis from the date of any sale of the Option Shares, will equal the greater of (i) 1% of the outstanding Common Shares of the Company, or (ii) if the Common Shares of the Company are listed on a stock exchange in the United States or Canada, the greater of 1% or the average reported weekly trading volume on all markets in the United States and Canada (including the OTCQX and the TSX-V) during the four weeks preceding the date of sale. The certificates representing the Option Shares may be endorsed with legends confirming the Plan Restrictions on Transfer.  
+[END TABLE]
+[BEGIN TABLE]
+ 20.   Rights as Shareholder and Employee. An Optionee will have no rights as a shareholder of the Company with respect to any shares of Common Stock covered by an Option until the date of the issuance of the stock certificate for such shares. Neither the Plan, nor the granting of an Option or other rights herein, nor any other action taken pursuant to the Plan will constitute or be evidence of any agreement or understanding, express or implied, that a Eligible Participant has a right to continue as an Employee for any period of time or at any particular rate of compensation.  
+[END TABLE]
+[BEGIN TABLE]
+ 21.   Currency. All references to "$" herein are to the United States Dollar.  
+[END TABLE]
+[BEGIN TABLE]
+ 22.   Governing Law. This Agreement will be governed and construed in accordance with the laws of the State of California without regard to principles of conflicts of law.   
+[END TABLE]
+[BEGIN TABLE]
+ 23.   Limitations on Sale of Stock Purchased Under the Plan. The Plan is intended to provide Common Stock for investment and not for resale. The Company does not, however, intend to restrict or influence any Eligible Participant in the conduct of his own affairs. An Eligible Participant, therefore, may sell stock purchased under the Plan at any time he or she chooses, subject to compliance with any applicable Federal or state securities laws and subject to the restrictions on resale imposed under this Plan. THE PARTICIPANT ASSUMES THE RISK OF ANY MARKET FLUCTUATIONS IN THE PRICE OF THE STOCK.  
+[END TABLE]
+[BEGIN TABLE]
+ 24.   Regulatory Approval. This Plan will be subject to the approval of any regulatory authority whose approval is required, including any approval of the TSX-V. Any Options granted under this Plan prior to such approvals being given will be conditional upon such approvals being given, and no such Options may be exercised unless and until such approvals are given. The Company's obligation to sell and deliver shares of the Common Stock under this Plan is subject to the regulatory approval required in connection with the authorization, issuance, or sale of such shares.  
+[END TABLE]
+[BEGIN TABLE]
+ 25.   Other Benefit and Compensation Programs. Unless otherwise specifically determined by the Committee, grants of Options under the Plan will not be deemed a part of an Eligible Participant's regular, recurring compensation for purposes of calculating payments or benefits from any Company benefit plan or severance program. Further, the Company may adopt other compensation programs, plans or arrangements as it deems appropriate or necessary.  
+[END TABLE]
+[BEGIN TABLE]
+ 26.   Unfunded Plan.  Unless otherwise determined by the Board, the Plan will be unfunded and will not create (or be construed to create) a trust or a separate fund or funds. The Plan will not establish any fiduciary relationship between the Company and any Eligible Participant or other person. To the extent any person holds any rights by virtue of Options granted under the Plan, such rights will constitute, general unsecured liabilities of the Company and will not confer upon any Optionee any right, title or interest in any assets of the Company.  
+[END TABLE]
+[BEGIN TABLE]
+ 27.   Arbitration. Any controversy arising out of, connected to, or relating to any matters herein of the transactions between an Eligible Participant and the Company (including for purposes of arbitration, officers, directors, employees, controlling persons, affiliates, professional advisors, agents, or promoters of the Company), on behalf of the undersigned, or this Agreement, or the breach thereof, including, but not limited to any claims of violations of Federal and/or State Securities Acts, Banking Statutes, Consumer Protection Statutes, Federal and/or State Anti-Racketeering (e.g. RICO) claims as well as any common law claims and any State Law claims of fraud, negligence, negligent misrepresentations, unjust termination, breach of contract, and/or conversion will be settled by arbitration; and in accordance with this paragraph and judgment on the arbitrator's award may be entered in any court having jurisdiction thereof in accordance with the provisions of California law. In the event of such a dispute, each party to the conflict will select an arbitrator, which will constitute the three person arbitration board. Participants will be required to waive any right to an award of punitive damages. The decision of a majority of the board of arbitrators, who will render their decision within thirty (30) days of appointment of the final arbitrator, will be binding upon the parties. Venue for arbitration will lie in Boise, Idaho.  
+[END TABLE]
+[BEGIN TABLE]
+ 28.   Amendment and Restatement. This Plan amends and restates the original stock option plan of the Company dated for reference January 25, 2008 (the "Original Plan"). All options granted under the Original Plan (the "Original Options") will remain in full force and effect as Options under this Plan without amendment other than as required to conform such original Options to the terms and conditions of this Plan.  
+[END TABLE]
+[BEGIN TABLE]
+ 29.   Shareholder Approval. The Plan will be submitted to the shareholders of the Company for approval within 12 months of the date of this amended and restated Plan.  
+[END TABLE]
+ 

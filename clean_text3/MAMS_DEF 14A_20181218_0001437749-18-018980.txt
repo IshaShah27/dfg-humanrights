@@ -1,0 +1,628 @@
+ 
+Table of Contents
+SCHEDULE 14A INFORMATION 
+PROXY STATEMENT PURSUANT TO SECTION 14(a) OF THE SECURITIES 
+EXCHANGE ACT OF 1934 
+Filed by the Registrant ☒
+Filed by a Party other than the Registrant  ☐
+Check the appropriate box:
+[BEGIN TABLE]
+     ☐   Preliminary Proxy Statement  
+[END TABLE]
+[BEGIN TABLE]
+     ☐    Confidential, For Use of the Commission Only (As Permitted by Rule 14a-6(e)(2))  
+[END TABLE]
+[BEGIN TABLE]
+     ☒   Definitive Proxy Statement  
+[END TABLE]
+[BEGIN TABLE]
+     ☐   Definitive Additional Materials  
+[END TABLE]
+[BEGIN TABLE]
+     ☐   Soliciting Material under §240.14a-12  
+[END TABLE]
+MAM SOFTWARE GROUP, INC. 
+(Name of Registrant as Specified In Its Charter)
+(Name of Person(s) Filing Proxy Statement, if other than the Registrant)
+Payment of Filing Fee (Check the appropriate box):
+[BEGIN TABLE]
+ ☒   No fee required  
+[END TABLE]
+[BEGIN TABLE]
+ ☐   Fee computed on table below per Exchange Act Rules 14a-6(i)(1) and 0-11 .  
+[END TABLE]
+[BEGIN TABLE]
+     (1)   Title of each class of securities to which transaction applies:  
+[END TABLE]
+[BEGIN TABLE]
+     (2)   Aggregate number of securities to which transaction applies:  
+[END TABLE]
+[BEGIN TABLE]
+     (3)   Per unit price or other underlying value of transaction computed pursuant to Exchange Act Rule 0-11 (set forth the amount on which the filing fee is calculated and state how it was determined):  
+[END TABLE]
+[BEGIN TABLE]
+     (4)   Proposed maximum aggregate value of transaction:  
+[END TABLE]
+[BEGIN TABLE]
+     (5)   Total fee paid:  
+[END TABLE]
+[BEGIN TABLE]
+ ☐   Fee paid previously with preliminary materials.  
+[END TABLE]
+[BEGIN TABLE]
+ ☐    Check box if any part of the fee is offset as provided by Exchange Act Rule 0-11(a)(2) and identify the filing for which the offsetting fee was paid previously. Identify the previous filing by registration statement number, or the form or schedule and the date of its filing.  
+[END TABLE]
+[BEGIN TABLE]
+     (1)   Amount Previously Paid:  
+[END TABLE]
+[BEGIN TABLE]
+     (2)   Form, Schedule or Registration Statement No.:  
+[END TABLE]
+[BEGIN TABLE]
+     (3)   Filing Party:  
+[END TABLE]
+[BEGIN TABLE]
+     (4)   Date Filed:  
+[END TABLE]
+Two Valley Square, Suite 220 
+512 Township Line Road 
+Blue Bell, PA 19422 
+Important Notice Regarding the Availability of Proxy Materials for the Annual Meeting of Stockholders to Be Held on December 18, 2018. 
+The Notice of Annual Meeting, Proxy Statement and Annual Report on Form 10-K are available at: www.mamsoftware.com/usa/sec-filings
+NOTICE OF ANNUAL MEETING OF STOCKHOLDERS 
+TO BE HELD ON DECEMBER 18, 2018 
+To the Stockholders of MAM Software Group, Inc.: 
+NOTICE IS HEREBY GIVEN that an Annual Meeting of Stockholders (the "Annual Meeting") of MAM Software Group, Inc., a Delaware corporation (the "Company"), will be held on December 18, 2018 at 9:30 a.m. (Eastern Standard Time) at the offices of Robinson Brog Leinwand Greene Genovese & Gluck P.C., 875 Third Avenue, 9th Floor, New York, NY 10022, for the following purposes:
+1.       To elect five (5) members of the Company's Board of Directors (the "Board"), each to serve until the next Annual Meeting and until their successors are elected and qualified or until their earlier resignation or removal ("Proposal No. 1"); 
+2.       To consider and vote on a proposal to ratify the Board's selection of KMJ Corbin & Company LLP as the Company's independent auditors for the fiscal year ending June 30, 2019 ("Proposal No. 2"); and
+3.       To consider and act upon such other business as may properly come before the Annual Meeting or any adjournment thereof.
+The foregoing items of business are more fully described in the Proxy Statement that is attached and made a part of this Notice. Only stockholders of record of our common stock, par value $0.0001 per share (the "Common Stock"), at the close of business on October 26, 2018 (the "Record Date") will be entitled to notice of, and to vote at, the Annual Meeting or any adjournment thereof.
+A copy of our Annual Report on Form 10-K for the fiscal year ended June 30, 2018, which contains financial statements and other information of interest to stockholders, accompanies this Notice and the enclosed Proxy Statement.
+All stockholders are cordially invited to attend the Annual Meeting in person. Your vote is important regardless of the number of shares of Common Stock that you own. Only record or beneficial owners of Common Stock as of the Record Date may attend the Annual Meeting in person. When you arrive at the Annual Meeting, you must present photo identification, such as a driver's license. Beneficial owners of Common Stock also must provide evidence of stockholdings as of the Record Date, such as a recent brokerage account or bank statement.
+Whether or not you expect to attend the Annual Meeting, please complete, sign, date, and return the enclosed proxy card in the enclosed postage-paid envelope in order to ensure representation of your shares of Common Stock. It will help in our preparations for the meeting if you would check the box on the form of proxy if you plan on attending the Annual Meeting. Your proxy is revocable in accordance with the procedures set forth in the Proxy Statement.
+[BEGIN TABLE]
+ Blue Bell, Pennsylvania        By Order of the Board of Directors,  
+ October 29, 2018        /s/ Michael G. Jamieson  
+         MICHAEL G. JAMIESON  
+         Chief Executive Officer  
+[END TABLE]
+TABLE OF CONTENTS
+[BEGIN TABLE]
+ PROXY STATEMENT FOR 2019 ANNUAL MEETING OF STOCKHOLDERS    1  
+ Information Concerning the Proxy Materials and the Annual Meeting   1  
+ Voting Procedures and Vote Required   1  
+ Delivery of Documents to Security Holders Sharing an Address   2  
+ SECURITY OWNERSHIP OF CERTAIN BENEFICIAL OWNERS AND MANAGEMENT    3  
+ ELECTION OF DIRECTORS (Proposal No. 1)    5  
+ Required Vote   7  
+ CORPORATE GOVERNANCE    8  
+ Board of Directors   8  
+ Director Independence   8  
+ Board Meetings and Attendance   8  
+ Annual Meeting Attendance   8  
+ Stockholder Communications with the Board   8  
+ Board Committees   8  
+ Nominating Procedures and Criteria   9  
+ Family Relationships   10  
+ Involvement in Certain Legal Proceedings   10  
+ Leadership Structure of the Board   10  
+ Risk Oversight   11  
+ Code of Ethics   11  
+ DIRECTOR COMPENSATION FOR FISCAL YEAR 2018    12  
+ INFORMATION ABOUT OUR EXECUTIVE OFFICERS    13  
+ EXECUTIVE COMPENSATION    14  
+ Summary Compensation Table for Fiscal Years 2018 and 2017   14  
+ Employment Agreements   15  
+ Severance Benefits   17  
+[END TABLE]
+[BEGIN TABLE]
+ Change in Control   18  
+ Other Compensation   18  
+[END TABLE]
+[BEGIN TABLE]
+ Outstanding Equity Awards at 2018 Fiscal Year End   18  
+ CERTAIN RELATIONSHIPS AND RELATED PARTY TRANSACTIONS    19  
+ COMPLIANCE WITH SECTION 16(a) OF THE EXCHANGE ACT    19  
+ AUDIT COMMITTEE REPORT    20  
+ RATIFICATION OF APPOINTMENT OF INDEPENDENT AUDITORS (Proposal No. 2)    21  
+ Policy on Audit Committee Pre-Approval of Audit and Permissible Non-Audit Services of Independent Auditors    21  
+ Required Vote   21  
+ FUTURE STOCKHOLDER PROPOSALS   22  
+ EXPENSES AND SOLICITATION   22  
+ OTHER BUSINESS    22  
+ ADDITIONAL INFORMATION    22  
+ APPENDIX A: AUDIT COMMITTEE CHARTER    A-1  
+ APPENDIX B: COMPENSATION COMMITTEE CHARTER    B-1  
+ APPENDIX C: CORPORATE GOVERNANCE AND NOMINATING COMMITTEE CHARTER    C-1  
+[END TABLE]
+PROXY STATEMENT FOR THE 2019 ANNUAL MEETING OF STOCKHOLDERS 
+In this Proxy Statement, MAM Software Group, Inc., a Delaware corporation, is referred to as "MAM", the "Company", "we", "us" and "our".
+Information Concerning the Proxy Materials and the Annual Meeting 
+Proxies in the form enclosed with this Proxy Statement are being solicited by our Board of Directors (the "Board") for use at the Annual Meeting of Stockholders (the "Annual Meeting") to be held at 9:30 a.m. (Eastern Standard Time) on December 18, 2018, at the offices of Robinson Brog Leinwand Greene Genovese & Gluck P.C., 875 Third Avenue, 9th Floor, New York, NY 10022, and at any adjournment thereof. Your vote is very important. For this reason, our Board is requesting that you permit your shares of common stock, par value $0.0001 per share, of the Company (the "Common Stock"), to be represented at the Annual Meeting by the proxies named on the enclosed proxy card. This Proxy Statement contains important information for you to consider when deciding how to vote on the matters brought before the Annual Meeting. Please read it carefully.
+Voting materials, which include this Proxy Statement, the enclosed proxy card, and the enclosed Annual Report on Form 10-K for the fiscal year ended June 30, 2018, which contains financial statements and other information of interest to stockholders, will be first mailed to stockholders on or about November 9, 2018.
+Only stockholders of record of our Common Stock as of the close of business on October 26, 2018 (the "Record Date") will be entitled to notice of, and to vote at, the Annual Meeting. As of October 26, 2018, 12,579,614 shares of Common Stock were issued and outstanding. Stockholders are entitled to one vote per share of Common Stock held by them. Stockholders may vote in person or by proxy; however, granting a proxy does not in any way affect a stockholder's right to attend the Annual Meeting and vote in person. Any stockholder giving a proxy has the right to revoke that proxy by (i) filing a later-dated proxy or a written notice of revocation with us at our principal offices at any time before the original proxy is exercised or (ii) attending the Annual Meeting and voting in person.
+Michael Jamieson and Frederick Wasserman are named as attorneys-in-fact in the proxy. Mr. Jamieson is our Chief Executive Officer and is also a member of our Board. Mr. Wasserman is the Chairman of our Board. Mr. Jamieson or Mr. Wasserman will vote all shares represented by properly executed proxies returned in time to be counted at the Annual Meeting, as described below under "Voting Procedures and Vote Required." Any stockholder granting a proxy has the right to withhold authority to vote for any or all of the nominees to the Board. Where a vote has been specified in the proxy with respect to the matters identified in the Notice of the Annual Meeting, including the election of directors, the shares represented by the proxy will be voted in accordance with those voting specifications. If no voting instructions are indicated, your shares will be voted as recommended by our Board on all matters, and as the proxy holders may determine in their discretion with respect to any other matters properly presented for a vote before the Annual Meeting.
+The stockholders will consider and vote upon (i) a proposal to elect five (5) members of our Board, each to serve until the 2020 Annual Meeting of Stockholders and until their successors are elected and qualified or until their earlier resignation or removal; and (ii) a proposal to ratify the Board's selection of KMJ Corbin & Company LLP ("KMJ Corbin") as our independent auditors for the fiscal year ending June 30, 2019. Stockholders also will consider and act upon such other business as may properly come before the Annual Meeting.
+Voting Procedures and Vote Required 
+Mr. Jamieson and/or Mr. Wasserman will vote all shares represented by properly executed proxies returned in time to be counted at the Annual Meeting. The presence, in person or by proxy, of at least a majority of the issued and outstanding shares of Common Stock entitled to vote at the Annual Meeting is necessary to establish a quorum for the transaction of business. Shares represented by proxies pursuant to which votes have been withheld for any or all of the nominees for directors, or which contain one or more abstentions, as well as "broker non-vote" shares (described below) are counted as present for purposes of determining the presence or absence of a quorum for the Annual Meeting. None of the matters to be presented at the Annual Meeting will entitle any stockholder to dissenters' rights.
+All properly executed proxies delivered pursuant to this solicitation and not revoked will be voted at the Annual Meeting as specified in such proxies. As noted above, proxies will be voted as recommended by our Board on all matters and will be voted in the discretion of the proxy holder on any other matters that properly come before the Annual Meeting, if no voting instructions are indicated.
+Vote Required for Election of Directors (Proposal No. 1). Our certificate of incorporation, as amended ("Certificate of Incorporation"), does not authorize cumulative voting. Delaware law and our bylaws ("Bylaws") provide that directors are to be elected by a plurality of the votes of the shares present in person or represented by proxy at the Annual Meeting and entitled to vote on the election of directors. This means that the five (5) nominees receiving the highest number of affirmative votes at the Annual Meeting will be elected as directors. Only shares that are voted in favor of a particular nominee will be counted toward that nominee's achievement of a plurality. Shares present at the Annual Meeting that are not voted for a particular nominee or shares present by proxy where the stockholder properly withheld authority to vote for such nominee will not be counted toward that nominee's achievement of a plurality.
+Vote Required for Ratification of Auditors (Proposal No. 2). Delaware law and our Bylaws provide that, on all matters (other than the election of directors and except to the extent otherwise required by our Certificate of Incorporation or applicable Delaware law), the affirmative vote of a majority of the shares present, in person or by proxy, and voting on the matter, will be required for approval. Accordingly, the affirmative vote of a majority of the shares present at the Annual Meeting, in person or by proxy, and voting on the matter, will be required to ratify the Board's selection of KMJ Corbin as our independent auditors for the fiscal year ending June 30, 2019.
+If you hold shares beneficially in street name and do not provide your broker with voting instructions, your shares may constitute "broker non-votes". Generally, broker non-votes occur on a matter when a broker is not permitted to vote on that matter without instructions from the beneficial owner and instructions are not given. Brokers that have not received voting instructions from their clients cannot vote on their clients' behalf on "non-routine" proposals. Broker non-votes are not counted in tabulating the voting result for any particular proposal and shares that constitute broker non-votes are not considered entitled to vote. The vote on Proposal No. 1 is considered "non-routine" and the vote on Proposal No. 2 is considered "routine".
+Abstentions are counted as "shares present" at the Annual Meeting for purposes of determining the presence of a quorum and with respect to any matters being voted upon at the Annual Meeting. Abstentions will have no effect on the outcome of the election of directors, but with respect to any other proposal an abstention will operate to prevent the approval of such proposal to the same extent as a vote against such proposal.
+Votes at the Annual Meeting will be tabulated by one or more inspectors of election appointed by the Chief Executive Officer.
+Delivery of Documents to Security Holders Sharing an Address
+We will send only one set of Annual Meeting materials and other corporate mailings to stockholders who share a single address unless we received contrary instructions from any stockholder at that address. This practice, known as "householding," is designed to reduce our printing and postage costs. However, the Company will deliver promptly upon written or oral request a separate copy of the Annual Meeting materials to a stockholder at a shared address to which a single copy of the Annual Meeting materials was delivered. You may make such a written or oral request by sending a written notification stating (i) your name, (ii) your shared address and (iii) the address to which the Company should direct the additional copy of the Annual Meeting materials, to the Company at MAM Software Group, Inc., c/o David Danovitch, 875 3rd Avenue, 9th Floor, New York, New York 10022.
+If multiple stockholders sharing an address have received one copy of the Annual Meeting materials or any other corporate mailing and would prefer the Company to mail each stockholder a separate copy of future mailings, you may send notification to or call the Company's principal executive offices. Additionally, if current stockholders with a shared address received multiple copies of the Annual Meeting materials or other corporate mailings and would prefer the Company to mail one copy of future mailings to stockholders at the shared address, notification of such request may also be made by mail or telephone to the Company's principal executive offices.
+SECURITY OWNERSHIP OF CERTAIN BENEFICIAL OWNERS AND MANAGEMENT
+In accordance with the rules of the U.S. Securities and Exchange Commission (the "SEC"), the following table sets forth certain information regarding the beneficial ownership of our Common Stock as of October 26, 2018 by (a) each stockholder who is known to us to own beneficially 5% or more of our outstanding Common Stock; (b) all directors; (c) all executive officers; and (d) all executive officers and directors as a group. Except as otherwise indicated, all persons listed below have (i) sole voting power and investment power with respect to their shares of Common Stock, except to the extent that authority is shared by spouses under applicable law and (ii) record and beneficial ownership with respect to their shares of Common Stock. Unless otherwise identified, the address of our directors and officers is c/o MAM Software Group, Inc., Two Valley Square, Suite 220, 512 Township Line Road, Blue Bell, PA 19422.
+[BEGIN TABLE]
+     Amount and Nature of       Percent of Class of      
+     Amount and Nature of       Percent of Class of      
+ Name and Address of Beneficial Owner   Beneficial Ownership       Common Stock (1)      
+ Wynnefield Persons (2)   			c/o Wynnefield Capital Inc. and Affiliates   			450 Seventh Ave., Suite 509   			New York, NY 10123       3,079,556   (3)       24.48%  
+ Cove Street Capital, LLC (4) 2101 East El Segunda Boulevard, Suite 302 El Segunda, CA 90245     805,537          6.40% 
+ Cove Street Capital, LLC (4) 2101 East El Segunda Boulevard, Suite 302 El Segunda, CA 90245     805,537          6.40% 
+ Directors and Officers:                          
+ Michael Jamieson   			Chief Executive Officer and Director        682,352         5.42%  
+ Brian H. Callahan   			Chief Financial Officer       161,083   (5)       1.28%  
+ Lee Broad   			Chief Technology Officer       205,064   (6)       1.63%  
+ Frederick Wasserman,   			Chairman of the Board        135,183           1.07%  
+ Dwight B. Mamanteo,   			Director       216,760           1.72%  
+ Peter H. Kamin,   			Director       908,969           7.23%  
+ W. Austin Lewis IV Director   			c/o Lewis Asset Management Corp.   			500 5th Avenue, Suite 2240   			New York, NY 10110       975,503   (7)       7.75%  
+ Directors and Officers as a Group (7 Persons)       3,284,914           26.11%  
+[END TABLE]
+[BEGIN TABLE]
+ (1)   Based on a total of 12,579,614 shares of Common stock outstanding as of October 26, 2018. In accordance with the rules of the SEC, each person's percentage interest is calculated by dividing the number of shares of Common Stock that person owns by the sum of (a) the total number of shares of Common Stock outstanding as of October 26, 2018 plus (b) the number of shares of Common Stock such person has the right to acquire within sixty (60) days of October 26, 2018. Shares of Common Stock a person has the right to acquire within sixty (60) days of October 26, 2018, including shares of Common stock underlying options, warrants or other securities currently exercisable or convertible or exercisable or convertible within sixty (60) days of October 26, 2018, are deemed outstanding for purposes of computing the percentage interest of the person holding such securities, but are not deemed outstanding for purposes of computing the percentage interest of any other person.    
+[END TABLE]
+[BEGIN TABLE]
+ (2)   Comprised of Wynnefield Partners Small Cap Value, LP ("Wynnefield Partners") and Wynnefield Partners Small Cap Value, L.P. I ("Wynnefield Partners I"), and the general partner of each of these entities, Wynnefield Capital Management, LLC ("Wynnefield LLC"); Wynnefield Small Cap Value Offshore Fund, Ltd. ("Wynnefield Offshore") and its investment manager, Wynnefield Capital, Inc. ("Wynnefield Capital"); Wynnefield Capital, Inc. Profit Sharing Plan (the "Plan"); Nelson Obus, who serves as principal and co-managing member of Wynnefield LLC, principal executive officer of Wynnefield Capital and Joshua H. Landes, who serves as principal and co-managing member of Wynnefield LLC and executive officer of Wynnefield Capital (collectively, the "Wynnefield Persons"). Dwight Mamanteo, one of the Company's directors, is a portfolio manager with Wynnefield Capital. Mr. Mamanteo exercises neither voting nor dispositive control over the shares beneficially owned by Wynnefield Capital. The Company has been informed that Nelson Obus and Joshua H. Landes share voting and investment control over the shares beneficially owned by Wynnefield Partners, Wynnefield Partners I, Wynnefield Offshore, Wynnefield LLC, Wynnefield Capital and the Plan. Based upon information provided in a Schedule 13D/A filed with the SEC on May 24, 2018.  
+[END TABLE]
+[BEGIN TABLE]
+ (4)   Based upon information provided in a Form 13F filed with the SEC on August 13, 2018.  
+ (5)   Includes 160,000 restricted shares of Common Stock which may vest within sixty (60) days of October 26, 2018 (assuming all performance measures are satisfied).  
+ (6)   Includes 50,178 restricted shares of Common Stock which may vest within sixty (60) days of October 26, 2018 (assuming all performance measures are satisfied).  
+ (7)   Includes (i) 606,441 shares of Common Stock owned directly by W. Austin Lewis IV, (ii) 343,963 shares of Common Stock owned by Lewis Opportunity Fund, LP, and (iii) 25,099 shares of Common Stock owned by Lewis Asset Management Corp.  
+[END TABLE]
+Change in Control 
+There are no arrangements known to us, the operation of which may at a subsequent date result in a change in control of the Company.
+ELECTION OF DIRECTORS 
+(Proposal No. 1)
+The following individuals have been nominated as members of our Board, each to serve until the 2020 Annual Meeting of Stockholders, until their successors are elected and qualified or until their earlier resignation or removal. Pursuant to Delaware law and our Bylaws, directors are to be elected by a plurality of the votes of the shares present in person or represented by proxy at the Annual Meeting and entitled to vote on the election of directors. This means that the five (5) nominees receiving the highest number of affirmative votes at the Annual Meeting will be elected as directors. Only shares that are voted in favor of a particular nominee will be counted toward that nominee's achievement of a plurality. Proxies cannot be voted for a greater number of persons than the number of nominees named or for persons other than the named nominees.
+Following is information about each nominee, including biographical data for at least the last five (5) years. Should one or more of these nominees become unavailable to accept nomination or election as a director, the individuals named as proxies on the enclosed proxy card will vote the shares that they represent for the election of such other persons as the Board may recommend, unless the Board reduces the number of directors. We have no reason to believe that any nominee will be unable or unwilling to serve if elected as a director.
+[BEGIN TABLE]
+ Name of Director Nominees       Age       Director Since   
+ Michael G. Jamieson        51        February 2010   
+ Dwight B. Mamanteo       49        March 2007  
+ Frederick G. Wasserman        64        July 2007   
+ W. Austin Lewis IV        42        January 2009   
+ Peter H. Kamin       56        May 2012  
+[END TABLE]
+Michael G. Jamieson was appointed to the Board and to the position of interim Chief Executive Officer in February 2010.  He became the Company's Chief Executive Officer in June 2010.  Mr. Jamieson previously served as Chief Operating Officer and a director of the Company from December 2005 to March 2007.  Mr. Jamieson has served as Managing Director of MAM's subsidiary, MAM Software Limited, since 2004.  Mr. Jamieson joined MAM Ltd. in 1991 in its installation and configuration department and held a number of positions within MAM Ltd.'s implementation and support departments until his appointment as Department Manager for Workshop and Bodyshop Systems in 1995. Mr. Jamieson was promoted to the position of Associate Director of Workshop and Bodyshop Systems in 2002 before taking his role as Managing Director of MAM Ltd. in 2004. Mr. Jamieson brings to the Board significant expertise in the automotive aftermarket software industry, as well as experience in international business technology and extensive management and operating experience. Having in excess of 20 years' experience with the Company, Mr. Jamieson brings unparalleled knowledge of the Company and its operations and an understanding of the markets the Company operates in as well as the challenges to opening up new markets whether in the United States or elsewhere around the world.
+Dwight B. Mamanteo became a director of the Company on March 1, 2007. Mr. Mamanteo serves as the Chairman of the Company's Compensation Committee and as a member of the Company's Corporate Governance and Nominating Committee and Audit Committee. Since November 2004, Mr. Mamanteo has served as a Portfolio Manager at Wynnefield Capital, a private investment management firm. Since October 2018, Mr. Mamanteo has served on the Board of Directors of Cherokee, Inc. (NasdaqGS: CHKE), a global brand marketing platform that manages a growing portfolio of fashion and lifestyle brands across multiple consumer product categories and retail tiers around the world. Mr. Mamanteo serves as a member of the Nominating and Governance Committee of Cherokee, Inc. Since January 2014, Mr. Mamanteo has served on the Board of Directors of GlyEco, Inc. (OTCPink: GLYE), a developer, manufacturer and distributor of performance fluids for the automotive, commercial and industrial markets. Mr. Mamanteo serves as the Chairman of the Board and as a member of the Audit Committee of GlyEco, Inc. From June 2013 to October 2014, Mr. Mamanteo served on the Board of Directors of ARI Network Services, Inc. (NasdaqCM: ARIS), a provider of products and solutions that serve several vertical markets with a focus on the outdoor power, power sports, marine, RV, and appliance segments. Mr. Mamanteo served as the Chairman of the Governance Committee and as a member of the Compensation Committee of ARI Network Services, Inc. From March 2012 to April 2012, Mr. Mamanteo served on the Board of Directors of CDC Software Corp. (NasdaqCM: CDCS), a provider of Enterprise CRM and ERP software designed to increase efficiencies and profitability. Mr. Mamanteo served as a member of the Audit Committee of CDC Software Corp. From April 2009 to November 2010, Mr. Mamanteo served on the Board of Directors of EasyLink Services International Corporation (NasdaqCM: ESIC), a leading global provider of on-demand electronic messaging and transaction services that help companies optimize relationships with their partners, suppliers, customers and other stakeholders. From December 2007 to November 2008, Mr. Mamanteo served on the Board of Directors and as the Chairman of the Board of PetWatch Animal Hospitals, Inc. (a private company), a provider of primary care and specialized services to companion animals through a network of fully owned veterinary hospitals. From September 2005 to November 2007, Mr. Mamanteo served on the Board of Directors of Sherpa Service Corps, Inc. (a private company), a service provider enabling subscribing institutions to accelerate academic and other institutions' enrollment of international students and facilitating the institutions' compliance with federal statutory obligations. Prior to joining Wynnefield Capital, Mr. Mamanteo worked in the field of technology for over 10 years in various positions for BEA Systems, VISA International, Ericsson, UNISYS, and as an independent consultant. Mr. Mamanteo received an M.B.A. from the Columbia University Graduate School of Business and a B. Eng. in Electrical Engineering from Concordia University (Montreal). Mr. Mamanteo brings to the Board valuable business and finance experience, particularly the experience of a professional who has had experience in other industries by virtue of his investing experience, as well as related operational experience gained in technology companies such as BEA, Ericsson and UNISYS.  
+Frederick G. Wasserman became a director of the Company on July 17, 2007 and was named as Chairman of the Board of Directors on June 29, 2016.  Mr. Wasserman is President of FGW Partners, LLC, a financial management consulting firm he started, effective as of May 1, 2008. From January 2007 through April 2008, Mr. Wasserman provided financial management consulting services as a sole proprietor. He also brings 13 years of public accounting experience, most notably work with each of Coopers & Lybrand and Eisner & Company. Mr. Wasserman also serves as a director for the following companies: Tapimmune, Inc. (Chairman of the Nominating and Governance Committee, and Member of the Audit Committee), DLH Holdings Corp. (Chairman - Board of Directors) and SMTC Corporation (Chairman of the Audit Committee and Member of the Compensation Committee). From October 2013 to September 2016, Mr. Wasserman served on the Board of Directors of National Holdings, Inc. (which acquired Gilman + Ciocia, Inc. on October 15, 2013) (Member - Audit Committee; Co-Chair - Strategy Committee). From September 2007 to December 2015, he served on the Board of Directors of Breeze-Eastern Corporation (Chairman - Audit Committee; Compensation Committee). From December 2006 to August 2010, Mr. Wasserman served on the Board of Directors of Allied Defense Group (Member - Audit Committee, Ethics and Governance Committee). From July 2007 to August 2010, he served on the Board of Directors of Crown Crafts, Inc. Mr. Wasserman received a Bachelor of Science degree in Economics from the University of Pennsylvania's Wharton School and has been a Certified Public Accountant. Mr. Wasserman brings strong management and public company board experience to the Board which enable him to assure best management practices throughout the Company. In addition, his experience as a chief financial officer and/or financial consultant at several companies is an invaluable resource for the Board and the Company.
+W. Austin Lewis IV was appointed to the Board on January 27, 2009. Mr. Lewis serves as Chairman of the Audit Committee and as a member of the Compensation Committee and the Corporate Governance and Nominating Committee of the Company. He currently serves as Chief Financial Officer and a director of Paid, Inc., an Internet e-commerce company, as well as the Chief Executive Officer of Lewis Asset Management Corp., an investment management company headquartered in New York City which he founded in 2004. From 2003 to 2004, Mr. Lewis was employed at Puglisi & Company, a New York based broker-dealer registered with FINRA, where he served as a registered representative and managed individual client accounts, conducted due diligence for investment banking activities and managed his own personal account. In 2002, Mr. Lewis co-founded Thompson Davis, & Company, Inc., a registered broker-dealer headquartered in Richmond, Virginia. From 1998 to 2002, Mr. Lewis was employed by Branch Cabell and Company, Inc. in Richmond, Virginia ("Branch Cabell") where he was a registered representative. Following the November 2000 acquisition of Branch Cabell by Tucker Anthony Incorporated ("Tucker Anthony"), Mr. Lewis served as a Vice-President for Tucker Anthony and subsequently RBC Dain Rauscher, Inc. which acquired Tucker Anthony in August 2001. Mr. Lewis received his Bachelor of Science degree in Finance and Financial Economics from James Madison University in 1998. Mr. Lewis brings to the Board significant experience as an early-stage investor, principally in the information technology industry through his position as Chief Executive Officer of Lewis Asset Management. In addition, his experience in several facets of the financial industry provides him with a unique perspective on the opportunities and challenges facing early stage companies.
+Peter H. Kamin was appointed to the Board on May 18, 2012. Mr. Kamin is the Chairman of the Corporate Governance and Nominating Committee and serves as a member of the Compensation Committee and the Audit Committee of the Company. Mr. Kamin is the founder and Managing Partner of 3K Limited Partnership ("3K"). For the 11 years preceding the formation of 3K, Mr. Kamin was a founding member and Managing Partner of ValueAct Capital. Prior to founding ValueAct Capital in 2000, Mr. Kamin founded and managed Peak Investment L.P. Peak was a limited partnership, organized to make investments in a select number of domestic public and private companies. Mr. Kamin is presently Chairman of the Board of Directors of Tile Shop Holdings and several privately held companies. Mr. Kamin has previously served as a director of a number of public and privately held companies. Mr. Kamin holds a B.A. from Tufts University and an M.B.A. from Harvard's Graduate School of Business.  Mr. Kamin brings to the Board valuable business and finance expertise due to his significant experience as a director of publicly held companies and his substantial experience as an investor.
+Required Vote 
+Our Certificate of Incorporation does not authorize cumulative voting. Delaware law and our Bylaws provide that directors are to be elected by a plurality of the votes of the shares present in person or represented by proxy at the Annual Meeting and entitled to vote on the election of directors. This means that the five (5) nominees receiving the highest number of affirmative votes at the Annual Meeting will be elected as directors. Only shares that are voted in favor of a particular nominee will be counted toward that nominee's achievement of a plurality. Shares present at the Annual Meeting that are not voted for a particular nominee or shares present by proxy where the stockholder properly withheld authority to vote for such nominee will not be counted toward that nominee's achievement of a plurality. 
+At the Annual Meeting, a vote will be taken on a proposal to approve the election of five (5) director nominees. 
+THE BOARD UNANIMOUSLY RECOMMENDS A VOTE FOR 
+THE ELECTION OF THE FIVE (5) DIRECTOR NOMINEES. 
+CORPORATE GOVERNANCE
+Board of Directors 
+The Board oversees our business affairs and monitors the performance of our management. In accordance with our corporate governance principles, the Board does not involve itself in day-to-day operations. The directors keep themselves informed through discussions with the Chief Executive Officer, other key executives and by reading the reports and other materials sent to them and by participating in Board and committee meetings. Our directors hold office until the next Annual Meeting of Stockholders and until their successors are elected and qualified or until their earlier resignation or removal, or if for some other reason they are unable to serve in the capacity of director.
+Director Independence 
+Our determination of independence of directors is made using the definition of "independent director" contained in Rule 5605(a)(2) of the Marketplace Rules of the NASDAQ Stock Market ("NASDAQ") because we are listed on NASDAQ. We have determined that Peter H. Kamin, W. Austin Lewis IV, Frederick G. Wasserman and Dwight B. Mamanteo are "independent" within the meaning of such rules.
+Board Meetings and Attendance 
+During fiscal year 2018, the Board held four (4) physical and telephonic meetings. No incumbent director attended, either in person or via telephone, fewer than 75% of the aggregate of all meetings of the Board and committees, if any, on which each director served.  The Board also approved certain actions by unanimous written consent.
+Annual Meeting Attendance 
+All of the Company's five (5) then-sitting directors attended our 2018 Annual Meeting of Stockholders, which was held in New York, New York, on December 19, 2017.
+Stockholder Communications with the Board 
+We have not implemented a formal policy or procedure by which our stockholders can communicate directly with our Board. Nevertheless, every effort has been made to ensure that the views of stockholders are heard by the Board or individual directors, as applicable, and that appropriate responses are provided to stockholders in a timely manner. We believe that we are responsive to stockholder communications, and therefore have not considered it necessary to adopt a formal process for stockholder communications with our Board. During the upcoming year, our Board will continue to monitor whether it would be appropriate to adopt such a process.
+Board Committees
+Our Board has three (3) standing committees of the Board: a Compensation Committee; an Audit Committee; and a Corporate Governance and Nominating Committee. The members of these committees are:
+[BEGIN TABLE]
+ Compensation Committee        Audit Committee        Corporate Governance and  Nominating Committee   
+ Compensation Committee        Audit Committee        Corporate Governance and  Nominating Committee   
+ Dwight B. Mamanteo – Chair        W. Austin Lewis IV – Chair *       Peter H. Kamin – Chair  
+ Peter H. Kamin       Peter H. Kamin       Dwight B. Mamanteo  
+ W. Austin Lewis IV       Dwight B. Mamanteo       W. Austin Lewis IV  
+[END TABLE]
+The Audit Committee of the Board assists the Board in fulfilling its responsibility for oversight of the quality and integrity of the accounting, auditing, and reporting practices of the Company and such other duties as directed by the Board. The Audit Committee's purpose is to oversee the accounting and financial reporting processes of the Company, the audit of the Company's financial statements, the qualification of the public accounting firm engaged as the Company's independent auditor to prepare or issue an audit report on the financial statements of the Company, and the performance of the Company's internal and independent auditors. The Audit Committee's role includes a particular focus on the qualitative aspects of financial reporting to stockholders, the Company's processes to manage business and financial risk, and compliance with significant applicable legal, ethical, and regulatory requirements. The Audit Committee is directly responsible for the appointment, compensation, retention and oversight of the independent auditor. 
+During fiscal year 2018, the Audit Committee held four (4) physical and telephonic meetings.
+The Audit Committee's charter is attached as Appendix A to this Proxy Statement.
+Compensation Committee
+The Compensation Committee's role is to discharge the Board's responsibilities relating to compensation of the Company's executives, to produce an annual report on executive compensation for inclusion in the Company's proxy statement, and to oversee and advise the Board on the adoption of policies that govern the Company's compensation programs, including stock and benefit plans.
+During fiscal year 2018, the Compensation Committee held two (2) physical or telephonic meetings.
+The Compensation Committee's charter is attached as Appendix B to this Proxy Statement.
+Corporate Governance and Nominating Committee
+The Corporate Governance and Nominating Committee's role is to appoint nominees for election to the Board, to identify and recommend candidates to fill vacancies occurring between Annual Stockholder Meetings, to review, evaluate and recommend changes to the Company's corporate governance policies, and to review the Company's policies and programs that relate to matters of corporate responsibility, including public issues of significance to the Company and its stockholders.
+During fiscal year 2018, the Corporate Governance and Nominating Committee held two (2) physical or telephonic meetings.
+The Corporate Governance and Nominating Committee's charter is attached as Appendix C to this Proxy Statement.
+Nominating Procedures and Criteria
+Director Qualifications. The Corporate Governance and Nominating Committee believes that persons nominated to the Board should have personal integrity and high ethical character. Candidates should not have any interests that would materially impair his or her ability to exercise independent judgment or otherwise discharge the fiduciary duties owed by a director to the Company and its stockholders. Candidates must be able to represent fairly and equally all stockholders of the Company without favoring any particular stockholder group or other constituency of the Company and must be prepared to devote adequate time to the Board and its committees.
+Identifying Director Candidates. The Corporate Governance and Nominating Committee utilizes a variety of methods for identifying and evaluating nominees to serve as directors. The Corporate Governance and Nominating Committee has a policy of re-nominating incumbent directors who continue to satisfy the committee's criteria for membership and whom the Corporate Governance and Nominating Committee believes continue to make important contributions to the Board and who consent to continue their service on the Board.
+In filling vacancies of the Board, the Corporate Governance and Nominating Committee will solicit recommendations for nominees from the persons the committee believes are likely to be familiar with (i) the needs of the Company and (ii) qualified candidates. These persons may include members of the Board and management of the Company. The Corporate Governance and Nominating Committee may also engage a professional search firm to assist in identifying qualified candidates.
+In evaluating potential nominees, the Corporate Governance and Nominating Committee will oversee the collection of information concerning the background and qualifications of the candidate and determine whether the candidate satisfies the minimum qualifications required by the Corporate Governance and Nominating Committee for election as director and whether the candidate possesses any of the specific skills or qualities that must be possessed by one or more members of the Board pursuant to the Board's policies.
+The Corporate Governance and Nominating Committee does not have a written policy with respect to Board diversity; however, the committee's goal is to assemble a Board that brings to the Company a diversity of knowledge, skills and expertise derived from high quality business and professional experience. We believe a Board with these attributes leads to improved Company performance by encouraging new ideas and perspectives and expanding the knowledge base available to management.
+The Corporate Governance and Nominating Committee may interview any proposed candidate and may solicit the views about the candidate's qualifications and suitability from the Company's Chief Executive Officer and other senior members of management.
+The Corporate Governance and Nominating Committee will make its selections based on all the available information and relevant considerations. The Corporate Governance and Nominating Committee's selection will be based on who, in the view of the Corporate Governance and Nominating Committee, will be best suited for membership on the Board. In making its selection, the Corporate Governance and Nominating Committee will evaluate candidates proposed by stockholders under criteria similar to other candidates, except that the Corporate Governance and Nominating Committee may consider, as one of the factors in its evaluation, the size and duration of the interest of the recommending stockholder in the stock of the Company.
+The Corporate Governance and Nominating Committee may also consider the extent to which the recommending stockholder intends to continue to hold its interest in the Company, including whether the recommending stockholder intends to continue holding its interest at least through the time of the meeting at which the candidate is to be elected.
+Stockholder Nominees. The Corporate Governance and Nominating Committee will consider director nominee recommendations by stockholders, provided the names of such nominees, accompanied by relevant biographical information, are properly submitted in writing to the Company in accordance with the manner described for stockholder proposals under the heading "Future Stockholder Proposals." The acceptance of a recommendation from a stockholder does not imply that the Corporate Governance and Nominating Committee will recommend to the Board the nomination of the candidate recommended by the stockholder.
+Family Relationships 
+There are no familial relationships among any of our officers and directors.
+Involvement in Certain Legal Proceedings 
+Except as described below, to the best of our knowledge, none of our directors or executive officers has, during the past ten (10) years: 
+[BEGIN TABLE]
+● been convicted in a criminal proceeding or been subject to a pending criminal proceeding (excluding traffic violations and other minor offenses);  
+[END TABLE]
+[BEGIN TABLE]
+● had any bankruptcy petition filed by or against the business or property of the person, or of any partnership, corporation or business association of which he was a general partner or executive officer, either at the time of the bankruptcy filing or within two (2) years prior to that time;  
+[END TABLE]
+[BEGIN TABLE]
+● been subject to any order, judgment, or decree, not subsequently reversed, suspended or vacated, of any court of competent jurisdiction or federal or state authority, permanently or temporarily enjoining, barring, suspending or otherwise limiting, his involvement in any type of business, securities, futures, commodities, investment, banking, savings and loan, or insurance activities, or his association with persons engaged in any such activity;  
+[END TABLE]
+[BEGIN TABLE]
+● been found by a court of competent jurisdiction in a civil action or by the SEC or the Commodity Futures Trading Commission to have violated a federal or state securities or commodities law, and the judgment has not been reversed, suspended, or vacated;  
+[END TABLE]
+[BEGIN TABLE]
+● been the subject of, or a party to, any federal or state judicial or administrative order, judgment, decree, or finding, not subsequently reversed, suspended or vacated (not including any settlement of a civil proceeding among private litigants), relating to an alleged violation of any federal or state securities or commodities law or regulation, any law or regulation respecting financial institutions or insurance companies including, but not limited to, a temporary or permanent injunction, order of disgorgement or restitution, civil money penalty or temporary or permanent cease-and-desist order, or removal or prohibition order, or any law or regulation prohibiting mail or wire fraud or fraud in connection with any business entity; or  
+[END TABLE]
+[BEGIN TABLE]
+● been the subject of, or a party to, any sanction or order, not subsequently reversed, suspended or vacated, of any self-regulatory organization (as defined in Section 3(a)(26) of the Exchange Act), any registered entity (as defined in Section 1(a)(29) of the Commodity Exchange Act), or any equivalent exchange, association, entity or organization that has disciplinary authority over its members or persons associated with a member.  
+[END TABLE]
+In addition, the Company is not engaged in, nor is it aware of any pending or threatened, litigation in which any of its directors, executive officers, affiliates or owners of more than 5% of the Common Stock, or any associate of any such directors, executive officers, affiliates or owners of more than 5% of the Common Stock, is a party adverse to the Company or has a material interest adverse to the Company.
+Leadership Structure of the Board 
+The Board does not currently have a policy on whether the same person should serve as both the Chief Executive Officer and Chairman of the Board or, if the roles are separate, whether the Chairman of the Board should be selected from the non-employee directors or should be an employee. The Board believes that it should have the flexibility to make these determinations at any given point in time in the way that it believes best to provide appropriate leadership for the Company at that time. Our current Chairman of the Board, Frederick G. Wasserman, is not an officer. Mr. Wasserman has served as a member of our Board since 2007.
+Risk Oversight 
+The Board oversees risk management directly and through its committees associated with their respective subject matter areas. Generally, the Board oversees risks that may affect the business of the Company as a whole, including operational matters. The Audit Committee is responsible for oversight of the Company's accounting and financial reporting processes and also discusses with management the Company's financial statements, internal controls and other accounting and related matters. The Compensation Committee oversees certain risks related to compensation programs and the Corporate Governance and Nominating Committee oversees certain corporate governance risks. As part of their roles in overseeing risk management, these committees periodically report to the Board regarding briefings provided by management and advisors as well as the committees' own analysis and conclusions regarding certain risks faced by the Company. Management is responsible for implementing the risk management strategy and developing policies, controls, processes and procedures to identify and manage risks. 
+Code of Ethics
+MAM is committed to maintaining the highest standard of business conduct and corporate governance, which we believe is essential to running our business efficiently, serving our stockholders well and maintaining MAM's integrity in the marketplace. MAM maintains a code of business conduct and ethics for directors, officers (including MAM's principal executive officer, principal financial officer and principal accounting officer) and employees, known as our Code of Ethics of Business Conduct. This document is available at www.mamsoftware.com/content/downloads/code-of-ethics-document-lo.pdf. MAM will post on its website any amendments to the Code of Ethics of Business Conduct or waivers of the Code of Ethics of Business Conduct. Stockholders may request free printed copies of the Code of Ethics of Business Conduct from:
+MAM Software Group, Inc.
+Attention: Investor Relations
+Two Valley Square, Suite 220
+512 Township Line Road
+Blue Bell, PA 19422
+(610) 336-9045
+DIRECTOR COMPENSATION FOR FISCAL YEAR 2018 
+For the 2018 fiscal year, each of the directors who were not officers of the Company received cash compensation in the amount of $55,000. The following table reflects all compensation awarded to, earned by or paid to the Company's directors for the fiscal year ended June 30, 2018. 
+[BEGIN TABLE]
+         Fees   			Earned or   			Paid in   			Cash   			($)            Stock   			Awards   			($)(1)            Options   			Awards   			($)            Non-Equity   			Incentive Plan   			Compensation   			($)            Nonqualified   			Deferred   			Compensation   			Earnings   			($)            All   			Other   			Compen-   			sation   			($)            Total   			($)       
+ Dwight B. Mamanteo           55,000             55,000   (2)           —               —               —               —               110,000      
+ Frederick G. Wasserman           55,000               55,000   (2)           —               —               —               —               110,000      
+ W. Austin Lewis IV           55,000               55,000   (2)           —               —               —               —               110,000      
+ Peter H. Kamin           55,000               55,000   (2)           —               —               —               —               110,000      
+[END TABLE]
+[BEGIN TABLE]
+     (1)   The amount shown in the table reflects the dollar amount recognized for fiscal year 2018 financial statement reporting purposes of the outstanding stock awards held by the directors in accordance with ASC 718-10-25-5. Refer to the Company's Consolidated Financial Statements for the Fiscal Years Ended June 30, 2018 and 2017, Note 7 "Stockholders' Equity," included in the Company's Annual Report on Form 10-K for the fiscal year ended June 30, 2018, with respect to valuation assumptions for this stock grant. The directors held no other stock or option awards at June 30, 2018.  
+[END TABLE]
+[BEGIN TABLE]
+     (2)   Includes 8,648 shares of Common Stock valued at market price on the date of grant.  
+[END TABLE]
+INFORMATION ABOUT OUR EXECUTIVE OFFICERS 
+Our executive officers are:
+[BEGIN TABLE]
+ Name       Age       Position  
+ Michael G. Jamieson        51        Chief Executive Officer and Director   
+ Brian H. Callahan       47        Chief Financial Officer  
+ Lee Broad        45        Chief Technology Officer   
+[END TABLE]
+Biographical information about Michael G. Jamieson appears on page 5 above.
+Brain H. Callahan was appointed as our Chief Financial Officer on October 19, 2015. Mr. Callahan has served as a senior executive financial officer of public companies and has over 20 years of experience in the areas of accounting and finance. Prior to joining the Company, Mr. Callahan served as Executive Vice President, Chief Financial Officer, Corporate Secretary and Treasurer of Alteva, Inc., a publicly traded cloud-based communications company, from August 2012 to October 2015. From April 1998 to August 2012, Mr. Callahan held several positions of increasing responsibility, including his last leadership position of Senior Vice President of Finance, Accounting and Treasury, at Expert Global Solutions, Inc., a global provider of business process outsourcing services. From August 1994 to April 1998, Mr. Callahan was employed at Coopers & Lybrand L.L.P., an accounting firm. Mr. Callahan received a Bachelor of Science in Accounting from Drexel University, located in Philadelphia, Pennsylvania, and received his license (currently inactive) as a certified public accountant (CPA) in Pennsylvania.
+Lee Broad was appointed as our Chief Technology Officer on July 1, 2013.  Mr. Broad served as Director of Technical Development for MAM's subsidiary, MAM Software Limited, from April 2004 to June 2013 and was the Software Development Manager from May 1999 to March 2004. Mr. Broad joined MAM Ltd. in April 1992 in its development department and was appointed lead developer for MAM Ltd.'s Autopart and Autocat product lines in November 1995. Mr. Broad brings unparalleled knowledge of the Company and its operations and has a wealth of technical expertise and knowledge of the automotive aftermarket.
+EXECUTIVE COMPENSATION 
+Summary Compensation Table for Fiscal Years 2018 and 2017 
+As required by Item 402(m)(2) of Regulation S-K under the Securities Act, the following table sets forth all plan and non-plan compensation for the last two (2) completed fiscal years paid to (i) all individuals who served as the Company's principal executive officer or acted in a similar capacity during the last completed fiscal year and (ii) the Company's two (2) other most highly compensated executive officers other than the principal executive officer who were serving as executive officers at the end of the last completed fiscal year. We refer to these individuals as our "named executive officers."
+[BEGIN TABLE]
+                                       Non-       Non-                    
+                                       Equity       qualified                    
+                                       Incentive       Deferred       All            
+                       Stock       Option       Plan       Compensation       Other            
+ Name and   Fiscal     Salary       Bonus       Awards       Awards       Compensation       Earnings       Compensation       Total    
+ Principal Position   Year     ($)       ($)       ($)(4)       ($)       ($)       ($)       ($)(5)       ($)    
+ Michael G. Jamieson, Chief Executive Officer, President and Director (1)   2018      268,488       145,000       1,772,067                               69,290       2,254,845   
+   2017      237,293       56,216       —       —       —       —       21,027       314,536   
+ Brian H. Callahan, Chief Financial Officer (2)   2018      235,462       80,500                                       7,708       323,670   
+   2017      230,000       143,000       —       —       —       —       6,900       379,900   
+ Lee Broad, Chief Technology Officer, (3)   2018      186,209       35,149       610,423                               20,449       852,230   
+   2017      169,781       11,536       —       —       —       —       17,732       199,049   
+[END TABLE]
+[BEGIN TABLE]
+ (1)   Reflects salary paid to Mr. Jamieson for services rendered to us and our subsidiaries as MAM's Chief Executive Officer and President.  Prior to August 2017, Mr. Jamieson's salary was paid by a subsidiary of the Company in British Pounds Sterling of 19,910 GPB for fiscal year 2018 and 187,110 GPB for fiscal year 2017.  The amounts shown for fiscal years 2018 and 2017 were translated to U.S. dollars based on a currency conversion rate of 1 GBP = US$1.3471 and 1 GBP = US$1.2682, respectively. Mr. Jamieson did not receive any additional compensation for his services as a director on our Board.  
+[END TABLE]
+[BEGIN TABLE]
+ (2)   Mr. Callahan's $143,000 bonus for fiscal year 2017 includes $46,000 that was due to Mr. Callahan in October 2016 upon the completion of his first year of service per the terms of his employment agreement with the Company, and $97,000 that was earned for fiscal year 2017 performance.   
+[END TABLE]
+[BEGIN TABLE]
+ (3)   Reflects salary paid to Mr. Broad for services rendered to us and our subsidiaries during fiscal years 2018 and 2017 as MAM's Chief Technology Officer. Salary was paid by a subsidiary of the Company in British Pounds Sterling of 138,231 GPB for fiscal year 2018 and 133,875 GPB for fiscal year 2017. The amounts shown for fiscal years 2018 and 2017 were translated to U.S. dollars based on a currency conversion rate of 1 GBP = US$1.3471 and 1 GBP = US$1.2682, respectively.  
+[END TABLE]
+[BEGIN TABLE]
+ (4)   For Mr. Jamieson, in fiscal year 2018 the amount shown in the "Stock Awards" column reflects the vested date fair value of awards vesting during fiscal year 2018 measured in accordance with Accounting Standards Codification Topic 718.  During fiscal year 2018, the Company released from escrow 218,504 shares of Common Stock valued at $1,772,067 to Mr. Jamieson which vested, as our Compensation Committee determined that the initial threshold had been met pursuant to the Company's 2007 Long Term Incentive Plan ("LTIP") and the officers' employment agreements.   No shares vested in fiscal year 2017.  
+[END TABLE]
+[BEGIN TABLE]
+   For Mr. Broad, in fiscal year 2018 the amount shown in the "Stock Awards" column reflects the vested date fair value of awards vesting during fiscal year 2018 measured in accordance with Accounting Standards Codification Topic 718.  During fiscal year 2018, the Company released from escrow 75,268 shares of Common Stock valued at $610,423 to Mr. Broad which vested, as our Compensation Committee determined that the initial threshold had been met pursuant to the Company's LTIP and the officers' employment agreements.  No shares vested in fiscal year 2017.  
+[END TABLE]
+[BEGIN TABLE]
+ (5)   For fiscal year 2018, included: (i) the Company's matching contribution under the post retirement plans of $7,562, $7,708, and $5,586 for Messrs. Jamieson, Callahan, and Broad, respectively; (ii) the use of a company car of $14,479 and $14,862 for Messrs. Jamieson and Broad, respectively; and (iii) a housing allowance of $47,250 for Mr. Jamieson. For fiscal year 2017, included: (i) the Company's matching contribution under the post retirement plans of $7,119, $6,900, and $5,093 for Messrs. Jamieson, Callahan, and Broad, respectively; and (ii) the use of a company car of $13,908 and $12,639 for Messrs. Jamieson and Broad, respectively.  
+[END TABLE]
+Employment Agreements
+The employment agreements for Michael Jamieson, our Chief Executive Officer, Brian H. Callahan, our Chief Financial Officer, and Lee Broad, our Chief Technology Officer, each provide for the grant of restricted stock to such officers, a portion of which vest when the market price of the Common Stock trades at or above certain price levels for the previous 30-day volume weighted average price ("VWAP").
+Michael G. Jamieson Employment Agreement
+The employment agreement, dated as of July 1, 2010, as amended effective July 1, 2012, between the Company and Mr. Jamieson (the "Jamieson Agreement") was for an initial term of three (3) years from the Effective Date (as defined therein), which was extended by an amendment to June 30, 2015. Pursuant to the Jamieson Agreement, Mr. Jamieson's employment was automatically extended for additional one (1) year periods. Pursuant to the Jamieson Agreement, Mr. Jamieson received a base salary of 187,110 GBP (approximately U.S. $237,293) for fiscal year 2017.
+On March 27, 2017, the Company entered into a letter agreement with Mr. Jamieson (the "Jamieson Letter Agreement"), which became effective on April 1, 2017. The Jamieson Letter Agreement amends the term of the Jamieson Agreement to a fixed three-year term, which became effective upon Mr. Jamieson's relocation from the U.K. to the U.S. (the "Relocation"). The Jamieson Letter Agreement changes Mr. Jamieson's reporting location to Blue Bell, Pennsylvania. Pursuant to the Jamieson Letter Agreement, Mr. Jamieson shall be entitled to a base salary of $290,000, effective upon the Relocation. Additionally, the Jamieson Letter Agreement provides for certain housing and travel expense reimbursements by the Company in connection with the Relocation. On August 9, 2017, Mr. Jamieson completed the Relocation.
+Mr. Jamieson is eligible for a performance-based annual cash incentive bonus depending on the extent to which the applicable performance goal(s) of the Company, which are to be established by the Compensation Committee or pursuant to a formal bonus plan, are achieved, subject to any operating covenants in place with respect to outstanding bank debt. The Compensation Committee established a revenue related target, an EBITDA-related target, and strategic targets for the fiscal year ended June 30, 2018 with respect to Mr. Jamieson's potential incentive bonus for fiscal year 2018.
+In addition, Mr. Jamieson is entitled to participate in all of our benefit plans and our equity-based compensation plans, which currently consists of our 2017 Equity Incentive Plan (the "2017 Plan").
+On April 27, 2012, the Board approved the issuance of 728,350 restricted shares of Common Stock to Mr. Jamieson pursuant to the Company's LTIP. On April 10, 2014, the Company released from escrow 291,340 shares of Common Stock to Mr. Jamieson which vested, as our Compensation Committee determined that the initial threshold had been met pursuant to the LTIP and Mr. Jamieson's employment agreement. The Company withheld 85,217 shares of Common Stock which were used to pay income taxes and those shares were retired by the Company.
+On September 18, 2014, the Company released from escrow 109,252 shares of Common Stock to Mr. Jamieson which vested pursuant to the terms of the grant as the market price threshold of the Common Stock had been achieved. The shares of Common Stock were issued pursuant to the Company's LTIP and Mr. Jamieson's employment agreement. The Company withheld 31,957 shares of Common Stock which were used to pay taxes and those shares were retired by the Company.
+In June 2016, the Company released from escrow 109,252 shares of Common Stock to Mr. Jamieson which vested pursuant to the terms of the grant as the market price threshold of the Common Stock had been achieved. The Company withheld 33,376 shares of Common Stock which were used to pay taxes and those shares were retired by the Company.
+In May 2018, the Company released from escrow 218,504 shares of Common Stock to Mr. Jamieson which vested pursuant to the terms of the grant as the market price threshold of the Common Stock had been achieved.
+The initial value of the Common Stock granted to Mr. Jamieson was approximately $244,000 and, as of June 30, 2015, the total amount of stock based compensation granted to Mr. Jamieson has been expensed. The Company recorded expense of $55,000 from the amortization of the restricted shares for the fiscal year ended June 30, 2015. The shares were valued using a Monte Carlo Simulation with a three-year life, 124.8% volatility and a risk-free interest rate of 0.39%.
+The Jamieson Agreement provides that in the event Mr. Jamieson's employment is terminated by the Company other than for Cause or Disability (as such terms are defined therein), or Mr. Jamieson shall terminate his employment for Good Reason (as defined therein), he is entitled to, among other things, a severance payment equal to his annual base salary.
+Brian H. Callahan Employment Agreement
+The employment agreement, dated as of October 16, 2015, between the Company and Mr. Callahan, our Chief Financial Officer (the "Callahan Agreement"), provides for an initial term of two (2) years from the effective date of such agreement with automatic one (1)-year extensions, unless terminated by Mr. Callahan or us.
+Pursuant to the terms of the Callahan Agreement, the Company agreed to pay Mr. Callahan an annual base salary of $230,000, subject to annual review. Mr. Callahan is eligible for a targeted cash bonus of up to 40% of his base salary based on performance goals established by the Compensation Committee; provided, however, that on the one-year anniversary of the effective date of the Callahan Agreement, Mr. Callahan shall be entitled to a one-time bonus equal to 20% of his base salary, which shall be deemed earned in the event that the annual cash bonus is earned.
+In addition, Mr. Callahan is entitled to participate in all of our benefit plans and our equity-based compensation plans, which currently consists of the 2017 Plan.
+Pursuant to the terms of the Callahan Agreement, Mr. Callahan was granted 160,000 restricted shares of Common Stock, which will vest according to the following schedule: 
+[BEGIN TABLE]
+• 20% when the market price of Common Stock trades at or above $9 for the previous 30-day VWAP.  
+• 30% when the market price of Common Stock trades at or above $10 for the previous 30-day VWAP.  
+• 30% when the market price of Common Stock trades at or above $11 for the previous 30-day VWAP.  
+• 20% when the market price of Common Stock trades at or above $12 for the previous 30-day VWAP.  
+[END TABLE]
+The initial value of the Common Stock granted to Mr. Callahan was approximately $385,000. The Company recorded expense of $75,000 from the amortization of the restricted shares for the fiscal year ended June 30, 2017. The shares were valued using a Monte Carlo Simulation with a three-year life, 30.9% volatility and a risk-free interest rate of 1.13%.
+Mr. Callahan's restricted shares issued pursuant to the stock grants issued on October 16, 2015 with a vesting price at or above $9 will vest upon a change of control of the Company and the remaining shares will only vest upon a change of control of the Company if the acquisition price is at or above the vesting price. 
+The Callahan Agreement provides that in the event Mr. Callahan's employment is terminated by the Company other than for Cause or Disability (as such terms are defined therein), or Mr. Callahan shall terminate his employment for Good Reason (as defined therein), he is entitled to, among other things, a severance payment equal to his annual base salary.
+Lee Broad Employment Agreement
+The employment agreement, dated as of July 1, 2013, between the Company and Mr. Broad (the "Broad Agreement") is for an initial term of two (2) years from July 1, 2013 and is automatically renewable for successive one (1)-year periods unless terminated by Mr. Broad or the Company. Mr. Broad's employment was automatically extended after June 30, 2018 for an additional one (1)-year period and will be automatically extended for additional one-year periods unless terminated by Mr. Broad or us.
+Mr. Broad is eligible for a performance-based annual cash incentive bonus depending on the extent to which the applicable performance goal(s) of   the Company, which are to be established by the Compensation Committee or pursuant to a formal bonus plan, are achieved, subject to any operating covenants in place with respect to outstanding bank debt.
+In addition, Mr. Broad is entitled to participate in all of our benefit plans and equity-based compensation plans, which currently consists of the 2017 Plan.
+On July 1, 2013, the Board approved the issuance of 250,892 restricted shares of Common Stock to Mr. Broad pursuant to the LTIP. These shares were issued to Mr. Broad and are being held in escrow until they vest.
+On September 18, 2014, the Company released from escrow 50,178 shares of Common Stock to Mr. Broad which vested pursuant to the terms of the July 1, 2013 grant as the market price threshold of the Common Stock had been achieved. The Company withheld 23,584 shares which were used to pay taxes and those shares were retired by the Company.
+In June 2016, the Company released from escrow 75,267 shares of Common Stock to Mr. Broad which vested pursuant to the terms of the grant as the market price threshold of the Common Stock had been achieved. The Company withheld 22,994 shares of Common Stock which were used to pay taxes and those shares were retired by the Company.
+In May 2018, the Company released from escrow 75,268 shares of Common Stock to Mr. Broad which vested pursuant to the terms of the grant as the market price threshold of the Common Stock had been achieved.
+The remaining unvested restricted shares issued to Mr. Broad will vest according to the following schedule:  
+[BEGIN TABLE]
+• 20% when the market price of Common Stock trades at or above $9 for the previous 30-day VWAP.  
+[END TABLE]
+The initial value of the Common Stock granted to Mr. Broad was approximately $265,000, and as of June 30, 2015, the total amount of stock based compensation has been expensed. The Company recorded an expense of $110,000 from the amortization of the unvested restricted shares for the fiscal year ended June 30, 2015. The shares were valued using a Monte Carlo Simulation with a two-year life, 124.8% volatility and a risk-free interest rate of 0.39%.
+None of Mr. Broad's remaining restricted shares issued pursuant to the stock grants issued on July 1, 2013 will vest upon a change of control of the Company unless the acquisition price is at or above the vesting prices. 
+The Broad Agreement provides that in the event Mr. Broad's employment is terminated by the Company other than for Cause or Disability (as such terms are defined therein), or Mr. Broad shall terminate his employment for Good Reason (as such term is defined therein), he is entitled to, among other things, a severance payment equal to his annual base salary.
+Severance Benefits 
+As described above, each of the employment agreements with our officers contains a severance benefit for that officer if he or she is terminated other than for cause or the officer leaves the Company after a change in control, provided they leave for "good reason." We provide this benefit because we want executives to focus on the Company's business and enhancing stockholder value without undue concern about any possible loss of their job.
+Change in Control 
+The Jamieson Agreement contains standard provisions that protect Mr. Jamieson in the event of a change in control that has not been approved by our Board. In addition, the LTIP and the 2017 Plan provide for acceleration of vesting in the event of a change in control. The precise terms and conditions of each employment agreement are described above.
+Other Compensation
+Other than as described above, there were no post-employment compensation, pension or nonqualified deferred compensation benefits earned by our executive officers during the years ended June 30, 2018 and 2017. We do not have any retirement, pension, or profit-sharing programs for the benefit of our directors, officers or other employees. The Board may recommend adoption of one or more such programs in the future.
+Outstanding Equity Awards at 2018 Fiscal Year End
+The following table provides information relating to the unexercised options, unvested stock and unvested equity incentive plan awards held by our named executive officers as of June 30, 2018. Each award to each named executive officer is shown separately, with a footnote describing the award's vesting schedule.
+[BEGIN TABLE]
+     Option Awards       Stock Awards    
+ Name     Number of   			Securities   			Underlying   			Unexercised   			Options   			(# Exercisable)       Number of   			Securities   			Underlying   			Unexercised   			Option   			(# Unexercisable)       Equity   			Incentive   			Plan   			Awards:   			Number of   			Securities   			Underlying   			Unexercised   			Unearned   			Options (#)       Option   			Exercise   			Price   			($)       Option   			Expiration   			Date       Number of   			Shares or   			Units of   			Stock That   			Have Not   			Vested   			(#)       Market   			Value of   			Shares or   			Units of   			Stock That   			Have Not   			Vested   			($)       Equity   			Incentive   			Plan   			Awards:   			Number   			of   			Unearned   			Shares,   			Units or   			Other Rights   			That Have   			Not   			Vested   			(#)       Equity   			Incentive   			Plan Awards:   			Market or   			Payout   			Value of   			Unearned   			Shares, Units   			Or Other   			Rights   			That Have   			Not   			Vested   			($)    
+ Michael G. Jamieson      —       —       —       —       —       —       —       —     $ — (1)  
+ Brian H. Callahan      —       —       —       —       —       —       —       160,000     $ 1,379,200 (1)  
+ Lee Broad      —       —       —       —       —       —       —       50,178     $ 432,534 (1)  
+[END TABLE]
+[BEGIN TABLE]
+ (1)   Based on the closing price of $8.62 of our Common Stock on June 29, 2018.  
+[END TABLE]
+CERTAIN RELATIONSHIPS AND RELATED PARTY TRANSACTIONS
+Other than compensation arrangements described herein, during the past two (2) fiscal years, there have been no transactions, whether directly or indirectly, between our Company and any of our officers, directors, beneficial owners of more than 5% of our outstanding Common Stock or their family members that exceeded the lesser of $120,000 or 1% of the average of the Company's total assets at year-end. 
+Our Audit Committee considers and approves or disapproves any related party transaction as required by NASDAQ regulations and Item 404 of Regulation S-K under the Securities Act. Related party transactions reviewed by the Audit Committee do not include matters related to compensation of employees of the Company. The Audit Committee only approves those related party transactions that are on terms comparable to, or more beneficial to us than, those that could be obtained in arm's length dealings with an unrelated third party. Only members of the Audit Committee who are disinterested in the related party transaction in question may participate in the determination of whether such transaction may proceed.
+COMPLIANCE WITH SECTION 16(a) OF THE EXCHANGE ACT
+Under the securities laws of the United States, our directors, executive officers, and any persons holding 10% or more of our Common Stock must report on their ownership of the Common Stock and any changes in that ownership to the SEC. Specific due dates for these reports have been established. Based solely on our review of the copies of such reports received by us, or written representations from certain reporting persons that no Form 5 was required for such persons, during the fiscal year ended June 30, 2018, we believe that all reports required to be filed by such persons pursuant to Section 16(a) of the Securities Exchange Act of 1934, as amended, were filed on a timely basis, with the exception of our officers, directors and greater than 10% beneficial owners listed in the table below: 
+[BEGIN TABLE]
+ Name       Number of Late Reports       Description  
+ Frederick Wasserman       1       3 transactions were not reported on a timely basis (upon the sale of shares of Common Stock)  
+[END TABLE]
+AUDIT COMMITTEE REPORT
+The following Report of the Audit Committee (the "Audit Report") does not constitute soliciting material and should not be deemed filed or incorporated by reference into any other Company filing under the Securities Act of 1933, as amended, or the Securities Exchange Act of 1934, as amended, except to the extent the Company specifically incorporates this Audit Report by reference therein.
+Role of the Audit Committee
+The Audit Committee's primary responsibilities fall into three broad categories:
+First, the Audit Committee is charged with monitoring the preparation of quarterly and annual financial reports by the Company's management, including discussions with management and the Company's outside auditors about draft annual financial statements and key accounting and reporting matters.
+Second, the Audit Committee is responsible for matters concerning the relationship between the Company and its outside auditors, including recommending their appointment or removal; reviewing the scope of their audit services and related fees, as well as any other services being provided to the Company; and determining whether the outside auditors are independent (based in part on the annual letter provided to the Company pursuant to Independence Standards Board Standard No. 1).
+Third, the Audit Committee reviews financial reporting, policies, procedures, and internal controls of the Company.
+The Audit Committee has implemented procedures to ensure that during the course of each fiscal year it devotes the attention that it deems necessary or appropriate to each of the matters assigned to it under the Audit Committee's charter. In overseeing the preparation of the Company's financial statements, the Audit Committee met with management and the Company's outside auditors, including meetings with the Company's outside auditors without management present, to review and discuss all financial statements prior to their issuance and to discuss significant accounting issues. Management advised the Audit Committee that all financial statements were prepared in accordance with generally accepted accounting principles, and the Audit Committee discussed the statements with both management and the outside auditors. The Audit Committee's review included discussion with the outside auditors of matters required to be discussed pursuant to Statement on Auditing Standards No. 61 (Communication with Audit Committees).
+With respect to the Company's outside auditors, the Audit Committee, among other things, discussed with KMJ Corbin matters relating to its independence, including the disclosures made to the Audit Committee as required by the Independence Standards Board Standard No. 1 (Independence Discussions with Audit Committees).
+Recommendations of the Audit Committee. In reliance on the reviews and discussions referred to above, the Audit Committee recommended to the Board that the Board approve the inclusion of the Company's audited financial statements in the Company's Annual Report on Form 10-K for the fiscal year ended June 30, 2018, for filing with the SEC.
+This Audit Report has been furnished by the Audit Committee of the Board of Directors.
+W. Austin Lewis IV - Chair
+Peter H. Kamin
+Dwight B. Mamanteo
+RATIFICATION OF APPOINTMENT OF INDEPENDENT AUDITORS
+(Proposal No. 2)
+KMJ Corbin has served as our independent auditors since June 30, 2006 and has been appointed by the Audit Committee of the Board to continue as our independent auditors for the fiscal year ending June 30, 2019.
+At the Annual Meeting, the stockholders will vote on a proposal to ratify this selection of the auditors. If this ratification is not approved by the affirmative vote of a majority of the shares present at the Annual Meeting, in person or by proxy, and voting on the matter, the Board will reconsider its selection of auditors.
+KMJ Corbin has no interest, financial or otherwise, in the Company. We do not currently expect a representative of KMJ Corbin to physically attend the Annual Meeting, however, it is anticipated that a KMJ Corbin representative will be available to participate in the Annual Meeting via telephone in the event he or she wishes to make a statement, or in order to respond to appropriate questions.
+The following table presents aggregate fees for professional services rendered by KMJ Corbin for the audit of our annual consolidated financial statements for the fiscal years ended June 30, 2018 and 2017.
+[BEGIN TABLE]
+     For the Fiscal Year Ended  June 30,    
+     For the Fiscal Year Ended  June 30,    
+     2018       2017    
+ Audit fees (1)    $ 130,000     $ 133,000   
+ Audit- related fees      -       -   
+ Tax fees      -       -   
+ All other fees      -       -   
+ Total fees    $ 130,000     $ 133,000   
+[END TABLE]
+[BEGIN TABLE]
+   (1)   Audit fees are comprised of annual audit fees, quarterly review fees and the issuance of consents.  
+[END TABLE]
+Policy on Audit Committee Pre-Approval of Audit and Permissible Non-Audit Services of Independent Auditors
+The Audit Committee pre-approves all audit and non-audit services provided by the independent auditors prior to the engagement of the independent auditors with respect to such services. The Chairman of the Audit Committee has been delegated the authority by the Audit Committee to pre-approve interim services by the independent auditors other than the annual audit. The Chairman of the Audit Committee must report all such pre-approvals to the entire Audit Committee at the next Audit Committee meeting.
+Required Vote
+Delaware law and our Bylaws provide that, on all matters (other than the election of directors and except to the extent otherwise required by our Certificate of Incorporation or applicable Delaware law), the affirmative vote of a majority of the shares present, in person or by proxy, and voting on the matter, will be required for approval. Accordingly, the affirmative vote of a majority of the shares present at the Annual Meeting, in person or by proxy, and voting on the matter, will be required to ratify the Board's selection of KMJ Corbin as our independent auditors for the fiscal year ending June 30, 2019.
+At the Annual Meeting, a vote will be taken on a proposal to ratify the selection of KMJ Corbin as our independent auditors for the fiscal year ending June 30, 2019.
+THE BOARD UNANIMOUSLY RECOMMENDS A VOTE FOR THE RATIFICATION OF THE SELECTION OF KMJ CORBIN AS THE COMPANY'S INDEPENDENT AUDITORS FOR THE FISCAL YEAR ENDING JUNE 30, 2019.
+FUTURE STOCKHOLDER PROPOSALS
+The Board has not yet determined the date on which the next Annual Meeting of Stockholders will be held. Stockholders may submit proposals on matters appropriate for stockholder action at annual meetings in accordance with the rules and regulations adopted by the SEC.  Any proposal which an eligible stockholder desires to have included in our proxy statement and presented at the next Annual Meeting of Stockholders will be included in our proxy statement and related proxy card if it is received by us a reasonable time before we begin to print and send our proxy materials and if it complies with SEC rules regarding inclusion of proposals in proxy statements. In order to avoid controversy as to the date on which we receive a proposal, it is suggested that any stockholder who wishes to submit a proposal submit such proposal by certified mail, return receipt requested.
+Other deadlines apply to the submission of stockholder proposals for the next Annual Meeting of Stockholders that are not required to be included in our proxy statement under SEC rules. With respect to these stockholder proposals for the next Annual Meeting of Stockholders, a stockholder's notice must be received by us a reasonable time before we begin to print and send our proxy materials. The form of proxy distributed by the Board for such meeting will confer discretionary authority to vote on any such proposal not received by such date. If any such proposal is received by such date, the proxy statement for the meeting will provide advice on the nature of the matter and how we intend to exercise our discretion to vote on each such matter if it is presented at that meeting.
+EXPENSES AND SOLICITATION
+We will bear the costs of printing and mailing proxies. In addition to soliciting stockholders by mail or through our regular employees, we may request banks, brokers and other custodians, nominees and fiduciaries to solicit their customers who have shares of our Common Stock registered in the name of a nominee and, if so, will reimburse such banks, brokers and other custodians, nominees and fiduciaries for their reasonable out-of-pocket costs. Solicitation by our officers and employees may also be made of some stockholders following the original solicitation.
+OTHER BUSINESS
+The Board knows of no other items that are likely to be brought before the Annual Meeting except those that are set forth in the foregoing Notice of Annual Meeting of Stockholders. If any other matters properly come before the Annual Meeting, the persons designated on the enclosed proxy will vote in accordance with their judgment on such matters.
+ADDITIONAL INFORMATION
+We are subject to the information and reporting requirements of the Securities Exchange Act of 1934, as amended, and in accordance therewith, we file periodic reports, documents and other information with the SEC relating to our business, financial statements and other matters. Such reports and other information may be inspected and are available for copying at the offices of the SEC, 100 F Street, N.E., Washington, D.C. 20549 or may be accessed at www.sec.gov.  Information regarding the operation of the public reference rooms may be obtained by calling the SEC at 1-800-SEC-0330. You are encouraged to review our Annual Report on Form 10-K for the fiscal year ended June 30, 2018 mailed along with these proxy materials, together with any subsequent information we filed or will file with the SEC and other publicly available information. A copy of any public filing is also available, at no charge, by contacting our legal counsel, Robinson Brog Leinwand Greene Genovese & Gluck P.C., Attn: David E. Danovitch, Esq. at 212-603-6300.
+*************
+It is important that the proxies be returned promptly and that your shares be represented. Stockholders are urged to mark, date, execute, and promptly return the accompanying proxy card.
+[BEGIN TABLE]
+ October 29, 2018   By Order of the Board of Directors,  
+     /s/ Michael G. Jamieson  
+     MICHAEL G. JAMIESON  
+     Chief Executive Officer  
+[END TABLE]
+Appendix A
+AUDIT COMMITTEE CHARTER
+Role
+The Audit Committee of the Board of Directors assists the Board of Directors in fulfilling its responsibility for oversight of the quality and integrity of the accounting, auditing, and reporting practices of the Company, and such other duties as directed by the Board. The Committee's purpose is to oversee the accounting and financial reporting processes of the Company, the audits of the Company's financial statements, the qualifications of the public accounting firm engaged as the Company's independent auditor to prepare or issue an audit report on the financial statements of the Company, and the performance of the Company's internal and independent auditors. The Committee's role includes a particular focus on the qualitative aspects of financial reporting to stockholders, the Company's processes to manage business and financial risk, and compliance with significant applicable legal, ethical, and regulatory requirements. The Committee is directly responsible for the appointment, compensation, retention and oversight of the independent auditor.
+Membership
+The membership of the Committee shall consist of at least three directors, all of whom shall meet the independence requirements established by the Board and applicable laws, regulations and listing requirements provided, that to the extent that the Board so determines and applicable laws, regulations and listing requirements permit (as, for instance, with regard to companies which are "Small Business Issuers" within the meaning of the applicable rules and regulations promulgated by the Securities and Exchange Commission (the "SEC") , the membership of the Committee may consist of at least two directors or, if the membership of the Committee consists of at least three directors, one need not meet the aforesaid independence requirements. Each member shall in the judgment of the Board have the ability to read and understand fundamental financial statements. At least one member of the Committee shall in the judgment of the Board be an "audit committee financial expert" as defined by the rules and regulations promulgated by the SEC (the "SEC Rules"), and at least one member (who may also serve as the audit committee financial expert) shall in the judgment of the Board meet the applicable financial sophistication standard as defined by the requirements of the market or exchange on which the Company's securities may from time to time be listed or qualified for trading. The Board appoints the members of the Committee and the chairperson. The Board may remove any member from the Committee at any time with or without cause.
+Operations
+The Committee shall meet at least four times a year. Additional meetings may occur as the Committee or its chair deems advisable. The Committee will cause to be kept adequate minutes of all its proceedings, and will report on its actions and activities at the next quarterly meeting of the Board. Committee members will be furnished with copies of the minutes of each meeting and any action taken by unanimous consent. The Committee is governed by the same rules regarding meetings (including meetings by conference telephone or similar communications equipment), action without meetings, notice, waiver of notice, and quorum and voting requirements as are applicable to the Board. The Committee is authorized and empowered to adopt its own rules of procedure not inconsistent with (a) any provision of this Charter, (b) any provision of the Bylaws of the Company, or (c) the laws of the state of Delaware.
+Communications
+The independent auditor reports directly to the Committee. The Committee is expected to maintain free and open communication with the independent auditor, the internal auditors, and management. This communication will include periodic private executive sessions with each of these parties.
+Education
+The Company is responsible for providing new members with appropriate orientation briefings and educational opportunities, and the full Committee with educational resources related to accounting principles and procedures, current accounting topics pertinent to the Company and other material as may be requested by the Committee. The Company will assist the Committee in maintaining appropriate financial literacy.
+Authority
+The Committee will have the resources and authority necessary to discharge its duties and responsibilities. The Committee has sole authority to retain and terminate outside financial experts or similar consultants, as it deems appropriate, including sole authority to approve the firms' fees and other retention terms. The Committee will be provided with appropriate funding by the Company, as the Committee determines, for the payment of compensation to the Company's independent auditor and other advisors as it deems appropriate, and ordinary administrative expenses of the Committee that are necessary or appropriate in carrying out its duties. In discharging its oversight role, the Committee is empowered to investigate any matter brought to its attention. Any communications between the Committee and legal counsel in the course of obtaining legal advice will be considered privileged communications of the Company, and the Committee will take all necessary steps to preserve the privileged nature of those communications. The Committee may form and delegate authority to subcommittees and may delegate authority to one or more designated members of the Committee.
+Responsibilities
+The Committee's specific responsibilities in carrying out its oversight role are delineated in the Audit Committee Responsibilities Calendar. The Responsibilities Calendar will be updated annually to reflect changes in regulatory requirements, authoritative guidance, and evolving oversight practices. As the compendium of Committee responsibilities, the most recently updated Responsibilities Calendar will be considered to be an addendum to this Charter.
+The Committee relies on the expertise and knowledge of management, the internal auditors and the independent auditor in carrying out its oversight responsibilities. Management of the Company is responsible for determining the Company's financial statements are complete, accurate and in accordance with generally accepted accounting principles. The independent auditor is responsible for auditing the Company's financial statements. It is not the duty of the Committee to plan or conduct audits, to determine that the financial statements are complete and accurate and in accordance with generally accepted accounting principles, to conduct investigations, or to assure compliance with laws and regulations or the Company's standards of business conduct, codes of ethics, internal policies, procedures and controls.
+MAM Software Group, Inc. Audit Committee Responsibilities Calendar
+[BEGIN TABLE]
+         WHEN PERFORMED  
+                 Audit Committee Meetings  
+          RESPONSIBILITY       Q1       Q2       Q3       Q4       As   			Needed  
+ 1.       The agenda for Committee meetings will be prepared in consultation between the Committee chair (with input from the Committee members), Finance management, and the independent auditor.       X       X       X       X       X  
+ 2.       Review and update the Audit Committee Charter and Responsibilities Calendar annually.                               X          
+ 3.       Complete an annual evaluation of the Committee's performance.               X                          
+ 4.       Provide a report in the annual proxy that includes the Committee's review and discussion of matters with management and the independent auditor.       X                                  
+ 5.       Include a copy of the Committee charter as an appendix to the proxy statement at least once every three years.                                       X  
+ 6.       Appoint or replace the independent auditor and approve the terms on which the independent auditor is engaged for the ensuing fiscal year. At least annually, evaluate the independent auditor's qualifications, performance, and independence, including that of the lead partner. The evaluation will include obtaining a written report from the independent auditor describing: the firm's internal quality control procedures; any material issues raised by the most recent internal quality control review, or peer review, of the firm or by any inquiry or investigation by governmental or professional authorities within the past five years, concerning an independent audit or audits carried out by the firm, and any steps taken to deal with those issues; and all relationships between the independent auditor and the Company.                               X       X  
+[END TABLE]
+[BEGIN TABLE]
+ 7.       Resolve any disagreements between management and the independent auditor about financial reporting. Establish and oversee a policy designating permissible services that the independent auditor may perform for the Company, providing for pre-approval of those services by the Committee subject to the de minimis exceptions permitted under applicable rules, and quarterly review of any services approved by the designated member under the policy and the firm's non-audit services and related fees.        X       X       X       X       X  
+ 8.       Review the responsibilities, functions and performance of the Company's internal audit department.                       X                  
+[END TABLE]
+[BEGIN TABLE]
+ 9.       Ensure receipt from the independent auditor of a formal written statement delineating all relationships between the auditor and the company, consistent with Independence Standards Board Standard No. 1, and actively engage in a dialogue with the auditor about any disclosed relationships or services that may impact the objectivity and independence of the auditor, and take appropriate action to oversee the independence of the independent auditor.       X                                  
+ 10.       Advise the Board about the Committee's determination whether the Committee consists of three or more members all of whom are financially literate, including at least one member who has financial sophistication and is a financial expert.       X                                  
+ 11.       Inquire of Finance management and the independent auditor about significant risks or exposures, review the Company's policies for risk assessment and risk management, and assess the steps management has taken to control such risk to the Company.                               X       X  
+ 12.       Review with the independent auditor and Finance management the audit scope and plan, and coordination of audit efforts to ensure completeness of coverage, reduction of redundant efforts, the effective use of audit resources, and the use of independent public accountants other than the appointed auditors of the Company.       X               X               X  
+ 13.       Consider and review with Finance management and the independent auditor:                                          
+         a. The Company's annual assessment of the effectiveness of its internal controls and the independent auditor's attestation and report about the Company's assessment.       X                                  
+         b. The adequacy of the Company's internal controls including computerized information system controls and security.       X                                  
+         c. Any related significant findings and recommendations of the independent auditor and internal audit together with management's responses.                                       X  
+ 14.       Review with Finance management any significant changes to GAAP and/or MAP policies or standards.       X       X       X       X          
+[END TABLE]
+[BEGIN TABLE]
+ 15.       Review with Finance management and the independent auditor at the completion of the annual audit:                                          
+         a. The Company's annual financial statements and related footnotes.       X                               X  
+         b. The independent auditor's audit of the financial statements and its report thereon.       X                               X  
+         c. Any significant changes required in the independent auditor's audit plan.       X                               X  
+         d. Any serious difficulties or disputes with management encountered during the course of the audit and management's response.       X                               X  
+         e. Other matters related to the conduct of the audit which are to be communicated to the Committee under generally accepted auditing standards.       X                               X  
+ 16.       Review with Finance management and the independent auditor at least annually the Company's critical accounting policies.       X                               X  
+ 17.       Review policies and procedures with respect to transactions between the Company and officers and directors, or affiliates of officers or directors, or transactions that are not a normal part of the Company's business, and review and approve those related-party transactions that would be disclosed pursuant to SEC Regulation S-K, Item 404.                               X       X  
+ 18.       Consider and review with Finance management:                                          
+         a. Significant findings during the year and management's responses.       X       X       X       X       X  
+         b. Any difficulties encountered in the course of their audits, including any restrictions on the scope of their work or access to required information.       X       X       X       X       X  
+         c. Any changes required in planned scope of their audit plan.       X       X       X       X       X  
+ 19.       Participate in a telephonic meeting among Finance management and the independent auditor before each earnings release to discuss the earnings release, financial information and earnings guidance.       X       X       X       X          
+ 20.       Review and discuss with Finance management and the independent auditor the Company's quarterly financial statements.       X       X       X       X          
+[END TABLE]
+[BEGIN TABLE]
+ 21.       Review the periodic reports of the Company with Finance management and the independent auditor prior to filing of the reports with the SEC, including the disclosures under "Management's Discussion and Analysis of Financial Condition and Results of Operations".       X       X       X       X          
+ 22.       In connection with each periodic report of the Company, review:                                          
+         a. Management's disclosure to the Committee and the independent auditor under Section 302 of the Sarbanes-Oxley Act, including identified changes in internal control over financial reporting.       X       X       X       X          
+         b. The contents of the Chief Executive Officer and the Chief Financial Officer certificates to be filed under Sections 302 and 906 of the Sarbanes-Oxley Act.       X       X       X       X          
+ 23.       Monitor the appropriate standards adopted as a code of conduct for the Company.               X                       X  
+ 24.       Review with the applicable officer of the Company legal and regulatory matters that may have a material impact on the financial statements, related Company compliance policies, and programs and reports received from regulators.       X       X       X       X          
+ 25.       Develop, review and oversee procedures for (i) receipt, retention and treatment of complaints received by the Company regarding accounting, internal accounting controls and auditing matters, and (ii) the confidential, anonymous submission of employee concerns regarding accounting or auditing matters.               X                       X  
+ 26.       Meet with the independent auditor in executive session to discuss any matters the Committee or the independent auditor believes should be discussed privately with the Audit Committee.       X       X       X       X          
+[END TABLE]
+[BEGIN TABLE]
+ 27.       Meet with Finance management in executive sessions to discuss any matters the Committee or Finance management believes should be discussed privately with the Audit Committee.                                       X  
+ 28.       Set clear hiring policies for the Company's hiring of employees or former employees of the independent auditor who were engaged in the Company's account, and ensure the policies comply with any regulations applicable to the Company.                                       X  
+[END TABLE]
+Appendix B
+MAM Software Group, Inc.
+COMPENSATION COMMITTEE CHARTER
+Role
+The Compensation Committee's role is to discharge the Board's responsibilities relating to compensation of the Company's executives, to produce an annual report on executive compensation for inclusion in the Company's proxy statement, and to oversee and advise the Board on the adoption of policies that govern the Company's compensation programs, including stock and benefit plans.
+Membership
+The membership of the Committee consists of at least three directors, all of whom shall, except as otherwise permitted under applicable laws, regulations and listing requirements, (a) meet the independence requirements established by the Board and applicable laws, regulations and listing requirements, (b) be a "non-employee director" within the meaning of Rule 16b-3 under the Securities Exchange Act of 1934, and (c) be an "outside director" within the meaning of Section 162(m) of the Internal Revenue Code. The Board appoints the members of the Committee and the chairperson. The Board may remove any member from the Committee at any time with or without cause.
+Operations
+The Committee shall meet at least once a year. Additional meetings may occur as the Committee or its chair deems advisable. The Committee will cause to be kept adequate minutes of all its proceedings, and will report on its actions and activities at the next quarterly meeting of the Board. Committee members will be furnished with copies of the minutes of each meeting and any action taken by unanimous consent. The Committee is governed by the same rules regarding meetings (including meetings by conference telephone or similar communications equipment), action without meetings, notice, waiver of notice, and quorum and voting requirements as are applicable to the Board. The Committee is authorized to adopt its own rules of procedure not inconsistent with (a) any provision of this Charter, (b) any provision of the Bylaws of the Company, or (c) the laws of the state of Delaware.
+Authority
+The Committee will have the resources and authority necessary to discharge its duties and responsibilities. The Committee has sole authority to retain and terminate compensation consultants retained to assist the Committee in determining the compensation of the Chief Executive Officer or senior executive officers, or other similar experts or consultants, as it deems appropriate, including sole authority to approve the firms' fees and other retention terms. Any communications between the Committee and legal counsel in the course of obtaining legal advice will be considered privileged communications of the Company and the Committee will take all necessary steps to preserve the privileged nature of those communications.
+The Committee may form and delegate authority to subcommittees and may delegate authority to one or more designated members of the Committee.
+Responsibilities
+Subject to the provisions of any applicable MAM Software Group corporate governance policies, the principal responsibilities and functions of the Compensation Committee are as follows:
+1. Review the competitiveness of the Company's executive compensation programs to ensure (a) the attraction and retention of corporate officers, (b) the motivation of corporate officers to achieve the Company's business objectives, and (c) the alignment of the interests of key leadership with the long-term interests of the Company's stockholders.
+2. Review trends in management compensation, oversee the development of new compensation plans, and, when necessary, approve the revision of existing plans.
+3. Review and approve the compensation structure for corporate officers at the level of corporate vice president and above.
+4. Oversee an evaluation of the performance of the Company's executive officers and approve the annual compensation, including salary, bonus, incentive and equity compensation, for the executive officers.
+5. Review and approve CEO goals and objectives, evaluate CEO performance in light of these corporate objectives, and set CEO compensation consistent with company philosophy. The CEO may not be present during deliberations or voting concerning the CEO's compensation. The CEO will be reviewed by the Chairman of the Board. The results of the annual CEO evaluation will be considered in setting CEO salary and other compensation.
+6. Review and approve compensation packages for new corporate officers and termination packages for corporate officers as requested by management.
+7. Review and discuss with the Board and senior officers plans for officer development and corporate succession plans for the CEO and other senior officers.
+8. Review and make recommendations concerning long-term incentive compensation plans, including the use of equity-based plans. Except as otherwise delegated by the Board, the Committee will act on behalf of the Board as the "Committee" established to administer equity-based and employee benefit plans, and as such will discharge any responsibilities imposed on the Committee under those plans, including making and authorizing grants, in accordance with the terms of those plans.
+9. Review periodic reports from management on matters relating to the Company's personnel appointments and practices.
+10. Produce an annual Report of the Compensation Committee on Executive Compensation for the Company's annual proxy statement in compliance with applicable Securities and Exchange Commission rules and regulations and relevant listing authority.
+11. Regularly review and make recommendations about changes to the charter of the Committee.
+12. Obtain or perform an annual evaluation of the Committee's performance and make applicable recommendations.
+Appendix C
+MAM Software Group, Inc.
+CORPORATE GOVERNANCE AND NOMINATING COMMITTEE CHARTER
+Role
+The Corporate Governance and Nominating Committee's role is to determine the slate of director nominees for election to the Company's Board of Directors, to identify and recommend candidates to fill vacancies occurring between annual stockholder meetings, to review, evaluate and recommend changes to the Company's corporate governance policies, and to review the Company's policies and programs that relate to matters of corporate responsibility, including public issues of significance to the Company and its stakeholders.
+Membership
+The membership of the Committee consists of at least two directors, each of whom shall meet the independence requirements established by the Board and applicable laws, regulations and listing requirements, provided, that if the Committee consists of at least three directors and applicable laws, regulations and listing requirements so permit, one of those directors need not meet independence requirements. The Board appoints the members of the Committee and the chairperson. The Board may remove any member from the Committee at any time with or without cause.
+Operations
+The Committee shall meet at least once a year. Additional meetings may occur as the Committee or its chair deems advisable. The Committee will cause to be kept adequate minutes of all its proceedings, and will report on its actions and activities at the next quarterly meeting of the Board (or within four months, whichever occurs sooner). Committee members will be furnished with copies of the minutes of each meeting and any action taken by unanimous consent. The Committee is governed by the same rules regarding meetings (including meetings by conference telephone or similar communications equipment), action without meetings, notice, waiver of notice, and quorum and voting requirements as are applicable to the Board. The Committee is authorized and empowered to adopt its own rules of procedure not inconsistent with (a) any provision of this Charter, (b) any provision of the Bylaws of the Company, or (c) the laws of the state of Delaware.
+Authority
+The Committee will have the resources and authority necessary to discharge its duties and responsibilities. The Committee has sole authority to retain and terminate any search firm used to identify director candidates, or other similar experts or consultants, as it deems appropriate, including sole authority to approve such firms' fees and other retention terms. Any communications between the Committee and legal counsel in the course of obtaining legal advice will be considered privileged communications of the Company and the Committee will take all necessary steps to preserve the privileged nature of those communications.
+The Committee may form and delegate authority to subcommittees and may delegate authority to one or more designated members of the Committee.
+Responsibilities
+Subject to the provisions of the Corporate Governance Guidelines, the principal responsibilities and functions of the Governance and Nominating Committee are as follows:
+1. Annually evaluate and report to the Board on the performance and effectiveness of the Board to facilitate the directors fulfilling their responsibilities in a manner that serves the interests of MAM Software Group, Inc.'s stockholders.
+2. Annually present to the Board a list of individuals recommended for nomination for election to the Board at the annual meeting of stockholders.
+3. Before recommending an incumbent, replacement or additional director, review his or her qualifications, including capability, availability to serve, conflicts of interest, and other relevant factors.
+4. Assist in identifying, interviewing and recruiting candidates for the Board.
+5. Annually review the composition of each committee and present recommendations for committee memberships to the Board as requested by the Board.
+6. Periodically review the compensation paid to non-employee directors for annual retainers (including Board and committee Chairs) and meeting fees, if any, and make recommendations to the Board for any adjustments. No member of the Committee will act to fix his or her own compensation except for uniform compensation to directors for their services as such.
+7. Develop and periodically review and recommend to the Board appropriate revisions to the Company's corporate governance policies.
+8. Monitor compliance with the Company's corporate governance policies.
+9. Regularly review and make recommendations about changes to the charter of the Corporate Governance and Nominating Committee.
+10. Regularly review and make recommendations about changes to the charters of other Board committees after consultation with the respective committee chairs.
+11. Obtain or perform an annual evaluation of the Committee's performance and make applicable recommendations.
+12. Assist the Chairman of the Board, if the Chairman is a non-management director, or otherwise the Chairman of the Committee acting as Lead Independent Director, in leading the Board's annual review of the Chief Executive Officer's performance.
+ MAM SOFTWARE GROUP, INC. 
+THIS PROXY IS SOLICITED ON BEHALF OF THE BOARD OF DIRECTORS 
+ANNUAL MEETING OF STOCKHOLDERS TO BE HELD ON DECEMBER 18, 2018 
+Revoking all prior proxies, the undersigned, a stockholder of MAM SOFTWARE GROUP, INC. (the "Company"), hereby appoints Michael G. Jamieson and Frederick G. Wasserman or either of them, as attorneys-in-fact and agents of the undersigned, with full power of substitution, to vote all of the shares of the Company's common stock, par value $0.0001 per share, owned by the undersigned at the Annual Meeting of Stockholders of the Company to be held on December 18, 2018, at the offices of Robinson Brog Leinwand Greene Genovese & Gluck P.C., 875 Third Avenue., New York, NY 10022, at 9:30 a.m. (Eastern Standard Time), and at any adjournment thereof, as fully and effectively as the undersigned could do if personally present and voting, hereby approving, ratifying, and confirming all that said attorney and agent or his substitute may lawfully do in place of the undersigned as indicated.
+MARK, DATE, SIGN AND RETURN PROMPTLY IN THE ENCLOSED ENVELOPE. PLEASE MARK YOUR VOTE IN BLUE OR BLACK INK AS SHOWN HERE ☒. 
+THE BOARD OF DIRECTORS RECOMMENDS A VOTE "FOR" ALL PROPOSALS. 
+[BEGIN TABLE]
+ 1.   Election of Directors      
+       ☐   Michael G. Jamieson     ☐         FOR ALL NOMINEES  
+       ☐   Michael G. Jamieson     ☐         FOR ALL NOMINEES  
+     ☐   Dwight B. Mamanteo     ☐         WITHHOLD AUTHORITY FOR ALL NOMINEES  
+     ☐   Frederick G. Wasserman   ☐         FOR ALL EXCEPT (See Instruction below)  
+     ☐   W. Austin Lewis IV      
+     ☐   Peter H. Kamin       INSTRUCTION: To withhold authority to vote for any individual nominee(s), mark "FOR ALL EXCEPT" and write the name of the nominee you wish to withhold authority on the line below.  
+ 2.   To approve a proposal to ratify the Board of Directors' selection of KMJ CORBIN & COMPANY LLP as the Company's independent auditors for the fiscal year ending June 30, 2019.   
+     ☐  FOR THE PROPOSAL                 ☐  AGAINST THE PROPOSAL                                                               ☐  ABSTAIN  
+[END TABLE]
+THIS PROXY, WHEN PROPERLY EXECUTED, WILL BE VOTED AS DIRECTED. IF NO DIRECTION IS MADE, THE PROXY SHALL BE VOTED FOR THE ELECTION OF THE LISTED NOMINEES AS DIRECTORS AND FOR THE RATIFICATION OF KMJ CORBIN & COMPANY LLP AS THE COMPANY'S INDEPENDENT AUDITORS FOR THE FISCAL YEAR ENDING JUNE 30, 2019.
+To change the address on your account, please check the box at right and indicate your new address below.  ☐
+[BEGIN TABLE]
+     Date: ______________________________________  
+     ___________________________________________  
+     Signature of Stockholder  
+     ___________________________________________  
+     Signature of Stockholder  
+     Note: This proxy must be signed exactly as the name appears hereon. When shares are held jointly, each holder should sign. When signing as executor, administrator, attorney, trustee or guardian, please give full title as such. If the signer is a corporation, please sign full corporate name by a duly authorized officer, giving full title as such. If signer is a partnership, please sign in partnership name by an authorized person.  
+[END TABLE]
+☐  PLEASE CHECK HERE IF YOU PLAN TO ATTEND THE ANNUAL MEETING OF STOCKHOLDERS ON DECEMBER 18, 2018 AT 9:30 A.M. (EASTERN STANDARD TIME) AT THE OFFICES OF ROBINSON BROG LEINWAND GREENE GENOVESE & GLUCK P.C., 875 THIRD AVENUE., NEW YORK, NY 10022.
+ 

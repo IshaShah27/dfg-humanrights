@@ -1,0 +1,131 @@
+
+[BEGIN TABLE]
+ Check the appropriate box:  
+  o   Preliminary Proxy Statement o   Confidential, for Use of the Commission Only (as permitted by Rule 14a–6(e)(2))  
+ ☒   Definitive Proxy Statement o   Definitive Additional Materials o   Soliciting Material under §240.14a–12  
+[END TABLE]
+[BEGIN TABLE]
+ BROADVISION, INC.  
+ (Name of Registrant as Specified In Its Charter)  
+ (Name of Person(s) Filing Proxy Statement, if other than the Registrant)  
+[END TABLE]
+[BEGIN TABLE]
+ ☒   No fee required.  
+  o   Fee computed on table below per Exchange Act Rules 14a–6(i)(1) and 0–11.  
+     (1)   Title of each class of securities to which transaction applies:  
+     (2)   Aggregate number of securities to which transaction applies:  
+     (3)   Per unit price or other underlying value of transaction computed pursuant to Exchange Act Rule 0–11 (set forth the amount on which the filing fee is calculated and state how it was determined):  
+     (4)   Proposed maximum aggregate value of transaction:  
+     (5)   Total fee paid:  
+[END TABLE]
+[BEGIN TABLE]
+  o   Fee paid previously with preliminary materials.  
+  o   Check box if any part of the fee is offset as provided by Exchange Act Rule 0–11(a)(2) and identify the filing for which the offsetting fee was paid previously. Identify the previous filing by registration statement number, or the Form or Schedule and the date of its filing.  
+     (1)   Amount Previously Paid:  
+     (2)   Form, Schedule or Registration Statement No.:  
+     (3)   Filing Party:  
+     (4)   Date Filed:  
+[END TABLE]
+[BEGIN TABLE]
+     Very truly yours,      
+     /s/ Pehong Chen      
+     DR. PEHONG CHEN      
+     President, Chief Executive Officer and Interim Chief Financial Officer  
+[END TABLE]
+[BEGIN TABLE]
+     By Order of the Board of Directors  
+     /s/ Pehong Chen  
+     DR. PEHONG CHEN  
+     President, Chief Executive Officer  and Interim Chief Financial Officer  
+[END TABLE]
+  3
+[BEGIN TABLE]
+ Name   Age   Position  
+ Pehong Chen   60   Chairman, President, Chief Executive Officer and Interim  Chief Financial Officer  
+ James D. Dixon(1)(2)   74   Director  
+ Robert Lee(1)(2)(3)   69   Director  
+ François Stieger(1)(3)   68   Director  
+[END TABLE]
+       11
+[BEGIN TABLE]
+  Number of Securities  to be Issued Upon  Exercise of  Outstanding Options  and Rights Weighted-Average  Exercise Price of  Outstanding Options  and Rights Number of Securities  Remaining Available  for Future Issuance  Under Equity  Compensation Plans  (Excluding Securities  Reflected in Column  (a)) 
+Plan Category (a) (b) (c)  
+Equity compensation plans approved by security holders(1)            594,206 (3)  $            8.49              529,403 (4)  
+Equity compensation plans not approved by security holders(2)   —     —     72,625   
+Total   594,206   $ 8.49     602,028   
+[END TABLE]
+[BEGIN TABLE]
+  Beneficial Ownership(1) 
+Beneficial Owner Number of Shares (#) Percent of Total (%) 
+5% Stockholders:              
+Honu Holdings, LLC(2)          1,380,000                     27.6% 
+ESW Capital, LLC(3)   964,438     19.3% 
+Marlin Capital Investments(4)   352,344     7.1% 
+Named Executive Officers and Directors:              
+Pehong Chen(5)   1,614,999     32.3% 
+James D. Dixon   28,347     *   
+Robert Lee(6)   22,336     *   
+François Stieger   21,376     *   
+Peter Chu(7)   7,874     *   
+All Current Directors and Executive Officers as a group (4 persons)   1,687,058     33.8% 
+[END TABLE]
+[BEGIN TABLE]
+ Name   Age   Position  
+ Pehong Chen   60   Chairman of the Board, President, Chief Executive Officer and Interim Chief Financial Officer  
+[END TABLE]
+[BEGIN TABLE]
+Name and  Principal  Position Year Salary  ($) Bonus  ($)(1) Stock  Awards  ($) Option  Awards  ($)(1) Non-Equity  Incentive Plan  Compensation  ($) Nonqualified  Deferred  Compensation  Earnings ($) All Other  Compensation  ($)(2) Total 
+Pehong Chen,  CEO  2017 $    350,000   $ —   $ —   $ —   $ —   $ —   $      2,000   $    352,000   
+  2016 $ 350,000   $ —   $ —   $ —   $ —   $ —   $ 2,000   $ 352,000   
+Peter Chu,  CFO  2017 $ 200,000   $ 9,500 (3)  $ —   $ —   $ —   $ —   $ 2,000   $ 211,500   
+  2016 $ 200,000   $     11,450 (3)  $        —   $        —   $        —   $        —   $ 2,000   $ 213,450   
+[END TABLE]
+[BEGIN TABLE]
+  Option Awards Stock Awards 
+Name Number of  Securities  Underlying  Unexercised  Options (#)  Exercisable Number of  Securities  Underlying  Unexercised  Options (#)  Unexercisable Equity  Incentive  Plan  Awards:  Number of  Securities  Underlying  Unexercised  Unearned  Options  (#)(1) Option  Exercise  Price ($) Option  Expiration  Date Number  of Shares  or Units of  Stock  That Have  Not  Vested (#) Market  Value of  Shares or  Units of  Stock  That Have  Not  Vested ($) Equity  Incentive  Plan  Awards:  Number  of  Unearned  Shares,  Units or  Other  Rights  That Have  Not  Vested (#) Equity  Incentive  Plan  Awards:  Market or  Payout  Value of  Unearned  Shares,  Units or  Other  Rights  That Have  Not Vested  ($) 
+Peter Chu        13,000     0             —   $       9.96      10/19/2021 (2)            —             —             —             —   
+    14,000     0     —   $ 9.45     9/18/2023 (3)    —     —     —     —   
+    10,500     1,500     —   $ 9.94     6/18/2024 (4)    —     —     —     —   
+    9,000           3,000     —   $ 6.01     12/17/2024 (5)    —     —     —     —   
+[END TABLE]
+[BEGIN TABLE]
+ Employee Designation   Base   Accrual/Yr   Maximum  
+ CEO   6.00 Mo.   1.00 Mo/Yr.   12.00 Mo.  
+ EVP   3.00 Mo.   0.50 Mo/Yr.    6.00 Mo.  
+ SVP   2.00 Mo.   0.50 Mo/Yr.    4.00 Mo.  
+ VP   1.00 Mo.   0.50 Mo/Yr.    2.00 Mo.  
+ All Other   0.50 Mo.   0.08 Mo/Yr.    1.00 Mo.  
+[END TABLE]
+[BEGIN TABLE]
+Employee Level Base (Number of Mo.  Base Salary After  1 Year Tenure) Accelerator (Number  of Mo. Base Salary  Accrued Per Each Yr.  of Additional Tenure) Maximum Years  Tenure Accelerator  Applied Maximum Months  Base Salary Accrual  Allowed 
+Level I   9     1.25     12     24   
+Level II   6     1.00     9     15   
+Level III   3     0.75     8     9   
+[END TABLE]
+[BEGIN TABLE]
+Employee Level Base (Percentage  of Unvested Stock Options  Accelerated After  1 Year Tenure) Accelerator (Percentage  of Unvested Stock Options  Accelerated Per Each Yr.  of Additional Tenure) Maximum (Total% of  Unvested Stock Options  Allowed to be Accelerated) 
+Level I   30%   7.8%   100% 
+Level II   25%   6.1%   80% 
+Level III   20%   4.4%   60% 
+[END TABLE]
+ 19
+[BEGIN TABLE]
+Name(1) Fees Earned  or Paid in  Cash ($) Stock Awards  ($)(2)(3) Option  Awards  ($)(3) Non-Equity  Incentive Plan  Compensation  ($) Nonqualified  Deferred  Compensation  Earnings ($) All Other  Compensation  ($) Total ($) 
+James Dixon $          —   $      24,999   $          —   $          —   $          —   $          —   $      24,999   
+Robert Lee $ —   $ 19,996   $ —   $ —   $ —   $ —   $ 19,996   
+François Stieger $ —   $ 19,996   $ —   $ —   $ —   $ —   $ 19,996   
+[END TABLE]
+[BEGIN TABLE]
+ Name   Number of Shares Subject to  Outstanding Restricted Stock Awards  (#)   Number of Shares Subject to  Outstanding Options (#)  
+ James Dixon   2,940   —  
+ Robert Lee   2,352   —  
+ François Stieger   2,352   —  
+[END TABLE]
+  22
+[BEGIN TABLE]
+     By Order of the Board of Directors   
+     /s/ Pehong Chen  
+     Pehong Chen  
+     President, Chief Executive Officer and Interim Chief Financial Officer  
+[END TABLE]
+  

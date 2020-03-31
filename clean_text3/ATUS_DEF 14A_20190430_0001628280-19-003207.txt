@@ -1,0 +1,752 @@
+
+UNITED STATES
+SECURITIES AND EXCHANGE COMMISSION
+Washington, D.C. 20549
+SCHEDULE 14A
+Proxy Statement Pursuant to Section 14(a) of the Securities
+Exchange Act of 1934 (Amendment No.   )
+[BEGIN TABLE]
+ý Filed by the Registrant                                    o Filed by a Party other than the Registrant                         
+[END TABLE]
+Check the appropriate box:
+[BEGIN TABLE]
+o   Preliminary Proxy Statement o   Confidential, For Use of the Commission Only (as permitted by Rule 14a-6(e)(2)) 
+ý   Definitive Proxy Statement o   Definitive Additional Materials o   Soliciting Material Pursuant to §240.14a-12 
+[END TABLE]
+ALTICE USA, INC.
+(Name of Registrant as Specified In Its Charter)
+(Name of Person(s) Filing Proxy Statement, if Other than the Registrant)
+[BEGIN TABLE]
+Payment of Filing Fee (Check the appropriate box): 
+ý No fee required. 
+o Fee computed on table below per Exchange Act Rules 14a-6(i)(1) and 0-11. 
+  (1) Title of each class of securities to which transaction applies: 
+  (2) Aggregate number of securities to which transaction applies: 
+  (3) Per unit price or other underlying value of transaction computed pursuant to Exchange Act Rule 0-11: 
+  (4) Proposed maximum aggregate value of transaction: 
+  (5) Total fee paid: 
+o Fee paid previously with preliminary materials. 
+o Check box if any part of the fee is offset as provided by Exchange Act Rule 0-11 (a)(2) and identify the filing for which the offsetting fee was paid previously.  Identify the previous filing by registration statement number, or the Form or Schedule and the date of its filing. 
+  (1) Amount Previously Paid: 
+  (2) Form, Schedule or Registration Statement No.: 
+  (3) Filing Party: 
+  (4) Date Filed: 
+[END TABLE]
+2019 Notice of Annual Meeting and Proxy Statement
+April 30, 2019 at 2:30 p.m. Eastern Daylight Time
+1 Court Square West, Long Island City, New York Altice USA, Inc.
+1 Court Square West, Long Island City, New York 11101
+Dear Stockholder:
+This year's annual meeting of stockholders will be a completely virtual meeting, conducted solely online through an audio webcast on Tuesday, April 30, 2019 at 2:30 p.m., Eastern Daylight Time.  You will be able to attend the virtual annual meeting by logging in at www.virtualshareholdermeeting.com/ATUS2019.  You will need the 16-digit control number provided on the Notice of Internet Availability of Proxy Materials (the "Notice") or your proxy card. 
+The attached proxy statement provides information on how to participate in the 2019 virtual annual meeting, how to vote your shares, and explains the matters to be voted upon in detail.
+Your vote is important to us.  Stockholders may vote by using a toll-free telephone number or over the Internet.  Also, if you receive a paper copy of the proxy card by mail, you may sign and return the proxy card in the envelope provided.
+Very truly yours,
+Dexter Goei
+Chief Executive Officer
+March 21,  
+NOTICE OF ANNUAL MEETING OF STOCKHOLDERS
+OF ALTICE USA, INC.
+Time:    2:30 p.m., Eastern Daylight Time
+Date:    April 30, 2019
+Place:    There will be no physical location for stockholders to attend.  Stockholders may only participate by logging in at www.virtualshareholdermeeting.com/ATUS2019 and using the 16-digit control number provided on the Notice or your proxy card. 
+Purpose:    
+[BEGIN TABLE]
+• Elect nine directors 
+• Ratify appointment of independent registered public accounting firm 
+• Hold an advisory vote on executive compensation 
+• Hold an advisory vote to determine the frequency of future advisory votes on executive compensation 
+• Conduct other business if properly raised 
+[END TABLE]
+Only stockholders of record on March 7, 2019 may vote at the annual meeting.
+Your vote is important.  We urge you to vote your shares by telephone, over the Internet or, if you receive a copy of the proxy card by mail, by completing, signing, dating and returning your proxy card as soon as possible in the enclosed postage prepaid envelope.
+Important Notice:  Our 2018 Annual Report on Form 10-K and the 2019 Proxy Statement are available at:
+http://investors.alticeusa.com/investors/alticeusa/sec-filings/default.aspx
+By order of the Board of Directors,
+David Connolly
+Executive Vice President,
+General Counsel and Secretary
+March 21,  
+TABLE OF CONTENTS
+[BEGIN TABLE]
+GENERAL INFORMATION 1 
+  HOW TO VOTE 1 
+  VOTING RIGHTS 1 
+  HOW PROXIES WORK 1 
+  REVOKING A PROXY 1 
+  SOLICITATION 1 
+  VOTES NEEDED 2 
+  QUORUM 2 
+BOARD AND GOVERNANCE PRACTICES 2 
+  OVERVIEW 2 
+  SEPARATION OF ALTICE USA AND ALTICE EUROPE 3 
+  MEETINGS 4 
+  COMMITTEES 4 
+  AUDIT COMMITTEE 4 
+  COMPENSATION COMMITTEE 5 
+  DIRECTOR NOMINATIONS 5 
+  DIRECTOR SELECTION 6 
+  BOARD LEADERSHIP STRUCTURE 6 
+  RISK OVERSIGHT 6 
+  CORPORATE GOVERNANCE GUIDELINES 6 
+  CONTROLLED COMPANY 6 
+  DIRECTOR INDEPENDENCE 7 
+  BOARD SELF-ASSESSMENT 7 
+  EXECUTIVE SESSIONS OF NON-MANAGEMENT BOARD MEMBERS 7 
+  COMMUNICATING WITH OUR DIRECTORS 7 
+  CODE OF BUSINESS CONDUCT AND ETHICS 7 
+  SECTION 16(A) BENEFICIAL OWNERSHIP REPORTING COMPLIANCE 8 
+  DIRECTOR COMPENSATION 8 
+  DIRECTOR COMPENSATION TABLE 8 
+PROPOSAL 1 8 
+  ELECTION OF DIRECTORS 8 
+PROPOSAL 2 10 
+  RATIFICATION OF APPOINTMENT OF INDEPENDENT REGISTERED PUBLIC ACCOUNTING FIRM 10 
+REPORT OF AUDIT COMMITTEE 11 
+OUR EXECUTIVE OFFICERS 11 
+COMPENSATION DISCUSSION AND ANALYSIS 12 
+  EXECUTIVE SUMMARY 12 
+  ROLE OF COMPENSATION COMMITTEE 13 
+[END TABLE]
+[BEGIN TABLE]
+  BENCHMARKING 13 
+  BASE SALARIES 14 
+  ANNUAL BONUS 14 
+  STOCK OPTIONS 15 
+  BENEFITS 15 
+  PERQUISITES 16 
+  POST-TERMINATION COMPENSATION 16 
+  EMPLOYMENT AGREEMENTS 16 
+  TAX DEDUCTIBILITY OF COMPENSATION 16 
+  DESCRIPTION OF NON-GAAP FINANCIAL MEASURES 17 
+REPORT OF COMPENSATION COMMITTEE 17 
+EXECUTIVE COMPENSATION TABLES 17 
+  SUMMARY COMPENSATION TABLE 17 
+  GRANTS OF PLAN-BASED AWARDS 18 
+  2017 LONG-TERM INCENTIVE PLAN 19 
+  CARRY UNIT PLAN 19 
+  OUTSTANDING EQUITY AWARDS AT FISCAL YEAR-END 19 
+  OPTION EXERCISES AND STOCK VESTED 20 
+  PENSION BENEFITS 21 
+  CABLEVISION CASH BALANCE PENSION PLAN 21 
+  CABLEVISION EXCESS CASH BALANCE PLAN 21 
+  NONQUALIFIED DEFERRED COMPENSATION TABLE 22 
+  PAYMENTS ON TERMINATION OR CHANGE IN CONTROL 22 
+  SECURITY AUTHORIZED FOR ISSUANCE UNDER THE PLAN 23 
+PROPOSAL 3 24 
+  NON-BINDING ADVISORY VOTE ON EXECUTIVE COMPENSATION 24 
+PROPOSAL 4 24 
+  NON-BINDING ADVISORY VOTE ON FREQUENCY OF THE STOCKHOLDER VOTE ON EXECUTIVE COMPENSATION 24 
+CERTAIN RELATIONSHIPS AND RELATED PARTY TRANSACTIONS 25 
+  RELATED PARTY TRANSACTION APPROVAL POLICY 29 
+STOCK OWNERSHIP TABLE 29 
+OTHER MATTERS 31 
+  MATTERS TO BE RAISED AT THE 2019 ANNUAL MEETING NOT INCLUDED IN THIS PROXY STATEMENT 31 
+  STOCKHOLDER PROPOSALS FOR 2020 ANNUAL MEETING 31 
+  HOUSEHOLDING 31 
+  ANNUAL REPORT ON FORM 10-K 32 
+[END TABLE]
+GENERAL INFORMATION
+HOW TO VOTE
+The 2019 Annual Meeting of Stockholders of Altice USA, Inc. ("Altice USA," the "Company," "we," "us" and "our") will take place on April 30, 2019 at 2:30 p.m. Eastern Daylight Time.
+This years' annual meeting will be a completely virtual meeting of stockholders through an audio webcast live over the Internet.  There will be no physical meeting location.  The meeting will only be conducted via an audio webcast.  Please go to www.virtualshareholdermeeting.com/ATUS2019 for instructions on how to attend and participate in the annual meeting.  Any stockholder may attend and listen live to the webcast of the annual meeting over the Internet at such website.  Stockholders as of the record date may vote and submit questions while attending the annual meeting via the Internet by following the instructions listed on your proxy card.  The webcast starts at 2:30 p.m., Eastern Daylight Time, on April 30, 2019.  We encourage you to access the meeting prior to the start time.
+As permitted by rules adopted by the Securities and Exchange Commission (the "SEC"), we have elected to provide access to our proxy materials over the Internet.  Accordingly, we are sending the Notice to our stockholders (other than those who previously requested electronic or paper delivery).  All stockholders will have the ability to access the proxy materials on a website referred to in the Notice or to request to receive a printed set of the proxy materials.  There is no charge to you for requesting a printed copy of the proxy materials.  Instructions on how to access the proxy materials over the Internet or to request a printed set of proxy materials may be found in the Notice.  In addition, stockholders may request to receive future proxy materials in printed form by mail or electronically by email on an ongoing basis.
+You may vote by telephone, over the Internet, or if you receive a copy of the proxy card by mail, by completing, signing, dating and returning your proxy card as soon as possible in the enclosed postage prepaid envelope.
+VOTING RIGHTS
+Only holders of the Company's Class A common stock ("Class A common stock") and the Company's Class B common stock ("Class B common stock") (together, the "Altice USA common stock"), as recorded in our stock register at the close of business on March 7, 2019, may vote at the annual meeting.  On March 7, 2019, there were 493,687,533 shares of Class A common stock and 191,043,699 shares of Class B common stock issued and outstanding.  As of the date of this Proxy Statement, the Company has not issued any shares of its Class C common stock or its preferred stock.
+Each share of Class A common stock is entitled to one vote per share, and each share of Class B common stock is entitled to twenty‑five votes per share, in each case, on any matter submitted to a vote of our stockholders.  Except as set forth below or as required by Delaware law, holders of shares of Class A common stock and Class B common stock vote together as a single class on all matters (including the election of directors) submitted to a vote of our stockholders.
+HOW PROXIES WORK
+The Company's Board of Directors (the "Board") is asking for your proxy.  If you submit a proxy but do not specify how to vote, the Company representative named in the proxy will vote your shares in favor of the director nominees identified in this proxy statement and for Proposals 2, 3 and 4.
+The Notice contains instructions for telephone and Internet voting.  Also, if you receive a paper copy of the proxy card by mail, you may sign and return the proxy card in the envelope provided.  Whichever method you use, giving us your proxy means you authorize us to vote your shares at the meeting in the manner you direct.  You may vote for all, some, or none of our director candidates.  You may also vote for or against Proposals 2, 3 or 4 or abstain from voting.
+You may receive more than one Notice or proxy or voting card depending on how you hold your shares.  If you hold shares through another party, such as a bank or brokerage firm, you may receive material from them asking how you want to vote.
+REVOKING A PROXY
+A proxy shall be irrevocable if it states that it is irrevocable and if, and only as long as, it is coupled with an interest sufficient in law to support an irrevocable power.  A stockholder may revoke any proxy which is not irrevocable by submitting a new proxy bearing a later date, by voting by telephone or over the Internet, or by delivering to the Secretary  of the Company (the "Secretary") a revocation of the proxy in writing so that it is received by the Company prior to the annual meeting at 1 Court Square West, Long Island City, New York 11101.
+SOLICITATION
+These proxy materials are being provided in connection with the solicitation of proxies by the Company and are first being sent to stockholders on or about March 21, 2019.  In addition to this mailing, the Company's employees may solicit proxies personally, electronically or by telephone.  The Company pays the costs of soliciting proxies.  We also reimburse brokers and other nominees for their expenses in sending these materials to you and obtaining your voting instructions.
+VOTES NEEDED
+The vote required for Proposal 1 for the election of directors by stockholders, other than in a contested election of directors, shall be the affirmative vote of a majority of the votes cast with respect to a director nominee.  For purposes of this paragraph, a 'majority of the votes cast' means that the number of votes cast 'for' a director must exceed the number of votes cast 'against' that director.  In any contested election of directors, the nominees receiving the greatest number of the votes cast for their election, up to the number of directors to be elected in such election, shall be deemed elected.  Abstentions and "broker non-votes" (as defined below) will not count as votes either 'for' or 'against' a nominee.  A contested election is one in which the number of persons nominated exceeds the number of directors to be elected as of the date that is ten days prior to the date that the Company first mails its notice of meeting for such meeting to the stockholders.
+Approval of Proposals 2, 3 and 4 requires the affirmative vote of the holders of a majority of the voting power of the shares of stock present at the internet meeting or represented by proxy and entitled to vote on the subject matter.  For Proposals 2, 3 and 4, an abstention will have the same effect as a vote against the proposal because an abstention represents a share considered present and entitled to vote.
+If your shares are held by a broker, the broker will ask you how you want your shares to be voted.  If you give the broker instructions, your shares must be voted as you direct.  If you do not give instructions, for Proposal 2 to ratify selection of the Company's independent registered public accounting firm, the broker may vote your shares at its discretion.  For the remaining proposals, including the election of directors, the broker cannot vote your shares at all.  When that happens, it is called a "broker non-vote."  Broker non-votes are counted in determining the presence of a quorum at the meeting, but they will have no effect on the voting for Proposals 1, 3 and 4 because they do not represent shares present and entitled to vote.
+QUORUM
+In order to carry on the business of the meeting, we must have a quorum.  This means that the holders of record of a majority of the voting power of the issued and outstanding shares of capital stock of the Company entitled to vote at the annual meeting must be represented at the annual meeting, either by proxy or present at the internet meeting.
+Notwithstanding the foregoing, where a separate vote by a class or series or classes or series is required, a majority of the voting power of the outstanding shares of such class or series or classes or series, present at the internet meeting or represented by proxy, shall constitute a quorum entitled to take action with respect to the vote on that matter.  Once a quorum is present to organize a meeting, it shall not be broken by the subsequent withdrawal of any stockholders.
+BOARD AND GOVERNANCE PRACTICES
+OVERVIEW
+The board of directors (the "Board of Directors" or the "Board") of Altice USA currently consists of nine members:  Patrick Drahi, Dexter Goei, Gerrit Jan Bakker, Manon Brouillette, David Drahi, Mark Mullen, Dennis Okhuijsen, Raymond Svider and Charles Stewart.  See Stockholder Proposal 1 below for more information.
+The following section provides an overview of our Board practices, Board committee responsibilities, our leadership structure, risk oversight, governance practices and director compensation. 
+[BEGIN TABLE]
+Board Independence lOur Board has determined that 3 out of 9 of our directors qualify as "independent" under the New York Stock Exchange ("NYSE") Listing Standards. 
+Board Committees lWe have two committees of the Board-the Audit Committee and the Compensation Committee-each of which is composed entirely of independent directors. lEach of our committees operates under its respective written charter and reports regularly to the Board concerning its activities.
+Board Committees lWe have two committees of the Board-the Audit Committee and the Compensation Committee-each of which is composed entirely of independent directors. lEach of our committees operates under its respective written charter and reports regularly to the Board concerning its activities.
+Executive Sessions lOur Board holds regular executive sessions of non-management directors. lThe non-management directors specify the procedure to designate the director who will preside at each executive session.
+Board Oversight of Risk lRisk management is overseen by our Audit Committee. lOur Compensation Committee reviews whether there are risks arising from our compensation practices to ensure that those practices encourage management and other employees to act in the best interests of our stockholders.
+Board Oversight of Risk lRisk management is overseen by our Audit Committee. lOur Compensation Committee reviews whether there are risks arising from our compensation practices to ensure that those practices encourage management and other employees to act in the best interests of our stockholders.
+Corporate Governance Guidelines lOur Board operates under our Corporate Governance Guidelines, which define director qualification standards and other appropriate governance procedures. 
+Annual Election of Directors lOur second amended and restated bylaws ("Second Amended and Restated Bylaws") provide for the annual election of all directors. 
+Majority Voting lIn accordance with our Second Amended and Restated Bylaws, all questions presented to stockholders, other than in respect to the election of directors, are decided by the affirmative vote of the holders of a majority of the voting power of the shares present or represented by proxy and entitled to vote, unless otherwise required under applicable law. lFor the election of directors by stockholders, other than in a contested election of directors, the vote required is the affirmative vote of a majority of the votes cast with respect to a director nominee.
+Related Party Transactions lOur Related-Party Transactions Approval Policy requires the Audit Committee to review and approve, or take such other action as it may deem appropriate with respect to, any transactions involving the Company and its subsidiaries, on the one hand, and in which any director, officer, greater than 5% stockholder of the Company or any other "related person" under the related‑party disclosure requirements of the SEC has an interest. lThe Related‑Party Transaction Approval Policy cannot be amended or terminated without the prior approval of a majority of the Audit Committee.
+Related Party Transactions lOur Related-Party Transactions Approval Policy requires the Audit Committee to review and approve, or take such other action as it may deem appropriate with respect to, any transactions involving the Company and its subsidiaries, on the one hand, and in which any director, officer, greater than 5% stockholder of the Company or any other "related person" under the related‑party disclosure requirements of the SEC has an interest. lThe Related‑Party Transaction Approval Policy cannot be amended or terminated without the prior approval of a majority of the Audit Committee.
+Open Lines of Communication lOur Board promotes open and frank discussions with senior management. lOur directors have access to all members of management and other employees and are authorized to hire outside consultants or experts at our expense.
+Self-Evaluation lOur Board and each of the Committees conduct annual self-evaluations. 
+[END TABLE]
+SEPARATION OF ALTICE USA AND ALTICE EUROPE
+On June 8, 2018, Altice USA and Altice Europe N.V. (formerly known as Altice N.V., "Altice Europe") implemented the previously announced separation (the "Separation") of Altice USA and Altice Europe, the former majority stockholder of Altice USA, by means of a pro-rata distribution in kind of substantially all of the shares of common stock of Altice USA owned directly or indirectly by Altice Europe to the Altice Europe shareholders (the "Distribution").  Altice USA and Altice Europe are each indirectly controlled by Mr. Drahi.
+Our Board 
+Our Board is comprised of nine members, three of whom have been determined by the Board to be independent directors under applicable NYSE corporate governance standards.  Mr. Drahi is the Chairman of our Board.
+We entered into a stockholders' agreement (the "Stockholders' Agreement") in June 2018 with Next Alt S.à r.l ("Next Alt"), an entity of which Mr. Patrick Drahi is the sole indirect controlling shareholder, and A4 S.A., an entity controlled by Mr. Drahi's family.  
+[BEGIN TABLE]
+• Under the Stockholders' Agreement, Next Alt has the right to designate a number of directors to the board (the "Next Alt Designees") based on Next Alt's voting power as follows: 
+[END TABLE]
+[BEGIN TABLE]
+◦ If Next Alt, A4 S.A., Mr. Drahi (or his heirs or entities or trusts directly or indirectly under his or their control or formed for his or their benefit) or any of their affiliates (collectively, the "Drahi Group") beneficially owns in the aggregate, at least 50% of the voting power of our outstanding capital stock, Next Alt will have the right to designate six directors to the Board, and the Company will cause the Board to consist of a majority of directors nominated by Next Alt; 
+◦ If the Drahi Group beneficially owns, in the aggregate, less than 50% of the voting power of our outstanding capital stock, Next Alt will have the right to designate a number of directors to the Board equal to the total number of directors comprising the entire Board multiplied by the percentage of the voting power of our outstanding common stock beneficially owned, in the aggregate, by the Drahi Group, rounding up in the case of any resulting fractional number;  
+◦ If the Drahi Group beneficially owns, in the aggregate, less than 50% of the voting power of our outstanding capital stock, Next Alt will not have the right to designate a number of directors to the Board equal to or exceeding 50% of directors comprising the entire Board.  One of Next Alt's designation nominations will be an individual designated by A4 S.A., and Next Alt will agree to vote its shares in favor of electing the individual designated by A4 S.A; 
+◦ If a director designated by Next Alt or by A4 S.A. resigns or is removed from the Board, as the case may be, only another director designated by Next Alt or by A4 S.A., as the case may be, may fill the vacancy; and 
+◦ In the event Mr. Drahi is not a member of our Board, one representative of the Drahi Group will have board observer rights. 
+[END TABLE]
+Messrs. P. Drahi, Goei, Okhuijsen, D. Drahi, Stewart and Bakker are Next Alt Designees to our Board.
+Our Board Meeting Quorum Requirements 
+Our amended and restated certificate of incorporation (the "Third Amended and Restated Certificate of Incorporation") has the following quorum requirements for meetings of the Board:
+[BEGIN TABLE]
+• a majority of the number of directors then in office will constitute a quorum; 
+• in the event Next Alt is entitled to nominate three or more directors to the Board pursuant to the Stockholders' Agreement, such quorum must include (i) the Chairman of the board of managers of Next Alt nominated by Next Alt to the Board pursuant to the Stockholders' Agreement and two other directors nominated to the Board by Next Alt pursuant to the Stockholders' Agreement or (ii) in the event the Chairman of the board of managers of Next Alt is not a member of the Board, three directors nominated to the Board by Next Alt pursuant to the Stockholders' Agreement; and 
+• in the event Next Alt is entitled to nominate one or two directors to the Board pursuant to the Stockholders' Agreement and such directors are elected to the Board by the stockholders of the Company, a quorum must include each of the directors nominated to the Board by Next Alt pursuant to the Stockholders' Agreement. 
+[END TABLE]
+MEETINGS
+The Board met 8 times in 2018.  Each of our directors in 2018 attended at least 75% of the meetings of the Board and the committees of the Board on which he or she served, except for Mr. Bonnin, who attended 62% of the meetings of the Board.
+We encourage our directors to attend annual meetings of stockholders and believe that attendance at annual meetings is just as important as attendance at Board and committee meetings.
+COMMITTEES
+The Board has two standing committees:  the Audit Committee and the Compensation Committee, each of which consists entirely of independent board members.
+AUDIT COMMITTEE
+Committee members: Messrs. Mullen (Chairman) and Svider and Ms. Brouillette currently comprise the Audit Committee.
+Meetings in 2018:  11
+The primary responsibilities of the Audit Committee include: 
+[BEGIN TABLE]
+• overseeing management's establishment and maintenance of adequate systems of internal accounting, auditing and financial controls; 
+• reviewing the effectiveness of our legal, regulatory compliance and risk management programs; 
+• review certain related‑party transactions in accordance with the Company's Related‑Party Transaction Approval Policy; 
+• overseeing our financial reporting process, including the filing of financial reports; and 
+• selecting independent auditors, evaluating their independence and performance and approving audit fees and services performed by them. 
+[END TABLE]
+Our Board has determined that each member of the Audit Committee is "independent" as defined under the listing standards of the NYSE and the requirements of Rule 10A-3 under the Securities Exchange Act of 1934, as amended (the "Exchange Act"), is financially literate and has accounting or related financial management expertise, as such qualifications are defined under the rules of the NYSE, and that Mark Mullen, Chair of the Audit Committee, is an "audit committee financial expert" within the meaning of SEC rules and regulations.
+The text of our Audit Committee charter is available on our website at www.alticeusa.com.  A copy may be obtained, without charge, by writing to Altice USA, Inc., Corporate Secretary, 1 Court Square West, Long Island City, New York 11101.
+Our Board has established a procedure whereby complaints or concerns with respect to accounting, internal controls and auditing matters may be submitted to the Audit Committee.  This procedure is described under "Communicating with Our Directors" below.
+COMPENSATION COMMITTEE
+Committee members:  Messrs. Svider (Chairman) and Mullen and Ms. Brouillette currently comprise the Compensation Committee.
+Meetings in 2018:  4
+The primary responsibilities of the Compensation Committee include:
+[BEGIN TABLE]
+• ensuring our executive compensation programs are appropriately competitive, support organizational objectives and stockholder interests and emphasize pay for performance linkage; 
+• evaluating and approving compensation and setting performance criteria for compensation programs for our chief executive officer and other executive officers; 
+• overseeing the implementation and administration of our compensation plans; and 
+• reviewing our compensation arrangements to determine whether they encourage excessive risk‑taking, and mitigating any such risk. 
+[END TABLE]
+The text of our Compensation Committee charter is available on our website at www.alticeusa.com.  A copy may be obtained, without charge, by writing to Altice USA, Inc., Corporate Secretary, 1 Court Square West, Long Island City, New York 11101.
+Our Board has determined that each member of the Compensation Committee is "independent" and meets the independence requirements applicable to compensation committee members under the rules of the NYSE.
+In accordance with its charter, the Compensation Committee has the authority to engage outside consultants to assist in the performance of its duties and responsibilities.  The Compensation Committee did not engage an outside consultant in 2018.
+Compensation Committee Interlocks and Insider Participation.
+Other than Dexter Goei, who served as a director of Altice Europe from 2015 through October 31, 2018, none of our executive officers currently serve, or in the past year have served, as a member of the Board or Compensation Committee of any entity that has one or more executive officers serving on our Board or Compensation Committee.
+DIRECTOR NOMINATIONS
+The Board has established a nomination mechanism in our Corporate Governance Guidelines.  The Board is responsible for selecting the nominees for election to the Board, subject to the then applicable terms of the Stockholders' Agreement. DIRECTOR SELECTION
+The Board selects new nominees for election as a director considering the following criteria:
+[BEGIN TABLE]
+• The then applicable terms of the Stockholders' Agreement; 
+• Personal qualities and characteristics, accomplishments and reputation in the business community; 
+• Current knowledge and contacts in the communities in which the Company does business and in the Company's industry or other industries relevant to the Company's business; 
+• Ability and willingness to commit adequate time to Board and committee matters; 
+• The fit of the individual's skills and personality with those of other directors and potential directors in building a Board that is effective, collegial and responsive to the needs of the Company; 
+• Diversity of viewpoints, background and experience; and 
+• The requirements of the Stockholders' Agreement. 
+[END TABLE]
+BOARD LEADERSHIP STRUCTURE
+The Chairman shall have general and active management and control of the business and affairs of the Company, subject to the control of the Board and the Stockholders' Agreement, and shall see that all orders and resolutions of the Board are carried into effect.  The positions of Chairman and CEO may be filled by one individual or by two different individuals.  Prior to the Separation, Mr. Goei served as both Chairman and CEO.  In connection with the Separation and the terms of the Stockholders' Agreement, Mr. Drahi was appointed Chairman. 
+RISK OVERSIGHT
+One of the key functions of our Board is informed oversight of our risk management process.  Our Board administers this oversight function directly, with support from the Audit and Compensation Committees, each of which addresses risks specific to its respective areas of oversight.  In particular, our Audit Committee is responsible for considering and discussing our major financial risk exposures and cyber-security risks and the steps our management takes to monitor and control these exposures, including guidelines and policies to govern the process by which risk assessment and management is undertaken.  Our Audit Committee also monitors compliance with legal and regulatory requirements, in addition to oversight of the performance of our internal audit function.  Our Compensation Committee assesses and monitors whether any of our compensation policies and programs has the potential to encourage excessive risk‑taking.  Board committees report to the full Board as appropriate, including when a matter rises to the level of a material or enterprise‑level risk.  In addition, the Board receives detailed regular reports from members of our senior management and other personnel that include assessments and potential mitigation of the risks and exposures involved with their respective areas of responsibility.
+CORPORATE GOVERNANCE GUIDELINES
+We are committed to adhering to corporate governance practices that meet applicable U.S. corporate governance standards.  Our Board has adopted Corporate Governance Guidelines that serve as a flexible framework within which our Board and its committees operate.  These guidelines cover a number of areas including the size and composition of the Board, board membership criteria and director qualifications, director responsibilities, board agenda, role of the chief executive officer, meetings of independent directors, committee responsibilities and assignments, board member access to management and independent advisors, director communications with third parties, director compensation, director orientation and continuing education, evaluation of senior management and management succession planning. 
+The full text of our Corporate Governance Guidelines may be viewed at our website at www.alticeusa.com.  A copy may be obtained, without charge, by writing to Altice USA, Inc., Corporate Secretary, 1 Court Square West, Long Island City, New York 11101.
+CONTROLLED COMPANY
+Our Class A common stock is listed on the New York Stock Exchange.  Because Mr. Drahi owns or controls (through entities controlled directly or indirectly by Mr. Drahi or his family (including Next Alt, Uppernext and A4 S.A.) and voting agreements as described in "Certain Relationships and Related Party Transactions") shares representing a majority of the voting power of our outstanding common stock, we are a "controlled company" under NYSE corporate governance rules.
+As a controlled company, we are eligible for exemptions from some of the requirements of these rules, including: 
+[BEGIN TABLE]
+• the requirement that a majority of our Board consist of independent directors; and 
+• the requirement that we have a nominating and governance committee. 
+[END TABLE]
+Consistent with these exemptions, we do not have (i) a majority of independent directors on our Board or (ii) a nominating and governance committee.  The responsibilities that would otherwise be undertaken by a nominating and governance committee are undertaken by the full Board, or at its discretion, by a special committee established under the direction of the full Board.
+Because of this control, Mr. Drahi and related parties control the outcome of any matters put before the stockholders.
+DIRECTOR INDEPENDENCE
+Ms. Brouillette, Mr. Mullen and Mr. Svider have been determined by the Board to be independent directors under applicable NYSE corporate governance standards.
+BOARD SELF-ASSESSMENT
+The Board will conduct a self-evaluation at least annually to determine whether it is functioning effectively.  The Board periodically considers the mix of skills and experience that directors bring to the Board to assess whether the Board has the necessary tools to perform its oversight function effectively.
+In addition, our Audit Committee and Compensation Committee will each conduct their own annual self- assessment, which includes an assessment of the adequacy of their performance as compared to their respective charters.
+EXECUTIVE SESSIONS OF NON-MANAGEMENT BOARD MEMBERS
+Our Corporate Governance Guidelines provide that our non-management directors meet in executive session at least quarterly, with no members of management present.  The non-management directors specify the procedure to designate the director who will preside at each executive session.  Non-management directors who are not independent under the rules of the NYSE may participate in these executive sessions, but independent directors under the rules of the NYSE meet separately in executive session at least once a year.
+COMMUNICATING WITH OUR DIRECTORS
+The Board welcomes communications from the Company's stockholders, and it is the policy of the Company to facilitate communication from stockholders.  The Board generally believes it is in the Company's best interests that designated members of management speak on behalf of the Company.  Stockholders and other interested parties wishing to communicate with the Board or with an individual Board member concerning the Company may do so by writing to the Board or to a particular Board member, by mailing such correspondence to:
+Corporate Secretary
+Altice USA, Inc.
+Attn:  General Counsel
+1 Court Square West
+Long Island City, NY 11101
+Tel:  1-516-803-2300
+Please indicate on the envelope or in the email whether the communication is from a stockholder or other interested party.  The Board has instructed the Corporate Secretary and other relevant members of management to examine incoming communications and forward to the Board or individual Board members as appropriate, communications he or she deems relevant to the Board's roles and responsibilities.  The Board has requested that certain types of communications not be forwarded, and redirected if appropriate, such as: spam, business solicitations or advertisements, resumes or employment inquiries, service complaints or inquiries, surveys, or any threatening or hostile materials.
+CODE OF BUSINESS CONDUCT AND ETHICS
+Our Board has adopted a Code of Business Conduct and Ethics for all of our employees, including our principal executive officer, principal financial officer, principal accounting officer or controller, or persons performing similar functions.  A copy of our Standards of Business Conduct is available on our website.  Our Code of Business Conduct and Ethics is a "code of ethics" as defined in Item 406(b) of Regulation S‑K.  We will make any legally required disclosures regarding amendments to or waivers of provisions of our code of ethics on our website. The full text of the code is available on our website at www.alticeusa.com.  A copy may be obtained, without charge, by writing to Altice USA, Inc., Attn: Corporate Secretary, 1 Court Square West, Long Island City, New York 11101.
+SECTION 16(A) BENEFICIAL OWNERSHIP REPORTING COMPLIANCE
+Section 16(a) of the Securities Exchange Act of 1934 requires our directors, certain officers and any beneficial owners of more than 10% of our common stock to file reports relating to their ownership and changes in ownership of our common stock with the SEC and NYSE by certain deadlines.  Based on a review of Section 16 filings with respect to our Company, the following transactions (all of which were exempt from Section 16(b)) were reported after the applicable reporting deadline: (i) Next Alt S.á. r.l., Altice Europe, Patrick Drahi, A4 S.A., CVC 3 B.V., each as a 10% owner and, at the time, a director by deputization, and A4 S.A., as a director by deputization only, filed a Form 4 reporting two transactions; (ii) Next Alt S.á. r.l., a 10% owner and director by deputization, Mr. Drahi, a 10% owner and a director, and A4 S.A., as a director by deputization, filed three additional Form 4s reporting a total of seven transactions; and (iii) Mr. Drahi individually filed a Form 4 reporting one transaction.
+DIRECTOR COMPENSATION
+Compensation for our non‑employee directors is determined by our Board with the assistance of the Compensation Committee.  See "Director Compensation Table" below for further details on director compensation.
+DIRECTOR COMPENSATION TABLE
+The table below shows the compensation paid to or earned by our non‑employee directors for the year ending December 31, 2018.  Directors who are also employees of the Company, Altice Europe or A4 S.A. do not receive any compensation for their service as directors.  Messrs. Bakker, Bonnin, P. Drahi, Goei, Okhuijsen and Stewart did not receive any compensation for their services as directors of our Board in 2018. On February 20, 2019, Mr. Bonnin resigned as a member of our Board, as reported in a current report filed on Form 8-K with the SEC on February 22, 2019.  
+Compensation for our non‑employee directors is determined by our Board with the assistance of the Compensation Committee.  Each non‑employee director receives a base fee of $72,500 per year.  In addition, the Audit Committee chair receives an annual fee of $32,500 and Audit Committee members each receive an annual fee of $22,500.  The Compensation Committee chair receives an annual fee of $22,500 and Compensation Committee members each receive an annual fee of $5,000.  The compensation of Mr. Svider is paid to BC Partners LLP.  
+[BEGIN TABLE]
+Name   Year   Fees Earned or Paid in Cash ($)   Total ($) 
+Raymond Svider   2018   117,500   117,500 
+Mark Mullen   2018   110,000   110,000 
+Manon Brouillette   2018   100,000   100,000 
+[END TABLE]
+PROPOSAL 1
+ELECTION OF DIRECTORS 
+The Board has nominated the nine director candidates named below, all of whom currently serve as our directors.  There are no vacancies on the Board.
+The Company representatives named in the proxy intend to vote for the election of each of the director nominees below, unless you indicate on your proxy that your vote should be withheld from any or all of the nominees.
+Information on each of our nominees is given below.
+The Board recommends you vote FOR each of the following candidates:
+Patrick Drahi, 55, founded Altice Europe and its subsidiaries (the "Altice Group") in 2002.  Mr. Drahi is president of the board of Altice Europe and chairman of the board of Altice USA.  Mr. Drahi is a graduate from the Ecole Polytechnique and Ecole Nationale Supérieure de Télécommunications and began his professional career with the Philips Group in 1988 where he was in charge of international marketing (UK, Ireland, Scandinavia, Asia) in satellite and cable TV (DTH, CATV, MMDS).  In 1991, Mr. Drahi joined the US/Scandinavian group Kinnevik‑Millisat, where he was in charge of the development of private cable networks in Spain and France and was involved in the launch of commercial TV  stations in Eastern Europe.  In 1993, Mr. Drahi founded CMA, a consulting firm specialized in telecommunications and media, which was awarded a mandate from BCTV for the implementation of Beijing's full service cable network.  In addition, Mr. Drahi founded two cable companies, Sud Câble Services (1994) and Médiaréseaux (1995), where he was involved in several network deployments and buy-outs.  When Médiaréseaux was taken over by UPC at the end of 1999, Mr. Drahi advised UPC on its M&A activities until mid‑2001.  Mr. P. Drahi is the father of Mr. D. Drahi.  Mr. Drahi's qualifications to sit on our Board include his substantial experience in the area of corporate strategy, operations, finance and telecommunications.
+Dexter Goei, 47, has served as Chief Executive Officer of Altice USA since 2016.  Mr. Goei was chairman of the boards of Altice USA and Altice Europe until the Distribution and a director of Altice Europe until October 2018.  Mr. Goei first joined the Altice Group as Chief Executive Officer in 2009, helping to lead its development and growth from a French cable operator to a multinational telecoms operator with fixed and mobile assets across six different territories serving both residential and enterprise clients.  Prior to joining the Altice Group, Mr. Goei spent 15 years in investment banking first with JPMorgan and then Morgan Stanley in their Media & Communications Group in New York, Los Angeles and London. He was Co‑Head of Morgan Stanley's European Media & Communications Group when he left to join Altice.  Mr. Goei is a graduate of Georgetown University's School of Foreign Service with cum laude honors.  Mr. Goei's qualifications to sit on our Board include his substantial experience in the area of corporate strategy, operations, finance and telecommunications.
+Dennis Okhuijsen, 48, joined Altice USA as a director in 2017.  Mr. Okhuijsen joined the Altice Group in September 2012 and served as its CFO until October 2018.  He currently serves as an advisor to the Altice Group.  Before joining the Altice Group, he was a Treasurer for Liberty Global from 2005 until 2012.  From 1993 until 1996 he was a senior accountant at Arthur Andersen.  Mr. Okhuijsen joined UPC in 1996 where he was responsible for accounting, treasury and investor relations up to 2005.  His experience includes raising and maintaining non‑investment grade capital across both the loan markets as well as the bond/equity capital market.  In his previous capacities he was also responsible for financial risk management, treasury and operational financing.  He holds a Master's of Business Economics from the Erasmus University Rotterdam.  Mr. Okhuijsen's qualifications to sit on our Board include his substantial experience in the area of corporate finance and strategy, including capital markets and capital allocation.
+Raymond Svider, 56, joined Altice USA as a director in 2017.  Mr. Svider is the Co‑Chairman and a Managing Partner of BC Partners.  He joined the firm in 1992 and is currently based in New York.  Over the years, Mr. Svider has participated and led investments in a number of sectors including TMT, healthcare, industrials, business services, consumer and retail.  He is currently Non‑Executive Chairman of PetSmart, Chairman of the Board of Accudyne Industries, and also serves on the boards of Intelsat (NYSE "I") and Teneo Global.  Mr. Svider previously served as a Director of Office Depot, Multiplan, Unity Media, Neuf Cegetel, Polyconcept, Neopost, Nutreco, UTL and Chantemur.  Mr. Svider received an MBA from the University of Chicago and an MS in Engineering from both Ecole Polytechnique and Ecole Nationale Superieure des Telecommunications in France.  Mr. Svider's qualifications to sit on our Board include his substantial experience in the area of corporate strategy, finance and investments.
+Mark Mullen, 54, joined Altice USA as a director in 2017.  Mr. Mullen is co‑founder and Managing Director of Bonfire Ventures, founded in 2017.  Mr. Mullen also founded Double M Partners in 2012 and has since served as Managing Partner.  Both Bonfire and Double M manage early stage capital funds in Los Angeles.  Mr. Mullen also founded Mull Capital in 2005, an evergreen fund that invests directly in startups and in other investment funds.  All of the funds focus on investing in internet, media and technology with primary emphasis on business to business solutions, security and software.  Prior to Double M Partners, Mr. Mullen served as COO of the City of Los Angeles (Economic Policy) and Senior Advisor to the then‑Mayor Antonio Villaraigosa where he oversaw several of the City's assets including the LA International Airport (LAX), LA Convention Center, the Planning and Building & Safety Departments, as well as the Office of Small Business Services.  From 1993 until 2007, Mr. Mullen ran the international M&A and private equity group for Daniels & Associates, an investment bank focused on the cable TV and broadband industry.  Mr. Mullen was a senior partner of Daniels when it was acquired by RBC Capital Markets in 2007 where he stayed until 2010 as Managing Director.  Mr. Mullen earned his BSBA with cum laude honors from the University of Denver in 1986 and earned his MBA in international business from the Thunderbird School of Global Management in 1992.  Mr. Mullen's qualifications to sit on our Board include his substantial experience in the area of corporate strategy, operations, finance and investments, including, capital markets, capital allocation and mergers and acquisitions.
+Manon Brouillette, 50, joined Altice USA as a director in 2017.  Ms. Brouillette served as President and Chief Executive Officer of Vidéotron, which includes Videotron Business Solutions, Vidéotron Le Superclub, 4Degrees and Fibrenoire, from 2013 until 2018.  Ms. Brouillette sits on the board of the École de technologie supérieure (ÉTS) in Montréal.  She is also Executive Vice‑Chair of the Quartier de l'innovation and a director of the Sainte‑Justine Hospital Foundation.  Ms. Brouillette received a bachelor's degree in communications and marketing from Université Laval and completed  the University of Western Ontario's Ivey Executive Program.  Ms. Brouillette's qualifications to sit on our Board include her substantial experience in the area of corporate strategy and operations.
+Charles Stewart, 49, has served as Co‑President and Chief Financial Officer of Altice USA since 2015 and has served as a director since 2018.  Mr. Stewart joined Altice USA after 21 years of corporate, finance and investment banking experience in the United States, Latin America and Europe.  Most recently, Mr. Stewart served as Chief Executive Officer of Itau BBA International plc from 2013 until 2015, where he oversaw Itau‑Unibanco's wholesale banking activities in Europe, the United States and Asia.  Prior to that, he spent nineteen years at Morgan Stanley as an investment banker in various roles, including nine years focusing on the U.S. cable, broadcast and publishing industries.  Mr. Stewart also acted as Deputy Head of Investment Banking for EMEA and was a member of the global investment banking management committee.  Mr. Stewart is a graduate of Yale University. Mr. Stewart's qualifications to sit on our Board include his substantial experience in the area of corporate strategy, operations and finance.
+Gerrit Jan Bakker, 48, joined Altice USA as a director in 2018.  Mr. Bakker has over 12 years of experience in the telecommunications and media sector.  Mr. Bakker currently serves as Group Treasurer at Altice Europe where Mr. Bakker is responsible for group wide treasury management activities including financial risk management, liquidity management, intercompany financing, internal banking services, equity related activities and management reporting.  His previous experience also includes service in senior roles at Liberty Global plc where Mr. Bakker served as Deputy Treasurer.  Mr. Bakker earned a Bachelor of Public Administration and Bachelor of Business Administration degrees from Erasmus University in Rotterdam, The Netherlands.  Mr. Bakker's qualifications to sit on our Board include his substantial experience in the area of corporate finance and telecommunications.
+David Drahi, 24, joined Altice USA as a director in 2019.  Mr. Drahi graduated from the Imperial College of London with a Master in Physics after having obtained his Bachelor of Science at Ecole Polytechnique in Lausanne, Switzerland. He is completing his PhD in Quantum Optics at the Oxford University. Prior, he worked at Cabovisao, previously owned by Altice Europe, and Icart, a subcontractor to Altice Europe.  Mr. D. Drahi is Mr. P. Drahi's son.  Mr. Drahi's qualifications to sit on our Board include his substantial experience in the area of corporate strategy and operations. 
+PROPOSAL 2
+RATIFICATION OF APPOINTMENT OF INDEPENDENT REGISTERED PUBLIC ACCOUNTING FIRM
+The Audit Committee of the Board has approved the retention of KPMG LLP ("KPMG") as our independent registered public accountants for 2019.  KPMG will audit our financial statements for fiscal year 2019.  We are asking that you ratify that appointment, although your ratification is not required.  A KPMG representative will attend the annual meeting to answer appropriate questions and to make a statement if he or she desires.
+This proposal requires the affirmative vote of the majority of the votes cast by the holders of Class A common stock and Class B common stock, voting together as a single class.  In accordance with our Third Amended and Restated Certificate of Incorporation, holders of Class A common stock have one vote per share and holders of Class B common stock have twenty five votes per share.
+The Board recommends you vote FOR this proposal.
+KPMG LLP Information 
+The following table presents fees for services rendered by KPMG in 2018 and 2017.
+[BEGIN TABLE]
+  2018   2017 
+  (in thousands) 
+Audit Fees(1) $ 5,114     $ 4,384   
+Audit Related Fees(2) 3,125     2,694   
+Tax Fees(3) 529     944   
+Total Fees $ 8,768     $ 8,022   
+(1) Audit fees for 2018 and 2017 consisted of services principally for the annual audit of the Company's consolidated financial statements, audit of internal control over financial reporting in 2018, and quarterly reviews of the Company's interim consolidated financial statements. 
+(2) Audit related fees for 2018 consisted principally of fees billed for services relating to the Company's spin-off from Altice Europe, services performed related to the issuance of debt instruments, and audits of employee benefit plans.  Audit related fees for 2017 consisted principally  
+[END TABLE]
+ of fees billed for services relating to registration statements in connection with the Company's IPO, services relating to acquisition accounting, services performed related to the issuance of debt instruments, and audits of employee benefit plans.  
+[BEGIN TABLE]
+(3) Tax fees for 2018 and 2017 consisted of fees for the preparation of tax returns and tax consultation services.   
+[END TABLE]
+The Audit Committee's policy requires that the Audit Committee pre-approve audit and non-audit services performed by the independent registered public accounting firm.  The Audit Committee may delegate its pre-approval authority to the Chairman or any other member of the Audit Committee.  All of the services for which fees were disclosed in the table above were pre-approved under the Audit Committee's pre-approval policy.
+REPORT OF AUDIT COMMITTEE 
+In accordance with its charter, the Audit Committee assists the Board in its oversight of the Company's financial reporting process.  Management of the Company is responsible for the preparation, presentation and integrity of the Company's financial statements and for maintaining appropriate accounting and financial reporting principles and policies and internal controls and procedures designed to assure compliance with accounting standards and applicable laws and regulations.  The independent registered public accounting firm (the "independent auditor") is responsible for auditing the Company's annual financial statements and expressing opinions as to the conformity of the annual financial statements with generally accepted accounting principles and on the effectiveness of the Company's internal control over financial reporting.
+As part of its oversight activities during 2018, the Audit Committee discussed with the independent auditor the overall scope and plans for its audit and approved the terms of its engagement letter.  The Audit Committee also reviewed the Company's internal audit plan.  The Audit Committee met with the independent auditors and with the Company's internal auditors, in each case with and without other members of management present, to discuss the results of their respective examinations, their evaluations of the Company's internal controls and the overall quality and integrity of the Company's financial reporting.  Additionally, the Audit Committee reviewed the performance, responsibilities, budget and staffing of the Company's internal auditors.  Further, the Audit Committee monitored the Company's response to matters raised through the confidential hotline and also discussed with management the processes by which the Company assesses and manages exposure to risks.
+In the performance of its oversight function, the Audit Committee reviewed and discussed with management and the independent auditor the audited financial statements for the year ended December 31, 2018 and the independent auditor's evaluation of the Company's internal control over financial reporting.  The Audit Committee discussed with the independent auditor the matters required to be discussed pursuant to Public Company Accounting Oversight Board Auditing Standard No. 16 (Communications with Audit Committees).  The Audit Committee received the written disclosures and the letter from the independent auditor required by applicable requirements of the Public Company Accounting Oversight Board regarding the independent auditor's communications with the Audit Committee regarding independence, and the Audit Committee discussed with the independent auditor that firm's independence.  All audit and non-audit services performed by the independent auditor were approved in accordance with the Audit Committee's pre- approval policy, and the Audit Committee has concluded that the provision of such services to the Company is compatible with the independent auditor's independence.
+Based upon the review and discussions described in this report, the Audit Committee recommended to the Board that the audited financial statements for the year ended December 31, 2018 be included in the Company's Annual Report on Form 10-K for 2018 filed with the SEC.
+[BEGIN TABLE]
+Members of the Audit Committee 
+Mark Mullen (chair) Manon Brouillette Raymond Svider 
+[END TABLE]
+OUR EXECUTIVE OFFICERS
+Our current executive officers are: 
+[BEGIN TABLE]
+Dexter Goei  Chief Executive Officer (CEO) 
+Charles Stewart Co-President and Chief Financial Officer (CFO) 
+Abdelhakim Boubazine Co-President and Chief Operating Officer (COO) 
+David Connolly Executive Vice President, General Counsel and Secretary 
+Colleen Schmidt Executive Vice President, Human Resources 
+[END TABLE]
+Lisa Rosenblum, in her continuing role as Vice Chairman, is now no longer an executive officer. 
+Biographies for Dexter Goei and Charles Stewart are provided above in Stockholder Proposal 1.
+Abdelhakim Boubazine, 43, has served as Co‑President and Chief Operating Officer of Altice USA since 2016.  He joined the Altice Group in 2014 as CEO of Altice in the Dominican Republic.  There he oversaw cable television, broadband and mobile operations, serving more than 4 million customers.  Prior to Altice, Mr. Boubazine was CEO of ERT, a company specializing in the design, construction and operation of the latest‑generation cable and fiber networks in France, Belgium, Luxembourg and the French West Indies and which was one of the main sub‑contractors of Altice in these regions.  Prior to joining the telecommunications industry, he had an international career of more than 10 years in the oil and gas industry, where he occupied various operations, business and senior management roles in Europe, Asia, North America, Africa and the Middle East.  Mr. Boubazine holds an engineering degree from the École Centrale de Lyon and a Master's degree in Theoretical Physics from the University of Strasbourg.  He is also a post‑graduate in Petroleum Engineering & Management from Imperial College of London.
+David Connolly, 47, is Executive Vice President, General Counsel and Secretary of Altice USA.  In this role he is responsible for all legal affairs for Altice USA.  Previously, Mr. Connolly was a Mergers & Acquisitions partner at Shearman & Sterling LLP.  While at Shearman & Sterling LLP, he represented multinational corporations, financial institutions and professional sports franchises in a wide variety of matters.  Mr. Connolly holds a B.A. from the College of the Holy Cross and a J.D. from Fordham University School of Law.
+Colleen Schmidt, 50, is Executive Vice President, Human Resources of Altice USA. In this role she oversees the human resources function and is charged with conceiving of and executing on organizational and HR initiatives across the company in order to foster an efficient, high-performing workforce. Ms. Schmidt joined Altice USA through the Cablevision acquisition, where she was serving as Senior Vice President, Human Resources and Internal Communications. Prior to that, Ms. Schmidt spent almost 20 years in HR leadership roles within the electronics distribution, financial services and entertainment industries, including Vice President of Global Talent Management for Arrow Electronics, Managing Director, Human Resources for the Consumer and Global Products and Services divisions of Marsh Inc. as well as earlier roles at Home Box Office and T. Rowe Price Associates. Ms. Schmidt holds a bachelor's degree in psychology from the University of Virginia.
+COMPENSATION DISCUSSION AND ANALYSIS
+EXECUTIVE SUMMARY
+Overview
+This section discusses the material components of our executive compensation program for each of our named executive officers in 2018.  Our named executive officers are:
+[BEGIN TABLE]
+• Dexter Goei, Chief Executive Officer (CEO) and, prior to June 8, 2018, Chairman of our Board; 
+• Charles Stewart, Co‑President and Chief Financial Officer (CFO); 
+• Abdelhakim Boubazine, Co‑President and Chief Operating Officer (COO); 
+• David Connolly, Executive Vice President, General Counsel and Secretary; and 
+• Lisa Rosenblum, Vice Chairman. 
+[END TABLE]
+The compensation discussed in this section is the compensation paid to our named executive officers with respect to their service to Altice USA in 2018.
+Executive Compensation Philosophy
+The Company's executive compensation philosophy is based on the following principles: 
+[BEGIN TABLE]
+• provide total compensation that attracts, motivates and retains individuals with the knowledge, expertise and experience required for each specific role; 
+• deliver an appropriate proportion of the total compensation package through variable pay elements linked to performance over the short‑ and long‑term; 
+• encourage and reward performance that will lead to long‑term enhancement of stockholder value; and 
+• take into account compensation practices in the markets in which we operate and compete for talent. 
+[END TABLE]
+Determination of Compensation
+The Compensation Committee of our Board of Directors (the "Compensation Committee") is responsible for overseeing our overall compensation structure and assessing whether our compensation structure results in appropriate compensation levels and incentives for executive management.  Compensation levels for our named executive officers are determined by the Compensation Committee within the framework of the Company's executive compensation philosophy, as described above, and in consideration of a number of factors, such as the nature of the role, experience and performance of the individual and compensation levels for similar roles in the market.  Each year, the Chairman of the Board reviews the performance of the CEO and recommends to the Compensation Committee base salary adjustments, annual bonus based upon performance against the objectives approved by the Compensation Committee, and annual long-term incentive grants for the CEO.  The management of the Company provides to the Compensation Committee the CEO's recommendations on the compensation, including annual bonus and long-term incentive grants for executive officers, other than the CEO.
+ROLE OF COMPENSATION COMMITTEE
+The responsibilities of the Compensation Committee are set forth in its charter. Among other responsibilities, the Compensation Committee (1) establishes our general compensation philosophy and, in consultation with management, oversees the development and implementation of compensation programs; (2) reviews and approves corporate goals and objectives relevant to the compensation of our Chief Executive Officer and the other executive officers of the Company who are required to file reports under Section 16(a) of the Exchange Act, evaluates such executive officers' performance in light of those goals and objectives and determines and approves their compensation levels based upon those evaluations; and (3) administers our stockholder approved compensation plans.
+BENCHMARKING
+The Compensation Committee reviewed and compared compensation for a core peer group of companies in the same general industry or industries as the Company as well as companies of similar size and business mix to evaluate the competitiveness and appropriateness of our compensation program.  The Compensation Committee selected the following list of companies that would comprise our peer group for 2018 compensation decisions:
+[BEGIN TABLE]
+• AT&T Inc. 
+• CenturyLink, Inc. 
+• Charter Communications, Inc. 
+• Comcast Corporation 
+• DISH Network Corporation 
+• Frontier Communications Corporation 
+• Liberty Media Corporation 
+• Sprint Corporation 
+• T‑Mobile US, Inc. 
+• Verizon Communications Inc. 
+• Windstream Holdings, Inc. 
+[END TABLE]
+The Compensation Committee determined that the peer group currently represented an appropriate benchmark for the competitive market for our senior executive talent, based on our business operations and competitive labor markets.
+Management presented to the Compensation Committee a comparison of 2017 actual base salary, bonus, total cash compensation (defined as base salary plus bonus), long-term incentives and total direct compensation (defined as total cash compensation plus the value of long-term incentives) of our named executive officers with the 25th, median and 75th percentile of the peer group. The Compensation Committee also received information from management comparing actual 2017 peer group compensation and projected 2018 compensation levels for the named executive officers to comparable positions among the peer companies.  Compensation of Mr. Goei, the Company's Chief Executive Officer, was compared to chief executive officers at the peer group companies.  Compensation of Mr. Stewart, Co-President and Chief Financial Officer of the Company, was compared to Chief Financial Officers at the peer group companies.  Compensation of Mr. Boubazine, Co‑President and Chief Operating Officer, was compared to Chief Operating Officers at the peer group companies.  Compensation of Mr. Connolly, Executive Vice President, General Counsel, was compared to General Counsels at the peer group companies.  In this analysis, it was noted that there was limited market information regarding the role and compensation of Ms. Rosenblum, Vice Chairman.
+Based on the total compensation review, the Compensation Committee set a general guideline for target total direct compensation at the median of the peer group based on a combination of internal and market considerations.  Internal factors include experience, skills, position, level of responsibility, historic and current compensation levels, internal relationship of compensation levels between executives, as well as attraction and retention of executive talent.  Market considerations include referencing market pay levels and pay practices among a peer group of companies with a reference to the median of the peer group.  The Compensation Committee's decisions are based upon a combination of these considerations and may exceed or fall below the median of the peer group.  The Compensation Committee believed that this range was appropriate in light of the dynamics, diversity, complexities and competitive nature of the Company's businesses as well as the Company's performance.  The Compensation Committee believed that the guideline for target total direct compensation provided a useful point of reference, along with the other factors described above, in administering the Company's executive compensation program.
+ELEMENTS OF COMPENSATION
+BASE SALARIES
+The named executive officers receive a base salary to compensate them for services provided to the Company.  Base salary is intended to provide a fixed component of compensation reflecting various factors, such as the nature of the role and the experience and performance of the individual.  The Compensation Committee in 2018 reviewed the base salaries of the executive officers.  The Compensation Committee kept the named executive officers' salaries constant except that, in light of, among other things, the relinquishment of Mr. Goei's responsibilities as President of the board of directors of Altice Europe so that he could further focus on Altice USA, increased Mr. Goei's base salary from $500,000 to $750,000 effective with the spin-off of Altice USA from Altice Europe in June 2018.  As previously disclosed in the Form 10-K/A filed for the performance period ending December 31, 2017, due to Ms. Rosenblum's changed responsibilities at the Company beginning in 2017, and the non-supervisory nature of her role, beginning in 2018, Ms. Rosenblum's base salary was reduced from $400,000 to $150,000.  As of December 31, 2018, Mr. Stewart's and Mr. Boubazine's annualized base salaries were $500,000 each, and Mr. Connolly's annualized base salary was $400,000.
+ANNUAL BONUS
+Under our executive compensation program, the Compensation Committee grants annual incentive awards, or bonuses, to executive officers and other members of management.  For 2018, each of our named executive officers was eligible to earn an annual performance-based cash bonus under the Altice USA Short Term Incentive Compensation Plan (the "Short Term Incentive Plan").  The purpose of the Short Term Incentive Plan is to motivate and reward our executive officers by making a portion of their cash compensation dependent upon certain Company, corporate, business unit and individual performance goals.
+The Compensation Committee reviews the target bonus levels of the named executive officers at least annually.  The Compensation Committee evaluates each executive's performance and responsibilities and may adjust executive target bonus levels accordingly.  In 2018, the Compensation Committee, in its discretion, increased the 2018 annual target bonus for Mr. Goei from $1,500,000 to $3,000,000 (maximum payout of $6,000,000) in conjunction with the base salary increase noted above.  The Compensation Committee maintained the 2018 bonus targets for Mr. Stewart and Mr. Boubazine, which are equal to 100% of base salary paid (target equal to $500,000 each), and increased their maximum payment opportunity from 150% to 200% of target (maximum payout of $1,000,000 each).  The Compensation Committee maintained the 2018 bonus target for Mr. Connolly, which is equal to 60% of base salary paid (target equal to $240,000) with an increased maximum payment opportunity from 150% to 200% of target (maximum payout of $480,000).  In connection with her changed responsibilities and the non-supervisory nature of her role, the Compensation Committee reduced Ms. Rosenblum's annual target bonus from 60% to 35% of base salary paid (target equal to $55,865) with a maximum payment opportunity equal to 200% ($111,730). The increase in the maximum  payout opportunity to 200% was made to align the maximum payout opportunity of our named executive officers with the maximum bonus payout opportunity for all other bonus plan participants
+For 2019, the Compensation Committee increased the 2019 bonus target for Mr. Stewart and Mr. Boubazine to 200% of base salary paid (target equal to $1,000,000 each) with a maximum payout of $2,000,000 each to increase the competitiveness of their total target cash compensation.
+The 2018 annual incentive opportunity for our named executive officers consists of a formula-based award based on Altice USA financial and operational results.  The Compensation Committee has the discretion to adjust the formula-based award for individual performance and other factors.  The 2018 formula-based award performance metrics are below:
+Altice USA Performance Metrics
+[BEGIN TABLE]
+Performance Area   Weight   Performance Metrics* 
+Financial   33.3%   Adjusted EBITDA 
+Operational   66.7%   Corporate Expense 
+Total   100%     
+* Corporate Expense refers to the portion of other Operating Expenses related to certain predefined departments that provide enterprise‑wide administrative support to business operations (e.g., executive, legal, human resources, accounting, etc.).  A description of the other financial metrics that are non‑GAAP metrics is set forth in "-Description of Non‑GAAP Financial Measures." 
+[END TABLE]
+The 2018 formula-based annual incentive plan for our corporate leaders, including our named executive officers, after giving effect to plan adjustments approved by the Compensation Committee had a payout score equal to 100%.  Based on individual performance evaluations and reflecting the payout scores for other operational business unit bonus plans, the Compensation Committee decided to adjust the payout score for Messrs. Goei, Stewart and Boubazine from 100% to 80%, maintain the payout score for Mr. Connolly at 100% and adjust the payout score for Ms. Rosenblum from 100% to 75%.
+STOCK OPTIONS
+In 2018, certain members of management, including Messrs. Goei, Stewart, Boubazine and Connolly, were granted stock options under the Altice USA 2017 Long Term Incentive Plan (the "Plan").  On August 29, 2018, Mr. Connolly received 77,055 stock options with an exercise price of $17.52, which is determined based on the 30 day volume weighted average of the closing price of Class A common stock as of the day prior to the grant date.  On December 19, 2018, Mr. Goei received 1,337,400 stock options and Mr. Stewart and Mr. Boubazine each received 428,654 stock options with an exercise price of $17.50, which is determined based on the 30 day volume weighted average of the closing price of Class A common stock as of the day prior to the grant date, December 19, 2018.  The stock options granted cliff vest on the third anniversary of the grant date, and are generally subject to continued employment with the Company or any of its affiliates and expire ten years from the date of grant.  The options are generally subject to the provisions of the Company's form of nonqualified stock option award agreement, which was filed with the Commission on January 3, 2018 as Exhibit 99.1 to a Current Report on Form 8-K.  We believe stock options provide the named executive officer with an incentive to improve the Company's stock price performance and a direct alignment with shareholders' interests, as well as a continuing stake in the long-term success of the Company.
+In connection with the Separation, the Company issued a one-time extraordinary dividend of $2.035 to all shareholders of record as of June 7, 2018.  In order to preserve the intrinsic value of outstanding Company options following the dividend, the Compensation Committee approved an option adjustment whereby the exercise price of all outstanding options was adjusted downward by the amount of the dividend (the "Option Adjustment"). 
+BENEFITS
+The named executive officers are eligible to participate in the health and welfare benefit plans made available to the other benefits‑eligible employees of the Company, including medical, dental, vision, life insurance and disability coverage.
+The named executive officers are eligible to participate in the Altice USA 401(k) Savings Plan and may contribute into their plan accounts a percentage of their eligible pay on a before‑tax basis and after‑tax basis.  The Company matches 100% of the first 4% of eligible pay contributed by participating employees.  In addition, the Company may make an  additional discretionary year‑end contribution.  Any discretionary year‑end contribution, if approved by the Company, will be provided to all eligible participants who are active on the last day of the plan year and who complete 1,000 hours of service in such plan year.  Company contributions to the Altice USA 401(k) Savings Plan are subject to vesting limitations for the first three years of employment.
+The Company also sponsors the Cablevision Excess Savings Plan, a non‑qualified deferred compensation plan.  Effective December 31, 2016, the Excess Savings Plan was frozen to new participants and Company contributions.  The Company maintains the Cablevision Cash Balance Pension Plan, a tax‑qualified defined benefit plan, and the Cablevision Excess Cash Balance Plan, a non‑qualified deferred compensation plan for participants whose benefits in the qualified plan are limited by applicable Internal Revenue Service ("IRS") limitations.  Effective December 31, 2013, the Cablevision Cash Balance Pension Plan and the Cablevision Excess Cash Balance Plan were frozen to new participants and future benefit accruals, except for certain employees covered by a collective bargaining agreement for whom accruals were frozen as of April 15, 2015.  Monthly interest credits continue to be made to participant accounts until distribution of the accounts following termination of employment.  Ms. Rosenblum is the only named executive officer with an account balance in the Cablevision Excess Savings Plan or with an accrued benefit in the Cablevision Cash Balance Pension Plan or the Cablevision Excess Cash Balance Pension Plan.  See the "Nonqualified Deferred Compensation Table" below for further information on the Cablevision Excess Savings Plan and the "Pension Benefits Table" below for further information on the Cablevision Cash Balance Pension Plan and the Cablevision Excess Cash Balance Pension Plan.
+PERQUISITES
+The Company provides certain perquisites to our named executive officers, which it has determined are appropriate for recruitment and retention. On occasion, our named executive officers may utilize the Company-provided aircraft for personal use, for which they reimburse the Company for the full cash cost of such travel.  Immediate family members may accompany our named executive officers on business travel.  The Company purchases tickets for sporting and entertainment events for business use; on the occasion the tickets are unused, they are available for personal use by our employees, including the named executive officers.  The named executive officers are also eligible to participate in the Altice USA Employee Product Benefit program, which provides all benefits-eligible employees who reside in the Suddenlink or Optimum footprint with discounted pay television, broadband and telephony services.  See "Summary Compensation Table" below for further information on the perquisites provided to our named executive officers during 2018.
+POST-TERMINATION COMPENSATION
+Our named executive officers have helped build the Company into the successful enterprise that it is today and we believe that post‑termination benefits are integral to the Company's ability to attract and retain qualified executives.  Our named executive officers were eligible for severance benefits in 2018 under the Altice USA Severance Benefits Policy.  All severance benefits payable under the severance policy would be conditioned on the employee executing a separation agreement with the Company, including, a release of claims and any other terms and conditions that the Company may require.  For a description and quantification of the severance and other benefits payable to each of the named executive officers under the different circumstances of termination, please see "Severance Benefits" and "Payments on Termination or Change of Control" below.
+EMPLOYMENT AGREEMENTS
+None of the named executive officers have an employment agreement related to their service with Altice USA.
+TAX DEDUCTIBILITY OF COMPENSATION
+Section 162(m) of the Internal Revenue Code, as amended ("Section 162(m)"), establishes a $1 million limit on the amount that a publicly held corporation may deduct for compensation paid to "covered employees").  Pursuant to the Tax Cuts and Jobs Act, the definition of "covered employees" under Section 162(m) was amended to include a company's chief financial officer.  As such, "covered employees" now includes the chief executive officer, chief financial officer and the next three most highly paid named executive officers in a taxable year.  Once an officer is a "covered employee," his or her compensation from the Company at any time will remain subject to Section 162(m).  Further, the Tax Cuts and Jobs Act repealed the exclusion for "qualified performance‑based compensation" under Section 162(m), except for compensation payable pursuant to a binding arrangement in place before November 2, 2017.  Accordingly, the Company's tax deduction with regard to the compensation of "covered employees" is limited to $1 million per taxable year. DESCRIPTION OF NON-GAAP FINANCIAL MEASURES
+The Non‑GAAP financial measures disclosed here are measures with respect to Altice USA performance used as performance targets in 2018 compensation programs in which the named executive officers of the Company participate.
+Adjusted EBITDA - net income (loss) excluding income taxes, income (loss) from discontinued operations, non-operating income or expenses, loss on extinguishment of debt and write-off of deferred financing costs, gain (loss) on interest rate swap contracts, gain (loss) on derivative contracts, gain (loss) on investments and sale of affiliate interests, net, interest expense (including cash interest expense), interest income, depreciation and amortization (including impairments), share-based compensation expense or benefit, restructuring expense or credits and transaction expenses.
+Capex Adjusted EBITDA - Adjusted EBITDA (defined above) minus capital expenditures.
+REPORT OF COMPENSATION COMMITTEE
+The Compensation Committee has reviewed and discussed the Compensation Discussion and Analysis set forth above with management.  Based on such review and discussions, we have recommended to the Board that this Compensation Discussion and Analysis be included in this proxy statement and in the Company's Annual Report on Form 10-K, as amended, for the fiscal year ended December 31, 2018 for filing with the SEC.
+[BEGIN TABLE]
+Members of the Compensation Committee 
+Raymond Svider (Chair) Mark Mullen Manon Brouillette 
+[END TABLE]
+EXECUTIVE COMPENSATION TABLES
+SUMMARY COMPENSATION TABLE
+The table below summarizes the total compensation paid to or earned by each of our named executive officers for services to Altice USA for the year ending December 31, 2018.
+[BEGIN TABLE]
+Name and principal position Year Salary ($)(1) Bonus ($) Stock awards ($) Option awards ($)(2) Non‑equity incentive plan compensation ($)(3) Change in pension value and nonqualified deferred compensation earnings ($)   All other compensation  ($)(4) Total ($) 
+Dexter Goei 2018 630,769   —   —   9,107,694   2,400,000   —     11,769   12,150,232   
+CEO 2017 490,385   183,000   40,280,000   10,582,642   1,317,000   —     707,583   53,560,610   
+  2016 235,950   707,177   7,881,000   —   792,823   —     417,920   10,034,870   
+Charles Stewart 2018 500,000   —   —   2,919,134   400,000   —     11,769   3,830,903   
+Co‑President & CFO 2017 490,385   61,000   —   2,261,245   439,000   —     765,879   4,017,509   
+  2016 490,385   428,400   3,700,000   —   428,400   —     830,028   5,877,213   
+Abdelhakim Boubazine 2018 500,000   —   —   2,919,134   400,000   —     11,769   3,830,903   
+Co‑President & COO 2017 490,385   61,000   —   2,261,245   439,000   —     326,637   3,578,267   
+  2016 417,262   428,400   3,700,000   —   428,400   —     464,382   5,438,444   
+David Connolly 2018 400,000   —   —   587,159   240,000   —     11,000   1,238,159   
+EVP-General Counsel 2017 392,308   279,280   —   —   210,720   —     12,031   894,339   
+and Secretary 2016 138,462   250,000   1,572,500   —   315,360   —     4,308   2,280,630   
+Lisa Rosenblum 2018 159,615   —   —   —   42,057   24,827     6,385   232,884   
+Vice Chairman(5) 2017 392,308   —   —   —   128,567   10,167   (6) 77,776   608,818   
+  2016 238,462   —   2,220,000   —   166,777   10,780     98,410   2,734,429   
+[END TABLE]
+[BEGIN TABLE]
+(1) Mr. Goei's base salary increased from $500,000 to $750,000 effective June 8, 2018.  Ms. Rosenblum's base salary was reduced from $400,000 to $150,000 in 2018. Differences between 2017 and 2018 salary for the other named executive officers are largely attributed to salary amounts in 2017 reflecting 51 weeks of pay due to harmonization of payroll schedules.  
+(2) Represents the grant date fair value of options, as described in the section titled "Stock Options" in the Compensation Discussion & Analysis, computed in accordance with FASB ASC Topic 718, excluding forfeiture assumptions.  The exercise price of all outstanding option awards, including those held by our named executive officers, was adjusted downward to $17.445 on June 7, 2018 in connection with the Option Adjustment.  For the stock option awards to Messrs. Goei, Stewart, Boubazine and Connolly, the fair value on the date of grant was calculated using the Black-Scholes option pricing model.  The computation of expected life of 6.5 years was determined based on the simplified method (the average of the vesting period and the option term) due to the Company's lack of recent historical data for similar awards.  The interest rate for the period within the contractual life of the stock options of 2.69% for Messrs. Goei, Stewart, Boubazine and 2.82% for Mr. Connolly is based on the interest yield for U.S. Treasury instruments in effect at the time of grant.  The computation of expected volatility of 36.00% for Messrs. Goei, Stewart, Boubazine and 35.59% for Mr. Connolly is based on historical volatility of the Altice USA common stock and the volatility of publicly traded comparable companies in effect at the time of grant. 
+(3) These 2018 amounts reflect the formula-based portion of annual bonus, including the adjusted performance factor, as described in the section titled "Annual Bonus" in the Compensation Discussion & Analysis. 
+(4) For 2018, this column represents, for each individual, a matching contribution and/or Company discretionary contribution made by the Company on behalf of such individual under the Company's 401(k) Plan.  Our named executive officers have access to Company-provided aircraft for personal use.  To the extent our executives use Company-provided aircraft for personal travel, they reimburse the Company for the full cash cost of the Company associated with such travel and the Company has no other incremental costs for this travel.  In addition, the named executive officers are eligible to participate in the Altice USA Employee Product Benefit program, which provides all benefits-eligible employees who reside in the Suddenlink or Optimum footprint with discounted pay television, broadband and telephony services.  The Company purchases tickets for sporting and entertainment events for business use; on the occasion the tickets are unused, they are available for personal use by our employees, including the named executive officers.  There is no incremental cost to the Company for these benefits. 
+(5)  Effective as of the date of this filing, Ms. Rosenblum is no longer an executive officer of the Company but remains Vice Chairman. 
+(6) Amount reported in this column for Ms. Rosenblum for the year ending December 31, 2017 was underreported due to an inadvertent administrative error. The amount in this column should have shown $22,220, which would have resulted in $620,871 being reported in the Total column.  
+[END TABLE]
+GRANTS OF PLAN-BASED AWARDS
+The table below presents information regarding awards granted in 2018 to each named executive officer under the Plan and the 2018 Short Term Incentive Plan in which the named executive officers participated.
+[BEGIN TABLE]
+Name   Grant Date   Estimated possible payouts under non‑equity incentive plan awards(1)   All other equity awards:  Number of shares of stock or Units (#)   Exercise or base price of option awards ($/share)   Grant date fair value of equity and option Awards ($)(2) 
+        Target ($) Maximum ($)             
+Dexter Goei   —   3,000,000   6,000,000     —     —     —   
+    12/19/18   —   —     1,337,400     17.50     9,107,694   
+Charles Stewart   —   500,000   1,000,000     —     —     —   
+    12/19/18   —   —     428,654     17.50     2,919,134   
+Abdelhakim Boubazine   —   500,000   1,000,000     —     —     —   
+    12/19/18   —   —     428,654     17.50     2,919,134   
+David Connolly   —   240,000   480,000     —     —     —   
+    8/29/18   —   —     77,055     17.52     587,159   
+Lisa Rosenblum   —   55,865   111,730     —     —     —   
+(1) These columns show the target and maximum payouts under the 2018 Short Term Incentive Plan based on 2018 metrics and performance criteria described in the section titled "Annual Bonus" in the Compensation Discussion & Analysis.  The 2018 Short Term Incentive Plan does not have a threshold payout.  Payments were made in 2019 for 2018 performance and actual payments are reflected in the Non‑Equity Incentive Plan Compensation column in the Summary Compensation Table. 
+(2) Represents the grant date fair value of options, as described in the section titled "Stock Options" in the Compensation Discussion & Analysis, computed in accordance with FASB ASC Topic 718, excluding forfeiture assumptions.  For the stock option awards for Messrs. Goei, Stewart, Boubazine and Connolly, the fair value on the date of grant was calculated using the Black-Scholes option pricing model.  The computation of expected life of 6.5 years was determined based on the simplified method (the average of the vesting period and the option term) due to  
+[END TABLE]
+ the Company's lack of recent historical data for similar awards.  The interest rate for the period within the contractual life of the stock options of 2.69% for Messrs. Goei, Stewart, Boubazine and 2.82% for Mr. Connolly is based on the interest yield for U.S. Treasury instruments in effect at the time of grant.  The computation of expected volatility of 36.00% for Messrs. Goei, Stewart, Boubazine and 35.59% for Mr. Connolly is based on historical volatility of the Altice USA common stock and the expected volatility of common stock of comparable publicly traded companies at the time of grant. 
+2017 LONG-TERM INCENTIVE PLAN
+In connection with the Company's IPO in 2017, the Company adopted the Plan.  Under the Plan, the Company may grant awards of options, restricted shares, restricted share units, stock appreciation rights, performance stock, performance stock units and other awards.  Under the Plan, awards may be granted to officers, employees and consultants of the Company or any of its affiliates.  The Plan will be administered by the Company's Board, subject to the provision of the Stockholders' Agreement.  The Board has delegated this authority to the Company's Compensation Committee.  The Compensation Committee has the full power and authority to, among other things, select eligible participants, grant awards in accordance with the Plan, determine the number of shares subject to each award or the cash amount payable in connection with an award and determine the terms and conditions of each award.  The maximum aggregate number of shares that was authorized for issuance under the Plan at the time of the IPO was 9,879,291.  The Board has the authority to amend, suspend, or terminate the Plan.  No amendment, suspension or termination will be effective without the approval of the Company's stockholders if such approval is required under applicable laws, rules and regulations.
+On November 2, 2018, the Board approved an amendment to the Plan (the "Amendment"), which was subsequently approved by Next Alt, constituting our stockholders holding a majority of the voting power of our capital stock, by written consent on November 15, 2018.  The written consent approved the adoption of the amendment to the Plan, which increases the maximum aggregate number of shares that may be issued for all purposes under the Plan to 19,879,291 shares.  For more information on the increase to the Plan limit, see the Information Statement filed with the SEC on November 29, 2018.
+CARRY UNIT PLAN
+On July 13, 2016, the Neptune Management Limited Partnership Carry Unit Plan (the "Carry Unit Plan") was created to provide participants, including our named executive officers, with an opportunity to participate in the long‑term growth and financial success of our operations.  Under the Carry Unit Plan, profits interests denominated in units of ownership (the "Units") of Neptune Management Limited Partnership (the "Partnership") were granted to participants. 
+As of December 31, 2018, approximately 110.5 million Units were not yet vested.  No grants were made under the Carry Unit Plan in 2018 to our named executive officers.
+A profits interest gives the participant the right to share in specified future profits and appreciation in value that the participants of the Partnership may receive, including profits paid upon a sale of the investors' interests.
+Economically, a profits interest is similar to a stock option granted on the stock of a corporation insofar as a participant realizes value only if the Partnership from which the profits interest is granted appreciates in value and/or has profits after the grant date.
+Holders of vested Units receive Class A common stock of Altice USA at the discretion of the Partnership.  The amount of Class A common stock received is calculated using the fair market value of Units and based on the then trading price of Class A common stock of Altice USA. 
+In June 2018, pursuant to the terms of the Carry Unit Plan, our named executive officers and other profits interest participants received a tax distribution in connection with the Distribution.  As a result, our named executive officers received the following amounts:  Mr. Goei, $2,108,727, Mr. Stewart, $673,715, Mr. Boubazine, $673,715, Mr. Connolly, $572,657, and Ms. Rosenblum, $808,458.
+OUTSTANDING EQUITY AWARDS AT FISCAL YEAR-END
+The table below presents (i) the number of stock options awarded under the Plan, (ii) the number of Units granted under the Carry Unit Plan that have not yet vested and (iii) the market value of these Units for each named executive officer, in each case as of December 31, 2018. 
+[BEGIN TABLE]
+    Option Awards   Stock Awards 
+Name   Number of securities underlying unexercised options (#) unexercisable(1)   Option exercise price ($)(2)   Option expiration date   Number of shares or units of stock that have not vested (#)(3)   Market value of shares or units of stock that have not vested ($)(8)   Equity incentive plan awards:  number of unearned shares, units or other rights that have not vested (#)(9)   Equity incentive plan awards:  market or payout value of unearned shares, units or other rights that have not vested($)(8) 
+Dexter Goei   1,337,400     17.50     12/19/2028     —     —     —     —   
+    1,201,208     17.45     12/30/2027     2,825,000(4)     68,656,846     10,000,000     24,272,011   
+    —     —     —     10,600,000(5)     10,790,812     —     —   
+Charles Stewart   428,654     17.50     12/19/2028     —     —     —     —   
+    256,668     17.45     12/30/2027     2,500,000(4)     6,068,003     —     —   
+Abdelhakim Boubazine   428,654     17.50     12/19/2028     —     —     —     —   
+    256,668     17.45     12/30/2027     2,500,000(4)     6,068,003     —     —   
+David Connolly   77,055     17.52     8/29/2028     —     —     —     —   
+    —     —     —     2,125,000(6)     5,157,802     —     —   
+Lisa Rosenblum   —     —     —     3,000,000(7)     7,281,603     —     —   
+(1) On August 29, 2018 Mr. Connolly received a stock option award under the Plan that will vest in full on the third anniversary of the date of grant.  On December 19, 2018, Messrs. Goei, Stewart and Boubazine each received a stock option award under the Plan that will vest in full on the third anniversary of the date of grant. 
+(2) On June 4, 2018, the Compensation Committee approved an adjustment to the exercise price of the Class A common stock underlying each Outstanding Option to take into account the effect of the $2.035 special dividend.  Amounts reported herein reflect the adjusted exercise price. 
+(3) The numbers in this column represent the number of Units outstanding, not the number of shares underlying such Units.  These awards were granted under the Carry Unit Plan.  Vesting is generally subject to the named executive officer's continued employment with the Company or any of its affiliates. 
+(4) These Units will vest on December 21, 2019. 
+(5) These Units will vest on January 31, 2020. 
+(6) These Units will vest 50% on each of August 22, 2019 and August 22, 2020. 
+(7) These Units will vest 50% on each of June 21, 2019 and June 21, 2020. 
+(8) The value of each unvested Unit as of December 31, 2018 is based on the potential number of shares into which the Unit may convert upon vesting and the December 31, 2018 Altice USA closing price of $16.52. 
+(9) In 2016, Mr. Goei received 10,000,000 Performance Vesting Units that will vest based on achievement of certain defined 2019 Altice USA financial targets of (x) consolidated net revenue and (y) adjusted EBITDA or Capex adjusted EBITDA.  Mr. Goei's performance based units will be forfeited if performance is not met.  All or a portion of the Performance Vesting Units may vest as determined by the board of directors of Altice Europe in its discretion. 
+[END TABLE]
+OPTION EXERCISES AND STOCK VESTED
+The table below presents information regarding the value of stock awards vested in 2018, for each of the named executive officers.  None of the named executive officers exercised stock options with respect to Altice USA in 2018.
+[BEGIN TABLE]
+  Stock Awards 
+Name Number of shares acquired on vesting (#)   Value realized on vesting ($)(4) 
+Dexter Goei 368,339(1)   5,764,505 
+Charles Stewart 325,963(1)   5,101,321 
+Abdelhakim Boubazine 325,963(1)   5,101,321 
+David Connolly 270,558(2)   4,910,628 
+Lisa Rosenblum 376,286(3)   6,378,048 
+[END TABLE]
+[BEGIN TABLE]
+(1) For Messrs. Goei, Stewart and Boubazine, this amount represents the number of shares of Class A common stock received upon the conversion of Class C Units that vested on December 21, 2018. 
+(2) This amount represents the number of shares of Class A common stock received upon the conversion of Class C Units that vested on August 22, 2018.  
+(3) This amount represents the number of shares of Class A common stock received upon the conversion of Class C Units that vested on June 21, 2018. 
+(4) The "value realized" upon the vesting of these Units is equal to the number of shares received multiplied by the NYSE closing share price of our common stock on the date of vesting. For Messrs. Goei, Stewart and Boubazine, the NYSE closing price on December 21, 2018 was $15.65. For Mr. Connolly, the NYSE closing price on August 22, 2018 was $18.15. For Ms. Rosenblum, the NYSE closing price on June 21, 2018 was $16.95. 
+[END TABLE]
+PENSION BENEFITS
+The table below shows the actuarial present value of accumulated benefits payable under our qualified and nonqualified defined benefit pension plans as of December 31, 2018 for Ms. Rosenblum, who is the sole named executive officer who is eligible to participate in such plans.
+[BEGIN TABLE]
+Name   Plan   Number of Years Credited Service (#)(1)   Present Value of Accumulated Benefit ($)(2) 
+Lisa Rosenblum   Cablevision Cash Balance Pension Plan   21   323,417 
+    Cablevision Excess Cash Balance Plan   21   383,430 
+(1) Years of service are calculated based on elapsed time while a member of the plan.  Actual elapsed time as an employee of Cablevision and Altice USA for Ms. Rosenblum is 23 years. 
+(2) Assumes Ms. Rosenblum will take a lump sum payment of benefits at retirement.  The lump sum payment was determined by crediting the December 31, 2018 account balances with an assumed interest crediting rate of 3.28% until an assumed retirement age of 65.  The present value of accumulated benefits was calculated using a discount rate of 4.20%. 
+[END TABLE]
+CABLEVISION CASH BALANCE PENSION PLAN
+The Cablevision Cash Balance Pension Plan is a tax‑qualified defined benefit plan that was amended, effective December 31, 2013, to freeze participation and benefit accruals for all legacy Cablevision employees except certain employees covered by a collective bargaining agreement.  Effective April 15, 2015, the plan was further amended to freeze participation and benefit accruals for the remaining employees covered by the collective bargaining agreement.  Ms. Rosenblum is the only named executive officer with an accrued benefit under the Cablevision Cash Balance Pension Plan.
+A notional account is maintained for each participant under the plan, which is credited with monthly interest credits based on the average of the annual rate of interest on the 30‑year U.S. Treasury Bonds for the months of September, October and November of the prior year.  Monthly interest credits continue to be made to participant accounts until distribution of the accounts following termination of employment.  All active participants are fully vested in their accounts.  Upon retirement or other termination of employment with the Company, the participant may elect a distribution of the vested portion of the account.  The normal form of benefit payment for an unmarried participant is a single life annuity and the normal form of benefit payment for a married participant is a 50% joint and survivor annuity.  The participant, with spousal consent if applicable, can waive the normal form and elect to receive a single life annuity or a lump sum in an amount equal to the cash balance account.
+CABLEVISION EXCESS CASH BALANCE PLAN
+The Cablevision Excess Cash Balance Plan is a nonqualified deferred compensation plan that is intended to provide eligible participants, including Ms. Rosenblum, with the portion of their benefit that cannot be paid to them under the Cablevision Cash Balance Pension Plan due to Internal Revenue Code limits applicable to tax‑qualified plans.  Effective December 31, 2013, the Excess Cash Balance Plan was amended to freeze participation and future benefit accruals for all employees.  Ms. Rosenblum is the only named executive officer with an accrued benefit under the Cablevision Excess Cash Balance Pension Plan.
+The Company maintains a notional excess cash balance account for each eligible participant and credits each excess cash balance account monthly with interest at the same rate used under the Cablevision Cash Balance Pension Plan.   Monthly interest credits continue to be made to participant accounts until distribution of the accounts following termination of employment.  All active participants are fully vested in their excess cash balance account.  The excess cash balance account, to the extent vested, is paid in a lump sum to the participant as soon as practicable following his or her retirement or other termination of employment with the Company.
+NONQUALIFIED DEFERRED COMPENSATION TABLE
+The table below shows the aggregate earnings and account balance information under nonqualified deferred compensation plans for Ms. Rosenblum, who is the sole named executive officer who is eligible to participate in such plan.
+[BEGIN TABLE]
+Name   Plan   Aggregate Earnings in Last FY ($)   Aggregate Balance at Last FYE ($) 
+Lisa Rosenblum   Cablevision Excess Savings Plan   11,973   592,581 
+[END TABLE]
+The Cablevision Excess Savings Plan is a nonqualified deferred compensation plan that operates in conjunction with the Cablevision 401(k) Savings Plan.  Effective December 31, 2016, the Excess Savings Plan was frozen (i.e., no future employee or Company contributions are permitted under the Plan for 2017 and thereafter).  Participant notional account balances continue to be credited monthly with the rate of return earned by the stable value investment option available under the Altice USA 401(k) Savings Plan.
+Ms. Rosenblum is the only named executive officer with an account balance in the Cablevision Excess Savings Plan.
+A participant is always fully vested in the participant's own contributions and vests in the Company contributions over three years from date of hire (subject to full vesting upon death, disability or retirement after attaining age 65).  Distributions are made in a lump sum as soon as practicable after the participant's termination of employment with the Company.
+PAYMENTS ON TERMINATION OR CHANGE IN CONTROL
+In the event of certain termination events during 2018, eligible employees, including our named executive officers, would have been eligible to receive certain severance benefits under the Altice USA Severance Benefits Policy, which provides for severance benefits when a position is eliminated due to restructuring or reorganization.  Severance amounts are based on two weeks of base salary for every completed year of service with a minimum 52 weeks of base salary for senior vice presidents and above, 26 weeks for vice presidents and directors, and 4 weeks for all other eligible employees.  Employees who were enrolled in the Company's health plans are eligible to receive subsidized COBRA continuation for up to three months.  Bonus‑eligible exempt employees, including the named executive officers, would have been eligible to receive a prorated 2018 annual bonus based on actual 2018 plan performance if a qualifying termination of employment occurred after June 30, 2018.  Severance is subject to noncompete and nonsolicit restrictive covenants.
+The following tables summarize the estimated amounts payable to each named executive officer in the event of a termination from employment without cause or upon a change of control as of December 31, 2018.  In the event of termination for cause, voluntary termination, retirement, death or disability, none of the named executive officers would have been entitled to any severance payments as of December 31, 2018.
+Benefits Payable as a Result of Termination of Employment by the Company without Cause
+[BEGIN TABLE]
+Name   Severance ($)(1)   Benefit Subsidy($)(2)   2018 Bonus ($)(3)   Total ($) 
+Dexter Goei   750,000     3,024     3,000,000     3,753,024   
+Charles Stewart   500,000     3,024     500,000     1,003,024   
+Abdelhakim Boubazine   500,000     3,024     500,000     1,003,024   
+David Connolly   400,000     2,463     240,000     642,463   
+Lisa Rosenblum   150,000     1,600     55,865     207,465   
+(1) Pursuant to Altice USA's Severance Benefits Policy, each named executive officer is entitled to two weeks base salary for each completed year of service, with a minimum severance amount equal to 52 weeks of base salary. 
+(2) The amounts in this column reflect the employer subsidized COBRA for three months continuation based on each named executive officer's current election. 
+(3) The amounts in this column reflect the target amount of the formula-based portion of the 2018 annual bonus. 
+[END TABLE]
+ Benefits Payable upon a Change of Control Transaction
+[BEGIN TABLE]
+Name   Unvested Options ($)(1)   Unvested Units ($)(2) 
+Dexter Goei   —     41,976,750   
+Charles Stewart   —     6,075,000   
+Abdelhakim Boubazine   —     6,075,000   
+David Connolly   —     5,163,750   
+Lisa Rosenblum   —     7,290,000   
+(1) All unvested options for Messrs. Goei, Stewart, Boubazine, and Connolly have strike prices above the market close price ($16.52) on December 31, 2018, resulting in no value as of December 31, 2018.  Pursuant to the terms of the option award agreements, as of December 31, 2018, all unvested options automatically vest and are exercisable upon a Change of Control (as defined in the option award agreement).  These options are subject to noncompete and nonsolicit restrictive covenants. 
+(2) The amounts in this column represent the value of the unvested Units held by each named executive officer as of December 31, 2018, with the value calculated as described in footnote 8 of the "Outstanding Equity Awards at Fiscal Year-End" table.  Pursuant to the terms of the Units as of December 31, 2018, all unvested Units automatically vest upon a Company Sale (as defined in the Unit award agreement). 
+[END TABLE]
+CEO Pay Ratio
+Altice USA's CEO to Median Employee pay ratio for 2018 was calculated pursuant to Item 402(u) of Regulation S-K, comparing total annual compensation for the CEO to that of the Median Employee.  For purposes of calculating the pay ratio, the Median Employee was selected based on an analysis of the median 2018 W-2 income among all full- and part-time U.S. employees, other than the CEO, who were actively employed by Altice USA as of December 31, 2018.  No adjustments were applied to W-2 income for purposes of determining the Median Employee, such as for employees who were employed for only part of the year or on unpaid leave of absence at some point during the year.  Altice USA's employees outside of the U.S. were excluded from this analysis on the basis that they collectively represented less than 5% of our total employee population - as of December 31, 2018, Altice USA had 12,185 active employees globally, with 356 employees located outside of the U.S., primarily in Israel and Canada. We have excluded the 356 employees located outside the US when calculating the CEO Pay Ratio.  Our CEO Pay Ratio is a reasonable estimate calculated in a manner consistent with Item 402(u).  However, due to the flexibility afforded by Item 402(u) in calculating the CEO Pay Ratio, our CEO Pay Ratio may not be comparable to the CEO pay ratios presented by other companies.
+The Median Employee had total annual compensation of $71,333, calculated using the same methodology as applied for the CEO in the Summary Compensation Table.  Full-time Altice USA employees in the U.S., including the Median Employee, are also eligible to participate in Company-sponsored retirement and health and welfare benefits programs, which provide significant additional value but are not included in the measure of total annual compensation used to calculate the pay ratio.
+The ratio of the CEO's total annual compensation to that of the Median Employee was as follows:
+[BEGIN TABLE]
+CEO Total Annual Compensation $12,150,232 
+Median Employee Total Annual Compensation $71,333 
+Ratio of CEO to Median Employee Total Annual Compensation 170 : 1 
+[END TABLE]
+SECURITY AUTHORIZED FOR ISSUANCE UNDER THE PLAN 
+The following table sets forth certain information as of December 31, 2018 with respect to the Plan. 
+[BEGIN TABLE]
+Plan Category   Number of Securities to be Issued Upon Exercise of Outstanding Options (A)(1)  Weighted-Average Exercise Price of Outstanding Options (B)($)  Number of Securities Remaining Available for Future issuance Under Equity Compensation Plans (Excluding Securities Reflected on Column (A))(2)
+Plan Category   Number of Securities to be Issued Upon Exercise of Outstanding Options (A)(1)  Weighted-Average Exercise Price of Outstanding Options (B)($)  Number of Securities Remaining Available for Future issuance Under Equity Compensation Plans (Excluding Securities Reflected on Column (A))(2)
+Plan Category   Number of Securities to be Issued Upon Exercise of Outstanding Options (A)(1)  Weighted-Average Exercise Price of Outstanding Options (B)($)  Number of Securities Remaining Available for Future issuance Under Equity Compensation Plans (Excluding Securities Reflected on Column (A))(2)
+Equity compensation plans approved by stockholders:             
+  2017 Long Term Incentive Plan   11,303,807     17.50     8,575,484   
+Equity compensation plans not approved by stockholders:             
+  None   —     —     —   
+Total:   11,303,807     17.50     8,575,484   
+(1) In 2019, the Compensation Committee granted options to purchase an aggregate of 648,234 shares of Class A common stock. These options are not reflected as outstanding in column A, and the number of shares remaining available for future issuance as reported has not been reduced to reflect these 2019 grants.  
+(2)  The Amendment increased the number of shares authorized for issuance under the Plan 9,879,291 shares to 19,879,291 shares, which increase is reflected in the above table. 
+[END TABLE]
+PROPOSAL 3
+NON-BINDING ADVISORY VOTE ON EXECUTIVE COMPENSATION
+As required by Section 14A of the Exchange Act, we are seeking stockholder approval, on an advisory basis, of the compensation of our named executive officers as disclosed under the "Executive Compensation" section of this proxy statement, including the accompanying tables.  Accordingly, for the reasons discussed in the "Compensation Discussion & Analysis" section of this proxy statement, we are asking our stockholders to vote "FOR" the adoption of the following resolution:
+"RESOLVED, that the stockholders of Altice USA, Inc. ("Altice USA") approve, on an advisory basis, the compensation of Altice USA's named executive officers, as disclosed in Altice USA's Proxy Statement for 2019 Annual Meeting of Stockholders under the heading entitled "Executive Compensation."
+While we intend to carefully consider the voting results of this proposal, the vote is advisory in nature and therefore not binding on us, our Board or the Compensation Committee.  Our Board and Compensation Committee value the opinions of all of our stockholders and will consider the outcome of this vote when making future compensation decisions for our named executive officers.
+The Board unanimously recommends you vote FOR the adoption of the above resolution indicating approval of the compensation of our named executive officers.
+Approval of this proposal requires the favorable vote of a majority of the votes cast by the holders of Class A common stock and holders of Class B common stock, voting together as a single class.  In accordance with our Third Amended and Restated Certificate of Incorporation, in such vote, the holders of Class A common stock will have one vote per share and the holders of Class B common stock will have twenty five votes per share.
+The Board recommends you vote FOR this proposal.
+PROPOSAL 4
+NON-BINDING ADVISORY VOTE ON FREQUENCY OF THE STOCKHOLDER VOTE ON EXECUTIVE COMPENSATION
+As required by Section 14A of the Exchange Act, we are seeking a stockholder vote, on an advisory basis, on the frequency with which we include in our proxy statement an advisory vote on executive compensation.  By voting on this proposal, stockholders may indicate whether they prefer that we seek such an advisory vote every one, two or  three years.  Pursuant to Section 14A of the Exchange Act, we are required to hold at least once every six years an advisory stockholder vote to determine the frequency of the advisory stockholder vote on executive compensation.
+After careful consideration of this proposal, our Board determined that an advisory vote on executive compensation that occurs every three years is the most appropriate alternative for the Company and therefore recommends a vote for a triennial advisory vote.  In reaching its recommendation, our Board considered that a triennial advisory vote would permit our compensation programs to be judged over a period of time.  Our Board believes that a well-structured compensation program should include policies and practices that emphasize the creation of stockholder value over the long-term and that the effectiveness of such plans cannot be adequately evaluated on an annual or biennial basis.
+While we intend to carefully consider the voting results of this proposal, the vote is advisory in nature and therefore not binding on us, our Board or the Compensation Committee.  Our Board and Compensation Committee value the opinions of all of our stockholders and will consider the outcome of this vote when deciding upon the frequency of stockholder votes on executive compensation.
+The Board unanimously recommends that an advisory vote to approve the compensation of our named executive officers be held "EVERY THREE YEARS."
+Approval of this proposal requires the favorable vote of the majority of the votes cast by the holders of Class A common stock and holders of Class B common stock, voting together as a single class.  In accordance with our Third Amended and Restated Certificate of Incorporation, in such vote, the holders of Class A common stock will have one vote per share and the holders of Class B common stock will have twenty five votes per share.
+CERTAIN RELATIONSHIPS AND RELATED PARTY TRANSACTIONS
+Trademark License Agreement
+In connection with the Separation, Altice USA entered into a trademark license agreement pursuant to which Next Alt granted us an exclusive, non-transferable and royalty-free license to use the "ALTICE" trademark and variations thereof and logos, designs and other marks containing the term "ALTICE" and variations thereof in North America and any territories under the jurisdiction of any state or country within North America in connection with Altice USA's business.
+Master Separation Agreement
+In connection with the Separation, on May 18, 2018, Altice USA entered into a Master Separation Agreement with Altice Europe (the "Master Separation Agreement"), which sets forth the agreements between Altice USA and Altice Europe regarding the principal actions to be taken in connection with the Separation and other agreements that govern certain aspects of the relationship between Altice USA and Altice Europe following the Separation.
+Transfer of Assets and Retention of Liabilities
+The Master Separation Agreement identified the assets and liabilities of Altice USA and Altice Europe that Altice USA and Altice Europe will hold following the Distribution.
+Representations and Warranties
+Neither Altice USA nor Altice Europe made any representations or warranties to the other regarding the separation of Altice USA from Altice Europe, including regarding any consents or approvals that were required in connection with the Separation.  Except as expressly set forth in the Master Separation Agreement, all assets were transferred on an "as is", "where is" basis.
+Further Assurances
+Altice USA and Altice Europe agreed to use commercially reasonable efforts to effect any transfers contemplated by the Master Separation Agreement that were not consummated prior to the Distribution as promptly as practicable following the date on which the Distribution became effective.
+Conditions
+The Master Separation Agreement included a number of conditions that were required to be satisfied or waived (to the extent permitted by applicable law) by Altice Europe in its sole and absolute discretion before the Distribution could occur. Exchange of Information
+Altice USA and Altice Europe agreed to provide each other with information reasonably necessary to comply with reporting, disclosure, filing or other requirements of any national securities exchange or governmental authority, for use in judicial, regulatory, administrative and other proceedings and to satisfy audit, accounting, litigation and other similar requests.  Altice USA and Altice Europe also agreed to retain such information until the later of the seventh anniversary of the Distribution and the expiration of the relevant statute of limitations.  Each party also agreed to provide to the other party and its auditors reasonable assistance in connection with the preparation of any disclosure regarding related party transactions so long as each party is controlled by the Drahi Group.
+Termination
+Altice Europe, in the sole and absolute discretion of the Altice Europe board of directors, had the right to terminate the Master Separation Agreement at any time prior to the Distribution.
+Release of Claims
+Altice USA and Altice Europe each agreed to release the other and its respective affiliates and the other's directors, officers, agents and employees, and each of their respective heirs, executors and administrators, from any claims against any of them that arise out of or relate to events, circumstances or actions occurring or failing to occur or any conditions existing at or prior to the time of the Distribution.  These releases are subject to certain exceptions set forth in the Master Separation Agreement.
+Indemnification
+Altice USA and Altice Europe each agreed to indemnify the other and its respective subsidiaries and each of the other's and its subsidiaries' directors, officers, employees and agents, against certain liabilities incurred in connection with the Distribution.  The amount of either Altice Europe's or Altice USA's indemnification obligations will be reduced by any insurance proceeds the party being indemnified receives.  The Master Separation Agreement also specifies procedures regarding claims subject to indemnification.
+Insurance
+The Master Separation Agreement provides for the allocation between Altice USA and Altice Europe of rights and obligations under existing insurance policies with respect to occurrences prior to the Distribution and sets forth procedures for the administration of insured claims and certain other insurance matters.
+Dispute Resolution
+The Master Separation Agreement contains provisions that govern the resolution of disputes, controversies or claims that may arise between Altice USA and Altice Europe related to the Master Separation Agreement and the other ancillary agreements entered into in connection with the Separation.
+Tax Matters
+Altice USA and Altice Europe each agreed to indemnify the other for any liability for taxes of any member of the party's respective group or certain taxes imposed on any member of the party's group that are attributable to a pre-Distribution tax period.  Altice USA and Altice Europe also agreed to cooperate with each other in connection with any tax matters relating to the Altice USA and Altice Europe groups, respectively, including preparation and filing of certain tax returns.
+The foregoing summary of the Master Separation Agreement and the transactions contemplated thereby does not purport to be complete and is subject to, and qualified in its entirety by, the full text of the Master Separation Agreement, filed as Exhibit 10.25 to Altice USA's registration statement on Form S-1/A, filed on May 23, 2018.  The Master Separation Agreement was approved by our Audit Committee pursuant to the Company's Related-Party Transaction Approval Policy.  See "Certain Relationships and Related-Party Transactions-Our Policy Regarding Related-Party Transactions."
+Altice Technical Services
+ATS provides technical operating services to the Company, including field services, such as dispatch, customer installations, disconnects, service changes and other customer service visits, outside plant maintenance services and design and construction services for HFC and FTTH infrastructure.  We acquired 100% of the equity interests in ATS for a de minimis amount in the first quarter of 2018.  ATS was previously owned by Altice Europe and a member of ATS's management through a holding company.  The ATS Acquisition was approved by our Audit Committee pursuant to the Company's Related-Party Transaction Approval Policy.  See "Certain Relationships and Related-Party Transactions-Our Policy Regarding Related-Party Transactions." i24 News i24NEWS consists of three 24-hour global channels in New York, Paris, and Israel. Each channel provides global breaking news and world stories with a focus on the Middle East and Israel. In addition, i24NEWS allows viewers to access programming on i24NEWS.tv, the i24NEWS app available on Apple and Android products; the i24NEWS app on the Altice One Box; and i24NEWS OTT products on Amazon, Apple, and Roku devices. i24NEWS launched in English, French, and Arabic in July 2013.
+In April 2018, Altice Europe transferred its ownership of i24NEWS to the Company for minimal consideration (the "i24 Acquisition"). As the acquisition was a combination of businesses under common control, the Company combined the results of operations and related assets and liabilities of i24NEWS as of April 1, 2018. Operating results for periods prior to April 1, 2018 and the balance sheet as of December 31, 2017 have not been revised to reflect the i24 Acquisition as the impact was deemed immaterial.  The terms of the purchase of i24 Entities were approved by our Audit Committee pursuant to the Company's Related-Party Transaction Approval Policy.  See "Certain Relationships and Related-Party Transactions-Our Policy Regarding Related-Party Transactions." 
+Management Advisory and Consulting Services
+Altice Europe provided consulting, advisory and other services to us in connection with our acquisitions, divestitures, investments, capital raising, financial and business affairs for a quarterly fee.  The Management Advisory and Consulting Services Agreement was terminated in connection with the Distribution.
+Neptune Holding US LP Transfer and Voting Agreement
+On June 8, 2018, CVC 3 B.V. ("CVC 3") transferred its control of the general partner of Neptune Holding US LP ("Holding LP") to us.  CVC 3 maintains substantially the same rights as a limited partner in Holding LP after the Separation as it had prior to the Separation.  In addition, we and Next Alt entered into an agreement pursuant to which Next Alt was granted a proxy to vote the shares of Altice USA common stock held by Holding LP.  The terms of such agreement were approved by our Audit Committee pursuant to the Company's Related-Party Transaction Approval Policy.  See "Certain Relationships and Related-Party Transactions-Our Policy Regarding Related-Party Transactions."
+Stockholders' Agreement 
+Pursuant to the Post-Separation Stockholders' Agreement, so long as the Drahi Group beneficially owns in the aggregate, at least 50% of the voting power of Altice USA's outstanding capital stock, Next Alt shall have the right to designate six directors to the Board, and Altice USA shall cause the Board to consist of a majority of directors nominated by Next Alt.  In the event that the Drahi Group beneficially owns, in the aggregate, less than 50% of the voting power of Altice USA's outstanding capital stock, Next Alt shall have the right to designate a number of directors to the Board equal to the total number of directors comprising the entire Board multiplied by the percentage of the voting power of Altice USA's outstanding common stock beneficially owned, in the aggregate, by the Drahi Group, rounding up in the case of any resulting fractional number, and in the event that the Drahi Group beneficially owns, in the aggregate, less than 50% of the voting power of Altice USA's outstanding capital stock, Next Alt shall not have the right to designate a number of directors to the Board equal to or exceeding 50% of directors comprising the entire Board.  One of Next Alt's designated nominations must be an individual designated by A4, and Next Alt has agreed to vote its shares in favor of electing the individual designated by A4.  If a director designated by Next Alt or by A4 resigns or is removed from the Board, as the case may be, only another director designated by Next Alt or by A4, as the case may be, may fill the vacancy.  After the Drahi Group ceases to beneficially own at least 20% of the voting power of Altice USA's outstanding common stock, Next Alt shall cease to have the right to designate any director nominees for election to the Board.  In the event that Mr. Drahi is not a member of the Board, one representative of the Drahi Group shall have board observer rights so long as the Drahi Group beneficially owns at least 20% of the voting power of Altice USA's outstanding common stock.
+Until the first date on which the Drahi Group ceases to beneficially own at least 20% of the voting power of Altice USA's outstanding common stock, notwithstanding anything to the contrary in Altice USA's Third Amended and Restated Certificate of Incorporation or Altice USA's second amended and restated bylaws, or in the governing documents of any of Altice USA's subsidiaries, without the prior written approval of Next Alt, Altice USA shall not (either directly or indirectly through an affiliate or otherwise or through one or a series of related transactions) take, or permit one of Altice USA's subsidiaries to take, certain actions specified in the Post-Separation Stockholders' Agreement, including, among other things, (a) effecting or consummating a change of control of Altice USA, (b) amending Altice USA's Third Amended and Restated Certificate of Incorporation or Altice USA's Second Amended and Restated Bylaws, (c) electing, hiring, replacing or dismissing Altice USA's Chief Executive Officer, Chief Financial Officer, or Chief Operating Officer, (d) decreasing or increasing the number of directors serving on the Board, (e) paying, declaring or setting aside any sums or other property for the payment of dividends on any Altice USA common stock or make any other distributions  in respect of any Altice USA common stock or any warrants, options, rights or securities convertible into, exchangeable for or exercisable for, Altice USA common stock, and (f) amend, modify or supplement Altice USA's Related-Party Transactions Policy.
+Altice USA's Third Amended and Restated Certificate of Incorporation requires the written approval of Next Alt before Altice USA may take the actions specified in paragraphs (a) and (b) above.
+Amended and Restated Stockholders and Registration Rights Agreement
+Pursuant to the Post-Separation Stockholders and Registration Rights Agreement, Altice N.V. and Next Alt have an unlimited number of "demand" registrations for the registration of the sale of Altice USA common stock in a minimum aggregate amount, which is the lowest of (i) $100,000,000, (ii) one percent (1%) of the value of Shares (as such term is defined in the Post-Separation Stockholders and Registration Rights Agreement) that are publicly traded as of the close of business on the most recent business day or (iii) such lesser amount as agreed by the Sponsors, Next Alt and Altice N.V.  Additionally, the Post-Separation Stockholders and Registration Rights Agreement provides each of BCP and CPPIB with one "demand" registration during each twelve month period beginning on the date of the Post-Separation Stockholders and Registration Rights Agreement, subject to an exception, and customary "piggyback" registration rights to the Stockholders (as such term is defined in the Post-Separation Stockholders and Registration Rights Agreement).  The Post-Separation Stockholders and Registration Rights Agreement also provides that Altice USA shall pay certain expenses relating to such registrations and indemnify, among others, Altice N.V., Next Alt, BCP and CPPIB against certain liabilities which may arise under the Securities Act.  Each Sponsor also has the right to, among other things, designate one non-voting observer to the Board for so long as such Sponsor and certain of its affiliates own at least 4% of the issued and outstanding shares of Class A and Class B common stock (without regard to the voting power of such Class B common stock) and there is no director who is a designee of such Sponsor on the Board.  Subject to certain exceptions, each non-voting observer shall be permitted to attend all meetings of the Board and the committees thereof.
+Right of First Refusal and Concert Group Voting Agreements
+Any proposed sale of shares of Altice USA common stock held by each Concert Group (as defined below) member is subject to a right of first refusal in favor of Next Alt.  The Concert Group consists of the following current and former officers and directors of Altice Europe, Altice USA and other Altice Group companies who entered into voting agreements with Next Alt with respect to all shares of Altice USA common stock they own (including any shares of Altice USA common stock received in the Distribution):  Dexter Goei (through More ATC LLC and Inluam LLC), Dennis Okhuijsen, Jérémie Bonnin (through Hamaja S.à r.l.), Patrice Giami, Jean-Luc Berrebi (through Lynor's S.à r.l.), Nicolas Rotkoff (through Belem Capital S.à r.l.), Charles Stewart and Abdelhakim Boubazine.  Pursuant to the voting agreements, the Concert Group members undertake to vote in favor of any and all items proposed by Next Alt at any annual or special meeting of Altice USA.  Each Concert Group member also has given a proxy to Next Alt to represent it and to vote on its behalf at any meeting of Altice USA stockholders.
+Compensation for Services
+In light of Mr. Drahi's significant and ongoing direct contributions to the development and implementation of the Altice USA, Inc. strategic vision, on December 19, 2018, nonqualified options to purchase 1,337,400 shares of our Class A common stock were granted under the Plan to a personal holding company that is wholly owned and controlled by Mr. Drahi.  The options have a grant date fair value of $9,107,694.  The options have a strike price of $17.50 per share, cliff vest on December 19, 2021 and are generally subject to the provisions of the Company's form of nonqualified stock option award agreement, which was filed with the Commission on January 3, 2018 as Exhibit 99.1 to a Current Report on Form 8-K. In 2018, Mr. Drahi utilized the Company-provided aircraft for business purposes, and on certain occasions, family members accompanied him on those flights. Except for the stock options and transportation, Mr. Drahi does not receive any other annual compensation for his service to the Company.
+Notes Payable to Affiliates and Related Parties
+In June 2016, in connection with Cablevision Acquisition, affiliates of the Sponsors and Altice Europe purchased $875 million aggregate principal amount of Altice USA's 10.75% notes due 2023 and $875 million aggregate principal amount of Altice USA's 11.00% notes due 2024.  Prior to the consummation of our IPO, the notes held by the affiliates of the Sponsors (together with accrued and unpaid interest and applicable premium) were converted into shares of the Company's Class A common stock and the notes held by an affiliate of Altice Europe (together with accrued and unpaid interest and applicable premium) were converted into shares of the Company's Class B common stock. RELATED PARTY TRANSACTION APPROVAL POLICY
+All agreements and transactions between us, on the one hand, and (i) prior to the Distribution, affiliates of Altice Europe and (ii) after the Distribution, affiliates of Next Alt (which includes Altice Europe) on the other hand, are subject to our Related-Party Transaction Approval Policy.  Under this policy, the Audit Committee of the board consisting entirely of directors who have been determined by the board to be independent directors for purposes of the NYSE corporate governance standards reviews and approves or takes such other action as it may deem appropriate with respect to transactions involving the Company and its subsidiaries, on the one hand, and in which any director, officer, greater than 5% stockholder of the Company or any other "related person" as defined in Item 404 of Regulation S-K under the Securities Act ("Item 404") has or will have a direct or indirect material interest.  This approval requirement covers any transaction that meets the related-party disclosure requirements of the SEC as set forth in Item 404.  Under the Related-Party Transaction Approval Policy, the Audit Committee similarly oversees approval of transactions and arrangements between the Company and its subsidiaries, on the one hand, and Altice Europe and its other subsidiaries or Next Alt or its affiliates, as applicable, on the other hand, to the extent involving amounts in excess of the dollar threshold set forth in Item 404 (the "Item 404 Threshold").
+The Related-Party Transaction Approval Policy provides that to simplify the administration of the approval process under the Related-Party Transaction Approval Policy, the Audit Committee may, where it deems it to be appropriate, establish guidelines for certain types of these transactions.  The approval requirement does not apply to the implementation and administration of intercompany arrangements under the Related-Party Transaction Approval Policy, but covers any amendments, modifications, terminations or extensions involving amounts in excess of the Item 404 Threshold, as well as the handling and resolution of any disputes involving amounts in excess of the Item 404 Threshold.  The Company's executive officers and directors who are also senior executives or directors of Altice Europe or Next Alt, as the case may be, may participate in the negotiation, execution, amendment, modification, or termination of intercompany arrangements subject to the Related-Party Transaction Approval Policy, as well as in any resolution of disputes under intercompany arrangements, on behalf of either or both of the Company and Altice Europe or Next Alt, as the case may be, under the direction of the Audit Committee when acting on behalf of the Company.
+The Related-Party Transaction Approval Policy cannot be amended or terminated without the prior approval of a majority of the Audit Committee.
+STOCK OWNERSHIP TABLE
+The following table presents certain information as of March 7, 2019 with respect to the beneficial ownership of Altice USA common stock by:
+[BEGIN TABLE]
+• each of our current directors; 
+• each of our named executive officers; 
+• all of our directors and executive officers as a group; and 
+• each stockholder known by us to be the beneficial owner of more than 5% of our outstanding shares of our Class A common stock and Class B common stock. 
+[END TABLE]
+Beneficial ownership for the purposes of the following table is determined in accordance with the rules and regulations of the SEC.  These rules generally provide that a person is the beneficial owner of securities if such person has or shares the power to vote or direct the voting thereof, or to dispose or direct the disposition thereof or has the right to acquire such powers within 60 days.  Except as disclosed in the footnotes to this table and subject to applicable community property laws, we believe that each stockholder identified in the table possesses sole voting and investment power over all shares of common stock shown as beneficially owned by the stockholder.  Unless otherwise indicated in the table or footnotes below, the address for each beneficial owner is c/o Altice USA, Inc., 1 Court Square West, Long Island City, New York 11101.
+As of March 7, 2019, we have 493,687,533 shares of our Class A common stock and 191,043,669 shares of our Class B common stock outstanding. 
+[BEGIN TABLE]
+    Shares Beneficially Owned% Total 
+    Class A   Class B   Voting 
+Name of Beneficial Owner   Number%(1)   Number%(1)   Power(1) 
+5% Stockholders(2)                     
+Drahi Entities(3)(4)(5)   297,552,122     43.7     186,571,543     97.7     90.6   
+Canada Pension Plan Investment Board(6)   42,268,771     8.6     —     —     *   
+Suddenvision S.à r.l.(7)   44,574,289     9.0     —     —     *   
+The Goldman Sachs Group(8)   38,910,864     7.9     —     —     *   
+The Vanguard Group Inc.(9)   26,251,663     5.3     —     —     *   
+Named Executive Officers and Directors(10)                     
+Dexter Goei(11)(12)   8,948,739     1.8     2,194,592     1.1     1.2   
+Charles Stewart(12)(13)   981,560     *     —         *   
+Abdelhakim Boubazine(12)   2,014,117     *     42,180     *     *   
+Lisa Rosenblum   148,037     *     —     —     *   
+David Connolly   141,558     *     —     —     *   
+Patrick Drahi(3)(4)(5)(14)   305,448,810     44.9     186,572,543     97.7     90.8   
+Gerrit Jan Bakker   42,753     *     —     —     *   
+Manon Brouillette    —     —     —     —     —   
+Dennis Okhuijsen(12)   551,724     *     477,224     *     *   
+David Drahi   —     —     —     —     —   
+Raymond Svider   —     —     —     —     —   
+Mark Mullen   7,000     *     —     —     *   
+All executive officers and directors as a group (13 persons)   305,998,752     45.0     186,572,543     97.7     90.8   
+(1) An asterisk has been provided for any holder with less than 1% of the applicable class of equity or voting power. 
+(2) 5% stockholders have the same applicable voting rights as other holders of Class A common stock and Class B common stock. 
+(3) Next Alt is a personal holding company of Patrick Drahi, who is its controlling shareholder.  As of the date of this table, Next Alt holds 67.53% of the share capital and voting rights of Altice Europe.  Altice Europe maintains a one-tier board of four executive board members, including Mr. Drahi, and four nonexecutive board members.  The executive board members are appointed by shareholders at the general meeting at the binding nomination of Next Alt.  A personal holding company controlled by the family of Mr. Drahi is an executive board member of Altice Europe.  Mr. Drahi holds shares through personal holding companies, including Next Alt. Altice Europe owns a controlling interest in CVC 3 B.V. ("CVC 3").  Includes 9,882,040 shares of Class A common stock held by CVC 3, which Mr. Drahi may be deemed to beneficially own. 
+(4) The principal address for the personal holding companies controlled by Mr. Drahi or his family is 5 rue Eugène Ruppert, L-2453 Luxembourg, Grand Duchy of Luxembourg and the principal address for Altice Europe and CVC 3 is Prins Bernhardplein 200, 1097 JB Amsterdam, The Netherlands. 
+(5) Altice USA and Next Alt have entered into an agreement (the "Holding LP voting agreement") pursuant to which Next Alt is granted proxy to vote Altice USA's common stock held by Neptune Holding US LP ("Holding LP").  Includes 27,628,038 shares of Class A common stock held by Holding LP.  Next Alt has also entered into voting agreements (the "Concert Group voting agreements") with each of Dexter Goei, Patrice Giami, Dennis Okhuijsen, Jérémie Bonnin, Jean-Luc Berrebi, Nicolas Rotkoff, Abdelhakim Boubazine and Charles Stewart (collectively, the "Concert Group") with respect to all shares of Altice USA's common stock they own.  Includes shares of Class A common stock and Class B common stock held by the Concert Group members as follows:  6,754,147 shares of Class A common stock and 2,194,592 shares of Class B common stock held by Mr. Goei, 361,179 shares of Class A common stock held by Mr. Giami, 74,500 shares of Class A common stock and 477,224 shares of Class B common stock held by Mr. Okhuijsen, 138,104 shares of Class A common stock and 884,665 shares of Class B common stock held by Mr. Bonnin, 551,596 shares of Class A common stock and 89,468 shares of Class B common stock held by Mr. Berrebi, 268,173 shares of Class A common stock held by Mr. Rotkoff, 1,971,937 shares of Class A common stock and 42,180 shares of Class B common stock held by Mr. Boubazine, and 981,560 shares of Class A common stock held by Mr. Stewart.  Each share of Class B common stock is convertible at any time upon written notice to Altice USA at the option of the Reporting Person into one share of Class A common stock. 
+(6) Pursuant to Amendment No. 1 to Schedule 13G filed on February 7, 2019, the amount reported consists of shares beneficially owned, as of December 31, 2018, by Canada Pension Plan Investment Board ("CPPIB").  The amount reported does not reflect shares of Class A common stock that were sold by CPPIB on February 28, 2019.  CPPIB is overseen by a board of directors.  None of the directors of the board of directors has sole voting or dispositive power with respect to the shares of Class A common stock beneficially owned by CPPIB.  The address of CPPIB is One Queen Street East, Suite 2500, Toronto, ON, M5C 2W5.   
+(7) Pursuant to the Form 4 filed on March 4, 2019, the amount reported consists of shares beneficially owned, as of February 28, 2019, by Suddenvision S.à r.l. (f/k/a/ BC Partners LLP).  BCEC SuddenVision Holdings LP is the controlling shareholder of Suddenvision S.à r.l. CIE Management IX Limited, which is an entity under common control with BC Partners LLP, is the ultimate general partner of BCEC SuddenVision Holdings LP, and therefore has investment control over the Class A common stock held by Suddenvision S.à.r.l. CIE Management IX Limited may, therefore, be deemed to have shared voting and investment power over Class A common stock beneficially owned by Suddenvision S.à r.l.  Because CIE Management IX Limited is managed by a board of directors, no individuals have ultimate voting or investment control (as  
+[END TABLE]
+ determined by Rule 13d-3 under the Exchange Act) over the shares that may be deemed beneficially owned by CIE Management IX Limited.  The principal address of CIE Management IX Limited is Heritage Hall, Le Marchant Street, St. Peter Port, Guernsey, GY1 4HY, Channel Islands.
+[BEGIN TABLE]
+(8)  Pursuant to Schedule 13G filed on February 13, 2019, the amount reported consists of shares beneficially owned, as of December 31, 2018, by The Goldman Sachs Group, Inc. ("GS Group").  The shares owned by the GS Group as a parent holding company are owned, or may be deemed to be beneficially owned, by Goldman Sachs & Co. LLC, a broker or dealer registered under Section 15 of the Act and an investment adviser registered under Section 203 of the Investment Advisers Act of 1940. The principal address of the GS Group is 200 West Street New York, NY 10282. 
+(9)  Pursuant to Schedule 13G filed on February 11, 2019, the amount reported consists of shares beneficially owned, as of December 31, 2018, by The Vanguard Group ("Vanguard") with shared voting authority over 26,227,785 shares and sole investment authority over 23,878 shares.  The principal address of Vanguard is 100 Vanguard Blvd. Malvern, PA 19355.  
+(10)  The address for these persons is c/o Altice USA, Inc., 1 Court Square West, Long Island City, NY 11101. 
+(11) Mr. Goei holds shares individually and through personal holding companies.  Mr. Goei has pledged 3,602,834 of his shares of Class A common stock to secure a loan with a financial institution.  Amount does not reflect any conversions of Class B common stock into Class A common stock that occurred after March 7, 2019. 
+(12) This individual is party to a Concert Group voting agreement. 
+(13) Mr. Stewart has pledged 450,000 of his shares of Class A common stock to secure a loan with a financial institution. 
+(14) The shares of Class A and Class B common stock reported as beneficially owned by the Drahi Entities are also reported as beneficially owned by Mr. P. Drahi. 
+[END TABLE]
+OTHER MATTERS
+MATTERS TO BE RAISED AT THE 2019 ANNUAL MEETING NOT INCLUDED IN THIS PROXY STATEMENT
+We do not know of any matters to be acted upon at the meeting other than those discussed in this proxy statement.  If any other matter is properly presented, proxy holders will vote on the matter in their discretion.
+STOCKHOLDER PROPOSALS FOR 2020 ANNUAL MEETING
+Stockholders who, in accordance with Rule 14a-8 of the Exchange Act, wish to present proposals at our 2020 annual meeting and wish to have those proposals included in the proxy materials to be distributed by us in connection with our 2020 annual meeting must submit their proposals to Altice USA, Inc., Corporate Secretary, 1 Court Square West, Long Island City, New York 11101 on or before November 22, 2019.  Any such proposal must meet the requirements set forth in the rules and regulations of the SEC, including Rule 14a-8, in order for such proposal to be eligible for inclusion in our 2020 proxy statement.
+In accordance with our Second Amended and Restated Bylaws, in order to be properly brought before the 2020 annual meeting, regardless of inclusion in our proxy statement, notice of a matter a stockholder wishes to present, including any director nominations, must be delivered to Altice USA, Inc., Corporate Secretary, 1 Court Square West, Long Island City, New York 11101, not less than 60 nor more than 90 days prior to the date of the annual meeting.  If, however the date of the meeting is publicly announced or disclosed less than 70 days prior to the date of the meeting, such notice must be given not more than ten days after such date is first so announced or disclosed.  The stockholder must also provide all of the information required by our Second Amended and Restated Bylaws.
+HOUSEHOLDING
+The SEC allows companies and intermediaries (such as brokers) to implement a delivery procedure called "householding."  Householding is the term used to describe the practice of delivering a single set of notices, proxy statements and annual reports to any household at which two or more stockholders reside.  This procedure reduces the volume of duplicate information stockholders receive and also reduces a company's printing and mailing costs.  Householding will continue until you are notified otherwise or you submit contrary instructions.
+The Company will promptly deliver an additional copy of any such document to any stockholder who writes the Company.  Alternatively, if you share an address with another stockholder and have received multiple copies of our notice, proxy statement and annual report, you may contact us to request delivery of a single copy of these materials.  Any such written request should be directed to Altice USA, Inc., Corporate Secretary, 1 Court Square West, Long Island City, New York 11101 or call 1-516-803-2300. ANNUAL REPORT ON FORM 10-K
+We will furnish (upon payment of a reasonable charge for any exhibit requested) a copy of our annual report on form 10-K, as amended, for the year ended December 31, 2018, as filed with the SEC, to any stockholder who requests one in writing.  Any such request should be directed to Altice USA, Inc., Investor Relations, 1 Court Square West, Long Island City, New York 11101.
+David Connolly
+Executive Vice President,
+General Counsel and Secretary
+Long Island City, New York
+March 21, 2019  

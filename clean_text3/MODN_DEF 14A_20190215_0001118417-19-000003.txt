@@ -1,0 +1,804 @@
+
+UNITED STATES
+SECURITIES AND EXCHANGE COMMISSION
+Washington, D.C. 20549
+SCHEDULE 14A INFORMATION
+Proxy Statement Pursuant to Section 14(a) of the
+Securities Exchange Act of 1934
+(Amendment No.    )
+[BEGIN TABLE]
+Filed by the Registrant x Filed by a Party other than the Registrant o   
+[END TABLE]
+Check the appropriate box:
+[BEGIN TABLE]
+o Preliminary Proxy Statement o Confidential, for Use of the Commission Only (as permitted by Rule 14a-6(e)(2)) 
+x Definitive Proxy Statement o Definitive Additional Materials o Soliciting Material under § 240.14a-12 
+[END TABLE]
+Model N, Inc.
+(Name of Registrant as Specified In Its Charter)
+(Name of Person(s) Filing Proxy Statement if other than the Registrant)
+Payment of Filing Fee (Check the appropriate box):
+[BEGIN TABLE]
+x No fee required. 
+o Fee computed on table below per Exchange Act Rules 14a-6(i)(1) and 0-11. 
+(1) Title of each class of securities to which transaction applies: 
+[END TABLE]
+[BEGIN TABLE]
+(2) Aggregate number of securities to which transaction applies: 
+[END TABLE]
+[BEGIN TABLE]
+(3) Per unit price or other underlying value of transaction computed pursuant to Exchange Act Rule 0-11 (Set forth the amount on which the filing fee is calculated and state how it was determined): 
+[END TABLE]
+[BEGIN TABLE]
+(4) Proposed maximum aggregate value of transaction: 
+[END TABLE]
+[BEGIN TABLE]
+(5) Total fee paid: 
+[END TABLE]
+[BEGIN TABLE]
+o Fee paid previously with preliminary materials. 
+o Check box if any part of the fee is offset as provided by Exchange Act Rule 0-11(a)(2) and identify the filing for which the offsetting fee was paid previously. Identify the previous filing by registration statement number, or the Form or Schedule and the date of its filing. 
+(1) Amount Previously Paid: 
+[END TABLE]
+[BEGIN TABLE]
+(2) Form, Schedule or Registration Statement No.: 
+[END TABLE]
+[BEGIN TABLE]
+(3) Filing Party: 
+[END TABLE]
+[BEGIN TABLE]
+(4) Date Filed: 
+[END TABLE]
+MODEL N, INC.
+777 MARINERS ISLAND BOULEVARD, SUITE 300
+SAN MATEO, CALIFORNIA 94404
+NOTICE OF ANNUAL MEETING OF STOCKHOLDERS
+To Be Held at 11:30 a.m. Pacific Time on Friday, February 15, 2019
+TO THE HOLDERS OF COMMON STOCK OF MODEL N, INC.:
+The Annual Meeting of Stockholders of Model N, Inc., a Delaware corporation ("Model N"), will be held on Friday, February 15, 2019 at 11:30 a.m. Pacific Time at Model N, Inc., located at 777 Mariners Island Boulevard, Suite 300, San Mateo, California, for the following purposes:
+[BEGIN TABLE]
+1. To elect two Class III directors to serve until the 2022 Annual Meeting of Stockholders and until their successors are elected and qualified, subject to earlier resignation or removal; 
+2. To ratify the appointment of PricewaterhouseCoopers LLP as our independent registered public accounting firm for the fiscal year ending September 30, 2019;  
+3. To hold a non-binding advisory vote on the compensation of our named executive officers as disclosed in this proxy statement; 
+4.  To hold a non-binding advisory vote on whether future non-binding advisory votes to approve the compensation of our named executive officers should be held every one, two or three years; and 
+5. To transact such other business as may properly come before the meeting or any adjournments or postponements thereof. 
+[END TABLE]
+The Board of Directors of Model N has fixed the close of business on December 18, 2018 as the record date for the meeting. Only stockholders of record of our common stock at the close of business on December 18, 2018 are entitled to notice of and to vote at the meeting. Further information regarding voting rights and the matters to be voted upon is presented in our proxy statement.
+A Notice Regarding the Availability of Proxy Materials ("Notice") is being mailed to stockholders of record as of the record date beginning on or about January 3, 2019. The Notice contains instructions on how to access our proxy statement for our 2019 Annual Meeting of Stockholders and our Annual Report on Form 10-K for our fiscal year ended September 30, 2018 (together, the proxy materials). The Notice also provides instructions on how to vote online and how to receive a paper or email copy of proxy materials by mail. The proxy materials can be accessed directly at the following Internet address: 
+http://investor.modeln.com/annual-meeting/Index?KeyGenPage=1073749823.
+If you have any questions regarding this information or the proxy materials, please visit our website at www.modeln.com or contact our investor relations department at 650-610-4998.
+YOUR VOTE IS IMPORTANT. Whether or not you plan to attend the Annual Meeting of Stockholders, we urge you to submit your vote via the Internet, telephone or mail.
+We appreciate your continued support of Model N and look forward to receiving your proxy.
+By order of the Board of Directors,
+Jason Blessing
+Chief Executive Officer
+San Mateo, California
+January 3,  
+TABLE OF CONTENTS
+[BEGIN TABLE]
+QUESTIONS AND ANSWERS 1 
+PROPOSAL NO. 1—ELECTION OF DIRECTORS 5 
+PROPOSAL NO. 2—RATIFICATION OF APPOINTMENT OF INDEPENDENT REGISTERED PUBLIC ACCOUNTING FIRM 7 
+PROPOSAL NO. 3—NON-BINDING ADVISORY VOTE ON THE COMPENSATION OF OUR NAMED EXECUTIVE OFFICERS 8 
+PROPOSAL NO. 4—NON-BINDING ADVISORY VOTE FREQUENCY OF VOTES ON THE COMPENSATION OF OUR NAMED EXECUTIVE OFFICERS 9 
+DIRECTORS AND CORPORATE GOVERNANCE 10 
+Director Independence 10 
+Leadership Structure 10 
+Risk Oversight 10 
+Executive Sessions of Independent Directors 10 
+Codes of Conduct 10 
+Meetings of the Board of Directors 10 
+Committees of the Board of Directors 11 
+Compensation Committee Interlocks and Insider Participation 11 
+Considerations in Evaluating Director Nominees 12 
+Stockholder Recommendations for Nominations to the Board of Directors 13 
+Non-Employee Director Compensation 14 
+Communications with the Board of Directors 14 
+REPORT OF THE AUDIT COMMITTEE 15 
+RELATED PERSON TRANSACTIONS 16 
+EXECUTIVE OFFICERS 17 
+EXECUTIVE COMPENSATION 18 
+Compensation Discussion and Analysis 18 
+Executive Summary 20 
+Management Transition 18 
+Pay Program Overview 19 
+2018 Target Pay Mix 19 
+Compensation Risk Management 20 
+Executive Compensation Philosophy and Objectives 20 
+Compensation Determination Process 21 
+Elements of our Executive Compensation Program 22 
+Additional Policies and Practices 25 
+EMPLOYMENT ARRANGEMENTS 27 
+SUMMARY COMPENSATION TABLE 29 
+Grants of Plan-Based Awards During Fiscal Year 2018 30 
+Outstanding Equity Awards at 2018 Fiscal Year-End Table 31 
+Stock Vested During Fiscal Year 2018 32 
+COMPENSATION COMMITTEE REPORT 33 
+EQUITY COMPENSATION PLAN INFORMATION 34 
+SECURITY OWNERSHIP OF CERTAIN BENEFICIAL OWNERS AND MANAGEMENT 35 
+SECTION 16(a) BENEFICIAL OWNERSHIP REPORTING COMPLIANCE 37 
+ADDITIONAL INFORMATION 38 
+Stockholder Proposals for 2020 Annual Meeting 38 
+Solicitation of Proxies 38 
+Fiscal Year 2018 Annual Report on Form 10-K 38 
+OTHER MATTERS 38 
+[END TABLE]
+SPECIAL NOTE REGARDING FORWARD-LOOKING STATEMENTS
+This proxy statement contains forward-looking statements. All statements contained in this report other than statements of historical fact, including statements regarding our business strategy and plans and our objectives for future operations, are forward-looking statements. The words "believe," "may," "will," "continue," "anticipate," "intend," "expect," "seek", and similar expressions are intended to identify forward-looking statements. We have based these forward-looking statements largely on our current expectations and projections about future events and trends. These forward-looking statements are subject to a number of risks, uncertainties and assumptions, including those described in the "Risk Factors" section of our Annual Report on Form 10-K for the fiscal year ended September 30, 2018. Moreover, we operate in a very competitive and rapidly changing environment. New risks emerge from time to time. It is not possible for our management to predict all risks, nor can we assess the impact of all factors on our business or the extent to which any factor, or combination of factors, may cause actual results to differ materially from those contained in any forward-looking statements we may make. In light of these risks, uncertainties and assumptions, the future events and trends discussed in this proxy statement may not occur and actual results could differ materially and adversely from those anticipated or implied in the forward-looking statements. You should not rely upon forward-looking statements as predictions of future events. The events and circumstances reflected in the forward-looking statements may not be achieved or occur. Although we believe that the expectations reflected in the forward-looking statements are reasonable, we cannot guarantee future results. We are under no duty to update any of these forward-looking statements after the date of this proxy statement.
+As used in this proxy statement, the terms "Model N," "we," "us," and "our" mean Model N, Inc. and its subsidiaries unless the context indicates otherwise.
+MODEL N, INC.
+777 Mariners Island Boulevard, Suite 300
+San Mateo, California 94404
+PROXY STATEMENT
+FOR 2019 ANNUAL MEETING OF STOCKHOLDERS
+to be held on Friday, February 15, 2019 at 11:30 a.m. PT
+This proxy statement and the enclosed form of proxy are furnished in connection with solicitation of proxies by our Board of Directors for use at the annual meeting of stockholders (the "Annual Meeting") to be held at 11:30 a.m. PT on Friday, February 15, 2019, and any postponements or adjournments thereof. The Annual Meeting will be held at Model N, Inc., located at 777 Mariners Island Boulevard, Suite 300, San Mateo, California. Beginning on or about January 3, 2019, we mailed to our stockholders a Notice Regarding the Availability of Proxy Materials ("Notice") containing instructions on how to access our proxy materials.
+QUESTIONS AND ANSWERS
+The information provided in the "question and answer" format below is for your convenience only and is merely a summary of the information contained in this proxy statement. You should read this entire proxy statement carefully.
+What matters am I voting on?
+You will be voting on:
+[BEGIN TABLE]
+• the election of two Class III directors to hold office until the 2022 Annual Meeting of Stockholders and until their successors are elected and qualified, subject to earlier resignation or removal; 
+• a proposal to ratify the appointment of PricewaterhouseCoopers LLP as our independent registered public accounting firm for the fiscal year ending September 30, 2019; 
+• a proposal to hold a non-binding advisory vote on the compensation of our named executive officers as disclosed in this proxy statement; 
+• a proposal to hold a non-binding advisory vote on whether future non-binding advisory votes to approve the compensation of our named executive officers should be held every one, two or three years; and 
+• any other business that may properly come before the meeting. 
+[END TABLE]
+How does the Board of Directors recommend I vote on these proposals?
+The Board of Directors recommends a vote:
+[BEGIN TABLE]
+• FOR the re-election of Jason Blessing and Dave Yarnold, our nominees for Class III directors; 
+• FOR the appointment of PricewaterhouseCoopers LLP as our independent registered public accounting firm for the fiscal year ending September 30, 2019; 
+• FOR the non-binding advisory vote on the compensation of our named executive officers as disclosed in this proxy statement; and 
+• To select the one-year frequency of future non-binding advisory votes to approve the compensation of our named executive officers. 
+[END TABLE]
+Who is entitled to vote?
+Holders of our common stock as of the close of business on December 18, 2018, the record date, may vote at the Annual Meeting. As of the record date, we had 31,530,792 shares of common stock outstanding. In deciding all matters at the Annual Meeting, each holder of common stock of Model N will be entitled to one vote for each share of common stock held as of the close of business on the record date. We do not have cumulative voting rights for the election of directors.
+Registered Stockholders. If your shares are registered directly in your name with our transfer agent, you are considered the stockholder of record with respect to those shares, and the Notice was provided to you directly by us. As the stockholder of record, you have the right to grant your voting proxy directly to the individuals listed on the proxy card or to vote in person at the Annual Meeting. Street Name Stockholders. If your shares are held in a stock brokerage account or by a bank or other nominee, you are considered the beneficial owner of shares held in street name and the Notice was forwarded to you by your broker or nominee who is considered the stockholder of record with respect to those shares. As the beneficial owner, you have the right to direct your broker or nominee how to vote your shares. Beneficial owners are also invited to attend the Annual Meeting. However, since beneficial owners are not stockholders of record, you may not vote your shares in person at the Annual Meeting unless you follow your broker's procedures for obtaining a legal proxy. If you request a printed copy of the proxy materials by mail, your broker or nominee will provide a voting instruction card for you to use.
+How do I vote?
+There are four ways for stockholders of record to vote:
+[BEGIN TABLE]
+• by Internet at http://www.voteproxy.com, 24 hours a day, seven days a week, until 11:59 p.m. Eastern Time on February 14, 2019 (have your Notice or proxy card in hand when you visit the website); 
+[END TABLE]
+We encourage you to vote this way as it is the most cost-effective method.
+[BEGIN TABLE]
+• by toll-free telephone at 800-776-9437 (or 718-921-8500 for international callers) until 11:59 p.m. Eastern Time on February 14, 2019 (have your Notice or proxy card in hand when you call); 
+• by completing and mailing your proxy card so that it is received prior to the Annual Meeting; or 
+• by written ballot at the Annual Meeting. 
+[END TABLE]
+Street name holders may submit their voting instructions by internet or telephone using the information provided by their respective brokers or nominees and may complete and mail voting instruction forms to their respective brokers or nominees. However, street name holders may not vote by written ballot at the Annual Meeting unless they obtain a legal proxy from their respective brokers or nominees.
+Can I change my vote?
+Yes. If you are a stockholder of record, you can change your vote or revoke your proxy any time before the Annual Meeting by:
+[BEGIN TABLE]
+• entering a new vote by Internet or by telephone (until 11:59 p.m. Eastern Time on February 14, 2019); 
+• returning a later-dated proxy card so that it is received prior to the Annual Meeting; 
+• notifying the Corporate Secretary of Model N, in writing, at the address listed on the front page; or 
+• completing a written ballot at the Annual Meeting. 
+[END TABLE]
+Street name holders may change their voting instructions by submitting new instructions by internet or by telephone or returning a later-dated voting instruction form to their respective brokers or nominees. In addition, street name holders who obtain a legal proxy from their respective brokers or nominees may change their votes by completing a ballot at the Annual Meeting.
+What is the effect of giving a proxy? Proxies are solicited by and on behalf of our Board of Directors. The persons named in the proxy card have been designated as proxies by our Board of Directors. When proxy votes are properly dated, executed and returned, the shares represented by such proxies will be voted at the Annual Meeting in accordance with the instructions of the stockholder. If no specific instructions are given, however, the shares will be voted in accordance with the recommendations of our Board of Directors as described above. If any matters not described in the Proxy Statement are properly presented at the Annual Meeting, the proxy holders will use their own judgment to determine how to vote your shares. If the Annual Meeting is adjourned, the proxy holders can vote your shares at the adjourned meeting date as well, unless you have properly revoked your proxy instructions, as described above.
+What is a quorum?
+A quorum is the minimum number of shares required to be present at the Annual Meeting for the meeting to be properly held under our Bylaws and Delaware state law. The presence, in person or by proxy, of a majority of the voting power of the shares of stock entitled to vote at the meeting will constitute a quorum at the meeting. 
+What is the effect of broker non-votes and abstentions?
+A proxy submitted by a stockholder may indicate that the shares represented by the proxy are not being voted (stockholder withholding) with respect to a particular matter. In addition, a broker may not be permitted to vote on shares held in street name on a particular matter in the absence of instructions from the beneficial owner of the stock (broker non-vote). The shares subject to a proxy which are not being voted on a particular matter because of either stockholder withholding or broker non-votes will count for purposes of determining the presence of a quorum, but are not treated as votes cast and, therefore, will have no effect on the election of directors, the ratification of the appointment of PricewaterhouseCoopers LLP, the non-binding advisory vote on the compensation of our named executive officers as disclosed in this proxy statement or the non-binding advisory vote on the frequency of future non-binding advisory votes to approve the compensation of our named executive officers. Abstentions are voted neither "for" nor "against" a matter, and, therefore, will have no effect on these proposals, but are counted in the determination of a quorum. How many votes are needed for approval of each matter?
+[BEGIN TABLE]
+• Proposal No. 1: The election of directors requires a plurality vote of the shares of common stock voted at the meeting. "Plurality" means that the nominees who receive the largest number of votes cast "FOR" are elected as directors. As a result, any shares not voted "FOR" a particular nominee (whether as a result of stockholder withholding or a broker non-vote) will not be counted in such nominee's favor. 
+• Proposal No. 2: The ratification of the appointment of PricewaterhouseCoopers LLP must receive the affirmative vote of a majority of the votes cast by the holders of shares represented in person or by proxy at the meeting and entitled to vote thereon to be approved. 
+• Proposal No. 3: The non-binding advisory vote on the compensation of our named executive officers as disclosed in this proxy statement must receive the affirmative vote of a majority of the votes cast by the holders of shares represented in person or by proxy at the meeting and entitled to vote thereon to be approved. 
+• Proposal No. 4: The selected frequency of future non-binding advisory votes to approve the compensation of our named executive officers requires a plurality of the vote of shares of common stock voted at the meeting. "Plurality" means that the frequency that receives the largest number of votes cast "FOR" will be the approved frequency. 
+[END TABLE]
+How are proxies solicited for the Annual Meeting?
+The Board of Directors is soliciting proxies for use at the Annual Meeting. All expenses associated with this solicitation will be borne by Model N. We will reimburse brokers or other nominees for reasonable expenses that they incur in sending these proxy materials to you if a broker or other nominee holds your shares.
+How may my brokerage firm or other intermediary vote my shares if I fail to provide timely directions?
+Brokerage firms and other intermediaries holding shares of common stock in street name for customers are generally required to vote such shares in the manner directed by their customers. In the absence of timely directions, your broker will have discretion to vote your shares on our sole routine matter—the proposal to ratify the appointment of PricewaterhouseCoopers LLP. Your broker will not have discretion to vote on the election of directors, the non-binding advisory vote on the compensation of our named executive officers or the frequency of future non-binding advisory votes on the compensation of our named executive officers, which are "non-routine" matters, absent direction from you.
+Why did I receive a notice regarding the availability of proxy materials on the Internet instead of a full set of proxy materials?
+In accordance with the rules of the Securities and Exchange Commission ("SEC"), we have elected to furnish our proxy materials, including this proxy statement and our Annual Report on Form 10-K, primarily via the Internet. Beginning on or about January 3, 2019, we mailed to our stockholders a "Notice Regarding the Availability of Proxy Materials" that contains notice of the Annual Meeting and instructions on how to access our proxy materials on the Internet, how to vote at the meeting and how to request printed copies of the proxy materials and annual report. Stockholders may request to receive all future proxy materials in printed form by mail or electronically by e-mail by following the instructions contained in the Notice. We encourage stockholders to take advantage of the availability of the proxy materials on the Internet to help reduce the environmental impact of our annual meetings.
+What does it mean if multiple members of my household are stockholders but we only received one Notice or full set of proxy materials in the mail?
+The SEC has adopted rules that permit companies and intermediaries, such as brokers, to satisfy the delivery requirements for notices and proxy materials with respect to two or more stockholders sharing the same address by delivering a single notice or set of proxy materials addressed to those stockholders. In accordance with a prior notice sent to certain brokers, banks, dealers or other agents, we are sending only one Notice or full set of proxy materials to those addresses with multiple stockholders unless we received contrary instructions from any stockholder at that address. This practice, known as "householding," allows us to satisfy the requirements for delivering Notices or proxy materials with respect to two or more stockholders sharing the same address by delivering a single copy of these documents. Householding helps to reduce our printing and postage costs, reduces the amount of mail you receive and helps to preserve the environment. If you currently receive multiple copies of the Notice or proxy materials at your address and would like to request "householding" of your communications, please contact your broker. Once you have elected "householding" of your communications, "householding" will continue until you are notified otherwise or until you revoke your consent. You may revoke your consent at any time by contacting the Corporate Secretary of Model N, in writing, at the address listed on the front page, or by telephone at (650) 610-4600.
+Is my vote confidential?
+Proxy instructions, ballots, and voting tabulations that identify individual stockholders are handled in a manner that protects your voting privacy. Your vote will not be disclosed either within Model N or to third parties, except as necessary to meet applicable legal requirements, to allow for the tabulation of votes and certification of the vote, or to facilitate a successful proxy solicitation. Where can I find Model N's Corporate Governance Guidelines and other governance documents?
+Model N has adopted Corporate Governance Guidelines. A copy of the Corporate Governance Guidelines, as well as copies of the Code of Business Conduct for Directors, Code of Business Conduct for Employees, Audit Committee Charter, Compensation Committee Charter and Nominating and Corporate Governance Committee Charter, can be accessed through the Investors section of our website, under Company—Investors—Governance Documents, or by clicking on the following link:
+http://investor.modeln.com/govdocs. PROPOSAL NO. 1
+ELECTION OF DIRECTORS
+Our Board of Directors may establish the authorized number of directors from time to time by resolution. Our Board of Directors currently consists of seven members. Director Charles Robel is not standing for re-election at the annual meeting, and therefore, effective as of the end of Mr. Robel's term at the annual meeting, our Board of Directors will consist of six members. Our Certificate of Incorporation and Bylaws provide for a classified Board of Directors consisting of three classes of directors, with directors serving staggered three-year terms.
+Directors in a particular class will be elected for three-year terms at the annual meeting of stockholders in the year in which their terms expire. As a result, only one class of directors will be elected at each annual meeting of our stockholders, with the other classes continuing for the remainder of their respective three-year terms. Each director's term continues until the election and qualification of his or her successor, or his or her earlier death, resignation or removal. The class of each director is set forth in the table below.
+The directors who are serving for terms that end following the meeting, and their ages, occupations and length of board service as of December 18, 2018, are provided in the table below. Additional biographical descriptions of each nominee and director are set forth in the text below the table. These descriptions include the primary individual experience, qualifications, qualities and skills of our nominees and directors that led to the conclusion that each person should serve as a member of our Board of Directors.
+[BEGIN TABLE]
+Nominees   Class   Age   Position   Year Elected Director  Current Term Expires  Expiration of Term For Which Nominated
+Nominees   Class   Age   Position   Year Elected Director  Current Term Expires  Expiration of Term For Which Nominated
+Jason Blessing   III   47   Chief Executive Officer and Director   2018   2019   2022 
+Dave Yarnold   III   58   Director   2018   2019   2022 
+Continuing Directors                         
+Tim Adams   I   59   Director   2016   2020   — 
+Baljit Dail   II   51   Director   2017   2021   — 
+Melissa Fisher   II   46   Director   2016   2021   — 
+Alan Henricks   II   68   Director   2015   2021   — 
+[END TABLE]
+ companies. Mr. Adams began his career in public accounting at PricewaterhouseCoopers LLP, formerly Price Waterhouse, and is a Certified Public Accountant. Mr. Adams has served as a member of the board of directors of ABILITY Network, a private healthcare technology company, from November 2014 to March 2018. Mr. Adams obtained a B.S. from Murray State University and an MBA from Boston University. Our board of directors determined that Mr. Adams should serve as a director based on his significant experience working with technology companies and his significant financial experience.
+Baljit Dail has served as a member of our board of directors since May 2017.  Since January 2009, Mr. Dail has served as an independent director at the Midcontinent Independent System Operator. Since March 2018, Mr. Dail has served on the boards of Sparta Systems and One Digital. In addition, Mr. Dail joined the Beeline board of directors in August 2018. From May 2013 to January 2017, Mr. Dail served as the Chairman of JDA Software where he was also Chief Executive Officer from April 2014 to January 2017.  From April 2012 to December 2014, Mr. Dail served as a managing director of New Mountain Capital.  From April 2012 to December 2014, Mr. Dail served as a member of the board of directors and chair of the compensation committee of Western Dental.  From May 2012 to April 2014, Mr. Dail served as a member of the board of directors at AmWINS Group.  From November 2005 to March 2012, Mr. Dail served in several leadership roles at Aon Consulting, including Chief Executive Officer Aon Consulting and Aon Hewitt, Chief Information Officer or Aon Corporation and Chief Operating Officer of Aon Benfeild.  Mr. Dail holds a B.Sc. in Computer Science from the University of Warwick in England. Our board of directors determined that Mr. Dail should serve as a director based on his extensive experience as a chief executive officer and his understanding of the software industry.
+Melissa Fisher has served as a member of our board of directors since August 2016 and previously served on the board of directors for Image Sensing Systems, Inc., as chair of the audit committee, as well as Digital Generation, Inc. Since April 2016, Ms. Fisher has served as Chief Financial Officer at Qualys, Inc., a provider of cloud-based security and compliance solutions. From April 2015 to April 2016, Ms. Fisher served as Head of Financial Planning and Analysis, Treasury and Investor Relations at Zynga Inc., a developer of online and mobile social games. From July 2013 to March 2015, Ms. Fisher served as Head of Corporate Development, Treasury and Investor Relations at Digital River, Inc., a cloud-based ecommerce and payments company. Prior to joining Digital River, Ms. Fisher spent 15 years as an investment banker advising companies in the technology sector. Ms. Fisher holds an MBA from Harvard Business School and A.B. degree in government from Harvard University. Our board of directors determined that Ms. Fisher should serve as a director based on her significant experience working with technology companies and her significant financial experience.
+Alan Henricks has served as a member of our board of directors since May 2015. Since May 2009, Mr. Henricks has been a board member, advisor and consultant to a variety of private technology companies. He consulted as Chief Financial Officer for Livescribe Inc., Santur Corporation and AcademixDirect, Inc. From September 2006 to May 2009, Mr. Henricks served as Chief Financial Officer of Pure Digital Technologies, Inc. Prior to September 2006, Mr. Henricks served as Chief Financial Officer of several private and public companies including Traiana Inc., Informix Software, Inc., Documentum, Inc., Borland International, Inc., Cornish & Carey and Maxim Integrated Products, Inc. Since March 2014, Mr. Henricks has also served as a member of the board of directors of A10 Networks, Inc., and since May 2012 he has served as a member of the board of directors and audit committee chairman of Roku, Inc., a consumer electronics company. From April 2010 to June 2015 he served as a member of the board of directors of Ellie Mae, Inc., a provider of software solutions to the mortgage industry. Mr. Henricks holds a B.S. degree in Engineering from the Massachusetts Institute of Technology and an MBA from Stanford University. Our board of directors determined that Mr. Henricks should serve as a director based on his extensive experience serving as a chief financial officer of both public and private companies.
+THE BOARD OF DIRECTORS RECOMMENDS A VOTE "FOR"
+EACH OF THE NOMINEES NAMED ABOVE. PROPOSAL NO. 2
+RATIFICATION OF APPOINTMENT OF
+INDEPENDENT REGISTERED PUBLIC ACCOUNTING FIRM
+The audit committee of the Board of Directors (Audit Committee) has appointed the firm of PricewaterhouseCoopers LLP, independent registered public accountants, to audit our financial statements for the fiscal year ending September 30, 2019. During our fiscal year ended September 30, 2018, PricewaterhouseCoopers LLP served as our independent registered public accounting firm.
+Notwithstanding its selection and even if our stockholders ratify the selection, our Audit Committee, in its discretion, may appoint another independent registered public accounting firm at any time during the year if the Audit Committee believes that such a change would be in our best interests and the interests of our stockholders. At the Annual Meeting, the stockholders are being asked to ratify the appointment of PricewaterhouseCoopers LLP as our independent registered public accounting firm for the fiscal year ending September 30, 2019. Our Audit Committee is submitting the selection of PricewaterhouseCoopers LLP to our stockholders because we value our stockholders' views on our independent registered public accounting firm and as a matter of good corporate governance. Representatives of PricewaterhouseCoopers LLP will be present at the Annual Meeting and they will have an opportunity to make statements and will be available to respond to appropriate questions from stockholders.
+If this proposal does not receive the affirmative approval of a majority of the votes cast on the proposal, the Audit Committee would reconsider the appointment.
+Fees Paid to the Independent Registered Public Accounting Firm
+The following table presents fees billed or to be billed by PricewaterhouseCoopers LLP for professional services rendered with respect to the fiscal years ended September 30, 2018 and September 30, 2017. All of these services rendered since the formation of the Audit Committee were approved by the Audit Committee.
+[BEGIN TABLE]
+  2018   2017 
+Audit Fees(1) $ 1,840,000     $ 1,146,000   
+Audit-Related Fees(2) —     117,285   
+Tax Fees —     —   
+All Other Fees(3) 2,739     1,800   
+Total $ 1,842,739     $ 1,265,085   
+[END TABLE]
+___________________________
+[BEGIN TABLE]
+(1) Audit fees consist of fees for professional services provided in connection with the audit of our annual consolidated financial statements,  the audit of our internal control over financial reporting (for the fiscal year ended September 30, 2018 only), the review of our quarterly consolidated financial statements, and audit services that are normally provided by our independent registered public accounting firm in connection with statutory and regulatory filings or engagements for those fiscal years, such as statutory audits. 
+(2) Audit-related fees consist of fees for services rendered during the fiscal year for assurance and related services that are reasonably related to the performance of the audit or review of Model N's consolidated financial statements and are not reported under "Audit Fees." The services include consultation regarding financial accounting and reporting matters. 
+(3) All other fees for the fiscal years ended September 30, 2018 and September 30, 2017 were related to fees for access to online accounting research software. 
+[END TABLE]
+Auditor Independence
+Under its charter, the Audit Committee pre-approves all services rendered by our independent registered public accounting firm, PricewaterhouseCoopers LLP. The Audit Committee has determined that the fee paid to PricewaterhouseCoopers LLP for services other than audit fees is compatible with maintaining the principal accountants' independence.
+Pre-Approval Policies and Procedures.
+Consistent with requirements of the SEC and the Public Company Accounting Oversight Board regarding auditor independence, our Audit Committee is responsible for the appointment, compensation and oversight of the work of our independent registered public accounting firm. In recognition of this responsibility, our Audit Committee (or a member of the Audit Committee delegated by the Audit Committee) generally pre-approves of all audit and permissible non-audit services provided by the independent registered public accounting firm. These services may include audit services, audit-related services, tax services and other services.
+THE BOARD OF DIRECTORS RECOMMENDS A VOTE "FOR" THE RATIFICATION OF THE
+APPOINTMENT OF PRICEWATERHOUSECOOPERS LLP. PROPOSAL NO. 3
+NON-BINDING ADVISORY VOTE ON THE COMPENSATION OF OUR NAMED EXECUTIVE OFFICERS
+We are providing our stockholders with an opportunity to vote, on an advisory basis, on the compensation of our named executive officers as disclosed in the "Compensation Discussion and Analysis" section, the compensation tables and the narrative discussions set forth on pages 18 to 33 of this proxy statement. This non-binding advisory vote is commonly referred to as a "Say-on-Pay" proposal. 
+Our Compensation Committee, which is responsible for designing and administering our executive compensation program, has designed our executive compensation program to provide a competitive and internally equitable compensation and benefits package that reflects company performance, job complexity and strategic value of the position, while ensuring long-term retention, motivation and alignment with the long-term interests of our stockholders. We encourage you to carefully review the "Compensation Discussion and Analysis" section beginning on page 18 of this proxy statement for additional details on our compensation of executives, including our compensation philosophy and objectives, as well as the processes the Compensation Committee used to determine the structure and amounts of the compensation of our named executive officers in fiscal year 2018.
+We are asking you to indicate your support for the compensation of the named executive officers as described in this proxy statement. This vote is not intended to address any specific item of compensation, but rather the overall compensation of the named executive officers and the philosophy, policies and practices described in this proxy statement. Accordingly, we are asking you to vote, on an advisory basis, which is non-binding, "FOR" the following resolution at the Annual Meeting:
+"RESOLVED, that the compensation paid to Model N, Inc.'s named executive officers, as disclosed pursuant to the Securities and Exchange Commission's compensation disclosure rules, including the "Compensation Discussion and Analysis," compensation tables and narrative discussion set forth in the proxy statement relating to its 2019 Annual Meeting of Stockholders, is hereby APPROVED."
+The Say-on-Pay vote is advisory, and therefore not binding on us, our Board of Directors or our Compensation Committee. Our Board of Directors and Compensation Committee value the opinions of our stockholders and to the extent there is any significant vote against the executive officer compensation as disclosed in this proxy statement, we will consider our stockholders' concerns and the Compensation Committee will evaluate whether any actions are necessary to address those concerns.
+THE BOARD OF DIRECTORS RECOMMENDS A VOTE "FOR" THE RESOLUTION APPROVING THE COMPENSATION OF OUR NAMED EXEUCTIVE OFFICERS. PROPOSAL NO. 4
+NON-BINDING ADVISORY VOTE FREQUENCY OF VOTES ON THE COMPENSATION OF OUR NAMED EXECUTIVE OFFICERS
+We are providing our stockholders with the opportunity to vote, on an advisory basis, on the frequency with which we include in our proxy statement an advisory vote, similar to Proposal No. 3 above, to approve or not approve the compensation of the named executive officers. By voting on this proposal, stockholders may indicate whether they prefer that we seek such an advisory vote every one, two, or three years.
+After careful consideration of this proposal, the Board of Directors determined that an advisory vote on executive compensation that occurs every year is the most appropriate frequency for us and therefore recommends a vote for a one-year interval for future advisory voting on named executive officer compensation. Our Board of Directors believes that an annual advisory vote on named executive officer compensation will allow our stockholders to provide us with their direct input on our compensation philosophy and objectives as disclosed in the proxy statement every year. Additionally, an annual advisory vote on named executive officer compensation is consistent with our policy of seeking input from, and engaging in discussions with, our stockholders on corporate governance matters and our executive compensation philosophy and objectives.
+The vote on the frequency of future Say-on-Pay votes is advisory, and therefore not binding on us, our Board of Directors, or our Compensation Committee. Our Board of Directors and Compensation Committee value the opinions of our stockholders and will take into account the outcome of this vote when considering how frequently we should conduct an advisory vote on the compensation of our named executive officers.
+THE BOARD OF DIRECTORS RECOMMENDS A VOTE FOR THE "ONE YEAR" FREQUENCY OF FUTURE NON-BINDING ADVISORY VOTES ON THE COMPENSATION OF OUR NAMED EXEUCTIVE OFFICERS. DIRECTORS AND CORPORATE GOVERNANCE
+Director Independence
+Our common stock is listed on the New York Stock Exchange. The listing rules of the New York Stock Exchange generally require that a majority of the members of a listed company's board of directors be independent. Our Board of Directors has determined that each of the members of our Board of Directors other than Mr. Blessing is independent. In making these determinations, our Board of Directors considered the current and prior relationships that each non-employee director has with our company and all other facts and circumstances our Board of Directors deemed relevant in determining their independence, including the beneficial ownership of our capital stock by each non-employee director.
+Leadership Structure
+The positions of Chief Executive Officer and Chairman of our Board of Directors are held by two different individuals.  Mr. Blessing serves as our Chief Executive Officer and, currently, Mr. Robel serves as our Chairman. Following this annual meeting, Baljit Dail will serve as our Chairman. This structure allows our Chief Executive Officer to focus on our day-to-day business while our Chairman leads our Board in its fundamental role of providing advice to and independent oversight of management. Our Board believes such separation is appropriate, as it enhances the accountability of the Chief Executive Officer to the Board and strengthens the independence of the from management.
+Risk Oversight
+Our Board of Directors believes that open communication between management and the Board is essential for effective risk management and oversight. Our Board meets with our Chief Executive Officer and other members of the senior management team at quarterly Board meetings, where, among other topics, they discuss strategy and risks in the context of reports from the management team, including any cybersecurity risks, and evaluates the risks inherent in significant transactions. While our Board of Directors is ultimately responsible for risk oversight, our Board committees assist the Board in fulfilling its oversight responsibilities in certain areas of risk. The Audit Committee assists our Board in fulfilling its oversight responsibilities with respect to risk management in the areas of internal control over financial reporting and disclosure controls and procedures. The Compensation Committee assists our Board in assessing risks created by the incentives inherent in our compensation policies. The Nominating and Corporate Governance Committee is charged with assisting our Board in fulfilling its oversight responsibilities with respect to the management of risk associated with Board membership and corporate governance.
+Executive Sessions of Independent Directors
+In order to promote open discussion among independent directors, our Board of Directors has a policy of conducting executive sessions of independent directors during each regularly scheduled Board meeting and at such other times if requested by an independent director. These executive sessions are chaired by our Chairman of the Board. The Chairman of the Board provides feedback to our Chief Executive Officer, as needed, promptly after the executive session. Mr. Blessing does not participate in such sessions.
+Codes of Conduct
+We have adopted a code of conduct that applies to our directors and a code of conduct that applies to our officers and all other employees. The full text of these codes of conduct are posted under the "Investors" section on our website at http://investor.modeln.com/govdocs.
+Meetings of the Board of Directors
+Our Board of Directors met twelve times during fiscal year 2018. No director attended fewer than 75% of the total number of meetings of the Board and of any Board committees of which he or she was a member during fiscal year 2018. It is our policy that directors are invited and encouraged to attend our annual meetings of stockholders. Five of our directors attended the 2018 Annual Meeting of Stockholders. Committees of the Board of Directors
+Our Board of Directors has established an Audit Committee, a Compensation Committee, and a Nominating and Corporate Governance Committee. Members serve on these committees until their resignation or until otherwise determined by our Board. The following table provides membership information as of September 30, 2018 for each of our Board committees:
+[BEGIN TABLE]
+Name Audit Committee  Compensation Committee  Nominating and Corporate Governance Committee
+Name Audit Committee  Compensation Committee  Nominating and Corporate Governance Committee
+Charles Robel* C       C 
+Tim Adams M       M 
+David Bonnette     C     
+Baljit Dail     M     
+Melissa Fisher M         
+Alan Henricks M   M     
+[END TABLE]
+Charles Robel is not standing for re-election at this year's annual meeting. Following our annual meeting, Mr. Robel may be replaced on the committees on which he served by another director.
+David Bonnette resigned as a director effective December 11, 2018. Following our annual meeting, Mr. Bonnette may be replaced on the committee on which he served by another director.
+Audit Committee
+Each of the members of the Audit Committee satisfies the independence requirements of Rule 10A-3. Messrs. Robel, Henricks, and Adams, and Ms. Fisher are each an Audit Committee financial expert, as that term is defined under SEC rules, and possess financial sophistication as defined under the rules of the New York Stock Exchange. The designation does not impose on any of them any duties, obligations or liabilities that are greater than those generally imposed on members of our Audit Committee and our Board of Directors. The Audit Committee met four times during fiscal year 2018. In addition to such formal meetings, the Audit Committee also held several interim meetings throughout fiscal year 2018 on audit matters, accounting standards and disclosure requirements under the Sarbanes-Oxley Act. Among other matters, the Audit Committee:
+[BEGIN TABLE]
+• evaluates the qualifications, independence and performance of our independent registered public accounting firm; 
+• determines the engagement of our independent registered public accounting firm and reviews and approves the scope of the annual audit and the fees paid to our independent registered public accounting firm; 
+• discusses with management and our independent registered public accounting firm the results of the annual audit and the review of our financial statements; 
+• approves the retention of our independent registered public accounting firm; 
+• reviews our critical accounting policies and estimates and internal control over financial reporting; and 
+• reviews the Audit Committee charter and its performance. 
+[END TABLE]
+The Audit Committee operates under a written charter that was adopted by our Board of Directors and satisfies the applicable standards of the SEC and the New York Stock Exchange. A copy of the Audit Committee charter is posted under the "Investors" section on our website at http://investor.modeln.com/govdocs.
+Compensation Committee
+Each member of the Compensation Committee is an outside director, as defined pursuant to Section 162(m) of the Code, is a "non-employee director" under Rule 16b-3(b)(3)(i) of the Exchange Act, and is independent within the meaning of New York Stock Exchange rules. The Compensation Committee met ten times during fiscal year 2018. Among other matters, the Compensation Committee:
+[BEGIN TABLE]
+• reviews and approves goals and objectives relevant to compensation of our Chief Executive Officer and other executive officers; 
+• evaluates the performance of these officers in light of those goals and objectives and sets the compensation of these officers based on such evaluations; and 
+• administers the issuance of stock options and other awards under our equity incentive plans. 
+[END TABLE]
+ At least annually, our Compensation Committee is responsible for reviewing, evaluating, and approving the compensation arrangements of our executive officers and for establishing and maintaining our executive compensation policies and practices. Under its charter, our Compensation Committee has the authority to retain outside counsel or other advisors. The Compensation Committee retains and does not delegate any of its exclusive power to determine all matters of executive compensation and benefits, although the Chief Executive Officer and the Human Resources department present compensation and benefit proposals to the Compensation Committee. However, our Chief Executive Officer is not present for deliberations or voting with respect to his compensation.
+The Compensation Committee engaged an independent compensation consultant, Radford, an Aon Hewitt company ("Radford"), to evaluate our executive compensation levels and practices and to provide advice and ongoing recommendations on executive compensation matters for fiscal year 2018. Specifically, Radford was engaged to:
+[BEGIN TABLE]
+• provide data from a peer group of companies to serve as a basis for assessing competitive compensation practices; 
+• review and assess our current director, CEO and other executive officer compensation practices and equity profile relative to market practices; 
+• review and assess our current compensation programs relative to market to determine any changes that may need to be implemented in order to remain competitive with our peer group; 
+• review market practices on employee stock purchase plans and equity programs; 
+• review market practices on stock ownership guidelines for directors and executive officers; and 
+• monitor the performance of the company's stock price relative to the Russell 3000 index in connection with the company's performance-based restricted stock unit ("RSU") program. 
+[END TABLE]
+Radford representatives meet informally with the chair of the Compensation Committee and regularly with our Compensation Committee during its regular meetings, including in executive sessions from time to time without any members of management present. Radford works directly with our Compensation Committee (and not on behalf of management) to assist our Compensation Committee in satisfying its responsibilities and will undertake no projects for management without our Compensation Committee's approval. No work performed by Radford during fiscal year 2018 raised a conflict of interest.
+The Compensation Committee operates under a written charter that was adopted by our Board of Directors and satisfies the applicable standards of the SEC and the New York Stock Exchange. A copy of the Compensation Committee charter is posted under the "Investors" section on our website at http://investor.modeln.com/govdocs.
+Nominating and Corporate Governance Committee
+Each member of the Nominating and Corporate Governance Committee is independent within the meaning of New York Stock Exchange rules. The Nominating and Corporate Governance Committee met four times during fiscal year 2018. Among other matters, the Nominating and Corporate Governance Committee:
+[BEGIN TABLE]
+• makes recommendations to our Board of Directors regarding candidates for directorships; 
+• makes recommendations to our Board of Directors regarding the structure and composition of the board of directors and its committees; 
+• develops corporate governance guidelines and renew and assess corporate governance best practices; and 
+• makes recommendations to our Board of Directors concerning governance matters. 
+[END TABLE]
+The Nominating and Corporate Governance Committee operates under a written charter that was adopted by our Board of Directors and satisfies the applicable standards of the SEC and the New York Stock Exchange. A copy of the Nominating and Governance Committee charter is posted under the "Investors" section on our website at http://investor.modeln.com/govdocs.
+Compensation Committee Interlocks and Insider Participation
+None of the members of our Compensation Committee is, or has at any time during the past year been, an officer or employee of ours. None of our executive officers currently serve, or in the past year has served, as a member of the board of directors or compensation committee of any other entity that has one or more executive officers serving on our Board of Directors or Compensation Committee.
+Considerations in Evaluating Director Nominees
+The Nominating and Corporate Governance Committee is responsible for identifying, evaluating and recommending candidates to the Board for Board membership. A variety of methods are used to identify and evaluate director nominees, with the goal of maintaining and further developing a diverse, experienced and highly qualified Board. Candidates may come to our attention through current members of our Board, professional search firms, stockholders or other persons. The Nominating and Corporate Governance Committee will recommend to the Board for selection all nominees to be proposed by the Board for election by the stockholders, including approval or recommendation of a slate of director nominees to be proposed by the Board for election at each annual meeting of stockholders, and will recommend all director nominees to be appointed by the Board to fill interim director vacancies.
+Director Qualifications
+The Nominating and Corporate Governance Committee also reviews and recommends to the Board for determination the desired qualifications, expertise and characteristics of Board members, with the goal of developing a diverse, experienced and highly qualified Board. The Nominating and Corporate Governance Committee and the Board believe that candidates for director should have certain minimum qualifications, including, without limitation:
+[BEGIN TABLE]
+• demonstrated business acumen and leadership, and high levels of accomplishment; 
+• ability to exercise sound business judgment and to provide insight and practical wisdom based on experience; 
+• commitment to understand Model N and its business, industry and strategic objectives; 
+• integrity and adherence to high personal ethics and values, consistent with our code of conduct; 
+• ability to read and understand financial statements and other financial information pertaining to Model N; 
+• commitment to enhancing stockholder value; 
+• willingness to act in the interest of all stockholders; and 
+• for non-employee directors, independence under New York Stock Exchange listing standards and other applicable rules and regulations. 
+[END TABLE]
+In the context of the Board's existing composition, other requirements that are expected to contribute to the Board's overall effectiveness and meet the needs of the Board and its committees may be considered.
+In addition, under Model N's Corporate Governance Guidelines ("Guidelines"), a director is expected to spend the time and effort necessary to properly discharge such director's responsibilities. Accordingly, a director is expected to regularly attend meetings of the Board and committees on which such director sits, and to review prior to meetings material distributed in advance for such meetings. Thus, the number of other public company boards and other boards (or comparable governing bodies) on which a prospective nominee is a member, as well as his or her other professional responsibilities, will be considered. Also under the Guidelines, there are no limits on the number of three-year terms that may be served by a director. However, in connection with evaluating recommendations for nomination for re-election, director tenure is considered. Model N values diversity on a company-wide basis, but has not adopted a specific policy regarding Board diversity.
+Stockholder Recommendations for Nominations to the Board of Directors
+The Nominating and Corporate Governance Committee will consider properly submitted stockholder recommendations for candidates for our Board who meet the minimum qualifications as described above. The Nominating and Corporate Governance Committee does not intend to alter the manner in which it evaluates candidates, including the use of the minimum criteria set forth above, based on whether or not the candidate was recommended by a stockholder. A stockholder of record can nominate a candidate for election to the Board of Directors by complying with the procedures in Article I, Section 1.11 of our Bylaws. Any eligible stockholder who wishes to submit a nomination should review the requirements in the Bylaws on nominations by stockholders. Any nomination should be sent in writing to the Corporate Secretary, Model N, Inc., 777 Mariners Island Boulevard, Suite 300, San Mateo, California 94404. Submissions must include the full name of the proposed nominee, complete biographical information, a description of the proposed nominee's qualifications as a director, other information specified in our Bylaws, and a representation that the nominating stockholder is a beneficial or record holder of our stock and has been a holder for at least one year. Any such submission must be accompanied by the written consent of the proposed nominee to be named as a nominee and to serve as a director if elected. These candidates are evaluated at meetings of the Nominating and Corporate Governance Committee, and may be considered at any point during the year. If any materials are provided by a stockholder in connection with the recommendation of a director candidate, such materials are forwarded to the Nominating and Corporate Governance Committee.
+All proposals of stockholders that are intended to be presented by such stockholder at an annual meeting of Stockholders must be in writing and notice must be delivered to the Corporate Secretary at the principal executive offices of Model N not later than the close of business on the seventy-fifth (75th) day nor earlier than the close of business on the one hundred and fifth (105th) day prior to the first anniversary of the preceding year's annual meeting. Stockholders are also advised to review our Bylaws, which contain additional requirements with respect to advance notice of stockholder proposals and director nominations. Non-Employee Director Compensation
+Our non-employee directors are entitled to receive equity for their service as directors. Our Board of Directors has determined that the non-employee directors will receive an annual RSU grant with a value of $100,000. In addition, non-employee directors are entitled to receive an annual RSU grant with a value of $30,000 for service on our Board, which may be payable as cash at the election of the director, and an annual RSU grant with a value of $20,000 for the chair of the Audit Committee, $12,000 for the chair of the Compensation Committee and $8,000 for the chair of the Nominating and Corporate Governance Committee, each of which may be payable as cash at the election of the director. In addition, non-employee directors will receive an annual RSU grant with a value of $10,000 for serving on the Audit Committee, $6,000 for serving on the Compensation Committee and $4,000 for serving on the Nominating and Corporate Governance Committee, each of which may be payable as cash at the election of the director. In addition, the lead independent director, if any, is entitled to receive an annual RSU grant with a value of $15,000, which may be payable as cash at the election of the lead independent director.
+The following table presents the total compensation for each person who served as a non-employee member of our Board of Directors in the fiscal year ended September 30, 2018. Other than as set forth in the table and described more fully below, in the fiscal year ended September 30, 2018 we did not pay any fees to, make any equity awards or non-equity awards to, or pay any other compensation to, the non-employee members of our Board of Directors. Non-employee directors may be reimbursed for travel and other expenses incurred in the performance of their duties.
+The following table sets forth information regarding compensation earned by our non-employee directors for the fiscal year ended September 30, 2018:
+[BEGIN TABLE]
+Name(1) Stock Awards (2)  
+Tim Adams $ 161,859   (3) (4)  
+David Bonnette $ 155,684   (4)  
+Baljit Dail $ 150,806   (3) (4)  
+Melissa Fisher $ 153,501   (4)  
+Alan Henricks $ 160,082   (4)  
+Charles Robel $ 189,681   (4)  
+[END TABLE]
+__________________________
+[BEGIN TABLE]
+(1) As of September 30, 2018, the above-listed directors held outstanding options and RSUs pursuant to which the following shares of our Common Stock are issuable upon exercise or settlement, respectively: Mr. Adams (4,630 shares subject to RSUs); Mr. Bonnette (4,566 shares subject to RSUs); Mr. Dail (4,373 shares subject to RSUs); Ms. Fisher (4,502 shares subject to RSUs); Mr. Henricks (4,695 shares subject to RSUs); and Mr. Robel (33,333 shares subject to options; 5,563 shares subject to RSUs). 
+(2) The amounts in this column represent the aggregate grant date fair values for restricted stock unit awards granted to the Board of Directors computed in accordance with Financial Accounting Standards Board Accounting Standards Codification Topic 718. The assumptions used in calculating the aggregate grant date fair value of the restricted stock unit awards reported in this column are set forth in Note 9 of the notes to our consolidated financial statements included in our Annual Report on Form 10-K for fiscal year 2018. These amounts reflect our accounting costs for these awards, and do not correspond to the actual value that may be realized by the above-named board members. 
+(3) In November 2017, in connection with commencing their service as a member of the audit committee and compensation committee, Messrs. Adams and Dail were granted an award of 280 and 120 restricted stock units, respectively, which vested as to 100% on February 15, 2018. 
+(4) In February 2018, each of Messrs. Adams, Bonnette, Dail, Henricks and Robel, and Ms. Fisher was granted an award of 9,260, 9,131, 8,745, 9,389,  11,125 and 9,003 RSUs, respectively, which will vest over a one-year period with 25% of the shares granted vesting on each quarterly anniversary of the vesting start date. 
+[END TABLE]
+Communications with the Board of Directors
+Stockholders and all interested parties wishing to communicate with the Board of Directors or with an individual member of the Board of Directors may do so by writing to the Board of Directors or to the particular member of the Board of Directors, care of the Corporate Secretary, at Model N, Inc., 777 Mariners Island Boulevard, Suite 300, San Mateo, California 94404. The envelope should indicate that it contains a stockholder or interested party communication. All such communications will be forwarded to the director or directors to whom the communications are addressed. REPORT OF THE AUDIT COMMITTEE
+With respect to Model N's financial reporting process, the management of Model N is responsible for (1) establishing and maintaining internal controls and (2) preparing Model N's consolidated financial statements. Model N's independent registered public accounting firm, PricewaterhouseCoopers LLP ("PwC"), is responsible for auditing these financial statements. It is the responsibility of the Audit Committee to oversee these activities. The Audit Committee does not itself prepare financial statements or perform audits, and its members are not auditors or certifiers of Model N's financial statements.
+The Audit Committee has reviewed and discussed the audited financial statements for the year ended September 30, 2018 with Model N's management and with PwC, including the results of the independent registered public accounting firm's audit of Model N's financial statements. The Audit Committee has also discussed with PwC all matters that the independent registered public accounting firm was required to communicate and discuss with the Audit Committee, including the matters required to be discussed by Auditing Standard No. 1301, "Communications with Audit Committees."
+The Audit Committee also has received and reviewed the written disclosures and the letter from PwC required by applicable requirements of the Public Company Accounting Oversight Board regarding PwC's communications with the Audit Committee concerning independence, and has discussed with PwC its independence from Model N, as well as any relationships that may impact PwC's objectivity and independence.
+Based on the Audit Committee's review and discussions with Model N's management and independent registered public accountants discussed above, the Audit Committee recommends to the Board of Directors that the audited financial statements be included in Model N's Annual Report on Form 10-K for the fiscal year ended September 30, 2018, for filing with the Securities and Exchange Commission.
+Submitted by the Audit Committee of the Board of Directors:
+Charles J. Robel (Chair)
+Tim Adams
+Melissa Fisher
+Alan Henricks RELATED PERSON TRANSACTIONS
+Other than the executive and director compensation arrangements, including the employment, termination of employment and change in control arrangements, discussed below under "Executive Compensation," the indemnification arrangements with our executive officers and directors discussed below under "Employment Arrangements and Indemnification Agreements," we were not party to any transactions since October 1, 2017 to which we have been a participant, in which the amount involved in the transaction exceeds or will exceed $120,000 and in which any of our directors, executive officers, or holders of more than 5% of our common stock, or any immediate family member of, or person sharing the same household with, any of these individuals, had or will have a direct or indirect material interest.
+Statement of Policy Regarding Related Person Transactions
+As provided in the Audit Committee Charter, the Audit Committee of our Board of Directors must review and approve in advance any related party transaction. We have also adopted a related-party transactions policy under which our executive officers, directors, nominees for election as a director, beneficial owners of more than 5% of any class of our common stock, and any members of the immediate family of any of the foregoing persons are not permitted to enter into a related-party transaction with us without the consent of our Audit Committee. If the related party is, or is associated with, a member of our Audit Committee, the transaction must be reviewed and approved by another independent body of our Board of Directors. Any request for us to enter into a transaction with a related party in which the amount involved exceeds $120,000 and such party would have a direct or indirect interest must first be presented to our Audit Committee for review and approval. If advance approval of a related-party transaction was not feasible or was not obtained, the related-party transaction must be submitted to the Audit Committee as soon as reasonably practicable, at which time the Audit Committee shall consider whether to ratify and continue, amend and ratify, or terminate or rescind such related party transaction.
+It is our intention to ensure that all transactions between us and our officers, directors and principal stockholders and their affiliates, are approved by the Audit Committee of our Board of Directors, and are on terms no less favorable to us than those that we could obtain from unaffiliated third parties. EXECUTIVE OFFICERS
+The following table identifies certain information about our executive officers as of December 18, 2018. Officers are elected by the Board of Directors to hold office until their successors are elected and qualified.
+[BEGIN TABLE]
+Name   Age   Current Position(s) with Model N 
+Jason Blessing   47   Chief Executive Officer and Board member 
+David Barter   47   Senior Vice President and Chief Financial Officer 
+Russell Mellott   49   Senior Vice President and Chief Revenue Officer 
+Mark Anderson   58   Senior Vice President, Global Services 
+Neeraj Gokhale   51   Senior Vice President and Chief Product Officer 
+Laura Selig   47   Senior Vice President and Chief People Officer 
+[END TABLE]
+For information on the business background of Mr. Blessing, see "Proposal No. 1—Election of Directors" above.
+David Barter has served as Senior Vice President and Chief Financial Officer since May 2017. From September 2013 to May 2017, Mr. Barter served as the Vice President of Finance at Guidewire Software, Inc., a provider of software solutions to the insurance industry. From October 2005 to September 2013, Mr. Barter held several senior leadership positions with Microsoft Corporation, including as the Chief Financial Officer of the Microsoft Financing division. Mr. Barter holds a BBA degree in Finance and Philosophy from the University of Notre Dame and an M.B.A from Northwestern University, Kellogg School of Management.
+Russell Mellott has served as Senior Vice President and Chief Revenue Officer since January 2017. From April 2015 to January 2017, Mr. Mellott served as the Vice President of Software Sales at Intelligrated Systems Inc., a provider of supply chain software solutions. From May 2011 to October 2014, Mr. Mellott served as Senior Vice President of Sales at Epicor Software Corporation, a provider of business software solutions to the manufacturing, distribution, retail and services industries. Mr. Mellott holds a B.A. in Computer Science from LaSalle University.
+Mark Anderson has served as Senior Vice President, Global Services since April 2016. From March 2010 to January 2016, Mr. Anderson served as Senior Vice President of Global Solutions Delivery of Vendavo, Inc., a provider of margin and profit optimization solutions. From June 2009 to April 2010, Mr. Anderson served as Vice President of Professional Services of Comergent Technologies, Inc., an information technology and services company. Prior to joining Comergent, Mr. Anderson held several leadership roles in the enterprise software industry, including as Vice President of Professional Services for discrete industries at SAP North America, a provider of business software. Mr. Anderson holds a B.S. in Industrial Engineering from the University of Nebraska and an M.B.A in Operations Management from the Simon School of Business at the University of Rochester.
+Neeraj Gokhale has served as Senior Vice President and Chief Product Officer since August 2017.  From August 2015 to November 2016, Mr. Gokhale served as the Vice President of Global Marketing and Product Management at the storage division of Hewlett Packard Enterprise Company. From January 2010 to July 2015, Mr. Gokhale served as Vice President, Products, Communication Global Business Unit at Oracle Corporation. Mr. Gokhale holds a B.Tech degree from the Indian Institute of Technology, Kanpur, an M.S. degree from the University of Louisville, and an M.B.A from the Stanford Graduate School of Business.
+Laura Selig has served as Senior Vice President and Chief People Officer since November 5, 2018. From September 2018 to November 2018, Ms. Selig provided human resources consulting services with a focus on small and mid-sized high growth companies. From January 2016 to June 2018, Ms. Selig served as Vice President, People and Culture at SnapLogic, a provider of self-service integration solutions. From January 2015 to January 2017, Ms. Selig served as Vice President, People at Couchbase, a NoSQL database provider. From November 2007 to January 2015, Ms. Selig served as Vice President, HR at Visa. Ms. Selig holds a BA in Psychology from Indiana University of Pennsylvania.  EXECUTIVE COMPENSATION
+Compensation Discussion and Analysis
+The following Compensation Discussion and Analysis ("CD&A") describes the philosophy, objectives and structure of our fiscal year 2018 executive compensation program. This includes discussion and background information regarding the compensation of our named executive officers ("NEOs"). This CD&A is intended to be read in conjunction with the tables immediately following this section, which provide further historical compensation information.
+The following executive officers constituted our Named Executive Officers ("NEOs") in the past fiscal year:
+[BEGIN TABLE]
+Jason Blessing (1) Chief Executive Officer 
+David Barter Senior Vice President and Chief Financial Officer 
+Russell Mellott Senior Vice President and Chief Revenue Officer 
+Mark Anderson Senior Vice President, Global Services 
+Neeraj Gokhale Senior Vice President and Chief Product Officer 
+Zack Rinat (1) Former Interim Chief Executive Officer and Chairman of the Board 
+[END TABLE]
+[BEGIN TABLE]
+(1) Effective May 10, 2018, Mr. Blessing succeeded Zack Rinat as Chief Executive Officer of the Company. Also effective on that date, Mr. Rinat resigned from the board of directors and Charles Robel succeeded him as Chairman of the Board. 
+[END TABLE]
+I.    Executive Summary
+Our Compensation Committee believes that executive compensation should be linked to our overall financial performance, strategic success and shareholder returns. As such, our executive compensation program is designed to attract highly qualified individuals, retain those individuals in a competitive marketplace for executive talent and motivate performance in a manner that supports achievement of our mission of increasing shareholder value while ensuring that these programs do not encourage excessive risk-taking. We seek to align individual performance with long-term strategic business objectives and shareholder interests in a manner consistent with safe and sound business practices and sustainable financial performance. We believe our executive compensation program as developed and implemented, and as presented in this CD&A, achieves these objectives and is appropriate for a company in our industry and at our stage of growth.
+Management Transition
+Effective May 10, 2018, Jason Blessing was appointed our Chief Executive Officer and a Class III director, with a term expiring at the 2019 annual meeting of shareholders. Mr. Blessing succeeds Zack Rinat, who had re-assumed the CEO role on an interim basis in November 2016. Pursuant to an employment agreement, Mr. Blessing's initial compensation consisted of the following:
+[BEGIN TABLE]
+• An annual base salary of $415,000 
+• Eligibility to receive a cash bonus of up to 100% of his base salary, based on certain performance criteria 
+• Restricted stock units (RSUs) valued at $2,1750,000, which will vest over four years, with 25% vesting on the first anniversary and 6.25% vesting quarterly thereafter 
+• Performance-based RSUs valued at $2,175,000, that will vest 50% on the second and third anniversaries subject to the achievement of certain performance criteria. 
+[END TABLE]
+In conjunction with his resignation as interim CEO, we entered into a transition letter agreement with Mr. Rinat, pursuant to which he provided transition advisory services to Model N for 90 days in exchange for continued payment of health benefits as well as newly issued shares of Model N stock with an aggregate value of $10.3 million. This value was determined by the Board in consultation with its independent compensation adviser, Radford, and is based on his performance and contributions to the success of the Company during the transition period. 
+Except for an annual one-dollar salary, Mr. Rinat was compensated entirely in the form of performance-based restricted shares, with achievement entirely dependent upon our relative total shareholder return. These awards were structured with two and three-year performance periods, to promote Mr. Rinat's alignment with the long-term performance of the Company and for retention purposes. At the time of the CEO transition, only one tranche of awards (out of six) from the past three grants had vested, and pursuant to the terms of the award, the remaining five unvested tranches were forfeited upon the transition.  
+Given Mr. Rinat's strong contributions and performance during the time he served as interim CEO, his continued dedication to the Company, and his decision to take only a one-dollar salary while serving as interim CEO, the Committee did not believe it was appropriate that the transition would result in the forfeiture of these awards. Therefore, the Committee and Radford reviewed pay data for CEOs at  peer companies and determined that the $10.3 million was appropriate given his service time in the interim role and the desire to reward him appropriately for his dedication and the Company's strong performance.  
+In determining the $10.3 million value, the Committee considered a competitive market pay assessment prepared by Radford which provided market data for the 25th, 50th and 75th percentiles.  In light of the Company's strong performance during Mr. Rinat's tenure as well as Mr. Rinat's contributions to that success, the Committee felt that pay for the period should be consistent with the 75th percentile of the competitive market, the value of which approximated $10.3 million on a pro-rata basis. As an additional validation of the appropriateness of this value, the Committee considered the value of the outstanding performance-based equity awards based on actual performance, assuming both pro rata and full acceleration of the awards prior to finalizing its decision.
+Pay Program Overview
+Our compensation programs are designed to attract, motivate and retain qualified and talented executives, motivating them to achieve our business goals and rewarding them for superior short- and long-term performance. When doing this, our Compensation Committee is mindful to align the interests of our executives with those of our shareholders in order to attain our ultimate objective of driving long-term, sustainable shareholder value. The table below describes the primary elements of our executive compensation program for fiscal year 2018, and the purpose of each element of pay:
+[BEGIN TABLE]
+Base Salary Base salaries are set to be competitive within our industry and are important in attracting and retaining talented executives. Base salaries may be adjusted based on numerous factors, including a change in an executive officer's responsibilities, demonstrated performance or relevant market data.  
+Base Salary Base salaries are set to be competitive within our industry and are important in attracting and retaining talented executives. Base salaries may be adjusted based on numerous factors, including a change in an executive officer's responsibilities, demonstrated performance or relevant market data.  
+Short-Term Incentives Cash incentives reward the achievement of annual corporate and business goals, as well as personal objectives. In fiscal year 2018, our annual incentives were based on adjusted EBITDA, recurring revenue, and customer satisfaction goals.  
+Long-Term Incentive Equity Long-term equity awards incentivize executives to deliver long-term shareholder value, while also providing a retention vehicle for our executive talent. In fiscal year 2018, we granted executives both time-vesting restricted stock units ("RSUs") and performance-based RSUs.  
+[END TABLE]
+Fiscal Year 2018 Target Pay Mix
+Consistent with our philosophy of aligning executive pay with the short- and long-term performance of the Company, and to align the interests of management and shareholders, the Company's compensation programs are designed to provide the majority of executive compensation in the form of variable, at-risk pay which is earned based on the Company's performance. Our compensation committee thoughtfully employs the primary compensation elements described in the previous table to achieve these objectives. In fiscal year 2018, these elements were used to create target pay mixes for our executives as displayed here: Compensation Risk-Management
+Our pay-for-performance philosophy and compensation governance practices provide an appropriate framework to our executives to achieve our financial and strategic goals without encouraging them to take excessive risks in their business decisions. Some of our practices include:
+[BEGIN TABLE]
+What We Do ü    Pay-for-performance philosophy and culture 
+ü    Strong emphasis on performance-based incentive awards 
+ü    Responsible use of shares under our long-term incentive program 
+ü    Rigorous stock ownership requirements for all executives and non-executive directors 
+ü    Engage an independent compensation consultant 
+ü    Conduct annual shareholder outreach 
+What We Don't Do X    No hedging and pledging of Company stock 
+X    No excise tax gross-ups 
+X    No backdating or repricing of stock option awards 
+X    No supplemental executive retirement plans 
+X    No resetting of financial targets for performance-based incentive awards 
+X    No excessive perquisites 
+[END TABLE]
+II.Executive Compensation Philosophy and Objectives
+We operate in a highly competitive and rapidly evolving market, and we expect competition to continue to increase. Our ability to compete and succeed in this environment is directly correlated to our ability to recruit, incentivize and retain talented individuals in the areas of research and development, services, sales, marketing, and support functions, such as Finance, IT and HR. The market for skilled individuals in each of these areas is very competitive. Our compensation philosophy is designed to establish and maintain a compensation program that attracts, retains, and rewards talented individuals who possess the skills necessary to create long-term value for our stockholders, expand our business and assist in the achievement of our strategic objectives.
+In fiscal year 2018, our Compensation Committee reviewed and assessed our general compensation philosophy, which is intended to align with our core values, yearly performance, and our stockholder interests, as well as to effectively balance our short- and long-term objectives. The Compensation Committee believes that compensation should never impede our ability to do what is right for the business and that a great work environment needs to be supported by competitive pay practices and benefits. When determining the competitiveness of our pay practices, we look at the entire pay and benefit package, taking into account total compensation. Our total compensation package is designed to be competitive in the geographical locations where we do business, focused on results, and fair and flexible. The Compensation Committee recognizes the importance of providing fair rewards for employee contributions. In assessing the competitiveness of our compensation program, we reference the 50th percentile of the relevant competitive market, and make adjustments, either up or down, to reflect a variety of considerations, including individual performance, scope of responsibilities, criticality of position, retention considerations and internal equity considerations.  
+The Compensation Committee retains flexibility to review our compensation structure periodically as needed to focus on different business objectives and reviews our compensation programs at least annually.
+Objectives for our Executive Compensation Programs
+Consistent with our compensation philosophy, the primary goals of our executive compensation programs are to:
+[BEGIN TABLE]
+• Facilitate our ability to recruit, retain and motivate top talent; 
+• Align the interests of our executives with those of our stockholders;  
+• Provide differentiated pay for performance; and 
+• Balance short and long-term strategic objectives. 
+[END TABLE]
+[BEGIN TABLE]
+III. Compensation Determination Process 
+[END TABLE]
+Role of Compensation Committee
+Our Compensation Committee evaluates the performance of our Chief Executive Officer and approves the compensation for our Chief Executive Officer in light of the goals and objectives of our compensation program for that year. Our Compensation Committee annually assesses the performance of our other executives and approves the compensation of these executives. Our Compensation Committee does not delegate any of its responsibility to determine executive compensation.
+Role of Management
+At the request of our Compensation Committee, our Chief Executive Officer may attend a portion of our Compensation Committee meetings, including meetings at which our Compensation Committee's compensation consultants are present. This enables our Compensation Committee to review, with our Chief Executive Officer, the corporate and individual goals that the Chief Executive Officer regards as important to achieve our business objectives. Our Compensation Committee also requests that our Chief Executive Officer assesses the performance of certain other officers as deemed appropriate, including our other NEOs. In addition, our Compensation Committee may request certain other executives to provide input on executive compensation, including assessing individual performance and future potential, market data analyses and various compensation decisions relating to bonuses, equity awards and other pay during the year. None of our executives attends any portion of Compensation Committee meetings at which his or her compensation is discussed.
+Role of Consultants
+For compensation related decisions effective for  fiscal year 2018, the Compensation Committee retained the services of Radford as independent executive compensation consultant to advise the Compensation Committee on compensation matters related to the executive and director compensation programs. In fiscal year 2018, Radford assisted the Compensation Committee with, among other things: 
+[BEGIN TABLE]
+• Reviewing and modifying the compensation peer group; 
+• Reviewing and assessing our current compensation programs relative to the market to determine any changes that may need to be implemented in order to remain competitive with our peer group; 
+• Reviewing market practices on equity programs and making modifications to maintain competitiveness; 
+• Providing recommendations for our CEO pay package; and 
+• Drafting our Proxy Statement disclosures, including the Compensation, Discussion and Analysis section; and 
+• Information, commentary and insight on other compensation and governance-related matters as they arise. 
+[END TABLE]
+Radford reported to and worked for the Compensation Committee (and not on behalf of management) to assist our Compensation Committee in satisfying its responsibilities and will undertake no projects for management without out Compensation Committee's approval. The Compensation Committee conducted a specific review of its relationship with Radford in fiscal year 2018, and determined that Radford's work for the Compensation Committee did not raise any conflicts of interest. Radford's work has conformed to the independence factors and guidance provided by the Dodd-Frank Act, the SEC and the NYSE.
+Consideration of Compensation Risk
+The Compensation Committee has reviewed and discussed the concept of risk as it relates to the Company's compensation policies and it does not believe that the Company's compensation policies encourage excessive or inappropriate risk taking.
+The Compensation Committee has identified no material risks in the compensation programs in fiscal year 2018. Use of Peer Group Data
+With the assistance and recommendations of Radford, the Company has adopted a peer group of companies as a reference group to provide a broad perspective on competitive pay levels and practices. Peer companies were selected based on industry classification as well as company size in terms of revenue (approximately $50 million to $250 million) and market capitalization (up to approximately $1.1 billion).
+For fiscal year 2018, the Company's peer group consisted of the following 19 companies:
+[BEGIN TABLE]
+AppFolio MobileIron 
+Bazaarvoice  PROS Holdings 
+Benefitfocus Qualys 
+Brightcove Rapid7 
+Callidus Software ServiceSource International 
+Carbonite SPS Commerce 
+ChannelAdvisor TechTarget 
+Five9 Telenav 
+Guidance Software Vocera Communications 
+LivePerson   
+[END TABLE]
+The Compensation Committee annually evaluates the peer group for suitability and modifies the peer group as needed. Our Compensation Committee utilizes this peer group data as one reference point along with various other factors, such as the individual's performance, experience, and competitive market conditions. As such, the Compensation Committee does not commit to setting our executive pay levels at any particular percentile of the peer group.
+[BEGIN TABLE]
+IV. Elements of Our Executive Compensation Program 
+[END TABLE]
+The key elements of our executive compensation packages are base salary, annual cash bonuses, and equity-based awards. Our Compensation Committee believes that a combination of these elements offers the best approach to achieving our compensation goals, including attracting and retaining talented executives and motivating our executives and other officers to expend maximum effort to achieve our strategic business goals, including the creation of long-term, sustainable growth of shareholder value.
+Base Salaries
+We offer base salaries that are intended to provide a level of stable fixed compensation to executive officers for performance of day-to-day services. Base salaries for our executive officers are generally reviewed annually to determine whether an adjustment is warranted or required. In fiscal year 2018, the Compensation Committee reviewed the base salaries of our executive officers taking into consideration:
+[BEGIN TABLE]
+• compensation analysis performed by Radford 
+• scope of responsibilities 
+• skill set 
+• prior experience 
+• executive's time in his or her position 
+• recommendations of the CEO, and 
+• market conditions generally. 
+[END TABLE]
+For fiscal year 2018, annualized base salaries for our named executive officers were as follows:
+[BEGIN TABLE] Executive   Base Salary   
+Jason Blessing   $ 415,000     
+David Barter   $ 310,000     
+Russell Mellott   $ 300,000     
+Mark Anderson   $ 300,000     
+Neeraj Gokhale   $ 300,000     
+Zack Rinat   $ 1     
+[END TABLE]
+ Annual Cash Bonuses
+We provide our executive officers, including the named executive officers, with the opportunity to annually earn cash bonuses to encourage the achievement of corporate and individual objectives and to reward those individuals who significantly impact our corporate results. The Compensation Committee determines and approves cash bonus decisions for our executive officers in its sole discretion based on a variety of factors, including performance versus certain company performance metrics, as described below, as well as individual performance.
+Executive Bonus Opportunities
+Zack Rinat, our former Chief Executive Officer, did not participate in the bonus plan applicable to fiscal year 2018. For other executives, bonus opportunities were as follows:
+[BEGIN TABLE]
+Executive FY2018 Target Opportunity  (as a% of base salary)
+Executive FY2018 Target Opportunity  (as a% of base salary)
+Jason Blessing 100% 
+David Barter 50% 
+Russell Mellott 83% 
+Mark Anderson 50% 
+Neeraj Gokhale 50% 
+Zack Rinat —   
+[END TABLE]
+Fiscal Year 2018 Performance Metrics and Actual Results
+The bonus plan applicable to fiscal year 2018 was based on the attainment of a target level of adjusted earnings before interest, taxes, depreciation and amortization ("EBITDA"), recurring revenue and customer satisfaction, subject to an individual performance factor as determined by our Chief Executive Officer and the Compensation Committee. 
+[BEGIN TABLE]
+      Performance Goals   FY2018 Actual Results 
+Metric Weighting   Threshold (80%)  Target (100%)  Maximum (200%)  
+Metric Weighting   Threshold (80%)  Target (100%)  Maximum (200%)  
+Adjusted EBITDA 37.5%   $6,000,000   $7,000,000   $ 12,000,000     $11,472,000 
+Recurring Revenue 37.5%   N/D     N/D     N/D     N/D   
+Customer Satisfaction 25%   (17)%   (12)%   13.0%   (9.4)% 
+[END TABLE]
+Fiscal Year 2018 Earned Incentives
+Based on our performance, as well assessment of individual executive contributions, the Compensation Committee, in its sole discretion, awarded the following bonues for fiscal year 2018:
+[BEGIN TABLE]
+  FY2018 Target Opportunity       FY2018 Earned Incentives 
+Executive (as a% of base salary)   FY2018 Base Salary%   $ 
+Jason Blessing 100%   $ 415,000     100%   $ 163,036   
+David Barter 50%   $ 310,000     100%   $ 155,000   
+Russell Mellott 83%   $ 300,000     72%   $ 179,773   
+Mark Anderson 50%   $ 300,000     87%   $ 130,222   
+Neeraj Gokhale 50%   $ 300,000     100%   $ 150,000   
+Zack Rinat –   $ 1     –     –   
+[END TABLE]
+*Mr. Blessing's earned incentives were prorated based on his start date, which was on May 10, 2018.
+Equity-Based Awards
+We use equity awards to motivate and reward our executive officers, including our named executive officers, for long-term corporate performance and to align the interests of our executive officers with those of our stockholders.
+Consistent with market practice in technology companies, our long-term incentive program is comprised entirely of full-value equity vehicles, namely time-based and performance-based restricted stock units ("RSUs").  We award RSUs so as to reduce short-term dilution and stock plan share utilization, while providing a long-term, retentive element to the executive pay package. We incorporate performance-based RSUs into the program to further enhance the alignment between pay and the long-term performance of our company.
+Fiscal Year 2018 Equity Awards
+In fiscal year 2018, consistent with past practice, we granted our executives a mix of performance-based and time-based RSUs as follows:
+[BEGIN TABLE]
+  Time-based   Performance-based 
+Executive RSUs (#)   RSUs (#) 
+Jason Blessing (1) 120,913   120,913 
+David Barter 14,048   14,048 
+Russell Mellott 12,084   12,084 
+Mark Anderson 9,063   9,063 
+Neeraj Gokhale 7,975   7,975 
+Zack Rinat –   155,903 
+(1) Mr. Blessing was granted 120,913 performance-based RSUs and 120,913 time-based RSUs as an initial equity grant upon joining the Company on May 10, 2018. Commencing in fiscal year 2019, Mr. Blessing will be eligible for annual equity grants as part of the ordinary granting cycle. 
+[END TABLE]
+Performance-based RSUs
+The performance-based RSUs vest over a three-year period with 50% vesting on the second and third annual anniversaries of the vesting commencement date. Subject to achievement of certain minimum performance criteria based upon total shareholder return, the performance-based RSUs may vest between a minimum of 0% and a maximum of 200%. For 2018, our performance-based RSUs were based off relative performance to the Russell 3000 index, with the following potential payouts:
+[BEGIN TABLE]
+TSR Percentile RankingPerformance Factor 
+TSR Percentile RankingPerformance Factor 
+>  90th%ile 2.0 
+80th%ile 1.75 
+70th%ile 1.5 
+60th%ile 1.25 
+50th%ile 1.0 
+40th%ile 0.75 
+30th%ile 0.5 
+< 30th%ile 0.0 
+[END TABLE]
+Time-based RSUs
+The time-based RSUs generally vest over a four-year period with 6.25% vesting each quarter. Mr. Blessing's initial grant of time-based RSUs vest as to 25% upon the first annual anniversary of the vesting commencement date and 6.25% vesting each quarter thereafter. The vesting of these awards will also accelerate by 100% of the remaining unvested shares in the event of a qualifying termination of employment within 12 months of a change in control of Model N.
+[BEGIN TABLE]
+V. Additional Policies and Practices 
+[END TABLE]
+Stock Ownership Guidelines
+To help ensure a strong alignment between executives and shareholder interests, the Company has adopted an equity ownership policy. The Company requires the board of directors and executive management team to have an equity ownership interest in the Company, in accordance with the following schedule:
+[BEGIN TABLE]
+Position Requirement 
+Board of Directors Lesser of 3x Annual Retainer or 12,000 shares 
+Chief Executive Officer Lesser of 3x Annual Base Salary or 100,000 shares 
+Other Executive Officers Lesser of 1x Annual Base Salary or 30,000 shares 
+[END TABLE]
+Anti-Hedging and Pledging Policies
+Under our Insider Trading Policy, directors and executive officers, as well as other employees, are prohibited from engaging in the following activities with respect to the Company's Common Stock:
+[BEGIN TABLE]
+• Hedging their interest in Company shares by selling short or trading or purchasing "put" or "call" options on our Common Stock or engaging in similar transactions; and 
+• Pledging any shares of our Common Stock without prior clearance from our Corporate Compliance Officer as outlined in our Insider Trading Policy. 
+[END TABLE]
+As of the date of this Proxy Statement, no shares of Company Common Stock were pledged by any director or executive officer.
+Benefits Programs
+Our employee benefit programs, including our health, dental, vision, life insurance and disability programs, are designed to provide a competitive level of benefits to our employees generally, including our named executive officers and their families. We adjust our employee benefit programs as needed based upon regular monitoring of applicable laws and practices and the competitive market. Our named executive officers are entitled to participate in the same employee benefit plans, and on the same terms and conditions, as all other United States full-time employees. Potential Cost of Termination Payments
+In the table below, we have estimated the potential cost to us of the compensation to which each named executive officer would be entitled if he or she experienced a qualifying termination (as described above) outside of a change of control and within 12 months of a change of control, effective as of September 30, 2018.
+[BEGIN TABLE]
+  Qualifying Termination   Qualifying Termination in Connection with a Change in Control 
+Named Executive Officer Cash Payments ($)   Benefits ($)   Equity Compensation ($)  Total ($)   Cash Payments ($)   Benefits ($)   Equity Compensation ($)   Total ($) 
+Named Executive Officer Cash Payments ($)   Benefits ($)   Equity Compensation ($)  Total ($)   Cash Payments ($)   Benefits ($)   Equity Compensation ($)   Total ($) 
+Jason Blessing $ 415,000     $ 52,681     N/A   $ 467,681     $ 830,000     $ 52,681     $ 3,832,942     $ 4,715,623   
+David Barter $ 155,000     $ 11,958     N/A   $ 166,958     $ 155,000     $ 11,958     $ 2,272,382     $ 2,439,340   
+Russell Mellott $ 150,000     $ 9,196     N/A   $ 159,196     $ 150,000     $ 9,196     $ 2,541,975     $ 2,701,171   
+Neeraj Gokhale $ 150,000     $ 13,170     N/A   $ 163,170     $ 150,000     $ 13,170     $ 1,568,627.0     $ 1,731,797   
+Mark Anderson $ 150,000     $ 8,261     N/A   $ 158,261     $ 150,000     $ 8,261     $ 1,941,340     $ 2,099,601   
+Zack Rinat N/A     N/A     N/A   N/A     N/A     N/A     N/A     N/A   
+[END TABLE]
+We entered into an employment agreement ("Employment Agreement") with Mr. Blessing, Chief Executive Officer, on May 7, 2018. Pursuant to the Employment Agreement, Mr. Blessing's initial base salary was established at $415,000 per year. In addition, Mr. Blessing is eligible to receive an annual target bonus of $415,000 based on the achievement of individual and company objectives. On June 7, 2018, in accordance with the terms of his Employment Agreement, Mr. Blessing was granted initial equity awards of (i) $2,175,000 worth of restricted stock units that will vest over four years with 25% vesting on the first annual anniversary of the vesting commencement date and 6.25% vesting thereafter on each quarterly anniversary of the vesting commencement date; and (ii) $2,175,000 worth of performance-based restricted stock units that will vest over three years with 50% vesting on each of the second and third annual anniversary of the vesting commencement date, subject to the achievement of certain performance criteria. Mr. Blessing's employment is at will and may be terminated at any time, with or without cause.
+Pursuant to the Employment Agreement, in exchange for a customary release of claims, upon a qualifying termination, which means a termination by us without "cause" or a termination by the executive officer for "good reason," outside of a "change in control" (each as defined in the Employment Agreement): (i) "accrued compensation" (as defined in the Employment Agreement), (ii) continued payment of the executive officer's then current base salary for twelve months and (iii) payment of premiums for continued medical benefits for eighteen months and then a series of taxable cash payments for a period of six months, will be paid by Model N. If the executive officer is subject to a qualifying termination within the 12 months following a change in control, the Employment Agreement provides the following benefits, which are in addition to the severance benefits mentioned in the preceding sentence, in exchange for a customary release of claims: (i)  payment of the executive officer's then current annual target bonus, and (ii) 100% acceleration of any then-unvested equity awards (and exercisability assuming that any performance goals were achieved at 100% of achievement).
+David Barter
+We entered into an offer letter agreement with Mr. Barter, our Senior Vice President and Chief Financial Officer, on May 7, 2017.  Pursuant to the offer letter, Mr. Barter's initial base salary was established at $310,000 per year.   In addition, Mr. Barter is eligible to receive an annual target bonus of $155,000 based on the achievement of company and personal objectives.  On May 22, 2017, in accordance with the terms of his offer letter, Mr. Barter was granted 9,606 RSUs that fully vested on October 31, 2017, 79,250 RSUs, which vest in four equal installments on each annual anniversary of the vesting commencement date, and 26,416 performance-based RSUs that will vest over three years with 50% vesting on the second and third annual anniversary of the vesting commencement date, subject to the achievement of certain performance criteria.  Mr. Barter's employment is at will and may be terminated at any time, with or without cause.
+Russell Mellott
+We entered into an offer letter agreement with Mr. Mellott, Senior Vice President, Chief Revenue Officer, on December 9, 2016.  Pursuant to the offer letter, Mr. Mellott's initial base salary was established at $300,000 per year.  In addition, Mr. Mellott is eligible to receive an annual variable compensation target bonus potential of approximately $250,000, subject to achievement of certain individual goals. On February 22, 2017, in accordance with the terms of his offer letter, Mr. Mellott was granted 11,351 RSUs that fully vested on May 15, 2017, 62,429 RSUs, which vest in four equal installments on each annual anniversary of the vesting commencement date, and 62,429 performance-based RSUs that will vest over three years with 50% vesting on the second and third annual anniversary of the vesting commencement date, subject to the achievement of certain performance criteria.  Mr. Mellott's employment is at will and may be terminated at any time, with or without cause.
+Mark Anderson
+  We entered into an offer letter agreement with Mr. Anderson, Senior Vice President, Customer Success, on March 30, 2016.  Pursuant to the offer letter, Mr. Anderson's initial base salary was established at $275,000 per year.  In addition, Mr. Anderson is eligible to receive an annual variable compensation target bonus potential of approximately $125,000 if 100% of personal assignment achievement is reached.  On May 12, 2016, in accordance with the terms of his offer letter, Mr. Anderson was granted 71,023 RSUs. 23,675 RSUs are time based, which vest in four equal installments on the annual anniversary of the vesting commencement date.  The remaining 47,348  RSUs are performance-based RSUs that will vest over three years with 50% vesting on the second and third annual anniversary of the vesting commencement date, subject to the achievement of certain performance criteria.  Mr. Anderson's employment is at will and may be terminated at any time, with or without cause.
+Neeraj Gokhale
+  We entered into an offer letter agreement with Mr. Gokhale, Senior Vice President, Chief Product Officer, on July 25, 2017.  Pursuant to the offer letter, Mr. Gokhale's initial base salary was established at $300,000 per year.  In addition, Mr. Gokhale is eligible to receive an annual variable compensation target bonus potential of approximately $150,000 if 100% of personal assignment achievement is reached.   On September 8, 2017, in accordance with the terms of his offer letter, Mr. Gokhale was granted RSUs with a value of $750,000 USD and Performance-Based RSUs with a value of $250,000. The RSUs are time based which vest in four equal installments on the annual anniversary of the vesting commencement date.  The Performance-Based RSUs vest over three years with 50% vesting on the second and third annual anniversary of the vesting commencement date, subject to the achievement of certain performance criteria.  Mr. Gokhale's employment is at will and may be terminated at any time, with or without cause.
+Zack Rinat 
+On May 6, 2018, in connection with the appointment of Mr. Blessing, Mr. Rinat resigned as interim Chief Executive Officer and as a director, in each case, effective May 10, 2018. In connection with the transition of the Chief Executive Officer role, Model N entered into a transition letter agreement with Mr. Rinat, pursuant to which he provided transition advisory services to Model N for 90 days in exchange for continued payment of health benefits through such period and, subject to the performance of his transition services and release and waiver of claims, Mr. Rinat (i) will receive continued health benefits through May 10, 2020, subject to certain exceptions, and (ii) received newly issued shares of Model N's common stock having an aggregate value of $10.3 million, which reflects the Board's determination, in consultation with compensation advisors, of Mr. Rinat's total compensation based on his performance under his existing equity grants, including his significant contributions to Model N, in each case, since February 2016 through the end of his advisory services. Mr. Rinat's unvested equity from prior grants were cancelled.
+Change in Control
+Generally, our equity award agreements with each of our named executive officers provide for acceleration of vesting of 100% of the unvested shares of our common stock underlying such equity awards in the event of an involuntary termination of employment (as such term is defined in the stock option agreement) within 12 months following a change in control in our company. In addition, our equity award agreements with our non-employee directors generally provide for acceleration of vesting of 100% of the unvested shares of our common stock underlying such equity awards in the event of a change in control of our company. In the event one of our named executive officers was terminated, he would also be able to exercise any previously vested stock options that he held.
+In addition to our equity award agreements, our standard form of Change in Control and Severance Agreement ("Severance Agreement") with each of our named executive officers provide that in exchange for a customary release of claims, upon a qualifying termination, which means a termination by us without "cause" or a termination by the executive officer for "good reason," outside of a "change in control" (each as defined in the Severance Agreement): (i) a lump sum severance payment of six months of base salary and (ii) payment of premiums for continued medical benefits (or equivalent cash payment if applicable law so requires) for up to six months will be paid by Model N. If the executive officer is subject to a qualifying termination within the 12 months following a change in control, the Severance Agreement provides the following benefits to such individual in exchange for a customary release of claims: (i) a lump sum severance payment of six months base salary, (ii) 100% acceleration of any then-unvested equity awards and (iii) payment of premiums for continued medical benefits (or equivalent cash payment if applicable law so requires) for up to six months. SUMMARY COMPENSATION TABLE
+The following table provides information regarding all plan and non-plan compensation awarded to, earned by or paid to each of our named executive officers during the fiscal years ended September 30, 2018, 2017 and 2016, as applicable.
+[BEGIN TABLE]
+Name and Principal Position Fiscal Year   Base Salary ($)   Bonus ($)(1)   Stock Awards ($) (2) (3)   Option Awards ($)   All Other Compensation ($)   Total ($) 
+Jason Blessing 2018   $ 161,913     $ 163,036     $ 5,360,678     $ —     $ 2,954   (4)  $ 5,688,581   
+Chief Executive Officer and Member of the Board2017   $ —     $ —     $ —     $ —     $ —     $ —   
+Chief Executive Officer and Member of the Board2017   $ —     $ —     $ —     $ —     $ —     $ —   
+David Barter 2018   $ 310,000     $ 155,000     $ 637,990     $ —     $ —     $ 1,102,990   
+Senior Vice President and Chief Financial Officer2017   $ 122,121     $ 61,250     $ 1,708,542     $ —     $ —     $ 1,891,913   
+  2016(5)   $ —     $ —     $ —     $ —     $ —     $ —   
+Senior Vice President and Chief Revenue Officer2017   $ 223,750     $ 106,998     $ 1,861,209     $ —     $ —     $ 2,191,957   
+  2016(5)   $ —     $ —     $ —     $ —     $ —     $ —   
+Mark Anderson(6) 2018   $ 300,000     $ 130,222     $ 411,596     $ —     $ —     $ 841,818   
+Senior Vice President, Global Services                           
+Neeraj Gokhale(6) 2018   $ 300,000     $ 150,000     $ 362,185             $ 812,185   
+Senior Vice President and Chief Product Officer                          
+Zack Rinat 2018   $ 1     $ —     $ 10,535,858     $ —     $ —     $ 10,535,859   
+Former Chief Executive Officer and Former Chairman of the Board2017   $ 1     $ —     $ 4,259,520     $ —     $ —     $ 4,259,521   
+Former Chief Executive Officer and Former Chairman of the Board2017   $ 1     $ —     $ 4,259,520     $ —     $ —     $ 4,259,521   
+  2016   $ 1     $ —     $ 1,697,000     $ —     $ —     $ 1,697,001   
+      Estimated Future Payouts Under Equity Incentive Plan Awards         
+Name Grant Date   Target (#)   Maximum (#)   All Other Stock Awards; Numbers of Shares of Stock or Units (#)   Grant Date Fair Value of Stock Awards ($) (1) 
+Jason Blessing 6/7/2018   120,913   241,826   120,913   $ 5,360,678   
+David Barter 3/10/2018   14,048   28,096   14,048   $ 637,990   
+Russell Mellott 3/10/2018   12,084   24,168   12,084   $ 548,795   
+Neeraj Gokhale 3/10/2018   7,975   15,950   7,975   $ 362,185   
+Mark Anderson 3/10/2018   9,063   18,126   9,063   $ 411,596   
+Zack Rinat 6/7/2018   —   —   572,601   $ 10,535,858   
+[END TABLE]
+(1) The amounts reported in this column represent the aggregate grant date fair value of stock awards granted under our 2013 Equity Incentive Plan to our named executive officers during the fiscal year ended September 30, 2018 as computed in accordance with Accounting Standards Codification Topic 718. The assumptions used in calculating the dollar amount recognized for financial statement reporting purposes of the equity awards reported in this column are set forth in Note 9 to our consolidated financial statements included in our fiscal year 2018 Annual Report on Form 10-K. Note that the amounts reported in this column reflect the accounting cost for these equity awards, and do not correspond to the actual economic value that may be received by our named executive officers from the equity awards. Outstanding Equity Awards at 2018 Fiscal Year-End Table
+The following table provides information regarding outstanding RSUs held by our current named executive officers as of September 30, 2018.
+[BEGIN TABLE]
+    Stock Awards 
+Name Grant Date   Number of Shares or Units of Stock That Have Not Vested   Market Value of Shares or Units of Stock that Have Not Vested (1)   Equity Incentive Plan Awards: Number of Unearned Shares, Units or Other Rights That Have Not Vested (#)   Equity Incentive Plan Awards: Market or Payout Value of Unearned Shares, Units or Other Rights That Have Not Vested ($) (1) 
+Jason Blessing 6/7/2018(2)     120,913     $ 1,916,471     —     $ —   
+  6/7/2018(3)     —     $ —     120,913     $ 1,916,471   
+David Barter 5/22/2017 (4)     59,437     $ 942,076     —     $ —   
+  3/10/2018 (5)     12,292     $ 194,828     —     $ —   
+  5/22/2017 (3)     —     $ —     26,416     $ 418,694   
+  3/10/2018 (3)     —     $ —     14,048     $ 222,661   
+Russell Mellott 2/22/2017 (4)     46,821     $ 742,113     —     $ —   
+  3/10/2018 (5)     10,572     $ 167,566     —     $ —   
+  2/22/2017 (3)     —     $ —     62,429     $ 989,500   
+  3/10/2018 (3)     —     $ —     12,084     $ 191,531   
+Neeraj Gokhale 9/8/2017(4)     42,452     $ 672,864     —     $ —   
+  3/10/2018 (5)     6,977     $ 110,585     —     $ —   
+  9/8/2017(3)     —     $ —     18,867     $ 299,042   
+  3/10/2018 (3)     —     $ —     7,975     $ 126,404   
+Mark Anderson 5/12/2016(4)     11,837     $ 187,616     —     $ —   
+  5/22/2017(4)     18,750     $ 297,188     —     $ —   
+  3/10/2018 (5)     7,929     $ 125,675     —     $ —   
+  5/12/2016(3)     —     $ —     23,674     $ 375,233   
+  5/22/2017(3)     —     $ —     8,333     $ 132,078   
+  3/10/2018 (3)     —     $ —     9,063     $ 143,649   
+Zack Rinat(6) —     —     —     —     —   
+[END TABLE]
+___________________________
+[BEGIN TABLE]
+(1) The market value of unvested shares is calculated by multiplying the number of unvested shares held by the applicable named executive officer by the closing price of our common stock on September 28, 2018, which was $15.85. 
+(2) The shares subject to this RSU award vest as to 25% on the first annual anniversary of the vesting commencement date and 6.25% vesting thereafter on each quarterly anniversary of the vesting commencement date. 
+(3)  The shares subject to this performance-based RSU award vest as to 50% on the second and third annual anniversaries of the vesting commencement date based on the performance of our stock price relative to the Russell 3000 Index. 
+(4) The shares subject to this RSU award vest as to 25% on each annual anniversary of the vesting commencement date. 
+(5) The shares subject to this RSU award vest as 6.25% on each quarterly anniversary of the vesting commencement date. 
+(6) Effective May 10, 2018, Mr. Blessing succeeded Zack Rinat as Chief Executive Officer of the Company. Also effective that date, Mr. Rinat resigned from the board of directors.  See the Management Transition section above describing the forfeiture of Mr. Rinat's awards upon his resignation. 
+[END TABLE]
+ Stock Vested During Fiscal Year 2018 
+The following table provides information related to the vesting of RSUs held by our named executive officers during fiscal year 2018. Our named executive officers did not exercise any options during fiscal year 2018.
+[BEGIN TABLE]
+  Stock Awards 
+Name Number of Shares Acquired on Vesting (#)   Value Realized on Vesting ($) (1) 
+Jason Blessing —     —   
+David Barter 31,175     $ 516,040   
+Russell Mellott 17,120     $ 304,042   
+Neeraj Gokhale 22,696     $ 373,630   
+Mark Anderson 45,499     $ 808,923   
+Zack Rinat 847,487     $ 15,442,574   
+[END TABLE]
+_________________________
+[BEGIN TABLE]
+(1) The aggregate value realized upon the vesting of an RSU represents the aggregate market price of the shares of our common stock on the date of vesting. 
+(2) Includes the 572,601 shares of newly issued shares of common stock awarded pursuant to Mr. Rinat's transition letter agreement. 
+[END TABLE]
+ COMPENSATION COMMITTEE REPORT
+The information contained in this report will not be deemed to be "soliciting material" or to be "filed" with the SEC, nor will such information be incorporated by reference into any future filing under the Securities Act or the Exchange Act, except to the extent that we specifically incorporate it by reference in such filing.
+In reliance on the reviews and discussions referred to above and the review and discussion of the section captioned "Compensation Discussion and Analysis" with our management, our Compensation Committee has recommended to our Board of Directors that the section captioned "Compensation Discussion and Analysis" be included in this proxy statement and incorporated by reference into our Annual Report on Form 10-K.
+[BEGIN TABLE]
+COMPENSATION COMMITTEE 
+Alan Henricks 
+Baljit Dail 
+[END TABLE]
+ EQUITY COMPENSATION PLAN INFORMATION
+Securities Authorized for Issuance Under Equity Compensation Plans
+The following table includes information as of September 30, 2018 for equity compensation plans:
+[BEGIN TABLE]
+Plan Category Number of securities to be issued upon exercise of outstanding options, warrants and rights   Weighted-average exercise price of outstanding options, warrants and rights   Number of securities remaining available for future issuance under equity compensation plans 
+Equity compensation plans approved by security holders(1) 2,540,345   7.64 (2)   6,989,516 (3) 
+Equity compensation plans not approved by security holders n/a   n/a   n/a 
+Total 2,540,345   7.64   6,989,516 
+[END TABLE]
+____________________
+[BEGIN TABLE]
+(1) Excludes purchase rights accruing under our 2013 Employee Stock Purchase Plan and includes 2,313,835 shares subject to RSUs. 
+(2) The weighted average exercise price relates solely to outstanding stock option shares since shares subject to RSUs have no exercise price. 
+(3) Includes 1,741,769 shares of common stock that remain available for purchase under the 2013 Employee Stock Purchase Plan, 4,610,066 shares of common stock that remain available for purchase under our 2013 Equity Incentive Plan, and 637,681 shares of common stock reserved for issuance pursuant to the vesting of performance-based RSUs and subject to the achievement of certain performance criteria. Additionally, our 2013 Employee Stock Purchase Plan provides for automatic increases in the number of shares available for issuance under it on October 1 of each year during the term of the 2013 Employee Stock Purchase Plan by the number of shares equal to 2% of the total number of outstanding shares of our common stock on the immediately preceding September 30th (rounded down to the nearest whole share). 
+[END TABLE]
+ SECURITY OWNERSHIP OF CERTAIN BENEFICIAL OWNERS AND MANAGEMENT
+The following table sets forth, as of December 18, 2018, certain information regarding beneficial ownership of our common stock (a) by each person known by us to be the beneficial owner of more than five percent of the outstanding shares of common stock, (b) by each director and nominee for director, (c) by named executive officers (as defined in "Executive Compensation" above) and (d) by all of our current executive officers and directors as a group.
+We have determined beneficial ownership in accordance with the rules of the SEC. Except as indicated by the footnotes below, we believe, based on the information furnished to us, that the persons and entities named in the table below have sole voting and investment power with respect to all shares of common stock that they beneficially own, subject to applicable community property laws.
+Applicable percentage ownership is based on 31,530,792 shares of common stock outstanding at December 18, 2018. In computing the number of shares of common stock beneficially owned by a person and the percentage ownership of that person, we deemed to be outstanding all shares of common stock subject to options and RSUs held by that person or entity that are currently exercisable or releasable, or that will become exercisable or releasable within 60 days of December 18, 2018. We did not deem these shares outstanding, however, for the purpose of computing the percentage ownership of any other person. Unless otherwise indicated, the address of each beneficial owner listed in the table below is c/o Model N, Inc., 777 Mariners Island Boulevard, Suite 300, San Mateo, California 94404.
+[BEGIN TABLE]
+  Shares Beneficially Owned (as of December 18, 2018) 
+  Number   Percent 
+Named Executive Officers, Directors and Director Nominees:       
+Jason Blessing(1) 4,093     * 
+David Barter(2) 23,618     * 
+Russell Mellott(3) 50,274     * 
+Mark Anderson(4) 43,303     * 
+Neeraj Gokhale(5) 16,981     * 
+Tim Adams(6) 26,628     * 
+Baljit Dail(7) 18,729     * 
+Melissa Fisher(8) 30,589     * 
+Alan Henricks(9) 40,778     * 
+Charles Robel(10) 118,294     * 
+Dave Yarnold(11) 1,759     * 
+All directors and executive officers as a group (12 persons):(12) 375,046     1.2% 
+5% Stockholders:       
+Zack Rinat(13) 3,115,747     9.9% 
+Joshua Schwartz(14) 2,476,092     7.9% 
+FIAM, LLC(15) 2,126,685     6.7% 
+BlackRock Fund Advisors(16) 1,841,660     5.8% 
+* Represents beneficial ownership of less than 1% of our outstanding shares of common stock. 
+(1) Consists of 4,093 shares subject to RSUs held by Mr. Blessing that will vest within 60 days of December 18, 2018. 
+(2) Consists of 20,591 shares held by Mr. Barter and 3,027 shares subject to RSUs held by Mr. Barter that will vest within 60 days of December 18, 2018. 
+(3) Consists of 32,592 shares held by Mr. Mellott and 17,682 shares subject to RSUs held by Mr. Mellott that will vest within 60 days of December 18, 2018. 
+(4) Consists of 35,511 shares held by Mr. Anderson and 7,792 shares subject to RSUs held by Mr. Anderson that will vest within 60 days of December 18, 2018. 
+(5) Consists of 14,763 shares held by Mr. Gokhale and 2,218 shares subject to RSUs held by Mr. Gokhale that will vest within 60 days of December 18, 2018. 
+(6) Consists of 24,313 shares held by Mr. Adams and 2,315 shares subject to RSUs held by Mr. Adams that will vest within 60 days of December 18, 2018. 
+(7) Consists of 16,542 shares held by Mr. Dail, and 2,187 shares subject to RSUs held by Mr. Dail that will vest within 60 days of December 18, 2018. 
+[END TABLE]
+[BEGIN TABLE]
+(8) Consists of 28,338 shares held by Ms. Fisher, and 2,251 shares subject to RSUs held by Ms. Fisher that will vest within 60 days of December 18, 2018. 
+(9) Consists of 38,430 shares held by Mr. Henricks and 2,348 shares subject to RSUs held by Mr. Henricks that will vest within 60 days of December 18, 2018. 
+(10) Consists of 82,179 shares held by Mr. Robel, 33,333 shares subject to options held by Mr. Robel that are exercisable within 60 days of December 18, 2018, and 2,782 shares subject to RSUs held by Mr. Robel that will vest within 60 days of December 18, 2018. 
+(11) Consists of 1,759 shares subject to RSUs held by Mr. Yarnold that will vest within 60 days of December 18, 2018. 
+(12) Consists of 293,259 shares held by our directors and executive officers as a group and 81,787 shares subject to RSUs that will vest and options exercisable within 60 days of December 18, 2018 held by our directors and executive officers as a group. 
+(13) Consists of 2,302,174 shares held by Mr. Rinat; 26,907 shares by GADD, Inc. and 786,666 shares held of record by Mr. Rinat and Orli Rinat, trustees of the Rinat Family 2006 Trust Dated December 13, 2006. Mr. Rinat is the sole director and the Chief Executive Officer of GADD, Inc. Mr. Rinat and Orli Rinat are trustees of the Rinat Family 2006 Trust Dated December 13, 2006. This trust is the sole shareholder of GADD, Inc. Accordingly, Mr. Rinat may be deemed the beneficial owner of all shares held by this trust and GADD, Inc. 
+(14) Based on Schedule 13D filed on December 10, 2018 with the SEC. Consists of (i) 91,000 shares of common stock held by Joshua Schwartz ; (ii) 396,652 shares of common stock held by JL Nominees Pty Ltd ("JLN"); 571,021 shares of common stock held by LL Nominees Pty Ltd  ("LLN"); 1,417,419 shares of common stock held by NL Nominees Pty Ltd ("NLN").  JLN is a proprietary company which acts as the trustee for the Justin Liberman Family Trust.  LLN is a proprietary company which acts as the trustee for the Laini Liberman Family Trust.  NLM is a proprietary company which acts as the trustee for the Nic Liberman Family Trust.   Justin Liberman ("JL"), Laini Liberman ("LL") and Nic Liberman ("NL") are each the Director of JLN, LLN and NLN, respectively. Each of JL, LL and NL has the power to vote and dispose of the securities owned by JLN, LLN and NLN, respectively.  Accordingly, each of JL, LL and NL is deemed to beneficially own the securities owned by JLN, LLN and NLN, respectively. Joshua Schwartz is serving as advisor to each of JLN, LLN and NLN in regard to the Common Stock owned by it. As advisor, Mr. Schwartz has assisted in the selection, timing, sizing and duration of each such proprietary company's investment in the common stock.   The address of Joshua M. Schwartz is c/o the Law Office of Matthew J. Day PLLC, 120 W. 45th Street, Suite 3600, New York, NY  10036. 
+(15) Based on information obtained from our investor relations firm. We do not have any additional information on the holder regarding the names of the natural persons with voting and dispositive power over such shares. The address of FIAM, LLC is 900 Salem Street, Smithfield, RI 02917. 
+(16) Based on information obtained from our investor relations firm. We do not have any additional information on the holder regarding the names of the natural persons with voting and dispositive power over such shares. The address of BlackRock Fund Advisors is 400 Howard Street, San Francisco, CA 94105. 
+[END TABLE]
+ SECTION 16(a) BENEFICIAL OWNERSHIP REPORTING COMPLIANCE
+Section 16(a) of the Securities Exchange Act of 1934, as amended ("Exchange Act"), requires that our executive officers and directors, and persons who own more than 10% of our common stock, file reports of ownership and changes of ownership with the SEC. Such directors, executive officers and 10% stockholders are required by SEC regulations to furnish us with copies of all Section 16(a) forms they file.
+SEC regulations require us to identify in this proxy statement anyone who filed a required report late during the most recent fiscal year. Based on our review of forms we received, or written representations from reporting persons stating that they were not required to file these forms, we believe that during fiscal year 2018, all Section 16(a) filing requirements were satisfied on a timely basis. ADDITIONAL INFORMATION
+Stockholder Proposals for 2020 Annual Meeting
+Any stockholder who wishes to submit a proposal for inclusion in our proxy materials must comply with Rule 14a-8 promulgated under the Exchange Act. For such proposals to be included in our proxy materials relating to our 2020 Annual Meeting of Stockholders, all applicable requirements of Rule 14a-8 must be satisfied and we must receive such proposals no later than September 5, 2019. Such proposals must be delivered to the Corporate Secretary of Model N at the address listed on the front page.
+Proposals of stockholders that are not eligible for inclusion in the Proxy Statement and proxy for our 2020 Annual Meeting of Stockholders, or that concern one or more nominations for Directors at the meeting, must comply with the procedures, including minimum notice provisions, contained in our Bylaws. Notice must be received by the Corporate Secretary of Model N at the address listed on the front page, no earlier than November 2, 2019 and no later than December 2, 2019.
+However, if the date of our 2020 Annual Meeting of Stockholders is advanced by more than 30 days prior to, or delayed by more than 60 days after, the one-year anniversary of the date of the previous year's annual meeting, then, for notice to the stockholder to be timely, it must be so received by the Corporate Secretary at the address listed on the front page not earlier than the close of business on the 105th day prior to such annual meeting and not later than the close of business on the later of (1) the 75th day prior to such annual meeting, or (2) the tenth day following the day on which public announcement of the date of such annual meeting is first made.
+A copy of the pertinent provisions of the Bylaws is available upon request to the Corporate Secretary of Model N at the address listed on the front page.
+Solicitation of Proxies
+We will bear the expense of preparing, printing and distributing proxy materials to our stockholders. In addition to solicitations by mail, there may be incidental personal solicitation at nominal cost by directors, officers, employees or our agents. We will also reimburse brokerage firms and other custodians, nominees and fiduciaries for their reasonable out-of-pocket expenses in forwarding proxy materials to beneficial owners of our common stock for which they are record holders.
+Fiscal Year 2018 Annual Report on Form 10-K
+A copy of our Annual Report on Form 10-K for the fiscal year ended September 30, 2018 and our 2019 proxy statement, each as filed with the SEC, is available, without charge, by mailing a request to Investor Relations, Model N, Inc., 777 Mariners Island Boulevard, Suite 300, San Mateo, California 94404. The Annual Report on Form 10-K and proxy statement are also available at the web address shown on the Notice of Annual Meeting of Stockholders and under the "Investors" section on our website at: http://investor.modeln.com/annual-meeting/Index?KeyGenPage=1073749823.
+OTHER MATTERS
+We know of no other matters that are likely to be brought before the meeting. If, however, other matters that are not now known or determined come before the meeting, the persons named in the enclosed proxy or their substitutes will vote such proxy in accordance with their discretion.
+MODEL N, INC.
+January 3, 2019
+San Mateo, California  
+ 

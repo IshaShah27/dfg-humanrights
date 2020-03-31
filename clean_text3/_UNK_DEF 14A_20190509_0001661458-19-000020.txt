@@ -1,0 +1,431 @@
+
+UNITED STATES
+SECURITIES AND EXCHANGE COMMISSION
+Washington, D.C. 20549
+SCHEDULE 14A
+(Rule 14a-101)
+Proxy Statement Pursuant to Section 14(a) of the 
+Securities Exchange Act of 1934
+(Amendment No.               )
+Filed by the Registrant  x                            Filed by a Party other than the Registrant  ¨
+Check the appropriate box: 
+[BEGIN TABLE]
+¨ Preliminary Proxy Statement 
+¨ Confidential, For Use of the Commission Only (as permitted by Rule 14a-6(e)(2)) 
+x Definitive Proxy Statement 
+¨ Definitive Additional Materials 
+¨ Soliciting Material Pursuant to §240.14a-12 
+[END TABLE]
+HIGHLANDS REIT, INC.
+(Name of Registrant as Specified in Its Charter)
+(Name of Person(s) Filing Proxy Statement, if Other Than the Registrant)
+Payment of Filing Fee (Check the appropriate box):
+[BEGIN TABLE]
+x No fee required. 
+¨ Fee computed on table below per Exchange Act Rules 14a-6(i) (1) and 0-11. 
+(1) Title of each class of securities to which transaction applies: 
+(2) Aggregate number of securities to which transaction applies: 
+(3) Per unit price or other underlying value of transaction computed pursuant to Exchange Act Rule 0-11 (set forth the amount on which the filing fee is calculated and state how it was determined): 
+(4) Proposed maximum aggregate value of transaction: 
+(5) Total fee paid: 
+¨ Fee paid previously with preliminary materials: 
+¨ Check box if any part of the fee is offset as provided by Exchange Act Rule 0-11(a)(2) and identify the filing for which the offsetting fee was paid previously.  Identify the previous filing by registration statement number, or the form or schedule and the date of its filing. 
+(1) Amount previously paid: 
+(2) Form, Schedule or Registration Statement No.: 
+(3) Filing Party: 
+[END TABLE]
+[BEGIN TABLE]
+(4) Date Filed: 
+[END TABLE]
+HIGHLANDS REIT, INC.
+332 S Michigan Avenue, Ninth Floor 
+Chicago, Illinois 60604
+NOTICE OF ANNUAL MEETING OF STOCKHOLDERS
+To Be Held on Thursday, May 9, 2019
+NOTICE IS HEREBY GIVEN that the 2019 Annual Meeting of Stockholders (the "Annual Meeting") of Highlands REIT, Inc. ("Highlands"), a Maryland corporation, will be held at the Hilton Denver City Center, 1701 California Street, Denver, CO 80202, on Thursday, May 9, 2019, at 9:00 a.m., local time, for the following purposes:
+[BEGIN TABLE]
+1. To consider and vote upon the election of three directors that will hold office until the 2020 annual meeting of stockholders and until their respective successors have been duly elected and qualify; 
+2. To consider and vote upon the ratification of the appointment of KPMG LLP as Highlands' independent registered public accounting firm for the fiscal year ending December 31, 2019; and 
+3. To transact any other business as properly may come before the Annual Meeting or any postponement or adjournment thereof. 
+[END TABLE]
+Stockholders of record at the close of business on March 8, 2019 are entitled to receive notice of and to vote at the Annual Meeting and any adjournment or postponement thereof. If you wish to attend the Annual Meeting, please register by May 2, 2019 by contacting Highlands at Inquiries@HighlandsREIT.com.
+In seeking to reduce costs, we are primarily furnishing proxy materials to our stockholders electronically as permitted by the U.S. Securities and Exchange Commission. Unless an election has been affirmatively made to receive printed paper copies of the materials by mail, stockholders will receive a Notice of Internet Availability of Proxy Materials with instructions for accessing the proxy materials free of charge over the Internet.
+By Order of the Board of Directors
+/s/ Robert J. Lange
+Robert J. Lange
+Executive Vice President, General Counsel and Secretary
+Chicago, Illinois
+March 22, 2019
+IMPORTANT NOTICE REGARDING THE AVAILABILITY OF PROXY MATERIALS:
+The proxy statement for the Annual Meeting and the Annual Report for the fiscal year ended December 31, 2018 are available free of charge at www.proxy-direct.com/hig-30486.
+The Board of Directors urges you to authorize proxies to vote your shares by telephone or via the Internet prior to the Annual Meeting. If you received your proxy materials by mail, you may submit your proxy or voting instructions on the Internet or by telephone, or you may submit your proxy by completing and mailing the enclosed proxy card/voting instruction form.
+TABLE OF CONTENTS
+[BEGIN TABLE]
+ARTICLE I: PROXY MATERIALS AND ANNUAL MEETING         1 
+  QUESTIONS AND ANSWERS ABOUT THE PROXY MATERIALS AND THE ANNUAL MEETING     1 
+ARTICLE II: CORPORATE GOVERNANCE     6 
+  PROPOSAL 1 - ELECTION OF DIRECTORS 6 
+  OUR BOARD OF DIRECTORS     6 
+    Directors Standing for Re-Election 6 
+    Family Relationships 7 
+    Board Leadership 7 
+    Role of our Board of Directors in Risk Oversight 7 
+    Board Committees     8 
+    Code of Ethics and Business Conduct 9 
+    Communicating with Directors     9 
+    Compensation of Directors     9 
+    2018 Non-Employee Director Compensation Table 10 
+  OUR EXECUTIVE OFFICERS 10 
+ARTICLE III: EXECUTIVE COMPENSATION 12 
+  Summary Compensation Table 12 
+  Narrative Disclosure to Summary Compensation Table 13 
+    Base Salaries   13 
+    2018 Bonuses   13 
+    Equity Compensation   14 
+    Other Elements of Compensation   14 
+  Retention Bonus Plan         15 
+  Other Actions following End of Fiscal Year   15 
+ARTICLE IV: INDEPENDENT REGISTERED PUBLIC ACCOUNTING FIRM 16 
+  PROPOSAL 2 - RATIFICATION OF APPOINTMENT OF THE INDEPENDENT REGISTERED PUBLIC ACCOUNTING FIRM 16 
+  INDEPENDENT REGISTERED PUBLIC ACCOUNTING FIRM'S FEES 16 
+ARTICLE V: REPORT OF THE AUDIT COMMITTEE OF THE BOARD OF DIRECTORS 17 
+ARTICLE VI: STOCK     18 
+  SECURITY OWNERSHIP OF CERTAIN BENEFICIAL OWNERS AND MANAGEMENT 18 
+  SECTION 16(a) BENEFICIAL OWNERSHIP REPORTING COMPLIANCE 18 
+ARTICLE VII: MISCELLANEOUS 19 
+  AVAILABILITY OF ANNUAL REPORT ON FORM 10-K 19 
+  HOUSEHOLDING 19 
+  ATTENDING THE MEETING 19 
+  OTHER MATTERS THAT MAY COME BEFORE THE ANNUAL MEETING     19 
+[END TABLE]
+HIGHLANDS REIT, INC.
+332 S Michigan Avenue, Ninth Floor 
+Chicago, Illinois 60604
+PROXY STATEMENT
+FOR THE 2019 ANNUAL MEETING OF STOCKHOLDERS
+To Be Held on Thursday, May 9, 2019
+The board of directors of Highlands REIT, Inc. (referred to herein as "Highlands," "we," "us" or the "Company") solicits your proxy to vote at the 2019 Annual Meeting of Stockholders (the "Annual Meeting") to be held on Thursday, May 9, 2019, beginning at 9:00 a.m., local time, at the Hilton Denver City Center, 1701 California Street, Denver, CO 80202, and at any postponements or adjournments thereof.
+IMPORTANT NOTICE REGARDING THE AVAILABILITY OF PROXY MATERIALS:
+Pursuant to the rules and regulations of the U.S. Securities and Exchange Commission (the "SEC"), we are primarily furnishing proxy materials to our stockholders via the Internet, rather than mailing paper copies of the materials. Internet distribution of the proxy materials is designed to expedite receipt by stockholders and lower costs.
+This proxy statement for the Annual Meeting and the Annual Report for the fiscal year ended December 31, 2018, are available free of charge at www.proxy-direct.com/hig-30486.
+Beginning on or about March 22, 2019, we mailed a Notice of Internet Availability of Proxy Materials (the "Notice") to our stockholders as of the close of business on March 8, 2019, which contained instructions on how to access and review proxy materials, including our proxy statement and our Annual Report for the fiscal year ended December 31, 2018, and how to submit proxies or voting instructions via the Internet.
+ARTICLE I: PROXY MATERIALS AND ANNUAL MEETING
+QUESTIONS AND ANSWERS ABOUT THE PROXY MATERIALS AND THE ANNUAL MEETING
+[BEGIN TABLE]
+1. Q:    Why did I receive a notice in the mail regarding the Internet availability of the proxy materials? 
+A: The board of directors of Highlands is delivering or providing access to proxy materials to its stockholders in connection with its solicitation of proxies to vote at the Annual Meeting and at any adjournment or postponement thereof. 
+[END TABLE]
+The SEC has adopted rules permitting the electronic delivery of proxy materials. In accordance with those rules, we have elected to provide access to our proxy materials, which include the Notice of Annual Meeting of Stockholders, this proxy statement and our Annual Report for the fiscal year ended December 31, 2018, at www.proxy-direct.com/hig-30486. We sent the Notice to our stockholders of record and beneficial owners as of the close of business on March 8, 2019, directing them to a website where they can access the proxy materials and view instructions on how to authorize proxies to vote their shares over the Internet or by telephone. If you received a Notice but would like to request paper copies of our proxy materials going forward, you may still do so by following the instructions described in the Notice.
+Choosing to receive your proxy materials over the Internet will help reduce the costs associated with the printing and mailing of the proxy materials to you. Unless you affirmatively elect to receive paper copies of our proxy materials in the future by following the instructions included in the Notice, you will continue to receive a Notice directing you to a website for electronic access to our proxy materials.
+[BEGIN TABLE]
+2. Q:    When and where is the Annual Meeting? 
+A: The Annual Meeting will be held at the Hilton Denver City Center, 1701 California Street, Denver, CO 80202, on Thursday, May 9, 2019, at 9:00 a.m., local time. 
+3. Q:    What is the purpose of the Annual Meeting? 
+A: At our Annual Meeting, stockholders will act upon the matters outlined in this proxy statement and in the Notice of Annual Meeting of Stockholders included with this proxy statement, including the election of directors, the ratification of KPMG LLP ("KPMG") as our independent registered public accounting firm and such other matters as may properly come before the meeting or any postponement or adjournment thereof. 
+4. Q:    How can I attend the Annual Meeting? 
+A: Only stockholders of record as of the close of business on March 8, 2019, the record date, or their duly authorized proxies, will be entitled to attend the Annual Meeting. To gain admittance, you must present valid photo identification (such as a valid driver's license or passport). We would appreciate stockholders who intend to attend the Annual Meeting in person registering by May 2, 2019 by contacting Highlands at Inquiries@HighlandsREIT.com. 
+[END TABLE]
+If you are a beneficial owner of shares of Highlands common stock and your shares are held in a brokerage account or by another nominee as further described in Question 6 below, you will be admitted to the Annual Meeting only if you present proof of your ownership of our common stock as of the close of business on March 8, 2019, such as a bank or brokerage account statement. In order to vote at the Annual Meeting, however, you will need to obtain a legal proxy from your broker or other nominee, as further described in Question 7 below. 
+If you are a representative of a corporate or institutional stockholder, you must present valid photo identification, along with proof that you are a representative of such stockholder.
+If you plan to attend the Annual Meeting, please register in advance by contacting Highlands at Inquiries@HighlandsREIT.com by May 2, 2019.
+No cameras, recording devices, other electronic devices or large packages will be permitted at the Annual Meeting. 
+[BEGIN TABLE]
+5. Q:    What should I do if I receive more than one Notice or set of proxy materials? 
+A: You may receive more than one Notice or set of proxy materials. For example, if you hold your shares in more than one brokerage account, or if you are a stockholder of record and your shares are registered in more than one name, you will receive more than one Notice or set of proxy materials. Please be sure to submit your proxy or voting instructions for each account in which you hold shares. 
+6. Q:    What is the difference between holding shares as a record holder versus a beneficial owner? 
+A: Many Highlands stockholders hold their shares through a broker or other nominee rather than directly in their own name. There are some distinctions between shares held of record and those owned beneficially: 
+[END TABLE]
+Record Holders: If your shares are registered directly in your name with our transfer agent, you are considered, with respect to those shares, the stockholder of record or record holder. As the stockholder of record, you have the right to grant your proxy directly to Highlands or to vote in person at the Annual Meeting.
+Beneficial Owners: If your shares are held in a brokerage account or by another nominee, you are considered the beneficial owner of shares held in street name, and the Notice (or in some cases as described above, a full set of proxy materials) is being forwarded to you automatically, along with instructions from your broker, bank or other nominee. As a beneficial owner, you have the right to direct your broker, bank or other nominee how to vote and are also invited to attend the Annual Meeting. Since a beneficial owner is not the stockholder of record, you may not vote these shares in person at the meeting unless you obtain a "legal proxy" from the broker, bank or other nominee that holds your shares, giving you the right to vote the shares at the meeting. Your broker, bank or other nominee has provided voting instructions for you to use in directing how to vote your shares. If you do not provide specific voting instructions by the deadline set forth in the materials you receive from your broker, bank or other nominee, your broker, bank or other nominee can vote your shares with respect to "discretionary" items, but not with respect to "non-discretionary" items. The election of directors is considered a "non-discretionary" item, while the ratification of the appointment of our independent registered public accounting firm is considered a "discretionary" item. For "non-discretionary" items for which you do not give your broker instructions, the shares will be treated as broker non-votes. See Question 10 below for more information about broker non-votes.
+[BEGIN TABLE]
+7. Q:    Who can vote and how do I vote? 
+A: Only stockholders of record as of the close of business on March 8, 2019, the record date, will be entitled to notice of and to vote at the Annual Meeting. To ensure that your vote is recorded promptly, please authorize a proxy to vote your shares as soon as possible, even if you plan to attend the Annual Meeting in person. 
+[END TABLE]
+You may submit your proxy or voting instructions via the Internet or by telephone, which will ensure your shares are represented at the Annual Meeting. If you received your proxy materials by mail and you are a registered holder, you may submit your proxy or voting instructions on the Internet at www.proxy-direct.com or by telephone at 1-800-337-3503, or you may submit your proxy by completing and mailing the enclosed proxy card. If you do attend the Annual Meeting, you may withdraw your proxy should you wish to vote in person.
+Beneficial owners may submit voting instructions by telephone or Internet if their bank, broker or other nominee makes those methods available, in which case the bank, broker or other nominee will provide instructions for doing so. Please note, however, that if your shares are held of record by a broker, bank or other nominee and you wish to vote at the Annual Meeting, you must present a "legal proxy" from the broker, bank or other nominee that holds your shares, giving you the right to vote the shares at the meeting. You must also present a brokerage statement or letter from your broker, bank or other nominee that holds your shares demonstrating that you owned shares of Highlands common stock as of the close of business on March 8, 2019.
+For further instructions on voting, see the Notice. If you authorize a proxy to vote your shares by telephone, via the Internet or by returning your proxy card/voting instructions, the shares represented by the proxy will be voted in accordance with your instructions. If you attend the Annual Meeting, you may also submit your vote in person, and any previous proxies that you submitted will be superseded by the vote that you cast at the Annual Meeting.
+[BEGIN TABLE]
+8. Q:    What are my voting choices, and how many votes are required for approval or election? 
+[END TABLE]
+[BEGIN TABLE]
+A: In the vote on the election of director nominees identified in this proxy statement to serve until the 2020 annual meeting of stockholders and until their respective successors have been duly elected and qualify, stockholders may (1) vote in favor of all nominees or specific nominees or (2) withhold authority to vote for all nominees or specific nominees. A plurality of all the votes cast at the Annual Meeting shall be sufficient to elect a director. Each share entitles the holder thereof to vote for as many individuals as there are directors to be elected and for whose election the holder is entitled to vote. The board of directors unanimously recommends a vote FOR each of the nominees. 
+[END TABLE]
+In the vote on the ratification of the appointment of KPMG as Highlands' independent registered public accounting firm for fiscal year 2019, stockholders may (1) vote in favor of the ratification; (2) vote against the ratification; or (3) abstain from voting on the ratification. Ratification of the appointment of KPMG as our independent registered public accounting firm for 2019 will require the affirmative vote of a majority of the votes cast at the Annual Meeting; however, stockholder ratification is not required to authorize the appointment of KPMG as our independent registered public accounting firm. The board of directors unanimously recommends a vote FOR the ratification of the appointment of KPMG as our independent registered public accounting firm for 2019.
+[BEGIN TABLE]
+9. Q:    What is the effect of an "abstain" vote on the proposals to be voted on at the Annual Meeting? 
+A: An "abstain" or "withheld" vote with respect to any proposal is considered present and entitled to vote with respect to that proposal, but is not considered a vote cast with respect to that proposal. Therefore, an abstention or "withhold" will not have any effect on the election of directors or the ratification of the appointment of KPMG as our independent registered public accounting firm for 2019, but will be considered present for the purpose of determining the presence of a quorum. 
+10. Q:    What is the effect of a "broker non-vote" on the proposals to be voted on at the Annual Meeting? 
+A: A "broker non-vote" occurs if your shares are not registered in your name and you do not provide the record holder of your shares (usually a bank, broker, or other nominee) with voting instructions on a matter and the record holder is not permitted to vote on the matter without instructions from you. The election of directors is considered a "non-discretionary" item, so if you do not give your broker instructions, the shares will be treated as broker non-votes. The ratification of appointment of our independent registered public accounting firm is a "discretionary" item. As a result, the shares will not be treated as broker non-votes and brokers who do not receive instructions as to how to vote on this matter generally may vote on this matter in their discretion. 
+[END TABLE]
+A broker non-vote is considered present for purposes of determining whether a quorum exists, but is not considered a "vote cast" with respect to such matter. Because the election of directors requires a plurality of all the votes cast at a meeting of stockholders duly called and at which a quorum is present, broker non-votes will not have any effect on the election of directors.
+[BEGIN TABLE]
+11. Q:    Who counts the votes? 
+A: A representative of Georgeson LLC will act as the inspector of elections and will count the votes. 
+12. Q:    Revocation of proxy: May I change my vote after I return my proxy? 
+A: Yes, you may revoke your proxy if you are a record holder by filing written notice of revocation by May 6, 2019 with Highlands' secretary at our principal executive offices at 332 S Michigan Avenue, Ninth Floor, Chicago, Illinois 60604 or by voting in person at the Annual Meeting. 
+[END TABLE]
+If your shares are held in street name through a broker, bank, or other nominee, you need to contact such broker, bank, or other nominee regarding how to revoke your proxy.
+[BEGIN TABLE]
+13. Q:    What if I submit a proxy but do not specify a choice for a matter? 
+A: Unless you indicate otherwise, the persons named as proxies will vote your shares FOR all of the nominees for director named in this proxy statement and FOR the ratification of KPMG as our independent registered public accounting firm for fiscal year 2019. 
+14. Q:    What constitutes a quorum? 
+[END TABLE]
+[BEGIN TABLE]
+A: Presence at the Annual Meeting in person or by proxy of stockholders entitled to cast a majority of all the votes entitled to be cast at the Annual Meeting on any matter shall constitute a quorum, which is required for the Annual Meeting to be duly held and business to be conducted. Proxies received but marked as abstentions or broker non-votes will be included in the calculation of the number of votes considered to be present at the meeting for purposes of determining whether a quorum is present. 
+[END TABLE]
+If a quorum is not present in person or by proxy at the Annual Meeting as initially convened, the meeting may not be held or the chairman of the meeting may adjourn the meeting from time to time to a date not later than July 6, 2019 without notice other than announcement at the Annual Meeting. If a quorum is not established at the Annual Meeting (or any adjournment thereof), the current directors of the Company will continue as members of the board of directors until their respective successors are duly elected and qualify.
+[BEGIN TABLE]
+15. Q:    Where can I find the voting results of the Annual Meeting? 
+A: We will publish final results in a Current Report on Form 8-K within four business days after the Annual Meeting. 
+16. Q:    Who will pay the costs of soliciting these proxies? 
+A: We will bear the entire cost of solicitation of proxies, including preparation of, and any assembly, printing and mailing of, the Notice, this proxy statement and any additional information furnished to stockholders. Copies of solicitation materials will be furnished to banks, brokerage houses, fiduciaries and custodians holding shares of common stock beneficially owned by others to forward to such beneficial owners. We may reimburse persons representing beneficial owners of common stock for their reasonable costs of forwarding solicitation materials to such beneficial owners. Original solicitation of proxies may be supplemented by electronic means, mail, facsimile, telephone or personal solicitation by our directors, officers or other employees. No additional compensation will be paid to our directors, officers or other employees for such services. 
+[END TABLE]
+We have hired Georgeson LLC to assist in the solicitation of proxies at a base fee of $7,500, plus additional amounts, which will vary depending upon the extent of services actually performed, plus reimbursement for reasonable out-of-pocket expenses.
+[BEGIN TABLE]
+17. Q:    What happens if additional matters are presented at the Annual Meeting? 
+A: Other than the two proposals described in this proxy statement, we are not aware of any other properly submitted business to be acted upon at the Annual Meeting. If you grant a proxy, the persons named as proxy holders, Richard Vance and Robert Lange, will have the discretion to vote your shares on any additional matters properly presented for a vote at the Annual Meeting, including matters of which the Company did not receive timely notice. If any of our nominees for director are unavailable, or are unable to serve or for good cause will not serve, the persons named as proxy holders will vote your proxy for such other candidate or candidates as may be nominated by the board of directors. 
+18. Q:    How many shares of common stock are outstanding? How many votes do I have? 
+A: As of close of business on March 8, 2019, the record date for the Annual Meeting, there were 875,589,393 shares of our common stock outstanding. Each share of common stock is entitled to one vote. Each stockholder will be entitled to one vote for each share of common stock held as of close of business on the record date. 
+19. Q:    What is the deadline under Rule 14a-8 under the Securities Exchange Act of 1934, as amended, for stockholders to propose actions to be included in our proxy statement relating to our 2020 annual meeting of stockholders and identified in our form of proxy relating to the 2020 annual meeting? 
+A: November 23, 2019 is the deadline for stockholders to submit proposals to be included in our proxy statement or our 2020 annual meeting and identified in our form of proxy under Rule 14a-8 under the Securities Exchange Act of 1934, as amended (the "Exchange Act"). Proposals by stockholders must comply with all requirements of the applicable rules of the SEC, including Rule 14a-8, and be mailed to our secretary at our principal executive offices at 332 S Michigan Avenue, Ninth Floor, Chicago, Illinois 60604. We reserve the right to reject, rule out of order, or take other appropriate action with respect to any proposal that does not comply with Rule 14a-8 and other applicable requirements. 
+20. Q:    What is the deadline under our current bylaws for stockholders to nominate persons for election to the board of directors or propose other matters to be considered at our 2020 annual meeting of stockholders? 
+[END TABLE]
+[BEGIN TABLE]
+A: Stockholders who wish to nominate persons for election to our board of directors or propose other matters to be considered at our 2020 annual meeting of stockholders must provide us advance notice of the director nomination or stockholder proposal, as well as the information specified in our bylaws, no earlier than October 24, 2019 and no later than 5:00 p.m., Central Time, on November 23, 2019; provided, however, in the event that the date of the 2020 annual meeting is advanced or delayed by more than 30 days from the first anniversary of the date of the Annual Meeting, notice by the stockholder, to be timely, must be so delivered not earlier than the 150th day prior to the date of 2020 annual meeting and not later than 5:00 p.m., Central time, on the later of the 120th day prior to the date of the 2020 annual meeting, as originally convened, or the tenth day following the day on which public announcement of the date of such meeting is first made. Stockholders are advised to review our bylaws, which were incorporated by reference as an exhibit to our Annual Report on Form 10-K for the fiscal year ended December 31, 2018, which contain the requirements for advance notice of director nominations and stockholder proposals. Notice of director nominations and stockholder proposals must be mailed to our secretary at our principal executive offices at 332 S Michigan Avenue, Ninth Floor, Chicago, Illinois 60604. The requirements for advance notice of stockholder proposals under our bylaws do not apply to proposals properly submitted under Rule 14a-8 under the Exchange Act, as those stockholder proposals are governed by Rule 14a-8. We reserve the right to reject, rule out of order, or take other appropriate action with respect to any director nomination or stockholder proposal that does not comply with our bylaws and other applicable requirements. 
+21. Q:    How do I recommend a potential director nominee for consideration by the board of directors for nomination? 
+A: You may recommend potential director nominees for consideration by the board of directors for nomination by our board of directors at the 2020 annual meeting of stockholders. Your recommendations should be mailed to our secretary at our principal executive offices at 332 S Michigan Avenue, Ninth Floor, Chicago, Illinois 60604. The deadline to recommend a potential director nominee for consideration by our board of directors for nomination at the 2020 annual meeting of stockholders is December 1, 2019.  No potential director names were received from our stockholders for nomination at the Annual Meeting. The deadline has passed to recommend a potential director nominee to be considered for nomination by our board of directors at the 2019 Annual Meeting. 
+[END TABLE]
+ ARTICLE II: CORPORATE GOVERNANCE
+PROPOSAL 1 - ELECTION OF DIRECTORS
+Highlands' charter and bylaws provide that the board of directors may establish, increase or decrease the number of directors, provided that the number of directors shall never be less than the minimum number required by the Maryland General Corporation Law ("MGCL"). Highlands' bylaws further provide that the number of directors may not be more than fifteen. At present, the number of members of the board of directors is fixed at three.
+Our board of directors currently consists of three directors, each of whom was previously elected or appointed to serve until the Company's next annual meeting and until his successor is duly elected and qualifies. Our board of directors has unanimously nominated Jeffrey L. Shekell, R. David Turner and Richard Vance, to stand for re-election to the board of directors. Each of the foregoing has been nominated to hold office until the 2020 annual meeting of stockholders and until their respective successors have been duly elected and qualify. Unless otherwise instructed by the stockholder, the proxy holders will vote the shares represented by such proxy FOR the election of the nominees named in this proxy statement.
+Each of the nominees has consented to serve as a director if elected. If any of the nominees should be unavailable to serve for any reason, the board of directors may designate a substitute nominee or substitute nominees (in which event proxy holders will vote for the election of such substitute nominee or nominees). Alternatively, the board of directors may reduce the size of the board of directors or allow the vacancy or vacancies to remain open until a suitable candidate or candidates are identified by the board of directors.
+The board of directors unanimously recommends that the stockholders vote "FOR" each of Jeffrey L. Shekell, R. David Turner and Richard Vance as directors to serve and hold office until the 2020 annual meeting of stockholders and until their respective successors have been duly elected and qualify.
+OUR BOARD OF DIRECTORS
+Set forth below is information regarding the business experience of each of our directors that has been furnished to us by the respective director. Each director has been principally engaged in the employment indicated for the last five years unless otherwise stated. Also set forth below for each director is a discussion of the experience, qualifications, attributes or skills that led the board of directors to conclude that the director is qualified and should serve as a director of Highlands.
+Directors Standing for Re-Election
+Richard Vance, age 55, has served as a director and our President and Chief Executive Officer since our formation in December 2015. Prior to our spin-off from InvenTrust Properties Corp. ("InvenTrust"), Mr. Vance served as Senior Vice President - Portfolio Management & Corporate Strategy for InvenTrust, where he was responsible for managing InvenTrust's "non-core" portfolio with regard to asset management, property operations and leasing. Beginning in 2013 and until InvenTrust's self-management in 2014, Mr. Vance served as Vice President for InvenTrust's former business manager, and, following InvenTrust's self-management, Mr. Vance continued to serve as Vice President for InvenTrust until 2015. In this role, Mr. Vance had various responsibilities, including spearheading InvenTrust's self-management and various asset management responsibilities. Beginning in 2010, Mr. Vance began working with InvenTrust's former business manager and former property manager as an independent consultant, and was primarily responsible for managing a diverse portfolio of InvenTrust's office, industrial and retail assets. Mr. Vance has more than 20 years of experience in commercial real estate and commercial real estate finance, including various positions prior to 2010 with GMAC Commercial Mortgage, Equity Residential, Deutsche Bank, Ernst & Young or their affiliates. Mr. Vance received a Master of Business Administration degree from the University of Michigan-Ann Arbor, a Juris Doctor from Loyola University of Chicago, and a Bachelor of Arts from the University of Michigan-Flint.
+Mr. Vance's qualifications to serve on our board of directors include his more than 20 years of experience in the real estate industry and his general expertise in commercial real estate. Further, as the Company's President and Chief Executive Officer, Mr. Vance will provide our board of directors with valuable insight regarding our assets and operations. Mr. Vance is also very familiar with our portfolio based upon his experience with InvenTrust.
+R. David Turner, age 68, has served as a director since our spin-off from InvenTrust on April 28, 2016. Mr. Turner has served as Vice President, Global Risk Management for GLP Pte. Ltd., a provider of modern logistics facilities in China, Japan, Brazil, Europe, the United Kingdom and the United States, since January 2016. From July 2013 to January 2016, Mr. Turner provided risk management consulting services through Turner Risk Consulting LLC to various real estate enterprises, including InvenTrust, our former parent company. Also during this time, Mr. Turner served as an adjunct professor at North Park University from  September 2014 to May 2015. From 2012 to July 2013, Mr. Turner served as Executive Vice President at First Nonprofit Insurance Company, a provider of property and casualty insurance products to non-profit organizations. Prior to that, from 2007 until 2012, Mr. Turner served as Senior Vice President, Global Risk Management at ProLogis, a real estate investment trust and owner of industrial real estate, and in various management positions, including, most recently, as Senior Vice President, at Equity Office Properties Trust, a publicly traded office building real estate company, from 1995 to 2007. Mr. Turner previously served as Insurance Committee Chairman of the National Association of Real Estate Investment Trusts, as a member of Affiliated FM's Broker Advisory Council, and as a member of the Hawaii Captive Insurance Council. Mr. Turner has a Bachelor of Science in Business Administration and a Master of Business Administration degree with honors from The Ohio State University and the designation of Associate in Risk Management.
+Mr. Turner contributes to our board of directors his extensive knowledge and over 30 years of experience in the real estate industry and, in particular, risk management including risk identification, measurement and treatment. The board of directors also values his broad experience in both large public companies and privately held organizations.
+Jeffrey L. Shekell, age 47, has served on Highlands' Board of Directors, as Chairman of its Audit Committee and as a member of its Compensation Committee since November 2018. Mr. Shekell currently serves as Managing Director of Leveraged Finance for MidCap Financial, a middle-market focused, specialty finance firm with over $16 billion of commitments under management, which is managed by Apollo Capital Management, L.P., a subsidiary of Apollo Global Management, LLC. Prior to joining MidCap Financial in 2011, Mr. Shekell served as a Senior Analyst for NRC Realty & Capital Advisors from 2003 to 2009 and as a Financial Analyst for Equity Residential Properties Trust from 1999 to 2002. Mr. Shekell began his career as a Staff Accountant at Price Waterhouse, now known as PricewaterhouseCoopers. Mr. Shekell holds a Master of Business Administration from the University of California, Irvine, where he graduated first in his class, and a Bachelor of Science from Ball State University, where he majored in Accounting.
+Mr. Shekell's qualifications to serve on the board include his extensive experience in capital markets across an array of industries, including real estate, and his familiarity with corporate finance and accounting matters.
+Family Relationships
+There are no family relationships among any of our directors or executive officers.
+Board Leadership
+The board of directors does not have a policy on whether the role of the chairperson and chief executive officer should be separate or combined. The board of directors has currently determined that it is appropriate to separate these roles, with Mr. Vance serving as President and Chief Executive Officer and Mr. Turner serving as Chairman of the board of directors. The board of directors believes this current leadership structure best serves the objectives of the board of directors' oversight of management, the board of directors' ability to carry out its roles and responsibilities on behalf of the stockholders, and the Company's overall corporate governance. The board of directors also believes the current separation of the chairman and chief executive officer roles allows Mr. Vance to focus his time and energy on operating and managing the Company, drawing on his historical knowledge of the Company and its portfolio, and also leverages Mr. Turner's broad industry and risk management experience and perspectives. The board of directors will periodically review the leadership structure to determine whether it continues to best serve the Company and its stockholders.
+During the fiscal year ended December 31, 2018, our board of directors held ten meetings. The audit committee held eight meetings and the compensation committee held five meetings. No incumbent director attended fewer than 75% of the total number of meetings of the board of directors and committees on which such director served during 2018. All of our directors serving at the time attended the 2018 annual meeting of stockholders, and we expect all of our directors to attend the Annual Meeting.  
+Our non-management directors meet regularly in executive sessions without the presence of any members of management. While we do not have a formal attendance policy, each of our directors are expected to make every effort to attend all meetings of the board of directors, meetings of the committees of which they are members and any meetings of stockholders.
+Role of our Board of Directors in Risk Oversight
+One of the key functions of our board of directors is informed oversight of our risk management process as well as strategic risks to the Company. Our board of directors administers this oversight function directly, with support from its two standing committees, the audit committee and the compensation committee, each of which addresses risks specific to its respective areas of oversight. In particular, as more fully described below, our audit committee has the responsibility to consider and discuss our major financial risk exposures and the steps our management has taken to monitor and control these exposures. The audit committee also monitors  compliance with legal and regulatory requirements. Our compensation committee monitors whether any of our compensation policies and programs has the potential to encourage excessive risk-taking.
+Board Committees
+Our board of directors has established two standing committees: an audit committee and a compensation committee. The principal functions of each committee are briefly described below. Additionally, our board of directors may from time to time establish other committees to facilitate the board's oversight of management of the business and affairs of the Company.
+Our board of directors does not have a separately designated nominating committee, or a charter that governs the director nomination process, as it believes the full board of directors is well suited to consider potential director nominees. As a result, the full board of directors performs the functions of a nominating committee, including identifying and selecting nominees for election at annual meetings of stockholders. In selecting candidates, the board of directors considers the background and qualifications of the potential nominees, including, among other things, relevant experience, skills and knowledge as well as minimum individual qualifications, including strength of character, mature judgment, industry knowledge or experience and an ability to work collegially with the other members of the board of directors. The board of directors also considers all other factors it deems appropriate, which may include age, existing commitments to other businesses, other board service, potential conflicts of interest with other pursuits, legal considerations, corporate governance background, financial and accounting background, executive compensation background and the size, diversity, composition and combined expertise of the existing board of directors.
+Audit Committee
+Mr. Turner and Mr. Shekell currently serve as members of the board's audit committee, and Mr. Shekell serves as its Chair. Our board of directors has determined that each of Mr. Turner and Mr. Shekell qualifies as an "audit committee financial expert" as that term is defined by the applicable SEC regulations. The audit committee has oversight responsibilities regarding:
+[BEGIN TABLE]
+• our accounting and financial reporting processes; 
+• the integrity of our financial statements; 
+• our systems of disclosure controls and procedures and internal control over financial reporting, when established; 
+• our compliance with financial, legal and regulatory requirements; 
+• the evaluation of the qualifications, independence and performance of our independent registered public accounting firm; 
+• our overall risk exposure and management; and 
+• reviewing and approving any transaction between us and a related person pursuant to our related person policy. 
+[END TABLE]
+The audit committee is also responsible for engaging, evaluating, compensating, and overseeing an independent registered public accounting firm, approving services that may be provided by the independent registered public accounting firm, including audit and non-audit services, reviewing the independence of the independent registered public accounting firm and reviewing the adequacy of the auditing firm's internal quality control procedures. The audit committee is also responsible for preparing the audit committee report required by SEC regulations to be included in our annual report.
+Our board of directors has adopted a written charter for our audit committee, which is available on our website at www.highlandsreit.com under the headings "Investor Relations-Governance Documents-Audit Committee Charter."
+Compensation Committee
+Mr. Turner and Mr. Shekell currently serve as members of the board's compensation committee, and Mr. Turner serves as its Chair. The board of directors has determined that both Mr. Turner and Mr. Shekell are non-employee directors as defined under Section 16 of the Exchange Act. The primary purposes of the compensation committee are to:
+[BEGIN TABLE]
+• approve or recommend to our board of directors for consideration the compensation and benefits of our executive officers and key employees; 
+• monitor and review our compensation and benefit plans; 
+• administer our incentive compensation plans and programs and prepare recommendations and periodic reports to the board of directors concerning such matters; 
+• prepare the compensation committee report required by SEC rules to be included in our annual report, if applicable; 
+• prepare recommendations and periodic reports to the board of directors as appropriate; and 
+• handle such other matters that are specifically delegated to the compensation committee by our board of directors from time to time. 
+[END TABLE]
+ Mr. Melkus served as a member of the Compensation Committee during 2018 until he resigned from the Board of Directors on April 5, 2018, prior to and in connection with his appointment as the Company's Chief Financial Officer, which became effective on April 23, 2018. While under consideration for the role of Chief Financial Officer, Mr. Melkus did not participate in Compensation Committee meetings and recused himself from voting on compensation decisions regarding year-end bonuses, as well as 2018 salary modifications and 2018 equity compensation grants.
+Our compensation committee was formed by our board of directors in April 2016 following our separation from InvenTrust. Prior to our separation from InvenTrust, we were a wholly owned subsidiary of InvenTrust, and our compensation committee was not yet formed. As such, all compensation programs in effect at the time of our separation from InvenTrust were implemented by InvenTrust. Following the completion of our separation from InvenTrust, executive compensation decisions have been made by our compensation committee.
+Our board of directors has adopted a written charter for our compensation committee, which is available on our website at www.highlandsreit.com under the headings "Investor Relations-Governance Documents-Compensation Committee Charter."
+Code of Ethics and Business Conduct
+Our board of directors has adopted a code of ethics and business conduct that applies to our directors, officers and employees. Among other matters, our code of ethics and business conduct is designed to deter wrongdoing and to promote:
+[BEGIN TABLE]
+• honest and ethical conduct, including the ethical handling of actual or apparent conflicts of interest; 
+• full, fair, accurate, timely and understandable disclosure in our SEC reports and other public communications; 
+• compliance with applicable governmental laws, rules and regulations; 
+• prompt internal reporting of violations of law or the code to appropriate persons identified in the code; and 
+• accountability for adherence to the code of ethics and business conduct, including fair process by which to determine violations. 
+[END TABLE]
+Any waiver of the code of ethics and business conduct for our directors or executive officers must be approved by our disinterested directors or obtained from our board of directors, respectively, and any such waiver shall be promptly disclosed as required by law.
+Our code of ethics and business conduct is available on our website at www.highlandsreit.com under the headings "Investor Relations-Governance Documents-Code of Ethics and Business Conduct."
+Communicating with Directors
+Stockholders who would like to communicate with our board of directors or any members thereof, may do so by addressing such communications to the secretary of the Company, Highlands REIT, Inc., 332 S Michigan Avenue, Ninth Floor, Chicago, Illinois 60604. The secretary will maintain a record of all such communications and promptly forward to the chairman of the board of directors those that the secretary believes require immediate attention, and periodically provide the chairman of the board of directors with a summary of all such communications.
+Compensation of Directors
+Director Compensation Program
+On April 7, 2016, we adopted a compensation program for our non-employee directors which provides for annual retainer fees and awards of shares of our common stock. The program became effective as of April 28, 2016, the date of our separation from InvenTrust. The material terms of the program are described below:
+[BEGIN TABLE]
+ Cash Compensation 
+[END TABLE]
+Under the program, each non-employee director is entitled to receive an annual cash retainer of $150,000. The Chairman of the Board is entitled to receive an additional annual cash retainer of $10,000 for services as Chairman.
+[BEGIN TABLE]
+ Equity Compensation 
+[END TABLE]
+In addition to the cash retainers, each non-employee director who is initially elected at an annual meeting of our stockholders and each non-employee director who continues to serve as a non-employee director immediately following an annual meeting will be granted an award of fully vested shares of our common stock on the date of the annual meeting with a value equal to $50,000. 2018 Non-Employee Director Compensation Table
+The following table sets forth the compensation awarded or paid to, or earned by, our non-employee directors during 2018. This table excludes Mr. Vance, who is an employee of the Company and does not receive compensation for his services as a director. It also excludes Mr. Melkus, who was formerly a director of the Company and received compensation for his services as a director until April 5, 2018, the date Mr. Melkus resigned as a director.  Mr. Melkus was appointed Chief Financial Officer of the Company effective April 23, 2018. All compensation paid to Mr. Vance and Mr. Melkus in 2018 is reflected in the Summary Compensation Table.
+[BEGIN TABLE]
+Name Fees Earned or Paid in Cash ($) Stock Awards ($)(1) Total ($) 
+R. David Turner 160,000 50,000 210,000 
+Jeffrey L. Shekell 37,500(2) 50,000 87,500 
+[END TABLE]
+(1) Amounts reflect the grant date fair value of common stock awards granted during 2018, computed in accordance with ASC Topic 718. For additional information regarding the assumptions used to calculate the value of such stock awards, please refer to Note 12 to our consolidated financial statements for the fiscal year ended December 31, 2018, included in our Annual Report on Form 10-K for the year ended December 31, 2018. Mr. Turner was granted 151,516 fully vested shares of our common stock on the date of the annual meeting in 2018 and Mr. Shekell was granted 151,516 fully vested shares of our common stock on the date of his appointment to the board of directors. The number of shares granted to Mr. Turner and Mr. Shekell was determined by dividing (x) $50,000, by (y) $0.33, the estimated per share value of a share of our common stock established by our board of directors on January 4, 2018, which was the most recent estimated per share value at the time of the grant.
+(2) Mr. Shekell was appointed to the board of directors in November 2018. In connection with his appointment, Mr. Shekell received $37,500 in cash fees for his service on the board of directors during the fourth quarter of 2018. 
+OUR EXECUTIVE OFFICERS
+In addition to Mr. Vance, who is also one of our directors, set forth below is information regarding the business experience of each of our other executive officers since January 2018 that has been furnished to us by the respective executive officer. Each executive officer has been principally engaged in the employment indicated for the last five years unless otherwise stated.
+Joseph Giannini, age 55, has served as Senior Vice President, Chief Accounting Officer and Treasurer since our spin-off from InvenTrust on April 28, 2016. Prior to this, Mr. Giannini served as Vice President, Controller of Property Accounting of InvenTrust, where he was responsible for overseeing the property accounting for the retail and non-core assets. In addition, Mr. Giannini was responsible for reviewing, restructuring and implementing new processes within property accounting. From September 2008 through February 2014, Mr. Giannini served as the Hotel Controller for various affiliates of InvenTrust where he was responsible for all aspects of the hotel accounting, including working with third party property managers for InvenTrust's 100 plus hotel portfolio. Prior to September 2008, Mr. Giannini held various accounting positions with Lennar Corporation, AMLI Residential and Trammell Crow Residential Midwest. Mr. Giannini received his undergraduate Accounting degree from St. Joseph's College in Indiana in 1985. He also has a Master of Business Administration degree from Lake Forest Graduate School of Management and is a Certified Public Accountant. He is a member of the AICPA.
+Robert J. Lange, age 36, has served as Executive Vice President, General Counsel and Secretary of Highlands since June 2016. Prior to joining the Company, Mr. Lange served as Vice President, Head Corporate Counsel and Assistant Secretary at InvenTrust, Highlands' former parent company. In that capacity, he oversaw all aspects of InvenTrust's corporate legal affairs, including material transactions, governance, public company reporting and compliance, employee matters and executive compensation and benefits. Prior to joining InvenTrust in 2014, Mr. Lange practiced law at Skadden Arps Slate Meagher & Flom LLP, where he represented companies in mergers and acquisitions and advised clients on a broad variety of general corporate matters. Mr. Lange received a Bachelor of Business Administration degree, with distinction, from the University of Wisconsin - Madison and a Juris Doctor degree, with honors, from the University of Chicago.
+Paul A. Melkus, age 54, has served as Executive Vice President and Chief Financial Officer of Highlands since 2018. Prior to this appointment, Mr. Melkus served from April 2016 to April 2018 as a director of Highlands, chair of the board's audit committee, and a member of the board's compensation committee. Mr. Melkus served as Global Head of Capital Markets - Real Estate and Infrastructure Department for the Abu Dhabi Investment Authority, one of the world's largest sovereign wealth funds, and as a member of its Executive Committee from 2012 to 2016. In this role, he was responsible for the development of financing strategy and management of lending relationships for Abu Dhabi Investment Authority's global real estate investment portfolio. Mr. Melkus served as Senior Vice President - Capital Markets at General Growth Properties, Inc., a publicly traded REIT, from 2010 to 2011, as Director - Capital Markets at Deutsche Bank Asset Management from 2004 to 2009 and as Director - Capital Markets Investments  at General Electric Capital Corporation from 1998 to 2004. Mr. Melkus has also consulted at Ernst & Young on a variety of capital markets and real estate related transactions and served as a securities analyst and asset manager at Northern Trust Company. Mr. Melkus is a graduate of DePauw University where he earned his Bachelor of Arts majoring in Economics and Management. He earned his Master of Science degree from the University of Wisconsin's Real Estate Investment and Urban Economics program.
+ ARTICLE III: EXECUTIVE COMPENSATION
+Summary Compensation Table
+The following table sets forth certain information with respect to the compensation paid to our named executive officers for the fiscal years ended December 31, 2018 and December 31, 2017:
+[BEGIN TABLE]
+Name and Principal Position Year Salary ($) Bonus ($)(2) Stock Awards ($)(3)All Other Compensation ($)(4) Total ($)
+Name and Principal Position Year Salary ($) Bonus ($)(2) Stock Awards ($)(3)All Other Compensation ($)(4) Total ($)
+Richard Vance President and Chief Executive Officer2018 540,000 950,000 1,250,000 15,615 2,755,615 
+2017 525,000  800,000 1,250,000 10,454 2,585,454 
+Paul Melkus Executive Vice President and Chief Financial Officer2018 261,539(1) 750,000 -- 45,475 1,057,014 
+Robert Lange Executive Vice President and General Counsel2018 365,000 650,000 400,000 11,097 1,426,097 
+2017 355,000 620,000 450,000 9,698 1,434,698 
+[END TABLE]
+(1)    This amount represents the amount of salary paid to Mr. Melkus for the portion of 2018 during which he was employed as the Executive Vice President and Chief Financial Officer, from April 23, 2018 through December 31, 2018.  The amount of fees earned or paid in cash to Mr. Melkus for the portion of 2018 that he served as a non-employee director on our board of directors before being appointed Executive Vice President and Chief Financial Officer is included in the "All Other Compensation" column. 
+(2)    Amounts represent (i) discretionary annual bonus awards earned by our named executive officers in 2018 and 2017 under our annual bonus program and (ii) a signing bonus paid to Mr. Melkus in 2018 in connection with his commencement of employment with the Company pursuant to the terms of his employment agreement, as follows:
+[BEGIN TABLE]
+Name 2018 Annual Bonus ($) Signing Bonus ($) Total ($) 
+Richard Vance 950,000 0 950,000 
+Paul Melkus 500,000 250,000 750,000 
+Robert Lange 650,000 0 650,000 
+[END TABLE]
+See "Narrative Disclosure to Summary Compensation Table-2018 Bonuses" below for additional information regarding annual bonus awards paid to Messrs. Vance, Melkus and Lange.
+(3)    For 2018, amounts reflect the full grant-date fair value of shares of our common stock granted under the Highlands REIT, Inc. 2016 Incentive Award Plan during 2018 in accordance with ASC Topic 718. For additional information regarding assumptions used to calculate the value of such awards, please refer to Note 12 to our consolidated financial statements for the fiscal year ended December 31, 2018, included in our Annual Report on Form 10-K for the year ended December 31, 2018.
+(4)    The following table sets forth the amount of each other item of compensation paid to, or on behalf of, our named executive officers in 2018 included in the "All Other Compensation" column. Amounts for each other item of compensation are valued based on the aggregate incremental cost to us, in each case without taking into account the value of any income tax deduction for which we may be eligible. 
+[BEGIN TABLE]
+Name Employer 401(k) Contribution ($)Short-term Disability Insurance ($)Long-term Disability Insurance ($)Life Insurance ($)Non-Employee Director Fees Earned or Paid in Cash ($)Total ($)
+Name Employer 401(k) Contribution ($)Short-term Disability Insurance ($)Long-term Disability Insurance ($)Life Insurance ($)Non-Employee Director Fees Earned or Paid in Cash ($)Total ($)
+Richard Vance 8,250 652 679 6,034 -- 15,615 
+Paul Melkus 5,103 435 453 1,984 37,500 45,475 
+Robert Lange 8,250 652 679 1,516 -- 11,097 
+[END TABLE]
+Narrative Disclosure to Summary Compensation Table
+Base Salaries
+Our named executive officers receive a base salary to compensate them for services rendered to the Company. The base salary payable to each of the executives is intended to provide a fixed component of compensation reflecting the executive's skill set, experience, role and responsibilities. 2018 annual base salary rates for Messrs. Vance, Melkus and Lange were $540,000, $400,000 and $365,000, respectively, which became effective February 12, 2018 for Messrs. Vance and Lange, and April 23, 2018 for Mr. Melkus. The following table sets forth the annual base salaries for each of our named executive officers effective as of March 1, 2019. Such 2019 base salary rates were determined by our compensation committee in consultation with its advisors, including Exequity.
+[BEGIN TABLE]
+Name 2019 Annual Base Salary ($) 
+Richard Vance 560,000 
+Paul Melkus 415,000 
+Robert Lange 375,000 
+[END TABLE]
+2018 Bonuses
+In 2018, our named executive officers participated in an annual bonus program under which each of the executives was eligible to receive an annual cash performance bonus based upon company performance and each executive officers' individual performance and contribution to our success, as determined by our compensation committee in its sole discretion. The threshold, target and maximum bonus levels for each of our named executive officers for 2018 were:
+[BEGIN TABLE]
+Name Threshold Annual Bonus (% of annual base salary) Target Annual Bonus    (% of annual base salary) Maximum Annual Bonus (% of annual base salary) 
+Richard Vance 50% 100% 200% 
+Paul Melkus 50% 100% 200% 
+Robert Lange 50% 100% 200% 
+[END TABLE]
+With the assistance of Exequity, our compensation committee performed a comprehensive review of Company and individual performance for 2018 in connection with its determination of annual cash performance bonuses for our named executive officers. Our annual bonus program is not based on, and our compensation committee's review did not include an assessment of, any predetermined metrics, but instead was based on an evaluation of Company and individual performance in 2018, and included factors such as operational performance and the achievement of both individual goals and Company initiatives, such as stabilizing and improving the portfolio and reducing risk in the portfolio, which included asset management, dispositions and acquisitions.
+Based on this evaluation, our compensation committee determined that Messrs. Vance, Melkus and Lange exceeded expectations and correspondingly approved annual cash bonuses in excess of their respective target amounts. 
+The actual annual cash performance bonuses paid to our named executive officers for 2018 performance are set forth in the column entitled "2018 Annual Bonus" in the table included in Note (2) to the Summary Compensation Table above. The 2018 bonus paid to Mr. Melkus reflects a proration for his partial year of service as the Company's Executive Vice President and Chief Financial Officer.  In 2019, our executive officers will again participate in an annual bonus program under which each of the executives will be eligible to receive an annual cash performance bonus based upon company performance and each executive officer's individualperformance and contribution to our success, as determined by our compensation committee in its sole discretion. The threshold, target and maximum bonus levels for each of our named executive officers for 2019 are unchanged from 2018 and are as follows:
+[BEGIN TABLE]
+Name Threshold Annual Bonus (% of annual base salary) Target Annual Bonus (% of annual base salary) Maximum Annual Bonus (% of annual base salary) 
+Richard Vance 50% 100% 200% 
+Paul Melkus 50% 100% 200% 
+Robert Lange 50% 100% 200% 
+[END TABLE]
+Equity Compensation
+We adopted the Highlands REIT, Inc. 2016 Incentive Award Plan (the "Incentive Award Plan") in order to facilitate the grant of cash and equity incentives to directors and employees (including our named executive officers) and to enable our company to obtain and retain the services of these individuals, which is essential to our long-term success. 
+On February 9, 2018, we granted 3,787,879 and 1,212,121 fully vested shares of our common stock to Messrs. Vance and Lange, respectively, under the Incentive Award Plan. The number of shares granted to Messrs. Vance, and Lange was determined by dividing (x) $1,250,000 and $400,000 respectively, by (y) $0.33, the estimated share value established by our board of directors on January 4, 2018. These awards reflect the committee's assessment of each executive's respective performance during 2017 and were made in consultation with the committee's compensation consultant, Exequity. 
+On February 21, 2019, we granted 3,142,857, 2,000,000 and 1,142,857 fully vested shares of our common stock to Messrs. Vance, Melkus and Lange, respectively, under the Incentive Award Plan. The number of shares granted to Messrs. Vance, Melkus and Lange was determined by dividing (x) $1,100,000, $700,000 and $400,000, respectively, by (y) $0.35, the estimated share value established by our board of directors as of December 31, 2018. These awards reflect the committee's assessment of each executive's respective performance during 2018 and were made in consultation with the committee's compensation consultant, Exequity. See "Employment Agreements" below.
+Other Elements of Compensation
+We provide customary employee benefits to our full- and part-time employees, including our named executive officers, including medical and dental benefits, short-term and long-term disability insurance, accidental death and dismemberment insurance, and group life insurance. We also participate in a 401(k) retirement savings plan (the "401(k) plan"). Under the 401(k) plan, employees, including our named executive officers, who satisfy certain eligibility requirements may defer a portion of their compensation, within prescribed tax code limits, on a pre-tax basis through contributions to the 401(k) plan. For 2018, we contributed an amount equal to 3% of each employee's salary, up to a maximum salary of $275,000, to our employees' 401(k) accounts. These employer contributions are fully vested when made.
+Employment Agreements
+On November 7, 2018, we entered into amended and restated employment agreements with each of Mr. Vance, Mr. Melkus and Mr. Lange (collectively, the "Employment Agreements"). Pursuant to the Employment Agreements, Mr. Vance serves as President and Chief Executive Officer of the Company, and was entitled to an annual base salary equal to $540,000; Mr. Melkus serves as Executive Vice President and Chief Financial Officer of the Company, and was entitled to an annual base salary equal to $400,000; and Mr. Lange serves as Executive Vice President, General Counsel and Secretary of the Company, and was entitled to an annual base salary equal to $365,000. Each executive will be eligible to receive an annual cash performance bonus based upon the achievement of performance criteria established by our board of directors or our compensation committee. Each executive's target annual bonus will be no less than 100% of his respective annual base salary, with the threshold and maximum bonus levels to be determined on an annual basis. In the event of a change in control of Highlands during the employment period, if any of Mr. Vance, Mr. Melkus or Mr. Lange is not awarded his full bonus for the change of control year, then the executive (as applicable) will be eligible to receive a pro-rated portion of his target annual bonus for the year in which the change in control occurs. 
+Additionally, under the employment agreement with Mr. Melkus, he was entitled to receive a one-time signing bonus equal to $250,000, which was paid in full in 2018, and he also was to be granted an award of fully vested shares of our common stock having an aggregate value equal to $700,000 no later than March 15, 2019. Under the Employment Agreements, if any of the executive's employment is terminated by Highlands without "cause" or by the executive for "good reason" (each, as defined in the Employment Agreements), then the executive will be entitled to the following severance payments and benefits:
+[BEGIN TABLE]
+• a lump-sum payment in an amount equal to one and a half times the sum of his annual base salary and target year bonus (or, if in connection with a change in control of Highlands, three times the sum of his annual base salary and the prior year bonus); and  
+• payment or reimbursement by the Company of premiums for healthcare continuation coverage under COBRA for the executive and his dependents for up to 18 months after the termination date. 
+[END TABLE]
+The Employment Agreements amended the change in control provisions of the executives' prior employment agreements to eliminate the automatic step-down severance multiples that were to occur over time, which no longer aligned with the Company's current business plan.
+Each executive's right to receive the severance or other benefits described above will be subject to the executive signing, delivering and not revoking a general release agreement in a form generally used by Highlands. 
+The Employment Agreements further provide that, to the extent that any payment or benefit received by the executive in connection with a change in control would be subject to an excise tax under Section 4999 of the Internal Revenue Code, as amended (the "Code"), such payments and/or benefits will be subject to a "best pay cap" reduction if such reduction would result in a greater net after-tax benefit to the executive than receiving the full amount of such payments.
+Each Employment Agreement also contains a confidentiality covenant by the executive that extends indefinitely and an employee and independent contractor nonsolicitation covenant that extends during the executive's employment and for a period of one year following his termination. The Employment Agreements also include a mutual non-disparagement covenant by the executives and us. The Employment Agreements further clarify that in compliance with applicable law, the executives may disclose trade secrets of the Company or its affiliates without being held criminally or civilly liable under Federal or State trade secret laws, provided that the disclosure (i) is made (A) in confidence to a Federal, State or local government official, either directly or indirectly, or to the executive's respective attorney and (B) solely for the purpose of reporting or investigating a suspected violation of law; or (ii) is made in a complaint or other document that is filed under seal in a lawsuit or other proceeding. Furthermore, the Employment Agreements provide that nothing in these agreements or in any other agreement the executives have with the Company or its affiliates will restrict any of the executives from disclosing information concerning possible violations of law or to seek a whistleblower award. 
+Retention Bonus Plan
+On August 9, 2016, we adopted the Highlands REIT, Inc. Retention Bonus Plan (the "Retention Bonus Plan"). Pursuant to the terms of the Retention Bonus Plan, each individual who is an employee of the Company immediately prior to the consummation of a "change in control" (as defined in the Retention Bonus Plan) of the Company will be entitled to receive a lump-sum cash payment in an amount equal to the employee's annual base salary (the "Retention Bonus"). Our named executive officers are each eligible to participate in the Retention Bonus Plan.
+A participant's right to receive the Retention Bonus is subject to the executive's continued compliance with any confidentiality, non-solicitation, non-competition and similar covenants with respect to which the participant is bound pursuant to any agreement with the Company. Additionally, under the Retention Bonus Plan, in the event that the Retention Bonus, together with any other amounts paid to the participant by the Company, would subject the participant to an excise tax under Section 4999 of the Code, such payments will be reduced to the extent that such reduction would produce a better net after-tax result for the participant.
+Other Actions following End of Fiscal Year
+On February 5, 2019, our compensation committee approved a special bonus to Mr. Lange in recognition of Mr. Lange's outstanding performance on key projects since the spin-off and in order to further incentivize and retain Mr. Lange. Under the terms of the special bonus, the Company will pay Mr. Lange in August 2019 a cash bonus of $225,000 and will issue to Mr. Lange a special stock award of 357,143 fully vested shares of Company common stock, subject to Mr. Lange remaining continuously employed through the August 2019 date of payment and share issuance. In addition, in August 2020, the Company will pay Mr. Lange an additional special cash bonus of $225,000 and will also issue to Mr. Lange a special stock award for a number of fully vested shares of Company stock equal to the quotient of (a) $125,000 divided by (b) the Company's estimated per share valuation as of December 31, 2019, rounded up to the nearest whole share, subject to Mr. Lange remaining continuously employed through the August 2020 date of payment and share issuance. Mr. Lange's special stock awards will be granted under and pursuant to the terms and conditions of the Incentive Award Plan and form of Stock Payment Award Agreement thereunder, previously filed by the Company. ARTICLE IV: INDEPENDENT REGISTERED PUBLIC ACCOUNTING FIRM
+PROPOSAL 2 - RATIFICATION OF APPOINTMENT OF THE INDEPENDENT REGISTERED PUBLIC
+ ACCOUNTING FIRM
+We are asking our stockholders to ratify our audit committee's appointment of KPMG as our independent registered public accounting firm for the fiscal year ending December 31, 2019. Stockholder ratification of the selection of KPMG as our independent registered public accounting firm is not required by our bylaws or otherwise. However, the board of directors is submitting the selection of KPMG to the stockholders for ratification as a matter of good corporate governance practice. Furthermore, the audit committee will take the results of the stockholder vote regarding KPMG's appointment into consideration in future deliberations. Even if the selection is ratified, the audit committee, in its discretion, may direct the appointment of a different independent registered public accounting firm at any time during the year if it determines that such a change would be in the best interests of Highlands and our stockholders.
+Representatives of KPMG will be present at the Annual Meeting to respond to appropriate questions and to make such statements as they may desire.
+Pursuant to the audit committee charter, the audit committee, or the chair of the audit committee, shall pre-approve any audit and non-audit service provided to the Company by the independent auditor, unless the engagement is entered into pursuant to appropriate preapproval policies established by the audit committee or if such service falls within available exceptions under SEC rules.
+The board of directors unanimously recommends that the stockholders vote "FOR" Proposal No. 2 to ratify the appointment of KPMG LLP as the independent registered public accounting firm of Highlands REIT, Inc. for the fiscal year ended December 31, 2019.
+INDEPENDENT REGISTERED PUBLIC ACCOUNTING FIRM'S FEES
+Prior to our separation from InvenTrust on April 28, 2016, we were a wholly owned subsidiary of InvenTrust. KPMG has audited our financial statements since our separation from InvenTrust, and audited InvenTrust's financial statements during 2018, 2017 and 2016.
+The following table presents fees for professional services rendered by KPMG for fiscal years 2018 and 2017.
+[BEGIN TABLE]
+  2018 2017 
+Audit Fees $570,750 $502,500 
+Audit-related fees $0 $60,000 
+Tax Fees (1) $120,522 $68,438 
+All other fees $0 $0 
+Total fees $691,272 $630,938 
+[END TABLE]
+The following are footnotes to the above table, in accordance with SEC definitions:
+(1)    Tax fees are comprised of tax compliance and consulting fees.
+Our audit committee reviewed and pre-approved all of the fees for professional services rendered by KPMG for 2018 in accordance with the audit committee charter. ARTICLE V: REPORT OF THE AUDIT COMMITTEE OF THE BOARD OF DIRECTORS
+The audit committee reviews the Company's financial reporting process on behalf of the board of directors. Management has the primary responsibility for the financial statements, the reporting process and maintaining an effective system of internal controls over financial reporting. The Company's independent auditors are engaged to audit and express opinions on the conformity of the Company's financial statements to U.S. generally accepted accounting principles.
+In addition to fulfilling its oversight responsibilities as set forth in its charter and further described above in the section titled "Audit Committee," the audit committee has done the following things:
+[BEGIN TABLE]
+• Prior to the filing of our Annual Report on Form 10-K for the fiscal year ended December 31, 2018, reviewed and discussed with management and KPMG the Company's audited combined consolidated financial statements. 
+• Discussed with KPMG the matters required to be discussed by the Public Company Accounting Oversight Board ("PCAOB"), as adopted in Auditing Standard No. 1301 (Communications with Audit Committees), and any other matters required to be communicated to the committee by KPMG under auditing standards established from time to time by the PCAOB or SEC rules and regulations. 
+• Evaluated KPMG's qualifications, performance and independence (consistent with SEC requirements), which included the receipt and review of the written disclosures and the letter from KPMG required by applicable requirements of the PCAOB regarding KPMG's communications with the audit committee concerning independence and discussions with KPMG regarding its independence. 
+[END TABLE]
+Based on the reviews and discussions with management and KPMG cited above, including the review of KPMG's disclosures and letter to the audit committee and review of the representations of management and the reports of KPMG, the audit committee recommended to the board of directors that the Company's audited combined consolidated financial statements be included in the Company's Annual Report on Form 10-K for the fiscal year ended December 31, 2018 filed with the SEC.
+Submitted by the Audit Committee of the Board of Directors.
+Audit Committee of the Board of Directors
+Jeffrey L. Shekell, Chairman
+R. David Turner
+*This report is not "soliciting material," is not deemed filed with the SEC, and is not to be incorporated by reference into any Highlands filing under the Securities Act or the Exchange Act, whether made before or after the date hereof and irrespective of any general incorporation language contained in such filing. ARTICLE VI: STOCK
+SECURITY OWNERSHIP OF CERTAIN BENEFICIAL OWNERS AND MANAGEMENT
+The following table provides information with respect to the beneficial ownership of our common stock as of March 8, 2019, by (i) each person who we believe is a beneficial owner of more than 5% of our outstanding common stock, (ii) each of our directors, nominees and named executive officers, and (iii) all directors, nominees and executive officers as a group.
+As of March 8, 2019, we had an aggregate of 875,589,393 shares of common stock outstanding. Unless otherwise indicated, the address of each named person is c/o Highlands REIT, Inc., 332 S Michigan Avenue, Ninth Floor, Chicago, Illinois 60604. Except as otherwise noted in the footnotes below, each person or entity identified below has sole voting and investment power with respect to such securities, and no shares beneficially owned by any director, nominee or executive officer have been pledged as security.
+[BEGIN TABLE]
+Beneficial Owner Number of Shares% of Shares Outstanding (1) 
+Directors, Director Nominees and Named Executive Officers:     
+  Richard Vance 7,269,751 * 
+  Robert Lange 3,096,242 * 
+  Paul Melkus 1,386,563 * 
+  R. David Turner 433,262 * 
+  Jeffrey Shekell 151,516 * 
+All Executive Officers and Directors as a Group (6 persons) 13,143,660 1.50% 
+[END TABLE]
+*   Indicates less than 1%
+(1) Based on 875,589,393 shares of our common stock outstanding as of March 8, 2019.
+SECTION 16(a) BENEFICIAL OWNERSHIP REPORTING COMPLIANCE
+Section 16(a) of the Exchange Act, and rules of the SEC thereunder, require our directors, officers and persons who own more than 10% of our common stock to file initial reports of their ownership of our common stock and subsequent reports of changes in such ownership with the SEC. Directors, officers and persons owning more than 10% of our common stock are required by SEC rules to furnish us with copies of all Section 16(a) reports they file.
+To the Company's knowledge, based solely on a review of the copies of these reports furnished to the Company for the fiscal year ended December 31, 2018, and written representations from our directors and officers, all Section 16(a) filing requirements applicable to the Company's directors, officers and greater than 10% beneficial owners were complied with for the most recent fiscal year. ARTICLE VII: MISCELLANEOUS
+AVAILABILITY OF ANNUAL REPORT ON FORM 10-K
+This proxy statement for the Annual Meeting and the Annual Report for the fiscal year ended December 31, 2018, are available free of charge at www.proxy-direct.com/hig-30486. Copies of our Annual Report on Form 10-K for the fiscal year ended December 31, 2018 as filed with the SEC (exclusive of exhibits and documents incorporated by reference), may also be obtained for free by directing written requests to: Highlands REIT, Inc., Attention: Secretary, 332 S Michigan Avenue, Ninth Floor, Chicago, Illinois 60604 (phone: 855-377-0510). Copies of exhibits and basic documents filed with the Annual Report on Form 10-K or referenced therein will be furnished to stockholders upon written request and payment of a nominal fee in connection with the furnishing of such documents. You may also obtain the Annual Report on Form 10-K over the Internet at the SEC's website, www.sec.gov, or on our website, www.highlandsreit.com.
+HOUSEHOLDING
+The SEC has adopted rules that permit companies and intermediaries (e.g., brokers) to satisfy the delivery requirements for proxy statements with respect to two or more stockholders sharing the same address by delivering a single proxy statement addressed to those stockholders. This process, which is commonly referred to as "householding," potentially means extra convenience for stockholders and cost savings for companies. A number of brokers with account holders who are stockholders may be householding the Company's proxy materials. If you receive a householding notification from your broker, a single proxy statement will be delivered to multiple stockholders sharing an address unless contrary instructions have been received by your broker. Once you receive notice from your broker that they will be householding communications to your address, householding will continue until you are notified otherwise.
+Stockholders who currently receive multiple copies of the proxy statement at their address and would like to request householding of their communications should contact their broker. In addition, if you receive a householding notification and wish to receive a separate annual report or proxy statement at your address, you should also contact your broker directly.
+ATTENDING THE MEETING
+If you plan to attend the Annual Meeting, please pre-register. Please refer to Question 4 in Article I.
+OTHER MATTERS THAT MAY COME BEFORE THE ANNUAL MEETING
+Our board of directors knows of no matters other than those referred to in the accompanying Notice of Annual Meeting of Stockholders that may properly come before the Annual Meeting. However, if any other matter should be properly presented for consideration and voting at the Annual Meeting or any adjournments or postponements thereof, it is the intention of the proxy holders to vote the shares represented by all valid proxies in accordance with their discretion.
+By Order of the Board of Directors
+/s/ Richard Vance
+Richard Vance
+Director, President and Chief Executive Officer
+Chicago, Illinois
+March 22, 2019  
+ 

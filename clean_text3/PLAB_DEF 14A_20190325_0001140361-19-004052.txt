@@ -1,0 +1,279 @@
+
+[BEGIN TABLE]
+ Check the appropriate box:          
+  o   Preliminary Proxy Statement    o   Soliciting Material Under Rule 14a-12  
+  o   Confidential, For Use of the Commission Only (as permitted by Rule 14a-6(e)(2))          
+ ☒   Definitive Proxy Statement o   Definitive Additional Materials          
+[END TABLE]
+[BEGIN TABLE]
+ PHOTRONICS, INC.  
+ (Name of Registrant as Specified In Its Charter)  
+ (Name of Person(s) Filing Proxy Statement, if Other Than the Registrant)  
+[END TABLE]
+[BEGIN TABLE]
+ Payment of Filing Fee (Check the appropriate box):  
+ ☒   No fee required.  
+  o   Fee computed on table below per Exchange Act Rules 14a-6(i)(4) and 0-11.  
+     1)   Title of each class of securities to which transaction applies:  
+     2)   Aggregate number of securities to which transaction applies:  
+     3)   Per unit price or other underlying value of transaction computed pursuant to Exchange Act Rule 0-11 (set forth the amount on which the filing fee is calculated and state how it was determined):  
+     4)   Proposed maximum aggregate value of transaction:  
+     5)   Total fee paid:  
+  o   Fee paid previously with preliminary materials:  
+  o   Check box if any part of the fee is offset as provided by Exchange Act Rule 0-11(a)(2) and identify the filing for which the offsetting fee was paid previously. Identify the previous filing by registration statement number, or the form or schedule and the date of its filing.  
+     1)   Amount previously paid:  
+     2)   Form, Schedule or Registration Statement No.:  
+     3)   Filing Party:  
+     4)   Date Filed:  
+[END TABLE]
+[BEGIN TABLE]
+     By Order of the Board of Directors,  
+     /s/ Richelle E. Burr  
+     Richelle E. Burr  
+     Vice President, General Counsel and Secretary  
+[END TABLE]
+   4
+[BEGIN TABLE]
+Name and Address of Beneficial Owner(1) Amount and Nature of  Beneficial Ownership(2) Percentage  of Class 
+Black Rock, Inc.  55 East 52nd Street  New York, NY 10022   10,215,805     15.24%(3) 
+Dimensional Fund Advisors  Palisades West, Building One  6300 Bee Cove Road  Austin, TX 78746   5,859,559     8.74%(4) 
+Vanguard Group  100 Vanguard Blvd.  Malvern, PA 19355   4,402,465     6.57%(5) 
+Barrow, Hanley, Mewhinney & Strauss, LLC  2200 Ross Avenue, 31st Floor  Dallas, TX 75201-2761   3,983,773     5.94%(6) 
+Donald Smith & Co., Inc.   152 West 57th Street  New York, NY 10019    3,611,108     5.39%(7) 
+Officers and Directors             
+Richelle Burr   183,524 (8)      * 
+Walter M. Fiederowicz   68,000 (8)      * 
+Joseph A. Fiorita, Jr.    210,100 (8)(9)      * 
+Liang-Choo Hsia   90,000 (8)      * 
+John P. Jordan   73,000 (8)      * 
+Peter Kirlin   532,953 (8)      * 
+Frank Lee    318,425 (8)      * 
+Constantine S. Macricostas   504,575 (8)      * 
+George Macricostas   32,000 (8)      * 
+Christopher J. Progler   282,760 (8)      * 
+Mitchell G. Tyson   105,129 (8)      * 
+Directors and Named Executive Officers as a group (11 persons)   2,400,466 (10)    3.58% 
+[END TABLE]
+[BEGIN TABLE]
+ Name and (Age)   Director  Since   Position(s) with  the Company  
+ Walter M. Fiederowicz (72 years)   1984   Director  
+ Joseph A. Fiorita, Jr. (74 years)   1987   Director  
+ Dr. L. C. Hsia  (70 years)   2012   Director  
+ Dr. Peter S. Kirlin (58 years)   2015   Director/CEO  
+ Constantine S. Macricostas (83 years)   1974   Chairman  
+ George Macricostas (49 years)   2002   Director  
+ Mitchell G. Tyson (64 years)   2004   Director  
+[END TABLE]
+    10
+[BEGIN TABLE]
+  Fiscal 2018 Fiscal 2017 
+Audit Fees(a) $ 1,257,728   $ 1,088,167   
+Audit-Related Fees(b)   4,909     48,700   
+Tax Fees(c)   34,507     51,354   
+All Other Fees(d)   17,040     0   
+Total $ 1,314,183   $ 1,188,221   
+[END TABLE]
+[BEGIN TABLE]
+ This report is submitted by:       
+ Joseph A. Fiorita, Jr.   
+ Chairman      
+ Walter M. Fiederowicz      
+ Mitchell G. Tyson      
+[END TABLE]
+[BEGIN TABLE]
+ Name and Age   Position   Served as an  Executive Officer  Since  
+ Richelle E. Burr, 54   Vice President,  General Counsel and  Secretary   2010  
+ John P. Jordan, 73   Senior Vice President,  Chief Financial Officer   2017  
+ Peter S. Kirlin, 58   Chief Executive  Officer   2008  
+ Frank Lee, 66   President of Asia  IC Photomask SBU   2018  
+ Constantine S. Macricostas, 83   Chairman   2008  
+ Christopher J. Progler, 55   Vice President, Chief  Technology Officer and  Strategic Planning   2004  
+[END TABLE]
+    15
+[BEGIN TABLE]
+ Metric   Target   Actual Performance  
+ Achieve EBITDA Target   $123MM   Achieved  
+ Achieve Net Income Target   $15.1MM   Achieved  
+ Execute China Business Plans    Competitively Sensitive   Achieved   
+ Develop and Execute Growth via Business Development   Competitively Sensitive   Achieved  
+ Competitively Sensitive    Competitively Sensitive    Not Achieved  
+[END TABLE]
+[BEGIN TABLE]
+Ms. Richelle Burr $ 107,000   
+Mr. John P. Jordan $ 138,000   
+Dr. Peter Kirlin $ 390,000   
+Dr. Frank Lee $ 209,514   
+Mr. Constantine Macricostas(1) $ 0   
+Dr. Christopher J. Progler $ 141,000   
+[END TABLE]
+ 18
+[BEGIN TABLE]
+  Restricted Stock 
+Ms. Richelle Burr   27,000   
+Mr. John P. Jordan   36,000   
+Dr. Peter Kirlin   75,000   
+Dr,. Frank Lee   40,000   
+Mr. Constantine Macricostas(1)   0   
+Dr. Christopher J. Progler   32,000   
+[END TABLE]
+ 20
+[BEGIN TABLE]
+ Respectfully submitted,      
+ Walter M. Fiederowicz, Chairman      
+ Joseph A. Fiorita, Jr.      
+[END TABLE]
+[BEGIN TABLE]
+Name and Principal Position Year Salary  ($) Bonus  ($) Stock  Awards  ($)(1) Option  Awards  ($)(2) All  Other  Compensation  ($) Total  ($) 
+Richelle Burr    2018     266,102     107,000     129,000     41,040     13,649 (3)    556,791   
+Vice President, General Counsel    2017     260,000     40,000     170,250     53,940     14,200 (3)    538,390   
+and Secretary    2016     260,000           51,553     118,881     14,366 (3)    444,800   
+John P. Jordan    2018     345,000     138,000                 17,931 (4)    500,931   
+Senior Vice President, Chief    2017     39,808           232,500           2,000 (4)    274,308   
+Financial Officer                                            
+Peter S. Kirlin    2018     591,001     390,000     516,000     41,040     8,132 (5)    1,546,173   
+Chief Executive Officer    2017     575,000     70,000     425,625     103,385     8,137 (5)    1,182,147   
+    2016     569,230           151,625     279,720     8,038 (5)    1,008,613   
+Frank Lee    2018     419,027     209,514     154,800     54,720           838,061   
+President, Asia IC Photomask                                            
+Constantine S. Macricostas    2018     365,792                       20,000 (6)    385,792   
+Executive Chairman    2017     425,000     31,875     141,875     143,840     21,982 (6)    764,572   
+    2016     423,270           151,625     186,480     21,982 (6)    783,357   
+Christopher J. Progler    2018     345,933     141,000     129,000     41,040     17,400 (7)    674,373   
+Vice President, Chief    2017     337,365     35,000     170,250     53,940     17,527 (7)    614,082   
+Technology Officer, Strategic    2016     337,365           67,928     153,846     17,173 (7)    576,312   
+Planning                                            
+[END TABLE]
+[BEGIN TABLE]
+Name Grant  Date Stock  Option  Awards  (#)(1) Restricted  Stock  Awards:  Number of  Shares of  Stock(1) Exercise  Price of  Option  Awards  ($) Grant  Date Fair  Value of  Stock and  Option  Awards  $ 
+Richelle Burr   01/02/2018     15,000     15,000     8.60     170,040   
+John P. Jordan                               
+Peter S. Kirlin   01/02/2018     15,000     60,000     8.60     557,040   
+Frank Lee   01/02/2018     20,000     18,000     8.60     209,520   
+Constantine S. Macricostas                               
+Christopher J. Progler   01/02/2018     15,000     15,000     8.60     170,040   
+[END TABLE]
+[BEGIN TABLE]
+  Option Awards Stock Awards 
+Name Grant  Date No. of  Securities  Underlying  Unexercised  Options  (#)  Exercisable No. of  Securities  Underlying  Unexercised  Options(1)  (#)  Un-  exercisable Option  Exercise  Price  ($) Option  Expiration  Date No. of  Shares or  Units of  Stock  That  Have Not  Vested  (#) Market  Value of  Shares or  Units of  Stock  That  Have Not  Vested  ($) 
+Richelle Burr   12/10/2010     15,000           6.71     12/10/2020               
+    12/9/2011     15,000           6.32     12/09/2021               
+    12/7/2012     5,625           5.46     12/7/2022               
+    12/13/2013     25,000           8.86     12/13/2023               
+    12/19/2014                             1,042 (2)    10,149   
+    12/19/2014     18,750     6,250     8.23     12/19/2024               
+    1/4/2016                             2,125 (2)    20,698   
+    1/4/2016     12,750     12,750     12.13     1/4/2026               
+    1/3/2017                             11,250 (2)    109,575   
+    1/3/2017     3,750     11,250     11.35     1/3/2027               
+    1/2/2018                             15,000 (2)    146,100   
+    1/2/2018           15,000     8.60     1/2/2028               
+John P. Jordan   9/5/2017                             22,500 (2)    219,150   
+Peter S. Kirlin   12/10/2010     20,000           6.71     12/10/2020               
+    12/9/2011     20,000           6.32     12/9/2021               
+    12/7/2012     33,000           5.46     12/7/2022               
+    12/13/2013     45,000           8.86     12/13/2023               
+    12/19/2014                             1,875 (2)    18,263   
+    12/19/2014     33,750     11,250     8.23     12/19/2024               
+    5/4/2015                             2,500 (2)    24,350   
+    5/4/2015     37,500     12,500     8.84     5/4/2025               
+    1/4/2016                             6,250 (2)    60,875   
+    1/4/2016     30,000     30,000     12.13     1/4/2026               
+    1/3/2017                             28,125 (2)    273,938   
+    1/3/2017     7,187     21,563     11.35     1/3/2027               
+    1/2/2018                             60,000 (2)    584,400   
+    1/2/2018           15,000     8.60     1/2/2028               
+Frank Lee   12/21/2009     6,000           4.42     12/21/2019               
+    7/21/2010     30,000           4.60     7/21/2020               
+    2/4/2011     12,000           6.71     2/4/2021               
+    12/9/2011     15,000           6.32     12/9/2021               
+    12/7/2012     30,000           5.46     12/7/2022               
+    12/13/2013     30,000           8.86     12/13/2023               
+    12/19/2014                             1,250 (2)    12,175   
+    12/19/2014     22,500     7,500     8.23     12/19/2024               
+    1/4/2016                             2,650 (2)    25,811   
+    1/4/2016     16,500     16,500     12.13     1/4/2026               
+    1/3/2017                             13,500 (2)    131,490   
+    1/3/2017     5,000     15,000     11.35     1/3/2027               
+    3/7/2017                             3,750 (2)    36,525   
+    3/7/2017     2,500     7,500     10.75     3/7/2027               
+    1/2/2018                             18,000 (2)    175,320   
+    1/2/2018           20,000     8.60     1/2/2028               
+[END TABLE]
+[BEGIN TABLE]
+  Option Awards Stock Awards 
+Name Grant  Date No. of  Securities  Underlying  Unexercised  Options  (#)  Exercisable No. of  Securities  Underlying  Unexercised  Options(1)  (#)  Un-  exercisable Option  Exercise  Price  ($) Option  Expiration  Date No. of  Shares or  Units of  Stock  That  Have Not  Vested  (#) Market  Value of  Shares or  Units of  Stock  That  Have Not  Vested  ($) 
+Christopher J. Progler   12/21/2009     19,600           4.42     12/21/2019               
+    12/10/2010     13,185           6.71     12/10/2020               
+    12/9/2011     17,500           6.32     12/9/2021               
+    12/7/2012     26,450           5.46     12/7/2022               
+    12/13/2013     33,000           8.86     12/13/2023               
+    12/19/2014                             1,375 (2)    13,393   
+    12/19/2014     24,750     8,250     8.23     12/19/2024               
+    1/4/2016                             2,800 (2)    27,272   
+    1/4/2016     16,500     16,500     12.13     1/4/2026               
+    1/3/2017                             11,250 (2)    109,575   
+    1/3/2017     3,750     11,250     11.35     1/3/2027               
+    1/2/2018                             15,000 (2)    146,100   
+    1/2/2018           15,000     8.60     1/2/2028               
+[END TABLE]
+[BEGIN TABLE]
+  Option Awards Stock Awards 
+Name (a) No. of  Shares  Acquired On  Exercise  (#)(b) Value  Realized  on  Exercise  ($)(c) No. of  Shares  Acquired  on Vesting  (#)(d) Value  Realized  on Vesting  ($)(e) 
+Richelle Burr   0     0     6,897     78,593   
+John P. Jordan   0     0     7,500     58,125   
+Peter S. Kirlin   0     0     18,750     213,438   
+Frank Lee   11,000     8,360     9,575     108,298   
+Constantine Macricostas   510,000     1,181,345     9,688     84,239   
+Christopher J. Progler   32,150     57,923     7,900     90,076   
+[END TABLE]
+ 26
+[BEGIN TABLE]
+Plan Category No. of Shares to be issued  upon exercise of  outstanding options,  warrants and rights  (a) Weighted-average  exercise price of  outstanding options,  warrants, and rights  (b) No. of Shares remaining  available for future  issuance under equity  compensation plans  (excluding securities  reflected in column)  (c) 
+Equity Compensation Plan Approved by Shareholders   2,842,857   $ 8.81     2,933,820 (1)  
+Equity Compensation Plans Not Approved by Shareholders   0     0     0   
+Total   2,842,857   $ 8.81     2,933,820   
+[END TABLE]
+[BEGIN TABLE]
+Name Severance  Payment  ($)(1) Benefit  Plans  ($)(2) Options  ($)(3) Restricted  Stock  ($)(4) Total  ($) 
+Richelle Burr                                
+Termination without cause or resignation for good reason.   266,102     18,000                 284,102   
+Termination upon change of control   399,153     18,000     26,538     286,522     730,213   
+John P. Jordan                                
+Termination without cause or resignation for good reason.   345,000     18,000                 363,000   
+Termination upon change of control   517,500     18,000           219,150     754,650   
+Peter S. Kirlin                                
+Termination without cause or resignation for good reason.   591,001     18,000                 609,001   
+Termination upon change of control   886,502     18,000     45,338     961,825     1,911,665   
+Christopher J. Progler                                
+Termination without cause or resignation for good reason.   345,933     18,000                 363,933   
+Termination upon change of control   518,900     18,000     29,558     296,340     862,798   
+[END TABLE]
+ 29
+[BEGIN TABLE]
+Name Fees Earned or  Paid in Cash  ($) Stock  Awards  ($) Total  ($) 
+Walter M. Fiederowicz   116,000 (3)    103,200 (1)    219,200   
+Joseph A. Fiorita   116,000 (4)    103,200 (1)    219,200   
+Constantine Macricostas   62,000 (5)    170,050 (2)    232,050   
+George Macricostas   81,000 (6)    103,200 (1)    184,200   
+Mitchell G. Tyson   91,000 (7)    103,200 (1)    194,200   
+Liang-Choo Hsia   81,000 (8)    103,200 (1)    184,200   
+[END TABLE]
+     35
+[BEGIN TABLE]
+ EMPLOYEE STOCK PURCHASE PLAN (Amended and Current as of March 25, 2019)  
+[END TABLE]
+A- A- 
+[BEGIN TABLE]
+ 5.2   [a]   Subject to the limitations set forth in Sections 5.2[b] and 6.3, and to the other terms and conditions of the Plan, in each offering under the Plan, each Eligible Employee on an Offering Date shall be offered the right during the Subscription Period as provided in Section 6.2, to subscribe to purchase such number of Shares as the percentage designated by the Plan Committee for such offering (not to exceed 5%) of his Compensation would buy, at a price equal to the product of (i) the fair market value of a Share on the Offering Date, multiplied by (ii) the Purchase Price percentage utilized under Section 5.3 hereof.  
+     [b]   Notwithstanding anything to the contrary contained in Sub-Section [a] of this Section 5.2, no Eligible Employee shall be eligible to subscribe for Shares in an Offering if, immediately after he would subscribe for such Shares, such subscription would permit his rights to purchase shares of Common Stock under all employee stock purchase plans of the Company to accrue at a rate which exceeds $25,000 (or such other maximum amounts as may be prescribed from time to time under the Code) of the fair market value of such shares (determined as of the Offering Date for such Offering) for each calendar year in which such subscription would be outstanding at any time. For purposes of this limitation the provisions of Section 423[b][8] of the Code shall be applicable.  
+[END TABLE]
+A- 
+[BEGIN TABLE]
+ 7.2   [a]   The aggregate Purchase Price for Shares shall be paid by payroll deductions in equal amounts over a period of 24 months (or such shorter period as shall be determined by the Plan Committee in accordance with the Plan) from the Offering Date. The period over which such payroll deductions are to be made in hereinafter referred to as the "Payment Period".  
+     [b]   Such payroll deductions with respect to an Offering shall commence as soon as practicable after the receipt of the Company of the executed Subscription Agreement authorizing such payroll deductions, and shall cease upon the earlier of the termination of the Payment Period or payment in full of the Purchase Price for such Shares. A Participant may cancel his subscription to the extent provided for in Article X, but no other change in terms of his Subscription Agreement may be made during the Payment Period and, in particular, in no event may a Participant change the amount of his payroll deductions under such Subscription Agreement. All payroll deductions withheld from a Participant under a Subscription Agreement shall be credited to his account under the Plan. In the event that payroll deductions are simultaneously being made with respect to more than one Subscription Agreement, the aggregate amount of such payroll deductions at any payday shall be credited first toward the payment for Shares subscribed for in the earliest Offering. A Participant may not make any separate cash payment into his account, provided, however, that a Participant who has been deemed to be in the employ of the Company while on an Authorized Leave of Absence without pay during the Payment Period, may upon his return to the actual employ of the Company, make a cash payment into his account in an amount not exceeding the aggregate of the payroll deductions which would have been made during such Authorized Leave of Absence.  
+[END TABLE]
+A-4
+[BEGIN TABLE]
+     [c]   All funds representing payroll deductions for the accounts of Participants will, except as provided in Section 7.3, be paid into the general funds of the Company. No interest will be paid or accrued under any circumstances on any funds withheld by the Company as payroll deductions pursuant to this Section 7.2 or on any other funds paid to the Company for purchases of Shares under the Plan.  
+[END TABLE]
+A- A- A- A-  

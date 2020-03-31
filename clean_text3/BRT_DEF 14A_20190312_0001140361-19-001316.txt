@@ -1,0 +1,245 @@
+
+[BEGIN TABLE]
+ BRT APARTMENTS CORP.  
+ (Name of Registrant as Specified In Its Charter)  
+[END TABLE]
+[BEGIN TABLE]
+ (Name of Person(s) Filing Proxy Statement, if other than the Registrant)  
+[END TABLE]
+[BEGIN TABLE]
+ Payment of Filing Fee (Check the appropriate box):  
+ ☒   No fee required.  
+  o   Fee computed on table below per Exchange Act Rules 14a-6(i)(1) and 0-11.  
+     (1)   Title of each class of securities to which transaction applies:  
+     (2)   Aggregate number of securities to which transaction applies:   
+     (3)   Per unit price or other underlying value of transaction computed pursuant to Exchange Act Rule 0-11 (set forth the amount on which the filing fee is calculated and state how it was determined):  
+     (4)   Proposed maximum aggregate value of transaction:  
+     (5)   Total fee paid:  
+  o   Fee paid previously with preliminary materials.  
+  o   Check box if any part of the fee is offset as provided by Exchange Act Rule 0-11(a)(2) and identify the filing for which the offsetting fee was paid previously. Identify the previous filing by registration statement number, or the Form or Schedule and the date of its filing.  
+     (1)   Amount Previously Paid:  
+     (2)   Form, Schedule or Registration Statement No.:   
+     (3)   Filing Party:   
+     (4)   Date Filed:   
+[END TABLE]
+[BEGIN TABLE]
+     S. Asher Gaffney  
+     Secretary  
+[END TABLE]
+[BEGIN TABLE]
+  Page 
+General   1   
+Questions and Answers About the Meeting and Voting   1   
+Governance of Our Company   4   
+General   4   
+Code of Business Conduct and Ethics   4   
+Risk Oversight   4   
+Leadership Structure   4   
+Committees of the Board   4   
+Director Qualifications   5   
+Independence of Directors   6   
+Compensation Committee Interlocks and Insider Participation   7   
+Compensation of Directors   7   
+Non-Management Director Executive Sessions   9   
+Communications with Directors   9   
+Information Regarding Beneficial Ownership of Principal Stockholders, Directors and Management   10   
+Election of Directors (Proposal 1)   11   
+Executive Compensation   15   
+Compensation Discussion and Analysis   15   
+Highlights   15   
+General   15   
+Say-on-Pay   16   
+Objectives of our Executive Compensation Program   16   
+Compensation Setting Process   16   
+Components of Executive Compensation   18   
+Chairman of the Board's Compensation   21   
+Deductibility of Executive Compensation   21   
+Analysis   21   
+Summary Compensation Table   23   
+Grant of Plan-Based Awards   25   
+Outstanding Equity Awards at Fiscal Year-End   25   
+Option Exercises and Stock Vested   26   
+Compensation Committee Report   26   
+Pay Ratio   26   
+Certain Relationships and Related Transactions   27   
+Introduction   27   
+Related Party Transactions   27   
+Policies and Procedures   28   
+Independent Registered Public Accounting Firm (Proposal 2)   29   
+General   29   
+Audit and Other Fees   29   
+Approval Policy for Audit and Non-Audit Services   29   
+Report of the Audit Committee    30    
+Section 16(a) Beneficial Ownership Reporting Compliance   32   
+Additional Information and Notice of Internet Availability of Proxy Materials   32   
+[END TABLE]
+   4
+[BEGIN TABLE]
+ Name   Audit   Compensation   Nominating  and Corporate  Governance  
+ Alan H. Ginsburg       ✓      
+ Louis C. Grassi   Chair*       ✓  
+ Gary Hurand   ✓       Chair  
+ Jeffrey Rubin       Chair      
+ Jonathan H. Simon              
+ Elie Weiss   ✓       ✓  
+ Number of Meetings   4   2   2  
+[END TABLE]
+ 6
+[BEGIN TABLE]
+    Committee 
+  Board Audit Compensation Nominating 
+Annual retainer(1) $ 20,000   $ 5,000   $ 4,000   $ 3,000   
+Presence in-person at meeting   1,250     1,000     1,000     1,000   
+Presence by telephone at meeting   750     750     750     750   
+Chairman's annual retainer(1)   247,500 (2)   10,000     8,000     4,000   
+[END TABLE]
+[BEGIN TABLE]
+  Fees  Earned  or Paid  in Cash  ($)(1) Stock  Awards  ($)(2) All  Other  Compensation  ($)(3) Total  ($) 
+Alan H. Ginsburg   27,500     42,920     13,388     83,808   
+Louis C. Grassi   47,250     42,920     13,388     103,558   
+Gary Hurand   40,250     42,920     13,388     96,558   
+Israel Rosenzweig   247,500 (4)   37,450     29,015     313,965   
+Jeffrey Rubin   37,750     42,920     13,388     94,058   
+Jonathan H. Simon   28,000     42,920     13,388     84,308   
+Elie Weiss   35,000     42,920     13,388     91,308   
+[END TABLE]
+[BEGIN TABLE]
+Name Unvested Stock  Awards (#) Market Value  of Unvested  Stock  Awards ($) 
+Alan H. Ginsburg   17,250 (1)   207,690   
+Louis C. Grassi   17,250 (1)   207,690   
+Gary Hurand   17,250 (1)   207,690   
+Israel Rosenzweig   21,153 (2) (3)   331,891   
+Jeffrey Rubin   17,250 (1)   207,690   
+Jonathan H. Simon   17,250 (1)   207,690   
+Elie Weiss   17,250 (1)   207,690   
+[END TABLE]
+ 9
+[BEGIN TABLE]
+Name of  Beneficial Owner Number of  Shares  Beneficially  Owned(1) Percent  of Class 
+Alan H. Ginsburg(2)   41,930     *   
+Fredric H. Gould(2)(3)   3,658,189     22.9   
+Jeffrey A. Gould(2)(4)   3,433,412     21.5   
+Matthew J. Gould(2)(5)   3,437,241     21.6   
+Mitchell Gould   167,554     1.0   
+Louis C. Grassi(2)   47,493     *   
+Gary Hurand(2)(6)   384,696     2.4   
+David W. Kalish(7)   494,096     3.1   
+Israel Rosenzweig(2)   419,040     2.6   
+Steven Rosenzweig   36,718     *   
+Jeffrey Rubin(8)   48,660     *   
+Jonathan H. Simon(2)   41,930     *   
+Elie Weiss(2)(9)   59,271     *   
+George Zweier   72,690     *   
+Gould Investors L.P(10)   2,989,898     18.7   
+All directors and executive officers as a group (16 persons)   6,232,832     38.7   
+[END TABLE]
+ 11
+[BEGIN TABLE]
+ Name and Age   Principal Occupation for the past Five Years and  other Directorships or Significant Affiliations  
+ Matthew J. Gould  59 years    Director since 2001 and a Senior Vice President since 1993. Vice President of REIT Management Corp., former advisor to the Company, since 1986; from 1999 through 2011, Director and Senior Vice President, from 1989 through 1999, President, from 2011 through 2013, Vice Chairman and from 2013, Chairman of the Board of Directors of One Liberty Properties; from 1996 through 2012, President, and from 2013, Chairman of the Board, of Georgetown Partners, Inc. He is the son of Fredric H. Gould and brother of Jeffrey A. Gould. His experience in real estate matters, including the acquisition and sale of real property, mortgage financing and real estate management, makes him a valuable member of our board in its deliberations.  
+ Louis C. Grassi 63 years    Director since 2003; Managing partner of Grassi & Co. CPAs, P.C. since 1980; Director of Flushing Financial Corp. since 1998 and serves as chairman of its audit committee. Mr. Grassi has been involved for more than 28 years in accounting and auditing issues. His knowledge of financial and accounting matters and his experience as a director and member of the audit committee of a publicly traded financial institution provides him with the accounting and governance background and the skill needed as the chairman and financial expert of our audit committee.  
+ Israel Rosenzweig 71 years    Chairman of the Board since 2013, Director and Vice Chairman of the Board from 2012 through 2013 and Senior Vice President from 1998 through 2012; Vice President of Georgetown Partners, Inc., since 1997; from 2000 to 2009, President of GP Partners, Inc., an affiliate of Gould Investors L.P., which provided advisory services in the real estate and financial services industries to an investment advisor; Senior Vice President of One Liberty Properties, Inc. since 1989. His experience as a lending officer at a major financial institution, his knowledge and experience in business, finance and accounting matters and his more than 34 years of experience in the real estate industry provides the Board with an experienced and knowledgeable chairman.  
+ Jeffrey Rubin 50 years    Director since 2004; since 2009, President and CEO of The JR Group, which provides consulting services to the electronic payment processing industry; President and Chief Executive Officer of Premier Payments, a provider of credit card processing services for merchants throughout the United States, from 2012 until its sale in 2015; President and director of Newtek Business Services, Inc., a provider of business services and financial products to small and medium sized businesses, from 1999 to 2008; Chief Executive Officer of Summit Processing Group LLC since 2008. Mr. Rubin's experience as the president and a director of a public company and his experience in business and financial matters are valuable to our company as the chairman of our compensation committee and in his activities as a director.  
+[END TABLE]
+[BEGIN TABLE]
+ Name and Age   Principal Occupation for the past Five Years and  other Directorships or Significant Affiliations  
+ Fredric H. Gould 83 years    Director since 1983 and Chairman of our Board from 1984 through 2013; with respect to One Liberty Properties, Inc., Chairman of the Board of Directors from 1989 to 2013, Vice Chairman of the Board since 2013, Chief Executive Officer from 2005 to 2007, and President from 2005 to 2006; Chairman of the Board of Georgetown Partners, Inc. from 1997 to 2012 and director since 2013; President since 1986 of REIT Management Corp., former advisor to the Company; Director of East Group Properties, Inc. since 1998. He is the father of Matthew J. Gould and Jeffrey A. Gould. Mr. Gould has been involved in the real estate industry for more than 50 years, as an investor, owner, manager, and as the chief executive officer of publicly traded real estate entities and real estate investment trusts. He has served as a director of four real estate investment trusts, and as a director and a member of the loan committee of two savings and loan associations. His knowledge and experience in business, finance, tax, accounting and legal matters and his knowledge of our company's business and history makes him an important member of our Board.  
+ Gary Hurand 72 years    Director since 1990; President of Dawn Donut Systems, Inc. since 1971; President of Management Diversified, Inc., a real property management and development company, since 1987; Director of Citizens Republic Bancorp Inc. and predecessor from 1990 through 2013. He is the father-in-law of Elie Weiss. Mr. Hurand brings valuable business and leadership skills to the Board in light of his extensive experience in commercial real estate and in business operations and as a former director and member of the audit committee of a publicly traded financial institution.  
+ Elie Weiss 46 years    Director since 2007; engaged in real estate development since 1997; Executive Vice President of Robert Stark Enterprises, Inc., a company engaged in the development and management of retail, office and multi-family residential properties from 1997 to 2007; President of Real Estate for American Greetings from 2013 to 2017. Mr. Weiss is currently CEO of Five Forty Investments and a principal in a restaurant development and operating group, Paladar Restaurant Group. He is also actively engaged in managing his personal real estate investments. He is the son-in-law of Gary Hurand. His real estate and entrepreneurial experiences makes him a valuable member of our board.  
+[END TABLE]
+[BEGIN TABLE]
+ Name and Age   Principal Occupation for the past Five Years and  other Directorships or Significant Affiliations  
+ Alan H. Ginsburg 80 years    Director since 2006; Chief Executive Officer since 1987 of The CED Companies, a private company which develops, builds and manages multi-family apartment communities. His more than 30 years experience as chief executive officer of a real estate developer/manager provides our board with a long-term perspective on the real estate industry.  
+ Jeffrey A. Gould  53 years    Director since 1997, President and Chief Executive Officer since 2002 and President and Chief Operating Officer from 1996 to 2001; Senior Vice President and director since 1999 of One Liberty Properties; Senior Vice President of Georgetown Partners, Inc., managing general partner of Gould Investors L.P., since 1996. He is the son of Fredric H. Gould and the brother of Matthew J. Gould. Mr. Jeffrey A. Gould's experience in a broad range of real estate activities, including real estate evaluation and management, real estate acquisitions and dispositions, mortgage lending and his 15 years as our President enables him to provide key insights on strategic, operational and financial matters related to our business.  
+ Jonathan H. Simon 53 years    Director since 2006; President and Chief Executive Officer since 1994 of The Simon Baron Development Group (f/k/a The Simon Development Group), a private company which develops, owns and manages a diverse portfolio of residential, retail and commercial real estate, primarily in New York City. His background in the real estate industry and in particular, his experience in real estate development, affords him an understanding of the challenges faced in real estate development activities which is helpful in our development and acquisition activities.  
+[END TABLE]
+      20
+[BEGIN TABLE]
+  2018  Base  Salary ($) 2017  Base  Salary ($) 2018  Bonus  ($)(1) 2017  Bonus  ($)(2) Percentage  Increase(3) 
+Jeffrey A. Gould,   806,844     784,375     120,000     110,000     3.6   
+President and CEO                                
+Mitchell Gould,   397,975     382,638     60,300     55,000     4.7   
+Executive Vice President                                
+George Zweier,   292,275     278,774     36,400     35,000     4.7   
+Vice President and CFO                                
+[END TABLE]
+ 22
+[BEGIN TABLE]
+Name Value of Unvested  Restricted Stock Held as of  September 30, 2018 ($) Value of Outstanding RSUs at September 30, 2018 ($)(1) 
+Jeffrey A. Gould   828,533     222,740   
+George Zweier   409,360     120,400   
+Mitchell Gould   681,765     132,400   
+David W. Kalish   466,406     201,670   
+Steven Rosenzweig   200,610     150,500   
+[END TABLE]
+[BEGIN TABLE]
+Name and Principal Position Year Salary  ($)(1)(2) Bonus  ($)(1)(3) Stock  Awards  ($)(4) All Other  Compensation  ($)(5) Total  ($) 
+Jeffrey A. Gould   2018     806,844     120,000     156,584     178,888 (6)   1,262,316   
+President and CEO    2017     784,375     110,000     110,648     138,767     1,143,790   
+    2016     704,129     110,000     277,849     367,564     1,459,542   
+George Zweier   2018     292,275     36,400     82,880     71,821 (7)   483,376   
+Vice President and CFO    2017     278,366     35,000     63,300     51,713     428,787   
+    2016     267,366     35,000     146,150     45,706     494,222   
+Mitchell Gould   2018     397,975     60,300     124,320     120,183 (8)   702,778   
+Executive Vice President    2017     382,638     55,000     96,005     56,638     590,281   
+    2016     370,621     55,000     190,835     49,808     666,264   
+David W. Kalish   2018     207,057     —     84,810     262,567 (9)   554,434   
+Senior Vice President, Finance    2017     214,591     —     59,080     234,820     508,491   
+    2016     194,053     —     220,699     270,809     685,561   
+Steven Rosenzweig   2018     254,304     —     35,520     263,130 (10)   552,954   
+Vice President    2017     260,200     —     26,687     215,630     502,417   
+    2016     188,584     —     157,128     135,084     480,796   
+[END TABLE]
+ 24
+[BEGIN TABLE]
+Name Grant Date All Other Stock Awards:  Number of Shares of  Stock or Units (#) Grant Date  Fair Value of  Stock Awards ($) 
+Jeffrey A. Gould   3/21/18     13,225     156,584   
+George Zweier   3/21/18     7,000     82,880   
+Mitchell Gould   3/21/18     10,500     124,320   
+David W. Kalish   3/21/18     7,163     84,810   
+Steven Rosenzweig   3/21/18     3,000     35,520   
+[END TABLE]
+[BEGIN TABLE]
+  Stock Awards 
+Name Number of  Shares or  Units of  Stock that  Have Not  Vested  (#) Market  Value of  Shares or  Units of  Stock That  Have Not  Vested  ($) Equity  Incentive  Plan  Awards:  Number of  Unearned  Shares,  Units or  Other  Rights That  Have Not  Vested  (#)(6) Equity  Incentive  Plan  Awards:  Market or  Payout  Value of  Shares,  Units or  Other  Rights That  Have Not  Vested  ($)(6) 
+Jeffrey A. Gould   68,815 (1)   828,553     41,625     501,165   
+George Zweier   34,000 (2)   409,360     22,500     270,900   
+Mitchell Gould   56,625 (3)   681,765     24,750     297,990   
+David W. Kalish   38,738 (4)   466,406     37,687     453,751   
+Steven Rosenzweig   16,662 (5)   200,610     28,125     338,625   
+[END TABLE]
+[BEGIN TABLE]
+  Stock Awards 
+Name Number of  Shares Acquired  on Vesting  (#) Value  Realized  on Vesting  ($) 
+Jeffrey A. Gould   13,725     179,798   
+George Zweier   6,000     78,600   
+Mitchell Gould   10,125     132,638   
+David W. Kalish   10,550     138,205   
+Steven Rosenzweig   —     —   
+[END TABLE]
+[BEGIN TABLE]
+     The Compensation Committee  
+     Jeffrey Rubin (Chairman)  
+     Alan Ginsburg  
+     Jonathan H. Simon  
+[END TABLE]
+  28
+[BEGIN TABLE]
+  2018 2017 
+Audit fees(1) $ 564,906   $ 524,085   
+Audit-related fees   —     —   
+Tax fees   —     6,883   
+All other fees   —     —   
+Total fees $ 564,906   $ 530,968   
+[END TABLE]
+ 30
+[BEGIN TABLE]
+     Louis C. Grassi (Chairman)  
+     Gary Hurand  
+     Elie Weiss  
+[END TABLE]
+[BEGIN TABLE]
+     By order of the Board of Directors  
+     S. Asher Gaffney, Secretary  
+[END TABLE]
+  

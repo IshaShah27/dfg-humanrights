@@ -1,0 +1,157 @@
+
+[BEGIN TABLE]
+  o   Preliminary Proxy Statement o   Confidential, for Use of the Commission Only (as permitted by Rule 14a-6(e)(2))  
+ ☒   Definitive Proxy Statement o   Definitive Additional Materials o   Soliciting Material under §240.14a-12  
+[END TABLE]
+[BEGIN TABLE]
+ CHF SOLUTIONS, INC.  
+ (Name of Registrant as Specified In Its Charter)  
+ (Name of Person(s) Filing Proxy Statement, if other than the Registrant)  
+[END TABLE]
+[BEGIN TABLE]
+ ☒   No fee required.  
+  o   Fee computed on table below per Exchange Act Rules 14a-6(i)(1) and 0-11.  
+     (1)   Title of each class of securities to which transaction applies:  
+     (2)   Aggregate number of securities to which transaction applies:  
+     (3)   Per unit price or other underlying value of transaction computed pursuant to Exchange Act Rule 0-11 (set forth the amount on which the filing fee is calculated and state how it was determined):  
+     (4)   Proposed maximum aggregate value of transaction:  
+     (5)   Total fee paid:  
+  o   Fee paid previously with preliminary materials.  
+  o    Check box if any part of the fee is offset as provided by Exchange Act Rule 0-11(a)(2) and identify the filing for which the offsetting fee was paid previously. Identify the previous filing by registration statement number, or the Form or Schedule and the date of its filing.  
+     (1)   Amount Previously Paid:  
+     (2)   Form, Schedule or Registration Statement No.:  
+     (3)   Filing Party:  
+     (4)   Date Filed:  
+[END TABLE]
+[BEGIN TABLE]
+     By Order of the Board of Directors,  
+       Thomas Lynch    
+       General Counsel, Chief Compliance Officer & Secretary    
+[END TABLE]
+[BEGIN TABLE]
+About the Special Meeting   1   
+Proposal 1—Reverse Stock Split   5   
+Proposal 2—Adjournment of Special Meeting   13   
+Security Ownership of Certain Beneficial Owners and Management   14   
+Additional Matters   16   
+Other Matters   16   
+Householding   16   
+Requirements for Submission of Stockholder Proposals and Nominations for 2019 Annual Meeting   16   
+Solicitation by Board; Expenses   17   
+Important Notice Regarding the Availability of Proxy Materials for the Stockholder Meeting to be Held on December 28, 2018   17   
+Appendix A   A-1   
+[END TABLE]
+[BEGIN TABLE]
+ Who is soliciting my vote?  
+[END TABLE]
+[BEGIN TABLE]
+ What is the purpose of the special meeting?  
+[END TABLE]
+[BEGIN TABLE]
+ Who is entitled to vote?  
+[END TABLE]
+[BEGIN TABLE]
+ What is the difference between a stockholder of record and a beneficial owner?  
+[END TABLE]
+[BEGIN TABLE]
+ Can I vote my shares without attending the special meeting?  
+[END TABLE]
+[BEGIN TABLE]
+ May I attend the special meeting and vote my shares in person?  
+[END TABLE]
+[BEGIN TABLE]
+ Can I change my vote?  
+[END TABLE]
+[BEGIN TABLE]
+ What does it mean if I receive more than one proxy card or voting instruction card?  
+[END TABLE]
+[BEGIN TABLE]
+ What if I do not vote for some of the items listed on my proxy card or voting instruction card?  
+[END TABLE]
+[BEGIN TABLE]
+ How many shares must be present to hold the meeting?  
+[END TABLE]
+[BEGIN TABLE]
+ What vote is required to approve each item of business?  
+[END TABLE]
+[BEGIN TABLE]
+ Who will count the votes and where can I find the voting results?  
+[END TABLE]
+[BEGIN TABLE]
+ Who can help answer my other questions?  
+[END TABLE]
+[BEGIN TABLE]
+ Reasons for the Reverse Stock Split  
+[END TABLE]
+[BEGIN TABLE]
+ Determination of the Reverse Stock Split Ratio  
+[END TABLE]
+[BEGIN TABLE]
+ Impact of the Reverse Stock Split, if Implemented  
+[END TABLE]
+[BEGIN TABLE]
+  Pre-Reverse  Split 1-for-2 1-for-6 1-for-10 1-for-14 
+Number of authorized shares of common stock   100,000,000     100,000,000     100,000,000     100,000,000     100,000,000   
+Number of outstanding shares of common stock   7,074,407     3,537,203     1,179,067     707,440     505,315   
+Number of authorized shares of preferred stock   40,000,000     40,000,000     40,000,000     40,000,000     40,000,000   
+Number of shares of common stock issuable upon conversion of outstanding shares of preferred stock(1)   266,680     133,340     44,446     26,668     19,049   
+Number of shares of common stock issuable upon exercise of outstanding stock options, restricted stock units and warrants   10,510,264     5,255,132     1,751,710     1,051,026     750,733   
+Number of shares of common stock reserved for issuance in connection with future awards under the Company's equity incentive plans(2)   554,287     277,143     92,381     55,428     39,592   
+Number of shares of common stock authorized, but unissued and unreserved(3)   81,861,042     90,930,522     96,976,842     98,186,106     98,704,360   
+[END TABLE]
+[BEGIN TABLE]
+ Certain Risk Factors Associated with the Reverse Stock Split or Nasdaq Delisting  
+[END TABLE]
+ 9
+[BEGIN TABLE]
+ Vote Required  
+[END TABLE]
+[BEGIN TABLE]
+ Procedure for Effecting the Reverse Stock Split  
+[END TABLE]
+[BEGIN TABLE]
+ Material Federal Income Tax Consequences  
+[END TABLE]
+  13
+[BEGIN TABLE]
+Name of Beneficial Owner Number of Shares Right to Acquire (1) Total Aggregate Percent of Class (2) 
+John L. Erb    29,295       237,458  (3)    266,753       3.6% 
+Steve Brandt   71      40,116       40,187        * 
+Matthew E. Likens   71      40,116       40,187        * 
+Jon W. Salveson   69      53,362       53,431        * 
+Gregory D. Waller   —      59,944       59,944        * 
+Warren S. Watson   69      53,362       53,431        * 
+Claudia Drayton   37      49,691       49,728        * 
+All directors and named executive officers as a group (7 persons)   29,597      534,049       563,661       7.3% 
+Sabby Management, LLC(4)  10 Mountainview Road, Suite 205  Upper Saddle River, New Jersey 07458   472,791     1,292,193     1,764,984      6.6% 
+CVI Investments, Inc.(5)  P.O. Box 309GT Ugland House, South Church Street George Town, Grand Cayman KY1-1104 Cayman Islands   368,571     1,248,800     1,617,371      5.1% 
+Empery Asset Management, LP(6) 1 Rockefeller Plaza, Suite 1205 New York, New York 10020   368,571     1,273,801     1,642,372      5.1% 
+[END TABLE]
+ 15
+[BEGIN TABLE]
+ Other Matters  
+[END TABLE]
+[BEGIN TABLE]
+ Householding  
+[END TABLE]
+[BEGIN TABLE]
+ Requirements for Submission of Stockholder Proposals and Nominations for 2019 Annual Meeting  
+[END TABLE]
+[BEGIN TABLE]
+ Solicitation by Board; Expenses  
+[END TABLE]
+[BEGIN TABLE]
+ Important Notice Regarding the Availability of Proxy Materials for the Stockholder Meeting to be Held on December 28, 2018  
+[END TABLE]
+[BEGIN TABLE]
+     By Order of the Board of Directors,  
+       Thomas Lynch    
+       General Counsel, Chief Compliance Officer & Secretary    
+       November 30, 2018    
+[END TABLE]
+[BEGIN TABLE]
+     CHF SOLUTIONS, INC.  
+     By:       
+                           ,                     
+[END TABLE]
+A-  

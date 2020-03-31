@@ -1,0 +1,1127 @@
+
+UNITED STATES
+SECURITIES AND EXCHANGE COMMISSION
+Washington, D.C. 20549
+SCHEDULE 14A INFORMATION
+Proxy Statement Pursuant to Section 14(a) of the
+Securities Exchange Act of 1934
+(Amendment No.     )
+Filed by the Registrant   ☒                               Filed by a Party other than the Registrant   ☐
+Check the appropriate box:
+[BEGIN TABLE]
+☐   Preliminary Proxy Statement 
+☐   Confidential, for Use of the Commission Only (as permitted by Rule 14a-6(e)(2)) 
+☒   Definitive Proxy Statement 
+☐   Definitive Additional Materials 
+☐   Soliciting Material under Rule 14a-12 
+[END TABLE]
+NVR, INC.
+(Name of registrant as specified in its charter)
+(Name of person(s) filing proxy statement, if other than the registrant)
+Payment of Filing Fee (Check the appropriate box):
+[BEGIN TABLE]
+☒   No fee required. 
+☐   Fee computed on table below per Exchange Act Rules 14a-6(i)(4) and 0-11. 
+    (1)   Title of each class of securities to which transaction applies:  
+    (1)   Title of each class of securities to which transaction applies:  
+    (2)   Aggregate number of securities to which transaction applies:  
+    (3)   Per unit price or other underlying value of transaction computed pursuant to Exchange Act Rule 0-11 (set forth the amount on which the filing fee is calculated and state how it was determined):  
+    (4)   Proposed maximum aggregate value of transaction:  
+    (5)   Total fee paid:  
+☐   Fee paid previously with preliminary materials. 
+☐   Check box if any part of the fee is offset as provided by Exchange Act Rule 0-11(a)(2) and identify the filing for which the offsetting fee was paid previously. Identify the previous filing by registration statement number, or the Form or Schedule and the date of its filing. 
+    (1)   Amount Previously Paid:  
+    (2)   Form, Schedule or Registration Statement No.:  
+    (2)   Form, Schedule or Registration Statement No.:  
+    (3)   Filing Party:  
+    (4)   Date Filed:  
+[END TABLE]
+NVR, INC.
+11700 Plaza America Drive
+Reston, VA  20190
+NOTICE OF ANNUAL MEETING OF SHAREHOLDERS
+To be held on Thursday, May 2, 2019 
+11:00 A.M. Eastern Time
+NVR, Inc. will hold its Annual Meeting of Shareholders at 11:00 A.M. (Eastern Time) on Thursday, May 2, 2019.  We will hold the meeting at our corporate headquarters located at 11700 Plaza America Drive, Suite 500, Reston, Virginia, 20190.
+We are holding the meeting for the following purposes:
+[BEGIN TABLE]
+1. To elect twelve directors from the nominees named in the attached Proxy Statement; 
+2. To ratify the appointment of the accounting firm of KPMG LLP as our independent auditor for the year ending December 31, 2019; 
+3. To vote on an advisory resolution regarding the approval of compensation paid to certain executive officers; and 
+4. To transact other business that may properly come before the Annual Meeting or any adjournment or postponement of the Annual Meeting. 
+[END TABLE]
+The above items are fully described in the attached Proxy Statement.  We have not received notice of any other matters that may properly be presented at the meeting.
+Only shareholders of record at the close of business on March 1, 2019 will be entitled to vote at the meeting.  Whether or not you plan to attend the meeting, you are urged to date and sign the enclosed proxy card and return it promptly in the accompanying envelope. You are invited to attend the meeting in person.  If you do attend the meeting, you may withdraw your proxy and vote in person.
+[BEGIN TABLE]
+    By Order of the Board of Directors, 
+    James M. Sack 
+    Secretary and General Counsel 
+    March 15, 2019 
+[END TABLE]
+Table of Contents
+[BEGIN TABLE]
+        Page 
+I.   Proxy Statement   1 
+II.   Proposal No. 1 - Election of Directors   3 
+    Biographical Information for Our Director Nominees   3 
+III.   Corporate Governance Principles and Board Matters   6 
+    Board Leadership Structure, Committee Composition and Role in Risk Oversight   7 
+    Board Independence   8 
+    Board Committees   9 
+    Communications with the Board of Directors   12 
+    Review, Approval or Ratification of Related Person Transactions   12 
+    Transactions with Related Persons   12 
+    Security Ownership of Certain Beneficial Owners and Management   13 
+    Report of the Audit Committee   15 
+IV.   Compensation Discussion and Analysis   16 
+    Report of the Compensation Committee   33 
+    Summary Compensation Table   34 
+    Grants of Plan-Based Awards   35 
+    Outstanding Equity Awards   37 
+    Option Exercises and Stock Vested   38 
+    Non-Qualified Deferred Compensation Table   38 
+    Narrative Disclosures of Termination and Change of Control Payments   39 
+    Pay Ratio   43 
+    Director Compensation Table   44 
+V.   Proposal No. 2 - Ratification of Appointment of Independent Auditor   48 
+VI.   Proposal No. 3 - Advisory Vote on Executive Compensation   49 
+VII   Shareholder Proposals and Other Matters   50 
+[END TABLE]
+NVR, INC.
+11700 Plaza America Drive
+Suite 500
+Reston, VA  20190
+Proxy Statement
+This Proxy Statement, proxy card and the Annual Report for the year ended December 31, 2018 are being mailed to our shareholders on or about March 15, 2019 in connection with the solicitation on behalf of the Board of Directors (the "Board") of NVR, Inc. ("NVR"), a Virginia corporation, of proxies for use at our Annual Meeting of Shareholders.  The Annual Meeting will be held on Thursday, May 2, 2019, at our corporate headquarters located at 11700 Plaza America Drive, Suite 500, Reston, Virginia 20190, at 11:00 A.M., Eastern Time, and at any and all postponements and adjournments thereof.  Shareholders should contact NVR's Investor Relations Department at the same address to obtain directions to be able to attend the Annual Meeting in person.
+We bear the cost of proxy solicitation, including expenses in connection with preparing, assembling and mailing the proxy solicitation materials and all papers accompanying them.  We may reimburse brokers or persons holding shares in their names or in the names of their nominees for their expenses in sending proxies and proxy materials to beneficial owners.  In addition to solicitation by mail, certain of our officers, directors and regular employees, who will receive no extra compensation for their services, may solicit proxies by telephone, facsimile transmission, internet or personally.  We have retained Georgeson Inc. to assist in the solicitation of brokers, bank nominees and institutional holders for a fee of approximately $5,500 plus out-of-pocket expenses.
+All voting rights are vested exclusively in the holders of our common stock, par value $.01 per share (the "Common Stock").  Only shareholders of record as of the close of business on March 1, 2019 (the "Record Date") are entitled to receive notice of and to vote at the Annual Meeting.  Shareholders include holders (the "Participants") owning stock in our Profit Sharing Trust Plan and Employee Stock Ownership Plan (together, the "Plans").
+The accompanying proxy card should be used to instruct the persons named as proxies to vote the shareholder's shares in accordance with the shareholder's directions.  The persons named in the accompanying proxy card will vote shares of Common Stock represented by all valid proxies in accordance with the instructions contained thereon.  In the absence of instructions, shares represented by properly executed proxies will be voted:
+[BEGIN TABLE]
+• FOR the election of the twelve director nominees named in this Proxy Statement; 
+• FOR the ratification of the appointment of KPMG LLP as our independent auditor for 2019; 
+• FOR the approval of the compensation paid to certain executive officers; and 
+• in the discretion of the named proxies with respect to any other matters presented at the Annual Meeting. 
+[END TABLE]
+If a shareholder holds shares in a brokerage account or through a broker, bank, trust or other nominee, the rules of the New York Stock Exchange (the "NYSE") prohibit the nominee from voting the shareholder's shares on any proposal to be voted on at the Annual Meeting, other than ratification of the appointment of KPMG LLP as our independent auditor, unless the nominee has received an instruction from the shareholder regarding how the shares should be voted.  Any shares for which an instruction has not been received will result in a "broker non-vote" on the proposal for which no instruction was provided.  
+For a quorum to exist at the Annual Meeting, holders of shares representing a majority of the votes entitled to be cast on each matter must be present in person or by proxy.  Shares voted "abstain" or represented by a broker non-vote on a matter will be considered present at the Annual Meeting for the purpose of establishing a quorum.  For a director to be deemed elected, the director must receive a majority of votes cast "for" and "against" the director's election. Similarly, for the proposals to ratify the appointment of the independent auditor and to approve the compensation of certain executive officers to be deemed approved, the proposal must receive a majority of votes cast "for" and "against" the proposal.  For these proposals, therefore, abstentions and broker non-votes will have no effect on the result of the vote.  
+We strongly encourage all of our shareholders who hold shares of Common Stock in a brokerage account or through any other nominee to provide voting instructions to their broker, bank, trustee or other nominee to ensure that their shares are voted at the Annual Meeting.
+Any shareholder may revoke his or her proxy at any time prior to its use by (1) providing our Secretary, at 11700 Plaza America Drive, Suite 500, Reston, Virginia 20190, written notice of revocation, (2) duly executing a proxy card bearing a later date than the date of the previously duly executed proxy card, or (3) attending the Annual Meeting and voting in person  (attendance at the Annual Meeting alone will not act to revoke a prior proxy card).  Execution of the enclosed proxy card will not affect your right to vote in person if you should later decide to attend the Annual Meeting.
+The proxy card also should be used by Participants to instruct the trustee of the Plans how to vote shares of Common Stock held on their behalf.  The trustee is required under the trust agreement to establish procedures to ensure that the instructions received from Participants are held in confidence and not divulged, released or otherwise utilized in a manner that might influence the Participants' free exercise of their voting rights.  Proxy cards representing shares held by Participants must be returned to the tabulator by April 29, 2019 using the enclosed return envelope and should not be returned to NVR.  If shares are owned through the Plans and the Participant does not submit voting instructions by April 29, 2019, the trustee of the Plans will vote such shares in the same proportion as the voting instructions received from other Participants.  Participants who wish to revoke a proxy will need to contact the trustee and follow its instructions.
+As of the Record Date, we had a total of 3,627,219 shares of Common Stock outstanding, each share of which is entitled to one vote. The presence, either in person or by proxy, of persons entitled to vote a majority of the outstanding Common Stock is necessary to constitute a quorum for the transaction of business at the Annual Meeting.  Under our Restated Articles of Incorporation and Bylaws, holders of Common Stock are not entitled to vote such shares on a cumulative basis, including with respect to the voting for directors.
+Important Notice Regarding the Availability of Proxy Materials for the
+Shareholder Meeting to Be Held on May 2, 2019:
+This Proxy Statement and our Annual Report for the year ended December 31, 2018 are available at www.edocumentview.com/nvr. Election of Directors
+(Proposal No. 1)
+Director Nominees
+Our Restated Articles of Incorporation state that the number of directors on our Board will be no less than seven and no more than thirteen, as established from time to time by Board resolution.  Our Board has set the size of the Board at twelve members beginning with the Board term commencing at the Annual Meeting.  The following persons have been nominated by the Board to be elected to hold office for a one-year term ending at the 2020 Annual Meeting and until their successors are duly elected and qualified:
+[BEGIN TABLE]
+Name   Age   Year First Elected or Appointed  Independent   Other Public Company Boards 
+Name   Age   Year First Elected or Appointed  Independent   Other Public Company Boards 
+Dwight C. Schar   77   1993   No   0 
+C. E. Andrews   67   2008   Yes   1 
+Thomas D. Eckert   71   2011   Yes   1 
+Alfred E. Festa   59   2008   Yes   1 
+Ed Grier   64   2013   Yes   1 
+Manuel H. Johnson   70   1993   Yes   1 
+Alexandra A. Jung   48   2018   Yes   0 
+Mel Martinez   72   2012   Yes   1 
+William A. Moran   72   1993   No   0 
+David A. Preiser   61   1993   Yes   1 
+W. Grady Rosier   70   2008   Yes   1 
+Susan Williamson Ross   57   2016   Yes   0 
+[END TABLE]
+C. E. Andrews has been a director since May 6, 2008.  Mr. Andrews served as Chief Executive Officer and a member of the board of directors of MorganFranklin Consulting, LLC from May 2013 through March 2017 and continues as a member of the board of directors.  From June 2009 until February 2012, Mr. Andrews was the president of RSM McGladrey Business Services, Inc.  Prior to that, Mr. Andrews served as the president of SLM Corporation ("Sallie Mae").  He joined Sallie Mae in 2003 as the executive vice president of accounting and risk management, and held the title of chief financial officer from 2006 to 2007.  Prior to joining Sallie Mae, Mr. Andrews spent approximately 30 years at Arthur Andersen.  He served as managing partner for Arthur Andersen's mid-Atlantic region, and was promoted to global managing partner for audit and advisory services in 2002.  Mr. Andrews serves on the board of Marriott Vacations Worldwide Corporation.   Within the past five years, Mr. Andrews previously served on the board of WashingtonFirst Bankshares, Inc.  The Board believes that Mr. Andrews is highly qualified to serve on our Board based on his executive leadership experience, his financial and accounting expertise, his restructuring experience and his public company board experience.
+Timothy M. Donahue has been a director since January 1, 2006.  Mr. Donahue's term expires at the 2019 Annual Meeting, and he is not standing for re-election. 
+Thomas D. Eckert has been a director since December 1, 2011.  Mr. Eckert was Chairman of Capital Automotive Real Estate Services, Inc. ("Capital Automotive") until October 2014.  He was one of the founders of Capital Automotive in October 1997 and led its initial public offering in 1998.  Capital Automotive went private in 2005.  Mr. Eckert serves on the board of Chesapeake Lodging Trust, a public company.  Within the past five years, Mr. Eckert previously served on the following public company boards: Munder Funds (and its successor, Victory Funds), Dupont-Fabros Technologies, Inc. and Gramercy Property Trust.
+The Board believes that Mr. Eckert is highly qualified to serve on our Board based on his executive leadership experience, his homebuilding and real estate experience, his public company board experience, and his mergers and acquisitions experience.
+Alfred E. Festa has been a director since December 1, 2008.  Mr. Festa has been Chairman of W. R. Grace & Co ("Grace") since January 2008.  He joined Grace as President and Chief Operating Officer in November 2003, and was Chief Executive Officer from June 2005 through November 2018.  From November 2002 until November 2003, Mr. Festa was a partner in Morgenthaler Private Equity Partners ("Morgenthaler"), a venture/buyout firm focused on mid-market industrial build-ups. 
+The Board believes that Mr. Festa is highly qualified to serve on our Board based on his executive leadership experience, his public company board experience, his financial expertise, his brand marketing expertise, his mergers and acquisitions experience, and his restructuring experience.
+Ed Grier has been a director since May 7, 2013.  Mr. Grier has been the Dean of the Virginia Commonwealth University ("VCU") School of Business since March 2010.  Prior to joining VCU, Mr. Grier spent approximately 29 years with the Walt Disney Company beginning in 1981.  He served as the President of the Disneyland Resort from 2006 until 2010.  Mr. Grier held various senior financial and operational roles during his career with Disney.  Mr. Grier serves on the board of Capital Senior Living Corporation.  
+The Board believes that Mr. Grier is highly qualified to serve on our Board based on his executive leadership experience, his financial and accounting expertise, and his brand marketing expertise.
+Manuel H. Johnson has been a director since September 30, 1993.  Dr. Johnson has been co-chairman and senior partner in Johnson Smick International, Inc., an international financial policy-consulting firm, since 1990.  From August 1, 1997 until December 2003, Dr. Johnson was the chairman of the board of trustees and president of the Financial Accounting Foundation, which oversees the Financial Accounting Standards Board.  Also during 1997, Dr. Johnson was named a member of the Independence Standards Board (which was dissolved on July 31, 2001), formed jointly by the SEC and the American Institute of Certified Public Accountants. Dr. Johnson is a founder and co-chairman of the Group of Seven Council, an international commission supporting economic cooperation among the major industrial nations.  Dr. Johnson serves on the board of Morgan Stanley Funds.  
+The Board believes that Dr. Johnson is highly qualified to serve on our Board based on his executive leadership experience, his financial expertise, his governmental and financial regulatory expertise, and his public company board experience.
+Alexandra A. Jung has been a director since December 3, 2018.  Ms. Jung is a Partner and the Head of European Investments at Oak Hill Advisors, a leading alternative investment firm with over $32 billion of assets under management. Prior to joining Oak Hill in 2009, Ms. Jung was a Managing Director at Greywolf Capital Management, where she was responsible for investments in European performing and distressed credits and special situations. Previously, she managed investments in credit, distressed debt and equity as part of Goldman Sachs' European Special Situations Group.
+The Board believes that Ms. Jung is highly qualified to serve on our Board based on her executive leadership experience, her financial expertise, her knowledge of capital markets, her mergers and acquisitions experience, and her restructuring experience.
+Mel Martinez has been a director since December 1, 2012.  Mr. Martinez has been Chairman of the South East and Latin America for JPMorgan Chase & Co. since August 2010.  Prior to joining JPMorgan, Mr. Martinez was a partner in the law firm DLA Piper from September 2009 to July 2010.  Mr. Martinez served as a United States Senator from Florida from January 2005 to September 2009.  Prior to his election, Mr. Martinez served as the Secretary of the United States Department of Housing and Urban Development ("HUD") from January 2001 to January 2004.  Mr. Martinez serves on the board of Marriott Vacations Worldwide Corporation.   The Board believes that Mr. Martinez is highly qualified to serve on our Board based on his executive leadership experience, his housing industry experience, his government and housing regulatory expertise, and his public company board experience.
+William A. Moran has been a director since September 30, 1993.  Mr. Moran has been the chairman of Elm Street Development, Inc. ("Elm Street") since 1996.  Mr. Moran is also a director and owner of Legend Management Group, which builds and owns apartment projects in the Washington, DC metro area.  Until January 1, 2010, Mr. Moran was a director of Craftmark, Inc., a homebuilder in Virginia, Maryland, Pennsylvania and Delaware, and Craftstar, Inc., which develops, invests in and periodically sells apartments, condominiums, single family homes and townhomes in Virginia and Maryland.  
+The Board believes that Mr. Moran is highly qualified to serve on our Board based on his executive leadership experience, his lengthy homebuilding, real estate and land development experience,  his public company board experience, and his turn-around/restructuring experience.
+David A. Preiser has been a director since September 30, 1993.  Mr. Preiser has been Co-President of the investment banking firm of Houlihan Lokey, Inc., a public company, since 2013 and a member of its board of directors since 2001.  Since January 1, 2005, Mr. Preiser has served as Chairman of Houlihan Lokey– Europe, pursuant to which he leads Houlihan Lokey's European investment banking activities, including Houlihan Lokey's European restructuring business.  Mr. Preiser is also active in Houlihan Lokey's investment banking and restructuring activities in the United States.  Since 1990, Mr. Preiser had been active in coordinating Houlihan Lokey's real estate and financial restructuring activities as a senior managing director.  
+The Board believes that Mr. Preiser is highly qualified to serve on our Board based on his executive leadership experience, his financial expertise, his knowledge of capital markets, his mergers and acquisitions experience, his public company board experience, and his turn-around/restructuring experience.
+W. Grady Rosier has been a director since December 1, 2008.  Mr. Rosier has been the President and CEO of McLane Company, Inc. ("McLane"), a supply chain services company, since 1995.  Prior to 1995, Mr. Rosier held various senior management roles since joining McLane in 1984.  Mr. Rosier serves on the board of NuStar Energy L.P.  
+The Board believes that Mr. Rosier is highly qualified to serve on our Board based on his executive leadership experience and his public company board experience.
+Susan Williamson Ross has been a director since July 28, 2016.  Ms. Ross has been the President of the privately-held majority investor in Clark Construction Group, Shirley Contracting and several other construction, development and real estate businesses since January 2016.  She has been employed by Clark Construction Group since December 1986 in various positions, including Chief Administrative Officer since July 2004 and Executive Vice President since January 2008.
+The Board believes that Ms. Ross is highly qualified to serve on our Board based on her executive leadership experience, and her construction, development and real estate experience.
+Majority Vote Standard
+Pursuant to our Corporate Governance Guidelines, the Board expects a director to tender his or her resignation if he or she fails to receive the required number of votes for re-election.  Under the Guidelines, the Board shall nominate for re-election as a director only candidates who agree to tender their resignation if they fail to receive the required number of votes for re-election.  In addition, the Board shall fill director vacancies and new directorships only with candidates who agree to tender their resignation if they fail to receive the required number of votes for re-election.
+If a director fails to be re-elected by a majority of votes cast, the Nominating Committee shall promptly consider the resignation offer of any such director and recommend to the Board whether to accept the tendered resignation or reject it.  The Board shall take action with respect to the Nominating Committee's recommendation no later than 90 days following the submission of any such resignation offer.  Following the Board's action regarding the Nominating Committee's recommendation, we will promptly file a Current Report on Form 8-K with the Securities and Exchange Commission (the "SEC") which shall detail the Board's decision regarding a tendered resignation.  This report shall include an explanation of the process by which the Board's decision was reached and the reasons for the Board's decision.
+To the extent that one or more directors' resignations are accepted by the Board, the Nominating Committee will recommend to the Board whether to fill the vacancy or vacancies or to reduce the size of the Board.
+The Board expects that any director who tenders his or her resignation pursuant to this policy will not participate in the Nominating Committee recommendation or Board action regarding whether to accept or reject the tendered resignation.  If, however, a majority of the members of the Nominating Committee fails to receive the required number of votes for re-election  in the election, the independent directors who did not fail to receive the required number of votes for re-election shall form a committee amongst themselves for the purposes of evaluating the tendered resignations and recommending to the Board whether to accept or reject them.
+Required Vote
+Each director shall be elected by a majority of the votes cast in the election at the Annual Meeting, assuming that a quorum is present.  A majority of the votes cast means that the number of shares voted "for" a director must exceed the number of shares voted "against" that director.  Unless marked otherwise, proxies received will be voted FOR the election of the twelve nominees designated above.  Shareholders may abstain from voting for any particular nominee by so indicating in the space provided on the accompanying proxy card.  An abstention will not be counted as a vote cast "for" or "against" a director's election.
+THE BOARD OF DIRECTORS UNANIMOUSLY RECOMMENDS VOTING "FOR" ALL OF THE FOREGOING NOMINEES AS DIRECTORS OF NVR.
+______________________________________________________________________________________________________ 
+CORPORATE GOVERNANCE PRINCIPLES AND BOARD MATTERS
+We are committed to having sound corporate governance principles and practices.  Having and acting on that commitment is essential to running our business efficiently and to maintaining our integrity in the marketplace.  Our primary corporate governance documents, including our Corporate Governance Guidelines, Code of Ethics and all of our Board Committee Charters, are available to the public on our website at www.nvrinc.com.
+The following are highlights of our Corporate Governance practices:
+[BEGIN TABLE]
+• Separate Chairman of the Board and Chief Executive Officer positions 
+• Annual elections for directors 
+• Majority voting standard for uncontested elections 
+• 10 of 12 directors are independent   
+• No management directors 
+• Independent lead director 
+• Shareholder proxy access 
+• Annual Board and Committee evaluations 
+• Robust NVR stock ownership requirements for named executive officers and directors 
+• Prohibition against short sales, hedging or pledging of NVR stock by named executive officers and directors 
+• Prohibition against named executive officers and directors owning NVR debt 
+• No poison pill or other anti-takeover provisions 
+[END TABLE]
+ Board Leadership Structure, Committee Composition and Role in Risk Oversight
+Board Leadership Structure
+Mr. Schar, our Chairman of the Board ("Chairman"), leads our Board, which meets at least quarterly.  In addition, our Board has named an independent lead director to chair meetings of our independent directors.  Our independent lead director position rotates annually among the chairs of the Audit, Compensation, and Nominating and Corporate Governance Committees.  The independent lead director chairs meetings held by the independent directors.  Mr. Preiser, the Chairman of our Nominating Committee, is serving as our independent lead director until the 2019 Annual Meeting.  Our Board is comprised solely of non-management directors.  Information regarding how to communicate with the Board, the independent lead director and the non-management or independent directors as a group is available on our website at www.nvrinc.com.
+We have separated the roles of the Chairman and the Chief Executive Officer ("CEO").  Mr. Schar serves as the Chairman, and Paul C. Saville serves as CEO.  While the Board retains the discretion to combine the roles of Chairman and CEO at any time, we expect that the roles of Chairman and CEO will remain separated for the foreseeable future.
+Director Attendance
+During 2018, the Board met five times.  
+Our Board requires that our directors attend each Board and Committee meeting in person, unless personal circumstances affecting a director make such attendance impractical or inappropriate.  Each of our Board members attended 100% of the Board meetings and the meetings of Committees of which he or she was a member during 2018.  
+Our Board also requires that all current directors and all nominees for election to our Board attend in person our annual meetings of shareholders, unless personal circumstances affecting such director or director nominee make such attendance impractical or inappropriate. Each of our then-serving directors attended the 2018 Annual Meeting of Shareholders.  
+Executive Sessions of the Board
+Our directors met twice during 2018 in executive session without the presence of management.  Mr. Schar chaired the meetings.
+Our independent directors met once during 2018 in executive session without the presence of the non-independent directors or management.  Mr. Preiser, our independent lead director in 2018, chaired the meeting of the independent directors.
+Our Audit Committee meets in executive sessions at each Audit Committee meeting, separately with (1) our external auditor, (2) the Vice President of Internal Audit and Corporate Governance and (3) the Chief Financial Officer ("CFO") and Chief Accounting Officer.  Mr. Johnson, the Chairman of the Audit Committee, chairs these executive sessions.
+Board Role in Risk Oversight
+Our Board oversees our business risks and operational performance through regularly scheduled Board and Committee meetings, as well as through frequent and informal communications between management and the Board.  Further, our Bylaws and each of the various Board Committee Charters provide additional detail regarding the areas, duties and functions for which the Board or a Board Committee provides specific oversight of specified areas of risk.
+That oversight includes a variety of operational and regulatory matters, including, among other things: 
+[BEGIN TABLE]
+• Approval of the annual business plan and the periodic review of our actual performance in comparison to the approved plan;  
+• Review and analysis of our operational and financial performance compared to our competitors;  
+• Review of our five year business plan;  
+• Approval of short-term and long-term management incentive compensation plans;  
+• Review of succession planning throughout our organization for key management positions;  
+• Oversight of our processes and systems to collect and store confidential information; 
+• Review of our response to new laws, rules or regulations; and 
+• Direct oversight of our internal audit function and our whistleblower hotline.   
+[END TABLE]
+Below is a discussion of how the Board oversees certain of our more significant business risks. Land Acquisition
+We believe our continued success is contingent upon our ability to control an adequate supply of finished lots on which to build.  We expend substantial monetary resources to place deposits under lot purchase contracts, typically ranging up to 10% of the aggregate purchase price of the finished lots.  The lot acquisition policy under which management operates is a Board-approved policy that requires Board approval of:
+[BEGIN TABLE]
+• Lot purchase contracts above certain parameters, measured by the aggregate size of the deposit or investment;   
+• Contracts to acquire raw land above certain parameters, measured by aggregate size of the investment; 
+• Joint venture investments above certain parameters, measured by aggregate size of the investment; and   
+• Related-party lot purchase contracts (see Transactions with Related Persons below). 
+[END TABLE]
+Liquidity
+Being in a cyclical industry, it is imperative that we focus on our liquidity needs throughout the various stages of the cycle, while maintaining an efficient capital structure.  The Board's role in ensuring that management prudently manages our cash includes the following:
+[BEGIN TABLE]
+• A Board-approved investment policy that specifies the types of investments allowed for our excess cash; 
+• Pre-approval of stock repurchases and debt repurchases; 
+• Pre-approval of capital transactions for the issuance of debt or equity; and 
+• Board reviews our short-term and long-term cash needs in connection with its reviews of our quarterly forecasts and our annual and five year business plans. 
+[END TABLE]
+Financial Reporting, Internal Control and Regulatory Matters
+Our Audit Committee takes a lead role in overseeing risks as enumerated within its Committee Charter:
+[BEGIN TABLE]
+• Our Internal Audit function performs a primary role in risk management.  Our Vice President of Internal Audit and Corporate Governance reports directly to the Audit Committee, and the Audit Committee formally approves the annual internal audit budget and staffing. 
+• The Audit Committee approves the annual internal audit plan, which is prepared using a comprehensive risk-based approach. 
+• On a quarterly basis, Internal Audit Senior Management and our external auditor each have a private session with the Audit Committee without the presence of management. 
+• Management reports to the Audit Committee the occurrence of governmental regulatory reviews or audits conducted on our operations, including mortgage regulatory matters and SEC comment letters.  The Audit Committee also obtains a report from management at the conclusion of any such review. 
+• The Audit Committee monitors compliance with our Code of Ethics and our Standards of Business Conduct.  
+[END TABLE]
+Board Independence
+Our Board has established director independence standards to assist us in determining director independence, which standards meet the independence requirements of the NYSE corporate governance listing standards.  Our independence standards are included within our Corporate Governance Guidelines, which are available on our website at www.nvrinc.com.  Our Board considers all relevant facts and circumstances in making an independence determination.  As required by the rules of the NYSE, for a director to be considered "independent" under our independence standards, our Board must affirmatively determine that the director has no material relationship with us (other than as a director), directly or indirectly.
+Our Board has affirmatively determined that our directors, other than Mr. Schar and Mr. Moran, are independent pursuant to our independence standards.  Mr. Schar, our former Executive Chairman, and Mr. Moran, who controls a company from which we acquire a small portion of our finished lots upon which to build our homes, have been determined by our Board not to be "independent."
+When our Board analyzed the independence of its members, it considered relevant transactions, relationships and arrangements, including those specified in the NYSE listing standards and our independence guidelines.  The Board considered that certain directors serve as directors or employees of other companies with which we engage in ordinary course of business  transactions.  In accordance with our independence standards, none of these relationships constitute material relationships (in all instances, the payments to each other company totaled less than $2,500) that would impair the independence of these directors.  
+Board Committees
+Our Board has a standing Audit Committee, Compensation Committee, Nominating Committee, and Executive Committee (the "Executive Committee").  The members of the Audit Committee, Compensation Committee and Nominating Committee are independent under the applicable rules of the NYSE and the SEC.  Each Committee operates pursuant to a written Committee Charter adopted by our Board, which is available at www.nvrinc.com.  Board members serving on our Committees are shown in the table below.
+[BEGIN TABLE]
+Name   Audit Committee   Compensation Committee   Nominating and Corporate Governance Committee   Executive Committee 
+Dwight C. Schar               Chair 
+C. E. Andrews   Member             
+Timothy M. Donahue           Member   Member 
+Thomas D. Eckert       Chair         
+Alfred E. Festa   Member       Member     
+Ed Grier   Member             
+Manuel H. Johnson   Chair           Member 
+Mel Martinez           Member     
+William A. Moran               Member 
+David A. Preiser (L)       Member   Chair     
+W. Grady Rosier       Member         
+Susan Williamson Ross       Member   Member     
+Number of Meetings in 2018   5   5   4   0 
+(L) - Independent lead director             
+[END TABLE]
+Audit Committee
+All members of the Audit Committee are financially literate and are able to read and understand fundamental financial statements, including a balance sheet, income statement and cash flow statement.  Our Board has determined that Manuel H. Johnson and C.E. Andrews qualify as audit committee financial experts as defined within Item 407(d)(5) of Regulation S-K under the Securities Exchange Act of 1934, as amended (the "Exchange Act").  All members of the Audit Committee satisfy the independence standards specified in Rule 10A-3(b)(1) under the Exchange Act.
+The Audit Committee assists our Board in oversight and monitoring of:
+[BEGIN TABLE]
+• The integrity of our accounting and financial reporting processes; 
+• Our compliance with legal and regulatory requirements; 
+• Our independent external auditor's qualifications and independence;  
+• Our policies with respect to risk assessment and risk management; and 
+• The performance of our internal audit function and our independent external auditors. 
+[END TABLE]
+The Audit Committee performs the following functions:
+[BEGIN TABLE]
+• Appoints, evaluates and determines the compensation of our independent external auditor; 
+• Discusses the scope and results of the audit with our independent external auditor and reviews our interim and year end operating results with management and our independent external auditor;  
+• Oversees our internal audit department; 
+[END TABLE]
+[BEGIN TABLE]
+• Maintains written procedures for the receipt, retention and treatment of complaints on accounting, internal accounting controls or auditing matters, as well as for the confidential, anonymous submissions by our employees of concerns regarding questionable accounting or auditing matters; 
+• Reviews substantiated complaints received from internal and external sources regarding accounting, internal accounting controls or auditing matters; 
+• Reviews reports from management regarding significant accounting, internal accounting controls, auditing, legal and regulatory matters; 
+• Functions as a qualified legal compliance committee under Part 205 of the rules of the SEC; and 
+• Prepares the Audit Committee Report for inclusion in our proxy statement. 
+[END TABLE]
+The Audit Committee has the authority and available funding to engage any independent legal counsel and any accounting or other expert advisors, as our Audit Committee deems necessary to carry out its duties.
+Compensation Committee
+The Compensation Committee performs the following functions:
+[BEGIN TABLE]
+• Reviews and determines all compensation of our CEO and, based in part on the recommendation of the CEO, of all of our other executive officers; 
+• Obtains advice and assistance from compensation consultants that it determines to be necessary to carry out its duties;   
+• Periodically reviews and makes recommendations to the Board with respect to the compensation of our directors; 
+• Administers and interprets incentive compensation and equity plans for our employees (except as otherwise described below); 
+• Assists in preparing the Compensation Discussion and Analysis and prepares our Compensation Committee Report for inclusion in our annual meeting proxy statement in accordance with applicable rules and regulations of the SEC; 
+• Makes recommendations to our Board about succession planning for our CEO, and in conjunction with the CEO, also considers succession planning for other key positions; and 
+• Reviews and approves any employment agreements, or amendments thereto, with our CEO and other applicable executive officers. 
+[END TABLE]
+The Compensation Committee may delegate to a senior executive officer of NVR the authority to grant equity awards to employees other than executive officers, within limits prescribed by the full Board.  The Compensation Committee, by resolution, delegated authority to Mr. Saville, acting jointly with the Senior Vice President of Human Resources or Senior Vice President and Chief Administrative Officer, to grant equity awards to new and existing employees, other than executive officers, during 2018.  The Senior Vice President of Human Resources is required to report any equity awards granted pursuant to this delegated authority to the Compensation Committee at its next scheduled meeting after the delegated authority is exercised.
+The Compensation Committee may delegate its authority to one or more members of the Compensation Committee.  Any person to whom authority is delegated must report any actions taken by him or her to the full Compensation Committee at its next regularly scheduled meeting.  During 2018, the Compensation Committee did not delegate any of its authority to any individual member.
+The Compensation Committee has the authority and available funding to retain any compensation consultant, independent legal counsel or other expert adviser to assist in the evaluation of directors and executive officers' compensation, as our Compensation Committee deems necessary to carry out its duties.
+Compensation Consultants
+In 2018, the Compensation Committee engaged Aon Consulting to assist the Compensation Committee in determining the targeted annual compensation for our named executive officers and directors.  For a description of the role of the compensation consultant during 2018, see Compensation Discussion and Analysis - Compensation Determination Process below. Compensation Committee Interlocks and Insider Participation
+Messrs. Eckert, Preiser and Rosier and Ms. Ross were members of the Compensation Committee during 2018. During 2018, none of our executive officers has served as a member of the board of directors or compensation committee of any entity that had one or more executive officers serving as a member of our Board or our Compensation Committee.  Thus, there were no interlocks with other companies within the meaning of Item 407(e)(4) of SEC Regulation S-K during 2018.
+Nominating and Corporate Governance Committee
+The Nominating Committee performs the following functions:
+[BEGIN TABLE]
+• Identifies individuals qualified to become Board members; 
+• Recommends that our Board select the director nominees for the next annual meeting of shareholders; 
+• Recommends Board committee structure and makeup, including diversity of our members; 
+• Oversees and makes recommendations regarding corporate governance matters, including our Corporate Governance Guidelines; and 
+• Manages the Board's annual evaluation process. 
+[END TABLE]
+The Nominating Committee also has the sole authority and available funding to obtain advice and assistance from executive search firms, and internal or outside legal, accounting or other expert advisors that it determines necessary to carry out its duties.
+Criteria for Nomination to the Board of Directors
+The Nominating Committee will consider shareholder nominees as described in our Policies and Procedures for the Consideration of Board of Director Candidates, which is available at www.nvrinc.com.  These policies and procedures include minimum qualifications for director nominees and the process for identifying and evaluating director nominees, including nominees submitted by our security holders.  
+The Nominating Committee has a stated goal of identifying well-qualified director candidates that would enhance the Board's diversity.  In searching for potential director candidates, the Nominating Committee first seeks the most qualified candidates with a record of success.  The Nominating Committee searches for candidates that contribute to a diversity of views, backgrounds, experience and skills on the Board, including but not limited to, executive leadership experience, financial expertise, homebuilding/construction/real estate experience, public board experience, brand marketing expertise, mergers and acquisitions expertise, turn-around/restructuring experience, and government/regulatory expertise.
+Proxy Access
+Our Bylaws allow eligible shareholders to propose director nominees for inclusion in the proxy statement in addition to the nominees proposed by the Board.  The proxy access bylaw permits shareholders owning 3% or more of our common stock for at least three years, to nominate up to 20% of our Board.  The number of shareholders who may aggregate their shares to meet the 3% ownership threshold is limited to 20.  The shareholder(s) and nominees(s) must also satisfy the other requirements in our Bylaws.  
+Executive Committee
+The Executive Committee was established pursuant to our Bylaws to have such powers, authority and responsibilities as may be determined by a majority of our Board.  The Executive Committee has never met, nor has our Board ever delegated any powers, authority or responsibilities to the Executive Committee.  Our Board intends to continue the practice of considering corporate matters outside the scope of our other existing Board committees at the full Board level.
+Annual Board and Committee Evaluations
+Annual Board Evaluations
+The members of the Board conduct an annual evaluation to assess the Board's effectiveness and performance.  The results are reviewed by the Board, which considers the results and any ways in which Board effectiveness may be enhanced. Annual Committee Evaluations
+The members of each committee conduct an annual evaluation to assess each committee's compliance with its charter, effectiveness and performance. The results are reviewed by the members of the applicable committee, which considers the results and any ways in which the committee's effectiveness may be enhanced. 
+Communications with the Board of Directors
+Our Policies and Procedures Regarding Communications with the NVR, Inc. Board of Directors, the Independent Lead Director and the Non-Management Directors as a Group are available at www.nvrinc.com.
+Shareholders and other interested parties may contact an individual director by mail at the following address:  11700 Plaza America Drive, Suite 500, Reston, VA 20190.  All mail received will be opened and screened by our management.  We generally will not forward to directors a shareholder or interested party communication that is unrelated to the duties of the Board, including junk mail, mass mailings, customer complaints, surveys and business solicitation.
+Review, Approval or Ratification of Related Person Transactions
+We have a policy that requires that all related person transactions be considered, reviewed and approved or ratified by the disinterested, independent members of our Board, regardless of the type of transaction or amount involved.  Under this policy, the related person must notify the Chief Financial Officer ("CFO") of any proposed transaction with a related person.  The CFO must seek approval of the disinterested, independent members of the Board for any related person transaction.  The disinterested, independent directors must review the material facts before determining whether to approve or ratify the transaction. This requirement is set forth in Section 7.05 of our Bylaws (available on our website at www.nvrinc.com), Sections 1 and 4 of our Code of Ethics (available on our website at www.nvrinc.com), and our internal Standards of Business Conduct, Human Resources Policies and Procedures, and Financial Policies and Procedures.
+Transactions with Related Persons
+During the year ended December 31, 2018, we entered into new lot purchase agreements to purchase finished building lots for a total purchase price of approximately $121,728,000 with Elm Street Development, Inc. ("Elm Street"), which is controlled by one of our directors, Mr. Moran.  During 2018, we also purchased 274 developed lots at market prices from Elm Street for approximately $36,297,000.  The 274 developed lots purchased from Elm Street is less than 2% of the over 18,000 lots we purchased during 2018.  We also continue to control a parcel of raw land expected to yield approximately 2,300 finished lots through a joint venture entered into with Elm Street during 2009.  The independent members of our Board approved these transactions. Security Ownership of Certain Beneficial Owners and Management
+The following tables set forth certain information as to the beneficial ownership of Common Stock by each person known by us to be the beneficial owner of more than 5% of the outstanding Common Stock as of the dates indicated, and by each director, director nominee and named executive officer and by all directors and executive officers as a group as of March 1, 2019.  Except as otherwise indicated, all shares are owned directly and the owner has sole voting and investment power with respect thereto.
+Certain Beneficial Owners
+[BEGIN TABLE]
+Name and Address of Holder   Number of Shares    Percent of Class
+Name and Address of Holder   Number of Shares    Percent of Class
+BlackRock, Inc.   365,949   (1)   10.1% 
+55 East 52nd Street                 
+New York, NY 10055                 
+The Vanguard Group   318,274   (2)   8.8% 
+100 Vanguard Blvd.                 
+Malvern, PA 19355                 
+FMR LLC   187,402   (3)   5.2% 
+     245 Summer Street           
+     Boston, MA 02210           
+(2) As reported within a Schedule 13G filed February 11, 2019, the entity has sole power to vote or direct the vote for 2,539 shares, shared power to vote or direct the vote for 861 shares, sole power to dispose or direct the disposition of 314,998 shares and shared power to dispose or direct the disposition of 3,276 shares. 
+(3) As reported within a Schedule 13G filed February 13, 2019, the entity has sole power to vote or direct the vote for 5,001 shares and the sole power to dispose or direct the disposition of 187,402 shares. 
+[END TABLE]
+ Directors and Management
+[BEGIN TABLE]
+Name Number of Shares       Vested Options Issued Under Equity Incentive Plans (1)   Percent of Class
+Name Number of Shares       Vested Options Issued Under Equity Incentive Plans (1)   Percent of Class
+Dwight C. Schar 60,000         —     1.7% 
+C. E. Andrews 3,048         1,950     * 
+Timothy M. Donahue 3,887         2,649     * 
+Thomas D. Eckert 5,165         3,985     * 
+Alfred E. Festa 2,771         1,950     * 
+Ed Grier 1,163         988     * 
+Manuel H. Johnson 4,014     (2)   3,414     * 
+Alexandra A. Jung 25         —     * 
+Mel Martinez 769         578     * 
+William A. Moran 26,977         —     * 
+David A. Preiser 3,953         3,714     * 
+W. Grady Rosier 2,430         1,300     * 
+Susan Williamson Ross 713         588     * 
+Paul C. Saville 224,582     (3)   104,818     6.0% 
+Daniel D. Malzahn 41,173     (4)   37,094     1.1% 
+Jeffrey D. Martchek 26,016     (5)   19,500     * 
+Robert W. Henley 1,385     (6)   —     * 
+Eugene J. Bredow 15,899     (7)   14,924     * 
+All directors, director nominees and executive officers as a group (20 persons) 424,004         197,452     11.1% 
+* Less than 1%.               
+(4) Includes 1,022 vested shares held by the NVR, Inc. Employee Stock Ownership Plan in trust and 364 shares held as a discretionary investment in the NVR, Inc. Profit Sharing Plan. 
+(5) Includes 2,244 vested shares held by the NVR, Inc. Employee Stock Ownership Plan in trust, 114 shares held as a discretionary investment in the NVR, Inc. Profit Sharing Plan and 598 vested shares held in a Deferred Compensation Rabbi Trust. 
+(6) Includes 1,137 vested shares held by the NVR, Inc. Employee Stock Ownership Plan in trust and 248 shares held as a discretionary investment in the NVR, Inc. Profit Sharing Plan. 
+(7) Includes 149 vested shares held by the NVR, Inc. Employee Stock Ownership Plan in trust. 
+[END TABLE]
+SECTION 16(a) BENEFICIAL OWNERSHIP REPORTING COMPLIANCE
+Section 16(a) of the Exchange Act requires our directors and executive officers and persons who own more than 10% of our Common Stock to file reports of ownership and changes in ownership of such stock with the SEC and the national securities exchange upon which our shares are publicly traded.  Directors, executive officers and greater than 10% shareholders are required by SEC regulations to furnish us with copies of all such forms filed.  Based solely on a review of the copies of such reports furnished to us and written representations from our directors and executive officers, we believe that all Section 16(a) filing requirements applicable to our directors, executive officers and greater than 10% shareholders were timely met during 2018, except that a Form 5 for 2018 was filed for Mr. Preiser on February 15, 2019 with respect to a gift of 32 shares of Common Stock on April 26, 2018. THE FOLLOWING REPORT OF THE AUDIT COMMITTEE SHALL NOT BE DEEMED TO BE "SOLICITING MATERIAL" OR TO BE "FILED" WITH THE SECURITIES AND EXCHANGE COMMISSION UNDER THE SECURITIES ACT OF 1933 OR THE SECURITIES EXCHANGE ACT OF 1934 OR INCORPORATED BY REFERENCE IN ANY DOCUMENT SO FILED.
+Report of the Audit Committee
+Our management has primary responsibility for preparing our financial statements and establishing financial reporting systems and internal controls.  Management also has the responsibility of reporting on the effectiveness of our internal control over financial reporting.  Our independent external auditor, KPMG LLP, is responsible for expressing opinions on the conformity of our audited financial statements with accounting principles generally accepted in the United States of America and on the effectiveness of our internal control over financial reporting.  In this context, the Audit Committee hereby reports as follows:
+[BEGIN TABLE]
+1. The Audit Committee has reviewed and discussed the audited financial statements and management's assessment of the effectiveness of our internal control over financial reporting with management, and reviewed and discussed KPMG LLP's audit opinions with KPMG LLP; 
+2. The Audit Committee has discussed with KPMG LLP the matters required to be discussed under the rules adopted by the Public Company Accounting Oversight Board ("PCAOB"); 
+3. The Audit Committee has received the written disclosures and the letter from KPMG LLP required by the applicable requirements of the PCAOB regarding KPMG LLP's communications with the Audit Committee concerning independence, and has discussed with KPMG LLP its independence; and 
+4. Based on the reviews and discussions referred to in paragraphs (1) through (3) above, the Audit Committee recommended to the Board, and the Board has approved, that the audited financial statements be included in our Annual Report on Form 10-K for the fiscal year ended December 31, 2018, for filing with the SEC. 
+[END TABLE]
+The undersigned, constituting all of the members of the Audit Committee, have submitted this report to the Board of Directors.
+Manuel H. Johnson (Chairman), C.E. Andrews, Alfred E. Festa and Ed Grier COMPENSATION DISCUSSION AND ANALYSIS
+Executive Summary
+This Compensation Discussion and Analysis describes our executive compensation philosophy and program for our named executive officers.  Our named executive officers for 2018 were:
+[BEGIN TABLE]
+Name   Title 
+Paul C. Saville   President and Chief Executive Officer 
+Daniel D. Malzahn   Senior Vice President, Chief Financial Officer and Treasurer 
+Jeffrey D. Martchek   President of Homebuilding Operations 
+Robert W. Henley   President, NVR Mortgage 
+Eugene J. Bredow   Senior Vice President and Chief Administrative Officer 
+[END TABLE]
+Our executive compensation program is designed to motivate and retain highly qualified and experienced executives, provide performance-based incentives and align our compensation with long-term creation of shareholder value.  The compensation program for our named executive officers includes three components:
+[BEGIN TABLE]
+• Base salary; 
+• Annual performance-based cash bonus, which is capped at 100% of base salary; and 
+• Long-term equity-based compensation. 
+[END TABLE]
+The following are the principles of our executive compensation philosophy:
+[BEGIN TABLE]
+• Pay for Performance - The key principle of our compensation philosophy is pay for performance. 
+• Emphasis on Long-Term Incentives - We provide significant long-term incentives in the form of stock options to: 
+◦ Ensure alignment with shareholders;  
+◦ Enhance retention; and  
+◦ Emphasize long-term performance. 
+[END TABLE]
+Our compensation philosophy has been consistent for over 20 years.
+Performance Overview
+Our 2018 financial results reflect the continued improvement in the housing market and our focus on increasing shareholder value (all comparisons are to our 2017 financial results):
+[BEGIN TABLE]
+• Consolidated revenues increased 14%; 
+• Gross margin decreased to 18.7% in 2018 from 19.2% in 2017; 
+• Pre-tax profit increased 13%; and 
+• New orders increased 4%. 
+[END TABLE]
+In addition, we returned approximately $846 million of cash to our shareholders during 2018 through repurchases of approximately 301,000 shares of Common Stock, which represented 8% of our shares outstanding as of December 31, 2017.
+Our business philosophy has been to develop and operate a business model to maximize shareholder value in a cyclical industry.  Our goal is to deliver industry leading rates of return and growth in earnings per share. We have led the homebuilding peer group in total shareholder return ("TSR"), return on capital and return on pre-tax revenue as demonstrated by the following financial returns:
+[BEGIN TABLE]
+  Total Shareholder Return as of December 31, 2018   10 Years Ended December 31, 2018 
+  1 Year 5 Years 10 Years   Average Annual Return on CapitalAverage Annual Return on EquityAverage Annual Return on Pre-Tax Revenue 
+  1 Year 5 Years 10 Years   Average Annual Return on CapitalAverage Annual Return on EquityAverage Annual Return on Pre-Tax Revenue 
+NVR (31)% 138% 434%   18% 24% 11% 
+Rank vs. Peers 4th 1st 2nd   1st 1st 1st 
+[END TABLE]
+On a 10-year basis, our TSR of 434% was second highest in the homebuilding peer group and far exceeded the TSR for the Dow Jones US Homebuilder Index of 200% as illustrated below.
+On a 5-year basis, our TSR of 138% was the highest in the homebuilding peer group and far exceeded the TSR for the Dow Jones US Homebuilder Index of 34% as illustrated below. Our TSR of -31% during 2018 was fairly consistent with the homebuilding peer group as illustrated below.
+We believe these superior results over the long-term relative to our homebuilding peers are due to:
+[BEGIN TABLE]
+• Our business model and strategies, which are designed to limit risk and maximize returns on capital in a cyclical industry; and 
+• Our highly skilled, long-tenured and motivated management team that has remained extremely disciplined in executing our more capital efficient business model. 
+[END TABLE]
+Additionally, these key aspects of our strategy are well ingrained in our corporate culture, which includes:
+[BEGIN TABLE]
+• Strong alignment between management incentives (at all levels, not just named executive officers) and long-term shareholder returns; 
+• Stability and long-term retention of our management team; and 
+• Generation of cash flow through all points in the homebuilding cycle. 
+[END TABLE]
+Compensation Policies and Practices
+Our compensation program is designed to provide appropriate performance-based incentives to ensure alignment with our shareholders and to avoid compensation practices that do not promote the interests of our shareholders. 
+What We Do
+[BEGIN TABLE]
+• Pay for Performance - We tie pay to performance by making the majority of compensation "at risk" and linking it to shareholders' interests.   
+• Annual Bonuses - Our annual bonuses are performance-based and limited to a maximum of 100% of base salary. 
+• Long-Term Equity-Based Compensation -The majority of our named executive officers' compensation is in the form of stock options with long-term vesting. 
+• Periodic Equity Grants - We make periodic, not annual, grants of long-term stock options.  The 2018 stock option grants were made as described in the 2018 Proxy, following shareholder approval of the NVR, Inc. 2018 Equity Incentive Plan.  The vesting for our stock options granted in 2018 is based on continued service through the vesting  
+[END TABLE]
+ dates.  For 50% of the options granted, the vesting is based on NVR's return on capital performance during the years 2018 to 2020.
+[BEGIN TABLE]
+• Share Ownership Requirements - We have robust NVR share ownership requirements. 
+• Double Trigger Change in Control Provisions - Our equity agreements and employment agreements include double trigger change in control provisions for post-employment benefits and equity awards. 
+• Equity Clawback Provision - Our equity agreements have a clawback provision. 
+• Non-Competition Provision - Our equity agreements and employment agreements have a non-competition provision. 
+• Share Repurchase Program - We mitigate the potential dilutive effect of equity awards through our robust share repurchase program. 
+• Independent Compensation Consultant - Our Compensation Committee utilizes an independent compensation consultant. 
+[END TABLE]
+What We Don't Do
+[BEGIN TABLE]
+• Discretionary Cash Awards - We do not award any discretionary cash compensation. 
+• Perquisites - We do not provide perquisites. 
+• Hedging and Pledging - We do not permit short sales, hedging or pledging of NVR stock by named executive officers or directors. 
+• Reprice Stock Options - We do not reprice stock options. 
+• Below Market Stock Options - We do not grant stock options having an exercise price below 100% of fair market value. 
+• Excise Tax Gross-Ups - We do not provide any excise tax gross-ups. 
+• Supplemental Executive Benefits - We do not provide defined benefit or supplemental executive retirement, health or insurance plans. 
+• Evergreen Provisions - Our equity plans do not have evergreen provisions. 
+[END TABLE]
+Say on Pay Results
+In 2018, approximately 98.5% of the shares voted were cast in favor of the 2017 compensation of our named executive officers.  During each of the last five years, our say on pay vote has resulted in at least 96% of the shares voted being cast in favor of our compensation.  While the vote is advisory in nature, the Compensation Committee views the vote as confirmation that our shareholders generally believe that the compensation of our named executive officers is appropriately aligned with their performance and NVR's financial performance as well as the interests of our shareholders.  The Compensation Committee will continue to consider the results of say-on-pay votes when making future compensation decisions for the named executive officers.
+Compensation Philosophy and Objectives
+Homebuilding is a cyclical business with long project life cycles.  As such, our executive compensation program is structured to focus our executives on long-term performance, not short-term quarterly or annual performance.  Our executive compensation program is designed to achieve the following:
+[BEGIN TABLE]
+• Motivate and retain highly qualified and experienced executives; 
+• Provide performance-based incentives; and  
+• Align our compensation with long-term creation of shareholder value.   
+[END TABLE]
+We have structured our executive compensation to create long-term alignment with our shareholders through the following:
+[BEGIN TABLE]
+• Moderate target cash compensation; 
+• Low annual cash incentive maximums; 
+• Significant long-term equity incentives; 
+[END TABLE]
+[BEGIN TABLE]
+• Preferred use of stock options, which creates maximum alignment with shareholders and results in majority of compensation being "at risk"; and 
+• Robust NVR share ownership requirements. 
+[END TABLE]
+Our compensation philosophy has been consistent for over 20 years.
+The compensation program for our named executive officers includes the following three components:
+[BEGIN TABLE]
+Compensation Component Type of Pay Key Characteristics Purpose 
+Base Salary Fixed Annual adjustments based on individual performance and relative to peer group market salaries. Attracts, retains and rewards our named executive officers by providing a fixed source of income to reward experience, skills and performance relative to the market value of the position. 
+Annual Cash Bonus Performance Maximum opportunity is 100% of base salary, based on NVR's performance against pre-established performance goals. Aligns the named executive officers with shareholders by focusing the named executive officers on the attainment of annual goals that we believe are necessary to achieve our five-year business plan. 
+Long-Term Equity-Based Compensation Performance Issued periodically, not annually.  Issued as stock options, with 50% of the grant in the form of performance-based stock options.  Performance-based stock options have a three-year performance period.  Vests over four years, with a pre-vesting period that results in 5-6 years between grant date to final vesting date. Aligns the named executive officers with shareholders by linking the majority of compensation to long-term company performance.  Increases retention by providing the opportunity for wealth creation through the long vesting period.  Also, protects our interests through a non-competition provision in the equity grant agreements. 
+[END TABLE]
+We prefer the use of stock options (instead of restricted share units) for the following reasons:
+[BEGIN TABLE]
+• We believe stock options are inherently performance-based since the optionee does not realize value unless the stock price appreciates above the grant price;  
+• We believe stock options align the long-term interests of our named executive officers with our shareholders; and 
+• Since 50% of the vesting for our stock option grants are subject to NVR's return on capital performance, we believe that we are exceeding the standards for performance-based equity held by most shareholders. 
+[END TABLE]
+If the stock price decreases between the grant date and vesting date, our named executive officers would still receive value if we issued restricted share units.  By issuing stock options, the executives would receive no value if the stock price decreases between the grant date and the vesting date.  We believe this provides 100% alignment with our shareholders.  The stock option grant in 2018 (see further discussion of the 2018 stock option grants below) is an example of this scenario.  We granted stock options on May 10, 2018 at $3,022.99 per share.  As of December 31, 2018, the closing price of our Common Stock was $2,436.99 per share.  The stock price must increase by 24% from the December 31, 2018 closing price for the May 2018 stock option grants to begin to have any value.  If we had issued restricted share units, the restricted share units would have had 80% of the grant value remaining at December 31, 2018 even though our shareholders had experienced a 20% decrease in the value of their Common Shares. Based on the grant date Black-Scholes fair value of $707.10 per share, the price of our Common Stock must increase to $3,730.09, or by 53% from the December 31, 2018 closing price, in order for the equivalent number of stock options to have the same value as a restricted share unit issued at $3,022.99.  Thus, the named executive officers will only realize value from the stock options if the share price appreciates significantly from the December 31, 2018 closing price.
+Compensation Determination Process
+Role of Our CEO 
+Mr. Saville makes recommendations to the Compensation Committee with respect to the amount of each component of compensation paid to the other named executive officers.  These recommendations are partially based on compensation  information for comparable positions at other large, publicly traded homebuilding companies, as well as Mr. Saville's assessment of each officer's overall performance during the prior year.  
+Role of Our Board, Including the Chairman of the Board
+The Compensation Committee considers the following when determining the compensation paid to Mr. Saville:
+[BEGIN TABLE]
+• Salary information for chief executive officers at other large, publicly traded homebuilding companies; 
+• Our financial and operating performance compared to information publicly available on our industry peers;  
+• Our overall financial strength;  
+• Mr. Saville's performance during the year; and  
+• The recommendation from our Chairman of the Board, Mr. Schar.  
+[END TABLE]
+Mr. Saville is not present during discussion or voting by the Compensation Committee regarding his compensation.
+The Compensation Committee has the final authority to determine the compensation of our named executive officers, and exercises such authority regardless of what recommendations are made or information provided by Mr. Saville or Mr. Schar.
+Role of Compensation Consultant
+In 2018, the Compensation Committee engaged Aon Consulting to assist the Compensation Committee in determining the targeted annual compensation for our named executive officers.  Aon Consulting's analysis included a comparative analysis of the named executive officer base pay, annual incentive opportunities and long-term incentive compensation.  The Compensation Committee assessed the independence of Aon Consulting pursuant to SEC and NYSE rules and concluded that no conflict of interest exists that would impair Aon Consulting's independence.
+Homebuilding Peer Group
+We use a peer group of our major public-company homebuilding peers when analyzing the compensation of our named executive officers.  The companies in the peer group were selected based on being national homebuilding companies and their annual revenues.  The peer group is comprised of the following companies (the "Aon Study Peer Group"):
+[BEGIN TABLE]
+Beazer Homes USA, Inc. MDC Holdings, Inc. 
+D. R. Horton, Inc. Meritage Homes Corporation 
+Hovnanian Enterprises, Inc. PulteGroup, Inc. 
+KB Home Toll Brothers, Inc. 
+Lennar Corporation   
+[END TABLE]
+ Determining the Size of Equity Awards
+When issuing periodic block grants under our equity plans to our named executive officers as we did in 2018, the Compensation Committee, with assistance from Aon Consulting, determines the amount of the awards as follows:
+[BEGIN TABLE]
+• The Compensation Committee establishes a dollar value of the total targeted annual compensation to be awarded by position;   
+• After determining the salary and maximum annual bonus opportunity components for a particular year, these amounts are subtracted from the total targeted compensation for that year to derive the fair value that we want to transfer to the executive in the form of an equity award for the year;   
+• When making a block grant to cover multiple years, we multiply the equity award value for a single year by the number of years that the block grant covers to determine the total value of the block grant; and 
+• On the date of grant, we divide that total equity award fair value dollar amount by the per share fair value, calculated using the Black Scholes option pricing model, to determine the number of stock options to award. 
+[END TABLE]
+Although we consider this approach to sizing equity awards to be a reasoned approach based on a widely accepted option-pricing model, the ultimate value of an equity award is determined only when it is exercised or vests, as applicable.  We do not consider realized or realizable gains from prior equity grants when setting new grant amounts.  We do not believe that it is a fair practice to offset current compensation by realized or unrealized equity gains several years after the equity has been issued. Depending on our future stock price, any equity grant ultimately may be worthless, or conversely, worth much more than the fair value initially estimated.  Our goal is that the actual gain realized on an equity award will exceed our initial estimate of fair value, because gains in excess of that estimate mean that similar gains were realized by all holders of our Common Stock over the same time period.  We believe that limiting potential upside on equity gains does not provide an appropriate incentive for our named executive officers when focusing on long-term results, as our compensation philosophy dictates.
+Elements of Compensation
+Approximately 85% of compensation is at risk for the named executive officers: As described earlier, we pay moderate base salaries and low annual cash incentives to our named executive officers.  The following chart shows the average cash compensation paid to Mr. Saville and CEOs in the Aon Study Peer Group during 2013-2017:
+Our average total compensation has also been historically lower than our peer group due to the capped annual incentive opportunity at 100% of base salary.  The following chart shows the average total compensation paid to Mr. Saville and CEOs in the Aon Study Peer Group during 2013-2017: Base Salary
+The Compensation Committee took the following actions regarding the base salaries of the named executive officers during 2018:
+[BEGIN TABLE]
+• Mr. Saville's base salary was increased by 6.8%, from $1,826,000 to $1,950,000 effective April 1, 2018.  In making the decision to increase Mr. Saville's base salary, the Compensation Committee reviewed competitive market data for the CEO's in the Aon Study Peer Group and considered Mr. Saville's performance compared to his peers, his tenure and his expertise in managing NVR.  Another consideration is that Mr. Saville's annual cash compensation potential is more limited than the CEO's in the Aon Study Peer Group as his annual bonus opportunity is capped at the target level (100% of base salary) while the peer group CEO's have higher opportunities.  Following the salary adjustment, Mr. Saville's targeted cash compensation was at the 60th percentile within the Aon Study Peer Group.  
+• Upon the recommendation of Mr. Saville, the Compensation Committee increased the base salary for Mr. Bredow from $370,000 to $425,000 effective March 1, 2018 in connection with his promotion from Vice President, Chief Accounting Officer and Controller to Senior Vice President and Chief Administrative Officer.  The salary increase was reflective of the expansion in his role and responsibilities. 
+• Upon the recommendation of Mr. Saville, the Compensation Committee increased the base salaries for Messrs. Malzahn, Martchek and Henley effective April 1, 2018.  Mr. Saville's recommendations were based on the job performance of each named executive officer as well as the fact that the named executive officers' base salaries were below the 25th percentile of comparable salaries within the Aon Study Peer Group.  Following the salary increase, the base salaries for Messrs. Malzahn, Martchek and Henley were still around the 25th percentile of comparable salaries within the Aon Study Peer Group.   
+[END TABLE]
+The salaries were adjusted effective April 1, 2018 as follows: 
+[BEGIN TABLE]
+    2017 Salary   2018 Salary 
+Paul C. Saville   $ 1,826,000     $ 1,950,000   
+Daniel D. Malzahn   $ 520,000     $ 550,000   
+Jeffrey D. Martchek   $ 565,000     $ 585,000   
+Robert W. Henley   $ 487,000     $ 510,000   
+Eugene J. Bredow (effective March 1, 2018)   $ 370,000     $ 425,000   
+[END TABLE]
+Annual Cash Bonus
+General
+The objective of the annual cash bonus is to focus the named executive officers on the attainment of annual goals that we believe are necessary to achieve our five-year business plan.  These annual goals are consistent with the current year's portion of our five-year business plan.  The annual incentive is based 100% on NVR's performance.  The named executive officers' annual incentive opportunity is limited to a maximum of 100% of base salary, regardless of whether the goals are exceeded, consistent with our overall compensation philosophy of limiting short-term cash compensation in favor of equity-based long-term incentive opportunities.  Thus, the maximum amount of bonus is earned once the preset performance targets based on the annual business plan are attained.  The annual bonus is payable in cash.  
+The Compensation Committee has never exercised discretion to award bonuses in amounts higher than the amount calculated by our actual results relative to the preset performance target and attainment ranges.
+2018 Annual Bonus
+For 2018, the Compensation Committee maintained the same annual bonus performance metrics used in 2017 for our named executive officers.  The annual bonus opportunity in 2018 was weighted based 80% upon our consolidated pre-tax profit (before consolidated annual bonus and stock-based compensation expense but after all other charges) and 20% on the number of new orders (net of cancellations) that we generated compared to our 2018 annual business plan.  We believe that these measures provide a proper balance of focusing on current profitability while providing for longer-term growth.
+The named executive officers were to begin earning the consolidated pre-tax profit portion of their annual bonus award once the annual business plan was at least 80% attained (the "threshold").  The full amount of the consolidated pre-tax profit portion of their annual bonus award was to be earned ratably from 80% up to 100% achievement of the annual business plan.  They were to begin earning the new orders portion of their annual bonus award once the annual business plan was at least 85%  attained.  The full amount of the new orders portion of their annual bonus award was to be earned ratably from 85% up to 100% achievement of the annual business plan.  
+The following is a summary of the specific performance targets established under the 2018 annual bonus plan and the actual results: 
+[BEGIN TABLE]
+Performance Measure Threshold Target and Maximum Actual Maximum Bonus OpportunityPercentage  of Maximum Bonus Opportunity Earned
+Performance Measure Threshold Target and Maximum Actual Maximum Bonus OpportunityPercentage  of Maximum Bonus Opportunity Earned
+Consolidated Pre-Tax Profit (in thousands) $ 872,757   $ 1,090,946   $ 1,092,876   80% 100% 
+New Orders (net of cancellations) 15,980   18,800   18,281   20% 82% 
+Percentage of Bonus Opportunity Earned         96% 
+[END TABLE]
+Under our annual bonus plan, the target bonus amount is the same as the maximum bonus amount.  Based on our 2018 results, each of our named executive officers earned 96% of the maximum bonus opportunity of 100% of base salary.  
+Equity-Based Compensation
+2018 Equity Plan Approval
+In May 2018, our shareholders approved the NVR, Inc. 2018 Equity Incentive Plan (the "2018 Plan"), with 65% of the shares voted cast in favor of the 2018 Plan.  Our shareholders approved the 2018 Plan despite recommendations "against" by both ISS and Glass Lewis.
+In our 2018 Proxy Statement, we disclosed the following with respect to the 2018 Plan:
+[BEGIN TABLE]
+• We intended to grant a block of stock options in 2018 that will vest at December 31, 2020, 2021, 2022 and 2023, with vesting for 50% of the stock options subject to continued employment and the attainment of a performance metric approved by the Compensation Committee and the vesting for the remaining 50% of the stock options subject to continued employment. 
+• We calculate the value of the individual grants by determining the annual value we intend to provide to the participant and multiply the annual value by the number of vesting years. 
+• We expect the pre-vesting period for the initial grants made under the 2018 Plan to be approximately 1.5 years, followed by a 4 year vesting period, resulting in a total vesting period of 5.5 years. 
+• We do not expect to grant any additional options until 2022, except for promotions and new hires. 
+[END TABLE]
+The 2018 stock option grants were made exactly as proposed in the 2018 Proxy following shareholder approval of the 2018 Plan. 2018 Equity Grants
+In May 2018, we issued the block grant of stock options to our named executive officers and other key managers as described above.  The following is the mix of stock options that were granted to the named executive officers:
+The stock options vest 25% on each of December 31, 2020, 2021, 2022 and 2023.  The previous grants made in 2014 fully vest on December 31, 2019.  We believe that the May 2018 grants were critical to ensure the retention of our named executive officers and other key managers beyond 2019.  This approach continues our past practice of issuing equity grants every four years instead of annual equity grants.  While we recognize that annual grants are more common, this practice has served us well in motivating and retaining key executives and managers.
+To determine the size of awards to grant to our named executive officers, the Compensation Committee used the large-cap companies within the Aon Study Peer Group (D.R. Horton, Inc., Lennar Corporation, Toll Brothers, Inc. and PulteGroup, Inc.) to benchmark the named executive officers' total compensation.  
+The Compensation Committee determined to make a stock option grant to Mr. Saville at slightly above the 75th percentile of total compensation for the large-cap CEOs within the Aon Study Peer Group based on:
+[BEGIN TABLE]
+• Mr. Saville's out-performance compared to the other large-cap CEO's;  
+• NVR's superior financial returns relative to the peer group;  
+• Risk associated with the high price to earnings multiple (at the time of the grant in May 2018) relative to the historical price to earnings multiple;  
+• Potential for a housing downturn during the vesting period; and  
+• Static nature of the calculation due to the block grant approach (4-year forward looking time period during which the median total compensation of the peer group will likely increase).  
+[END TABLE]
+The Compensation Committee determined to make a grant of stock options to Mr. Malzahn at the 75th percentile of total compensation for the large-cap CFOs within the Aon Study Peer Group based on Mr. Malzahn's job performance, NVR's superior financial returns relative to the peer group, the risks associated with the high price to earnings multiple (at the time of the grant in May 2018) relative to the historical price to earnings multiple, the potential for a housing downturn during the vesting period and the static nature of calculation due to the block grant approach (4-year forward looking time period during which the median total compensation of the peer group will likely increase).  The Committee determined to make stock option grants to Messrs. Martchek, Henley and Bredow based on the stock option grant made to Mr. Malzahn and considering comparative total compensation data for the large-cap peers in the Aon Study Peer Group.   The Compensation Committee determined the equity grant values as follows:
+[BEGIN TABLE]
+  A B C=A-B D E=CxD   
+Name Target Total Annual Compensation Target Annual Cash Compensation Target Annual Equity Compensation Number of Vesting Years Target 4 Year Equity Grant Value Actual Grant Date Fair Value of Equity Award 
+Paul C. Saville $12,738,750 $3,900,000 $8,838,750 4 Years $35,355,000 $35,355,000 
+Daniel D. Malzahn $4,000,000 $1,100,000 $2,900,000 4 Years $11,600,000 $11,596,440 
+Jeffrey D. Martchek $3,750,000 $1,170,000 $2,580,000 4 Years $10,320,000 $10,323,660 
+Robert W. Henley $3,500,000 $1,020,000 $2,480,000 4 Years $9,920,000 $9,970,110 
+Eugene J. Bredow $3,250,000 $850,000 $2,400,000 4 Years $9,600,000 $9,616,560 
+[END TABLE]
+Based on the 4-year equity grant values calculated above, the following option grants were issued to the named executive officers on May 10, 2018 (see the 2018 Summary Compensation Table and the Outstanding Equity Awards at December 31, 2018 table for further information):
+[BEGIN TABLE]
+Name Number of Time-Based Options Granted Number of Performance- Based Options Granted Total Number of Options Granted Total Value Based on Grant Date Fair Value 
+Paul C. Saville 25,000 25,000 50,000 $35,355,000 
+Daniel D. Malzahn 8,200 8,200 16,400 $11,596,440 
+Jeffrey D. Martchek 7,300 7,300 14,600 $10,323,660 
+Robert W. Henley 7,050 7,050 14,100 $9,970,110 
+Eugene J. Bredow 6,800 6,800 13,600 $9,616,560 
+[END TABLE]
+The stock options will vest in 25% increments on each of December 31, 2020, 2021, 2022 and 2023.  The vesting for the time-based options is based solely on continued employment.  The vesting for the performance-based options is based on continued employment and NVR's return on capital performance during the years 2018 through 2020.
+For the performance-based options, we have determined that the most appropriate performance metric is our return on capital relative to the peer group.  We believe that return on capital is an important metric for us due to the capital intensive nature of the homebuilding business.  The following are the relevant details of the performance metric:
+[BEGIN TABLE]
+How is Return on Capital calculated?   Average Annual ((Pre-Tax Income +Homebuilding Interest Expense (period expense and in cost of sales))-Taxes at 26%) Average Quarterly (Homebuilding Debt (including working capital borrowings) + Shareholders Equity)
+How is Return on Capital calculated?   Average Annual ((Pre-Tax Income +Homebuilding Interest Expense (period expense and in cost of sales))-Taxes at 26%) Average Quarterly (Homebuilding Debt (including working capital borrowings) + Shareholders Equity)
+Who is the Peer Group?   Beazer Homes USA, Inc.; D. R. Horton, Inc.; Hovnanian Enterprises, Inc.; KB Home; Lennar Corporation; MDC Holdings, Inc.; Meritage Homes Corporation; M/I Homes, Inc.; PulteGroup, Inc.; Taylor Morrison Home Corporation; TRI Pointe Group, Inc.; and Toll Brothers, Inc.  Each member must be a stand-alone public company during the entire measurement period. 
+What is the measurement period?   Fiscal Years 2018-2020 
+How is the award earned?   Award is earned ratably from the Threshold to the Target. 
+What is the Threshold?   50th percentile of the peer group (award is 50% of the options granted) 
+What is the Target?   75th percentile of the peer group (award is 100% of the options granted) 
+What is the Maximum?   Same as the Target.  There is no opportunity to earn more than 100% of the number of options granted. 
+[END TABLE]
+ The following table illustrates the performance metric target calculation:
+[BEGIN TABLE]
+Rank   Builder     
+1   Builder #1     
+2   Builder #2     
+3   Builder #3   Target-100% Earned 
+4   Builder #4     
+5   Builder #5     
+6   Builder #6   Threshold-50% Earned 
+7   Builder #7     
+8   Builder #8     
+9   Builder #9     
+10   Builder #10     
+11   Builder #11     
+12   Builder #12     
+[END TABLE]
+We understand that issuing periodic block equity grants instead of annual equity grants results in the compensation for named executives appearing uneven in the Summary Compensation Table, with four years of equity compensation being disclosed in the year of the grant and no equity compensation being disclosed in the remaining years.  The following is an illustrative example of our CEO's compensation disclosed in the Summary Compensation Table, assuming that the CEO earns 100% of his annual bonus and his annual base salary remains unchanged from his current salary:
+[BEGIN TABLE]
+  2018 2019 2020 2021 Average 
+Salary * $1,950,000 $1,950,000 $1,950,000 $1,950,000 $1,950,000 
+Annual Bonus * $1,950,000 $1,950,000 $1,950,000 $1,950,000 $1,950,000 
+Equity Compensation $35,355,000 $0 $0 $0 $8,838,750 
+Total Compensation $39,255,000 $3,900,000 $3,900,000 $3,900,000 $12,738,750 
+[END TABLE]
+* For purposes of this illustration, annual salary remains unchanged and maximum annual bonus is earned.  Annual performance increases would be subject to market conditions and the CEO's overall performance.
+When our Compensation Committee evaluates the annual compensation of the named executive officers, the Committee evaluates the equity compensation as being earned over the 4-year period.  The following is an illustrative example of our Committee's evaluation of the CEO's compensation over a four year period:
+[BEGIN TABLE]
+  2018 2019 2020 2021 Average 
+Salary * $1,950,000 $1,950,000 $1,950,000 $1,950,000 $1,950,000 
+Annual Bonus * $1,950,000 $1,950,000 $1,950,000 $1,950,000 $1,950,000 
+Equity Compensation $8,838,750 $8,838,750 $8,838,750 $8,838,750 $8,838,750 
+Total Compensation $12,738,750 $12,738,750 $12,738,750 $12,738,750 $12,738,750 
+[END TABLE]
+* For purposes of this illustration, annual salary remains unchanged and maximum annual bonus is earned.  Annual performance increases would be subject to market conditions and the CEO's overall performance.
+As the two tables above illustrate, the compensation appears higher in the year of the equity grant but over the four year period, the average compensation is the same.  The disclosure in the Summary Compensation Table may lead certain shareholders or the proxy advisors to consider the 2018 compensation above average when compared to many companies, including companies in our peer group, issuing annual equity grants.  We believe that our shareholders should evaluate our 2018 compensation taking into consideration that we issued block grants of equity in 2018 after our shareholders approved the 2018 Plan, consistent with our disclosure in the 2018 Proxy Statement. We also disclosed in the 2018 Proxy Statement that we do not expect to grant any additional options until 2022, except for promotions and new hires. Update of 2016 Performance-Based Equity Grant
+In January 2016, we issued a grant of stock options to Mr. Martchek in connection with his promotion to President of Homebuilding Operations.  The stock options vest 25% on each of December 31, 2018, 2019, 2020 and 2021.  The vesting for 50% of the stock options granted is based solely on continued employment.  The vesting for the other 50% of the stock options is based on continued employment and NVR's return on capital performance during the years 2016 through 2018. 
+For the 2016-2018 measurement period, our average return on capital of 25% was the highest in the peer group. Thus, the performance metric target was met and 100% of the performance-based stock options are subject to vesting based on Mr. Martchek's continued employment.
+Equity Plan Features
+We believe that our equity plans reflect the following corporate governance best practices:
+[BEGIN TABLE]
+• No evergreen provisions; 
+• No re-pricing of stock options without shareholder approval (NVR has no history of re-pricing options); 
+• No discounted stock options; 
+• No reload features; and 
+• Double trigger change of control provision in the equity agreements for the accelerated vesting of equity. 
+[END TABLE]
+Clawback/Forfeiture
+Under the terms of the equity agreements, we may recapture from our named executive officers any gains from stock option exercises during the prior 12 months if we are required to prepare an accounting restatement due to material noncompliance, as a result of misconduct, with any financial reporting requirement under the securities laws.  The named executive officer must have knowingly engaged in the misconduct, been grossly negligent in engaging in the misconduct, knowingly failed to prevent the misconduct or been grossly negligent in failing to prevent the misconduct.
+Stock Ownership Guidelines
+We have adopted robust stock ownership guidelines to strengthen long-term alignment between our named executive officers and our shareholders.  These guidelines require the named executive officers to acquire and continuously hold shares with a total fair market value ranging from four- to eight-times their annual base salaries depending on position.  The multiple of salary that our named executive officers are required to hold in shares of stock is higher than many other companies.  
+As of December 31, 2018, the stock ownership requirement for each of the named executive officers was as follows:
+[BEGIN TABLE]
+Name   Base Salary   Factor   Dollar Holding Requirement
+Name   Base Salary   Factor   Dollar Holding Requirement
+Paul C. Saville   $ 1,950,000     8     $ 15,600,000   
+Daniel D. Malzahn   $ 550,000     6     $ 3,300,000   
+Jeffrey D. Martchek   $ 585,000     6     $ 3,510,000   
+Robert W. Henley   $ 510,000     4     $ 2,040,000   
+Eugene J. Bredow   $ 425,000     4     $ 1,700,000   
+[END TABLE]
+ Personal Benefits
+Our named executive officers are entitled to and eligible only for the same personal benefits for which all of our employees are eligible.
+Deferred Compensation Arrangements
+We have two deferred compensation plans that:
+[BEGIN TABLE]
+• Encourage ownership of our Common Stock in furtherance of our compensation philosophy; 
+• Enable our named executive officers, and other members of management, to acquire shares of our Common Stock on a pre-tax basis in order to more quickly meet, and maintain compliance with, the stock ownership requirements described above; 
+• Established a vehicle whereby, prior to the enactment of the Tax Cuts and Jobs Act in December 2017, named executive officers could defer the receipt of salary and bonus that otherwise would have been nondeductible for company tax purposes into a period where we would realize a tax deduction for the amounts paid (see Tax Deductibility of Compensation discussion below).   
+[END TABLE]
+Our deferred compensation plans are structured as follows:
+[BEGIN TABLE]
+• Amounts deferred are invested in a fixed number of shares of our Common Stock, which is purchased on the open market at fair market value;   
+• We own the shares of Common Stock in a Rabbi Trust, which makes payment of our obligations under the deferred compensation plans risk-free for NVR – the cost of the plans does not increase as the value of the Common Stock increases; 
+• Our Common Stock is the only investment choice;   
+• All amounts placed in the deferred compensation plan are amounts already earned by the named executive officer; 
+• We do not make employer contributions to the deferred compensation accounts;   
+• Earnings on deferred amounts solely represent the change the market value of the shares of our Common Stock held in the account;   
+• We do not provide for a minimum return or guarantee a minimum payout amount;   
+• Amounts deferred are "at risk" investments for the named executive officer; and 
+• Amounts deferred cannot be distributed to the named executive officer until the named executive officer's termination of service or, under one of the two plans, six months after termination. 
+[END TABLE]
+The structure of our deferred compensation plans results in certain of our named executive officers holding Common Stock significantly in excess of the ownership requirement since our Common Stock is the only investment choice and shares held in the deferred compensation plans are not eligible for distribution until the named executive officer's employment terminates.  
+The market value of our named executive officers' deferred compensation accounts is not considered when setting their current compensation.  The Compensation Committee reached this conclusion after considering the following points:
+[BEGIN TABLE]
+• The compensation deferred was reviewed and analyzed based on the above-described compensation philosophy and policies at the time the compensation was earned in prior years and was fully earned at that time;   
+• If the executive officer had elected to receive a payout of the compensation at the time it was earned rather than electing the deferral, we would not have any knowledge of, and therefore would not consider, the executive officer's investment experience related to that compensation when considering the amount by which we should compensate the executive officer in the current year; 
+• The change in the deferred compensation balance is solely attributable to the change in the market value of our Common Stock since the dates of deferral; 
+• We do not consider shares of Common Stock owned by an executive officer outside of the deferred compensation plans when setting current compensation; and 
+• If the amounts had been paid to the executive officer when earned and not deferred until separation of service, we would have lost a substantial tax benefit that we will now expect to receive as a result of the deferral. 
+[END TABLE]
+ Thus, we do not believe it is appropriate to consider the value of an executive officer's deferred compensation account in making current compensation decisions just because the account is held in a plan we sponsor and is invested in our Common Stock.  See the 2018 Non-Qualified Deferred Compensation Table and accompanying narrative below for additional information on our deferred compensation plans.
+Change of Control and Post-Employment Payments
+Each of our named executive officers is party to an employment agreement with us pursuant to which the officer is entitled to post-employment payments upon certain termination events, including termination following a change in control.  Generally, we do not believe that we should pay our named executive officers, or any other employee, any incremental compensation upon termination when the termination is either by choice or due to conduct that is potentially detrimental to NVR.  Thus, we do not provide any of our named executive officers any incremental post-employment benefits, other than any amounts already earned and accrued at the date of termination, if the termination is voluntary (unless due to a change in control of NVR, retirement or "with good reason") or for "Cause."
+We do not provide tax "gross ups" to our named executive officers in connection with any change in control or post-employment payment.
+Change of Control Provisions
+The change of control provision in each applicable named executive officer's equity agreement or employment agreement for the payment of the post-employment benefit is a double trigger, meaning that the change of control must be coupled with the officer's termination from service within a certain period of time after the change of control to trigger a payment or accelerated right.  A double trigger for the post-employment benefit payment was selected because, unless the named executive officer's employment is terminated after the change in control, the acquiring entity will continue to pay the named executive officer's salary and annual bonus.  See the Narrative Disclosures of Termination and Change of Control Payments discussion below for additional information on these post-employment payments.
+The change of control provisions in the deferred compensation plans are single trigger, meaning that the change of control event alone triggers either a payment or an acceleration of certain rights.  This reflects our intent that the named executive officers have the ability to vote those shares upon any proposed transaction since the amounts are already vested, and to ensure that the named executive officers receive deferred compensation they earned prior to the change of control.  See Narrative Disclosures of Termination and Change of Control Payments discussion below for additional information on these post-employment payments.
+Payments Upon Death, Disability, Retirement and Other Employment Terminations
+Each of the employment agreements provides for a post-employment benefit of two months' salary and two months' pro-rated annual bonus upon the named executive officer's termination due to death or disability.  This amount reflects what we believe to be a modest transition for the executive or the executive's family for termination events that are sudden and beyond the executive's control.  
+We provide a post-employment benefit of 100% of base salary and any accrued pro-rated annual bonus (to the extent that performance targets are achieved for that year) upon the named executive officer's retirement.  We consider the 100% payment a reward for length of service given that we do not provide our executives defined benefit or supplemental executive retirement plans.
+For Mr. Saville, we provide a post-employment benefit of 200% of base salary and any accrued pro-rated annual bonus (assuming that 100% of the target bonus would have been paid for that year) for termination without cause, voluntary with good reason or voluntary within one year after a change in control (requires a change in control and a material diminution in authority, duties or responsibilities). For Messrs. Malzahn, Henley and Bredow, we provide a post-employment benefit of 100% of base salary and any accrued pro-rated annual bonus (assuming that 100% of the target bonus would have been paid for that year) for termination without cause, voluntary with good reason or voluntary within one year after a change in control (requires a change in control and a material diminution in authority, duties or responsibilities).  For Mr. Martchek, we provide a post-employment benefit of 100% of base salary and any accrued pro-rated annual bonus (assuming that 100% of the target bonus would have been paid for that year) for termination without cause or voluntary with good reason. These amounts reflect our belief that it is difficult for executive officers to find comparable employment opportunities in a short period of time, particularly after experiencing a termination that was beyond their control.   Management of Compensation-Related Risk
+We have designed our compensation program to avoid excessive risk-taking by placing the majority of our named executive officers' compensation opportunity in periodic grants of equity with a long-term vesting schedule, limiting the annual bonus opportunity to 100% of base salary and having significant stock ownership requirements for our named executive officers.  We do not believe any of our compensation programs create risks that are reasonably likely to have a material adverse impact on NVR.
+Tax Deductibility of Compensation
+Through December 31, 2017, Section 162(m) of the Internal Revenue Code limited the corporate deduction for compensation paid to the named executive officers (other than our CFO) to $1 million unless such compensation qualified as "performance-based compensation."  Among other things, Section 162(m) required approval of the performance-based compensation by our shareholders.  The Compensation Committee takes the deductibility of compensation into consideration but it does not limit the design of its compensation plans to strictly fall within the definition of performance-based compensation.  Other than the NVR, Inc. 2000 Broadly-Based Stock Option Plan, all of our stock option plans were designed to enable all stock option awards to qualify as "performance based" under Section 162(m).  
+In December 2017, the Tax Cuts and Jobs Act (the "Act") was enacted.  The Act eliminated the "performance-based compensation" exception from Section 162(m).  The Act includes a grandfathering provision for compensation pursuant to a written binding contract which was in effect on November 2, 2017, and which was not modified in any material respect after such date.  We believe that our outstanding equity grants and amounts in the deferred compensation plans as of November 2, 2017 are in compliance with the grandfathering provision of the Act, and thus will remain deductible to the extent they are considered "performance-based compensation."   THE FOLLOWING REPORT OF THE COMPENSATION COMMITTEE SHALL NOT BE DEEMED TO BE "SOLICITING MATERIAL" OR TO BE "FILED" WITH THE SECURITIES AND EXCHANGE COMMISSION UNDER THE SECURITIES ACT OF 1933 OR THE SECURITIES EXCHANGE ACT OF 1934 OR INCORPORATED BY REFERENCE IN ANY DOCUMENT SO FILED.
+Report of the Compensation Committee
+The Compensation Committee hereby reports as follows:
+[BEGIN TABLE]
+1. The Compensation Committee has reviewed and discussed the Compensation Discussion and Analysis with NVR's management; and 
+2. Based on the review and discussion referred to in paragraph 1, the Compensation Committee recommended to the Board, and the Board has approved, that the Compensation Discussion and Analysis be included in our 2019 Proxy Statement to be incorporated by reference in our Annual Report on Form 10-K for the fiscal year ended December 31, 2018, for filing with the Securities and Exchange Commission. 
+[END TABLE]
+The undersigned, constituting all of the members of the Compensation Committee, have submitted this report to the Board of Directors.
+Thomas D. Eckert (Chairman), David A. Preiser, W. Grady Rosier, and Susan Williamson Ross 2018 SUMMARY COMPENSATION TABLE
+[BEGIN TABLE]
+Name and Principal Position   Year   Salary ($)  Option Awards ($)(1)  Non-Equity Incentive Plan Compensation ($)  All Other Compensation ($)(2)  Total ($)
+Name and Principal Position   Year   Salary ($)  Option Awards ($)(1)  Non-Equity Incentive Plan Compensation ($)  All Other Compensation ($)(2)  Total ($)
+Paul C. Saville   2018   $ 1,919,000     $ 35,355,000     $ 1,848,364     $ 11,800     $ 39,134,164   
+President and Chief   2017   $ 1,763,500     —     $ 1,763,500     $ 11,600     $ 3,538,600   
+Executive Officer   2016   $ 1,566,375     —     $ 1,566,375     $ 14,250     $ 3,147,000   
+Daniel D. Malzahn   2018   $ 542,500     $ 11,596,440     $ 522,531     $ 11,800     $ 12,673,271   
+Senior Vice President, Chief    2017   $ 513,750     —     $ 513,750     $ 11,600     $ 1,039,100   
+Financial Officer and Treasurer   2016   $ 490,000     —     $ 490,000     $ 14,250     $ 994,250   
+Jeffrey D. Martchek   2018   $ 580,000     $ 10,323,660     $ 558,651     $ 11,800     $ 11,474,111   
+President of Homebuilding   2017   $ 558,500     —     $ 558,500     $ 11,600     $ 1,128,600   
+Operations   2016   $ 539,000     $ 2,930,640     $ 537,006     $ 14,250     $ 4,020,896   
+Robert W. Henley   2018   $ 504,250     $ 9,970,100     $ 485,689     $ 10,800     $ 10,970,839   
+President, NVR Mortgage   2017   $ 481,500     —     $ 481,500     $ 10,600     $ 973,600   
+    2016   $ 460,000     —     $ 460,000     $ 13,250     $ 933,250   
+Eugene J. Bredow   2018   $ 415,833     $ 9,616,560     $ 400,527     $ 11,800     $ 10,444,720   
+Senior Vice President and Chief    2017   $ 363,750     —     $ 363,750     $ 11,600     $ 739,100   
+Administrative Officer   2016   $ 341,250     —     $ 341,250     $ 14,250     $ 696,750   
+(2) The "all other compensation" includes amounts contributed to our employee stock ownership plan for the respective plan year, and where applicable, a $1,000 matching contribution made by us pursuant to our 401(k) plan. 
+[END TABLE]
+ 2018 Grants of Plan-Based Awards 
+The following table presents information related to our annual bonus plan and equity grants to named executive officers for 2018.
+[BEGIN TABLE]
+        Estimated Future Payouts Under Non- Equity Incentive Plan Awards ($)  Estimated Future Payouts Under Non- Equity Incentive Plan Awards (#)  All Other Option Awards:  Number of Securities Underlying Options (#)   Exercise or Base Price of Option Awards   Closing Price on Date of Grant   Grant Date Fair Value on Date of Grant 
+        Estimated Future Payouts Under Non- Equity Incentive Plan Awards ($)  Estimated Future Payouts Under Non- Equity Incentive Plan Awards (#)  All Other Option Awards:  Number of Securities Underlying Options (#)   Exercise or Base Price of Option Awards   Closing Price on Date of Grant   Grant Date Fair Value on Date of Grant 
+Name   Grant Date   Threshold   Target   Maximum   Threshold   Target   Maximum                 
+Paul C. Saville (1)   2/15/2018   $ —     $ 1,919,000     $ 1,919,000     —     —     —     —     —     —     —   
+Paul C. Saville (2)   5/10/2018   —     —     —     12,500   25,000   25,000   —     $3,022.99   $3,022.00   $17,677,500 
+Paul C. Saville (3)   5/10/2018   —     —     —     —     —     —     25,000     $3,022.99   $3,022.00   $17,677,500 
+Daniel D. Malzahn (1)   2/15/2018   —     $ 542,500     $ 542,500     —     —     —     —     —     —     —   
+Daniel D. Malzahn (2)   5/10/2018   —     —     —     4,100     8,200     8,200     —     $3,022.99   $3,022.00   $5,798,220 
+Daniel D. Malzahn (3)   5/10/2018   —     —     —     —     —     —     8,200     $3,022.99   $3,022.00   $5,798,220 
+Jeffrey D. Martchek (1)   2/15/2018   —     $ 580,000     $ 580,000     —     —     —     —     —     —     —   
+Jeffrey D. Martchek (2)   5/10/2018   —     —     —     3,650     7,300     7,300     —     $3,022.99   $3,022.00   $5,161,830 
+Jeffrey D. Martchek (3)   5/10/2018   —     —     —     —     —     —     7,300     $3,022.99   $3,022.00   $5,161,830 
+Robert W. Henley (1)   2/15/2018   —     $ 504,250     $ 504,250     —     —     —     —     —     —     —   
+Robert W. Henley (2)   5/10/2018   —     —     —     3,525     7,050     7,050     —     $3,022.99   $3,022.00   $4,985,055 
+Robert W. Henley (3)   5/10/2018   —     —     —     —     —     —     7,050     $3,022.99   $3,022.00   $4,985,055 
+Eugene J. Bredow (1)   2/15/2018   —     $ 415,833     $ 415,833     —     —     —     —     —     —     —   
+Eugene J. Bredow (2)   5/10/2018   —     —     —     3,400     6,800     6,800     —     $3,022.99   $3,022.00   $4,808,280 
+Eugene J. Bredow (3)   5/10/2018   —     —     —     —     —     —     6,800     $3,022.99   $3,022.00   $4,808,280 
+[END TABLE]
+Narrative Disclosure to Summary Compensation and Grants of Plan-Based Awards Tables
+Employment Agreements
+We employed Messrs. Saville, Malzahn, Martchek, Henley and Bredow pursuant to employment agreements during 2018.  The employment agreements are for a five year term beginning on January 1, 2016.  
+Other than the applicable named executive officers' titles, minimum base salary amounts and NVR stock ownership requirements, the material terms of the employment agreements are essentially the same and cover:
+[BEGIN TABLE]
+• Minimum base salaries: 
+Mr. Saville $ 1,950,000   
+Mr. Malzahn $ 550,000   
+Mr. Martchek $ 585,000   
+Mr. Henley $ 510,000   
+Mr. Bredow $ 425,000   
+• Annual bonus eligibility up to 100% of base salary based on criteria determined by our Compensation Committee (see Compensation Discussion and Analysis – Annual Cash Bonus above); 
+• Eligibility to participate in our benefit plans at identical participation costs offered to all of our employees eligible to participate in those plans; 
+• Eligibility to have reasonable business expenses reimbursed, subject to reimbursement policies to which all of our employees are subject equally; 
+• Requirement of a continuous NVR stock ownership requirement (see Compensation Discussion and Analysis - Stock Ownership Guidelines above); 
+• Post-employment payments due under various termination scenarios (see Narrative Disclosures of Termination and Change of Control Payments below for additional information); 
+• Covenants not to compete with us (see Narrative Disclosures of Termination and Change of Control Payments below for additional information); and 
+• Indemnification to the executives to the fullest extent permitted by the laws of the Commonwealth of Virginia. 
+[END TABLE]
+ OUTSTANDING EQUITY AWARDS AT DECEMBER 31, 2018 
+[BEGIN TABLE]
+          Option Awards 
+Name Option Award Type (a) Grant Date Ratable vesting on each of December 31,    Number of Securities Underlying Unexercised Options (#) Exercisable  Number of Securities Underlying Unexercised Options (#) Unexercisable  Option Exercise Price ($)  Option Expiration Date
+Name Option Award Type (a) Grant Date Ratable vesting on each of December 31,    Number of Securities Underlying Unexercised Options (#) Exercisable  Number of Securities Underlying Unexercised Options (#) Unexercisable  Option Exercise Price ($)  Option Expiration Date
+Name Option Award Type (a) Grant Date Ratable vesting on each of December 31,    Number of Securities Underlying Unexercised Options (#) Exercisable  Number of Securities Underlying Unexercised Options (#) Unexercisable  Option Exercise Price ($)  Option Expiration Date
+Paul C. Saville                             
+2000 Option Plan T 05/11/10 2013, 2014   57,344     —     $ 703.00     05/10/20 
+2014 Equity Plan T 05/14/14 2016, 2017, 2018, 2019   23,737     7,913     $ 1,094.22     05/13/24 
+2014 Equity Plan P 05/14/14 2016, 2017, 2018, 2019   23,737     7,913     $ 1,094.22     05/13/24 
+2018 Equity Plan T 05/10/18 2020, 2021, 2022, 2023   —     25,000     $ 3,022.99     05/09/28 
+2018 Equity Plan P 05/10/18 2020, 2021, 2022, 2023   —     25,000     $ 3,022.99     05/09/28 
+Daniel D. Malzahn                             
+2000 Option Plan T 05/11/10 2013, 2014   3,970     —     $ 703.00     05/10/20 
+2010 Equity Plan T 02/20/13 2015, 2016, 2017, 2018   14,000     —     $ 1,019.74     02/19/23 
+2014 Equity Plan T 05/14/14 2016, 2017, 2018, 2019   9,562     3,188     $ 1,094.22     05/13/24 
+2014 Equity Plan P 05/14/14 2016, 2017, 2018, 2019   9,562     3,188     $ 1,094.22     05/13/24 
+2018 Equity Plan T 05/10/18 2020, 2021, 2022, 2023   —     8,200     $ 3,022.99     05/09/28 
+2018 Equity Plan P 05/10/18 2020, 2021, 2022, 2023   —     8,200     $ 3,022.99     05/09/28 
+Jeffrey D. Martchek                       
+2010 Equity Plan T 05/11/10 2013, 2014   2,712     —     $ 703.00     05/10/20 
+2010 Equity Plan T 03/01/11 2013, 2014   4,000     —     $ 727.86     02/28/21 
+2010 Equity Plan T 05/14/14 2016, 2017, 2018, 2019   6,750     2,250     $ 1,094.22     05/13/24 
+2014 Equity Plan P 05/14/14 2016, 2017, 2018, 2019   6,750     2,250     $ 1,094.22     05/13/24 
+2014 Equity Plan T 01/01/16 2018, 2019, 2020, 2021   1,000     3,000     $ 1,643.00     12/31/25 
+2014 Equity Plan P 01/01/16 2018, 2019, 2020, 2021   1,000     3,000     $ 1,643.00     12/31/25 
+2018 Equity Plan T 05/10/18 2020, 2021, 2022, 2023   —     7,300     $ 3,022.99     05/09/28 
+2018 Equity Plan P 05/10/18 2020, 2021, 2022, 2023   —     7,300     $ 3,022.99     05/09/28 
+Robert W. Henley                             
+2014 Equity Plan T 05/14/14 2016, 2017, 2018, 2019   2,462     2,463     $ 1,094.22     05/13/24 
+2014 Equity Plan P 05/14/14 2016, 2017, 2018, 2019   2,462     2,463     $ 1,094.22     05/13/24 
+2018 Equity Plan T 05/10/18 2020, 2021, 2022, 2023   —     7,050     $ 3,022.99     05/09/28 
+2018 Equity Plan P 05/10/18 2020, 2021, 2022, 2023   —     7,050     $ 3,022.99     05/09/28 
+Eugene J. Bredow                             
+2010 Equity Plan T 06/01/12 2014, 2015, 2016, 2017   7,000     —     $ 804.80     05/31/22 
+2014 Equity Plan T 05/14/14 2018, 2019, 2020, 2021   4,462     1,488     $ 1,094.22     05/13/24 
+2014 Equity Plan P 05/14/14 2018, 2019, 2020, 2021   4,462     1,488     $ 1,094.22     05/13/24 
+2018 Equity Plan T 05/10/18 2020, 2021, 2022, 2023   —     6,800     $ 3,022.99     05/09/28 
+2018 Equity Plan P 05/10/18 2020, 2021, 2022, 2023   —     6,800     $ 3,022.99     05/09/28 
+[END TABLE]
+2018 OPTION EXERCISES AND STOCK VESTED
+[BEGIN TABLE]
+    Option Awards 
+Name   Number of Shares Acquired on Exercise (#)  Value Realized on Exercise ($)(1)
+Name   Number of Shares Acquired on Exercise (#)  Value Realized on Exercise ($)(1)
+Name   Number of Shares Acquired on Exercise (#)  Value Realized on Exercise ($)(1)
+Paul C. Saville   —     —   
+Daniel D. Malzahn   —     $ —   
+Jeffrey D. Martchek   11,110     $ 21,887,702   
+Robert W. Henley   19,850     $ 23,305,737   
+Eugene J. Bredow   1,000     $ 2,275,200   
+[END TABLE]
+2018 NON-QUALIFIED DEFERRED COMPENSATION TABLE
+[BEGIN TABLE]
+Name   Executive Contributions in Last FY ($)  Registrant Contributions in Last FY ($)  Aggregate Earnings (Loss) in Last FY ($)(a)  Aggregate Withdrawals/ Distributions ($)  Aggregate Balance at Last FYE ($)
+Name   Executive Contributions in Last FY ($)  Registrant Contributions in Last FY ($)  Aggregate Earnings (Loss) in Last FY ($)(a)  Aggregate Withdrawals/ Distributions ($)  Aggregate Balance at Last FYE ($)
+Name   Executive Contributions in Last FY ($)  Registrant Contributions in Last FY ($)  Aggregate Earnings (Loss) in Last FY ($)(a)  Aggregate Withdrawals/ Distributions ($)  Aggregate Balance at Last FYE ($)
+Paul C. Saville:                               
+Plan 1 (b)   —     —     $ (113,425,046)   —     $ 258,035,812   
+Plan 2 (c)   —     —     $ (832,075)   —     $ 1,892,925   
+Daniel D. Malzahn   —     —     —     —     —   
+Jeffrey D. Martchek                               
+Plan 1 (d)   —     —     $ (640,596)   —     $ 1,457,320   
+Robert W. Henley   —     —     —     —     —   
+Eugene J. Bredow   —     —     —     —     —   
+(d) Mr. Martchek deferred a total of $201,744 of earned compensation prior to 2004. The growth in the balance is solely from the appreciation in our Common Stock since the dates of deferral. 
+[END TABLE]
+Narrative to the 2018 Non-Qualified Deferred Compensation Table
+We have two deferred compensation plans, which we refer to as Plan 1 and Plan 2 for purposes of this discussion.  Plan 1, which we adopted on December 15, 1999, was closed for new contributions effective December 31, 2004.  Each of the named executive officers, solely at their election, may defer 100% of any earned salary or bonus into Plan 2, which we adopted December 15, 2005.  Stock option gains are prohibited by law from being deferred.
+Our deferred compensation plans are structured as follows:
+[BEGIN TABLE]
+• Amounts deferred are invested in a fixed number of shares of our Common Stock, which is purchased on the open market at fair market value;   
+[END TABLE]
+[BEGIN TABLE]
+• We own the shares of Common Stock in a Rabbi Trust, which makes the payment of our obligations under the deferred compensation plans risk-free for NVR – the cost of the plans does not increase as the value of the Common Stock increases; 
+• Our Common Stock is the only investment choice;   
+• All amounts placed in the deferred compensation plan are amounts already earned by the named executive officer; 
+• We do not make employer contributions to the deferred compensation accounts;   
+• Earnings on deferred amounts solely represent changes in the market value of the shares of our Common Stock held in the account;   
+• We do not provide for a minimum return or guarantee a minimum payout amount;   
+• Amounts deferred are "at risk" investments for the named executive officer; and 
+• Amounts deferred cannot be distributed to the named executive officer until the named executive officer's termination of service.  The deferral period expires for Plan 1 at the named executive officer's termination of service, and expires for Plan 2 six months after the named executive officer's termination of service in accordance with Code Section 409A. 
+[END TABLE]
+See Tax Deductibility of Compensation section in our Compensation Discussion and Analysis for further discussion of the tax deductibility of deferred compensation.
+NARRATIVE DISCLOSURES OF TERMINATION AND CHANGE OF CONTROL PAYMENTS
+Our named executive officers are eligible to receive certain termination and/or change in control payments and acceleration rights under certain of the compensation arrangements that they hold with us.  These payments and acceleration rights are contained within the executive officers' employment agreements, equity agreements and deferred compensation plan agreements.
+Employment Agreements
+As noted in the Narrative Disclosure to Summary Compensation and Grants of Plan-Based Awards Tables, as of December 31, 2018, Messrs. Saville, Malzahn, Martchek, Henley and Bredow were employed pursuant to employment agreements.  The employment agreements are for a five year term beginning on January 1, 2016. The agreements cover the additional payments that would be due to these individuals in the certain termination scenarios.  Summarized below are the post-employment payments due under the various termination scenarios pursuant to the employment agreements.
+Termination Events
+[BEGIN TABLE]
+• Voluntary.  The applicable named executive officer is not entitled to receive any unearned payments after the date of termination. 
+[END TABLE]
+[BEGIN TABLE]
+• Without cause.  The named executive officer is entitled to receive, in a lump sum following six months from the date of termination, an amount equal to 200% or 100% of the named executive officer's then annual base salary, as applicable, and any accrued pro-rated annual bonus assuming that 100% of the target bonus would have been paid for that year. In addition, we would provide the executive with up to $100,000 of outplacement services.  
+[END TABLE]
+[BEGIN TABLE]
+• Voluntary with good reason.  The named executive officer is entitled to receive the termination payments and outplacement services described in the "Without cause" section above.  "Good reason" means (a) a material diminution in the executive's authority, duties or responsibilities; (b) a change in the executive's reporting relationship; (c) a material change in the executive's principal place of employment; (d) the failure of any successor of the Company to expressly in writing assume our obligations under the employment agreement; or (e) a material breach by us of any agreement between the executive and us. 
+[END TABLE]
+[BEGIN TABLE]
+• Retirement.  Upon retirement, the named executive officer is entitled to receive, in a lump sum following six months from the date of retirement, an amount equal to 100% of the named executive officer's then annual base salary and any accrued pro-rated annual bonus, to the extent that performance targets have been achieved and the annual bonus being paid at the same time that all of our other employees are paid their annual bonus. 
+[END TABLE]
+[BEGIN TABLE]
+• Death or Disability.  The named executive officer is entitled to receive in a lump sum two months of the named executive officer's then annual base salary and accrued pro-rated annual bonus, assuming that the maximum of 100% of  
+[END TABLE]
+ the annual bonus is earned for the period ending on the last calendar day of the second calendar month following the month in which the death or disability occurred.
+[BEGIN TABLE]
+• Cause.  The applicable named executive officers are not entitled to receive any payments after the date of termination for cause. Termination for "cause" is a termination due to: 
+• the executive being convicted of (a) a felony, (b) a willful or knowing violation of any federal or state securities law, or (c) a crime involving moral turpitude; 
+• gross negligence or gross misconduct in connection with the performance of the executive's duties as described within the employment agreement; or 
+• the executive materially breaching any covenants contained in any agreement between the executive and us. 
+[END TABLE]
+[BEGIN TABLE]
+• Termination after a change in control.  A "change of control" means (a) any person or group acquires 50% or more of the combined voting power of our voting stock, (b) substantially all of our assets are sold to another party, (c) we are liquidated or dissolved, or (d) we are merged or consolidated into another entity in which we are not the surviving entity. The post-employment payments due following a termination within one year after a "change of control" are summarized below: 
+[END TABLE]
+[BEGIN TABLE]
+• Without cause within one year after a change in control.   The named executive officer is entitled to receive the termination payments and outplacement services described in the "Without cause" section above.  In addition, each equity agreement provides for the acceleration of vesting of all unvested equity if we experience a "change in control" and the named executive officer's employment is terminated without cause within one year following the "change in control."  The accelerated vesting is based on a double trigger, meaning that the named executive officer's employment needs to be terminated to receive the acceleration right.  The "change in control" provisions within the named executive officers' agreements are identical to the "change of control" provisions within the agreements for all other participants of the respective equity plans.  
+[END TABLE]
+[BEGIN TABLE]
+• Voluntary within one year after a change in control.  Messrs. Saville, Malzahn, Henley and Bredow are entitled to receive the termination payments described in the "Without cause" section above if there is a "change of control" and there has been a material diminution in the executive's authority, duties or responsibilities. 
+[END TABLE]
+[BEGIN TABLE]
+• Voluntary termination upon the election or appointment, as applicable, of a new Chairman and/or Chief Executive Officer.  The applicable named executive officer is not entitled to receive any unearned payments after the date of termination. 
+[END TABLE]
+Conditions to Receipt of Payment
+The covenants within the employment agreements have non-competition provisions, including the prohibition from:
+[BEGIN TABLE]
+• controlling or owing more than 5% of the outstanding shares of any residential homebuilding, mortgage financing or settlement services business that competes with us; 
+• being employed by or providing services to any person or entity that competes with us in the residential homebuilding, mortgage financing or settlement services business; 
+• inducing or attempting to induce any of our customers or potential customers; 
+• hiring or attempting to hire our employees; or 
+• utilizing the services of or trying to acquire land, goods or services from any of our developers or subcontractors. 
+[END TABLE]
+The periods that the non-competition provisions cover are as follows:
+[BEGIN TABLE]
+• During their term of employment with us, the named executive officer is bound by the non-competition covenants at all times. 
+• For one year after termination, the named executive officer is bound by the non-competition covenants if the termination was voluntary, due to retirement, for cause or without cause. 
+[END TABLE]
+[BEGIN TABLE]
+• The named executive officer is not bound by the non-competition covenants after the executive's termination if the termination was voluntary with good reason, voluntary within one year after a change in control or voluntary upon the election or appointment, as applicable, of a new Chairman and/or Chief Executive Officer. 
+[END TABLE]
+[BEGIN TABLE]
+Name   Severance   Annual Incentive   Stock Options - Accelerated Vesting (1)   Outplacement Services   Total 
+Paul C. Saville                               
+Without Cause   $ 3,900,000     $ 1,919,000     $ —     $ 100,000     $ 5,919,000   
+Voluntary with Good Reason   $ 3,900,000     $ 1,919,000     $ —     $ 100,000     $ 5,919,000   
+Retirement   $ 1,950,000     $ 1,848,364     $ —     $ —     $ 3,798,364   
+Death or Disability   $ 325,000     $ 325,000     $ —     $ —     $ 650,000   
+Without Cause Within One Year After a Change in Control   $ 3,900,000     $ 1,919,000     $ 21,250,678     $ 100,000     $ 27,169,678   
+Voluntary Within One Year After a Change in Control   $ 3,900,000     $ 1,919,000     $ —     $ —     $ 5,819,000   
+Daniel D. Malzahn                     
+Without Cause   $ 550,000     $ 542,500     $ —     $ 100,000     $ 1,192,500   
+Voluntary with Good Reason   $ 550,000     $ 542,500     $ —     $ 100,000     $ 1,192,500   
+Retirement   $ 550,000     $ 522,531     $ —     $ —     $ 1,072,531   
+Death or Disability   $ 91,667     $ 91,667     $ —     $ —     $ 183,334   
+Without Cause Within One Year After a Change in Control   $ 550,000     $ 542,500     $ 8,561,502     $ 100,000     $ 9,754,002   
+Voluntary Within One Year After a Change in Control   $ 550,000     $ 542,500     $ —     $ —     $ 1,092,500   
+Jeffrey D. Martchek                     
+Without Cause   $ 585,000     $ 580,000     $ —     $ 100,000     $ 1,265,000   
+Voluntary with Good Reason   $ 585,000     $ 580,000     $ —     $ 100,000     $ 1,265,000   
+Retirement   $ 585,000     $ 558,651     $ —     $ —     $ 1,143,651   
+Death or Disability   $ 97,500     $ 97,500     $ —     $ —     $ 195,000   
+Without Cause Within One Year After a Change in Control   $ 585,000     $ 580,000     $ 10,806,405     $ 100,000     $ 12,071,405   
+Robert W. Henley                     
+Without Cause   $ 510,000     $ 504,250     $ —     $ 100,000     $ 1,114,250   
+Voluntary with Good Reason   $ 510,000     $ 504,250     $ —     $ 100,000     $ 1,114,250   
+Retirement   $ 510,000     $ 485,689     $ —     $ —     $ 995,689   
+Death or Disability   $ 85,000     $ 85,000     $ —     $ —     $ 170,000   
+Without Cause Within One Year After a Change in Control   $ 510,000     $ 504,250     $ 6,614,485     $ 100,000     $ 7,728,735   
+Voluntary Within One Year After a Change in Control   $ 510,000     $ 504,250     $ —     $ —     $ 1,014,250   
+Eugene J. Bredow                     
+Without Cause   $ 425,000     $ 415,833     $ —     $ 100,000     $ 940,833   
+Voluntary with Good Reason   $ 425,000     $ 415,833     $ —     $ 100,000     $ 940,833   
+Retirement   $ 425,000     $ 400,527     $ —     $ —     $ 825,527   
+Death or Disability   $ 70,833     $ 70,833     $ —     $ —     $ 141,666   
+Without Cause Within One Year After a Change in Control   $ 425,000     $ 415,833     $ 3,996,084     $ 100,000     $ 4,936,917   
+Voluntary Within One Year After a Change in Control   $ 425,000     $ 415,833     $ —     $ —     $ 840,833   
+(1)  Represents the intrinsic value of the acceleration of vesting of stock options that vest upon a change in control and termination of employment within one year of a change in control.  Intrinsic value is the difference between the exercise price of the stock option and the closing price of our Common Stock, which was $2,436.99 on December 31, 2018, the last trading day of the year. 
+[END TABLE]
+ Deferred Compensation Plans
+Under the deferred compensation plans (see the 2018 Non-Qualified Deferred Compensation Table above for more information on these plans), named executive officers receive their shares of Common Stock immediately if we experience a "change of control," rather than receiving their shares of Common Stock at separation of service.  The "change of control" provisions within the deferred compensation plans are equally applicable to all participants within the plans.
+[BEGIN TABLE]
+• Plan 1.  Generally, the "change of control" provision is the same as the "change in control" provision set forth in our equity agreements, as summarized above. 
+• Plan 2.  Generally, the "change of control" provision is triggered if (i) we experience any transaction resulting in any person or entity owning 50% or more of the total fair market value or total voting power of our shares, (ii) we experience any transaction resulting in any person or entity acquiring 35% or more of the total fair market value or total voting power of our shares during a 12-month period, (iii) a majority of our Board is replaced during any 12-month period by new directors not endorsed by a majority of our Board who were on our board immediately preceding the new appointments or elections, or (iv) we sell to another entity our assets that have a total gross fair market value equal to or more than 40% of the total gross fair market value of our total assets. 
+[END TABLE]
+Assuming a change of control under the deferred compensation plans at December 31, 2018, the market value of the accelerated account balances is presented in the 2018 Non-Qualified Deferred Compensation Table above.
+Pay Ratio
+Pursuant to Item 402(u) of Regulation S-K and Section 953(b) of the Dodd-Frank Act, presented below is the ratio of annual total compensation of our CEO to the annual total compensation of our median employee (excluding our CEO).  The ratio presented below is a reasonable estimate calculated in a manner consistent with Item 402(u).
+In identifying our median employee, we calculated the total cash compensation paid to each of our employees for the 10-month period ended October 31, 2018. Total cash compensation for these purposes included base salary and wages, and, if applicable, bonus and commissions and was calculated using internal payroll records. 
+We selected the median employee based on approximately 5,600 active full-time and part-time employees of NVR and its subsidiaries as of October 31, 2018.  For employees hired in 2018 who did not work the full year, we did not annualize their compensation for purposes of this calculation.  
+The 2018 annual total compensation as determined under Item 402 of Regulation S-K ("Item 402 Compensation") for our CEO was $39,134,164.  The 2018 Item 402 Compensation for our median employee was $63,456. The ratio of our CEO's Item 402 Compensation to our median employee's Item 402 Compensation for fiscal year 2018 is approximately 617 to 1.
+As disclosed in our 2018 proxy statement, the ratio of our CEO's Item 402 Compensation to our median employee's Item 402 Compensation was approximately 51 to 1 in 2017.  Mr. Saville received a periodic block equity grant in 2018.  For purposes of the pay ratio calculation, issuing periodic block equity grants instead of annual equity grants results in the compensation for named executives appearing uneven, with four years of equity compensation being included in Mr. Saville's compensation in the year of the grant and no equity compensation being disclosed in the remaining years.
+Because the SEC rules for identifying the median compensated employee and calculating the pay ratio based on that employee's annual total compensation allow companies to adopt a variety of methodologies, to apply certain exclusions, and to make reasonable estimates and assumptions that reflect their employee populations and compensation practices, the pay ratio reported by other companies may not be comparable to the pay ratio reported above, as other companies have different employee populations and compensation practices and may utilize different methodologies, exclusions, estimates and assumptions in calculating their own pay ratios. 2018 DIRECTOR COMPENSATION TABLE
+[BEGIN TABLE]
+Name   Fees Earned or Paid in Cash ($)(a)  Option Awards ($) (b) (d)  Total ($)
+Name   Fees Earned or Paid in Cash ($)(a)  Option Awards ($) (b) (d)  Total ($)
+Dwight C. Schar   $ 57,783     $ 17,677,500     $ 17,735,283   
+C. E. Andrews   $ 65,650     $ 707,100     $ 772,750   
+Timothy M. Donahue   $ 65,650     $ 707,100     $ 772,750   
+Thomas D. Eckert   $ 77,600     $ 707,100     $ 784,700   
+Alfred E. Festa   $ 73,517     $ 707,100     $ 780,617   
+Ed Grier   $ 65,650     $ 707,100     $ 772,750   
+Manuel H. Johnson   $ 81,483     $ 707,100     $ 788,583   
+Alexandra A. Jung (c)   $ 6,250     $ 706,849     $ 713,099   
+Mel Martinez   $ 65,650     $ 707,100     $ 772,750   
+William A. Moran   $ 57,783     $ 707,100     $ 764,883   
+David A. Preiser   $ 85,467     $ 707,100     $ 792,567   
+W. Grady Rosier   $ 68,850     $ 707,100     $ 775,950   
+Susan Williamson Ross   $ 71,917     $ 707,100     $ 779,017   
+  January-May June-December 
+Annual Board Retainer $26,000 $75,000 
+Annual Committee Retainer (excludes Executive Committee) —   $8,000 
+Meeting Fees $1,600 —   
+Annual Audit Chair Fee $10,000 $20,000 
+Annual Compensation Chair Fee —   $15,000 
+Annual Nominating Chair Fee —   $15,000 
+[END TABLE]
+[BEGIN TABLE]
+(b) For all directors except Ms. Jung, the amount disclosed represents the aggregate grant date fair value of stock option grants made on May 10, 2018 in accordance with FASB ASC Topic 718. The stock options will vest in 25% increments on December 31, 2020, 2021, 2022 and 2023.  The vesting for 50% of the stock options is based solely on continued service as a Director. The vesting for the other 50% of the stock options is based on continued service as a Director and NVR's return on capital performance during the years 2018 through 2020.  
+(c) Ms. Jung was appointed to the Board effective December 1, 2018.  The option award amount disclosed represents the aggregate grant date fair value of her stock option grant made on December 3, 2018 in accordance with FASB ASC Topic 718.  Her stock options will vest in 25% increments on December 31, 2021, 2022, 2023 and 2024.  The vesting for 50% of the stock options is based solely on continued service as a Director.  The vesting for the other 50% of the stock options is based on continued service as a Director and NVR's return on capital performance during the years 2019 through 2021. 
+(d) For purposes of the grant date fair value, the amount disclosed is based on the target number of options, which is the same as the maximum. See the Equity-Based Compensation section in our Compensation Discussion and Analysis for a discussion of the performance metric. For information on the valuation assumptions, refer to the note on Equity-Based Compensation, Profit Sharing and Deferred Compensation Plans in the NVR financial statements in the Annual Report on Form 10-K for the year-end December 31, 2018, as filed with the SEC.   
+[END TABLE]
+Reasonable incidental travel and out-of-pocket business expenses are reimbursed as incurred in accordance with the policies to which all of our named executive officers and employees are subject. Narrative Disclosure to Director Compensation Table
+We compensate non-employee directors for their service on our Board with a combination of cash and periodic equity awards, the amounts of which are commensurate with their role and involvement.  In 2018, the Compensation Committee engaged Aon Consulting to gather competitive market data for outside directors and compare our director compensation structure to the market. Aon Consulting's analysis included a comparative analysis of the director cash compensation and long-term equity compensation for the general industry.
+According to the Aon Consulting analysis, the average annual cash compensation paid to our Board was well below the 25th percentile of director cash compensation for the general industry.  The analysis also indicated that boards are eliminating meeting fees in exchange for fixed board and committee retainers.  As a result, the Compensation Committee recommended changes to the director compensation (the last changes to director compensation were in 2003).  The Board approved the changes to director compensation outlined in footnote (a) to the Director Compensation Table above.  The changes in our director cash compensation and our equity grants in 2018 bring NVR's total director compensation to the 50th percentile of the general industry, with a higher weighting of our compensation in long-term equity compensation.  We believe that weighting the compensation of our directors heavily towards long-term equity compensation serves to further align the interests of our directors and shareholders.
+Consistent with the equity grants made to our named executive officers, equity grants are made to directors periodically for a four-year period.  On May 10, 2018, the then-serving directors received a grant of 1,000 fixed price stock options which vest in 25% increments on December 31, 2020, 2021, 2022 and 2023.  The vesting for 50% of the stock options granted is contingent solely upon continued service as a director. The vesting for the other 50% of the stock options granted is contingent upon continued service as a director and NVR's return on capital performance during 2018 through 2020. See the Equity-Based Compensation section in our Compensation Discussion and Analysis for a discussion of the return on capital performance metric. The stock option grant value was determined based on the Aon Consulting director compensation analysis discussed above, such that total annual director compensation was targeted at the 75th percentile. The grants to the directors were 4-year grants. As such, the annual target value was multiplied by 4 to determine the total value of the stock option grant. This is consistent with the methodology used to determine the grants to the named executive officers as discussed in Compensation Discussion and Analysis.
+Consistent with prior equity grants to the directors, the Board determined to make a larger grant to Mr. Schar, the Board's non-executive chairman, equal to half of the long-term incentive award granted to Mr. Saville. In determining to grant this award to Mr. Schar, the Board considered Mr. Schar's continuing major contributions to NVR in his current role. On May 10, 2018, Mr. Schar was granted 25,000 fixed-price stock options that will vest in 25% increments on December 31, 2020, 2021, 2022 and 2023. The vesting for 50% of the stock options granted is contingent upon continued service as a director. The vesting for the other 50% of the stock options granted is contingent upon continued service as a director and NVR's return on capital performance during 2018 through 2020. See the Equity-Based Compensation section in our Compensation Discussion and Analysis for a discussion of the return on capital performance metric.
+Upon being appointed to the Board in December 2018, Ms. Jung received a grant of 1,130 fixed price stock options which vest in 25% increments on December 31, 2021, 2022, 2023 and 2024.  The vesting for 50% of the stock options granted is contingent solely upon continued service as a director. The vesting for the other 50% of the stock options granted is contingent upon continued service as a director and NVR's return on capital performance during 2019 through 2021.   See the Equity-Based Compensation section in our Compensation Discussion and Analysis for a discussion of the return on capital performance metric.  The fair value of this grant was consistent with the fair value of stock options granted to non-employee directors in May 2018.  The following table sets forth the outstanding stock option awards for our directors at December 31, 2018:
+[BEGIN TABLE]
+        Option Awards 
+Name Grant Date (a) Ratable vesting on each of December 31,    Number of Securities Underlying Unexercised Options (#) Exercisable  Number of Securities Underlying Unexercised Options (#) Unexercisable  Option Exercise Price ($)  Option Expiration Date
+Name Grant Date (a) Ratable vesting on each of December 31,    Number of Securities Underlying Unexercised Options (#) Exercisable  Number of Securities Underlying Unexercised Options (#) Unexercisable  Option Exercise Price ($)  Option Expiration Date
+Name Grant Date (a) Ratable vesting on each of December 31,    Number of Securities Underlying Unexercised Options (#) Exercisable  Number of Securities Underlying Unexercised Options (#) Unexercisable  Option Exercise Price ($)  Option Expiration Date
+Dwight C. Schar                           
+2014 Equity Plan 05/14/2014 2016, 2017, 2018, 2019   20,586     7,914     $ 1,094.22     05/13/24 
+2018 Equity Plan 05/10/2018 2020, 2021, 2022, 2023   —     25,000     $ 3,022.99     05/09/28 
+C. E. Andrews:                           
+2014 Equity Plan 05/14/2014 2016, 2017, 2018, 2019   1,950     650     $ 1,094.22     05/13/24 
+2018 Equity Plan 05/10/2018 2020, 2021, 2022, 2023   —     1,000     $ 3,022.99     05/09/28 
+Timothy M. Donahue:                           
+2010 Equity Plan 05/11/2010 2013, 2014   699     —     $ 703.00     05/10/20 
+2014 Equity Plan 05/14/2014 2016, 2017, 2018, 2019   1,950     650     $ 1,094.22     05/13/24 
+2018 Equity Plan  05/10/2018 2020, 2021, 2022, 2023   —     1,000     $ 3,022.99     05/09/28 
+Thomas D. Eckert:                           
+2010 Equity Plan 12/01/2011 2015, 2016   2,035     —     $ 669.85     11/30/21 
+2014 Equity Plan 05/14/2014 2016, 2017, 2018, 2019   1,950     650     $ 1,094.22     05/13/24 
+2018 Equity Plan 05/10/2018 2020, 2021, 2022, 2023   —     1,000     $ 3,022.99     05/09/28 
+Alfred E. Festa:                           
+2014 Equity Plan 05/14/2014 2016, 2017, 2018, 2019   1,950     650     $ 1,094.22     05/13/24 
+2018 Equity Plan 05/10/2018 2020, 2021, 2022, 2023   —     1,000     $ 3,022.99     05/09/28 
+Ed Grier                           
+2010 Equity Plan 05/07/2013 2017, 2018   1,338     —     $ 1,017.86     05/06/23 
+2014 Equity Plan 05/14/2014 2016, 2017, 2018, 2019   650     650     $ 1,094.22     05/13/24 
+2018 Equity Plan 05/10/2018 2020, 2021, 2022, 2023   —     1,000     $ 3,022.99     05/09/28 
+Manuel H. Johnson:                           
+2010 Equity Plan 05/11/2010 2013, 2014   1,764     —     $ 703.00     05/10/20 
+2014 Equity Plan 05/14/2014 2016, 2017, 2018, 2019   1,650     650     $ 1,094.22     05/13/24 
+2018 Equity Plan 05/10/2018 2020, 2021, 2022, 2023   —     1,000     $ 3,022.99     05/09/28 
+Alexandra A. Jung                     
+2018 Equity Plan 12/03/2018 2021, 2022, 2023, 2024   —     1,130     $ 2,450.00     12/02/28 
+Mel Martinez                           
+2014 Equity Plan 05/14/2014 2016, 2017, 2018, 2019   1,578     650     $ 1,094.22     05/13/24 
+2018 Equity Plan 05/10/2018 2020, 2021, 2022, 2023   —     1,000     $ 3,022.99     05/09/28 
+William A. Moran:                           
+2014 Equity Plan  05/14/2014 2016, 2017, 2018, 2019   1,300     650     $ 1,094.22     05/13/24 
+2018 Equity Plan 05/10/2018 2020, 2021, 2022, 2023   —     1,000     $ 3,022.99     05/09/28 
+David A. Preiser:                           
+2010 Equity Plan  05/11/2010 2013, 2014   1,764     —     $ 703.00     05/10/20 
+2014 Equity Plan 05/14/2014 2016, 2017, 2018, 2019   1,950     650     $ 1,094.22     05/13/24 
+2018 Equity Plan 05/10/2018 2020, 2021, 2022, 2023   —     1,000     $ 3,022.99     05/09/28 
+W. Grady Rosier:                           
+2014 Equity Plan 05/14/2014 2016, 2017, 2018, 2019   1,300     650     $ 1,094.22     05/13/24 
+2018 Equity Plan 05/10/2018 2020, 2021, 2022, 2023   —     1,000     $ 3,022.99     05/09/28 
+Susan Williamson Ross:                           
+2014 Equity Plan  07/28/2016 2018, 2019, 2020, 2021   588     1,770     $ 1,700.00     07/27/26 
+2018 Equity Plan 05/10/2018 2020, 2021, 2022, 2023   —     1,000     $ 3,022.99     05/09/28 
+[END TABLE]
+ Stock Ownership Requirements
+To further align the interests of our Board with our shareholders, we adopted stock ownership requirements for directors in 2000.  The members of our Board are required to acquire and continuously hold a specified minimum level of our Common Stock.  Under our stock ownership requirements, Board members must acquire and hold Common Stock with a total fair market value equal to five times their annual retainer fee, which is $375,000.  Board members must satisfy the stock ownership requirement within three years of first becoming subject to the stock ownership requirement, and at a minimum, have satisfied one-third of the requirement after one year, and two-thirds of the requirement after two years.  All members of our Board are in compliance with our stock ownership requirement. Ratification of Appointment of Independent Auditor
+(Proposal No. 2)
+At the Annual Meeting, our Board will recommend shareholder ratification of the appointment of KPMG LLP as our independent auditor for 2019.  KPMG LLP has served as our independent auditor since 1987.  If the appointment is not ratified, the Board will consider whether it should select another independent auditor.  Representatives of KPMG LLP are expected to be present at the meeting to respond to shareholders' questions and will have an opportunity to make a statement if they so desire.
+Required Vote
+The number of votes cast for the proposal must exceed the number of votes cast against the proposal for approval of the proposal.
+THE BOARD OF DIRECTORS UNANIMOUSLY RECOMMENDS VOTING "FOR" THE RATIFICATION OF KPMG LLP AS NVR'S INDEPENDENT AUDITOR FOR 2019.
+FEES PAID OR INCURRED FOR KPMG LLP DURING THE YEARS ENDED DECEMBER 31:
+[BEGIN TABLE]
+    2018   2017 
+Audit fees:         
+Integrated audit of financial statements, internal controls over financial reporting and quarterly reviews   $ 758,000     $ 750,000   
+Consents   6,000     —   
+Reimbursable expenses   929     470   
+Total audit fees   764,929     750,470   
+Audit-related fees:         
+Employee benefit plan audit   43,000     43,000   
+Tax fees   —     —   
+All other fees   —     —   
+Total fees   $ 807,929     $ 793,470   
+[END TABLE]
+The Audit Committee annually evaluates what types of audit and non-audit services (permitted by law) that, subject to certain limits, can be entered into with pre-approval authority granted by the Audit Committee and will grant that authority, if applicable, pursuant to an Audit Committee resolution.  For 2018 and 2017, under separate authorizations applicable to each respective year, the Audit Committee delegated to our Chairman of the Audit Committee, CEO and CFO, together or separately, in our name and on our behalf, the authority, subject to individual cost limits, to engage KPMG LLP to provide: 
+[BEGIN TABLE]
+• Accounting guidance and technical assistance for the implementation of newly issued accounting pronouncements and standards; 
+• Accounting guidance and technical assistance related to the application of existing accounting pronouncements and standards to our transactions; and  
+• SEC registration statement comfort letters and consents. 
+[END TABLE]
+The aggregate amount for all pre-approved services may not exceed 50% of the annual audit fee.  The Audit Committee Chairman, the CEO and CFO must report any such audit-related or non-audit services to the full Audit Committee at its next regularly scheduled meeting.  
+All audit and audit-related fees incurred during 2018 and 2017 were approved directly by our Audit Committee.  Mr. Malzahn approved non-audit fees of $6,000 related to a consent in May 2018, and such fees were reported to the full Audit Committee at the next regularly scheduled meeting. Advisory Vote on Executive Compensation
+(Proposal No. 3)
+Pursuant to the requirements of Section 14A of the 1934 Act, we are providing our shareholders an opportunity to indicate whether they support our named executive officer compensation as described in this Proxy Statement.  This advisory vote, commonly referred to as "say on pay," is not intended to address any specific item of compensation, but instead relates to the compensation paid to the named executive officers as disclosed in this Proxy Statement, including the Compensation Discussion and Analysis, the tabular disclosures regarding named executive officer compensation, and the narrative disclosure accompanying the tabular presentations.  These disclosures allow our shareholders to view the trends in our executive compensation program and the application of our compensation philosophies for the years presented.  We are currently holding "say on pay" advisory votes on an annual basis.  
+We actively monitor our executive compensation practices in light of the industries in which we operate and the marketplace for talent in which we compete.  We are focused on compensating our named executive officers fairly and in a manner that incentivizes high levels of performance while providing us the tools to attract and retain the best talent.  As discussed in the Compensation Discussion and Analysis included in this Proxy Statement, we believe that our executive compensation program properly links executive compensation to our performance and aligns the interests of our named executive officers with those of our shareholders.  Specifically:
+[BEGIN TABLE]
+• We pay cash compensation to our named executive officers in amounts that we believe to be consistent with the cash compensation paid to comparable positions in other publicly traded companies within our industry. 
+• We limit the annual cash bonus opportunity of our named executive officers to 100% of their base salary, and have not provided any opportunity to exceed that amount for short-term quarterly or annual performance in excess of our business plan. 
+• We place a substantial portion of compensation to our executive officers at risk in the form of stock options that vest over a long-term period. 
+• We issue equity grants every four years, including performance-based stock options, to our named executive officers that vest over a long period of time.  
+• Our named executive officers must achieve and maintain a designated robust level of ownership in NVR stock. 
+[END TABLE]
+Accordingly, the Board unanimously recommends that shareholders vote in favor of the following resolution:
+"Resolved, that the compensation paid to NVR's named executive officers as disclosed in this proxy statement pursuant to Item 402 of Regulation S-K, including the Compensation Discussion and Analysis, the compensation tables and the related footnotes and narrative disclosures, is hereby APPROVED."
+Although this vote is advisory and is not binding on NVR, the Compensation Committee of the Board will take into account the outcome of the vote when considering future executive compensation decisions.  For the advisory resolution to be approved, the number of votes cast "FOR" the resolution must exceed the votes cast "AGAINST" the resolution.
+THE BOARD OF DIRECTORS UNANIMOUSLY RECOMMENDS VOTING "FOR"
+THE FORGOING RESOLUTION. Shareholder Proposals For the 2020 Annual Meeting
+Shareholder proposals that are intended by a shareholder to be included in our proxy statement for our next annual meeting of shareholders pursuant to Rule 14a-8 of the SEC must be received in the office of NVR's Secretary no later than November 20, 2019.
+Shareholder proposals that are not submitted for inclusion in our proxy statement pursuant to Rule 14a-8, but that one or more shareholders intend to propose for consideration at our next annual meeting, must be submitted to the office of NVR's Secretary no earlier than November 16, 2019 and no later than December 16, 2019 and must otherwise comply with the conditions set forth in Section 2.04 of our Bylaws (or, the case of director nominations, Section 3.03 of our Bylaws). Any shareholder proposal that is not submitted within the applicable time frame will not be eligible for presentation or consideration at the next annual meeting.
+Our Bylaws permit shareholders owning 3% or more of our common stock for at least three years to nominate up to 20% of our Board and include these nominees in our proxy materials.  The number of shareholders who may aggregate their shares to meet the 3% ownership threshold is limited to 20.  The shareholder(s) and nominees(s) must also satisfy the other requirements in our Bylaws.  Notice of proxy access director nominees must be received no earlier than October 17, 2019 and no later than November 16, 2019.
+Other Matters
+Management knows of no other business to be presented for action at the Annual Meeting, other than those items listed in the notice of the Annual Meeting referred to herein.  If any other business should properly come before the Annual Meeting, or any adjournment thereof, it is intended that the proxies will be voted in accordance with the best judgment of the persons acting thereunder.
+Our Annual Report on Form 10-K for 2018, including consolidated financial statements and other information, accompanies this Proxy Statement but does not form a part of the proxy soliciting material.  A complete list of the shareholders of record entitled to vote at our Annual Meeting will be open and available for examination by any shareholder, for any purpose germane to the Annual Meeting, between 9:00 a.m. and 5:00 p.m. at our offices at 11700 Plaza America Drive, Suite 500, Reston, Virginia 20190, from April 16, 2019 through May 1, 2019 and at the time and place of the Annual Meeting.
+Copies of our most recent Annual Report on Form 10-K, including the financial statements and schedules thereto, which we are required to file with the SEC will be provided in print without charge upon the written request of any shareholder.  Such requests may be sent to Investor Relations, NVR, Inc., 11700 Plaza America Drive, Suite 500, Reston, Virginia, 20190.  Our SEC filings are also available to the public from our website at www.nvrinc.com, and the SEC's website at www.sec.gov.
+[BEGIN TABLE]
+    By Order of the Board of Directors, 
+    James M. Sack 
+    Secretary and General Counsel 
+    Reston, Virginia 
+    March 15, 2019 
+[END TABLE]
+  

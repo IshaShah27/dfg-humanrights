@@ -1,0 +1,861 @@
+
+UNITED STATES
+SECURITIES AND EXCHANGE COMMISSION
+WASHINGTON, D.C. 20549
+SCHEDULE 14A
+(Rule 14a-101)
+INFORMATION REQUIRED IN PROXY STATEMENT
+SCHEDULE 14A INFORMATION
+PROXY STATEMENT PURSUANT TO SECTION 14(a) OF THE
+SECURITIES EXCHANGE ACT OF 1934
+Filed by the Registrant  x                            Filed by a Party other than the Registrant  1
+[BEGIN TABLE]
+q   Preliminary Proxy Statement q   Confidential, for Use of the Commission Only (as permitted by Rule 14a-6(e)(2)) 
+x   Definitive Proxy Statement q   Definitive Additional Materials q   Soliciting Material Pursuant to §240.14a-12 
+Healthcare Realty Trust Incorporated 
+(Name of Registrant as Specified In Its Charter) 
+(Name of Person(s) Filing Proxy Statement, if other than the Registrant) 
+Payment of Filing Fee (Check the appropriate box): 
+x   No fee required. 
+q   Fee computed on table below per Exchange Act Rules 14a-6(i)(1) and 0-11. 
+    (1)   Title of each Class of securities to which transaction applies:    
+    (1)   Title of each Class of securities to which transaction applies:    
+    (2)   Aggregate number of securities to which transaction applies:    
+    (3)   Per unit price or other underlying value of transaction computed pursuant to Exchange Act Rule 0-11 (set forth the amount on which the filing fee is calculated and state how it was determined):    
+    (3)   Per unit price or other underlying value of transaction computed pursuant to Exchange Act Rule 0-11 (set forth the amount on which the filing fee is calculated and state how it was determined):    
+    (4)   Proposed maximum aggregate value of transaction:    
+    (5)   Total fee paid: 
+q   Fee paid previously with preliminary materials. 
+q   Check box if any part of the fee is offset as provided by Exchange Act Rule 0-11(a)(2) and identify the filing for which the offsetting fee was paid previously. Identify the previous filing by registration statement number, or the Form or Schedule and the date of its filing. 
+    (1)   Amount Previously Paid:    
+    (2)   Form, Schedule or Registration Statement No.:    
+    (2)   Form, Schedule or Registration Statement No.:    
+    (3)   Filing Party:    
+    (4)   Date Filed:    
+    (4)   Date Filed:    
+[END TABLE]
+3310 West End Avenue, Suite 700
+Nashville, Tennessee 37203
+March 29, 2019
+TO OUR SHAREHOLDERS:
+You are cordially invited to attend the 2019 annual meeting of shareholders of Healthcare Realty Trust Incorporated, to be held on May 14, 2019, at 10:00 a.m. (local time) at the Company's executive offices at 3310 West End Avenue, Suite 700, Nashville, Tennessee 37203.
+The following pages contain the formal notice of the annual meeting and the Company's proxy statement, which describe the specific business to be considered and voted upon at the annual meeting. Whether or not you plan to attend the meeting, the Company would greatly appreciate your efforts to vote your shares as soon as possible by following the instructions located in the Notice of Internet Availability of Proxy Materials sent to you or in the Company's proxy statement. If you attend the meeting and wish to vote in person, you may withdraw your proxy and vote your shares personally.
+[BEGIN TABLE]
+Sincerely, 
+[END TABLE]
+[BEGIN TABLE]
+David R. Emery 
+Executive Chairman of the Board of Directors 
+[END TABLE]
+3310 West End Avenue, Suite 700
+Nashville, Tennessee 37203
+NOTICE OF ANNUAL MEETING OF SHAREHOLDERS
+To Be Held May 14, 2019
+TO OUR SHAREHOLDERS:
+The annual meeting of shareholders of Healthcare Realty Trust Incorporated (the "Company") will be held on Tuesday, May 14, 2019, at 10:00 a.m. (local time) at 3310 West End Avenue, Suite 700, Nashville, Tennessee 37203, for the following purposes:
+[BEGIN TABLE]
+(1) To elect nine nominees as directors to serve one-year terms expiring at the 2020 annual meeting of shareholders or until their successors are duly elected and qualified; 
+(2) To ratify the appointment of BDO USA, LLP as the independent registered public accounting firm for the Company and its subsidiaries for the Company's 2019 fiscal year; 
+(3) To vote to approve, on a non-binding advisory basis, a resolution approving the Company's compensation of its named executive officers as disclosed pursuant to Item 402 of Regulation S-K; and  
+(4) To transact any other business that properly comes before the meeting or any adjournment thereof. 
+[END TABLE]
+The Board recommends that the shareholders vote FOR the election of the nominees to the Board of Directors and FOR each of the other proposals listed above. Holders of record of the Company's common stock at the close of business on March 15, 2019 are entitled to vote at the meeting or at any adjournment of the meeting.
+[BEGIN TABLE]
+By order of the Board of Directors, 
+[END TABLE]
+[BEGIN TABLE]
+Andrew E. Loope 
+Senior Vice President, Corporate Counsel and Secretary 
+[END TABLE]
+ Dated: March 29,  
+[BEGIN TABLE]
+TABLE OF CONTENTS     
+Proposal 1 - Election of Directors   2 
+Corporate Governance   4 
+Security Ownership of Certain Beneficial Owners and Management   10 
+Proposal 2 - Ratification of Appointment of Independent Registered Public Accounting Firm   12 
+Audit Committee Report   13 
+Compensation Discussion and Analysis   15 
+Compensation Committee Report   22 
+Executive Compensation   23 
+Proposal 3 - Non-Binding Advisory Vote on Executive Compensation   30 
+Director Compensation   31 
+Certain Relationships and Related Transactions   32 
+Compensation Committee Interlocks and Insider Participation   32 
+General Information   33 
+Use of Non-GAAP Financial Measures   34 
+[END TABLE]
+3310 West End Avenue. Suite 700
+Nashville, Tennessee 37203
+PROXY STATEMENT
+This Proxy Statement contains information related to the annual meeting of shareholders of Healthcare Realty Trust Incorporated (the "Company") to be held at 3310 West End Avenue, Suite 700, Nashville, Tennessee 37203, on Tuesday, May 14, 2019, at 10:00 a.m. (local time) for the purposes set forth in the accompanying notice, and any adjournment thereof (the "Annual Meeting"). This Proxy Statement and the Annual Report to Shareholders for the Year Ended December 31, 2018 (the "Annual Report to Shareholders") are available to you on the Internet or, upon your request, will be delivered to you by mail or email in connection with the solicitation of proxies by the Board of Directors of the Company to be voted at the Annual Meeting. The Notice of Internet Availability of Proxy Materials (the "Notice of Internet Availability") is scheduled to be distributed on or about March 29, 2019.
+Under rules adopted by the Securities and Exchange Commission (the "SEC"), the Company is making this Proxy Statement and the Annual Report to Shareholders available on the Internet instead of mailing a printed copy of these materials to each shareholder. Shareholders who receive the Notice of Internet Availability by mail will not receive a printed copy of these materials other than as described below. Instead, the Notice of Internet Availability contains instructions as to how shareholders may access and review the materials on the Internet, including information about how shareholders may submit proxies by telephone or over the Internet.
+You can ensure that your shares are voted at the Annual Meeting by submitting your instructions by telephone or Internet, or if you requested a printed copy of the proxy materials, by completing, signing, dating and returning the proxy card accompanying the materials in the envelope provided to you. Submitting your instructions or proxy by any of these methods will not affect your right to attend and vote at the Annual Meeting. We encourage our shareholders to submit proxies in advance of the Annual Meeting. A shareholder who gives a proxy may revoke it at any time before it is exercised by voting in person at the Annual Meeting by delivering a subsequent proxy or by notifying the inspectors of election in writing of such revocation. If your shares are held for you in a brokerage, bank or other institutional account, you must obtain a proxy from that entity and bring it with you to hand in with your ballot in order to be able to vote your shares at the Annual Meeting.
+The close of business on March 15, 2019 has been fixed as the record date for the determination of shareholders entitled to vote at the meeting. The presence at the meeting, in person or by proxy, of the holders of a majority of the shares of common stock, $0.01 par value per share (the "Common Stock"), outstanding on the record date will constitute a quorum, permitting the conduct of business at the meeting.  Without your instructions, your broker or nominee is permitted to use its own discretion and vote your shares on certain routine matters (such as Proposal 2), but is not permitted to use its discretion and vote your shares on non-routine matters (such as Proposals 1 and 3). We urge you to give voting instructions to your broker or nominee on all proposals. Shares that are not permitted to be voted by your broker or nominee because you did not execute or return the proxy with instructions are called "broker non-votes." These so-called "broker non-votes" will be included in the calculation of the number of votes considered to be present at the meeting for purposes of determining a quorum. Additionally, the inspectors of election for the Annual Meeting will treat shares represented by proxies that reflect abstentions as shares that are present and entitled to vote for purposes of determining the presence of a quorum.
+As of the close of business on the record date, the Company had 300,000,000 authorized shares of Common Stock, of which 125,461,961 shares were outstanding and entitled to vote. The Common Stock is the Company's only outstanding class of voting stock. Each share of Common Stock will have one vote on each matter to be voted upon at the meeting. PROPOSAL 1 - ELECTION OF DIRECTORS
+The Board of Directors is organized in a single class, and the shareholders vote on the entire Board of Directors each year. The Company's Second Amended and Restated Articles of Incorporation, as amended, do not provide for cumulative voting and, accordingly, each shareholder may cast one vote per share of Common Stock for each nominee. According to Maryland law, directors are elected by a plurality of the votes cast by the shares entitled to vote in the election at a meeting at which a quorum is present. An abstention may not be specified with respect to the election of directors. Broker non-votes will have no effect on the outcome of the election. The Company has a director resignation policy that is applicable to any director that does not receive a majority of votes cast "for" his or her election to the board in an uncontested election. This policy is described in greater detail beginning on page 6 of this Proxy Statement.
+Unless a proxy specifies otherwise or results in a broker non-vote, the persons named in the proxy will vote the shares covered thereby for the nominees designated by the Board of Directors listed below. Should any nominee become unavailable for election, shares covered by a proxy will be voted for a substitute nominee selected by the Board of Directors upon the recommendation of the Nominating and Corporate Governance Committee. 
+Qualifications of Directors and Nominees to be Directors
+As described in the table below, the Board of Directors is comprised of individuals from diverse backgrounds and experiences. The Board believes that each director and nominee possesses unique qualifications, skills and attributes that complement the performance of the full Board. The experiences that each has obtained from their respective professional backgrounds, as set forth individually in the table below, have qualified them to serve on the Board of Directors. The Board also believes that the directors and nominee will work together well and contribute individual strengths and skills to effectively carry out the Board's duties. John V. Abbott is the only nominee that is not a current director standing for re-election.  Mr. Abbott was recommended to the Nominating and Corporate Governance Committee by all of the non-management directors and the executive officers of the Company.
+[BEGIN TABLE]
+Name   Age   Principal Occupation, Directorships and Qualifications   Director Since
+Name   Age   Principal Occupation, Directorships and Qualifications   Director Since
+David R. Emery   74   Mr. Emery serves as Executive Chairman of the Board of Directors of the Company. Mr. Emery served as the Chairman and Chief Executive Officer of the Company from its founding until December 30, 2016. His understanding of the business of the Company and his leadership role since founding the Company in 1992 have enabled him to provide unique insight and leadership to the Board. His significant equity stake in the Company has also further aligned the Board with shareholder interests.   1993 
+Todd J. Meredith   44   Mr. Meredith was appointed President and Chief Executive Officer of the Company on December 30, 2016. Previously, he served as the Company's Executive Vice President - Investments since 2011, where he was responsible for overseeing the Company's investment activities, including the acquisition, financing, and development of medical office and other outpatient medical facilities. Mr. Meredith joined the Company in 2001 and provides the Board with strategic vision and depth of understanding of the Company's business from his many years of experience in directing and shaping key aspects of the business.     2017 
+John V. Abbott   64   Mr. Abbott retired from the General Electric Company in 2015 after over 38 years with the firm. At the time of his retirement, he was Executive Vice President of the GE Capital Aviation Services, where he served as President and Chief Executive Officer of the Asset Management Group. Prior to that, Mr. Abbott held several leadership positions in GE's aircraft engine manufacturing business, including serving as Chief Financial Officer of multiple divisions. Mr. Abbott's experience in business leadership, finance, and innovation adds valuable perspective and oversight capability to the Board.    N/A 
+Nancy H. Agee   66   Ms. Agee has served as the Chief Executive Officer of Carilion Clinic, a not-for-profit health care organization based in Roanoke, Virginia, since 2011. From 2001 to 2011, she served as the Chief Operating Officer of Carilion Clinic.  Ms. Agee also serves as a director of RGC Resources, Inc., an energy company located in Roanoke, Virginia, and HomeTown Bankshares Corporation, a state chartered bank located in Roanoke, Virginia. Ms. Agee served as the chair of the Board of Trustees of the American Hospital Association for 2018. As the Chief Executive Officer of a leading health system, Ms. Agee provides the Board with valuable insight regarding the real estate needs and concerns of major health systems. Ms. Agee also has extensive financial experience to be considered an audit committee financial expert.   2016 
+Edward H. Braman, CPA   62   Mr. Braman currently serves as a self-employed finance and accounting consultant. Mr. Braman was a partner at Ernst & Young LLP from 1997 until his retirement in 2015. While at Ernst & Young, Mr. Braman audited public and private companies in a broad variety of industries. Mr. Braman brings to the board extensive accounting and financial reporting experience and provides further depth as an audit committee financial expert.   2018 
+Peter F. Lyle, Sr.   54   Mr. Lyle serves as the Vice President of Health Systems, Pharma and Medical Practice Services at Medical Management Associates, Inc., a health care consulting group based in Atlanta, Georgia. Mr. Lyle's experience in advising health systems and physician practices on key aspects of practice management and compensation adds to the Board's understanding of the business and delivery of healthcare services.    2016 
+John Knox Singleton   70   Mr. Singleton retired in 2018 as the Chief Executive Officer of Inova Health System headquartered in Falls Church, Virginia. He also serves as a director of Washington Mutual Investors Fund, a mutual fund located in Los Angeles, California. The experience Mr. Singleton has gained in these roles has enabled him to provide the Board with insight regarding the business of large not-for-profit health systems, as well as general compensation practices and governance matters.   1993 
+Bruce D. Sullivan, CPA   78   Mr. Sullivan retired in October 2001 as managing partner of the Nashville office of Ernst & Young LLP. Mr. Sullivan is a certified public accountant and also serves as a director of two small private companies. Mr. Sullivan's financial expertise has added strength to the Board as an audit committee financial expert. Additionally, the experience he gained in public accounting has added depth of knowledge to the Board regarding matters of finance, accounting and risk oversight.   2004 
+Christann M. Vasquez   58   Ms. Vasquez has served as the President of Dell Seton Medical Center at the University of Texas, a teaching hospital located in the downtown health center of Austin, Texas, since August 2014. In addition, in 2015, Ms. Vasquez was appointed President of Seton Shoal Creek Hospital and was appointed President of Seton Medical Center Austin in 2017. From August 2009 to August 2014, Ms. Vasquez was the Executive Vice President and Chief Operating Officer of University Health System in San Antonio, Texas. Ms. Vasquez's extensive experience in healthcare operations and leadership roles with large health systems further expands the Board's understanding of the operational planning and concerns associated with the delivery of healthcare services in major markets by leading health systems.    2015 
+[END TABLE]
+Except as indicated, each of the nominees has had the principal occupation indicated for more than five years. Each nominee has consented to be a candidate and to serve if elected.
+The Board of Directors recommends that the shareholders vote FOR the election of all of the proposed nominees to the Board of Directors. CORPORATE GOVERNANCE
+Recent Corporate Governance Changes
+On February 12, 2019, the Board of Directors adopted several corporate governance changes. These changes are discussed in the following paragraphs.
+Opted Out of MUTA
+The Board of Directors of the Company approved a resolution prohibiting the Company from electing to be subject to Section 3-803 of Subtitle 8 of Title 3 of the Maryland General Corporation Law ("MGCL"), commonly referred to as the "Maryland Unsolicited Takeover Act" or "MUTA." MUTA contains statutory provisions that allow a board, without shareholder approval, to elect to classify into three classes with staggered three-year terms. By adopting this resolution, the Board of Directors is prohibited from electing to be subject to Section 3-803 without first obtaining shareholder approval. In accordance with Sections 3-802(c) and 3-802(d) of the MGCL, on February 12, 2019, the Company filed Articles Supplementary with the State Department of Assessments and Taxation of Maryland describing the foregoing prohibition.
+Proxy Access Bylaw
+The Board of Directors adopted an amendment to the Amended and Restated Bylaws of the Company, as amended (the "Bylaws") to implement "proxy access." The amendment permits a shareholder, or a group of up to 20 shareholders, owning, in the aggregate, at least 3% of the Company's outstanding shares of capital stock for at least three continuous years to nominate and include in the Company's proxy materials director nominees comprising up to the greater of two individuals or 20% of the number of directors up for election, provided that the shareholder(s) and the nominee(s) satisfy the procedural and eligibility requirements specified in the Bylaws. This amendment was immediately effective. 
+Anti-Hedging Policy
+The Board of Directors formalized and expanded the anti-hedging policy applicable to employees, officers, and directors of the Company. The policy prohibits the purchase of financial instruments, including prepaid variable forward contracts, instruments for the short sale or purchase or sale of call or put options, equity swaps, collars, or units of exchangeable funds, that are designed to or that may reasonably be expected to have the effect of hedging or offsetting a decrease in the market value of any securities of the Company.
+Leadership Structure
+The Company's Chairman of the Board and Chief Executive Officer positions are held by separate persons. David R. Emery is the Chairman of the Board and Todd J. Meredith serves as the Chief Executive Officer. The Board of Directors believes that separation of these roles is appropriate given the continuity provided by Mr. Emery's continued involvement on the Board and Mr. Meredith's long tenure with the Company and the leadership abilities that he has demonstrated to the Board of Directors. 
+Lead Independent Director; Non-Management Executive Sessions; Communicating with the Board
+Periodically, the independent directors meet in executive session. The independent directors have appointed Edwin B. Morris III as lead director to preside over the non-management executive sessions. The independent directors expect to appoint another director to serve as the lead independent director at the expiration of Mr. Morris' term. During 2018, the independent directors held three executive sessions. Any interested party may communicate with the non-management directors as a group by contacting Mr. Morris in writing c/o Healthcare Realty Trust Incorporated, 3310 West End Avenue, Suite 700, Nashville, Tennessee 37203. Any interested party may communicate directly with the full Board of Directors or any individual director by writing to Healthcare Realty Trust Incorporated, 3310 West End Avenue, Suite 700, Nashville, Tennessee 37203, Attention: Secretary. The Secretary of the Company will review all correspondence intended for the entire Board and will forward to the Board copies of all correspondence that, in the opinion of the Secretary, deals with the functions of the Board or committees thereof or that he otherwise determines requires their attention.
+Committee Membership
+The Board of Directors has a Nominating and Corporate Governance Committee, Audit Committee, and Compensation Committee. The Board of Directors has adopted written charters for each committee. The committee charters are posted in the Corporate Governance section of the Company's website, www.healthcarerealty.com, under the "Investor Relations" tab and are available in print free of charge to any shareholder who requests a copy. All committee members are non-employee, independent directors. The following table sets forth the current members of the committees:
+[BEGIN TABLE]
+Name   Nominating and Corporate Governance  Audit   Compensation 
+Name   Nominating and Corporate Governance  Audit   Compensation 
+Nancy H. Agee (1)       X     
+Edward H. Braman (1)   X   X     
+Peter F. Lyle, Sr.           X 
+Edwin B. Morris III (2)           (X) 
+John Knox Singleton           X 
+Bruce D. Sullivan (1)   X   (X)     
+Christann M. Vasquez    (X)         
+[END TABLE]
+Committee Duties
+[BEGIN TABLE]
+Nominating and Corporate Governance Committee   Four meetings in 2018 
+• Reviews and implements the Nominating and Corporate Governance Committee charter and reports to the Board. 
+• Develops and implements policies and practices relating to corporate governance. 
+• Monitors implementation of the Company's Corporate Governance Principles. 
+• Develops criteria for selection of members of the Board. 
+• Seeks individuals qualified to become Board members for recommendation to the Board. 
+• Evaluates the independence and performance of individual directors. 
+[END TABLE]
+[BEGIN TABLE]
+Audit Committee   Four meetings in 2018 
+• Reviews and implements the Audit Committee charter and reports to the Board. 
+• Selects the Company's independent registered public accounting firm, whose duty it is to audit the consolidated financial statements and internal control over financial reporting of the Company for the fiscal year in which it is appointed, and has the sole authority and responsibility to pre-approve all audit and audit-related fees and terms, as well as all permitted non-audit services by the Company's independent registered public accounting firm. 
+• Meets with the Company's independent auditors at least quarterly, both together with management and separately, to review and discuss the scope of the audit and all significant matters related to the audit. 
+• Meets at least annually with key members of management in separate executive sessions to discuss the Company's internal controls over financial reporting, the completeness and accuracy of the Company's financial statements and any other matters that the Committee or any of these persons believe should be discussed privately. 
+• Reviews the adequacy and effectiveness of the Company's internal control over financial reporting with management, internal audit and compliance, and the independent auditors. 
+• Reviews the Company's financial statements, Forms 10-Q and 10-K, the earnings press releases and supplemental information and discusses them with the Chief Financial Officer, Chief Accounting Officer, and the independent auditors. 
+• Reviews and discusses with management the Company's major financial risk exposures and steps taken by management to monitor and mitigate such exposure. 
+• Reviews and discusses new accounting pronouncements with the Chief Financial Officer, Chief Accounting Officer and the independent auditors to assess applicability to and the effect on the Company. 
+• Performs an annual evaluation of the independent auditors' qualifications, assessing the firm's quality of service; the firm's sufficiency of resources; the quality of the communication and interaction with the firm; and the firm's independence, objectivity, and professional skepticism. The Audit Committee also considers the advisability and considers the impact of selecting a different independent auditor. 
+[END TABLE]
+[BEGIN TABLE]
+• Discusses items of interest or concern to the Audit Committee with management, internal audit and compliance, and/or the independent auditors.  
+• Assists the Board in its risk management function regarding cybersecurity oversight by regularly discussing with management any cyber security incidents and cybersecurity measures taken by the Company. 
+Compensation Committee   Seven meetings in 2018 
+• Reviews and implements the Compensation Committee charter and reports to the Board. 
+• Annually reviews corporate performance relevant to the compensation of the Company's executive officers and key employees. 
+• Establishes a general compensation policy and approves salaries paid to the Chief Executive Officer and the other executive officers named in the Summary Compensation Table that appears under the section entitled "Executive Compensation" in this Proxy Statement (collectively, the "Named Executive Officers") and fees paid to directors. 
+• Administers the Company's incentive stock plans and employee stock purchase plan. Determines, subject to the provisions of the Company's plans, the directors, officers and employees of the Company eligible to participate in each of the plans, the extent of such participation and the terms and conditions under which benefits may be vested, received or exercised. 
+• Gives consideration to the development and succession of the Named Executive Officers. 
+[END TABLE]
+Code of Ethics
+The Company has adopted a Code of Business Conduct and Ethics (the "Code of Ethics") that applies to all officers, directors, and employees of the Company, including its principal executive officer, principal financial officer, principal accounting officer, and controller, or persons performing similar functions. The Code of Ethics is posted in the Corporate Governance section of the Company's website, www.healthcarerealty.com, under the "Investor Relations" tab and is available in print free of charge to any shareholder who requests a copy. Interested parties may address a written request for a printed copy of the Code of Ethics to Healthcare Realty Trust Incorporated, 3310 West End Avenue, Suite 700, Nashville, Tennessee 37203, Attention: Investor Relations. The Company intends to satisfy the disclosure requirement regarding any amendment to or a waiver of a provision of the Code of Ethics for the Company's principal executive officer, principal financial officer, principal accounting officer, controller, or persons performing similar functions by posting such information on its website.
+Director Resignation Policy
+The director resignation policy provides that, in an uncontested election, any director who receives a greater number of withheld votes than votes for election must tender his or her resignation to the Board promptly following certification of the shareholder vote. Upon such resignation, the Nominating and Corporate Governance Committee will have 45 days following certification of the shareholder vote to consider the resignation and recommend to the Board whether or not to accept such resignation. Following the recommendation of the Nominating and Corporate Governance Committee, the Board must decide within 90 days following certification of the shareholder vote whether or not to accept the resignation. After making its decision, the Board will promptly disclose the decision in a Current Report on Form 8-K filed with the SEC. The director resignation policy is included in the Company's Corporate Governance Principles, which are posted in the Corporate Governance section of the Company's website at www.healthcarerealty.com under the "Investor Relations" tab.
+Meeting Attendance
+The Board of Directors held a total of four meetings in 2018. Each director attended at least 75% of the meetings of the Board and committees of the Board on which such director served. The Company has not adopted a formal policy regarding director attendance at annual meetings of shareholders, but encourages each member of the Board of Directors to attend. Three members of the Board attended the 2018 Annual Meeting of Shareholders.
+Director Education
+The Nominating and Corporate Governance Committee has adopted a set of education guidelines and encourages all directors to pursue ongoing education and development studies on topics that they deem relevant given their individual backgrounds and committee assignments on the Board of Directors. Each director is requested to attend at least one director education program every three years. The Company pays for each director's expenses incurred to attend director education programs.
+Risk Oversight
+The Board of Directors is responsible for overseeing the Company's overall risk management as part of determining a business strategy designed to provide long-term value to the Company's shareholders. The Board of Directors oversees the Company's exposure to risk through various means, including specific communications with management. Board deliberations involving strategy and operational initiatives are integrated with reviews of risk exposure to the Company. In addition to reviewing significant transactions, such as capital raises or investments, for consistency with the Company's risk profile, the Board  annually reviews risks affecting the Company as part of management's review of appropriate risk factor disclosures. The Board regularly communicates with members of the management team, including officers responsible for identifying potential investments and bringing those investments to fruition, either through acquisition or development. The Board also discusses with management on at least a semi-annual basis the Company's internal forecast, including discussions regarding the Company's acquisition and development pipeline. The Audit Committee assists the Board of Directors in fulfilling its oversight responsibilities by monitoring, reviewing and discussing the Company's financial risk exposures. The Audit Committee considers enterprise level risks and financial risks and discusses with management those risks and the measures taken by the management team to mitigate such risks. The Compensation Committee assesses risks related to the Company's executive compensation programs, as discussed further on page 17 of this Proxy Statement. The Company believes that these interactions between the Board and the management team regarding risk exposures and mitigation strengthen and focus the combined efforts of management and the Board on developing strategies that contain risk and enhance long-term shareholder value.
+Independence of Directors
+The Board of Directors has adopted a set of Corporate Governance Principles (the "Principles") addressing, among other things, standards for evaluating the independence of the Company's directors. The full text of the Principles can be found in the Corporate Governance section of the Company's website, www.healthcarerealty.com, under the "Investor Relations" tab. A copy may also be obtained upon request from the Company's Secretary.
+Pursuant to the Principles, the Board undertook its annual review of director independence under the leadership of the Nominating and Corporate Governance Committee in February 2019. During this review, the Nominating and Corporate Governance Committee and the Board considered transactions and relationships between each director and nominee or any member of his or her immediate family and the Company and its subsidiaries, affiliates and equity investors. The Nominating and Corporate Governance Committee and the Board also examined transactions and relationships between directors and nominees or their affiliates and members of senior management or their affiliates. As provided in the Principles, the purpose of this review was to determine whether any such relationship or transaction was inconsistent with a determination that a director or nominee is independent.
+To aid in making its annual review of director and nominee independence, the Board has adopted categorical standards for determining independence consistent with New York Stock Exchange requirements. A director or nominee is independent unless: 
+[BEGIN TABLE]
+• The director or nominee is or has been an employee of the Company within the past three years or has an immediate family member that is or has been an executive officer of the Company within the past three years; 
+• The director or nominee, or his or her immediate family member, has received more than $120,000 within any of the past three years in direct compensation from the Company, other than director and committee fees and pension or other forms of deferred compensation for prior service (provided such compensation is not contingent in any way on continued service); 
+• (A) The director or nominee, or his or her immediate family member, is a current partner of a firm that is the Company's internal or external auditor; (B) the director or nominee is a current employee of such firm; (C) the director or nominee has an immediate family member who is a current employee of such firm and who participates in the Company's audit, assurance or tax compliance (but not tax planning) practice; or (D) the director or nominee, or his or her immediate family member, was within the last three years (but is no longer) a partner or employee of such firm and personally worked on the Company's audit within that time; 
+• The director or nominee, or his or her immediate family member, has been employed as an executive officer of another company where any of the Company's present executive officers at the same time serves or served on that company's compensation committee within the past three years; 
+• The director or nominee is a current employee, or has an immediate family member that is an executive officer of a company that makes payments to, or receives payments from, the Company for property or services in an amount which, in any single fiscal year, exceeds the greater of $1 million, or 2% of such company's consolidated gross revenues within the past three years; or 
+• The director or nominee has any other material relationship with the Company, either directly or as a partner, shareholder or officer of an organization that has a relationship with the Company. 
+[END TABLE]
+In addition to the above criteria, with respect to members of the Compensation Committee, the Board considers all factors relevant to determining whether a director has a relationship to the Company that is material to that director's ability to be independent from management in connection with the duties of a Compensation Committee member.  Specifically, the Board  considers the source of compensation of such director, and whether the director receives compensation from any person or entity that would impair his or her ability to make independent judgments about executive compensation. The Board also  considers whether the director is affiliated with the Company, any subsidiary of the Company or any affiliate of a subsidiary of the Company. 
+As a result of this review, the Board affirmatively determined that, except for Mr. Emery and Mr. Meredith, all of the directors and nominees are independent of the Company and its management under the standards adopted pursuant to the Principles.
+Director Nominee Evaluation Process
+The Nominating and Corporate Governance Committee is responsible for developing and implementing policies and practices relating to corporate governance. As part of its duties, the Nominating and Corporate Governance Committee develops and reviews background information on candidates for the Board and makes recommendations to the Board regarding such candidates. The Committee also prepares and supervises the Board's annual review of director independence and the Board's performance self-evaluation. A copy of the Nominating and Corporate Governance Committee's charter can be found in the Corporate Governance section of the Company's website, www.healthcarerealty.com, under the "Investor Relations" tab.
+Once the Nominating and Corporate Governance Committee has identified a prospective nominee, the Committee reviews the information provided to it with the recommendation of the prospective candidate, as well as the Committee's own knowledge of the prospective candidate, which may be supplemented by inquiries to the person making the recommendation or others. The preliminary determination is based primarily on the need for additional Board members to fill vacancies or expand the size of the Board and the likelihood that the prospective nominee can satisfy the evaluation factors described below. The Nominating and Corporate Governance Committee then evaluates the prospective nominee against the following standards and qualifications:
+[BEGIN TABLE]
+• Personal integrity and reputation for high ethical standards; 
+• The ability to devote sufficient time to the duties of a director; 
+• Experience relevant to the Company's business, including real estate, health care, finance, accounting, investment banking, capital markets, or senior management; 
+• Depth and breadth of leadership experience, and a proven record of accomplishment;  
+• The ability to think independently and work collaboratively; 
+• The ability to satisfy the NYSE requirements of the Audit Committee and the Compensation Committee; and 
+• The ability to meet and comply with the requirements of the Code of Business Conduct and Ethics. 
+[END TABLE]
+The Nominating and Corporate Governance Committee also considers other relevant factors as it deems appropriate, including the current composition of the Board, the need for Audit Committee expertise and the evaluations of other prospective nominees. The Nominating and Corporate Governance Committee has no specific policy regarding director diversity. In connection with this evaluation, the Committee determines whether to interview the prospective nominee and, if warranted, one or more members of the Committee, and others as appropriate, interview prospective nominees in person or by telephone. After completing this evaluation, the Nominating and Corporate Governance Committee makes a recommendation to the full Board as to the persons who should be nominated by the Board, and the Board determines whether to nominate such persons after considering the recommendation and report of the Nominating and Corporate Governance Committee.
+Shareholder Recommendation or Nomination of Director Candidates
+The Company has not received any shareholder recommendations of director candidates with regard to the election of directors covered by this Proxy Statement or otherwise. The Nominating and Corporate Governance Committee will consider for nomination as director of the Company any director candidate recommended or nominated by shareholders in accordance with the process outlined below.
+Shareholders wishing to recommend candidates for consideration by the Nominating and Corporate Governance Committee may do so by providing the candidate's name, qualifications and other pertinent information in writing to the Nominating and Corporate Governance Committee, c/o Secretary, Healthcare Realty Trust Incorporated, 3310 West End Avenue, Suite 700, Nashville, Tennessee 37203.
+Such information should include:
+[BEGIN TABLE]
+• The name and address of the shareholder who intends to make the nomination(s) and of the person or persons to be nominated; 
+• A representation that the shareholder is a holder of record or a beneficial holder of stock of the Company entitled to vote at the meeting (including the number of shares the shareholder owns and the length of time the shares have been held) and intends to appear in person or by proxy at the meeting to nominate the person or persons specified in the notice; 
+[END TABLE]
+[BEGIN TABLE]
+• A description of all relationships, arrangements, and understandings between the shareholder and each nominee and any other person or persons (naming such person or persons) pursuant to which the nomination or nominations are to be made by the shareholder; 
+• Such other information regarding each nominee proposed by such shareholder as would have been required to be included in a proxy statement filed pursuant to the proxy rules of the SEC (whether or not such rules are applicable) had each nominee been nominated, or intended to be nominated, by the Board of Directors, including the candidate's name, biographical information, and qualifications; and 
+• The written consent of each nominee to serve as a director of the Company if so elected, with such written consent attached thereto. 
+[END TABLE]
+Shareholders who wish to nominate an individual for election as a director in connection with an annual meeting of stockholders (as opposed to making a recommendation to the Nominating and Corporate Governance Committee as described above) have the right to nominate candidates for election to the Board through the "proxy access" provisions of the Bylaws. Subject to complying with the requirements contained in the Bylaws, qualifying stockholders, or a qualifying group of up to 20 stockholders, owning at least 3% of the outstanding shares of common stock of the Company throughout at least a three-year period, may nominate up to the greater of two director nominees or 20% of the number of directors up for election, for inclusion in the Company's proxy materials. To be timely for the 2020 annual meeting, notice under the proxy access provisions of the Bylaws must be received by the Company at its executive offices no earlier than October 31, 2019 nor later than November 30, 2019.  SECURITY OWNERSHIP OF CERTAIN BENEFICIAL OWNERS AND MANAGEMENT
+The following table sets forth as of February 8, 2019, the beneficial ownership of the Company's equity securities as determined in accordance with Rule 13d-3 under the Securities Exchange Act of 1934, as amended (the "Exchange Act"). Accordingly, all Company securities over which the directors, nominees and executive officers directly or indirectly have or share voting or investment power are listed as beneficially owned. As of February 8, 2019, there were 125,294,458 shares of the Company's Common Stock outstanding.
+[BEGIN TABLE]
+Name of Beneficial Owner   Common Shares Beneficially Owned    Percent of Common Shares Beneficially Owned
+Name of Beneficial Owner   Common Shares Beneficially Owned    Percent of Common Shares Beneficially Owned
+David R. Emery   1,119,684   (1)(2)    *   
+Todd J. Meredith   458,386   (3)   *   
+J. Christopher Douglas   151,091   (4)   *   
+John M. Bryant, Jr.   166,064   (5)   *   
+Robert E. Hull   110,263   (6)   *   
+B. Douglas Whitman II   195,881   (7)   *   
+John V. Abbott   —       —   
+Nancy H. Agee   15,050   (8)   *   
+Edward H. Braman   3,624   (9)   *   
+Peter F. Lyle, Sr.   5,787   (9)   *   
+Edwin B. Morris III   42,467   (9)   *   
+John Knox Singleton   30,756   (10)   *   
+Bruce D. Sullivan   29,319   (9) (11)   *   
+Christann M. Vasquez   9,596   (9) (12)   *   
+All executive officers, directors and nominees to be director as a group (14 persons)   2,337,968        1.87% 
+The Vanguard Group     (13)   14.61% 
+BlackRock, Inc.     (14)   14.70% 
+Invesco Ltd.     (15)   7.50% 
+T. Rowe Price Associates, Inc.     (16)   6.50% 
+[END TABLE]
+______
+[BEGIN TABLE]
+* Less than 1% 
+(1) Includes 893,777 shares held indirectly through family trusts where Mr. Emery is a beneficiary, but has no voting or investment power with respect to the shares owned by the trusts. 
+(2) Includes 204,548 shares of restricted stock. 
+(3) Includes 434,679 shares of restricted stock. 
+(4) Includes 140,414 shares of restricted stock. 
+(5) Includes 148,815 shares of restricted stock. 
+(6) Includes 110,072 shares of restricted stock. 
+(7) Includes 138,393 shares of restricted stock. 
+(8) Includes 6,179 shares of restricted stock. 
+(9) Includes 3,624 shares of restricted stock 
+(10) Includes 6,179 shares of restricted stock and 19,083 shares owned in an IRA. 
+(11) Includes 3,253 shares owned by Mr. Sullivan's wife. 
+(12) Includes 4,135 shares of restricted stock. 
+(13) Information is based on a Schedule 13G filed on February 11, 2019 by The Vanguard Group, Inc., an investment adviser located at 100 Vanguard Blvd., Malvern, Pennsylvania 19355. The Vanguard Group, Inc. reported that it possesses the sole power to vote 231,370 shares, shared power to vote 140,865 shares, sole power to dispose of 18,047,112 shares and shared power to dispose of 250,996 shares of the Common Stock. The Vanguard Group, Inc. reports that the reported shares held by its subsidiaries are as follows: Vanguard Fiduciary Trust Company is the beneficial owner of 110,131 shares as a result of its serving as investment manager of collective trust accounts; and Vanguard Investments Australia, Ltd. is the beneficial owner of 262,104 shares as a result of its serving as investment manager of Australian investment offerings. Vanguard Specialized Funds - Vanguard REIT Index Fund reported on a Schedule 13G filed on January 31, 2019, that it possesses the sole power to vote 5,950,823 shares of the Common Stock beneficially held by The Vanguard Group, Inc. Vanguard Specialized Funds - Vanguard REIT Index Fund is an investment firm located at 100 Vanguard Blvd., Malvern, Pennsylvania 19355. 
+[END TABLE]
+[BEGIN TABLE]
+(14) Information is based on a Schedule 13G filed on January 28, 2019 by BlackRock, Inc., a holding company located at 55 East 52nd Street, New York, New York 10055. BlackRock, Inc. reported that, through various of its subsidiaries, it possesses the sole power to vote 18,074,718 shares and to dispose of 18,411,389 shares of the Common Stock.  
+(15)  Information is based on a Schedule 13G filed on February 5, 2019 by Invesco Ltd., an investment adviser located at 1555 Peachtree Street NE, Suite 1800, Atlanta, Georgia 30309. Invesco Ltd. reported that, through various of its subsidiaries, it possesses the sole power to vote 5,492,542 shares and sole power to dispose of 9,374,153 shares of the Common Stock. 
+(16) Information is based on a Schedule 13G filed on February 14, 2019 by T. Rowe Price Associates, Inc., an investment firm located at 100 E. Pratt Street, Baltimore, Maryland 21202. T. Rowe Price Associates, Inc. reported that it possesses sole power to vote 1,287,486 shares and sole power to dispose of 8,159,401 shares of the Common Stock. 
+[END TABLE]
+Section 16(a) Beneficial Ownership Reporting Compliance
+Section 16(a) of the Exchange Act requires the Company's directors and executive officers, and persons who own more than 10% of the Company's Common Stock, to file with the SEC initial reports of ownership and reports of changes in ownership of the Common Stock. These officers, directors and greater than 10% shareholders of the Company are required by SEC rules to furnish the Company with copies of all Section 16(a) reports they file. There are specific due dates for these reports and the Company is required to report in this Proxy Statement any failure to file reports as required during 2018.
+During 2018, based upon a review of these filings and written representations from the Company's directors and executive officers, the Company believes that all reports required to be filed with the SEC by Section 16(a) during the most recent fiscal year were timely filed, except for a restricted stock grant to Amanda Callaway, the Company's Chief Accounting Officer, that was awarded on December 12, 2018 and inadvertently reported late on a Form 5 filed on February 6, 2019. PROPOSAL 2 - RATIFICATION OF APPOINTMENT OF INDEPENDENT REGISTERED PUBLIC ACCOUNTING FIRM
+The Audit Committee has appointed BDO USA, LLP ("BDO") as the Company's independent registered public accounting firm for the fiscal year 2019. Representatives of this firm are expected to be present at the Annual Meeting and will have an opportunity to make a statement and will be available to respond to appropriate questions.
+The affirmative vote of a majority of the votes cast at the meeting is needed to ratify the appointment of BDO as the Company's independent registered public accounting firm for the fiscal year 2019. If the appointment is not ratified, the matter will be referred to the Audit Committee for further review. Abstentions and broker non-votes will have no effect on the outcome of the vote on this proposal.
+Audit and Non-Audit Fees
+The following table details fees and expenses for professional services rendered by BDO to the Company for the last two fiscal years.
+[BEGIN TABLE]
+  2018     2017   
+Audit fees (1) $ 820,437     $ 979,759   
+Audit-related fees (2) —     95,874   
+Tax fees —     —   
+All other fees —     —   
+Total $ 820,437     $ 1,075,633   
+[END TABLE]
+______
+[BEGIN TABLE]
+(1) Includes fees for services related to the audit and quarterly reviews of the Company's consolidated financial statements and internal control over financial reporting of $776,482 and $838,426, respectively, for 2018 and 2017, and fees in connection with the Company's equity and debt offerings of $43,955 and $141,333, respectively, for 2018 and 2017. 
+(2) Includes fees for Rule 3-14 financial statement audits and discussions related to transactions and potential transactions in 2017.  
+[END TABLE]
+For the purpose of ensuring the continued independence of BDO, the Company determined that its independent registered public accounting firm will not provide consulting services to the Company. Additionally, the charter of the Audit Committee provides that the Audit Committee must pre-approve all services to be provided by the independent registered public accounting firm. Proposed services exceeding pre-approved cost levels or budgeted amounts also require specific pre-approval by the Audit Committee. All services provided by the Company's independent registered public accounting firm were pre-approved by the Audit Committee, which concluded that the provision of such services by BDO was compatible with the maintenance of such accounting firm's independence in the conduct of its auditing functions.
+The Board of Directors recommends that the shareholders vote FOR ratification of the appointment of BDO USA, LLP as the Company's independent registered public accounting firm. AUDIT COMMITTEE REPORT
+The following Report of the Audit Committee does not constitute soliciting material and should not be deemed filed or incorporated by reference into any other Company filing under the Securities Act of 1933, as amended (the "Securities Act"), or the Exchange Act, except to the extent the Company specifically incorporates this report by reference therein.
+The Audit Committee of the Board of Directors of the Company consists entirely of directors who meet the independence and experience requirements of the New York Stock Exchange. Audit Committee members may serve on the audit committees of no more than three public companies.
+Pursuant to the Sarbanes-Oxley Act of 2002 and rules adopted by the SEC, the Company must disclose which members, if any, of the Audit Committee are "audit committee financial experts" (as defined in the SEC's rules). The Company's Board of Directors has determined that Bruce D. Sullivan, the chairman of the Audit Committee, Nancy H. Agee, and Edward H. Braman meet the criteria to be "audit committee financial experts." 
+The Company's management has primary responsibility for preparing the Company's Consolidated Financial Statements and implementing internal controls over financial reporting. The Company's 2018 independent registered public accounting firm, BDO, is responsible for expressing an opinion on the Company's Consolidated Financial Statements and on the effectiveness of its internal control over financial reporting.
+The roles and responsibilities of the Audit Committee are set forth in its charter, which has been approved by the Board and is available on the Company's website.
+As more fully described in its charter, the Audit Committee reviews the Company's financial reporting process on behalf of the Board. Management has the primary responsibility for the Consolidated Financial Statements and the reporting process. BDO is responsible for performing an integrated audit of the Company's Consolidated Financial Statements in accordance with the standards of the Public Company Accounting Oversight Board (United States of America) and expressing an opinion on the conformity of the Consolidated Financial Statements to accounting principles generally accepted in the United States of America and on the effectiveness of internal control over financial reporting. The internal audit function ("Internal Audit") is responsible to the Audit Committee and the Board for testing the integrity of the financial accounting and reporting control systems and such other matters as the Audit Committee and the Board determine.
+To fulfill its responsibilities, the Audit Committee has met and held discussions with management, Internal Audit, and BDO concerning the Consolidated Financial Statements for the fiscal year ended December 31, 2018 and the Company's internal control over financial reporting as of December 31, 2018. Management, Internal Audit, and BDO made presentations to the Audit Committee throughout the year on specific topics of interest, including, among other items, the Company's (i) risk assessment process; (ii) information technology systems and controls; (iii) income tax risk and compliance; (iv) 2018 integrated audit plan; (v) updates on completion of the audit plan; (vi) critical accounting policies; (vii) assessment of the impact of new accounting guidance; (viii) compliance with the internal controls required under Section 404 of the Sarbanes-Oxley Act; (ix) ethics and compliance program; (x) strategy and management of the implementation of new systems; (xi) non-GAAP measures and key performance indicators; and (xii) cybersecurity. The Audit Committee also discussed all communications required by the standards of the Public Company Accounting Oversight Board, the New York Stock Exchange and the SEC with BDO.
+The Audit Committee met with BDO quarterly, both together with management and separately, to review and discuss the scope of the audit and all significant matters related to the audit. The Audit Committee also met with key members of management in separate executive sessions, including the Company's Executive Chairman, Chief Executive Officer, Chief Financial Officer, General Counsel, Corporate Counsel, Chief Accounting Officer, heads of investments, corporate finance, technology services, leasing and management, taxation, and compliance and Internal Audit to discuss the Company's internal controls over financial reporting, the completeness and accuracy of the Company's Consolidated Financial Statements, and other matters. 
+The Audit Committee, along with the Company's management and Internal Audit, reviewed BDO's performance as a part of the Audit Committee's consideration whether to reappoint the firm as the Company's independent auditors. As part of this review, the Audit Committee considered (i) the continued independence of the audit firm; (ii) evaluations of the audit firm by management and Internal Audit; (iii) the audit firm's effectiveness of communications and working relationships with the Audit Committee, management and Internal Audit; (iv) the length of time the audit firm has served as the Company's independent auditors; and (v) the quality and depth of the audit firm and the audit team's expertise and experience in the industry. As a part of the appointment process, the Audit Committee approves the selection of the independent auditor's lead engagement partner at the mandatory five-year rotation period. The Audit Committee also considered the advisability and potential impact of selecting a different independent registered public accounting firm. In addition, the Audit Committee has received from BDO the written disclosures and the letter required by the applicable requirements of the Public Company Accounting Oversight Board regarding auditor communications with the Audit Committee concerning independence, and has discussed independence with BDO.
+The Audit Committee discussed with management and Internal Audit the Company's financial risk exposures, internal controls and reporting procedures. As part of this process, the Audit Committee continued to monitor the scope and adequacy of the Company's internal auditing program, reviewing staffing levels and steps taken to implement recommended improvements in internal procedures and controls.
+Based on the Audit Committee's review of the audited Consolidated Financial Statements and discussions with management and BDO as described above and in reliance thereon, the Audit Committee recommended to the Company's Board of Directors that the audited Consolidated Financial Statements for the fiscal year ended December 31, 2018 be included in the Company's Annual Report on Form 10-K filed with the SEC.
+Members of the Audit Committee 
+Bruce D. Sullivan (Chair)
+Nancy H. Agee
+Edward H. Braman COMPENSATION DISCUSSION AND ANALYSIS
+2018 Highlights 
+In 2018, management continued to execute the Company's strategy of investing in high quality medical office buildings. Revenue and Net Operating Income ("NOI") showed positive gains from strong internal operations and accretive new investments. Management also improved the quality of the Company's portfolio through targeted dispositions while maintaining low leverage. 
+Significant results and activities in 2018 included:
+[BEGIN TABLE]
+• In the Company's same store portfolio, quarterly trailing twelve month revenue and NOI growth averaged 2.81% and 3.15%, respectively: 
+◦ multi-tenant properties, comprising approximately 82.5% of the same store portfolio, generated average revenue and NOI growth of 2.88% and 3.23%, respectively; and 
+◦ single-tenant net lease properties generated average NOI growth of 2.86%. 
+• Annual leasing activity totaled 2,080,000 square feet related to 556 leases, comprised of 1,565,000 square feet of renewals and 515,000 square feet of new and expansion leases. 
+• For the year ended December 31, 2018, in the Company's same store, multi-tenant properties: 
+• Tenant retention averaged 83.9%; 
+• Weighted average cash leasing spreads on lease renewals were 3.4%, in line with long term expectations; and 
+• In-place contractual increases were 2.91%, up from 2.80% a year ago. 
+• Net investments in 2018 totaled $48.4 million, comprised of the following: 
+• The acquisition of five medical office buildings, an additional 15,000 square foot suite in a previously acquired medical office building, and two office buildings for $111.5 million; 
+• The disposition of 16 properties, including five skilled nursing facilities and one inpatient rehab facility, for $98.7 million; and 
+• $35.6 million in development and redevelopment funding. 
+• Leverage (total debt to total assets) remained low at 32.9% at the end of 2018, and net debt to adjusted EBITDA was 5.1x, both well within the Company's guidance range. 
+• Total dividends per common share paid in 2018 were $1.20, which is equal to 76.9% of normalized Funds From Operations ("FFO") and 99.7% of normalized Funds Available for Distribution ("FAD"). 
+[END TABLE]
+Reconciliations of Non-GAAP financial measures are provided beginning on page 34 of this Proxy Statement.
+Comprehensive Compensation Policy
+The Compensation Committee believes that the compensation of the Company's officers, including the Named Executive Officers, should align their interests with those of the shareholders, link executive compensation to the Company's overall performance, provide a competitive level of total compensation necessary to attract and retain talented and experienced officers, and motivate the officers to contribute to the Company's success.
+Executive Incentive Plan
+The Amended and Restated Executive Incentive Plan, as amended (the "Executive Incentive Plan") was last modified in early 2016 to adopt several best practices for executive compensation, particularly to increase the proportion of variable pay and strengthen the link between executive compensation and Company performance. Under this plan, the Named Executive Officers may earn incentive awards in the form of cash and restricted stock based on Company performance. Company performance is measured over the relevant period against targeted financial and operational metrics set in advance by the Compensation Committee. Restricted stock awards, which are granted pursuant to the Company's 2015 Stock Incentive Plan, as amended (the "2015 Plan"), are based on the Company's relative TSR performance over one-year and three-year periods, measured against 20 peer group companies. The one and three-year periods begin and end in early December to allow the Compensation Committee sufficient time to review and consider results and confirm awards before the end of the year.  Cash incentive awards are based on the Company's growth in average trailing twelve month same store revenue and NOI each quarter, measured against targets set by the Compensation Committee at the beginning of each year. The various awards available under the Executive Incentive Plan are discussed below under the heading "Components of Compensation." Currently, all of the Named Executive Officers, except for the Executive Chairman, are participants in the Executive Incentive Plan. The Company's Executive Chairman of the Board has an employment relationship with the Company but does not participate in the Executive Incentive Plan.  Pay For Performance
+The Executive Incentive Plan is designed to directly link compensation to performance. The Company believes that the combination of objective core operating metrics and shareholder return provides the best incentive structure for the growth of long-term shareholder value. Through the Executive Incentive Plan, the Named Executive Officers are rewarded for attaining targeted growth in same store revenue and NOI and relative TSR performance.  For 2018, 65% of the aggregate total compensation for Named Executive Officers was paid in the form of performance-based compensation, including restricted stock having cliff vesting periods of five or eight years.  The Compensation Committee believes that this further demonstrates alignment of the interests of the Named Executive Officers with that of the Company's shareholders. 
+Restricted Stock
+Since inception, the Company has used restricted stock grants as the primary means of delivering long-term incentive compensation to its officers. These grants of restricted stock have generally been subject to cliff vesting periods ranging from three to eight years. The Compensation Committee believes that restricted stock grants with long vesting periods align the interests of officers and shareholders and provide strong incentives to the officers both to grow the value of the stock and to maintain the dividend payment. The officers personally benefit from these efforts through their restricted stock awards, which receive dividends at the same rate as unrestricted Common Stock. Prior to vesting, the restricted stock grants are subject to forfeiture in the event that the officer voluntarily leaves employment or is terminated for cause. As such, the Company's officers essentially have to earn this equity compensation twice: the first time through their efforts to meet the initial performance criteria necessary for a grant of restricted stock to be made; and the second time by continued service through the at-risk vesting period. 
+Anti-Hedging Policy
+On February 12, 2019, the Board of Directors formalized and expanded the anti-hedging policy applicable to employees, officers, and directors of the Company. The policy prohibits the purchase of financial instruments, including prepaid variable forward contracts, instruments for the short sale or purchase or sale of call or put options, equity swaps, collars, or units of exchangeable funds, that are designed to or that may reasonably be expected to have the effect of hedging or offsetting a decrease in the market value of any securities of the Company.
+Compensation Parity
+There are no material differences in the compensation policies and decisions relating to the compensation of the different Named Executive Officers. 
+Stock Ownership Guidelines
+The Compensation Committee believes that it is in the best interests of the shareholders to encourage all employees, especially the Named Executive Officers, to increase their equity position in the Company to promote share ownership and further align employee and shareholder interests. In 2011, the Compensation Committee adopted stock ownership guidelines applicable to the Named Executive Officers and directors. Under these guidelines, the Chief Executive Officer should hold Common Stock with a fair market value equal to five times his current base salary, net of elective deferrals, as of April 1 each year. All executive vice presidents should hold Common Stock with a fair market value equal to three times their current base salary, net of elective deferrals, as of April 1 each year. Each non-employee director should hold common stock with a fair market value equal to three times such director's then current annual retainer. The guidelines provide that all owned stock, both restricted and unrestricted, counts towards the ownership guidelines for officers and directors. Officers and directors who are subject to these guidelines have five years from the date that they first become subject to the guidelines to comply with its terms.  As of January 31, 2019, all of the Company's non-employee directors and the Named Executive Officers met the stock ownership guidelines, except for two board members elected for the first time in 2015 and 2016, respectively, who will have five years from their first election to meet the guidelines. As of February 8, 2019, the multiples of stock held compared to base salary for the Named Executive Officers, excluding the effect of any elective salary deferral, were as follows:
+[BEGIN TABLE]
+Named Executive Officer   Fair market value of stock holdings as multiple of current base salary 
+Todd J. Meredith   21.3x 
+J. Christopher Douglas   11.2x 
+John M. Bryant, Jr.   12.3x 
+Robert E. Hull   8.2x 
+David R. Emery   104.3x 
+[END TABLE]
+ Compensation "Clawbacks" 
+If the Company is required to restate its financial statements as a result of misconduct, Section 304 of the Sarbanes-Oxley Act requires the Chief Executive Officer and the Chief Financial Officer to reimburse the Company for: (i) any bonus or other incentive-based or equity-based compensation received during the 12 months following the public issuance of the financial statements; and (ii) any profits realized from the sale of Company securities during those 12 months. Section 954 of the Dodd-Frank Wall Street Reform and Consumer Protection Act directs the SEC to promulgate additional rules requiring companies listed on stock exchanges to adopt policies regarding the recovery of executive compensation from executive officers for accounting restatements resulting from material noncompliance with any financial reporting requirement under the securities laws. On July 1, 2015, the SEC proposed rules under this directive for comment by the public. The Compensation Committee is awaiting the adoption and publication of the final rules, upon which it plans to adopt policies commensurate with these new rules and appropriate for the Company. 
+Say-on-Pay      
+The Company received a favorable say-on-pay vote at its 2018 Annual Meeting of Shareholders, with approximately 97% of the votes cast supporting the Company's executive compensation. The Compensation Committee believes that the vote reflected a favorable view of the alignment between pay and performance.  
+Compensation Methodology
+Compensation Committee's Governance
+The Compensation Committee approves salaries and makes other compensation decisions for the Named Executive Officers and the Company's directors. The Compensation Committee also approves stock-based compensation awarded under the 2015 Incentive Plan to other officers and employees. Salaries and other compensation decisions for all other officers and employees are made by management within the parameters of the Company's compensation policies and plans.
+The Compensation Committee meets at least four times a year and more often if necessary. Prior to each regular meeting, members of the Company's management send materials to each of the Compensation Committee members, including minutes of the previous meeting, an agenda and recommendations for the upcoming meeting, and other materials relevant to the agenda items. Officers of the Company attend the Compensation Committee meetings as requested by the committee. These officers provide information and discuss performance measures with the Compensation Committee relating to officer compensation. After every quarterly meeting, the Compensation Committee holds an executive session consisting only of the committee members and also frequently meets with the Chief Executive Officer outside the presence of other officers.
+The Compensation Committee reviews and approves, in advance, employment, severance or similar arrangements or payments to be made to any Named Executive Officer. The Compensation Committee annually reviews all of the perquisites paid to the Named Executive Officers, as well as their compliance with the Company's policies regarding perquisites.
+Compensation Risk Assessment
+The Compensation Committee believes its compensation policies and practices do not promote excessive risk-taking and are not likely to have a material adverse effect on the Company. In particular, the Compensation Committee believes that the following factors mitigate excessive risk-taking by the Named Executive Officers:
+[BEGIN TABLE]
+• The use of restricted stock, with long vesting periods during which the stock cannot be sold, provides an incentive to the Named Executive Officers to make decisions that contribute to long-term growth of the Company, the stability of NOI, and the delivery of dividends to stockholders. 
+• The maximum potential cash and stock incentive payments are capped at levels such that total compensation would remain comparable within the peer group. 
+• The Compensation Committee retains broad discretionary authority to adjust annual awards and payments, which further mitigates risks associated with the Company's compensation plans and policies. 
+[END TABLE]
+Peer Group
+For 2018, the Compensation Committee used the companies listed below as the peer group against which to measure the Company's relative one-year and three-year TSR performance. The peer group is selected each year in accordance with the Executive Incentive Plan. The Executive Incentive Plan provides a mechanism for determining the peer group, which the Compensation Committee believes provides for the most closely comparable companies with respect to market capitalization and appropriate pay levels. The plan provides that all publicly-traded equity REITs are sorted by market capitalization, with externally managed REITs and REITs with less than five years of operating history excluded. The Compensation Committee can make discretionary adjustments to include or exclude companies in the peer group to capture the Company's closest competitors and to adjust for events such as mergers that might occur during the period. The 10 companies with market  capitalizations immediately larger and the 10 companies immediately smaller than the Company are selected as the peer group. The following companies comprised the peer group for 2018: 
+[BEGIN TABLE]
+CoreSite Realty Corporation Highwoods Properties, Inc. Ryman Hospitality Properties, Inc. 
+Cousins Properties Inc. Hudson Pacific Properties, Inc. Spirit Realty Capital, Inc. 
+CubeSmart Life Storage, Inc. STORE Capital Corporation 
+EPR Properties Medical Properties Trust Inc. Sunstone Hotel Investors Inc. 
+Equity Commonwealth Omega Healthcare Investors Taubman Centers Inc. 
+First Industrial Realty Trust Physicians Realty Trust Weingarten Realty Investors 
+Healthcare Trust of America RLJ Lodging Trust   
+[END TABLE]
+The Compensation Committee will determine the peer group for 2019 at its first regularly scheduled meeting following the end of the first quarter of 2019. 
+Compensation Consultant
+The Compensation Committee retains compensation consultants to advise it regarding market trends and practices in executive compensation and with respect to specific compensation decisions. The Compensation Committee's policy is to meet annually with a compensation consultant to discuss executive compensation trends.  In 2018, the Compensation Committee engaged FTI Consulting to provide a review of recent trends and developments in compensation practices within the Company's industry and in general. Representatives of FTI Consulting attended one of the Compensation Committee's meetings in 2018 to report their findings. 
+FTI Consulting received an aggregate of $20,400 for its compensation consulting services provided to the Compensation Committee in 2018.
+Components of Compensation
+Elements of Pay
+In 2018, the Company's compensation program for its Named Executive Officers consisted of the following key elements:
+[BEGIN TABLE]
+• annual base salaries that are paid in cash; 
+• the potential for Company performance awards that are based on defined performance targets set by the Compensation Committee that are paid in cash ("Company Performance Awards");  
+• the potential for TSR awards that are paid in the form of restricted stock subject to a five-year vesting period and are based on the Company's TSR performance relative to the peer group ("TSR Awards"); and 
+• elective salary deferral, allowing Named Executive Officers to increase their holdings of Company stock, further aligning interests with shareholders and subjecting the value of elective restricted stock to market risk and risk of forfeiture. 
+[END TABLE]
+Annual Base Salary
+The Compensation Committee monitors the base compensation for comparable executive officers in the peer group as data points, but does not benchmark to a particular percentile. The Compensation Committee believes that the current levels of base salary for the Named Executive Officers are competitive and reasonable compared to the peer group and will continue to review that periodically. The Compensation Committee expects that any growth in pay for the Named Executive Officers will come in the form of variable, performance-based pay rather than base salary. The base salary of the Company's Named Executive Officers for 2018 and 2019, before any elective deferral of cash in the form of restricted stock, is as follows:
+[BEGIN TABLE]
+Named Executive Officer   2018 Base Salary   2019 Base Salary 
+Todd J. Meredith President and Chief Executive Officer  $ 700,000     $ 700,000   
+Todd J. Meredith President and Chief Executive Officer  $ 700,000     $ 700,000   
+J. Christopher Douglas Executive Vice President and Chief Financial Officer   $ 440,721     $ 440,721   
+John M. Bryant, Jr. Executive Vice President and General Counsel  $ 440,721     $ 440,721   
+Robert E. Hull Executive Vice President - Investments  $ 440,721     $ 440,721   
+David R. Emery Executive Chairman of the Board  $ 350,000     $ 350,000   
+[END TABLE]
+Company Performance Awards
+Company Performance Awards are based on the achievement of specific Company performance targets and include growth in same store NOI and same store revenue. The specific targets are established by the Compensation Committee. These two potential awards operate independently of one another and are payable in cash. For purposes of the Company Performance Awards, same store NOI and revenue growth are measured on a trailing twelve months basis each quarter. The potential awards are scaled against performance measures, offering the Named Executive Officers the opportunity to receive amounts up to a maximum of 1.0 times their base salaries for growth in same store NOI and 1.0 times their base salaries for growth in same store revenue.  The Compensation Committee believes that the potential for Company Performance Awards provides incentives for the Named Executive Officers to sustain growth in property operating revenues and to efficiently manage operating expenses. 
+2018 Company Performance Awards
+In 2018, the maximum, target, and threshold levels for Company Performance Awards set by the Compensation Committee and the actual award achieved, expressed as multiples of base salary, were as follows:
+[BEGIN TABLE]
+Company Performance   Same Store Revenue Growth    Award Multiple    Same Store NOI Growth    Award Multiple 
+Maximum   3.79%   1.00x   4.53%   1.00x 
+Target   3.04%   0.80x   3.53%   0.80x 
+Threshold   1.54%   0.40x   1.53%   0.40x 
+    <1.54%   0x   <1.53%   0x 
+Actual   2.81%   0.72x   3.15%   0.71x 
+[END TABLE]
+The Company attained average trailing twelve month same store revenue growth of 2.81%. This result was driven primarily by management of the Company's key predictive growth measures: contractual rent increases, cash leasing spreads, and tenant retention. Based on these results, the Named Executive Officers received performance-based cash awards under the Executive Incentive Plan equal to 0.72 times their base salaries, which was 90% of the target award. 
+The Company achieved average trailing twelve month same store NOI growth of 3.15%. This result was driven primarily by positive operating leverage from strong revenue growth and careful management of operating expenses. Based on these results, the Named Executive Officers were eligible for performance-based cash awards under the Executive Incentive Plan equal to 0.71 times their base salaries, which was 89% of the target award. 
+The Company Performance Awards granted to Named Executive Officers for 2018 performance are shown in the Non-Equity Incentive Plan Compensation column in the Summary Compensation Table found on page 23 below.
+Total Shareholder Return Awards
+Total Shareholder Return ("TSR") Awards are based on the Company's TSR, as measured against the peer group.  "TSR" is calculated by adding the sum of the appreciation in the Company's stock price plus the value of reinvested dividends over the relevant measurement period. TSR Awards can be earned each year based on one-year and three-year TSR. The Compensation Committee believes that this encourages the Named Executive Officers to create and sustain long-term shareholder value. TSR Awards are paid in the form of restricted stock subject to a five-year cliff vesting period. The number of shares awarded is based on the closing price of the Company's common stock on the last trading day of the period being measured. For administrative purposes, the periods measured end in early December to allow the Compensation Committee and the Company sufficient time to analyze and process awards before the end of the year. A 10-day trading average is used for each period measured as a means to obtain a more accurate measure of performance that reduces the effect of any single-day trading volatility. The vesting period guards further against short-term management decisions, as the award remains subject to the risk of forfeiture and market risk until the vesting period ends.  In the event that an officer voluntarily terminates employment, retires or is terminated for cause from employment with the Company during the vesting period, the TSR Award is subject to forfeiture. TSR Awards for one-year and three-year periods operate independently of one another, such that an officer could earn one or the other, both, or neither TSR Awards. The size of potential TSR Awards are based on multiples of base salary. The Company's TSR on a one-year and three-year basis is measured against the peer group and the Company's performance is viewed based on a percentile rank in each category.  2018 TSR Awards
+The maximum, target, and threshold levels for TSR Awards set by the Compensation Committee for 2018, along with the actual results, expressed as multiples of base salary, were as follows:
+[BEGIN TABLE]
+TSR Target Level   TSR Percentile Rank   1-Year TSR    3-Year TSR    
+Maximum   100   1.50x   2.50x   
+Target   55   0.83x   1.38x   
+Threshold   25   0.38x   0.63x   
+1-Year TSR Actual   40   0.50x(1)       
+3-Year TSR Actual   50       1.13x   
+[END TABLE]
+(1) The 1-Year TSR award was reduced by 5% from the formula value as discussed below. Without the discretionary reduction by the Compensation Committee, the award would have been 0.53x base salary.
+For the one-year period ended December 10, 2018, the Company's TSR was (1.69)%, placing it at the 40th percentile among the peer group.  Because the absolute TSR for the one-year period was negative, the Compensation Committee exercised its discretion under the Executive Incentive Plan to reduce the size of the award by 5% from the formula value. The Committee believes that a reduction to the award was appropriate to recognize alignment with shareholders with respect to the absolute return.
+For the three-year period ended December 10, 2018, the Company's TSR was 27.92%, placing it at the 50th percentile of the peer group. Based on the one-year and three-year performance, the Named Executive Officers received awards of restricted stock equal to 1.63 times their base salaries, compared to 3.05 times base salaries in 2017. These awards are subject to a five-year cliff vesting period. 
+The TSR Awards granted to Named Executive Officers in 2018 are shown in the Stock Awards column in the Summary Compensation Table found on page 23 below. Discussion of the TSR peer group begins on page 17. 
+2019 Targets for Company Performance Awards and TSR Awards
+For 2019, the Compensation Committee has established the following targets and realizable Company Performance Awards, expressed as multiples of base salary:
+[BEGIN TABLE]
+Company Performance   Same Store Revenue Growth    Award Multiple    Same Store NOI Growth    Award Multiple  
+Maximum   3.31%   1.00x   3.53%   1.00x 
+Target   2.65%   0.80x   2.82%   0.80x 
+Threshold   1.32%   0.40x   1.41%   0.40x 
+    <1.32%   0x   <1.41%   0x 
+[END TABLE]
+The Compensation Committee may make awards on a sliding scale between the targets and multiples expressed in the table above.
+For 2019, the one-year and three-year TSR targets and realizable awards, expressed as multiples of base salary, remain the same as 2018 and are as follows:
+[BEGIN TABLE]
+TSR Target Level   TSR Percentile Rank   1-Year TSR    3-Year TSR  
+Maximum   100   1.50x   2.50x 
+Target   55   0.83x   1.38x 
+Threshold   25   0.38x   0.63x 
+[END TABLE]
+The Compensation Committee may make awards on a sliding scale between the targets and multiples expressed in the table above. Realizable Pay
+For 2019, the Executive Incentive Plan allows the Named Executive Officers to earn performance compensation valued at up to 6.0 times their annual base salaries (comprised of cash equal to 2.0 times and restricted stock equal to 4.0 times), assuming achievement of the maximum TSR and Company Performance Award targets. The following table sets forth the target levels and components of realizable performance compensation, expressed in multiples of base salary:
+[BEGIN TABLE]
+Target Level   Company Performance Awards    Total Shareholder Return    Total 
+Maximum   2.00x   4.00x   6.00x 
+Target   1.60x   2.21x   3.81x 
+Threshold   0.80x   1.01x   1.81x 
+[END TABLE]
+In 2018, the Named Executive Officers earned performance compensation of 3.01 times their base salaries in the aggregate, compared to 4.54 times in 2017. In addition to this performance compensation, Named Executive Officers can earn an additional 0.25 times their base salaries by participating in elective salary deferral, as discussed below. 
+Elective Deferral Awards
+Under the elective salary deferral feature of the 2015 Incentive Plan, Named Executive Officers may elect to defer up to 25% of their base salaries in the form of shares of restricted stock subject to long-term vesting. The number of shares will be increased through a Company match depending on the length of the vesting period selected by the officer. The officers' vesting period choices are: three years for a 30% match; five years for a 50% match; and eight years for a 100% match. This program is designed to encourage share ownership and to provide officers with an incentive to remain with the Company long term. Restricted stock awarded through the salary deferral plan is subject to market risk and risk of forfeiture during the vesting period. In the event that an officer voluntarily terminates employment (including, in some cases, by retirement) or is terminated for cause from employment with the Company during the vesting period, both the shares purchased with deferred amounts and the shares received through the Company match are subject to forfeiture. 
+Employee Stock Purchase Plan
+All employees meeting minimum service requirements, including the Named Executive Officers, are eligible to purchase shares pursuant to the Company's 2000 Employee Stock Purchase Plan (the "Purchase Plan"). As further discussed under the heading "Grants of Plan-Based Awards" in the section entitled "Executive Compensation" beginning on page 25 of this Proxy Statement, each participant is granted an option on January 1 of each year to purchase up to $25,000 of the Company's Common Stock under the Purchase Plan.
+Termination and Change-in-Control Arrangements
+Under the terms of the Company's compensation plans and its employment agreements with the Named Executive Officers, the Named Executive Officers are entitled to payments and benefits upon the occurrence of specified events including termination of employment and upon a termination in connection with a change-in-control of the Company. The Company's employment agreements with its Named Executive Officers do not include single trigger change in control payments or excise tax gross up payments. The specific terms of these arrangements are discussed under the heading "Post-Employment Compensation - Termination and Change in Control Arrangements" under the section entitled "Executive Compensation" in this Proxy Statement beginning on page 27. In the case of the employment agreements, the terms of these arrangements were agreed to after arm's-length negotiations with each Named Executive Officer. The Compensation Committee believes that these arrangements are appropriate under the Company's current circumstances.
+Perquisites
+The Company provides its executive officers with perquisites that it believes are reasonable, competitive and consistent with the Company's overall executive compensation program. The Company believes that such perquisites help the Company to retain its executive personnel and allows them to operate more effectively. These perquisites generally include: supplemental term life insurance, supplemental disability insurance, and limited use of Company aircraft for personal travel. The Compensation Committee believes that allowing the Company's Named Executive Officers to use the Company's aircraft for personal travel provides the officers with significant convenience, safety, and security at a relatively low incremental cost to the Company. 
+Internal Revenue Code Section 162(m)
+Section 162(m) of the Internal Revenue Code generally disallows a tax deduction to public companies for compensation over $1 million paid to a corporation's chief executive officer and the three other most highly compensated executive officers (excluding the chief financial officer). In 2017 and prior tax years, qualifying performance-based compensation was not subject to the deduction limit if certain requirements were met. Effective for tax years beginning on January 1, 2018, the tax reform  legislation informally known as the Tax Cuts and Jobs Act of 2017 repeals the performance-based compensation exception to the Section 162(m) $1 million deduction limit. Compensation expense in the amount of $1.97 million in 2018, comprised of dividends on restricted shares and vesting of restricted shares awarded under the prior plan, was not deductible. As a qualifying REIT, the Company does not pay federal income tax; therefore, the unavailability of the Section 162(m) compensation deduction to the amounts in 2018 did not, and the tax reform legislation is not expected to, result in any increase in the Company's federal income tax obligations.
+Retirement Benefits
+All Named Executive Officers are eligible to participate in the Company's 401(k) plan, pursuant to which each participant may contribute up to the annual maximum allowed under IRS regulations ($18,500 for 2018). All eligible participants over the age of 50 may also contribute an additional $6,000 per year to the plan. The Company provides a matching contribution for the first three percent of base salary contributed to the plan, up to an annual maximum of $2,800 per employee.
+______________________________________________________________________
+COMPENSATION COMMITTEE REPORT
+The following Compensation Committee Report does not constitute soliciting material and should not be deemed filed or incorporated by reference into any other Company filing under the Securities Act or the Exchange Act, except to the extent the Company specifically incorporates this Report by reference therein.
+The Compensation Committee has reviewed and discussed the Compensation Discussion and Analysis contained in this Proxy Statement with management of the Company and, based on such review and discussions, the Compensation Committee has recommended to the Board of Directors that the Compensation Discussion and Analysis be included in this Proxy Statement.
+Members of the Compensation Committee:
+Edwin B. Morris III (Chair)
+Peter F. Lyle, Sr. 
+John Knox Singleton EXECUTIVE COMPENSATION
+Summary Compensation Table
+The following Summary Compensation Table reflects the total compensation of the Company's Named Executive Officers:
+[BEGIN TABLE]
+Name and Principal Position   Year   Salary(6)   Bonus   Stock Awards (7)  Non-Equity Incentive Plan   Compensation   All Other Compensation (8)   Total 
+Name and Principal Position   Year   Salary(6)   Bonus   Stock Awards (7)  Non-Equity Incentive Plan   Compensation   All Other Compensation (8)   Total 
+Todd J. Meredith President and Chief Executive Officer (1)  2018   $ 525,000     $ —     $ 1,458,787     $ 1,001,000     $ 97,333     $ 3,082,120   
+  2017   $ 525,000     $ —     $ 2,475,148     $ 1,053,500     $ 66,841     $ 4,120,489   
+  2016   $ 331,837     $ —     $ 7,014,053     $ 672,619     $ 75,453     $ 8,093,962   
+J. Christopher Douglas  Executive Vice President and Chief Financial Officer (2)   2018   $ 440,721     $ —     $ 698,091     $ 630,233     $ 53,686     $ 1,822,731   
+  2017   $ 440,721     $ —     $ 1,337,981     $ 663,284     $ 67,503     $ 2,509,489   
+  2016   $ 418,848     $ —     $ 2,205,709     $ 593,931     $ 38,392     $ 3,256,880   
+John M. Bryant, Jr. Executive Vice President and General Counsel    2018   $ 374,613     $ —     $ 830,245     $ 630,233     $ —     $ 1,835,091   
+  2017   $ 374,613     $ —     $ 1,470,161     $ 663,284     $ —     $ 2,508,058   
+  2016   $ 374,613     $ —     $ 861,882     $ 672,100     $ 14,972     $ 1,923,567   
+Robert E. Hull  Executive Vice President - Investments (3)   2018   $ 396,649     $ —     $ 786,216     $ 630,233     $ 64,649     $ 1,877,747   
+  2017   $ 414,278     $ —     $ 1,390,841     $ 663,284     $ 53,460     $ 2,521,863   
+David R. Emery Executive Chairman of the Board (4)   2018   $ 350,000     $ —     $ —     $ —     $ 172,356     $ 522,356   
+  2017   $ 350,000     $ —     $ —     $ —     $ 214,734     $ 564,734   
+  2016   $ 972,386     $ —     $ 6,163,166     $ 1,487,655     $ 165,235     $ 8,788,442   
+B. Douglas Whitman, II Senior Vice President, Finance and Treasurer (5)   2018   $ 298,218     $ 375,000     $ 515,256     $ 332,811     $ 24,236     $ 1,545,521   
+  2017   $ 396,649     $ —     $ 1,426,101     $ 663,284     $ 49,821     $ 2,535,855   
+  2016   $ 396,649     $ —     $ 817,824     $ 672,100     $ 34,532     $ 1,921,105   
+(6) Salary is net of employee elective deferrals shown in Note 7 below. 
+(7) Amounts in this column represent the grant date fair value in accordance with ASC 718. The awards are described in more detail in the Grants of Plan-Based Awards section below. See Note 12 to the Consolidated Financial Statements contained in the Company's 2018 Annual Report on Form 10-K for assumptions relevant to the valuation of stock awards. The table below lists amounts included under the Stock Awards column that have been granted to the Named Executive Officers pursuant to the 2015 Incentive Plan and predecessor plans: 
+[END TABLE]
+[BEGIN TABLE]
+        Salary Deferral Plan             
+Name   Year   Employee Elective Deferral Amount  Company Matching Amount(a)   Executive Incentive Plan   Management Transition Grants   Total Stock Awards 
+Name   Year   Employee Elective Deferral Amount  Company Matching Amount(a)   Executive Incentive Plan   Management Transition Grants   Total Stock Awards 
+Todd J. Meredith   2018   $ 174,990     $ 174,990     $ 1,108,807     $ —     $ 1,458,787   
+    2017   $ 174,991     $ 174,991     $ 2,125,166     $ —     $ 2,475,148   
+    2016   $ 110,172     $ 110,172     $ 729,709     $ 6,064,000     $ 7,014,053   
+J. Christopher Douglas   2018   $ —     $ —     $ 698,091     $ —     $ 698,091   
+    2017   $ —     $ —     $ 1,337,981     $ —     $ 1,337,981   
+    2016   $ —     $ —     $ 729,709     $ 1,476,000     $ 2,205,709   
+John M. Bryant, Jr.   2018   $ 66,077     $ 66,077     $ 698,091     $ —     $ 830,245   
+    2017   $ 66,090     $ 66,090     $ 1,337,981     $ —     $ 1,470,161   
+    2016   $ 66,087     $ 66,086     $ 729,709     $ —     $ 861,882   
+Robert E. Hull   2018   $ 44,062     $ 44,062     $ 698,092     $ —     $ 786,216   
+    2017   $ 26,430     $ 26,430     $ 1,337,981     $ —     $ 1,390,841   
+David R. Emery   2018   $ —     $ —     $ —     $ —     $ —   
+    2017   $ —     $ —     $ —     $ —     $ —   
+    2016   $ —     $ —     $ 1,615,166     $ 4,548,000     $ 6,163,166   
+B. Douglas Whitman, II   2018   $ 44,062     $ 44,062     $ 427,132     $ —     $ 515,256   
+    2017   $ 44,060     $ 44,060     $ 1,337,981     $ —     $ 1,426,101   
+    2016   $ 44,058     $ 44,057     $ 729,709     $ —     $ 817,824   
+Name   Year   Personal Use of Company Airplane(a)  Additional Life/ Disability Insurance(b)  De Minimis Items(c)  Total All  Other Compensation
+Name   Year   Personal Use of Company Airplane(a)  Additional Life/ Disability Insurance(b)  De Minimis Items(c)  Total All  Other Compensation
+Todd J. Meredith   2018   $ 89,311     $ 6,983     $ 1,039     $ 97,333   
+    2017   $ 58,442     $ 7,499     $ 900     $ 66,841   
+    2016   $ 58,874     $ 15,786     $ 793     $ 75,453   
+J. Christopher Douglas   2018   $ 44,162     $ 8,485     $ 1,039     $ 53,686   
+    2017   $ 54,285     $ 12,318     $ 900     $ 67,503   
+    2016   $ 25,405     $ 12,318     $ 669     $ 38,392   
+John M. Bryant, Jr.   2018   $ —     $ —     $ —     $ —   
+    2017   $ —     $ —     $ —     $ —   
+    2016   $ 5,092     $ 7,812     $ 2,068     $ 14,972   
+Robert E. Hull   2018   $ 51,980     $ 11,630     $ 1,039     $ 64,649   
+    2017   $ 50,860     $ 1,250     $ 1,350     $ 53,460   
+David R. Emery   2018   $ 165,829     $ —     $ 6,527     $ 172,356   
+    2017   $ 197,430     $ —     $ 17,304     $ 214,734   
+    2016   $ 129,285     $ 14,740     $ 21,210     $ 165,235   
+B. Douglas Whitman, II   2018   $ 15,610     $ 7,587     $ 1,039     $ 24,236   
+    2017   $ 40,620     $ 7,851     $ 1,350     $ 49,821   
+    2016   $ 24,589     $ 8,594     $ 1,349     $ 34,532   
+[END TABLE]
+ Grants of Plan-Based Awards
+The following table provides additional information relating to grants of plan-based awards made to our Named Executive Officers during 2018:
+[BEGIN TABLE]
+        Estimated Possible Payouts Under Non-Equity Incentive Plan Awards (1)   All Other Stock Awards:     
+Name   Grant Date   Threshold ($)   Target ($)   Maximum ($)   Number of Shares of Stock or Units (2)   Grant Date Fair Value of Stock Awards 
+Todd J. Meredith   —     $ 560,000     $ 1,120,000     $ 1,400,000           
+    1/1/2018                 10,842     $ 349,980   
+    12/12/2018                 36,813     $ 1,108,807   
+J. Christopher Douglas   —     $ 352,577     $ 705,154     $ 881,442           
+    12/12/2018                 23,177     $ 698,091   
+John M. Bryant, Jr.   —     $ 352,577     $ 705,154     $ 881,442           
+    1/1/2018                 4,094     $ 132,154   
+    12/12/2018                 23,177     $ 698,091   
+Robert E. Hull   —     $ 352,577     $ 705,154     $ 881,442           
+    1/1/2018                 2,730     $ 88,124   
+    12/12/2018                 23,177     $ 698,092   
+David R. Emery   —     $ —     $ —     $ —     —     $ —   
+B. Douglas Whitman, II   —     $ 180,988     $ 361,976     $ 452,471           
+    1/1/2018                 2,730     $ 88,124   
+    12/12/2018                 14,181     $ 427,132   
+[END TABLE]
+______
+[BEGIN TABLE]
+(1) The amounts shown represent each Named Executive Officer's threshold, target, and maximum annual cash incentive opportunities for performance in 2018. The actual amounts that were paid were based on the achievement of certain performance measures, as discussed beginning on page 19 of this Proxy Statement. The awards earned for 2018 are shown in the "Non-Equity Incentive Plan Compensation" column of the Summary Compensation Table above. 
+(2) The table below shows the number of restricted shares of Common Stock issued to the Named Executive Officers in 2018 pursuant to the 2015 Incentive Plan. 
+    Elective Salary Deferral Plan         
+Name   Employee Elective Deferral Shares  Company Matching Shares(a)  Incentive Awards   Total Stock Awards
+Name   Employee Elective Deferral Shares  Company Matching Shares(a)  Incentive Awards   Total Stock Awards
+Todd J. Meredith   5,421     5,421     36,813     47,655   
+J. Christopher Douglas   —     —     23,177     23,177   
+John M. Bryant, Jr.   2,047     2,047     23,177     27,271   
+Robert E. Hull   1,365     1,365     23,177     25,907   
+David R. Emery   —     —     —     —   
+B. Douglas Whitman, II   1,365     1,365     14,181     16,911   
+[END TABLE]
+[BEGIN TABLE]
+Duration of Restriction Period   Restriction Multiple 
+3 years   1.3x 
+5 years   1.5x 
+8 years   2.0x 
+[END TABLE]
+By way of example, if an officer elected to defer salary that was equivalent in value to 1,000 shares of stock and the officer elected an 8-year vesting period, the officer would receive the original 1,000 shares plus an additional 1,000 shares for electing the 8-year vesting period, resulting in a total award of 2,000 shares. This program is designed to provide the Company's officers with an incentive to remain with the Company long-term and to align their interests with that of the shareholders. The vesting period subjects the shares obtained by the cash deferral and the restriction multiple to the risk of forfeiture in the event an officer voluntarily terminates employment or is terminated for cause from employment with the Company. Accordingly, if an officer voluntarily leaves or is terminated for cause, that officer would lose all such shares that had not yet vested.
+Outstanding Equity Awards at Fiscal Year-End
+The following table discloses the number of securities and market-based value of restricted shares outstanding that have not vested as of December 31, 2018.
+[BEGIN TABLE]
+Name   Number of Shares or Units of Stock That Have Not Vested(1)   Market Value of Shares or Units of Stock That Have Not Vested(2)
+Name   Number of Shares or Units of Stock That Have Not Vested(1)   Market Value of Shares or Units of Stock That Have Not Vested(2)
+Todd J. Meredith   424,902     $ 12,084,213   
+J. Christopher Douglas   142,854     $ 4,062,768   
+John M. Bryant, Jr.   144,237     $ 4,102,100   
+Robert E. Hull   102,440     $ 2,913,394   
+David R. Emery   204,548     $ 5,817,345   
+B. Douglas Whitman, II   140,828     $ 4,005,148   
+(2) Based on the closing price per share of the Common Stock on the New York Stock Exchange on December 31, 2018 of $28.44. 
+[END TABLE]
+Stock Vested in 2018
+The following table reflects the shares of restricted stock held by the Named Executive Officers that vested in 2018 and the market value of such shares on the vesting date.
+[BEGIN TABLE]
+Name   Number of Shares that Vested in 2018   Market Value of Shares that Vested in 2018 
+Todd J. Meredith   21,604     $ 645,519   
+J. Christopher Douglas   11,374     $ 344,141   
+John M. Bryant, Jr.   21,565     $ 636,432   
+Robert E. Hull   7,820     $ 229,986   
+David R. Emery   35,216     $ 1,035,703   
+B. Douglas Whitman, II   20,650     $ 609,165   
+[END TABLE]
+CEO Pay Ratio
+Pursuant to rules adopted by the SEC under the Dodd-Frank Act, the Company is required to disclose the ratio of the annual total compensation for its CEO to the median annual total compensation for its employees other than the CEO.  The Company identified the median employee by examining its payroll records for 2018 for all individuals other than the CEO that were employed by the Company at December 31, 2018.  Compensation for employees that began employment during the year was annualized based on rate of pay (whether salary or hourly) applied to a full year.
+As of December 31, 2018, the Company had 277 employees. These employees are all located within the United States and are comprised of Company officers, accountants, information technology staff, leasing personnel, asset management, maintenance engineers, administrative assistants, and employees with various other roles and responsibilities. At December 31, 2018, the Company identified its median employee as one making $67,873 per year. For 2018, the Company's CEO, Mr. Meredith, had an annual total compensation of $3,082,120 This amount is comprised of several components, as reflected in the Summary Compensation Table on page 23. Additional information concerning Mr. Meredith's total compensation is provided in the  Compensation Discussion and Analysis section beginning on page 15 and in the Executive Compensation section beginning on page 23.   
+The ratio of CEO pay to median employee pay at December 31, 2018 was 45:1. The table below illustrates the details of the calculation.
+[BEGIN TABLE]
+  CEO to Median Employee Pay Ratio 
+  President and CEO Median Employee 
+Salary and wages $ 525,000   $ 67,201   
+Bonus —   —   
+Performance Based Compensation:     
+           Stock Awards 1,108,807   —   
+           Non-Equity Incentive Plan Compensation 1,001,000   —   
+Elective Salary Deferral Award 349,980   —   
+All Other Compensation 97,333   672   
+Total $ 3,082,120   $ 67,873   
+[END TABLE]
+Post-Employment Compensation
+401(k) Plan
+All eligible employees may participate in the Company's 401(k) plan, pursuant to which each employee may contribute a portion of his or her salary, to an annual maximum allowed under IRS regulations ($18,500 for 2018). Additionally, participants in the 401(k) plan receive matching contributions from the Company of up to 3% of their salary, to an annual maximum of $2,800. 
+Termination and Change in Control Arrangements 
+Chief Executive Officer
+The Company has entered into an employment agreement with Mr. Meredith which provides that he will serve as President and Chief Executive Officer. The term of Mr. Meredith's agreement renews automatically for successive one-year terms. Mr. Meredith's agreement may be terminated for a variety of reasons, including: for cause, voluntarily, death, disability, constructively, or following a change-in-control. In each case, Mr. Meredith would receive all accrued salary, bonus compensation that has been awarded but not yet paid, benefits under plans of the Company, including defined contribution or health and welfare plans, accrued vacation pay and reimbursement of appropriate business expenses. 
+In the case of termination other than for cause, including constructive termination, Mr. Meredith would also receive full vesting of any restricted stock awards and severance compensation equal to his base salary for a period of 24 months and two times (i) his average annual bonus compensation, if any, that he earned in the two years immediately preceding the date of termination, or (ii) $560,000, whichever is greater. He would also be paid a pro-rated portion of the bonus and/or equity compensation that he would have earned for a given period in which the termination occurs. 
+In the event that Mr. Meredith's agreement is terminated in connection with a change-in-control, Mr. Meredith would receive severance compensation equal to: (a) three times his annual base salary, plus (b) the greater of three times: (i) the average annual bonus compensation, if any, that he earned in the two years immediately preceding the date of termination; and (ii) $1,120,000, plus (c) a pro-rated portion of the bonus and/or equity compensation that he would have earned for a given period in which the termination occurs. 
+The Company has agreed to indemnify Mr. Meredith for certain liabilities arising from actions taken within the scope of his employment. Mr. Meredith's agreement contains restrictive covenants pursuant to which he has agreed not to compete with the Company during the period of employment and any period following termination of his employment during which he is receiving severance payments, except that in the event of a change-in-control of the Company, the restrictive period shall be for one year. 
+Other Executive Officers
+The Company has entered into employment agreements with J. Christopher Douglas, Executive Vice President and Chief Financial Officer; John M. Bryant, Jr., Executive Vice President and General Counsel; and Robert E. Hull, Executive Vice President - Investments. Each agreement provides for an annual base salary of $440,721 and other benefits generally available to officers of the Company. The officers are eligible to participate in the Company's incentive programs that provide for cash and equity incentives. 
+Each employment agreement may be terminated for a variety of reasons, including: for cause, not for cause, voluntarily by the officer, death, disability, constructively, or following a change in control. In all cases, the officer would receive all accrued  salary, bonus compensation that has been awarded but not yet paid, benefits under plans of the Company, including defined contribution or health and welfare plans, accrued vacation pay and reimbursement of appropriate business expenses. 
+In the case of a termination other than for cause, including a constructive termination, the officer would also receive full vesting of any restricted stock awards and severance compensation equal to his base salary for a period of 18 months (24 months in the case of Mr. Douglas) and two times (i) his average annual bonus compensation, if any, that he earned in the two years immediately preceding the date of termination or (ii) $352,577, whichever is greater. He would also be paid a pro-rated portion of the bonus and/or equity compensation that he would have earned for a given period in which the termination occurs. 
+In the event that the Employment Agreement is terminated in connection with a "change-in-control", the officer would receive severance compensation equal to: (a) three times his annual base salary, plus (b) the greater of two times: (i) the average annual bonus compensation, if any, that he earned in the two years immediately preceding the date of termination; and (ii) $705,154, plus (c) a pro-rated portion of the bonus and/or equity compensation that he would have earned for a given period in which the termination occurs. 
+The Company has agreed to indemnify each of these officers for certain liabilities arising from actions taken within the scope of his employment. The Employment Agreement contains restrictive covenants pursuant to which the officer has agreed not to compete with the Company during the period of employment and any period following termination of his employment during which he is receiving severance payments, except that in the event of a change-in-control of the Company, the restrictive period shall be for one year. 
+Executive Chairman of the Board
+On February 16, 2016, the Company entered into a Third Amended and Restated Employment Agreement with Mr. Emery that became effective on December 30, 2016, in connection with his transition into the role of Executive Chairman of the Board. The term of this agreement ends on December 31, 2021. Mr. Emery's base salary is $350,000. In the event of a termination not for cause, Mr. Emery would receive the remaining base salary for the term of his employment agreement and acceleration of vesting of his restricted stock awards. In the event of a termination upon a change in control, Mr. Emery would receive his remaining base salary, but not less than three times his annual base salary, and accelerated vesting of his restricted stock awards. 
+The tables below illustrate the compensation that would have been received by each of the Named Executive Officers and Mr. Emery assuming the officer had been terminated or had been eligible to retire and had elected to retire on December 31, 2018, and that any additional conditions to vesting of restricted stock awards under restricted stock award agreements had been met.  
+[BEGIN TABLE]
+Todd J. Meredith President and Chief Executive Officer  Voluntary Termination  Not for  Cause Termination  Change-in- Control  Death or Disability  Retirement 
+Todd J. Meredith President and Chief Executive Officer  Voluntary Termination  Not for  Cause Termination  Change-in- Control  Death or Disability  Retirement 
+Cash Severance Benefit(1)   $ —     $ 1,400,000     $ 2,100,000     $ —     $ —   
+Short-Term Incentive Awards   $ —     $ 2,054,500     $ 3,360,000     $ —     $ —   
+Accelerated Vesting of Restricted Stock(2)   $ —     $ 12,084,213     $ 12,084,213     $ 12,084,213     $ —   
+Total Value of Payments   $ —     $ 15,538,713     $ 17,544,213     $ 12,084,213     $ —   
+J. Christopher Douglas,  Executive Vice President and Chief Financial Officer  Voluntary Termination  Not for Cause Termination  Change-in- Control  Death or Disability  Retirement 
+Cash Severance Benefit(1)   $ —     $ 881,442     $ 1,322,163     $ —     $ —   
+Short-Term Incentive Awards   $ —     $ 1,293,517     $ 1,410,308     $ —     $ —   
+Accelerated Vesting of Restricted Stock(2)   $ —     $ 4,062,768     $ 4,062,768     $ 4,062,768     $ —   
+Total Value of Payments   $ —     $ 6,237,727     $ 6,795,239     $ 4,062,768     $ —   
+John M. Bryant, Jr. Executive Vice President and General Counsel  Voluntary Termination  Not for Cause Termination  Change-in- Control  Death or Disability  Retirement 
+John M. Bryant, Jr. Executive Vice President and General Counsel  Voluntary Termination  Not for Cause Termination  Change-in- Control  Death or Disability  Retirement 
+Cash Severance Benefit(1)   $ —     $ 661,082     $ 1,322,163     $ —     $ —   
+Short-Term Incentive Awards   $ —     $ 1,293,517     $ 1,410,308     $ —     $ —   
+Accelerated Vesting of Restricted Stock(2)   $ —     $ 4,102,100     $ 4,102,100     $ 4,102,100     $ —   
+Total Value of Payments   $ —     $ 6,056,699     $ 6,834,571     $ 4,102,100     $ —   
+Robert E. Hull                                                             Executive Vice President - Investments   Voluntary Termination  Not for Cause Termination  Change-in- Control  Death or Disability  Retirement 
+Cash Severance Benefit(1)   $ —     $ 661,082     $ 1,322,163     $ —     $ —   
+Short-Term Incentive Awards   $ —     $ 1,293,517     $ 1,410,308     $ —     $ —   
+Accelerated Vesting of Restricted Stock(2)   $ —     $ 2,913,394     $ 2,913,394     $ 2,913,394     $ —   
+Total Value of Payments   $ —     $ 4,867,993     $ 5,645,865     $ 2,913,394     $ —   
+B. Douglas Whitman, II Senior Vice President, Finance and Treasurer  Voluntary Termination  Not for  Cause Termination  Change-in- Control  Death or Disability  Retirement 
+B. Douglas Whitman, II Senior Vice President, Finance and Treasurer  Voluntary Termination  Not for  Cause Termination  Change-in- Control  Death or Disability  Retirement 
+Cash Severance Benefit(1)   $ —     $ 434,480     $ 589,220     $ —     $ —   
+Short-Term Incentive Awards   $ —     $ —     $ —     $ —     $ —   
+Accelerated Vesting of Restricted Stock(2)   $ —     $ 4,005,148     $ 4,005,148     $ 4,005,148     $ —   
+Total Value of Payments   $ —     $ 4,439,628     $ 4,594,368     $ 4,005,148     $ —   
+David R. Emery Executive Chairman of Board   Voluntary Termination  Not for Cause Termination  Change-in- Control  Death or Disability  Retirement 
+Cash Severance Benefit(1)   $ —     $ 1,050,000     $ 1,050,000     $ —     $ —   
+Short-Term Incentive Awards   $ —     $ —     $ —     $ —     $ —   
+Accelerated Vesting of Restricted Stock(2)   $ —     $ 5,817,345     $ 5,817,345     $ 5,817,345     $ —   
+Total Value of Payments   $ —     $ 6,867,345     $ 6,867,345     $ 5,817,345     $ —   
+(2) Based upon the closing price of a share of the Company's Common Stock on the New York Stock Exchange on December 31, 2018 of $28.44. 
+[END TABLE]
+ PROPOSAL 3 - NON-BINDING ADVISORY VOTE ON EXECUTIVE COMPENSATION
+The Dodd-Frank Wall Street Reform and Consumer Protection Act of 2010, or the Dodd-Frank Act, enables the Company's shareholders to vote to approve, on a non-binding advisory basis, the compensation of the Company's Named Executive Officers as disclosed in this Proxy Statement in accordance with the SEC's rules. This proposal, commonly known as a "say-on-pay" proposal, gives shareholders the opportunity to express views on the Company's executive compensation for its Named Executive Officers.
+As discussed in the Compensation Discussion and Analysis section of this Proxy Statement beginning on page 15, the Company's executive compensation policies are designed to align the interests of the Named Executive Officers with the interests of our shareholders, link executive compensation to the Company's overall performance, and attract, retain and motivate our Named Executive Officers. The Board believes that its executive compensation programs have been effective at appropriately aligning pay and Company performance, promoting the achievement of the long-term positive results in its performance criteria, and enabling the Company to attract and retain talented executives within its industry.
+At our Annual Meeting of Shareholders in 2017, our shareholders voted to recommend that the Company hold a "say-on-pay" vote annually until 2023 when the Company is next required to hold an advisory vote on the frequency with which the Company will hold future "say-on-pay" votes. The Board is asking shareholders to indicate their support for the compensation of the Named Executive Officers described in this Proxy Statement.  This vote is not intended to address any specific item of compensation, but rather the overall compensation of the Company's Named Executive Officers and the policies and procedures described in this Proxy Statement. Accordingly, the Board asks shareholders to vote "FOR" the following resolution:
+RESOLVED, that the shareholders of Healthcare Realty Trust Incorporated approve, on a non-binding advisory basis, the compensation of the Named Executive Officers as disclosed pursuant to Item 402 of Regulation S-K in the Company's proxy statement for the 2019 Annual Meeting of Shareholders.
+Although this is an advisory vote that will not be binding on the Compensation Committee or the Board, the Board will carefully review the results of the vote. The Compensation Committee will also carefully consider shareholders' concerns when designing future executive compensation programs.
+The Board of Directors recommends that the shareholders vote FOR the resolution approving the compensation of the Company's Named Executive Officers. DIRECTOR COMPENSATION
+Directors who are employees of the Company receive no additional compensation for their services as directors. Mr. Emery and Mr. Meredith are the only current employee directors on the Company's Board. For 2018, each non-employee director was entitled to receive the following compensation from the Company:
+[BEGIN TABLE]
+• An annual retainer of $65,000 (the chairpersons of the Audit Committee, the Compensation Committee and the Corporate Governance Committee receive additional annual retainers of $20,000, $15,000 and $15,000, respectively, and the lead independent director receives an additional annual retainer of $30,000); 
+• A meeting fee of $1,500 for each Board or committee meeting attended, including any telephonic meeting that lasts more than one hour; and 
+• An annual grant of restricted shares of Common Stock with a market value of $100,000 on the grant date, which is the date of the annual meeting of shareholders. 
+[END TABLE]
+Each non-employee director may elect to take all or a portion of their retainer in the form of restricted stock with a one-year vesting period. For any amount that is taken in the form of restricted stock, a multiple of 1.1x is applied. In 2018, three directors elected to defer their retainers to receive restricted stock and the shares that were issued in lieu of the cash retainer had a market value on the date of grant of $14,298, $71,489, and $71,489, respectively. 
+Stock Awards
+Each non-employee director receives an automatic grant of restricted shares of Common Stock at the conclusion of each annual meeting, which shares are generally restricted for one year from the date of grant. During the restricted period, such shares are subject to forfeiture upon the occurrence of certain events. Restricted shares may not be sold, assigned, pledged or otherwise transferred. Subject to the risk of forfeiture and transfer restrictions, directors have all rights as shareholders with respect to restricted shares, including the right to vote and receive dividends or other distributions on such shares. 
+Director Compensation Table
+The following table sets forth the 2018 compensation for directors:
+[BEGIN TABLE]
+Name   Fees Earned or Paid in Cash     Stock Awards (3)   All Other Compensation    Total 
+Nancy H. Agee    $ 44,500       $ 171,475     $ —     $ 215,975   
+Edward H. Braman   $ 41,500       $ 99,986     $ —     $ 141,486   
+C. Raymond Fernandez, M.D. (1)   $ 41,500       $ —     $ —     $ 41,500   
+Peter F. Lyle, Sr.    $ 77,000       $ 99,986     $ —     $ 176,986   
+Edwin B. Morris III (2)   $ 122,000       $ 99,986     $ —     $ 221,986   
+John Knox Singleton   $ 12,000       $ 171,475     $ —     $ 183,475   
+Bruce D. Sullivan (2)   $ 103,000       $ 99,986     $ —     $ 202,986   
+Christann M. Vasquez (2)   $ 71,202       $ 114,284     $ —     $ 185,486   
+[END TABLE]
+______
+[BEGIN TABLE]
+(1) Mr. Fernandez's term expired at the 2018 annual meeting of shareholders.  
+(2) Includes fees associated with chairing a Committee and, in the case of Mr. Morris, serving as lead independent director. 
+(3) See Security Ownership of Certain Beneficial Owners and Management on page 10 for information about restricted stock awards held by directors. See Note 12 to the Consolidated Financial Statements contained in the Company's 2018 Annual Report on Form 10-K for assumptions relevant to the valuation of stock awards. 
+[END TABLE]
+ CERTAIN RELATIONSHIPS AND RELATED TRANSACTIONS
+The Board of Directors recognizes that related party transactions present a heightened risk of conflicts of interest and/or improper valuation (or the perception thereof) and therefore has adopted the following policy in connection with all related party transactions involving the Company.
+Under this policy, no transaction between the Company and an officer, director or five percent or greater shareholder (including any immediate family member or controlled entity) is allowed unless:
+[BEGIN TABLE]
+• the Corporate Governance Committee has approved the transaction in accordance with the guidelines set forth in the policy and the transaction is on terms comparable to those that could be obtained in arm's length dealings with an unrelated third party; 
+• the transaction is approved by the disinterested members of the Board of Directors; or 
+• the transaction involves compensation approved by the Compensation Committee.  
+[END TABLE]
+No such approval is necessary for:
+[BEGIN TABLE]
+• transactions available to all employees generally; or 
+• transactions involving less than $5,000 when aggregated with all similar transactions. 
+[END TABLE]
+The Board of Directors has determined that the Nominating and Corporate Governance Committee is best suited to review and approve related party transactions. Accordingly, management reports any related party transaction to be entered into by the Company to the Nominating and Corporate Governance Committee, including the proposed aggregate value of such transactions if applicable. After review, the Nominating and Corporate Governance Committee will approve or disapprove such transactions and, at each subsequently scheduled meeting, management will update the Nominating and Corporate Governance Committee as to any material change to those proposed transactions or any new transactions.
+The Board of Directors recognizes that situations exist where a significant opportunity may be presented to management or a member of the Board of Directors that may equally be available to the Company, either directly or via referral. Before such an opportunity may be consummated by a related party, it must be presented to the Nominating and Corporate Governance Committee for consideration.
+All related party transactions must be disclosed to the full Board of Directors. Additionally, related party transactions will be disclosed in the Company's public filings in accordance with applicable federal securities law filings. The Company is not aware of any related party transactions that occurred in 2018.
+_______________________________________________________________________
+COMPENSATION COMMITTEE INTERLOCKS AND INSIDER PARTICIPATION
+During 2018, Edwin B. Morris III (chair), Peter F. Lyle, Sr., and John Knox Singleton served on the Compensation Committee. There are no interlocks among the members of the Compensation Committee.  
+GENERAL INFORMATION
+Electronic Access to Proxy Statement and Annual Report
+The Company has elected to provide its Proxy Statement and Annual Report to Shareholders over the Internet through a "notice and access" model. The Notice of Internet Availability provides instructions on how you may access this Proxy Statement and the Annual Report to Shareholders on the Internet at http://www.viewproxy.com/healthcarerealty/2019 or request a printed copy at no charge. In addition, the Notice of Internet Availability provides instructions on how you may request to receive, at no charge, all future proxy materials in printed form by mail or electronically by email. Your selection to receive proxy materials by mail or email will remain in effect until you revoke it.
+Shareholder Proposals and Director Nominations for 2020 Annual Meeting
+Shareholder proposals, including a shareholder's direct nomination of a director, intended to be presented at the 2020 annual meeting of shareholders must comply with the SEC's proxy rules, be stated in writing and be received by the Company at its executive offices at 3310 West End Avenue, Suite 700, Nashville, Tennessee 37203 not earlier than October 31, 2019 nor later than November 30, 2019, and comply with requirements set forth in the Bylaws. Additionally, the proxy for next year's annual meeting will confer discretionary authority to vote on any shareholder proposal which the Company receives notice of later than the close of business on November 30, 2019.
+Counting of Votes
+All matters specified in this Proxy Statement will be voted on at the Annual Meeting by written ballot. Inspectors of election will be appointed, among other things, to determine the number of shares of Common Stock outstanding, the shares of Common Stock represented at the Annual Meeting, the existence of a quorum and the authenticity, validity and effect of proxies, to receive votes of ballots, to hear and determine all challenges and questions in any way arising in connection with the right to vote, to count and tabulate all votes and to determine the results.
+A shareholder's broker or nominee is permitted to vote on Proposal 2, which is considered to be a routine matter, without shareholder instructions. The inspectors of election will treat shares represented by proxies that reflect abstentions or broker non-votes as shares that are present and entitled to vote for purposes of determining the presence of a quorum. However, abstentions and broker non-votes, as applicable, do not constitute a vote "for" or "against" any matter, and thus will be disregarded in the calculation of a plurality (Proposal 1) or of "votes cast" (Proposals 2 and 3).
+Miscellaneous
+The Company will bear the cost of printing, mailing and other expenses in connection with the Annual Meeting, including costs for mailing the Notice of Internet Availability, mailing printed proxy materials upon request, and the solicitation of proxies. The Company has retained Alliance Advisors to aid in the solicitation. For its services, the Company expects to pay Alliance Advisors a fee of $17,650 and reimburse it for certain out-of-pocket disbursements and expenses. The Company also expects to reimburse, through Alliance Advisors, certain other persons holding shares in their names for others, or holding shares for others who have the right to give voting instructions, such as brokers, banks, fiduciaries and nominees, for such persons' reasonable expenses in forwarding the Notice of Internet Availability and, if requested, printed proxy materials to their principals. Certain of the directors, officers and employees of the Company may, without any additional compensation, solicit proxies in person or by telephone.
+Management of the Company is not aware of any matter other than those described in this Proxy Statement which may be presented for action at the meeting. If any other matters properly come before the meeting, it is intended that the proxies will be voted with respect thereto in accordance with the judgment of the person or persons voting such proxies subject to the direction of the Board of Directors.
+HEALTHCARE REALTY TRUST INCORPORATED
+Andrew E. Loope
+Senior Vice President, Corporate Counsel and Secretary
+March 29, 2019 USE OF NON-GAAP FINANCIAL MEASURES
+Management considers funds from operations ("FFO"), FFO per share, normalized FFO, normalized FFO per share, funds available for distribution ("FAD"), net operating income ("NOI"), cash NOI, same-store NOI, same-store cash NOI, EBITDA, Adjusted EBITDA, and Debt Covenant EBITDA to be useful non-GAAP measures of the Company's operating performance. A non-GAAP financial measure is generally defined as one that purports to measure financial performance, financial position or cash flows, but excludes or includes amounts that would not be so adjusted in the most comparable measure determined in accordance with GAAP. Set forth below are descriptions of the non-GAAP financial measures management considers relevant to the Company's business and useful to investors.
+The non-GAAP financial measures presented herein are not necessarily identical to those presented by other real estate companies due to the fact that not all real estate companies use the same definitions. These measures should not be considered as alternatives to net income (determined in accordance with GAAP), as indicators of the Company's financial performance, or as alternatives to cash flow from operating activities (determined in accordance with GAAP) as measures of the Company's liquidity, nor are these measures necessarily indicative of sufficient cash flow to fund all of the Company's needs. 
+FFO and FFO per share are operating performance measures adopted by the National Association of Real Estate Investment Trusts, Inc. ("NAREIT"). For periods ending December 31, 2018 and prior, NAREIT defined FFO as the most commonly accepted and reported measure of a REIT's operating performance equal to "net income (computed in accordance with GAAP), excluding gains (or losses) from sales of property and impairments, plus depreciation and amortization (including amortization of leasing commissions), and after adjustments for unconsolidated partnerships and joint ventures."  The Company presents Normalized FFO by adding to FFO acquisition-related costs, acceleration of debt issuance costs, debt extinguishment costs, and other Company-defined normalizing items to evaluate operating performance.  FAD is presented by adding to Normalized FFO non-real estate depreciation and amortization, deferred financing fees amortization, share-based compensation expense and provision for bad debts, net; and subtracting maintenance capital expenditures, including second generation tenant improvements and leasing commissions paid and straight-line rent income, net of expense.  The Company's definition of these terms may not be comparable to that of other real estate companies as they may have different methodologies for computing these amounts.  FFO, Normalized FFO and FAD do not represent cash generated from operating activities determined in accordance with accounting principles generally accepted in the United States of America and is not necessarily indicative of cash available to fund cash needs. FFO, Normalized FFO and FAD should not be considered an alternative to net income as an indicator of the Company's operating performance or as an alternative to cash flow as a measure of liquidity.  FFO, Normalized FFO and FAD should be reviewed in connection with GAAP financial measures.
+NOI and same store NOI are key performance indicators. Management considers same store NOI a supplemental measure because it allows investors, analysts and Company management to measure unlevered property-level operating results. The Company defines NOI as rental income and property lease guaranty income less property operating expenses. NOI excludes non-cash items such as straight-line rent, above and below market lease intangibles, leasing commission amortization, lease inducements, lease terminations and tenant improvement amortization. Same store NOI is historical and not necessarily indicative of future results. 
+The Company believes that EBITDA, Adjusted EBITDA, and Debt Covenant EBITDA are useful to investors, analysts and Company management because they allow the comparison of the Company's unlevered operating performance and credit strength between periods and to other real estate companies without the effect of items that by their nature are not comparable from period to period.
+Management believes FFO, FFO per share, Normalized FFO, Normalized FFO per share, and FAD provide an understanding of the operating performance of the Company's properties without giving effect to certain significant non-cash items, including depreciation and amortization expense. Historical cost accounting for real estate assets in accordance with GAAP assumes that the value of real estate assets diminishes predictably over time. However, real estate values instead have historically risen or fallen with market conditions. The Company believes that by excluding the effect of depreciation, amortization, gains or losses from sales of real estate, impairments, and other normalizing items that are unusual and infrequent, FFO, FFO per share, Normalized FFO, Normalized FFO per share  and FAD can facilitate comparisons of operating performance between periods. The Company reports these measures because they have been observed by management to be the predominant measures used by the REIT industry and by industry analysts to evaluate REITs and because these measures are consistently reported, discussed, and compared by research analysts in their notes and publications about REITs.  Reconciliations
+Reconciliation of FFO, Normalized FFO and FAD
+(amounts in thousands, except per share data)
+(Unaudited)
+[BEGIN TABLE]
+    Three Months Ended December 31,   Year Ended December 31, 
+    2018     2017     2018     2017   
+Net Income (Loss)     $16,314       ($37,151)     $69,771       $23,092   
+Gain on sales of real estate properties   (10,787)   —     (41,665)   (39,524) 
+Impairments of real estate assets   —     (2)   —     5,385   
+Real estate depreciation and amortization   43,380     37,869     166,854     145,321   
+Total adjustments   32,593     37,867     125,189     111,182   
+Funds From Operations (FFO)     $48,907       $716       $194,960       $134,274   
+Acquisition and pursuit costs (1)   200     302     738     2,180   
+Forfeited earnest money received    —     —     (466)   —   
+Rapid vesting/revaluation for retiring officer   —     —     70     —   
+Debt financing costs   —     45,773     —     45,773   
+Normalized Funds From Operations     $49,107       $46,791       $195,302       $182,227   
+Non-real estate depreciation and amortization   1,439     1,439     5,892     5,551   
+Provision for bad debt, net   18     (17)   60     159   
+Straight-line rent income, net   (302)   (201)   (2,728)   (4,575) 
+Stock-based compensation   2,601     2,531     10,621     10,027   
+Non-cash items   3,756     3,752     13,845     11,162   
+2nd generation TI   (10,367)   (6,929)   (30,939)   (20,367) 
+Leasing commissions paid   (2,182)   (2,705)   (7,119)   (7,099) 
+Capital additions   (2,817)   (6,400)   (20,347)   (18,790) 
+Funds Available for Distribution (FAD)     $37,497       $34,509       $150,742       $147,133   
+FFO per common share - diluted     $0.39       $0.01       $1.57       $1.13   
+Normalized FFO per common share - diluted     $0.40       $0.38       $1.57       $1.53   
+FFO weighted average common shares outstanding - diluted (2)   124,240     124,125     124,104     118,877   
+[END TABLE]
+(1) Acquisition and pursuit costs include third party and travel costs related to the pursuit of acquisitions and developments.
+(2) Diluted weighted average common shares outstanding for the three months ended December 31, 2018 includes the dilutive effect of nonvested share-based awards outstanding of 863,261 shares.  Reconciliation of NOI & EBITDA
+(amounts in thousands)
+(Unaudited)
+[BEGIN TABLE]
+QUARTERLY NOI                                
+  Q4 2018     Q3 2018     Q2 2018     Q1 2018     Q4 2017     Q3 2017     Q2 2017     Q1 2017   
+Net income (loss)   $16,314       $6,548       $37,729       $9,180       ($37,151)     $3,173       $25,224       $31,845   
+Other income (expense) 2,850     12,135     (16,559)   12,175     58,429     18,819     (1,808)   (8,851) 
+General and administrative expense 8,534     8,504     8,373     9,101     8,272     8,021     8,005     8,694   
+Depreciation and amortization expense 42,437     42,061     40,130     39,573     37,324     35,873     34,823     34,452   
+Other expenses (1) 2,087     1,855     1,939     1,968     2,522     1,922     2,204     1,979   
+Straight-line rent revenue (682)   (802)   (1,074)   (1,722)   (1,205)   (1,332)   (1,783)   (1,751) 
+Other revenue (2) (1,409)   (1,173)   (1,268)   (1,438)   (1,258)   (1,327)   (1,196)   (785) 
+Cash NOI   $70,131       $69,128       $69,270       $68,837       $66,933       $65,149       $65,469       $65,583   
+Acquisitions / development completions (5,583)   (5,411)   (4,623)   (4,273)   (2,148)   (956)   (365)   (56) 
+Reposition (171)   (301)   (353)   (436)   (525)   (584)   (661)   (705) 
+Dispositions / other (590)   (517)   (1,565)   (2,719)   (2,706)   (2,712)   (3,330)   (4,729) 
+Same store cash NOI   $63,787       $62,899       $62,729       $61,409       $61,554       $60,897       $61,113       $60,093   
+[END TABLE]
+[BEGIN TABLE]
+(1) Includes acquisition and development expense, bad debt, above and below market ground lease intangible amortization, leasing commission amortization, and ground lease straight-line rent. 
+(2) Includes management fee income, interest, above and below market lease intangible amortization, lease inducement amortization, lease terminations and tenant improvement overage amortization. 
+TRAILING TWELVE MONTHS NOI     
+    Year Ended December 31, 
+    2018     2017% Change   
+Same store cash NOI     $250,824       $243,657     2.9% 
+Reposition   1,261     2,475     (49.1%) 
+Subtotal     $252,085       $246,132     2.4% 
+Acquisitions / Development completions   19,890     3,525     464.3% 
+Dispositions / other   5,391     13,477     (60.0%) 
+Cash NOI     $277,366       $263,134     5.4% 
+EBITDA                 
+    Q4 2018     Q3 2018     Q2 2018     Q1 2018     Trailing Twelve Months   
+Net income     $16,314       $6,548       $37,729       $9,180       $69,771   
+Interest expense   13,602     13,464     13,069     12,668     52,803   
+Depreciation and amortization   42,437     42,061     40,130     39,573     164,201   
+EBITDA     $72,353       $62,073       $90,928       $61,421       $286,775   
+Acquisition and development expense   200     141     120     277     738   
+Gain on sales of real estate properties   (10,787)   (1,288)   (29,590)   —     (41,665) 
+Debt Covenant EBITDA     $61,766       $60,926       $61,458       $61,698       $245,848   
+Other amortization expense   2,170     2,089     2,018     1,817     8,094   
+Timing impact (1)   (349)   (50)   (249)   —     (648) 
+Stock based compensation   2,601     2,605     2,593     2,822     10,621   
+Adjusted EBITDA     $66,188       $65,570       $65,820       $66,337       $263,915   
+[END TABLE]
+[BEGIN TABLE]
+(1) Adjusted to reflect quarterly EBITDA from properties acquired or disposed in the quarter. 
+[END TABLE]
+ HEALTHCARE REALTY TRUST INCORPORATED
+COMMON STOCK PROXY
+HEALTHCARE REALTY TRUST INCORPORATED
+PROXY FOR ANNUAL MEETING OF SHAREHOLDERS
+Important Notice Regarding the Availability of Proxy Materials for the Shareholder Meeting to Be Held on May 14, 2019: The Proxy Statement and the Company's Annual Report to Shareholders for the year ended December 31, 2018 are available at http://www.viewproxy.com/healthcarerealty/2019.
+The undersigned hereby appoints B. Douglas Whitman, II and John M. Bryant, Jr., and either of them, as proxies, with full power of substitution and resubstitution, to vote all of the shares of Common Stock which the undersigned is entitled to vote at the annual meeting of shareholders of Healthcare Realty Trust Incorporated, to be held at 3310 West End Avenue, Suite 700, Nashville, Tennessee 37203, on Tuesday, May 14, 2019, at 10:00 a.m. (local time), and at any adjournment thereof.
+This proxy is being solicited by the Board of Directors and will be voted as specified. If not otherwise specified, the above named proxies will vote (1) FOR the election of the nine nominees listed below to serve as directors until the 2020 Annual Meeting or until their successors are duly elected and qualified; (2) FOR the ratification of the appointment of BDO USA, LLP as the independent registered public accounting firm for the Company and its subsidiaries for the Company's 2019 fiscal year; (3) FOR the resolution approving the compensation of the Company's Named Executive Officers on a non-binding advisory basis; and (4) in accordance with the recommendations of the Board of Directors on any other matters that may properly come before the meeting. Pursuant to the rules of the New York Stock Exchange, if a shareholder holds shares through an account with a bank, broker or other nominee and does not provide voting instructions in accordance with this Proxy Statement, such shares may not be voted by the nominee for the above items (1) and (3), in each case resulting in a broker non-vote.
+1. Election of Directors:
+[BEGIN TABLE]
+  For Withhold   For Withhold   For Withhold 
+01- David R. Emery o  o  02- Todd J. Meredith o  o  03- John V. Abbott o  o  
+01- David R. Emery o  o  02- Todd J. Meredith o  o  03- John V. Abbott o  o  
+  For Withhold   For Withhold   For Withhold 
+04 - Nancy H. Agee o o 05 - Edward H. Braman o o 06- Peter F. Lyle, Sr. o o 
+  For Withhold   For Withhold   For Withhold 
+07- John Knox Singleton o o 08-  Bruce D. Sullivan o o 09- Christann M. Vasquez o o o FOR   o AGAINST   o ABSTAIN 
+[END TABLE]
+3. To approve, on a non-binding advisory basis, the following resolution:
+RESOLVED, that the shareholders of Healthcare Realty Trust Incorporated approve, on a non-binding advisory basis, the compensation of the Named Executive Officers as disclosed pursuant to Item 402 of Regulation S-K in the Company's proxy statement for the 2019 Annual Meeting of Shareholders.
+[BEGIN TABLE]
+o FOR   o AGAINST   o ABSTAIN 
+[END TABLE]
+4. In their discretion, the proxies are authorized to vote upon such other business as may properly come before the meeting or any adjournment thereof. 
+[BEGIN TABLE]
+MARK HERE FOR ADDRESS CHANGE AND NOTE AT LEFT   o 
+MARK HERE IF YOU PLAN TO ATTEND THE MEETING   o 
+Date:     
+Signature:     
+IMPORTANT 
+Please sign exactly as your name or names appear on this proxy and mail promptly in the enclosed envelope. If you sign as agent or in any other capacity, please state the capacity in which you sign. 
+[END TABLE]
+  

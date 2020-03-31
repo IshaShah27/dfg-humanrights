@@ -1,0 +1,900 @@
+
+UNITED STATES
+SECURITIES AND EXCHANGE COMMISSION
+Washington, D.C. 20549
+SCHEDULE 14A INFORMATION
+Proxy Statement Pursuant to Section 14(a) of the Securities
+Exchange Act of 1934 (Amendment No. __)
+Filed by the Registrant [X]    Filed by a Party other than the Registrant [  ]
+Check the appropriate box:
+[   ]    Preliminary Proxy Statement
+[   ]    Confidential, for Use of the Commission Only (as permitted by Rule 14a-6(e)(2))
+[X]    Definitive Proxy Statement
+[   ]    Definitive Additional Materials
+[   ]    Soliciting Material Pursuant to §240.14a-12
+INTL FCStone Inc.
+(Name of Registrant as Specified in Its Charter)
+(Name of person(s) filing proxy statement, if other than the registrant)
+Payment of Filing Fee (Check the appropriate box):
+[X]    No fee required.
+[   ]    Fee computed on table below per Exchange Act Rules 14a-6(i)(4) and 0-11.
+1)    Title of each class of securities to which transaction applies:
+2)    Aggregate number of securities to which transaction applies:
+[BEGIN TABLE]
+3) Per unit price or other underlying value of transaction computed pursuant to Exchange Act Rule 0-11 (set forth the amount on which the filing fee is calculated and state how it was determined): 
+[END TABLE]
+4)    Proposed maximum aggregate value of transaction:
+5)    Total fee paid:
+[   ]    Fee paid previously with preliminary materials.
+[BEGIN TABLE]
+[   ] Check box if any part of the fee is offset as provided by Exchange Act Rule 0-11(a)(2) and identify the filing for which the offsetting fee was paid previously. Identify the previous filing by registration statement number, or the Form or Schedule and the date of its filing. 
+[END TABLE]
+1)    Amount previously paid:
+2)    Form, Schedule or Registration Statement No.:
+3)    Filing Party:
+4)    Date Filed:
+INTL FCSTONE INC.
+708 Third Avenue
+Suite 1500
+New York, New York 10017
+January 3, 2019 
+Dear Shareholders:
+You are cordially invited to attend the annual meeting of shareholders of INTL FCStone Inc. to be held at 1221 Brickell Avenue, Miami, Florida on Wednesday, February 13, 2019 at 10:00 a.m. (Eastern Standard Time). At the meeting, shareholders will be asked to vote on the election of nine Directors; the ratification of the appointment of KPMG LLP as the Company's independent registered public accounting firm for the Company's 2019 fiscal year; an advisory vote on executive compensation; the approval of an amendment to the 2013 Stock Option Plan, and to transact such other business as may properly come before the meeting.
+Again this year we are using the "Notice and Access" method of providing proxy materials to you via the Internet.  This process provides you with a convenient and quick way to access your proxy materials and vote your shares, while also conserving resources and reducing the costs of printing and mailing the proxy materials.  On or about January 3, 2019, we will mail to our shareholders a Notice of Internet Availability of Proxy Materials containing instructions on how to access our proxy statement and our 2018 Annual Report online and how to vote via the Internet. The Notice also contains instructions on how to receive a paper copy of the proxy materials and our 2018 Annual Report.
+The Notice of Annual Meeting of Shareholders and the Proxy Statement that accompany this letter provide detailed information concerning the matters to be considered at the meeting.
+Your vote is important. I urge you to vote as soon as possible, whether or not you plan to attend the annual meeting. Thank you for your continued support of INTL FCStone Inc.
+Sincerely,
+John Radziwill
+Chairman
+Notice of Annual Meeting of Shareholders
+Wednesday, February 13, 2019 
+10:00 a.m. Eastern Standard Time
+1221 Brickell Avenue, Miami, Florida
+TO THE SHAREHOLDERS OF INTL FCSTONE INC.
+The annual meeting of the shareholders of INTL FCStone Inc., a Delaware corporation (the "Company" or "INTL FCStone"), will be held on Wednesday, February 13, 2019, at 10:00 a.m. Eastern Standard Time at 1221 Brickell Avenue, Miami, Florida, for the following purposes:
+[BEGIN TABLE]
+1. To elect nine Directors; 
+2. To ratify the appointment of KPMG LLP as the Company's independent registered public accounting firm for the 2019 fiscal year; 
+3. To consider an advisory vote on executive compensation; 
+4. to approve an amendment to the 2013 Stock Option Plan to increase the total number of shares authorized for issuance under the Plan from 1,000,000 shares to 2,000,000 shares; and 
+5. To transact such other business as may properly come before the meeting. 
+[END TABLE]
+The Board of Directors has fixed the close of business on December 21, 2018 as the record date for the determination of shareholders entitled to notice of and to vote at the annual meeting.
+Pursuant to the rules of the Securities and Exchange Commission, we have elected to provide access to our proxy materials over the Internet. Accordingly, we will mail, beginning on or about January 3, 2019, a Notice of Internet Availability of Proxy Materials to our shareholders of record and beneficial owners as of the record date. As of the date of mailing of the Notice of Internet Availability of Proxy Materials, all shareholders and beneficial owners will have the ability to access all of the Proxy Materials on a website referenced in the Notice of Internet Availability of Proxy Materials.
+The Notice of Internet Availability of Proxy Materials also contains a toll-free telephone number, an e-mail address, and a website where shareholders can request a paper or e-mail copy of the Proxy Statement, our 2018 Annual Report, and a form of proxy relating to the Annual Meeting. These materials are available free of charge. The Notice also contains information on how to access and vote the form of proxy.
+Even if you plan to attend the annual meeting in person, we request that you vote by one of the methods described in the proxy notification and thus ensure that your shares will be represented at the annual meeting if you are unable to attend.
+If you fail to vote, the effect will be that your shares will not be counted for purposes of determining whether a quorum is present at the annual meeting. If you do attend the annual meeting and wish to vote in person, you may withdraw your proxy and vote in person.
+January 3, 2019 
+New York, New York
+By order of the Board of Directors,
+SEAN M. O'CONNOR
+Chief Executive Officer and President
+TABLE OF CONTENTS
+[BEGIN TABLE]
+PROXY STATEMENT   5 
+QUESTIONS AND ANSWERS ABOUT THE ANNUAL MEETING   5 
+PROPOSAL 1 - ELECTION OF DIRECTORS   8 
+THE BOARD OF DIRECTORS AND ITS COMMITTEES   10 
+BOARD MEMBER INDEPENDENCE   14 
+EXECUTIVE COMPENSATION-COMPENSATION DISCUSSION AND ANALYSIS   14 
+REPORT OF THE COMPENSATION COMMITTEE ON EXECUTIVE COMPENSATION   25 
+DIRECTOR COMPENSATION   26 
+PROPOSAL 2 - RATIFICATION OF APPOINTMENT OF INDEPENDENT ACCOUNTANTS   28 
+AUDIT COMMITTEE REPORT   28 
+PROPOSAL 3 - ADVISORY VOTE ON EXCUTIVE COMPENSATION   30 
+PROPOSAL 4 - APPROVAL OF AN AMENDMENT TO INCREASE THE NUMBER OF SHARES AUTHORIZED TO BE ISSUED UNDER THE COMPANY'S 2013 STOCK OPTION PLAN   30 
+PROPOSAL 5 - OTHER MATTERS   34 
+MANAGEMENT   34 
+CODE OF ETHICS   35 
+SECURITY OWNERSHIP OF CERTAIN BENEFICIAL OWNERS AND MANAGEMENT   35 
+CERTAIN RELATIONSHIPS AND RELATED TRANSACTIONS   37 
+GENERAL INFORMATION   38 
+EXHIBIT A - INTL FCSTONE INC. 2013 STOCK OPTION PLAN (as Amended)   39 
+[END TABLE]
+INTL FCSTONE INC.
+PROXY STATEMENT
+2019 Annual Meeting of Shareholders
+GENERAL
+The proxy is solicited on behalf of the Board of Directors of INTL FCStone Inc., a Delaware corporation (the "Company"), for use at the annual meeting of shareholders to be held on Wednesday, February 13, 2019, at 10:00 a.m. (Eastern Standard Time), or at any adjournment or postponement of the meeting, for the purposes set forth in this proxy statement and in the accompanying Notice of Annual Meeting. The annual meeting will be held at 1221 Brickell Avenue, Miami, Florida. The Company intends to mail its Notice of Internet Availability of Proxy Materials and provide access to a website as referenced within its Notice of Internet Availability on or about January 3, 2019 to all shareholders entitled to vote at the annual meeting.
+QUESTIONS AND ANSWERS ABOUT THE ANNUAL MEETING
+When and where will the annual meeting take place?
+The annual meeting will be held on February 13, 2019 at 10:00 a.m. (Eastern Standard Time), at 1221 Brickell Avenue, Miami, Florida.
+Why did I receive a notice in the mail regarding the Internet availability of proxy materials instead of a paper copy of the proxy materials?
+The "Notice and Access" rules of the Securities and Exchange Commission (the "SEC") permit us to furnish proxy materials, including this proxy statement and our Annual Report, to our shareholders by providing access to such documents on the Internet instead of mailing printed copies. Most shareholders will receive a Notice of Internet Availability of Proxy Materials (the "Notice") and will not receive printed copies of the proxy materials unless they request them. The Notice will be mailed beginning on or about January 3, 2019. The Notice includes instructions on how you may access and review all of our proxy materials via the Internet. The Notice also includes instructions on how you may vote your shares. If you would like to receive a paper or e-mail copy of our proxy materials, you should follow the instructions in the notice for requesting such materials. Any request to receive proxy materials by mail or e-mail will remain in effect until you revoke it.
+Can I vote my shares by filling out and returning the Notice?
+No. The Notice identifies the items to be voted on at the Annual Meeting, but you cannot vote by marking the Notice and returning it. The Notice provides instructions on how to vote by Internet or how to request a paper proxy card.
+Why did I receive this proxy statement?
+You received this proxy statement because you held shares of the Company's common stock on December 21, 2018 (the "Record Date") and are entitled to vote at the annual meeting. The Board of Directors is soliciting your proxy to vote at the meeting.
+What am I voting on?
+You are being asked to vote on four items:
+[BEGIN TABLE]
+1. The election of nine Directors (see page 9); 
+2. The ratification of the appointment of KPMG LLP as the Company's independent registered public accounting firm for the 2019 fiscal year (see page 26); 
+3. An advisory vote on executive compensation (see page 28); and 
+4. The approval of an amendment to the 2013 Stock Option Plan to increase the total number of shares authorized for issuance under the Plan from 1,000,000 shares to 2,000,000 shares (see page 29). 
+[END TABLE]
+How do I vote?
+Shareholders of Record
+If you are a shareholder of record, there are four ways to vote:
+[BEGIN TABLE]
+• By toll free telephone at 1-800-652-8683.  
+• By internet at www.envisionreports.com/INTL 
+• If you request printed copies of the proxy materials, you may vote by proxy by completing and returning your proxy card in the postage-paid envelope provided by the Company; or 
+• By voting in person at the meeting. 
+[END TABLE]
+Street Name Holders
+Shares which are held in a brokerage account in the name of the broker are said to be held in "street name."
+If your shares are held in street name, you should follow the voting instructions provided by your broker. If you requested printed copies of the proxy materials, you may complete and return a voting instruction card to your broker, or, in many cases, your broker may also allow you to vote via the telephone or Internet. Check your notice from your broker for more information.  If you hold your shares in street name and wish to vote at the meeting, you must obtain a legal proxy from your broker and bring that proxy to the meeting.
+Regardless of how your shares are registered, if you request printed copies of the proxy materials, complete and properly sign the accompanying proxy card and return it to the address indicated, it will be voted as you direct.
+What is the deadline for voting via Internet or telephone?
+Internet and telephone voting is available through 11:59 p.m. (Eastern Standard Time) on Tuesday, February 12, 2019 (the day before the annual meeting).
+What are the voting recommendations of the Board of Directors?
+The Board of Directors recommends that you vote in the following manner:
+[BEGIN TABLE]
+1. FOR each of the persons nominated by the Board of Directors to serve as Directors; 
+2. FOR the ratification of the appointment of KPMG LLP as independent registered public accounting firm for the 2019 fiscal year; 
+3. FOR the approval of the compensation of the Company's named executive officers as disclosed in the Compensation Discussion and Analysis section and accompanying compensation tables contained in this Proxy Statement; and 
+4. FOR the proposed amendment to the 2013 Stock Option Plan to increase the total number of shares authorized for issuance under the Plan from 1,000,000 shares to 2,000,000 shares. 
+[END TABLE]
+Unless you give contrary instructions in your proxy, the persons named as proxies will vote your shares in accordance with the recommendations of the Board of Directors.
+Will any other matters be voted on?
+We do not know of any other matters that will be brought before the shareholders for a vote at the annual meeting. If any other matter is properly brought before the meeting, your proxy would authorize the Chairman and the Chief Executive Officer of the Company to vote on such matters in their discretion.
+Who is entitled to vote at the meeting?
+Only shareholders of record at the close of business on the Record Date are entitled to receive notice of and to vote at the annual meeting. If you were a shareholder of record on that date, you will be entitled to vote all of the shares that you held on that date at the annual meeting, or any postponement or adjournment of the meeting.
+How many votes do I have?
+You will have one vote for each share of the Company's common stock that you owned on the Record Date.
+How many votes can be cast by all shareholders?
+The Company had 19,023,473 outstanding shares of common stock on the Record Date. Each of these shares is entitled to one vote. There is no cumulative voting.
+How many votes must be present to hold the meeting?
+The holders of a majority of the Company's common stock outstanding on the Record Date must be present at the meeting in person or by proxy to fulfill the quorum requirement necessary to hold the meeting. This means at least 9,511,737 shares must be present in person or by proxy.
+If you vote, your shares will be part of the quorum. Abstentions and broker non-votes will also be counted in determining the quorum. A broker non-vote occurs when a bank or broker holding shares in street name submits a proxy that states that the broker does not vote for some or all of the proposals because the broker has not received instructions from the beneficial owners on how to vote on the proposals and does not have discretionary authority to vote in the absence of instructions.
+We urge you to vote by proxy even if you plan to attend the meeting so that we will know as soon as possible that a quorum has been achieved.
+What vote is required to approve each proposal?
+For the election of Directors (Proposal No. 1), the affirmative vote of a plurality of the votes present in person or by proxy and entitled to vote at the meeting is required. A proxy that has properly withheld authority with respect to the election of one or more Directors will not be voted with respect to the Director or Directors indicated, although it will be counted for the purposes of determining whether there is a quorum.
+For the ratification of the appointment of KPMG LLP (Proposal No. 2), the affirmative vote of a majority of the shares represented in person or by proxy and entitled to vote at the meeting will be required for approval. An abstention with respect to this proposal will be counted for the purposes of determining the number of shares entitled to vote that are present in person or by proxy. Accordingly, an abstention will have the effect of a negative vote.
+For the advisory vote on executive compensation (Proposal No. 3), the resolution will be approved if a majority of the shares represented in person or by proxy and entitled to vote at the meeting are cast in favor of the compensation.  Because your vote is advisory, it will not be binding on the Board or the Company.  However, the Board will review the voting results and take them into consideration when making future decisions regarding executive compensation.
+For the approval of the proposed amendment to the 2013 Stock Option Plan (Proposal No. 4), the affirmative vote of a majority of the shares represented in person or by proxy and entitled to vote at the meeting will be required for approval. An abstention with respect to this proposal will not be voted with respect to the amendment, although it will be counted for the purposes of determining whether there is a quorum.
+Can I change my vote?
+Yes. If you are stockholder of record, you may change your vote at any time before your proxy is voted at the annual meeting. You can do this in one of three ways. First, you can send a written notice stating that you would like to revoke your proxy. Second, you can submit new proxy instructions either on a new proxy card, by telephone or via the Internet. Third, you can attend the meeting, and vote in person. Your attendance alone will not revoke your proxy. If you have instructed a broker to vote your shares, you must follow directions received from your broker to change those instructions.
+Who may attend the annual meeting?
+Any person who was a shareholder of the Company on December 21, 2018 may attend the meeting. If you own shares in street name, you should ask your broker or bank for a legal proxy to bring with you to the meeting. If you do not receive the legal proxy in time, bring your most recent brokerage statement so that we can verify your ownership of our stock and admit you to the meeting. However, you will not be able to vote your shares at the meeting without a legal proxy.
+What happens if I sign and return the proxy card but do not indicate how to vote on an issue?
+If you return a signed proxy card without indicating your vote, your shares will be voted as follows:
+[BEGIN TABLE]
+• FOR each of the nominees for Director named in this proxy statement; 
+• FOR ratification of the appointment of KPMG LLP as the independent registered public accounting firm for the Company for the 2019 fiscal year; 
+• FOR the approval of the compensation of the Company's named executive officers as disclosed in the Compensation Discussion and Analysis section and accompanying compensation tables contained in this Proxy Statement; and 
+• FOR the approval of the amendment to the 2013 Stock Option Plan to increase the total number of shares authorized for issuance under the Plan from 1,000,000 shares to 2,000,000 shares. 
+[END TABLE]
+Who can help answer my questions?
+If you are an INTL FCStone Inc. shareholder, and would like additional copies, without charge, of this proxy statement or if you have questions about the annual meeting, including the procedures for voting your shares, you should contact:
+David A. Bolte
+Corporate Secretary
+1251 NW Briarcliff Parkway, Suite 800
+Kansas City, Missouri  64116
+(515) 223- PROPOSAL 1 - ELECTION OF DIRECTORS
+The restated certificate of incorporation of the Company provides that the Company will have a Board of Directors consisting of nine members commencing at the 2013 annual meeting of shareholders, and further provides that the number of Directors may thereafter be increased or decreased by resolution of the Board of Directors.  Directors Paul G. Anderson and Edward J. Grzybowski have announced that they will retire from the Board immediately prior to the 2019 annual meeting shareholders.
+The Nominating & Governance Committee of the Company has nominated and the Board of Directors has approved the nominations of nine persons to serve as Directors until the 2020 annual meeting, or until each Director's successor is elected and qualified, or until the death or resignation of a Director. Each of the nominees has agreed to serve if elected.
+The nominees are as follows:
+[BEGIN TABLE]
+Name of Nominee Age Director Since 
+Scott J. Branch 56 2002 
+Diane L. Cooper 59 2018 
+John Fowler 69 2005 
+Daryl K. Henze 76 2009 
+Steven Kass 62 2018 
+Bruce W. Krehbiel 65 2009 
+Sean M. O'Connor 56 2002 
+Eric Parthemore 69 2009 
+John Radziwill 71 2002 
+[END TABLE]
+The background of each nominee for Director is as follows:
+Scott J. Branch was elected to the Board of Directors of the Company in December 2002.  Mr. Branch was appointed the President of the Company in May 2013 and served in that capacity until his retirement as President on October 1, 2015.  He retired from employment by the Company on December 31, 2016.  Prior to May 2013 he served as Chief Operating Officer of the Company following the merger with FCStone Group Inc. ("FCStone") in October 2009.  He also served as President of the Company from 2002 until October 2009.  Mr. Branch was General Manager of Standard Bank London, Ltd. from 1995 until 2002. During this period, he also served in other capacities for Standard Bank, including management of its banking and securities activities in the Eastern Mediterranean Region and management of its forfaiting and syndications group.
+The Board believes that Mr. Branch's strong leadership skills, extensive financial experience, and knowledge of the Company, its products and services is valuable to the Board. In 2002, Mr. Branch made a significant equity investment in the Company and since that time has been instrumental in guiding the Company's successful strategy and growth. In addition to his other skills and qualifications, Mr. Branch's recent service as President provides a valuable link between the management and operations of the Company and the Board of Directors, allowing the Board to perform its oversight role with the benefit of management's perspective on business and strategy.
+Diane L. Cooper was elected as a director of the Company on September 7, 2018. She retired in 2016 after a 30 year career at General Electric, most recently serving as President and CEO of GE Capital's Commercial Distribution Business from 2009 to 2016. Prior to that role, Ms. Cooper led the GE Capital Equipment Finance and Equipment Finance Services businesses, and served as President and CEO of Commercial Finance – Capital Solutions. Ms. Cooper also currently serves on the board of the BMO Financial Corp.
+Ms. Cooper brings to the Board, among other skills and qualifications, significant management experience and knowledge in the areas of finance, business development, mergers and acquisitions, employee leadership, and developing and strengthening customer relationships.  Her previous positions also afford her a wealth of experience in the operation and management of a public company in the financial services sector.
+John M. Fowler was elected as a Director of the Company in 2005. Mr. Fowler, an attorney by training, has since 1998 been a private investor, financial consultant and adviser. From 1996 to 1998, Mr. Fowler was the Chief Financial Officer, Executive Vice President and Director of Moneygram Payment Systems, Inc. He also served as Chief Administrative Officer and Executive Vice President of then Travelers Group, Inc. (now Citigroup, Inc.) from 1986 to 1994. Mr. Fowler has served as General Counsel of the U.S. Department of Transportation, as a Director of Amtrak, as Chairman and Chief Executive Officer of Gulf Insurance Co., as a Director of Transatlantic Re (a reinsurance company), and as a Director of and Chairman of the Compensation Committee of Air Express International.
+Mr. Fowler brings to the Board, among other skills and qualifications, significant management experience and knowledge in the areas of finance, accounting, legal and executive compensation. His previous positions also afford him a wealth of experience in the operation and management of a public company in the financial services sector, as well as substantial experience in regulatory affairs and governmental relations.
+Daryl K. Henze was elected as a Director of the Company on October 1, 2009, following the merger with FCStone. From November 2006 until the merger, he served as a Director of FCStone. He also served as the chairman of the audit committee of FCStone. Mr. Henze is a consultant in the area of finance and accounting. He spent 36 years with the accounting firm KPMG LLP ("KPMG") before his retirement in 2001, including 28 years as an audit partner. Mr. Henze serves on the Board of Directors of Wellmark, Inc. and is Lead Director, Chairman of its Audit Committee, Chairman of its Governance Committee, and a member of its Human Resources and Finance Committees. Mr. Henze also serves on the Boards of two private companies. He has previously served as president of the Minnesota State University-Mankato Alumni Association, as a member of the Board of Directors of the Minnesota State University-Mankato Foundation and a member of its Audit Committee.  Mr. Henze is on the Iowa State University Foundation Board of Governors and is on the Board of Directors of the Iowa Society of CPA's Educational Foundation.  He is a past president of the Iowa Society of Certified Public Accountants and served on the Iowa Accountancy Examining Board for nine years.
+Mr. Henze brings to the Board, among other skills and qualifications, significant knowledge in the areas of finance, accounting, internal audit and Sarbanes-Oxley compliance. In addition, as a Board member of Wellmark, Inc., Mr. Henze is able to provide knowledge and insight into the insurance and employee benefits industry at a time when the Company's employee benefit costs are impacted by health care and insurance requirements.
+Steven Kass was elected as a Director of the Company at the 2018 annual meeting of shareholders.  Mr. Kass is presently a consultant to professional service firms with a focus on leadership, organizational culture, business strategy, human capital and corporate governance.  He spent 33 years with the accounting firm Rothstein Kass before his retirement as Chief Executive Officer in June 2014.  During his tenure as CEO, Rothstein Kass grew organically to become the 20th largest accounting firm in the United States.  After the acquisition by KPMG in June 2014 of certain assets of Rothstein Kass, Mr. Kass served as senior partner and global lead of the alternative investment globalization effort at KPMG, retiring from KPMG in September 2016.  Mr. Kass was Chairman of the Audit Committee and a member of the Board of Directors of Sun Bancorp, Inc. from 2012 to 2014, and was a member of the Board of Directors of AGN International from 1998 to 2014, serving as Global Chairman of the Board from 2001-2003.
+Mr. Kass brings to the Board, among other skills and qualifications, significant knowledge in the areas of finance, accounting, internal audit, risk management, corporate governance and Sarbanes-Oxley compliance. In addition, as CEO of Rothstein Kass during its sale to KPMG and subsequent integration, Mr. Kass is able to provide knowledge and insight into the successful integration of professional service organizations.
+Bruce W. Krehbiel was elected as a Director of the Company on October 1, 2009, following the merger with FCStone. From 1988 until the merger, he served as a Director of FCStone, including service as its Chairman and a member of its Board's Executive Committee. Mr. Krehbiel is the manager of Kanza Cooperative Association in Iuka, Kansas, and has worked for Kanza Cooperative Association since 1986. Mr. Krehbiel serves as a Director of Countryside Feed, L.L.C. in Hillsboro, Kansas, and has held Director positions on the boards of the Midwest Chapter of the National Society of Accountants for Cooperatives, CenKan, LLC, and Agri-Business Benefit Group.
+Mr. Krehbiel brings to the Board, among other skills and qualifications, significant management experience and knowledge in the areas of accounting, risk management similar to a significant portion of the Company's existing customer base, and services sought by that customer base. In addition, as the former Chairman of the Board of FCStone, Mr. Krehbiel is able to provide knowledge, guidance and insight into the multiple operations comprising the Company.
+Sean M. O'Connor joined the Company in October 2002 as Chief Executive Officer and was appointed as President in October 2015. In December 2002, he was elected to the Board of Directors. From 1994 until 2002, Mr. O'Connor was Chief Executive Officer of Standard New York Securities, a division of Standard Bank. From 1999 until 2002, Mr. O'Connor also served as Executive Director of Standard Bank London, Ltd., a United Kingdom bank and subsidiary of the Standard Bank of South Africa.
+The Board believes that Mr. O'Connor's strong leadership skills, extensive financial experience, and knowledge of the Company, its products and services is valuable to the Board. In 2002, Mr. O'Connor made a significant equity investment in the Company and since that time has led the Company and guided its successful strategy and growth. In addition to his other skills and qualifications, Mr. O'Connor's position as Chief Executive Officer and President serves as a valuable link between the management and vision of the Company and the Board of Directors, allowing the Board to perform its oversight role with the benefit of management's perspective on business, strategy and opportunities.
+Eric Parthemore was elected as a Director of the Company on October 1, 2009, following the merger with FCStone. He had previously served as a Director of FCStone since 1996, as Vice Chairman of FCStone since January 2007, and as a member of its Board's Executive Committee. He served as the Secretary and Treasurer of FCStone until January 2007. Mr. Parthemore recently retired as the President and Chief Executive Officer of Heritage Cooperative, Inc. in West Mansfield, Ohio. He held that position since September 2009 and had served in the same capacity with its predecessor company since 1996. Mr. Parthemore was appointed in January 2004 to serve on the Ohio Agricultural Commodity Advisory Commission by the Secretary of Agriculture in the State of Ohio and served on this Commission until 2015.  From 2009 to September 2017 Mr. Parthemore served on the National Grain Car Council of the Surface Transportation Board, an agency of the US Department of Transportation.
+Mr. Parthemore brings to the Board, among other skills and qualifications, significant management experience and knowledge in the areas of risk management similar to a significant portion of the Company's existing customer base, and services sought by that customer base. In addition, as the CEO of a large grain and supply cooperative involved in multiple mergers with similar organizations, Mr. Parthemore is able to provide knowledge, guidance and insight into successfully integrating the operations of multiple organizations at a time when the Company is also in the process of integrating multiple organizations.
+John Radziwill was elected as a Director of the Company in 2002 and serves as Chairman of the Board. Mr. Radziwill is currently a Director of Goldcrown Group Limited, Oryx International Growth Fund Limited, Fifth Street Capital (BVI) and Netsurion LLC (formerly VendorSafe Technologies Inc.). In the past five years, he has also served as a Director of PingTone Communications, Inc., Baltimore Capital Plc, Lionheart Group, Inc., USA Micro Cap Value Co. Ltd, Acquisitor Plc and Acquisitor Holdings (Bermuda) Ltd. Mr. Radziwill is a member of the Bar of England and Wales.
+Mr. Radziwill brings to the Board, among other skills and qualifications, significant management experience and knowledge in the areas of finance, accounting, and institutional investing, in particular in the small capitalization sector. In 2002, Mr. Radziwill, together with Mr. O'Connor and Mr. Branch, made a significant equity investment in the Company and, as an independent Director of the Company, has been closely involved in its development and growth. In addition, his background and current positions afford him the ability to bring an international perspective to the Board. This insight will be increasingly valuable as the Company continues to expand its international operations.
+THE BOARD OF DIRECTORS RECOMMENDS A VOTE "FOR" EACH NOMINEE.
+THE BOARD OF DIRECTORS AND ITS COMMITTEES
+The Company's Board of Directors is responsible for establishing broad corporate policies and for overseeing the overall management of the Company. In addition to considering various matters which require its approval, the Board of Directors provides advice and counsel to, and ultimately monitors the performance of, the Company's senior management.
+There are four standing committees of the Board of Directors-the Audit Committee, the Compensation Committee, the Nominating & Governance Committee and the Risk Committee. Committee assignments are re-evaluated annually and approved during the Board meeting that follows the annual meeting of shareholders. The Board of Directors has adopted charters for all of its standing Committees. Copies of these charters can be found on the Company's website at www.intlfcstone.com.
+During the fiscal year ended September 30, 2018, the Board of Directors held five meetings.  Each Director attended at least 75% of the regular Board meetings and Board committee meetings of which he was a member in 2018.
+The Company has adopted a formal policy regarding attendance by members of the Board of Directors at the Company's annual meeting of shareholders and at scheduled meetings of the Board of Directors. This policy is as follows:
+Attendance of Directors at Meetings
+The Board of Directors currently holds regularly scheduled meetings and calls for special meetings as necessary. Meetings of the Board may be held telephonically. Directors are expected to attend all Board meetings and meetings of the Committees of the Board on which they serve and to spend the time needed and meet as frequently as necessary to properly discharge their duties.
+Directors are also expected to attend the annual meeting of shareholders. The Board believes that Director attendance at shareholder meetings is appropriate and can assist Directors in carrying out their duties. When Directors attend shareholder meetings, they are able to hear directly shareholder concerns regarding the Company. It is understood that special circumstances may occasionally prevent a Director from attending a meeting.
+All of the Company's current Directors attended the 2018 annual meeting of the shareholders on February 14, 2018.
+Audit Committee
+The Audit Committee meets at least quarterly with the Company's management and independent accountants to, among other things, review the results of the annual audit and quarterly reviews and discuss the financial statements, select and engage the independent accountants, assess the adequacy of the Company's staff, management performance and procedures in connection with financial controls and receive and consider the accountants' comments on the Company's internal controls. The members of the Audit Committee during the 2018 fiscal year were: Daryl Henze (Chairman), Bruce Krehbiel, Edward Grzybowski and Steve Kass (following his election to the Board on February 14, 2018). The Audit Committee met eight times during the 2018 fiscal year.
+The Board has determined that at least one member of the Audit Committee who served during the Company's 2018 fiscal year, namely the Chairman of the Committee, Mr. Henze, is an "audit committee financial expert" within the meaning of Item 407(d)(5) of SEC Regulation S-K.
+Compensation Committee
+The Compensation Committee makes determinations concerning salaries and incentive compensation and otherwise determines compensation levels for the Company's executive officers and other key employees and performs such other functions regarding compensation as the Board may delegate. The members of the Compensation Committee during the 2018 fiscal year were: John M. Fowler (Chairman), Eric Parthemore and Paul Anderson. The Compensation Committee met four times during the 2018 fiscal year.
+The Compensation Committee administers the Company's stock option or other equity-based plans, including the review and grant of stock options or restricted stock to all eligible employees under the Company's existing plans, including a requirement that all restricted stock and options awards shall be subject to a minimum vesting period of three years, with one-third of the award vesting on each of the first, second and third anniversaries of the award, and subject to the provisions as specified with greater particularity in the Company's Restricted Stock Plan and the Company's Stock Option Plan as currently applicable.
+The Compensation Committee also administers the Company's stock option or other equity-based plans to ensure that there shall be no repricing of restricted stock or options once awarded, nor shall a buyout of underwater options be allowed.
+Risk Committee
+The Risk Committee meets at least quarterly to oversee the Company's risk management processes. This includes working with management to determine and assess the Company's philosophy and strategy towards risk management and mitigation. Management is responsible for the day-to-day management of risk under the direction of the Chief Risk Officer and the Risk department.  Management and the Chief Risk Officer reports regularly to the Risk Committee on current and emerging risks and the Company's approach to avoiding and mitigating risk exposure. The Risk Committee reviews the Company's most significant risks and whether management, including the Risk department of the Company, is responding consistently within the Company's overall risk management and mitigation strategy. The members of the Risk Committee during the 2018 fiscal year were: Edward Grzybowski (Chairman), Daryl Henze, Paul Anderson and Steve Kass (following his election to the Board on February 14, 2018).  The Risk Committee met four times during the 2018 fiscal year.
+Nominating & Governance Committee
+The Nominating & Governance Committee reviews and evaluates the effectiveness of the Company's executive development and succession planning processes, and also provides active leadership and oversight of these processes.  Additionally, the Nominating & Governance Committee evaluates and recommends nominees for membership on the Company's Board of Directors and its committees and develops and recommends to the Board a set of effective corporate governance policies and procedures.
+The members of the Nominating & Governance Committee during the 2018 fiscal year were: Eric Parthemore (Chairman), John M. Fowler and Bruce Krehbiel. The Committee met five times during the 2018 fiscal year.
+In September 2005, the Board of Directors adopted a formal policy concerning shareholder recommendations for candidates as nominees to the Board of Directors. The policy has been incorporated into the charter of the Nominating & Governance Committee which is posted on the Company's website. The policy is as follows:
+The Nominating & Governance Committee is charged with recommending to the entire board a slate of Director nominees for election at each annual meeting of the shareholders. Candidates for Director nominees are selected for their character, judgment and business experience.
+The Committee will consider recommendations from the Company's shareholders when establishing the slate of Director nominees to be submitted to the entire Board. Such recommendations will be evaluated by the Committee using the same process and criteria that are used for recommendations received from Directors and executive officers. The Committee will consider issues of diversity, experience, skills, familiarity with ethical and corporate governance issues which the Company faces in the current environment, and other relevant factors. The Committee will make these determinations in the context of the perceived needs of the Company at the time.
+Procedures by which Shareholders may Submit Nominees for Director
+For a shareholder to recommend a Director nominee to the Committee, the shareholder should send the recommendation to the Chairman of the Nominating & Governance Committee, c/o Corporate Secretary, INTL FCStone Inc., 1251 NW Briarcliff Parkway, Suite 800, Kansas City, Missouri 64116. The recommendation should include (a) the name, address and telephone number of the potential nominee; (b) a statement regarding the potential nominee's background, experience, expertise and qualifications; (c) a signed statement from the potential nominee confirming his or her willingness and ability to serve as a Director and abide by the corporate governance policies of the Company (including its Code of Ethics) and his or her availability for a personal interview with the Committee; and (d) evidence establishing that the person making the recommendation is a shareholder of the Company.
+Recommendations which comply with the foregoing procedures and which are received by the Corporate Secretary before September 1 in any year will be forwarded to the Chairman of the Nominating & Governance Committee for review and consideration by the Committee for inclusion in the slate of Director nominees to be recommended to the entire Board for presentation at the annual meeting of shareholders in the following year. In evaluating Director nominees, the Nominating & Governance Committee considers the following factors:
+[BEGIN TABLE]
+• the appropriate size of the Company's Board of Directors; 
+• the needs of the Company with respect to the particular talents and experience of its Directors; 
+• the knowledge, skills and experience of nominees, including experience in commodities and securities markets, business, finance, administration or public service, in light of prevailing business conditions and the knowledge, skills and experience already possessed by other members of the Board; 
+• familiarity with national and international business matters; 
+• experience with accounting rules and practices; and 
+• the desire to balance the considerable benefit of continuity with the periodic injection of the fresh and diverse perspectives provided by new members. 
+[END TABLE]
+The Nominating & Governance Committee's goal is to assemble a Board of Directors that brings to the Company a variety of perspectives and skills derived from high quality business and professional experience.
+Other than the foregoing, there are no stated minimum criteria for Director nominees, although the Nominating & Governance Committee may also consider such other factors as it may deem are in the best interests of the Company and its shareholders. The Nominating & Governance Committee also believes that it is appropriate for certain key members of the Company's management to serve as Directors.
+The Nominating & Governance Committee identifies nominees by first evaluating the current members of the Board of Directors who are willing to continue in service. Current members of the Board with skills and experience that are relevant to the Company's business and who are willing to continue in service are considered for re-nomination, balancing the value of continuity of service by existing members of the Board with that of obtaining a new perspective. If any member of the Board does not wish to continue in service or if the Nominating & Governance Committee or the Board decides not to re-nominate a member for re-election, the Nominating & Governance Committee identifies the desired skills and experience of a new nominee in light of the criteria above. Current members of the Nominating & Governance Committee and Board of Directors are polled for suggestions as to individuals meeting the criteria of the Nominating & Governance Committee. Research may also be performed to identify qualified individuals.
+In consideration of the growth of the Company and the expanded international scope of the Company, the Company strives to increase the diversity on the Board of Directors. The Company retained Diversified Search during the 2018 fiscal year to assist in identifying and evaluating high-quality and compatible potential nominees to the Board of Directors.
+Shareholder Communications with Non-Management Members of the Board
+The Company has adopted a formal process for shareholder communications with the independent members of the Board. The policy, which is available on the Company's website, www.intlfcstone.com, is as follows:
+Interested parties are invited to communicate with the non-management members of the Board by sending correspondence to the non-management members of the Board of Directors, c/o Corporate Secretary, INTL FCStone Inc., 1251 NW Briarcliff Parkway, Suite 800, Kansas City, Missouri 64116 or via e-mail to board@intlfcstone.com.
+The Corporate Secretary will review all such correspondence and forward to the non-management members of the Board a summary of all such correspondence received during the prior month and copies of all such correspondence that deals with the functions of the Board or committees thereof or that otherwise is determined to require attention of the non-management Directors. Non-management Directors may at any time review the log of all correspondence received by the Company that is addressed to the non-management members of the Board and request copies of any such correspondence. Concerns relating to accounting, internal controls or auditing matters will immediately be brought to the attention of the Chairman of the Audit Committee.
+Board Leadership
+A substantial majority of the members of the Board of Directors are independent Directors (eight of ten during fiscal year 2018 and seven of nine of the Directors to be voted upon at the 2019 Annual Shareholders' Meeting).  The four Board committees - Audit, Nominating and Governance, Compensation and Risk - are comprised solely of and chaired by independent Directors; and at each regularly scheduled Board meeting, the non-management Directors meet in executive session without management Directors. The position of Chairman of the Board is separated from Chief Executive Officer, and the Chairman of the Board position is held by an independent Director.
+Board's Role of Risk Oversight
+The Risk Committee meets at least quarterly to oversee the Company's risk management processes. This includes working with management to determine and assess the Company's philosophy and strategy towards risk management and mitigation. Management is responsible for the day-to-day management of risk under the direction of the Chief Risk Officer and the Risk department.  Management and the Chief Risk Officer reports regularly to the Risk Committee on current and emerging risks and the Company's approach to avoiding and mitigating risk exposure. The Risk Committee reviews the Company's most significant risks and whether management, including the Risk department of the Company, is responding consistently within the Company's overall risk management and mitigation strategy.
+The Compensation Committee of the Board monitors the compensation programs of the Company, including reviewing the relationship between the Company's risk management policies and practices and compensation arrangements. Credit losses and trading losses are considered in the calculation of variable compensation of executives and Company revenue producers, and negative balances in one period are carried forward to succeeding periods in the calculation of bonuses for revenue producers. The Company periodically changes or adapts its compensation policies to address the specific risk profile of each business unit.
+The Audit Committee of the Board oversees the Internal Audit department of the Company, including that department's review of the business continuity, disaster recovery, data privacy and cybersecurity efforts of the Company and its subsidiaries.  The Board also receives reports from the Company's information technology department on business continuity, disaster recovery, data privacy and cybersecurity efforts.
+Board and Committee Evaluation
+The Nominating & Governance Committee annually reviews and evaluates the performance of the Board of Directors.  The Committee surveys all Board members on multiple subject areas, and the survey results are used to evaluate the Board's contribution as a whole and its effectiveness with respect to particular subject areas.  Particular attention is given to subject areas which the Committee or Board believes for any reason warrant further attention.  The purpose of the review is to increase the effectiveness of the Board, and the results are reviewed with the full Board.
+In addition, each committee conducts an annual self-evaluation through the use of a survey completed by the members of each committee.  The committee self-evaluations review whether and how well each committee has performed the responsibilities in its charter, whether there are sufficient meetings covering the necessary topics, whether the meeting materials are effective, and other matters.  As with the Board evaluation, particular attention is given to subject areas which the particular committee or Board believes for any reason warrant further attention.  
+Director Education
+Continuing director education is provided in conjunction with regular Board meetings and focuses on topics necessary to enable the Board to effectively evaluate issues before the Board.  The education takes the form of management and key staff presentations covering timely subjects and topics, along with in-depth reviews of key business units and geographic regions serviced by the Company and its subsidiaries. 
+Director Financial Interest in the Company
+The Nominating & Governance Committee Charter establishes the responsibility of the Committee to administer and monitor a policy that Directors shall at all times have a financial interest in Company stock by owning vested Company stock at least equal in value to 10% of their most recent year's Director's compensation as at the first anniversary of their appointment, 20% as at the second anniversary and 30% as at the third anniversary, such 30% level to be maintained thereafter.
+BOARD MEMBER INDEPENDENCE
+The Board of Directors annually determines the independence of Directors based upon a review conducted by the Nominating & Governance Committee and the Board. No Director is considered independent if he or she is an executive officer or employee of the Company or has a relationship which, in the opinion of the Company's Board of Directors, would interfere with the exercise of independent judgment in carrying out the responsibilities of a Director.
+The Board of Directors has determined that, in its judgment as of the date of this Proxy Statement, each of the Company's Directors, other than Sean O'Connor and Scott Branch, is an independent Director within the meaning of Rule 5600 of the NASDAQ Stock Exchange. Accordingly, all of the members of the Audit, Compensation, Risk and Nominating & Governance Committees are independent within the meaning of NASDAQ Rule 5600.
+EXECUTIVE COMPENSATION -
+COMPENSATION DISCUSSION AND ANALYSIS
+This section contains a discussion of the Company's executive compensation program, including the objectives of the program, the policies underlying the program, the types of compensation provided by the program, and how the Company determined the compensation paid to each named executive officer.
+Background
+The Company's Compensation Committee has primary responsibility for the design and implementation of the Company's executive compensation program. The Committee directly determines the compensation for the Company's principal executive officers. The Committee receives recommendations from the Chief Executive Officer regarding the compensation of the President, the Chief Financial Officer, certain executive officers of the Company, certain executive officers of major subsidiaries, and supervises and reviews the compensation for the Company's other executive officers. The salaries for those officers are currently determined by one or more of the Company's principal executive officers.
+The Compensation Committee has considered the results of the most recent shareholder advisory vote on executive compensation required by Section 14A of the Exchange Act in determining the Company's compensation policies and decisions.  In this regard, at the Company's 2018 annual meeting, the shareholders voted on a non-binding resolution to approve the compensation awarded by the Company to the Company's named executive officers ("say-on-pay") as described in the Compensation Discussion & Analysis ("CD&A"), tabular disclosures, and other narrative executive compensation disclosures in the proxy statement for the 2018 annual meeting.  At the 2018 annual meeting, approximately 94.8% of the votes on the say-on-pay proposal were voted in favor of the proposal.  Furthermore, at the 2016 annual meeting, approximately 98% of the votes on the 2016 Executive Performance Plan proposal were voted in favor of the proposal, and approximately 98% of the votes on the 2016 Long-Term Performance Incentive Plan proposal were voted in favor of the proposal.  Based upon these results, the Compensation Committee has concluded that the Company's shareholders generally support the principal elements of the compensation program adopted by the Compensation Committee.  The Committee has relied in part on that conclusion in continuing the principal elements of the compensation program in 2018.
+At the 2017 annual meeting, the shareholders voted on a non-binding resolution to determine whether the advisory shareholder vote on say-on-pay should occur every one, two or three years ("say-on-frequency").  Approximately 59% of the votes on the say-on-frequency proposal voted in favor of a vote every year.  Based upon the results of the say-on-frequency vote, the Board has determined to hold the say-on-pay vote annually.
+At the 2017 annual meeting, the shareholders also voted on the Company's 2017 Restricted Stock Plan.  Approximately 93% of the votes on the Restricted Stock Plan proposal voted in favor of the Plan.
+For the 2018 fiscal year, the five named executive officers were Sean M. O'Connor, who served as the Chief Executive Officer and President, William J. Dunaway, who served as the Chief Financial Officer, Philip Smith, Chief Executive Officer of INTL FCStone Ltd, Xuong Nguyen, who served as Chief Operating Officer of the Company, and Charles Lyon, Executive Vice President of INTL FCStone Financial Inc.
+The Company designed its executive compensation program to reflect its vital need to attract and retain executives with specific skills and experience in the various businesses operated by the Company. In this regard, the success of these businesses is directly dependent on the ability of the Company's executives to generate operating income with an appropriate level of risk. The Company competes with larger and better capitalized companies for individuals with the required skills and experience. As a result, the Company must have a compensation program which provides its executives with a competitive level of compensation relative to the compensation available from the Company's competitors.
+The Company also designed its executive compensation program to reward executives based on their contribution to the Company's success. The Compensation Committee believes that a compensation program which relies heavily on performance-based compensation will both maximize the efforts of the Company's executives and align the interests of executives with those of shareholders. This form of compensation also allows the Company to compete for talented individuals since it is common in the financial services industry.
+During the 2015 fiscal year, the Compensation Committee retained the services of McLagan, a compensation consulting firm, to advise the Committee on compensation levels of the Company's executive employees in relation to competitors in the financial industry; and to advise on adjustments to executive compensation packages with a view to including a long-term retention feature.  McLagan confirmed the Committee's evaluation that the Company's executive compensation was modest in the financial industry, and while adequate in providing for base compensation and bonuses based upon the Company's performance, the program lacked a long-term component.  The Committee determined that adding a long-term component will assist the Company in attracting and retaining senior executives, along with benefitting the shareholders of the Company by focusing the senior executives on the long-term performance of the Company.  To that end, McLagan assisted the Committee during the 2016 fiscal year in updating the Company's executive performance plan and in developing a long-term incentive plan.  As noted above, the INTL FCStone Inc. 2016 Executive Performance Plan and the INTL FCStone Inc. 2016 Long-Term Performance Incentive Plan were approved by the shareholders at the 2016 Annual Meeting.  McLagan and its affiliates did not provide any other services to the Company or its affiliates during the 2018 fiscal year.
+Objectives of the Company's Executive Compensation Program
+The Company's executive compensation program is designed to meet three principal objectives:
+• to provide competitive levels of compensation to attract and retain talented executives,
+• to provide compensation which reflects the contribution made by each executive to the Company's success, and
+• to encourage long-term service to the Company by awarding equity-based compensation.
+Attract and Retain Talented Employees
+The Company's success depends on the leadership of senior executives and the skills and experience of its other executives. In order to attract and retain highly capable individuals, the Company needs to ensure that the Company's compensation program provides competitive levels of compensation. Therefore, the Compensation Committee seeks to provide executives with compensation that is similar to the compensation paid by other financial services firms.
+Provide Compensation Based on Performance
+The Company believes that its continued success requires it to reward individuals based upon their contribution to the Company's success. Accordingly, a substantial portion of each executive's compensation is in the form of bonuses, which are based on both objective and subjective criteria.
+Encourage Long-Term Service through Equity Awards
+The Company seeks to encourage long-term service by making equity awards to the Company's executives. In the case of the principal executive officers, the Compensation Committee has elected to award a portion of the executive's bonus in the form of restricted stock. In the case of other executives, the Compensation Committee offers the executives the right to receive a portion of their bonuses in the form of restricted stock.
+What the Executive Compensation Program is Designed to Reward
+By linking compensation opportunities to performance of the Company as a whole, the Company believes the Company's compensation program encourages and rewards:
+• efforts by each executive to enhance firm-wide productivity and profitability
+• entrepreneurial behavior by each executive to maximize long-term equity value in the interest of all shareholders
+Clawback Policy
+The Board of Directors of the Company has adopted an executive compensation clawback policy which is administered by the Company's Compensation Committee.
+Elements of Compensation
+The Company's executive compensation program provides for the following elements of compensation:
+• base salary
+• bonus under an established bonus plan with objective criteria
+• a long-term performance incentive plan
+• discretionary bonus based on subjective criteria
+• health insurance and similar benefits
+Base Salary
+The Company pays each executive officer an annual base salary to provide the executive with a predictable level of income and enable the executive to meet living expenses and financial commitments. The Compensation Committee views base salary as a way to provide a non-performance-based element of compensation that is certain and predictable. The Compensation Committee believes the base salaries paid to the Company's executive officers in 2018 were modest compared to other financial service firms.  The 2018 base salaries for the named executive officers were unchanged from 2017.
+The annual base salary for Sean M. O'Connor in 2018 was $500,000.  The annual base salary for William J. Dunaway in 2018 was $300,000.  The annual base salaries for Philip Smith, Xuong Nguyen and Charles Lyon in 2017 were $325,000.  
+Executive Performance Plan
+The Company adopted the current Executive Performance Plan (the "EPP") in 2018 to provide bonuses to designated executives based upon objective criteria. The plan's structure satisfies the requirements for performance-based compensation within the meaning of Section 162(m) of the Internal Revenue Code so that the compensation is deductible for federal income tax purposes. The EPP permits awards to be paid in cash, restricted stock or a combination of both.
+The Company utilizes the EPP to reward the Company's five principal executive officers and three executive officers of wholly-owned subsidiaries. Bonuses paid under the EPP are objective and are based on criteria established by the Company in advance. The Compensation Committee's goal is to utilize bonuses under the EPP as the Company's principal tool for encouraging executives to maximize productivity and profitability. Awards under the plan provide executives with an incentive to focus on aspects of the Company's performance that the Compensation Committee believes are key to the Company's success.
+The Compensation Committee administers the EPP and has responsibility for designations of eligible participants and establishing specific "performance targets" for each participant in the plan. The performance targets may be based on one or more of the following business criteria, or on any combination of these criteria:
+• increase in share price
+• adjusted return on equity
+• control of fixed costs
+• control of variable costs
+• adjusted EBITDA growth
+For the 2018 fiscal year, Adjusted Return on Equity was the only performance target established and used by the Compensation Committee.
+The targets must be established while the performance relative to the target remains substantially uncertain within the meaning of Section 162(m).
+With respect to adjusted return on equity and adjusted EBITDA growth, the plan generally requires that adjustments be made to return on equity or EBITDA, as the case may be, when determining whether the applicable performance targets have been met, so as to eliminate, in whole or in part, in any manner specified by the Committee at the time the performance targets are established, the gain, loss, income and/or expense resulting from the following items:
+[BEGIN TABLE]
+• changes in accounting principles that become effective during the performance period; 
+• extraordinary, unusual or infrequently occurring events reported in the Company's public filings, excluding early extinguishment of debt; and 
+• the disposal of a business, in whole or in part. 
+[END TABLE]
+The Committee may, however, provide at the time the performance targets are established that one or more of these adjustments will not be made as to a specific award or awards.
+In addition, the Committee may determine at the time the goals are established that other adjustments will be made under the selected business criteria and applicable performance targets to take into account, in whole or in part, in any manner specified by the Committee, any one or more of the following:
+• gain or loss from all or certain claims and/or litigation and insurance recoveries;
+• the impact of impairment of tangible or intangible assets;
+• restructuring activities reported in the Company's public filings; and
+• the impact of investments or acquisitions.
+Each of these adjustments may relate to the Company as a whole or any part of the Company's business or operations, as determined by the Committee when it establishes the performance targets. The Committee determines the adjustments in accordance with generally accepted accounting principles, unless the Committee designates another objective method of measurement. Finally, adjustments will be made as necessary to any business criteria related to the Company's stock to reflect changes in corporate capitalization, such as stock splits and certain reorganizations.
+Concurrently with the selection of performance targets, the Committee must establish an objective formula or standard for calculating the maximum bonus payable to each participating executive officer. Under the plan, the maximum bonus for each fiscal year may not exceed $5,000,000 for any executive.
+Over the five-year term of the plan, the maximum per participant amounts are thus $25,000,000 for each executive. Notwithstanding this overall maximum, the Committee has sole discretion to determine, pursuant to its "negative discretion," whether to actually pay any of or the entire maximum permissible bonus or to defer payment or vesting of any bonus, subject in each case to the plan's terms and any other written commitment authorized by the Committee. The Committee may also exercise its negative discretion by establishing additional conditions and terms of payment of bonuses, including the achievement of other financial, strategic or individual goals, which may be objective or subjective, as it deems appropriate. Although the Committee may waive these additional conditions and terms, it may not waive the basic performance target as to the business criterion chosen for any particular period.
+Bonuses will be paid in either cash or a combination of cash and restricted stock on a basis to be established by the Committee.  The specific proportion of bonus to be received in the form of restricted stock is subject to amendment by the Committee from time to time.  The proportions utilized for the 2018 fiscal year were as follows:
+[BEGIN TABLE]
+• amounts from 0 - $200,000:  15% 
+• amounts from $200,000 - $400,000:  20% 
+• amounts from $400,000 - $600,000:  25% 
+• amounts above $600,000:  30% 
+[END TABLE]
+In general, restricted stock is a grant of stock that is subject to forfeiture if specified vesting requirements are not satisfied.  The current vesting requirements are set forth in the following paragraph.
+If any portion of a bonus is payable in the form of restricted stock, then the restricted stock will be issued to the executive at a discount of 25% to the market value of the Company's common stock (determined as of the date that is 75 days following the end of the applicable performance period, or, if the committee has not determined the bonus by this date, 15 days after the amount of the bonus is determined and certified by the Committee). These shares of restricted stock will vest at the rate of one-third per year on each of the first, second and third anniversaries of the award, all as specified with greater particularity in an award agreement to be entered into in accordance with the Company's Restricted Stock Plan. In its discretion, the Committee may waive these provisions and elect to pay 100% of any bonus payable under the plan, regardless of amount, entirely in cash (for example, in the case of a participant who already holds a substantial number of shares). Likewise, in its discretion, the Committee may alter the vesting period or reduce the discount applicable to any restricted stock award.
+In the event sufficient shares are not available pursuant to the Restricted Stock Plan, then the entire bonus will be payable in cash.
+The performance plan may from time to time be amended, suspended or terminated, in whole or in part, by the Board of Directors or the Committee, but no amendment will be effective without Board and/or shareholder approval if such approval is required to satisfy the requirements of Section 162(m).
+Application of Executive Performance Plan in 2018
+For 2018, the Compensation Committee selected Sean M. O'Connor and William J. Dunaway to be participants in the Executive Performance Plan. Six additional executives, including Philip Smith, Chief Executive Officer of subsidiary INTL FCStone Ltd, Xuong Nguyen, Chief Operating Officer of the Company, and Charles Lyon, Executive Vice President of subsidiary INTL FCStone Financial Inc., are also participants in the Executive Performance Plan. The potential bonuses for the participants was based on the adjusted return on equity. No bonus was to be earned under the Plan unless the adjusted return on equity for 2018 was at least 6.0%.
+The potential bonus for Mr. O'Connor based on this performance target is set forth in the following table. The potential bonuses for Messrs. Dunaway, Smith, Nguyen and Lyon were a pro-rata portion of these amounts, based upon targets established by the Compensation Committee.
+[BEGIN TABLE]
+Executive Performance Plan - Fiscal 2018 
+Performance Target 
+Adjusted Return on Equity Target Target Bonus 
+Less than 6.0% None 
+6% $450,000 
+For every additional 10 b.p., add $8,750 
+8% $625,000 
+For every additional 10 b.p., add $13,750 
+10% $900,000 
+For every additional 10 b.p., add $18,000 
+12.5% $1,350,000 
+For every additional 10 b.p., add $20,000 
+15% $1,850,000 
+For every additional 10 b.p., add $22,000 
+17.5% $2,400,000 
+For every additional 10 b.p., add $24,000 
+20% $3,000,000 
+For every additional 10 b.p., add $39,000 
+[END TABLE]
+Bonuses Earned under Executive Performance Plan for 2018
+Based upon the Company's results for 2018, the amount of bonuses earned under the EPP by the five named executive officers were as follows:
+[BEGIN TABLE]
+Bonuses Earned under 2018 Executive Performance Plan 
+Name Nominal Amount (1) Cash Amount (2) Restricted Shares (3) 
+(#) Value 
+Sean O'Connor $ 2,000,000   $ 1,460,000   19,063   $ 720,010   
+William Dunaway $ 1,000,000   $ 760,000   8,473   $ 320,025   
+Philip Smith $ 1,200,000   $ 900,000   10,591   $ 400,022   
+Xuong Nguyen $ 1,100,000   $ 830,000   9,532   $ 360,024   
+Charles Lyon $ 1,200,000   $ 900,000   10,591   $ 400,022   
+[END TABLE]
+(1)    This column sets forth the nominal amount of the bonus earned by each executive under the plan in 2018. A portion of this amount was paid in the form of a cash bonus and the balance was paid in the form of restricted stock valued at a discount of 25% to the market value of the Company's common stock.
+(2)    This column sets forth the cash amount earned by each executive under the plan in 2018.  These amounts were paid in fiscal 2019.
+(3)    This column sets forth the number of shares of restricted stock awarded to each executive and the value of the shares calculated in accordance with the Stock Compensation Topic of the Accounting Standards Codification. These shares vest over a period of three years. These shares were granted on December 14, 2018, and had a fair market value of $37.77 per share on the date of grant.
+Long-Term Performance Incentive Plan
+The Board of Directors and the Compensation Committee approved a long-term performance incentive plan ("LTIP") for executive officers and other key employees or officers who are, or in the opinion of the Compensation Committee may become, executive officers.  The LTIP was presented to and approved by the shareholders at the 2016 Annual Meeting.
+The purpose of the LTIP is to promote the interests of the Company by enabling the Company to provide participating executives with appropriate incentives to encourage them to continue in the employment of the Company and to promote the Company's long-term growth, stability and profitability.  It is intended that the LTIP will assist the Company in balancing risk and financial results in a manner that does not encourage participating executives to expose the Company to imprudent risks.  Furthermore, since the LTIP has longer-term performance periods with payouts linked to future performance in certain key business criteria, the Compensation Committee views the LTIP separately from annual compensation to the participating executives.
+The LTIP is also structured to promote the interests of the Company by providing performance incentives in a manner that preserves, for tax purposes, the Company's ability to deduct that compensation.  The LTIP is structured to satisfy the requirements for performance-based compensation within the meaning of Section 162(m) of the Internal Revenue Code and related IRS regulations.  Section 162(m) requires that the certain material terms of the LTIP, including the eligibility, business criteria and maximum amounts payable, be approved by the Company's shareholders.  The LTIP establishes that awards are to be paid in cash.
+The Compensation Committee will administer the LTIP and is charged with the discretion and responsibility for designating eligible participants and establishing specific "performance measures" for each participant in the LTIP.  The performance measures may be based on one or more of the following business criteria, or on any combination thereof, on a consolidated basis:
+[BEGIN TABLE]
+• return on equity 
+• EBITDA growth 
+• return on common equity 
+• total shareholder return 
+• market price of the Company's common stock or the market price, face amount or discounted value of other debt or equity securities 
+• book value per share 
+• tangible book value per share 
+• earnings per share 
+• net income 
+• pre-tax operating income 
+• net revenues 
+• pre-tax earnings 
+[END TABLE]
+[BEGIN TABLE]
+• debt -to-equity ratio 
+[END TABLE]
+The measures must be established while the performance relative to the measure remains substantially uncertain within the meaning of Section 162(m).  The performance periods are expected typically to be five fiscal years, but may be a longer or shorter period of time.
+The amounts to be paid under the LTIP may vary based on, be indexed to, or be conditioned all or in part on, the satisfaction of one or more of the performance measures, which performance measures may relate to such measures or combination of measures of individual performance and/or the Company's performance (including, without limitation, any divisional, business unit or other performance) as the Compensation Committee deems appropriate at the time the performance measures are established.  The performance measures may be absolute or relative, and may include, without limitation, risk-based adjustments or adjustments for items that are unusual in nature or infrequent in occurrence.  The adjustments as determined by the Compensation Committee are to be determined in accordance with generally accepted accounting principles, unless another objective method of measurement is designated by the Compensation Committee.
+Concurrently with the selection of performance measures, the Compensation Committee must establish an objective formula or standard for calculating the amount payable to each participating executive officer, including the calculation of a maximum amount.  In any fiscal year, the maximum amount payable under the LTIP, together with the maximum bonus payable in such fiscal year, may not exceed the amount stated as the "Maximum Individual Bonus" under the INTL FCStone Inc. 2016 Executive Performance Plan.
+The Compensation Committee has made awards to participating executive officers, effective October 1, 2015, equal to 100% of their respective base salaries, with an award period of five fiscal years and a payout amount at the end of the award period that is dependent on an annual interest factor and the Company's average return on Equity ("ROE") over the award period.
+The LTIP awards are calculated in three steps, as follows:
+[BEGIN TABLE]
+• Step 1: The Compensation Committee determines the LTIP award's initial notional value based upon the participating executive's roles and responsibilities in the Company's performance and the executive's ability to impact future performance. 
+• Step 2: On an annual basis, the LTIP award's notional value is increased by an earnings factor ("Interest") equal to the higher of (a) the Company's effective borrowing rate for a given year, or (b) the Company's return on equity ("ROE"), provided that if the amount determined under (a) or (b) is determined to be a percentage that is below 3%, then the Interest shall be 3%, and provided further that if the amount determined under (a) or (b) is determined to be a percentage that is above 15%, then the Interest shall be 15%. 
+• Step 3: The LTIP award will be either increased or decreased by a Performance Adjustment factor.  The amount of increase or decrease, if any, in the award due to the Performance Adjustment will be equal to the total amount of the Award at expiration of a predetermined award period, including all accrued Interest, multiplied by a percentage tied, for the currently proposed award, to the average ROE over the award period, as established within the following table: 
+[END TABLE]
+[BEGIN TABLE]
+Average ROE† p.a. over Award Period% Payout of Award plus Interest 
+0%* 0% 
+1%* 25% 
+2%* 45% 
+3%* 60% 
+4%* 70% 
+5% to 10% 75 to 100%, ratably 
+10% to 15% 100% to 125%, ratably 
+[END TABLE]
+† For the purposes of calculating average ROE, a negative ROE in any year shall be considered to be zero.
+* Percentage payout of Award plus Interest to be ratable per percentage ROE.
+The Compensation Committee has the discretion each year, for every new award, to change the award amount, the award period and the performance measure or measures on which the performance adjustment is based.  For the 2017 fiscal year, the Compensation Committee has determined not to make any additional changes to the LTIP.
+The Committee also has the discretion, under the LTIP, to offer participating executives the right to make a voluntary irrevocable election to defer a portion of their annual base salary or bonus, in return for an opportunity to earn a performance-based interest accrual on the deferred amount.  Generally, this voluntary election, if offered, must be submitted during an enrollment period in August or September of the preceding year and cannot be changed after September 30 of that preceding year.  Any deferred compensation will be increased annually by the earnings factor ("Interest") as described within Step 2 above.
+The LTIP may from time to time be amended, suspended or terminated, in whole or in part, by the Board of Directors or the Committee, but no amendment will be effective without Board and/or shareholder approval if such approval is required to satisfy the requirements of Section 162(m).
+The compensation award based upon the LTIP is included within the Summary Compensation Table.  
+Discretionary Bonuses
+The Company may award discretionary bonuses to its executives based on a subjective evaluation of the executive's performance and the overall performance of the Company. Such awards are independent of the Executive Performance Plan.
+In 2018, the Compensation Committee did not award discretionary bonuses to the eight executive officers covered under the EPP.  
+Other Benefits
+The Company provides medical, life insurance, disability, 401(k), pension and other similar benefits to executives and other employees. The Company intends these benefits to be generally competitive to help in the Company's efforts to recruit and retain talented executives. The Company's executives participate in these benefit programs on the same basis as all of the Company's other employees. 
+Additional Incentive Compensation 
+In December 2011, the Compensation Committee elected to award additional incentive compensation to certain executive officers, including the five named executive officers. The Committee made these awards in conjunction with its annual review of the compensation program for the Company's executive officers.  During this review, the Committee noted that the Company had not granted stock options or similar long-term incentive compensation to the senior executives since 2008. The Committee determined that the Company should periodically make such awards to the senior executive officers to provide them with incentives based upon the long-term success of the Company. The awards consisted of stock options.  No subsequent option awards have been made to the named executive officers.
+Summary Compensation Table
+The following table sets forth information concerning the compensation of the Company's (a) Principal Executive Officer, (b) Principal Financial Officer, and (c) the other three most highly compensated executive officers as specified by SEC rules (the "named executive officers") for the 2018, 2017 and 2016 fiscal years.
+[BEGIN TABLE]
+Name and Principal Position Fiscal Year Salary ($)Bonus ($)(1)  Stock Awards ($)(2)  Option Awards ($) (3)Non-Equity Incentive Plan Compensation ($) (4)  All Other Compensation ($) (5)Total ($) 
+Name and Principal Position Fiscal Year Salary ($)Bonus ($)(1)  Stock Awards ($)(2)  Option Awards ($) (3)Non-Equity Incentive Plan Compensation ($) (4)  All Other Compensation ($) (5)Total ($) 
+Name and Principal Position Fiscal Year Salary ($)Bonus ($)(1)  Stock Awards ($)(2)  Option Awards ($) (3)Non-Equity Incentive Plan Compensation ($) (4)  All Other Compensation ($) (5)Total ($) 
+Sean M. O'Connor Director, Chief Executive Officer and President 2018 500,000   —   —   —   2,146,598   34,464   2,681,062   
+2017 500,000   —   516,012   —   103,992   26,297   1,146,301   
+2016 500,000   —   702,479   —   1,295,560   23,320   2,521,359   
+William J. Dunaway Chief Financial Officer2018 300,000   —   —   —   1,171,959   11,250   1,483,209   
+2017 300,000   —   218,002   —   62,395   11,250   591,647   
+2016 300,000   —   311,232   —   697,036   12,187   1,320,455   
+Philip Smith      Chief Executive Officer of INTL FCStone Ltd 2018 323,937   —   —   —   1,346,289   32,394   1,702,620   
+2017 295,652   —   277,622   —   67,595   29,565   670,434   
+2016 300,254   —   389,508   —   810,964   30,025   1,530,751   
+Xuong Nguyen Chief Operating Officer 2018 325,000   —   —   —   1,276,289   11,562   1,612,851   
+2017 325,000   —   247,834   —   67,595   11,250   651,679   
+2016 325,000   —   389,508   —   758,814   11,250   1,484,572   
+Charles Lyon Executive Vice President of INTL FCStone Financial Inc. 2018 325,000   —   —   —   1,346,289   13,605   1,684,894   
+2017 325,000   —   277,622   —   67,595   11,250   681,467   
+2016 —   —   —   —   —   —   —   
+[END TABLE]
+The following table sets forth information on plan based awards granted in the 2018 fiscal year to each of the Company's named executive officers. There can be no assurance that the amounts disclosed below will ever be realized. The amount of these equity awards that were granted, and the amount of the non-equity awards that were earned in 2018, are shown in the Summary Compensation Table on page 21.
+[BEGIN TABLE]
+        Estimated Future Payouts Under Non-Equity Incentive Plan AwardsEstimated Future Payouts Under Equity Incentive Plan AwardsAll other Stock Awards:All Other Option Awards:    
+        Estimated Future Payouts Under Non-Equity Incentive Plan AwardsEstimated Future Payouts Under Equity Incentive Plan AwardsAll other Stock Awards:All Other Option Awards:    
+        Number of Shares of Stock or Units(#)(2) Number of Securities Under- lying Options (#)Exercise or Base Price of Option Awards ($/Sh)Grant Date Fair Value of Stock and Option Awards ($)
+        Number of Shares of Stock or Units(#)(2) Number of Securities Under- lying Options (#)Exercise or Base Price of Option Awards ($/Sh)Grant Date Fair Value of Stock and Option Awards ($)
+        Number of Shares of Stock or Units(#)(2) Number of Securities Under- lying Options (#)Exercise or Base Price of Option Awards ($/Sh)Grant Date Fair Value of Stock and Option Awards ($)
+Name Type of Award Grant DateApproval DateTarget ($)Maximum ($) (1)Target Units(#)Maximum Units (#)
+Name Type of Award Grant DateApproval DateTarget ($)Maximum ($) (1)Target Units(#)Maximum Units (#)
+Sean M. O'Connor EPP n/a n/a   5,000,000       —       —   
+  LTIP                   
+William J. Dunaway EPP n/a n/a   5,000,000       —       —   
+  LTIP                   
+Philip Smith EPP n/a n/a   5,000,000       —       —   
+  LTIP                   
+Xuong Nguyen EPP n/a n/a   5,000,000       —       —   
+  LTIP                   
+Charles Lyon EPP n/a n/a   5,000,000       —       —   
+  LTIP                   
+     Option Awards   Stock Awards 
+Name    Number of Securities Underlying Unexercised Options (#) Exercisable  Number of Securities Underlying Unexercised Options (#) Unexercisable  Option Exercise  Price ($)  Option Expiration Date  Number of Shares or Units of Stock That Have Not Vested (#)  Market Value of Shares or Units of Stock That Have Not Vested ($) (3)
+Name    Number of Securities Underlying Unexercised Options (#) Exercisable  Number of Securities Underlying Unexercised Options (#) Unexercisable  Option Exercise  Price ($)  Option Expiration Date  Number of Shares or Units of Stock That Have Not Vested (#)  Market Value of Shares or Units of Stock That Have Not Vested ($) (3)
+Sean M. O'Connor   80,000     120,000     25.91     12/16/2021   11,032   (1) 533,066   
+                    3,897   (2) 188,303   
+William J. Dunaway   32,000     48,000     25.91     12/16/2021   4,808   (1) 232,323   
+                    1,646   (2) 79,535   
+Philip Smith   32,000     48,000     25.91     12/16/2021   6,053   (1) 292,481   
+                    2,097   (2) 101,327   
+Xuong Nguyen   32,000     48,000     25.91     12/16/2021   5,828   (1) 281,609   
+                    1,872   (2) 90,455   
+Charles Lyon   —     —     —         5,462   (1) 263,924   
+                    2,097   (2) 101,327   
+[END TABLE]
+Options Exercised and Stock Vested - 2018 Fiscal Year
+The following table sets forth the number of shares of common stock acquired during 2018 by each named executive officer upon the exercise of options or through the vesting of restricted stock.
+[BEGIN TABLE]
+    Option Awards   Stock Awards 
+Name   Number of Shares Acquired on Exercise (#)  Value Realized on Exercise ($)  Number of Shares Acquired on Vesting (#)  Value Realized on Vesting ($)
+Name   Number of Shares Acquired on Exercise (#)  Value Realized on Exercise ($)  Number of Shares Acquired on Vesting (#)  Value Realized on Vesting ($)
+Sean M. O'Connor   —     —     15,390     $ 634,868   
+William J. Dunaway   —     —     6,502     $ 268,090   
+Philip Smith   —     —     8,812     $ 363,748   
+Xuong Nguyen   —     —     7,522     $ 309,910   
+Charles Lyon   —     —     6,451     $ 267,161   
+Name    Plan Name    Number of Years Credited Service (#)   Present Value of Accumulated Benefit ($)   Payments During Last Fiscal Year ($)
+Name    Plan Name    Number of Years Credited Service (#)   Present Value of Accumulated Benefit ($)   Payments During Last Fiscal Year ($)
+Name    Plan Name    Number of Years Credited Service (#)   Present Value of Accumulated Benefit ($)   Payments During Last Fiscal Year ($)
+William J. Dunaway    Qualified noncontributory defined benefit plan    8   $ 90,601      $ —   
+[END TABLE]
+The agreement prohibits Mr. Nguyen from soliciting any customers and employees of the Company during the 12 months immediately following any termination of his employment.
+The agreement provides that Mr. Nguyen is entitled to receive severance in the event of the termination of his employment. In the event of termination for cause or voluntary resignation, he is entitled to payment for any unpaid base annual salary and benefits through the termination date. In the event of termination without cause, Mr. Nguyen is entitled to payment of his base salary for nine months after the termination date.
+If Mr. Nguyen had been terminated by the Company without cause as of September 30, 2018, he would have been entitled to a termination payment in the amount of $243,750. These amounts would be payable in a lump sum.
+The Company reserves the right to make additional payments to terminated employees if the Company determines that such payments are in the Company's best interests. The Company also has the right to fully vest executives in their equity awards upon retirement and in certain other termination of services circumstances.
+Potential Payments upon Change of Control
+Messrs. O'Connor, Dunaway, Smith, Nguyen and Lyon are not entitled to any benefits, including acceleration of equity awards, upon a change in control of the Company.
+REPORT OF THE COMPENSATION COMMITTEE
+ON EXECUTIVE COMPENSATION
+The Compensation Committee has reviewed and discussed the Compensation Discussion and Analysis with management. Based on our review and discussion with management, the Compensation Committee recommended to the Board of Directors, and the Board has approved, that the Compensation Discussion and Analysis be included in the Proxy Statement.
+THE COMPENSATION COMMITTEE
+John M. Fowler, Chairman
+Eric Parthemore
+Paul Anderson
+CEO Pay Ratio
+The Company's compensation and benefits philosophy and the overall structure of our compensation and benefit programs are broadly similar across the organization to encourage and reward all employees who contribute to our success. We strive to ensure the pay of every INTL FCStone Inc. employee reflects the level of their job impact and responsibilities and is competitive within our peer group. Compensation rates are set to be market-competitive in the country in which the jobs are performed.  Our ongoing commitment to pay equity is critical to our success in supporting a diverse workforce with opportunities for all employees to grow, develop, and contribute.  INTL FCStone Inc. is a global company that employs over 1,700 people worldwide.
+Under rules adopted pursuant to the Dodd-Frank Act of 2010, INTL FCStone Inc. is required to calculate and disclose the total compensation paid to its median paid employee, as well as the ratio of the total compensation paid to the median employee as compared to the total compensation paid to the Company's CEO. The paragraphs that follow describe our methodology and the resulting CEO Pay ratio.
+Measurement Date
+We selected September 30, 2018 as the date on which to determine our median employee, which is a date within the last three months of fiscal 2018. We included over 1,700 of our full-time and part-time workers employed on September 30, 2018 to determine our employee population.
+Consistently Applied Compensation Measure (CACM)
+Under the relevant rules, we were required to identify the median employee by use of a "consistently applied compensation measure," or CACM. We chose a CACM that closely approximates the annual total direct compensation of our employees. Specifically, we identified the median employee by determining each employee's base salary and bonus, if any, paid during fiscal 2018. The base salary for new employees hired after October 1, 2017 was annualized to September 30, 2018. We did not perform adjustments to the compensation paid to part-time employees to calculate what they would have been paid on a full-time basis. After the median employee was identified, we calculated the annual total compensation for the employee using the same methodology we use for our CEO in the Summary Compensation Table in this Proxy Statement.
+Methodology and Pay Ratio
+After applying our CACM methodology, we identified the median employee. Once the median employee was identified, we calculated the median employee's total annual compensation in accordance with the requirements of the Summary Compensation Table.
+Our median employee compensation as calculated using Summary Compensation Table requirements was $85,153 Our CEO's compensation as reported in the Summary Compensation Table was $2,681,062. Therefore, our CEO to median employee pay ratio is 31:1. 
+This information is being provided for compliance purposes. Neither the Compensation Committee nor management of the company used the pay ratio measure in making compensation decisions.
+The Compensation Committee report in this proxy statement shall not be deemed incorporated by reference into any other filing by the Company under the Securities Act of 1933, as amended, or the Securities Exchange Act of 1934, except to the extent that the Company specifically incorporates this information by reference, and shall not otherwise be deemed filed under such Acts.
+DIRECTOR COMPENSATION
+The Board of Directors has retained the oversight of Director compensation and has not delegated that function to any of its committees. The Board periodically reviews its non-executive Director compensation to determine if any adjustments are necessary for the Company to attract and retain qualified Directors.
+For the 2018 fiscal year, the Company's non-executive Directors received the following amounts:
+[BEGIN TABLE]
+• $70,000 per year for service as a Director. 
+• $28,000 per year for service as chairman of the Board. 
+• $10,000 per year for service as chairperson of the Audit Committee. 
+• $5,000 per year for service as chairperson of the Compensation Committee. 
+• $5,000 per year for service as chairperson of the Nominating & Governance Committee. 
+• $5,000 per year for service as chairperson of the Risk Committee. 
+• A grant of $30,000 to purchase restricted stock at a 25% discount to the market value. 
+[END TABLE]
+For the 2019 fiscal year, the Company's non-executive Directors will receive the following amounts:
+[BEGIN TABLE]
+• $90,000 per year for service as a Director. 
+• $35,000 per year for service as chairman of the Board. 
+• $15,000 per year for service as chairperson of each of the Committees. 
+• A grant of $50,000 to purchase restricted stock at a 25% discount to the market value. 
+• Adjustment to cash compensation for the non-executive Directors was effective as of December 5, 2018. 
+[END TABLE]
+No Director who serves as an employee of the Company receives compensation for services rendered as a Director.
+The Company reimburses non-executive Directors for reasonable out-of-pocket expenses incurred in attending meetings of the Board of Directors or any committee of the Board of Directors.  In addition, all non-executive Directors are reimbursed for out-of-pocket expenses incurred in the performance of their services for the Company. The Company also extends coverage to Directors under the Company's directors' and officers' indemnity insurance policies.
+During the 2018 fiscal year, each non-executive Director was given the option to participate in the Company's restricted stock program which operates in conjunction with the Restricted Stock Plan. Five of the non-executive Directors, Messrs. Fowler, Kass, Krehbiel, Parthemore and Radziwill, elected to participate fully in fiscal 2018.  Participants in the Restricted Stock Plan were allowed to choose the percentage (10%, 20% or 30%) of their compensation payable to them or a fixed dollar amount to be exchanged for shares of restricted stock.
+The following chart summarizes the 2018 compensation for the Company's non-executive Directors for the fiscal year ended September 30, 2018.
+[BEGIN TABLE]
+Name   Fees Earned or Paid in Cash   Stock Awards (1) (2)  All Other Compensation   Total 
+Name   Fees Earned or Paid in Cash   Stock Awards (1) (2)  All Other Compensation   Total 
+Paul G. Anderson   $ 70,000     $ 40,007     $ —     $ 110,007   
+Scott J. Branch   $ 70,000     $ 40,007     $ —     $ 110,007   
+Diane L. Cooper   $ 4,565     $ —     $ —     $ 4,565   
+John M. Fowler   $ 75,000     $ 63,056     $ —     $ 138,056   
+Edward J. Grzybowski   $ 75,000     $ 40,007     $ —     $ 115,007   
+Daryl Henze   $ 80,000     $ 46,690     $ —     $ 126,690   
+Steven Kass   $ 43,944     $ 50,624     $ —     $ 94,568   
+Bruce Krehbiel   $ 70,000     $ 68,021     $ —     $ 138,021   
+Eric Parthemore   $ 75,000     $ 62,563     $ —     $ 137,563   
+John Radziwill   $ 98,000     $ 79,269     $ —     $ 177,269   
+Name   Aggregate Number of Shares Underlying Outstanding Stock Options   Aggregate Number of Shares Underlying Outstanding Restricted Stock 
+Paul G. Anderson   —   2,122 
+Scott J. Branch   60,000   13,067 
+Diane L. Cooper   —   — 
+John M. Fowler   —   3,242 
+Edward J. Grzybowski   —   2,122 
+Daryl Henze   —   3,068 
+Steven Kass   —   1,220 
+Bruce Krehbiel   —   3,562 
+Eric Parthemore   —   3,088 
+John Radziwill   —   4,140 
+[END TABLE]
+The Compensation Committee Charter establishes the policy of the Compensation Committee that at least 30% of Director's fees, excluding additional fees for serving as a Chairperson of the Board or a Committee of the Board, shall be allocated to the purchase of restricted stock subject to a minimum vesting period of three years, with one-third of the award vesting on each of the first, second and third anniversaries of the award, and subject to the provisions as specified with greater particularity in the Company's Restricted Stock Plan and Stock Option Plan as currently applicable.
+Compensation Committee Interlocks and Insider Participation
+During our 2018 fiscal year, the members of the Compensation Committee were John M. Fowler (Chairman), Eric Parthemore and Paul Anderson.  None of the members of our Compensation Committee is currently a company officer or employee, nor have Mr. Fowler or Mr. Parthemore ever been an officer or employee of the Company.  Mr. Anderson was previously President of the Company from October 2009 to October 2012, served as a consultant to the Company during fiscal year 2013, and served as President and Chief Executive Officer of predecessor firm FCStone Group, Inc. from 1999 to October 2009.  There are no 
+Compensation Committee interlocks and no insider participation in compensation decisions that are required to be reported under the SEC's rules and regulations.
+PROPOSAL 2 - RATIFICATION OF APPOINTMENT OF INDEPENDENT ACCOUNTANTS
+Shareholders are being asked to ratify and approve the appointment of KPMG LLP ("KPMG") as our independent registered public accounting firm for the 2019 fiscal year. The appointment of KPMG was made by the Audit Committee of our Board of Directors. KPMG has served as the Company's independent registered public accounting firm since fiscal year 2010, and served as the independent registered public accounting firm of FCStone Group, Inc. and its predecessor firm since 1980. The Company has an engagement agreement with KPMG which sets forth the terms by which KPMG will perform audit services for the Company. That agreement is subject to alternative dispute resolution procedures. The ratification and approval by shareholders of the appointment of KPMG effectively would also be a ratification of that agreement.
+Audit services provided by KPMG for our 2018 fiscal year included the audit of the consolidated financial statements and internal control over financial reporting of the Company and its subsidiaries and services related to our periodic filings with the SEC. The services provided by KPMG are more fully described in this proxy statement under the captions "Audit Committee Report" and "Independent Auditor Fees."
+Representatives of KPMG are expected to be present at the 2019 annual meeting (either in person or by teleconference), will have an opportunity to make a statement if they so desire, and will be available to respond to appropriate questions.
+Shareholder ratification of the appointment of KPMG as the Company's independent registered public accountants is not required by the Company's bylaws or otherwise. However, the Board is submitting the appointment of KPMG to the shareholders for ratification as a matter of good corporate practice. If the shareholders fail to ratify the appointment, the Audit Committee will reconsider whether or not to retain KPMG. Even if the appointment is ratified, the Audit Committee in its discretion may appoint a different independent registered public accounting firm at any time during the year if the Audit Committee determines that such a change would be in the best interests of the Company and its shareholders.
+THE BOARD OF DIRECTORS RECOMMENDS THAT SHAREHOLDERS VOTE "FOR" THE RATIFICATION OF THE APPOINTMENT OF KPMG LLP AS THE COMPANY'S INDEPENDENT REGISTERED PUBLIC ACCOUNTING FIRM.
+AUDIT COMMITTEE REPORT
+Audit Committee Report
+The role of the Audit Committee is to assist the Board of Directors in its oversight of the Company's financial reporting process. Management has the primary responsibility for the consolidated financial statements and the reporting process, including the system of internal controls. The Company's independent registered public accounting firm is responsible for auditing the Company's consolidated financial statements and expressing an opinion as to their conformity to accounting principles generally accepted in the United States, as well as auditing the Company's internal control over financial reporting based on criteria established by the Committee of Sponsoring Organizations of the Treadway Commission.
+The Audit Committee operates under a written charter approved by the Board, a copy of which may be found on the Company's website, www.intlfcstone.com. The Charter provides, among other things, that the Audit Committee has full authority to engage the independent registered public accounting firm, independent advisors, and consultants.
+In the performance of its oversight function, the Audit Committee has reviewed and discussed with management and KPMG the audit of the Company's consolidated financial statements and internal control over financial reporting. The Audit Committee has reviewed and discussed with KPMG the matters required to be communicated pursuant to the Public Company Accounting Oversight Board (United States) ("PCAOB")  Auditing Standard No. 1301, "Communications with Audit Committees." This review included a discussion with management and KPMG about the quality (not merely the acceptability) of the Company's accounting principles, the reasonableness of significant estimates and judgments, and the disclosures in the Company's consolidated financial statements, including the disclosures relating to critical accounting policies. In addition, the Audit Committee has received from KPMG the written disclosures and letter required by the applicable requirements of the PCAOB for independent auditor communications with audit committees concerning independence, has discussed with KPMG their independence from the Company and its management, and has considered whether KPMG's provision of non-audit services to the Company is compatible with maintaining KPMG's independence.
+The Audit Committee discussed with KPMG the overall scope and plans for their audits. The Audit Committee met with KPMG, with and without management present, to discuss the results of their audits, their evaluations of the Company's internal control over financial reporting and the overall quality of the Company's financial reporting. In addition, the Audit Committee met with the Chief Executive Officer and Chief Financial Officer of the Company to discuss the processes that they have undertaken to evaluate the accuracy and fair presentation of the Company's consolidated financial statements and the effectiveness of the Company's systems of disclosure controls, including the clarity of the disclosures, and procedures and internal control over financial reporting. Based on the reviews and discussions referred to above, the Audit Committee has recommended to the Board of Directors, and the Board has approved, that the Company's audited consolidated financial statements be included in the Company's Annual Report on Form 10-K for the year ended September 30, 2018 for filing with the Securities and Exchange Commission and appointed KPMG to serve as the Company's independent registered public accounting firm for 2019.
+Respectfully submitted,
+THE AUDIT COMMITTEE OF THE BOARD OF DIRECTORS
+Daryl K. Henze (Chairman)        
+Bruce W. Krehbiel
+Edward J. Grzybowski
+Steven Kass
+The Audit Committee report in this proxy statement shall not be deemed incorporated by reference into any other filing by the Company under the Securities Act of 1933, as amended, or the Securities Exchange Act of 1934, as amended, except to the extent that the Company specifically incorporates this information by reference, and shall not otherwise be deemed filed under such Acts.
+Independent Auditor Fees
+KPMG, the Company's independent registered public accounting firm for the fiscal years ending September 30, 2018 and 2017, performed the review of each of the Company's quarterly reports for the 2018 and 2017 fiscal years and the audit of the Company's consolidated financial statements and internal control over financial reporting for the years ended September 30, 2018 and 2017.
+The following table sets forth information regarding fees for professional services rendered by KPMG with respect to the 2018 and 2017 fiscal years.
+[BEGIN TABLE]
+  Fiscal Year 2018   Fiscal Year 2017 
+Audit Fees (1) $ 3,240,522     $ 3,301,220   
+Audit-Related Fees (2) $ 135,000     $ 158,500   
+Tax Fees $ 23,300     $ —   
+All Other Fees $ 6,500     $ 7,355   
+Total $ 3,405,322     $ 3,467,075   
+[END TABLE]
+(1)    Audit Fees consist of fees billed, or expected to be billed, for professional services rendered for the audit of the Company's consolidated annual financial statements and internal control over financial reporting, the review of the interim condensed consolidated financial statements included in quarterly reports, and services provided in connection with certain subsidiary statutory and regulatory filings.
+(2)    Audit-Related Fees consist of fees billed, or expected to be billed, for attestation services rendered, including services rendered in connection with certain regulatory requirements of the Company's subsidiaries. 
+The Audit Committee's policy is to pre-approve all audit, audit-related, and non-audit services provided by the Company's independent registered public accounting firm. These services may include audit services, audit-related services, tax services and other services. Pre-approval is generally provided for up to one year and any pre-approval is detailed as to the particular service or category of services and is generally subject to a specific budget. During the 2018 and 2017 fiscal years, 100% of the audit, audit-related, and non-audit services were pre-approved by the Audit Committee.
+PROPOSAL 3 - ADVISORY (NON-BINDING) VOTE ON EXECUTIVE COMPENSATION
+Under the Dodd-Frank Wall Street Reform and Consumer Protection Act enacted in July 2010 (the "Dodd-Frank Act"), the shareholders of the Company are entitled to vote at the annual meeting on the compensation of the Company's named executive officers, as disclosed in the Compensation Discussion and Analysis section and accompanying compensation tables contained in this Proxy Statement.  Pursuant to the Dodd-Frank Act, the shareholder vote on executive compensation is an advisory vote only, and it is not binding on the Company or the Board of Directors.
+Although the vote is non-binding, the Compensation Committee and the Board value the opinions of the shareholders and will consider the outcome of the vote when making future compensation decisions.
+As described more fully in the Compensation Discussion and Analysis section contained in this Proxy Statement, the Company's executive compensation program is designed to attract, motivate and retain individuals with the skills required to formulate and drive the Company's strategic direction and achieve annual and long-term performance goals necessary to create shareholder value.  The program seeks to align executive compensation with shareholder value on an annual and long-term basis through a combination of base salary, bonuses under established bonus plans with objective criteria, a long-term performance incentive plan, discretionary bonuses based on subjective criteria, grants of restricted stock and stock options, health insurance and similar benefits.  The bonus payments under the established bonus plan are based upon one or more of the following business criteria:  change in share price, adjusted return on equity, control of fixed costs, control of variable costs, and adjusted EBITDA growth.  Further indicative of the alignment between executive compensation and shareholder value is the fact that bonuses may be paid in a combination of cash and restricted stock on a basis to be established by the Compensation Committee.
+In addition to making small but strategic acquisitions during the year, the executive management team continued to focus its energies in 2018 on upgrading and more tightly integrating the Company's offerings, platforms, marketing strategy and customer experience, in the belief that this is necessary to achieving its goal of becoming a truly best-in-class global financial franchise. To this end, the Company now offers clearing and execution (both high-touch and electronic), expert risk management and advisory services, and market intelligence across asset classes and markets around the world.  Fiscal year 2018 accomplishments include, among other things, the following:
+[BEGIN TABLE]
+• Record operating revenues during the fiscal year of $975.8 million. 
+• Pre-tax income surpassed $100 million for the first time in the Company's history. 
+• Shareholders' equity grew to $505 million. 
+• All business segments achieved record annual operating revenues. 
+• Acquisition of Carl Kliem S.A., a Luxembourg based independent inter-dealer broker which provides a European Union based entity post Brexit. 
+• Acquisition and integration of PayCommerce Financial Solutions, LLC, a fully accredited SWIFT Service Bureau. 
+• Business enhancements in Brazil, as subsidiary INTL FCStone DTVM Ltda. was granted a full-service broker-dealer license, and subsidiary INTL FCStone Banco de Cambio S.A. was granted an FX bank license. 
+[END TABLE]
+The Compensation Committee also considers the total compensation of the Company's five principal executives to be generally consistent with the base salaries paid by the Company's principal competitors to their senior executive officers.
+The advisory vote regarding the compensation of the named executive officers shall be approved if the votes cast in favor of the proposal exceed the votes cast against the proposal.  Abstentions will not be counted as either votes cast for or against the proposal.
+THE BOARD OF DIRECTORS RECOMMENDS THAT SHAREHOLDERS VOTE "FOR" THE APPROVAL OF THE COMPENSATION OF THE NAMED EXECUTIVE OFFICERS AS DISCLOSED IN THE COMPENSATION DISCUSSION AND ANALYSIS SECTION AND ACCOMPANYING COMPENSATION TABLES CONTAINED IN THIS PROXY STATEMENT.
+PROPOSAL 4 - APPROVAL OF AN AMENDMENT TO INCREASE THE NUMBER OF SHARES AUTHORIZED TO BE ISSUED UNDER THE COMPANY'S 2013 STOCK OPTION PLAN
+General
+In November 2012, the Board of Directors adopted, and the shareholders subsequently approved, the Company's 2013 Stock Option Plan (the "Option Plan").
+In December 2018, the Board of Directors adopted an amendment to the Option Plan to increase the number of shares authorized for issuance under the Option Plan from 1,000,000 shares to 2,000,000 shares.  The increase will be cancelled if the amendment is not approved by the shareholders of the Company at the Annual Meeting.
+At the present time, the Company has issued options covering 835,454 shares which remain outstanding. As a result, if the amendment is not approved by the shareholders, the Company will only have 588,020 shares of the Company's common stock available for issuance under the Option Plan. 
+The Board of Directors of the Company believes that stock options are a key aspect of the Company's ability to attract and retain qualified personnel in the face of high demand for qualified personnel. The Board has approved an amendment to increase the aggregate number of shares of common stock authorized for issuance under the Option Plan by 1,000,000 shares, subject to shareholder approval, in order to ensure that the Company is able to continue to grant stock options to employees and consultants at levels determined appropriate by the Board.
+On December 5, 2018, the Board of Directors approved a grant of stock options with respect to 800,000 shares to certain executives of the Company and its subsidiaries, subject to the approval and ratification by the shareholders of this Proposal 4. The agreements governing these options provide that the options will be cancelled in the event the shareholders of the Company do not approve this Proposal 4. The recipients of these options include certain named executive officers of the Company, as shown in the following table.
+[BEGIN TABLE]
+Grant of Non-Qualified Stock Options 
+Name and Position   Number of Options   Exercise Price ($)   Expiration Date 
+Sean O'Connor, Chief Executive Officer and Director   200,000   45.00   December 5, 2026 
+William Dunaway, Chief Financial Officer   100,000   45.00   December 5, 2026 
+Philip Smith, CEO of INTL FCStone Ltd   100,000   45.00   December 5, 2026 
+Xuong Nguyen, Chief Operating Officer   100,000   45.00   December 5, 2026 
+Charles Lyon, Exec. VP of INTL FCStone Financial Inc.   100,000   45.00   December 5, 2026 
+[END TABLE]
+The exercise price of the options was set at $45.00, which equates to 113.5% of the closing price of the Company's common stock on December 14, 2018. The options have a term of eight years and will vest ratably over a period of 5 years commencing on the third anniversary after the date of grant.
+In the event that this Proposal 4 is not approved by the shareholders, and as a consequence the Company is unable to continue to grant options at competitive levels, the Company's management believes that it will negatively affect the Company's ability to meet its needs for highly qualified personnel and its ability to manage future growth. Without these additional shares, management expects that the current shares available for grant under the Option Plan will not be sufficient to maintain our option grant practices during the 2019 fiscal year. 
+The Compensation Committee of the Board of Directors administers the Option Plan and determines the number of options to be granted thereunder, subject to an annual limitation on the total number of options that may be granted to any employee. Information on stock options granted to each of the Company's five most highly compensated executed officers is included in the section of this Proxy Statement entitled "Executive Compensation". 
+Plan Description
+The following summary describes briefly the principal features of the Option Plan, which is attached as Exhibit A to this Proxy Statement. This summary does not purport to be complete and is subject to and qualified in its entirety by the provisions of the Option Plan. 
+Purpose
+The purpose of the Option Plan is to advance the growth and development of the Company by affording an opportunity to Directors, executives, consultants and key employees of the Company and its affiliates to purchase shares of the Company's common stock and to provide incentives for them to put forth maximum efforts for the success of the Company's business.
+Eligibility
+The Option Plan provides that awards may be granted to Directors, consultants, officers, and executive, managerial, and other key employees of the Company or any parent or subsidiary of the Company. All employees of the Company and its subsidiaries are currently eligible to participate in the Plan.
+Shares Subject to the Option Plan
+Prior to the amendment, the total number of shares of common stock that could be issued by the Company under the Option Plan was 1,000,000 shares.  The amendment increased this to 2,000,000 shares. If and to the extent an option granted under the Option Plan expires or terminates for any reason whatsoever, in whole or in part, the shares (or remaining shares) of stock subject to that particular option shall again be available for grant under the Option Plan.
+Administration
+The Option Plan is currently administered by the Compensation Committee of the Board of Directors of the Company, subject to final approval by the Board of Directors. The Compensation Committee may issue incentive stock options ("Incentive Options") within the meaning as defined in Section 422 of the Internal Revenue Code of 1986, as amended (the "Code"), or options that do not qualify as Incentive Options ("Nonqualified Options"). In addition, the Compensation Committee shall have the discretion to determine the employees, Directors and consultants to whom options are to be granted and the number of shares subject to the options.
+General Conditions
+The Option Plan sets forth certain general conditions relating to the options that may be granted thereunder:
+[BEGIN TABLE]
+• the maximum term of any Incentive Option shall be 10 years; 
+• an option shall be exercisable only as long as the optionee is in "continuous employment" with any parent, subsidiary or successor thereof or is continually on the Board of Directors of the Company; and 
+• an option granted under the Option Plan shall not be assignable or transferable other than by will or the laws of descent and distribution. 
+[END TABLE]
+Stock Options
+The option price of stock options granted under the Option Plan shall not be less than 100% of the fair market value of the stock on the date the option is granted. The option price of stock options granted under the Option Plan to any individual who possesses more than 10% of the combined voting power of all classes of common stock of the Company shall not be less than 110% of the fair market value of the stock on the date the option is granted.
+Options shall become exercisable as provided by the Board in each option agreement. An option shall terminate upon the occurrence of the following conditions: 
+[BEGIN TABLE]
+• the expiration of one year after termination of employment by death or disability; 
+• immediately upon termination for cause; 
+• the expiration of 90 days after termination of employment for a reason other than death, disability or cause; or 
+• the expiration of 90 days after the removal or resignation of the optionee from the Board. 
+[END TABLE]
+The Option Plan contains certain additional conditions applicable to options designated as Incentive Options. Incentive Options may be granted only to employees. No employee may be granted Incentive Options exercisable for the first time in any calendar year in which Incentive Options have an aggregate fair market value of stock (determined for each Incentive Option at its date of grant) in excess of $100,000. An Incentive Option granted to an employee who owns stock possessing more than 10% of the total combined voting power of all classes of stock of the Company shall have a per-share exercise price of not less than 110% of the fair market value of the stock on the date the option is granted.
+Payment of the exercise price may be made in cash, by certified bank check, in shares of the Company's common stock or any combination of the foregoing. At the discretion of the Board, the Company may also accept a promissory note, secured or unsecured, in the amount of the option price. 
+Plan Termination and Amendment
+Under its terms, the Option Plan will terminate on November 15, 2022. Furthermore, the Option Plan may be amended or terminated at any time by the Board. Any termination shall not affect any award then outstanding. Amendments to the Option Plan may be made without shareholder approval, except as such shareholder approval may be required by law or the rules of a national securities exchange, or if the amendment would increase the number of shares that may be issued under the Option Plan, or modify the requirements as to eligibility for participation in the Option Plan.
+Federal Tax Treatment of Options
+If an option is granted to an employee in accordance with the terms of the Option Plan, no income will be recognized by such employee at the time the option is granted. 
+Generally, on exercise of a Nonqualified Option, the amount by which the fair market value of the shares of the stock on the date of exercise exceeds the purchase price of such shares will be taxable to the optionee as ordinary income, and will be deductible for tax purposes by the Company in the year in which the optionee recognizes the ordinary income. The disposition of shares acquired upon exercise of a Nonqualified Option under the Option Plan will ordinarily result in long-term or short-term capital gain or loss (depending on the applicable holding period) in an amount equal to the difference between the amount realized on such disposition and the sum of the purchase price and the amount of ordinary income recognized in connection with the exercise of the Nonqualified Option.
+Section 16(b) of the Exchange Act generally subjects executive officers, directors and 10% shareholders of the Company to potential liability if they both buy and sell shares of the Company's stock within a six-month period. In the case of employees who are subject to these rules, generally, unless the employee elects otherwise, the relevant date for measuring the amount of ordinary income to be recognized upon the exercise of a Nonqualified Option will be the later of (i) the date the six-month period following the date of grant lapses and (ii) the date of exercise of the Nonqualified Option.
+Generally, upon exercise of an Incentive Option, an employee will not recognize any income and the Company will not be entitled to a deduction for tax purposes. However, the difference between the purchase price and the fair market value of the shares of stock received on the date of exercise will be treated as a positive adjustment in determining alternative minimum taxable income, which may subject the employee to the alternative minimum tax. The disposition of shares acquired upon exercise of an Incentive Option under the 2013 Option Plan will ordinarily result in long-term or short-term capital gain or loss (depending on the applicable holding period). Generally, however, if the employee disposes of shares of stock acquired upon exercise of an Incentive Option within two years after the date of grant or within one year after the date of exercise (a "disqualifying disposition"), the employee will recognize ordinary income, and the Corporation will be entitled to a deduction for tax purposes, in the amount of the excess of the fair market value of the shares on the date of exercise over the purchase price (or, in certain circumstances, the gain on sale, if less). Any excess of the amount realized by the holder on the disqualifying disposition over the fair market value of the shares on the date of exercise of the Incentive Option will ordinarily constitute capital gain. In the case of an employee subject to the Section 16(b) restrictions discussed above, the relevant date in measuring the employee's ordinary income and the Company's tax deduction in connection with any such disqualifying disposition will normally be the later of (i) the date the six-month period after the date of grant lapses or (ii) the date of exercise of the Incentive Option.
+If an option is exercised through the use of stock previously owned by the employee, such exercise generally will not be considered a taxable disposition of the previously owned shares and, thus, no gain or loss will be recognized with respect to such shares upon such exercise. However, if the previously owned shares were acquired through the exercise of an Incentive Option or other tax-qualified stock option and the holding period requirement for those shares was not satisfied at the time they were used to exercise an Incentive Option, such use would constitute a disqualifying disposition of such previously owned shares resulting in the recognition of ordinary income (but, under proposed Treasury Regulations, not any additional capital gain) in the amount described above. If any otherwise qualifying Incentive Option becomes first exercisable in any one year for shares having a value in excess of $100,000 (grant date value), the portion of the option in respect of such excess shares will be treated as a Nonqualified Option.
+THE BOARD UNANIMOUSLY RECOMMENDS THAT SHAREHOLDERS VOTE "FOR" THE APPROVAL OF THE AMENDMENT TO INCREASE THE NUMBER OF SHARES AUTHORIZED TO BE ISSUED UNDER THE 2013 OPTION PLAN.
+PROPOSAL 5 - OTHER MATTERS
+The Board of Directors does not know of any other matters that will be presented for consideration at the 2019 annual meeting. If any other matters are properly brought before the 2019 annual meeting, the persons appointed as proxies will vote on such matters in accordance with their best judgment.
+MANAGEMENT
+The following table lists certain information about the executive officers of the Company:
+[BEGIN TABLE]
+Name   Age   Director Since   Executive Officer Since   Position with the Company 
+Sean M. O'Connor   56   2002   2002   Director, Chief Executive Officer and President 
+William J. Dunaway   47   —   2009   Chief Financial Officer 
+Aaron Schroeder   43   —   2012   Chief Accounting Officer 
+Xuong Nguyen   50   —   2014   Chief Operating Officer 
+Tricia Harrod   58   —   2015   Chief Risk Officer 
+Philip Smith   46   —   2013   Chief Executive Officer - INTL FCStone Ltd 
+Charles Lyon   43   —   2013   Executive Vice President - INTL FCStone Financial Inc. 
+Mark Maurer   41   —   2015   Chief Executive Officer - INTL FCStone Markets, LLC 
+[END TABLE]
+The background of the Company's executive officer who also serves as a Director is set forth in Proposal 1 - Election of Directors. The backgrounds of Ms. Harrod and Messrs. Dunaway, Schroeder, Smith, Lyon, Nguyen and Maurer are set forth below.
+William J. Dunaway was appointed Chief Financial Officer of the Company on October 5, 2009 following the merger with FCStone. From January 2008 until the merger, Mr. Dunaway was the Chief Financial Officer of FCStone. Mr. Dunaway has over 23 years of industry experience with FCStone and its predecessor companies, including service as the Executive Vice President and Treasurer.
+Aaron Schroeder was appointed as Chief Accounting Officer in December 2014. Mr. Schroeder has been with the Company and FCStone for over 15 years. Mr. Schroeder has been Group Controller since November 2012, and prior to his appointment was Chief Accounting Officer, Director of Accounting, Group Controller and Assistant Treasurer of FCStone and its subsidiaries. Before coming to work for FCStone, Mr. Schroeder worked as a Senior Associate at the accounting firm, KPMG LLP.
+Xuong Nguyen was appointed as Chief Operating Officer of the Company in October 2015.  Prior to that he served as Executive Vice President of the FCM Division of INTL FCStone Financial Inc., a subsidiary of the Company, as well as Chief Operating Officer of additional subsidiaries of the Company.  Mr. Nguyen was appointed Chief Executive Officer of FCStone, LLC, the Company's futures commission merchant which was subsequently merged into INTL FCStone Financial Inc., in February 2014 and was Chief Operating Officer of FCStone, LLC for four years prior to his appointment as CEO.  Mr. Nguyen previously served as Chief Operating Officer of MFGlobal in the U.S. and served in senior management positions in operations, accounting, project management and audit at Bank of America,  JP Morgan (formerly Banc One and First Chicago), ABN Amro, and the Chicago Mercantile Exchange.  Mr. Nguyen has over twenty years of experience in the derivatives, futures and options marketplace.
+Tricia Harrod joined the Company in 2009, previously served as the Company's Global Head of Risk and was appointed as Chief Risk Officer in October 2015.  Prior to joining the Company, Ms. Harrod spent more than 25 years in Risk Management for the energy industry, including eleven years as Head of Risk Management for GXP Energy (Aquila, Inc.) including responsibilities of Enterprise Risk Management, Middle Office, Insurance, Credit and Market Risk.
+Philip A. Smith was appointed Chief Executive Officer of the Company's Europe, Middle East and Africa operations in July 2008.  Mr. Smith joined the Company in 2004 following its acquisition of Global Currencies Ltd, a U.K. foreign exchange payments company which Mr. Smith joined in 1996 and was made a Director of in 1999. Following its acquisition in 2004 Mr. Smith became CEO of INTL Global Currencies Ltd until its consolidation into INTL FCStone Ltd in 2014.  Mr. Smith is the Chief Executive Officer of INTL FCStone Ltd.
+Charles Lyon serves as Executive Vice President - Head of Securities of INTL FCStone Financial Inc., formerly known as INTL FCStone Securities Inc.  This entity merged with the Company's three other domestic regulated entities in July 2015, and Mr. Lyon now oversees the broker-dealer operations of the merged entity.  Mr. Lyon was appointed as Chief Executive Officer of 
+INTL FCStone Securities Inc. in December 2012 when it was operating as the Company's U.S. broker-dealer subsidiary. Mr. Lyon was Head of Securities Trading and Sales as well as Head of Equity Capital Markets of INTL FCStone Securities Inc. from 2004 until 2012, and served various roles for predecessor companies from 1999 until 2004.
+Mark Maurer was appointed Chief Executive Officer of INTL FCStone Markets, LLC, the Company's swap-dealer subsidiary, in October 2014.  Mr. Maurer joined the Company in 2010 following the acquisition of The Hanley Group, where he was the Head of Risk.  Mr. Maurer's background is founded in risk management with a strong understanding of option portfolios, and he has been in the derivatives, futures and options industry for over 15 years.
+Executive Officer Financial Interest in the Company
+The Nominating & Governance Committee Charter establishes the responsibility of the Committee to administer and monitor a policy that Section 16 Officers shall at all times have a financial interest in Company stock by owning vested Company stock at least equal in value to 10% of their most recent year's Officer base salary as at the first anniversary of their appointment, 20% as at the second anniversary and 30% as at the third anniversary, such 30% level to be maintained thereafter.
+Code of Ethics
+The Company has adopted a Code of Ethics which applies to the Company's officers, Directors and employees. A copy of the Company's Code of Ethics is available on the Company's website www.intlfcstone.com.
+The Code of Ethics governs the behavior of all the Company's employees, officers and Directors, including the named executive officers. The Code of Ethics provides that no employee shall engage in any transaction involving the Company if the employee or a member of his or her immediate family has a substantial interest in the transaction or can benefit directly or indirectly from the transaction (other than through the employee's normal compensation), unless the transaction or potential benefit and the interest have been disclosed to and approved by the Company.
+If one of the Company's executive officers has the opportunity to invest or otherwise participate in such a transaction, the policy requires the executive to contact the President and the Chairman of the Audit Committee. Any such transaction must be approved by the Audit Committee.
+The Code of Ethics has been adopted by the Board of Directors and any exceptions to the policies set forth in the Code of Ethics must be requested in writing addressed to the Audit Committee of the Board of Directors. If an executive officer requests an exception, the request must be delivered to the Chairman of the Audit Committee and no exceptions shall be effective unless approved by the Audit Committee.
+SECURITY OWNERSHIP OF CERTAIN BENEFICIAL OWNERS AND MANAGEMENT
+The following table sets forth certain information concerning the beneficial ownership of the Company's common stock as of the most recent report date in the case of Institutions and Funds, or as of December 15, 2018, by:
+• each person known by the Company to own more than 5% of the Company's common stock,
+• each Director and nominee for Director of the Company,
+• each of the Company's executive officers named in the "Summary Compensation Table",
+• additional executive officers identified within this Proxy Statement, and 
+• all of the Company's executive officers and Directors of the Company as a group.
+[BEGIN TABLE]
+Name   Number of Shares Beneficially Owned (1) (2)   Percent of Class 
+Institutions and Funds         
+BlackRock Institutional Trust Company, N.A. (3)   2,243,565       11.79% 
+Van Berkom & Associates Inc. (4)   1,664,666       8.75% 
+Officers and Directors         
+Sean M. O'Connor (5) (6) (7)   1,227,936       6.41% 
+Scott J. Branch (8) (9)   918,557       4.82% 
+John Radziwill (10) (11) (12)   881,587       4.63% 
+Philip A. Smith (13)   172,869       *   
+William J. Dunaway (14)   87,531       *   
+Xuong Nguyen (15)   80,080       *   
+John M. Fowler (16)   58,507       *   
+Bruce Krehbiel (17)   47,953       *   
+Charles M. Lyon (18)   30,541       *   
+Eric Parthemore (19)   20,805       *   
+Daryl Henze (20)   20,368       *   
+Paul G. Anderson (21)   17,867       *   
+Aaron M. Schroeder (22)   12,269       *   
+Mark Maurer (23)   10,905       *   
+Tricia Harrod (24)   9,244       *   
+Edward J. Grzybowski (25)   5,274       *   
+Steven Kass (26)   2,371       *   
+Diane L. Cooper (27)   377       *   
+All Directors and executive officers as a group (18 persons) (28)   3,605,041       18.65% 
+[END TABLE]
+*Less than 1.0%
+(1)    Except as otherwise noted, all shares were owned directly with sole voting and investment power.
+(2)    Includes shares of common stock that can be acquired under vested stock options within 60 days from December 15, 2018 and unvested restricted shares granted through December 15, 2018.
+(3)    The address of BlackRock Institutional Trust Company, N.A. is 400 Howard St., San Francisco, CA 94105.
+(4)    The address of Van Berkom & Associates Inc. is 1130 Sherbrooke Street West, Suite 1005, Montreal, Quebec H3A 2M8.
+(5)    The address of Sean M. O'Connor is 708 Third Avenue, 15th Floor, New York, New York 10017.
+(6)    Includes 780,434 shares held by Darseaker Limited Trust.  Family members of Mr. O'Connor may become beneficiaries of the Trust.
+(7)    Includes 120,000 shares that Mr. O'Connor may acquire under vested stock options and 22,960 unvested restricted shares.  168,670 of these shares were held in margin accounts as of December 15, 2018.
+(8)    Includes 365,147 shares owned by Mr. Branch's spouse, Barbara Branch.
+(9)    Includes 40,000 shares that Mr. Branch may acquire under vested stock options and 3,836 unvested restricted shares.
+(10)    Includes 4,079 unvested restricted shares.
+(11)    Includes 569,853 shares owned by Goldcrown Asset Management Limited. Mr. Radziwill is a Director and a beneficial owner of more than 10% of Goldcrown Asset Management Limited.
+(12)    Includes 284,085 shares owned by Basic Management Company Inc. Mr. Radziwill is affiliated with Basic Management Company Inc. but disclaims beneficial ownership of these shares.  110,172 of these shares were held in a margin account as of December 15, 2018.
+(13)    Includes 48,000 shares that Mr. Smith may acquire under vested stock options and 12,688 unvested restricted shares.  70,000 of these shares were held in a margin account as of December 15, 2018.
+(14)    Includes 48,000 shares that Mr. Dunaway may acquire under vested stock options and 10,119 unvested restricted shares.
+(15)    Includes 48,000 shares that Mr. Nguyen may acquire under vested stock options and 11,404 unvested restricted shares.
+(16)    Includes 3,206 unvested restricted shares and 1,600 shares owned by Mr. Fowler's spouse.
+(17)    Includes 3,519 unvested restricted shares and 25,000 shares held by Kanza Cooperative Association, of which Mr. Krehbiel is manager.
+(18)    Includes 12,688 unvested restricted shares.  12,241 of these shares were held in a margin account as of December 15, 2018.
+(19)    Includes 3,102 unvested restricted shares.
+(20)    Includes 2,882 unvested restricted shares.
+(21)    Includes 2,122 unvested restricted shares.
+(22)    Includes 3,225 unvested restricted shares.
+(23)    Includes 7,553 unvested restricted shares.
+(24)    Includes 5,060 unvested restricted shares.
+(25)    Includes 2,122 unvested restricted shares.
+(26)    Includes 1,371 unvested restricted shares.
+(27)    Includes 377 unvested restricted shares.
+(28)    Includes 304,000 shares issuable upon the exercise of currently vested stock options and 112,313 unvested restricted stock shares.
+Section 16(a) Beneficial Ownership Reporting Compliance
+Section 16(a) of the Securities Exchange Act requires the Company's executive officers and Directors, and persons who own more than 10% of the Company's common stock, to file reports of ownership and changes in ownership of the common stock with the Securities and Exchange Commission.
+Based solely on the review of such reports, the Company is aware of one report by Mr. O'Connor with respect to a transaction under Section 16(a) which was not filed on a timely basis for a transaction occurring during the 2018 fiscal year.
+CERTAIN RELATIONSHIPS AND RELATED TRANSACTIONS
+One of the Company's Directors, Bruce Krehbiel, was executive officer of a cooperative that utilized the services of the Company during the 2018 fiscal year. Mr. Krehbiel previously served as a Director of FCStone. The following table sets forth the amount paid by this cooperative for our services during the 2018 fiscal year. 
+[BEGIN TABLE]
+Board Member   Board Member's Cooperative   Amounts Paid by Cooperative to the Company for Services
+Board Member   Board Member's Cooperative   Amounts Paid by Cooperative to the Company for Services
+Bruce Krehbiel   Kanza Cooperative Association   $ 233,248   
+[END TABLE]
+GENERAL INFORMATION
+Shareholder Proposals
+Proposals of shareholders of the Company that are intended to be presented by such shareholders at the Company's 2020 annual meeting of shareholders and that shareholders desire to have included in the Company's proxy materials relating to such meeting must be received by the Company at its corporate offices no later than September 5, 2019, which is 120 calendar days prior to the first anniversary of this year's mailing date. Upon timely receipt of any such proposal, the Company will determine whether or not to include such proposal in the proxy statement and proxy in accordance with applicable regulations governing the solicitation of proxies.
+If a shareholder wishes to present a proposal at the Company's 2020 annual meeting or to nominate one or more Directors and the proposal is not intended to be included in the Company's proxy statement relating to that meeting, the shareholder must give advance written notice to the Company by November 19, 2019, as required by SEC Rule 14a-4(c)(1).
+Any shareholder filing a written notice of nomination for Director must describe various matters regarding the nominee and the shareholder, including such information as name, address, occupation and shares held. Any shareholder filing a notice to bring other business before a shareholder meeting must include in such notice, among other things, a brief description of the proposed business and the reasons for the business, and other specified matters. Copies of those requirements will be forwarded to any shareholder upon written request.
+Solicitation
+The Company will bear the entire cost of solicitation of proxies, including preparation, assembly, printing and mailing of this proxy statement, the proxy card and any additional information furnished to shareholders. Copies of solicitation materials will be furnished to banks, brokerage houses, fiduciaries and custodians holding in their names shares of common stock beneficially owned by others to forward to such beneficial owners. The Company may reimburse persons representing beneficial owners of common stock for their costs of forwarding solicitation materials to such beneficial owners. Original solicitation of proxies by mail may be supplemented by telephone, telegram or personal solicitation by Directors, officers or other regular employees of the Company. No additional compensation will be paid to Directors, officers or other regular employees for such services.
+Availability of Form 10-K
+The Company will provide the Company's Annual Report on Form 10-K for the 2018 fiscal year to shareholders, without charge, upon written request. Such requests should be submitted to INTL FCStone Inc., 1251 NW Briarcliff Parkway, Suite 800, Kansas City, Missouri 64116. Exhibits to Form 10-K will also be provided upon specific request.
+John Radziwill
+Chairman
+January 3,  
+Exhibit A
+INTL FCStone Inc.
+2013 Stock Option Plan
+INTL FCSTONE INC., a Delaware corporation (the "Company"), hereby adopts this Stock Option Plan (this "Plan") for its employees, officers, directors and consultants, in accordance with the following terms and conditions.
+1.Purpose of Plan. The purpose of this Plan is to advance the growth and development of the Company by affording an opportunity to employees, officers, directors and consultants of the Company and its affiliates to purchase shares of the Company's common stock and to provide incentives for them to put forth maximum efforts for the success of the Company's business. This Plan is intended to permit certain designated stock options granted under this Plan to qualify as incentive stock options under Section 422 of the Internal Revenue Code of 1986, as amended.
+2.Definitions. For purposes of this Plan, the following capitalized terms shall have the meanings set forth below:
+(a)"Board of Directors" means the board of directors of the Company.
+(b)"Cause" means: (i) the commission of a felony or a charge of theft, dishonesty, fraud or embezzlement; (ii) failure to adhere to the Company's reasonable directives and policies, willful disobedience or insubordination; (iii) disclosing to a competitor or other unauthorized person, proprietary information, confidences or trade secrets of the Company or any Parent or Subsidiary; (iv) recruitment of the personnel of the Company or any Parent or Subsidiary on behalf of a competitor or potential competitor of the Company, any Parent or Subsidiary, or any successor thereof; or (v) solicitation of business on behalf of a competitor or potential competitor of the Company, any Parent or Subsidiary, or any successor thereof.
+(c)"Code" means the Internal Revenue Code of 1986, as currently in effect or as hereafter amended.
+(d)"Company" means INTL FCStone Inc., a Delaware corporation.
+(e)"Continuous Employment" means the absence of any interruption or termination of employment (or termination of a consulting contract) by the Company or any Parent or Subsidiary which now exists or hereafter is organized or acquired by the Company. Continuous Employment with the Company shall not be considered interrupted in the case of sick leave, military leave, or any other leave of absence approved by the Company or in the case of transfers between locations of the Company or between any Parent or Subsidiary, or successor thereof.
+(f)"Disability" means total and permanent disability as defined in Section 22(e)(3) of the Code.
+(g)"Eligible Employee" means any employee, officer, director or consultant of the Company or any Parent or Subsidiary. In order to be eligible for an Incentive Stock Option, a director or a consultant must also be a common law employee of the Company as provided in Section 422 of the Code; however, in order to be eligible for a Nonqualified Stock Option, a director or consultant need not be a common law employee of the Company.
+(h)"Exchange Act" means the Securities Exchange Act of 1934, as amended.
+(i)"Fair Market Value" as of a particular date shall mean the fair market value of the Common Stock. For purposes of this Plan, the fair market value of one Share on any relevant date shall be determined as follows:
+(i)If the Shares are traded on an established securities market (including the NASDAQ Stock Market), the reported "closing price" on the relevant date, if it is a trading day; otherwise on the immediately preceding trading day; or
+(ii)If the Shares are not traded on an established securities market, the fair market value, as determined by the Board of Directors in good faith under a reasonable valuation method, as of the valuation date coinciding with or, if none, most recently preceding the relevant date. Such fair market valuation determination shall be made in a manner consistent with the rules prescribed under Section 409A of the Code, and with respect to Incentive Stock Options, consistent with rules prescribed under Section 422 of the Code.
+(j)"Incentive Stock Option(s)" means a stock option granted to an Eligible Employee to purchase Shares which is intended to qualify as an "incentive stock option" as defined in Section 422 of the Code.
+(k)"Mature Shares" means Shares for which the holder thereof has good title, free and clear of all liens and encumbrances, and that such holder either (i) has held for at least six months or (ii) has purchased on the open market.
+(l)"Nonqualified Stock Option(s)" means a stock option granted to an Eligible Employee to purchase Shares which is not intended to qualify as an "incentive stock option" as defined in Section 422 of the Code.
+(m)"Officer" means a person who is an officer of the Company within the meaning of Section 16 of the Securities Exchange Act of 1934, as amended, and the rules and regulations promulgated thereunder.
+(n)"Option" means any unexercised and unexpired Incentive Stock Option or Nonqualified Stock Option issued under this Plan, or any portion thereof remaining unexercised and unexpired.
+(o)"Option Agreement" means a written agreement by and between the Company and an Optionee setting forth the terms and conditions of the Option granted by the Board of Directors to such Optionee.
+(p)"Optionee" means any Eligible Employee who is granted an Option as provided in this Plan.
+(q)"Parent" means any present or future "parent corporation" of the Company as such term is defined in Section 424(e) of the Code and which the Board of Directors of the Company has elected to be covered by this Plan.
+(r)"Plan" means this Plan, as amended from time to time.
+(s)"Securities Act" means the Securities Act of 1933, as amended.
+(t)"Share" means a share of Stock.
+(u)"Stock" means authorized and unissued shares of the Company's Common Stock, $.01 par value per share, or treasury shares of such class.
+(v)"Subsidiary" means any present or future "subsidiary corporation" of the Company, as such term is defined in Section 424(f) of the Code and which the Board of Directors has elected to be covered by this Plan.
+Where applicable, the terms used in this Plan have the same meanings as the terms used in the Code, and the regulations and rulings issued thereunder and pursuant thereto, with reference to Options.
+3.Stock Subject to Option.
+(a)Available Shares. The total number of Shares which may be issued by the Company to all Optionees under this Plan is 2,000,000 Shares. Except as otherwise provided in Section 3(b) of this Plan, the total number of Shares which may be so issued may be increased only by a resolution adopted by the Board of Directors and approved by the shareholders of the Company.
+(b)Expired Options and Delivered Shares. If any Option granted under this Plan is terminated or expires for any reason whatsoever, in whole or in part, the Shares (or remaining Shares) subject to that particular Option shall again be available for grant under this Plan. The Board may from time to time determine the appropriate methodology for calculating the number of Shares issued pursuant to this Plan.
+4.Administration of this Plan.
+(a)Board of Directors. This Plan shall be administered by the Board of Directors who may, from time to time, issue orders or adopt resolutions, not inconsistent with the provisions of this Plan, to interpret the provisions and supervise the administration of this Plan. All determinations shall be by the affirmative vote of a majority of the members of the Board of Directors at a meeting, or reduced to writing and signed by all of the members of the Board of Directors.  Subject to the Company's Bylaws, all decisions made by the Board of Directors in selecting Optionees, establishing the number of Shares and terms applicable to each Option, and in construing the provisions of this Plan shall be final, conclusive and binding on all persons, including the Company, shareholders, Optionees, and purchasers of Shares pursuant to this Plan. The Board of Directors may amend this Plan and any Option Agreement without any additional consideration to affected Optionees to the extent necessary to avoid the imposition of penalties on holders of Options granted under this Plan under Section 409A of the Code, even if those amendments reduce, restrict or eliminate rights granted under the Plan or Option Agreements (or both) before those amendments. No member of the Board of Directors shall be liable for any action or determination made in good faith with respect to this Plan or an Option granted under this Plan.
+(b)Compensation Committee. The Board of Directors may from time to time appoint a Compensation Committee, consisting of not less than two (2) directors (the "Committee"). The Board of Directors may delegate to such Committee full power and authority to take any action required or permitted to be taken by the Board of Directors under this Plan, subject to restrictions on affiliate participation under the Securities Exchange Act of 1934, as amended, pertaining to, among other things, Section 16(b). The Board of Directors may from time to time, at its sole discretion, remove members from or add members to the Committee. Vacancies may be filled by the Board of Directors only. Where the context requires, the Board of Directors shall mean the Committee, if appointed, for matters dealing with administration of this Plan.
+(c)Authorization of Officers to Grant Options. In accordance with applicable law, the Board of Directors may, by a resolution adopted by the Board of Directors, authorize one or more Officers to designate Eligible Employees (excluding the Officer(s) so authorized and any other Officers of the Company who are or are expected to be subject to Section 16(b) of the Exchange Act) to be Optionees of Options and determine the number of Options to be granted to such Eligible Employees; provided, however, that the resolution adopted by the Board of Directors so authorizing such Officer or Officers shall specify the total number and the terms (including the exercise price, which may include a formula by which such price may be determined) of Options such Officer or Officers may so grant.
+(d)Compliance with Internal Revenue Code. The Board of Directors (or the Committee if appointed) shall at all times administer this Plan and make interpretations under this Plan in such a manner that Options granted under this Plan designated as Incentive Stock Options will meet the requirements of Section 422 of the Code.
+5.Selection of Optionees.
+(a)Discretion of the Board of Directors. In determining which Eligible Employees shall be offered Options, as well as the terms thereof, the Board of Directors shall evaluate, among other things, (i) the duties and responsibilities of Eligible Employees, (ii) their past and prospective contributions to the success of the Company, (iii) the extent to which they are performing and will continue to perform outstanding services for the benefit of the Company, and (iv) such other factors as the Board of Directors deems relevant.
+(b)Limitation on Incentive Stock Options. The aggregate Fair Market Value, determined on the date of grant, of Shares with respect to which any Incentive Stock Options under this Plan and all other plans of the Company become exercisable by any individual for the first time in any calendar year shall not exceed $100,000. To the extent that any Option exceeds this limit, it shall be deemed a Nonqualified Stock Option.
+(c)Limitation on Annual Grants of Options. No Eligible Employee shall be granted, in any fiscal year of the Company, Options to purchase more than 200,000 Shares. The limitation described in this Section 5(c) shall be adjusted proportionately in connection with any change in the Company's capitalization as described in Section 12 of this Plan. If an Option is canceled in the same fiscal year of the Company in which it was granted (other than in connection with a transaction described in Sections 12 or 13 of this Plan), the canceled Option will be counted against the limitation described in this Section 5(c).
+6.Option Agreement. Subject to the provisions of this Plan, each Option granted to an Optionee shall be set forth in an Option Agreement which shall include such terms and conditions as the Board of Directors determines, including a vesting schedule. Each such Option Agreement shall incorporate the provisions of this Plan by reference.  The date of the grant of an Option is the date specified in the Option Agreement. Any Option Agreement shall clearly identify the corresponding Option as an Incentive Stock Option or Nonqualified Stock Option.
+7.Option Prices.
+(a)Determination of Option Price. Except as otherwise provided by this Section 7(a), the option price for Stock shall not be less than one hundred percent (100%) of the fair market value of the Stock on the date of the grant of such Option. The option price for any Incentive Stock Option granted to an Eligible Employee who possesses more than ten percent (10%) of the total combined voting power of all classes of common stock of the Company shall not be less than one hundred ten percent (110%) of the fair market value of the Stock on the date of the grant of such Option. Any Option that is (1) granted to an Eligible Employee in connection with the acquisition ("Acquisition"), however effected, by the Company of another corporation or entity ("Acquired Entity") or the assets thereof, (2) associated with an option to purchase shares of stock or other equity interest of the Acquired Entity or an affiliate thereof ("Acquired Entity Option") held by such Eligible Employee immediately prior to such Acquisition, and (3) intended to preserve for the Eligible Employee the economic value of all or a portion of such Acquired Entity Option, may be granted with such exercise price as the Board of Directors determines to be necessary to achieve such preservation of economic value. Any Option that is granted to an Eligible Employee not previously employed by the Company, or a Parent or Subsidiary, as a material inducement to the Eligible Employee's commencing employment with the Company may be granted with such exercise price as the Board of Directors determines to be necessary to provide such material inducement.
+(b)Determination of Stock Ownership. For purposes of Sections 7 and 8, an Optionee's common stock ownership shall be determined by taking into account the rules of constructive ownership set forth in Section 424(d) of the Code.
+8.Term of Options.
+(a)No Incentive Stock Option granted under this Plan may be exercised later than ten (10) years from the date of grant. Non-Qualified Stock Options shall have such term as the Board of Directors shall determine.
+(b)The term for any Incentive Stock Option granted to an Eligible Employee who possesses more than ten percent (10%) of the total combined voting power of all classes of common stock of the Company shall not be more than five (5) years from the date of grant.
+9.Exercise of Option.
+(a)Limitation on Exercise of Option. Except as otherwise provided in this Plan, the Board of Directors, in its sole discretion, may limit an Option by restricting its exercise in whole or in part to specified vesting periods or until specified conditions have occurred. The vesting periods and any restrictions will be set forth in the Option Agreement.  The Board of Directors, in its sole discretion, may accelerate the vesting of any Option at any time.
+(b)Exercise Prior to Cancellation. An Option shall be exercisable only during the term of the Option as long as the Optionee is in Continuous Employment with the Company or is continually on the Board of Directors of the Company or any Parent, Subsidiary, or any successor thereof. Notwithstanding the preceding sentence, as long as the Option's term has not expired, and unless otherwise provided in the Option Agreement, an Option which is otherwise exercisable in accordance with its provisions shall be exercisable:
+(i)for a period ending ninety (90) days after the Optionee has terminated his Continuous Employment with the Company, unless the Optionee was terminated for cause by the Company in which case the Option shall terminate upon the delivery of notice of termination of employment; or
+(ii)for a period ending ninety (90) days after the removal or resignation of the Optionee from the Board of Directors of the Company or any Parent, Subsidiary, or any successor thereof, on which such Optionee has served; or
+(iii)by the estate of the Optionee, within one (1) year after the date of the Optionee's death, if the Optionee should die while in the Continuous Employment of the Company or while serving on the Board of Directors of the Company or any Parent, Subsidiary, or any successor thereof; or
+(iv)within one (1) year after the Optionee's employment with the Company terminates, if the Optionee becomes disabled during Continuous Employment with the Company and such Disability is the cause of termination.
+(c)Method of Exercising an Option. Subject to the provisions of any particular Option, including any provisions relating to vesting of the Option, an Optionee may exercise the Option, in whole or in part, by written notice to the Company stating in such written notice the number of Shares such Optionee elects to purchase under the Option, and the time of the delivery thereof, which time shall be at least fifteen (15) days after the giving of such notice, unless an earlier date shall have been mutually agreed upon. Upon receipt of such written notice, the Company shall provide the Optionee with that information required by the applicable federal and state securities laws. If, after receipt of such information, the Optionee desires to withdraw such notice of exercise, the Optionee may withdraw such notice of exercise by notifying the Company, in writing, prior to the time set forth for delivery of the Shares. In no event may an Option be exercised after the expiration of its term. An Optionee is under no obligation to exercise an Option or any part thereof.
+(d)Payment for Option Stock. The exercise of any Option shall be contingent upon receipt by the Company of the acceptable form of consideration equal to the full option price of the Shares being purchased. The acceptable form of consideration may consist of any combination of cash, certified bank check, wire transfer or, subject to the approval of the Board of Directors:
+(i)Mature Shares; or
+(ii)pursuant to procedures approved by the Board of Directors, (A) through the sale of the Shares acquired on exercise of the Option through a broker-dealer to whom the Optionee has submitted an irrevocable notice of exercise and irrevocable instructions to deliver promptly to the Company the amount of sale or loan proceeds sufficient to pay the exercise price, together with, if requested by the Company, the amount of federal, state, local or foreign withholding taxes payable by the Optionee by reason of such exercise, or (B) through simultaneous sale through a broker of Shares acquired upon exercise. For purposes of this Section 9, Mature Shares that are delivered in payment of the option price shall be valued at their Fair Market Value. In the alternative, the Board of Directors may, but is not required to, accept a promissory note, secured or unsecured, in the amount of the option price made by the Optionee on terms and conditions satisfactory to the Board of Directors.
+(e)Delivery of Stock to Optionee. Provided the Optionee has delivered proper notice of exercise and full payment of the option price, the Company shall undertake and follow all necessary procedures to make prompt delivery of the number of Shares which the Optionee elects to purchase at the time specified in such notice. Such delivery, however, may be postponed at the sole discretion of the Company to enable the Company to comply with any applicable procedures, regulations or listing requirements of any governmental agency, stock exchange or regulatory authority. As a condition to the issuance of Shares, the Company may require such additional payments from the Optionee as may be required to allow the Company to withhold any income taxes which the Company deems necessary to insure the Company that it can comply with any federal, state, local and foreign income tax withholding requirements.
+10.Nontransferability of Options. Except as otherwise provided in Section 9(b)(iii) and (iv) of this Plan, an Option granted to an Optionee may be exercised only during such Optionee's lifetime by such Optionee. An Option may not be sold, exchanged, assigned, pledged, encumbered, hypothecated or otherwise transferred except by will or by the laws of descent and distribution. No Option or any right thereunder shall be subject to execution, attachment or similar process by any creditors of an Optionee. Upon any attempted assignment, transfer, pledge, hypothecation or other encumbrance of any Option contrary to the provisions of this Plan, such Option and all rights thereunder shall immediately terminate and shall be null and void with respect to the transferee or assignee.
+11.Compliance with the Securities Laws.
+(a)Optionee's Written Statement. The Board of Directors may, in its sole discretion, require that at the time an Optionee elects to exercise his Option, he shall furnish a written statement to the Company that he is acquiring such Shares for investment purposes only and that he has no present intention of reselling or otherwise disposing of such Stock, along with a written acknowledgment that the Option and the Shares pertaining to the Option are not registered under the Securities Act, or any applicable state securities laws. In the event that Shares subject to the Option are registered under the Securities Act, an Optionee shall no longer be required to comply with this subsection 11(a).
+(b)Registration Requirements. If at any time the Board of Directors determines, in its sole discretion, that the listing, registration or qualification .of the Shares subject to an Option upon any securities exchange or under any federal or state securities laws, or the consent or approval of any governmental regulatory body, is necessary or desirable as a condition of, or in connection with, the issuance or purchase of Shares thereunder, then the Option may not be exercised, in whole or in part, unless such listing, registration, qualification, consent or approval shall have been effected or obtained (and the same shall have been free of any conditions not acceptable to the Board of Directors).
+(c)Restrictions on Transfer of Shares. The Shares acquired by an Optionee pursuant to the exercise of an Option shall be freely transferable; provided, however, that such Shares may not be sold, transferred, pledged or hypothecated, unless (i) a registration statement covering the securities is effective under the Securities Act, or (ii) an opinion of counsel, satisfactory to the Company, that such sale, transfer, pledge or hypothecation may legally be made without registration of such Shares under federal or state securities laws has been received by the Company.
+(d)Restrictive Legend. In order to enforce the restrictions imposed upon Shares under this Plan, the Company shall make appropriate notation in its stock records or, if applicable, shall issue an appropriate stock transfer instruction to the Company's stock transfer agent. In addition, the Company may cause a legend or legends to be placed on any certificates representing Shares issued pursuant to this Plan, which legend or legends shall make appropriate reference to such restrictions in substantially the following form:
+"The shares of Common Stock evidenced by this certificate have been issued under the INTL FCStone Inc. 2013 Stock Option Plan (the "Plan") and are subject to the terms and provisions of such Plan.
+These shares have not been registered under the Securities Act of 1933, as amended (the "Act"), or any state securities laws, and, therefore, cannot be sold unless they are subsequently registered under the Act and any applicable state securities laws or an exemption from registration is available."
+12.Changes in Capital Structure of Company. In the event of a capital adjustment resulting from a stock dividend, stock split, reclassification, recapitalization, or by reason of a merger, consolidation, or other reorganization in which the Company is the surviving corporation, the Board of Directors shall make such adjustment, if any, as it may deem appropriate in the number and kind of Shares authorized by this Plan, or in the number, option price and kind of Shares covered by the outstanding Options. The Company shall give notice of any adjustment to each Optionee and such adjustment shall be deemed conclusive. The foregoing adjustments and the manner of application of the foregoing provisions shall be determined solely by the Board of Directors, and any such adjustment may provide for the elimination of fractional Shares.
+13.Reorganization Dissolution or Liquidation. In the event of the dissolution or liquidation of the Company, or any merger or combination in which the Company is involved in which the Company is not a surviving corporation, or a transfer by the Company of substantially all of its assets or property to another corporation, or in the event any other corporation acquires control of the Company in a reorganization within the meaning of Section 368(a) of the Code, all outstanding Options shall thereupon terminate, unless such Options are assumed or substitutes therefor are issued (within the meaning of Section 425(a) of the Code) by the surviving or acquiring corporation in any such merger, combination or other reorganization. Notwithstanding the previous sentence, the Company shall give at least fifteen (15) days written notice of such transaction to holders of unexercised Options prior to the effective date of such merger, combination, reorganization, dissolution or liquidation. The Board of Directors, in its sole discretion, may elect to accelerate the vesting schedules of any or all Options previously issued upon such notice, and the holders thereof may exercise such Options prior to such effective date, notwithstanding any time limitation previously placed on the exercise of such Options.
+14.Notification of Disqualifying Disposition. If an Optionee sells or otherwise disposes of any of the Shares acquired pursuant to an Incentive Stock Option on or before the later of (i) two years after the date of grant, or (ii) one year after the exercise date, the Optionee shall immediately notify the Company in writing of such disposition.
+15.Escrow. In order to enforce the restrictions imposed upon Shares under this Plan, the Board of Directors or the Committee may require any Optionee to enter into an escrow agreement providing that the certificates representing Shares issued pursuant to this Plan shall remain in the physical custody of an escrow holder until any or all of such restrictions have terminated.
+16.Application of Funds. All proceeds received by the Company from the exercise of Options shall be paid into its treasury and such proceeds shall be used for general corporate purposes.
+17.Optionee's Rights as a Holder of Shares.
+(a)Prior to Exercise. No Optionee or his legal representatives, legatees or distributees, as the case may be, will be, or will be deemed to be, a holder of any share of Stock subject to an Option unless and until stock certificates for such Shares are issued to such person or persons pursuant to the terms of this Plan. Except as otherwise provided in Section 12 of this Plan, no adjustment shall be made for dividends or other rights for which the record date occurs prior to the date such stock certificate is issued.
+(b)Dividends. Purchasers of Stock pursuant to this Plan will be entitled, after issuance of their stock certificates, to any dividends that may be declared and paid on the Shares registered in their names. A stock certificate representing dividends declared and paid in Shares shall be issued and delivered to the purchaser after such Shares have been registered in the purchaser's name. Such stock certificate shall bear the legends set forth above and shall be subject to the provisions of this Plan, the Option Agreement and any escrow arrangement.
+(c)Voting Rights. Purchasers of Shares of the Stock shall be entitled to receive all notices of meetings and exercise all voting rights of a shareholder with respect to the Shares purchased.
+18.Amendment and Termination of this Plan.
+(a)Discretion of the Board of Directors. The Board of Directors may amend or terminate this Plan at any time; provided, however, that (i) any such amendment or termination shall not adversely affect the rights of any Optionee, unless mutually agreed otherwise between the Optionee and the Company, which agreement must be in writing and signed by the Optionee and the Company; and (ii) the Company shall obtain shareholder approval of any Plan amendment to the extent the Board determines that such approval is necessary and desirable to comply with Section 422 of the Code (or any successor statute or regulation) or other applicable law, rule or regulation, including the requirements of any exchange or quotation system on which the Common Stock is listed or quoted. Such stockholder approval, if required, shall be obtained in such a manner and to such a degree as is required by the applicable law, rule or regulation.
+(b)Automatic Termination. This Plan shall terminate ten (10) years after its approval by the shareholders of the Company or its adoption by the Board of Directors, whichever is earlier, unless the Board of Directors shall, in its discretion, elect to terminate this Plan at an earlier date. Options may be granted under this Plan at any time and from time to time prior to termination of this Plan under this subsection 18(b). Any Option outstanding at the time this Plan is terminated under this subsection 18(b) shall remain in effect until the Option is exercised or expires.
+19.Miscellaneous.
+(a)Notices. All notices and elections by an Optionee shall be in writing and delivered in person or by mail to the President or Treasurer of the Company at the principal office of the Company.
+(b)Effective Date of this Plan. This Plan shall be effective upon adoption of this Plan by the Board of Directors. This Plan shall be submitted to the shareholders of the Company for their approval within 12 months of the approval by the Board of Directors and, if such approval is not obtained, this Plan shall terminate. Options may be granted prior to the obtaining of such shareholder approval but the exercise of such options shall be conditioned upon such shareholder approval.
+(c)Employment. Nothing in this Plan or in any Option granted under this Plan, or in any Stock Option Agreement relating thereto shall confer upon any employee of the Company or any Subsidiary, or any successor thereof, the right to continue in the employ of the Company or any Subsidiary.
+(d)Section 409A. This Plan is intended to comply with Section 409A of the Code to the extent subject thereto, and, accordingly, to the maximum extent permitted, this Plan shall be interpreted and administered to be in compliance therewith.
+(e)Plan Binding. This Plan shall be binding upon the successors and assigns of the Company.
+(f)Gender. Whenever used in this Plan, nouns in the singular shall include the plural, and the masculine pronoun shall include the feminine gender.
+(g)Headings. Captioned headings of Sections and subsections of this Plan are inserted for convenience and reference, and constitute no part of this Plan.
+(h)Applicable Law. This Plan and related Option Agreements shall be governed by and construed in accordance with the laws of the State of Delaware without regard to the conflicts of law principles thereof.
+ 

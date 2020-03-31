@@ -1,0 +1,1818 @@
+
+[BEGIN TABLE]
+  o   Preliminary Proxy Statement o   Confidential, for Use of the Commission Only (as permitted by Rule 14a-6(e)(2))  
+ ☒   Definitive Proxy Statement o   Definitive Additional Materials o   Soliciting Material under § 240.14a-12  
+[END TABLE]
+[BEGIN TABLE]
+ ☒   No fee required.  
+  o   Fee computed on table below per Exchange Act Rules 14a-6(i)(1) and 0-11.  
+     (1)   Title of each class of securities to which transaction applies:  
+     (2)   Aggregate number of securities to which transaction applies:  
+     (3)   Per unit price or other underlying value of transaction computed pursuant to Exchange Act Rule 0-11 (set forth the amount on which the filing fee is calculated and state how                  it was determined):  
+     (4)   Proposed maximum aggregate value of transaction:  
+     (5)   Total fee paid:  
+  o   Fee paid previously with preliminary materials.  
+  o   Check box if any part of the fee is offset as provided by Exchange Act Rule 0-11(a)(2) and identify the filing for which the offsetting fee was paid previously. Identify the                  previous filing by registration statement number, or the Form or Schedule and the date of its filing.  
+     (1)   Amount Previously Paid:  
+     (2)   Form, Schedule or Registration Statement No:  
+     (3)   Filing Party:  
+     (4)   Date Filed:  
+[END TABLE]
+[BEGIN TABLE]
+ /s/ David M. Cordani                   David M. Cordani                                         President and Chief Executive Officer   /s/ Isaiah Harris, Jr.                   Isaiah Harris, Jr.                                         Chairman of the Board  
+[END TABLE]
+[BEGIN TABLE]
+ NOTICE OF 2019 ANNUAL MEETING OF SHAREHOLDERS            
+[END TABLE]
+[BEGIN TABLE]
+ DATE AND TIME:   Wednesday, April 24, 2019 at 8:00 a.m.   
+ PLACE:   Windsor Marriott Hotel, Ballroom IV                   28 Day Hill Road                   Windsor, Connecticut 06095   
+ ITEMS OF BUSINESS:   Proposal 1: Election of thirteen director nominees named in this Proxy Statement for one-year terms to expire at the next annual meeting of shareholders.   
+     Proposal 2: Advisory approval of executive compensation.   
+     Proposal 3: Ratification of the appointment of PricewaterhouseCoopers LLP as the Company's independent registered public accounting firm for 2019.   
+     Proposal 4: Shareholder Proposal — Increase shareholder rights to include action by written consent, if properly presented.   
+     Proposal 5: Shareholder Proposal — Cyber risk report, if properly presented.   
+     Proposal 6: Shareholder Proposal — Gender pay gap report, if properly presented.   
+     Consideration of any other business properly brought before the meeting.   
+ RECORD DATE:   You may vote on the matters presented at the Annual Meeting if you were a shareholder of record at the close of business on February 25, 2019.   
+ PROXY VOTING:   Your vote is very important, regardless of the number of shares you own. We urge you to promptly vote by telephone, by using the internet, or, if you received a proxy card                  or instruction form, by completing, dating, signing and returning it by mail.  
+ March 15, 2019   By order of the Board of Directors,                                         /s/ Julia Brncic                   Julia Brncic                   Corporate Secretary  
+[END TABLE]
+[BEGIN TABLE]
+ Important Notice Regarding the Availability of Proxy Materials for                   the Annual Meeting of Shareholders To Be Held on April 24, 2019  
+ The Notice of Annual Meeting, Proxy Statement and Annual Report for                   the fiscal year ended December 31, 2018 are available at www.envisionreports.com/ci.  
+[END TABLE]
+[BEGIN TABLE]
+ TABLE OF CONTENTS            
+[END TABLE]
+[BEGIN TABLE]
+ PROXY STATEMENT SUMMARY                            1      
+ CORPORATE GOVERNANCE MATTERS                            7      
+ ELECTION OF DIRECTORS (PROPOSAL 1)       7      
+ DIRECTOR EXPECTATIONS AND QUALIFICATIONS       7      
+ PROCESS FOR SELECTING AND NOMINATING DIRECTORS       8      
+ PROCESS FOR DIRECTOR ELECTIONS       9      
+ 2018 BOARD COMPOSITION DEVELOPMENTS       9      
+ COMMITMENT TO BOARD DIVERSITY       10      
+ OTHER PRACTICES       10      
+ BOARD OF DIRECTORS' NOMINEES       11      
+ CORPORATE GOVERNANCE POLICIES AND PRACTICES       19      
+ 2018 CORPORATE GOVERNANCE HIGHLIGHTS       19      
+ DIRECTOR INDEPENDENCE       20      
+ BOARD LEADERSHIP STRUCTURE       20      
+ BOARD EVALUATIONS AND BOARD EFFECTIVENESS       21      
+ RESPONSIBILITIES OF THE BOARD       22      
+ BOARD MEETINGS AND COMMITTEES       23      
+ CODES OF ETHICS       26      
+ CORPORATE RESPONSIBILITY       26      
+ ANNUAL POLITICAL CONTRIBUTIONS AND LOBBYING ACTIVITY REPORT       28      
+ CERTAIN TRANSACTIONS       28      
+ NON-EMPLOYEE DIRECTOR COMPENSATION       29      
+ OVERVIEW       29      
+ DIRECTOR COMPENSATION PROGRAM       29      
+ DIRECTOR COMPENSATION TABLE FOR 2018       31      
+ DIRECTOR OWNERSHIP       32      
+ COMPENSATION MATTERS                            33      
+ ADVISORY APPROVAL OF EXECUTIVE COMPENSATION (PROPOSAL 2)       33      
+ COMPENSATION DISCUSSION AND ANALYSIS       34      
+ EXECUTIVE SUMMARY       35      
+ EXECUTIVE COMPENSATION POLICIES AND PRACTICES       37      
+ ELEMENTS OF COMPENSATION       41      
+ EMPLOYMENT ARRANGEMENTS AND POST-TERMINATION PAYMENTS       52      
+ PROCESSES AND PROCEDURES FOR DETERMINING EXECUTIVE COMPENSATION       55      
+ OTHER PRACTICES       57      
+ REPORT OF THE PEOPLE RESOURCES COMMITTEE       59      
+ EXECUTIVE COMPENSATION TABLES       60      
+ 2018 SUMMARY COMPENSATION TABLE       60      
+ GRANTS OF PLAN-BASED AWARDS IN 2018       63      
+ OUTSTANDING EQUITY AWARDS AT YEAR-END 2018       65      
+ OPTION EXERCISES AND STOCK VESTED IN 2018       67      
+ PENSION BENEFITS FOR 2018       68      
+ NONQUALIFIED DEFERRED COMPENSATION FOR 2018       70      
+ POTENTIAL PAYMENTS UPON TERMINATION OR CHANGE OF CONTROL       72      
+ AUDIT MATTERS                            77      
+ RATIFICATION OF APPOINTMENT OF INDEPENDENT REGISTERED PUBLIC ACCOUNTING FIRM (PROPOSAL 3)       77      
+ REPORT OF THE AUDIT COMMITTEE       80      
+ SHAREHOLDER PROPOSALS                            81      
+ SHAREHOLDER PROPOSAL — INCREASE SHAREHOLDER RIGHTS TO INCLUDE ACTION BY WRITTEN CONSENT (PROPOSAL 4)       81      
+ SHAREHOLDER PROPOSAL — CYBER RISK REPORT (PROPOSAL 5)       85      
+ SHAREHOLDER PROPOSAL — GENDER PAY GAP REPORT (PROPOSAL 6)       89      
+ OWNERSHIP OF CIGNA COMMON STOCK                            92      
+ STOCK HELD BY DIRECTORS, NOMINEES AND EXECUTIVE OFFICERS       92      
+ STOCK HELD BY CERTAIN BENEFICIAL OWNERS       94      
+ SECTION 16(a) BENEFICIAL OWNERSHIP REPORTING COMPLIANCE       94      
+ ANNUAL MEETING INFORMATION                            95      
+ ANNEX A — NON-GAAP FINANCIAL INFORMATION                            A-1      
+ ANNEX B — SURVEY DATA        B-1      
+ ANNEX C-1 — 2018 GENERAL INDUSTRY PEER GROUP                            C-1-1      
+ ANNEX C-2 — POST-MERGER GENERAL INDUSTRY PEER GROUP                            C-2-1      
+[END TABLE]
+[BEGIN TABLE]
+ PROXY STATEMENT SUMMARY  
+[END TABLE]
+[BEGIN TABLE]
+ We provide below highlights of certain information in this Proxy Statement. As it is only a summary, please refer to the complete Proxy Statement and 2018 Annual                  Report before you vote.  
+ Mission and Strategy   
+ Cigna's mission is dedicated to improving the health, well-being and peace of mind of those we serve around the globe. Our strategic focus in support                  of our mission is to Go Deeper, Go Local and Go Beyond in order to expand avenues for growth and performance. Creating value for our customers, clients, partners, communities and, in turn, our shareholders, is a direct result of the                  continued, effective execution of this proven strategy.   
+ Our Mission  
+ To improve the health, well-being and peace of mind of those we serve  
+ Our Strategy  
+     Go Deeper:    To expand and deepen our customer, client and partner relationships; depth in targeted sub-segments and geographies      
+     Go Local:    To ensure our solution suite and services meet customer, client and partner needs at a local market level      
+     Go Beyond:    To innovate and further differentiate our businesses, the experiences we deliver, and overall social impact      
+ How We Win  
+[END TABLE]
+[BEGIN TABLE]
+ For the past decade, we have been a leader in creating value-based, collaborative partnerships, with nearly 600 value-based care arrangements in place around the                  country. During this time, we have progressed steadily beyond the financing of sick care and strive to provide services and solutions designed to help people live well and be better equipped to prevent and manage health challenges.  
+ In 2018, we accelerated the execution of our strategy through the combination with Express Scripts Holding Company (Express Scripts). We now have even more                  opportunities to accelerate the pace of change, and to help deliver on the critical priority of building a more sustainable model for health care. Together, as we enhance delivery of whole person health, we will address the need for greater                  affordability, choice and predictability by leveraging a significantly stronger medical and pharmacy cost position, as well as coupling more actionable insights and analytics with enhanced clinical and care coordination capabilities.  
+[END TABLE]
+[BEGIN TABLE]
+ Our Values  
+ Cigna and Express Scripts share a commitment to supporting local communities and improving societal health. In furtherance of this commitment, we announced a $200                  million investment in our foundation and our communities. In January 2019, we launched Healthier Kids for Our Future, a $25 million five-year global initiative to improve the health and well-being of children. Cigna's 74,000 global                  employees will work together to put children on a healthier path, starting with reducing childhood hunger and improving nutrition in local communities.  
+[END TABLE]
+[BEGIN TABLE]
+     Cigna 2019 Notice of Annual Meeting of Shareholders and Proxy Statement         1  
+[END TABLE]
+[BEGIN TABLE]
+ PROXY STATEMENT SUMMARY  
+[END TABLE]
+[BEGIN TABLE]
+ Business Performance   
+ 2018 was an exceptional year for Cigna, including the successful completion of the combination with Express Scripts. Milestones achieved on the course of closing the                  transaction included regulatory approval from the Department of Justice and the required states, approval of Cigna's and Express Scripts' shareholders and execution of complex debt financing. Through all of this, both companies demonstrated                  strong collaboration on integration planning activities — focused on improving affordability for our customers and clients, expanding choice in the marketplace and improving predictability. In addition to closing the transaction, Cigna                  delivered exceptionally strong results in 2018, some of which are highlighted below:  
+ The strong revenue and earnings growth of 2018 continues Cigna's track record of strong performance, highlighted by:  
+ Effective in the fourth quarter of 2018, we changed our segments to reflect the management and business reporting structure of the combined company following                  closing. Our segments now include:  
+[END TABLE]
+[BEGIN TABLE]
+     Integrated Medical includes Cigna's Commercial and Government businesses that provide                    comprehensive medical solutions to clients and customers.  
+     Health Services includes a broad range of pharmacy services, including benefits management, specialty pharmacy services, clinical solutions, home delivery, and certain medical management services.  
+     International Markets includes supplemental health, life and accident insurance products and health care coverage in our international markets as well as health care benefits to globally mobile employees of multinational organizations.  
+     Group Disability and Other includes Cigna's Group Disability and Life business which offers group long-term and short-term disability, and group life, accident and specialty insurance products and services. Additionally, this segment includes Corporate Owned Life Insurance and the                    Company's run-off operations.  
+[END TABLE]
+[BEGIN TABLE]
+ *    We encourage you to review our Annual Report on Form 10-K for the year ended December 31, 2018 for more complete financial information. Consolidated adjusted                    income from operations and consolidated adjusted revenue are not determined in accordance with accounting principles generally accepted in the United States (GAAP) and should not be viewed as a substitute for the most                    directly comparable GAAP measures, shareholders' net income and total revenues, respectively. Shareholders' net income was $2.6 billion and total revenues were $49 billion for the year ended December 31, 2018. Additional                    information regarding our use of non-GAAP measures and reconciliations to the most directly comparable GAAP measure can be found on Annex A.  
+[END TABLE]
+[BEGIN TABLE]
+ 2         Cigna                      2019 Notice of Annual Meeting of Shareholders and Proxy Statement        
+[END TABLE]
+[BEGIN TABLE]
+ PROXY STATEMENT SUMMARY  
+[END TABLE]
+[BEGIN TABLE]
+ Board of Directors   
+Our director nominees exhibit an effective mix of skills and experience which support Cigna's strategy of Go Deeper, Go Local and Go Beyond. In 2018, the Board added five new members, four of whom were directors of Express Scripts prior to the merger. 
+Our director nominees exhibit an effective mix of skills and experience which support Cigna's strategy of Go Deeper, Go Local and Go Beyond. In 2018, the Board added five new members, four of whom were directors of Express Scripts prior to the merger. 
+[END TABLE]
+[BEGIN TABLE]
+     CURRENT                   DIRECTORS   AGE   INDEPENDENT   DIRECTOR                   SINCE   OCCUPATION   COMMITTEE                   MEMBERSHIPS      
+     David M. Cordani   53   ✘   2009   President and Chief Executive Officer of Cigna                         Executive                            
+     William J. DeLaney   63   ✔   2018*   Former Chief Executive Officer of Sysco Corporation   Audit                   Corporate Governance      
+     Eric J. Foss   60   ✔   2011   Chairman, President and Chief Executive Officer of Aramark Corporation   Compliance                   Corporate Governance      
+     Elder Granger, MD, MG, USA   65   ✔   2018*   President and Chief Executive Officer of The 5Ps, LLC   Compliance                   Corporate Governance      
+     Isaiah Harris, Jr.   66   ✔   2005   Former President and Chief Executive Officer of AT&T Advertising & Publishing – East   Chairman of the Board Executive (Chair)      
+     Roman Martinez IV   71   ✔   2005   Private Investor   Audit (Chair)                   Executive                   Finance      
+     Kathleen M. Mazzarella   58   ✔   2018*   Chairman, President and Chief Executive Officer of Graybar Electric Company, Inc.   Finance                   People Resources      
+     Mark B. McClellan, MD, PhD   55   ✔   2018   Director, Duke-Robert J. Margolis, MD, Center for Health Policy   Audit                   Corporate Governance      
+     John M. Partridge   69   ✔   2009   Former President of Visa, Inc.   Finance (Chair)                   Audit                   Executive      
+     William L. Roper, MD, MPH   70   ✔   2018*   Interim President of The University of North Carolina System   Compliance (Chair)                   Executive                   Finance      
+     Eric C. Wiseman   63   ✔   2007   Former Executive Chairman, President and Chief Executive Officer of VF Corporation   Finance                   People Resources      
+     Donna F. Zarcone   61   ✔   2005   President and Chief Executive Officer of The Economic Club of Chicago   Corporate Governance (Chair)                   Compliance                   Executive      
+     William D. Zollars   71   ✔   2005   Former Chairman, President and Chief Executive Officer of YRC Worldwide, Inc.   People Resources (Chair)                   Executive                   Corporate Governance      
+[END TABLE]
+[BEGIN TABLE]
+ *   Previously a director of Express Scripts                                              
+[END TABLE]
+[BEGIN TABLE]
+     Cigna 2019 Notice of Annual Meeting of Shareholders and Proxy Statement         3  
+[END TABLE]
+[BEGIN TABLE]
+ PROXY STATEMENT SUMMARY  
+[END TABLE]
+[BEGIN TABLE]
+ Corporate Governance  
+ Cigna is committed to ensuring strong corporate governance practices on behalf of our shareholders. We believe that strong corporate governance provides the                  foundation for financial integrity and shareholder confidence. Cigna's Board of Directors, the Office of the Corporate Secretary and the Investor Relations team engage with shareholders on issues related to corporate governance, executive                  compensation, social responsibility and other areas of focus for shareholders.  
+ Corporate Governance Highlights   
+ Throughout 2018, we continued to focus on enhancing our corporate governance practices. Our 2018 corporate governance highlights include:  
+[END TABLE]
+[BEGIN TABLE]
+• Board Composition. The Board added five new directors in 2018, four of whom were directors of Express Scripts prior to the merger. Three of the new directors have                  strong backgrounds in health services and delivery systems, as well as experience in regulated industries and public policy. Certain of our new directors have experience in finance, marketing and consumer insights, and as business leaders.                  These new directors enhance the Board's ethnic and gender diversity, as well as the diversity of backgrounds, skills and experiences on the Board which together support Cigna's mission and strategy.  
+• Creation of Compliance Committee. The Board evaluated its structure, particularly its committee structure, in light of the Express Scripts merger. Following this                  review, the Board approved the creation of a Compliance Committee. The Compliance Committee oversees the Company's key compliance and ethics programs, including compliance with the laws and regulations that apply to business operations,                  such as data privacy and U.S. federal and state health care program requirements.  
+• Corporate Governance Guidelines. In July 2018, the Board approved amendments to its Corporate Governance Guidelines to require the Corporate Governance Committee, and any search firm it engages, to include women and minority candidates in the pool from which the Committee selects director candidates. 
+• Corporate Governance Guidelines. In July 2018, the Board approved amendments to its Corporate Governance Guidelines to require the Corporate Governance Committee, and any search firm it engages, to include women and minority candidates in the pool from which the Committee selects director candidates. 
+     KEY GOVERNANCE PRACTICES      
+• Independent board of directors with diversity in                        composition, skills and experience• Independent Chairman of the Board• Regular executive sessions of the Board and its                        committees, without management present• Directors elected by majority voting• Annual election of all directors• Proxy access right for shareholders• Separate Code of Business Conduct and Ethics for                        the Board• Independent Audit, Compliance, Corporate                        Governance, Finance and People Resources                        Committees• Annual self-evaluations of the Board, its committees                        and individual directors, including periodic                        independent third party assessments• Majority of director compensation delivered in                        Cigna common stock• Meaningful stock ownership guidelines for directors• No supermajority vote provisions in our Certificate of       Incorporation or By-Laws• No shareholder rights plan, or poison pill• Any pool from which the Corporate Governance                        Committee selects director candidates must include                        women and minority candidates      
+[END TABLE]
+[BEGIN TABLE]
+ 4         Cigna                      2019 Notice of Annual Meeting of Shareholders and Proxy Statement        
+[END TABLE]
+[BEGIN TABLE]
+ PROXY STATEMENT SUMMARY  
+[END TABLE]
+[BEGIN TABLE]
+ Executive Compensation   
+ Cigna's executive compensation program is based on the philosophy that executive pay should strongly align with the interests of our shareholders, directly link to                  Company and individual performance and attract and retain executive talent. We believe that tying executive compensation to the achievement of our enterprise goals will result in the creation of meaningful and sustained long-term value for                  our shareholders. Each of the measures in our performance-based plans are designed to align with, and support, our business strategy. We focus on driving enterprise profitability and growth to support investment in innovation, customer                  retention and shareholder return.   
+ In 2018, our shareholders cast advisory votes in favor of our executive compensation program, with approximately 93% of votes cast in favor.   
+[END TABLE]
+[BEGIN TABLE]
+     What We Do      
+     ✔   Strong alignment between pay and performance.                   ✔   "Double trigger" requirement for change of control benefits.                   ✔   Regular review of executive compensation governance                         market practices, particularly when considering the                         adoption of new practices or changes to existing programs                         or policies.                   ✔   Robust stock ownership guidelines and shareholding                         requirements for equity awards to align executives' interests                         with shareholders.                   ✔   A disgorgement of awards (clawback) policy beyond the                         mandates of Sarbanes-Oxley.                   ✔   Management of the Cigna Long-Term Incentive Plan annual                         share usage (or burn rate) and total dilution by setting an                         annual share usage limit, which is below the maximum                         permitted under the plan.                   ✔   Oversight of people development policies and processes,                         including consideration of assessments of executive officers                         and key senior management.                   ✔   CEO and executive officer succession plans overseen by the                         Board of Directors, with assistance from the People                         Resources Committee.   ✔   An annual assessment by the People Resources                         Committee of any potential risks and associated internal                         controls in our incentive compensation programs and                         policies.                   ✔   Minimum acceptable level of financial performance   				      required in order for any payments to be made under the    				      annual incentive plan.                   ✔   Approximately 90% of our CEO's target total direct                         compensation is performance-based.                       
+     What We Don't Do      
+     ✘   No excessive perquisites.      
+     ✘   No hedging of Cigna stock by any directors, executive                         officers or employees, and no pledging of Cigna stock                         by directors or Section 16 officers unless approved                          in limited circumstances.      
+     ✘   No discounting, reloading or repricing of stock options                         without shareholder approval.      
+     ✘   No payment of dividends on unvested shares.      
+[END TABLE]
+[BEGIN TABLE]
+ Emphasis on Performance Based Compensation   
+ The pay mix for the Chief Executive Officer and the other named executive officers (NEOs) during 2018 reflects our executive compensation philosophy that emphasizes                  performance-based compensation over fixed compensation. As illustrated in the charts below, performance-based compensation represented approximately 92% of Mr. Cordani's total direct compensation for 2018, including 67% in long-term                  incentives and 25% in annual incentives. On average, performance-based compensation represented 83% of total direct compensation for the other NEOs that served as executive officers at the end of 2018 (not including Mr. Wentworth who became                  an executive officer at the closing of the merger), including an average of 49% in long-term incentives and 34% in annual incentives.  
+[END TABLE]
+[BEGIN TABLE]
+ *   For purposes of this chart, Mr. Wentworth is not included due to the timing of his appointment as an executive officer, and Mr. Hocevar and Dr.                    Muney are not included because they did not serve as executive officers at the end of 2018.                        
+[END TABLE]
+[BEGIN TABLE]
+     Cigna 2019 Notice of Annual Meeting of Shareholders and Proxy Statement         5  
+[END TABLE]
+[BEGIN TABLE]
+ PROXY STATEMENT SUMMARY  
+[END TABLE]
+[BEGIN TABLE]
+ Voting Matters and Board Recommendations   
+[END TABLE]
+[BEGIN TABLE]
+     MANAGEMENT PROPOSALS   MORE                   INFORMATION      
+     For the reasons set forth below and as further detailed throughout this Proxy Statement, the Board of Directors unanimously                   recommends that you vote FOR each of the management proposals.      
+                           Proposal 1. Election of Directors.                                         The Board and the Corporate Governance Committee believe that the thirteen director nominees named in this Proxy Statement bring a combination of diverse qualifications, skills and experiences that contribute to a well-rounded Board. As                  determined by the Board and Corporate Governance Committee, each director nominee has proven leadership ability, good judgment and is a valued participant on the Board.   Page 7      
+                           Proposal 2. Advisory Approval of Executive Compensation.                                         The Board believes that Cigna's executive compensation program design effectively aligns the interests of our executive officers with those of our shareholders by tying a significant portion of their compensation to Cigna's performance and                  rewarding our executive officers for the creation of long-term value for Cigna's shareholders. Because your vote is advisory, it will not be binding upon the Board. However, the Board and People Resources Committee value your opinion and                  will review and consider the voting results when making future executive compensation decisions.   Page 33      
+                           Proposal 3. Ratification of the Appointment of PricewaterhouseCoopers LLP as our Independent Registered Public Accounting Firm for 2019.                                         The Audit Committee approved the appointment of PricewaterhouseCoopers LLP as Cigna's independent registered public accounting firm for 2019. The Audit Committee and the Board believe that the continued retention of PricewaterhouseCoopers                  LLP to serve as the Company's independent registered public accounting firm is in the best interests of the Company and its shareholders. As a matter of good corporate governance, the Board is seeking shareholder ratification of the                  appointment.   Page 77      
+[END TABLE]
+[BEGIN TABLE]
+     SHAREHOLDER PROPOSALS   MORE                   INFORMATION      
+     For the reasons set forth below and as further detailed throughout this Proxy Statement, the Board of Directors unanimously                   recommends that you vote AGAINST each of the shareholder proposals.                       
+                           Proposal 4. Increase Shareholder Rights to Include Action by Written Consent.                                         The Board believes that the implementation of this proposal is not in the best interests of shareholders or the Company and is unnecessary, given the Company's strong corporate governance practices and policies, including the ability of                  shareholders to act through proxy access. Unlike written consents, taking action at shareholder meetings allows for accurate and complete information about the proposed shareholder action to be widely distributed, ensuring an opportunity                  for well-informed discussion and consideration of the merits of the proposed action. This proposal would circumvent the protections, procedural safeguards and advantages provided to all shareholders by shareholder meetings.   Page 81      
+                           Proposal 5. Cyber Risk Report.                                         The Company provides comprehensive disclosure related to cyber security risks and data protection, consistent with the SEC's rules and guidance in its Annual Report on Form 10-K. We describe the Board's oversight of risk, including cyber                  security risk, in this Proxy Statement. In addition, the Company provides detailed supplemental information about our information protection policies, practices and procedures related to information protection and cyber security in our                  annual Corporate Responsibility Report. If a material cyber event were to occur, we would provide disclosure of the event consistent with the SEC's guidance. Therefore, the Board does not believe that providing a separate cyber security                  report is necessary.   Page 85      
+                           Proposal 6. Gender Pay Gap Report.                                         Cigna is committed to pay equity and recognizes that our continued success depends on the collective strengths of our employees and we are dedicated to attracting, retaining and rewarding the performance of our diverse workforce to best                  meet the needs of our customers. The recruiting, training and compensation programs at Cigna are designed to prevent gender pay differences and reduce the risks identified in the proposal. Cigna performs regular pay equity data analysis to                  proactively review and address pay disparities not explained by objective factors. The Board believes that adoption of the proposal is unnecessary as it would not enhance Cigna's already established commitment to pay equity and diversity                  and inclusion.   Page 89      
+ 2019 Annual Meeting of Shareholders Wednesday, April 24, 2019                     8:00 a.m.                     Windsor Marriott Hotel, Ballroom IV                     28 Day Hill Road                     Windsor, Connecticut 06095  
+[END TABLE]
+[BEGIN TABLE]
+ 6         Cigna                      2019 Notice of Annual Meeting of Shareholders and Proxy Statement        
+[END TABLE]
+[BEGIN TABLE]
+ CORPORATE GOVERNANCE MATTERS        
+[END TABLE]
+[BEGIN TABLE]
+ Expectations of Every Director  
+• Understand Cigna's businesses and the importance                        of the creation of shareholder value• Participate in an active, constructive and objective                        way at Board and committee meetings• Review and understand advance briefing materials• Contribute effectively to the Board's evaluation of                        executive talent, compensation and succession                        planning• Contribute effectively to the Board's assessment of                        strategy and risk• Share expertise, experience, knowledge and insights                        on matters before the Board• Advance Cigna's business objectives and reputation• Demonstrate an ongoing commitment to consult                        and engage with the CEO and senior management                        outside of Board and committee meetings on                        matters impacting Cigna  
+[END TABLE]
+[BEGIN TABLE]
+ Qualifications, Characteristics, Skills and Experience of Every Director  
+• Good judgment and strong commitment to ethics                        and integrity• Ability to analyze complex business and public                        policy issues and provide relevant input concerning                        the Company's business strategy• Free from conflicts of interest• Ability to assess different risks and their impact on                        shareholder value• Contribution to the Board's overall diversity of                        thought• High degree of achievement in their respective                        fields  
+[END TABLE]
+[BEGIN TABLE]
+     Cigna 2019 Notice of Annual Meeting of Shareholders and Proxy Statement         7  
+[END TABLE]
+[BEGIN TABLE]
+ CORPORATE GOVERNANCE MATTERS        
+[END TABLE]
+[BEGIN TABLE]
+ AREAS OF EXPERTISE REFLECTED ON Cigna'S                     BOARD OF DIRECTORS  
+ Business Leader  
+ Directors who have served as a chief executive officer, a CEO-equivalent or a business unit leader of a large company bring a practical understanding of large organizations,                  processes, strategy and risk management.   
+ Finance  
+ An understanding of finance, capital markets and financial reporting processes is necessary for a well-rounded Board because of the importance we place on accurate financial                  reporting and robust financial controls and compliance. In addition, Cigna's business involves complex financial transactions.  
+ Health Services and Delivery Systems  
+ As we work to create a sustainable health care ecosystem, the Board values directors with experience on issues related to improving access to care and reducing health costs                  to patients through the provision of care management and the use of innovative delivery system solutions.  
+ Information Technology  
+ Effective information systems and the integrity and timeliness of the data we use to serve our customers and health care professionals are integral to the operation of our                  business. For this reason, the Board benefits from directors with leadership experience related to the development, installation, implementation, security or maintenance of computer systems, applications and digital informatics.  
+ International/Global  
+ The Board values directors with leadership experience overseeing non-U.S. operations and working in diverse cultures around the globe.  
+ Marketing and Consumer Insights  
+ Our customer-focused strategy benefits from inclusion of directors with leadership experience in marketing, advertising and consumer insight functions. These directors also                  have experience with product development and brand building, particularly as it focuses on end-user consumers.  
+ Regulated Industry/Public Policy  
+ Our business is highly regulated at the federal, state, local and international levels. For this reason, the Board benefits from directors with experience in regulated                  industries and public policy to help us identify, assess and respond to new trends in the legislative and regulatory environment.  
+[END TABLE]
+[BEGIN TABLE]
+ 8         Cigna 2019                      Notice of Annual Meeting of Shareholders and Proxy Statement        
+[END TABLE]
+[BEGIN TABLE]
+ CORPORATE GOVERNANCE MATTERS        
+[END TABLE]
+[BEGIN TABLE]
+     Cigna 2019 Notice of Annual Meeting of Shareholders and Proxy Statement         9  
+[END TABLE]
+[BEGIN TABLE]
+ CORPORATE GOVERNANCE MATTERS        
+[END TABLE]
+[BEGIN TABLE]
+ Limits on Public Company                   Directorships   To ensure each director is able to devote sufficient time and attention to his or her responsibilities as a board member, the Board has established the following limits                  on outside directorships:  
+• Each director who also is a chief executive officer of a public company may not serve on more than one other public company board in addition to Cigna's Board and the                  board of his or her employer (for a total of three public company directorships); and  
+• Each director who is not a chief executive officer of a public company may serve on no more than four boards of other public companies (for a total of five such                  directorships).  
+ All of our directors are in compliance with these limits on outside directorships.  
+ Change in Director's Principal                   Position   If a director changes his or her principal employment position, that director is required to tender his or her resignation from the Board to the Corporate Governance                  Committee. The Committee will then recommend to the Board whether to accept or decline the resignation.  
+ Retirement Age   Our Corporate Governance Guidelines provide that directors are expected to retire by the annual meeting of shareholders coinciding with or following his or her 72nd birthday.   
+ Continuing Education for Directors   The Board is regularly updated on Cigna's businesses, strategies, customers, operations and employee matters, as well as external trends and issues that affect the                  Company. Directors also are encouraged to attend continuing education courses relevant to their service on Cigna's Board at Cigna's expense. Cigna regularly makes the Board aware of continuing education opportunities that may be of                  interest. The Corporate Governance Committee oversees the continuing education practices and the Company is kept apprised of director participation.  
+[END TABLE]
+[BEGIN TABLE]
+ 10         Cigna 2019                      Notice of Annual Meeting of Shareholders and Proxy Statement        
+[END TABLE]
+[BEGIN TABLE]
+ CORPORATE GOVERNANCE MATTERS        
+[END TABLE]
+[BEGIN TABLE]
+     Cigna 2019 Notice of Annual Meeting of Shareholders and Proxy Statement         11  
+[END TABLE]
+[BEGIN TABLE]
+ CORPORATE GOVERNANCE MATTERS        
+[END TABLE]
+[BEGIN TABLE]
+                      David M. Cordani  
+ President, Chief Executive Officer and Director of Cigna  
+ AGE: 53  
+ DIRECTOR SINCE: 2009              
+ COMMITTEES: Executive                                              
+[END TABLE]
+[BEGIN TABLE]
+ 12         Cigna 2019                      Notice of Annual Meeting of Shareholders and Proxy Statement        
+[END TABLE]
+[BEGIN TABLE]
+ CORPORATE GOVERNANCE MATTERS        
+[END TABLE]
+[BEGIN TABLE]
+                      William j. delaney  
+ Former Chief Executive Officer of Sysco Corporation  
+ AGE: 63  
+ DIRECTOR SINCE: 2018              
+ COMMITTEES: Audit, Corporate Governance  
+[END TABLE]
+[BEGIN TABLE]
+                      Eric J. Foss  
+ Chairman, President and Chief Executive Officer of Aramark Corporation  
+ AGE: 60  
+ DIRECTOR SINCE: 2011              
+ COMMITTEES: Compliance, Corporate Governance  
+[END TABLE]
+[BEGIN TABLE]
+     Cigna 2019 Notice of Annual Meeting of Shareholders and Proxy Statement         13  
+[END TABLE]
+[BEGIN TABLE]
+ CORPORATE GOVERNANCE MATTERS        
+[END TABLE]
+[BEGIN TABLE]
+                      ELder granger, MD, mg, usa  
+ President and Chief Executive Officer, The 5Ps, LLC   
+ AGE: 65  
+ DIRECTOR SINCE: 2018              
+ COMMITTEES: Compliance, Corporate Governance  
+[END TABLE]
+[BEGIN TABLE]
+                      Isaiah Harris, Jr.  
+ Former President and Chief Executive Officer of AT&T Advertising & Publishing — East  
+ AGE: 66                   
+ DIRECTOR SINCE: 2005              
+ COMMITTEES: Executive (Chair)                        
+[END TABLE]
+[BEGIN TABLE]
+ 14         Cigna 2019                      Notice of Annual Meeting of Shareholders and Proxy Statement        
+[END TABLE]
+[BEGIN TABLE]
+ CORPORATE GOVERNANCE MATTERS        
+[END TABLE]
+[BEGIN TABLE]
+                      Roman Martinez IV  
+ Private Investor  
+ AGE: 71  
+ DIRECTOR SINCE: 2005              
+ COMMITTEES: Audit (Chair),                   Executive, Finance                                              
+[END TABLE]
+[BEGIN TABLE]
+                      Kathleen M.                     Mazzarella  
+ Chairman, President and Chief                   Executive Officer, Graybar Electric   
+ AGE: 58  
+ DIRECTOR SINCE: 2018              
+ COMMITTEES: Finance, People                   Resources  
+[END TABLE]
+[BEGIN TABLE]
+     Cigna 2019 Notice of Annual Meeting of Shareholders and Proxy Statement         15  
+[END TABLE]
+[BEGIN TABLE]
+ CORPORATE GOVERNANCE MATTERS        
+[END TABLE]
+[BEGIN TABLE]
+                      MARK B. McCLELLAN,                     MD, Ph.D.  
+ Director, Duke-Robert J. Margolis,                   MD, Center for Health Policy  
+ AGE: 55  
+ DIRECTOR SINCE: 2018              
+ COMMITTEES: Audit, Corporate                   Governance  
+[END TABLE]
+[BEGIN TABLE]
+                      John M. Partridge  
+ Former President of Visa, Inc.                   
+ AGE: 69  
+ DIRECTOR SINCE: 2009              
+ COMMITTEES: Finance (Chair), Audit, Executive                                              
+[END TABLE]
+[BEGIN TABLE]
+ 16         Cigna 2019                      Notice of Annual Meeting of Shareholders and Proxy Statement        
+[END TABLE]
+[BEGIN TABLE]
+ CORPORATE GOVERNANCE MATTERS        
+[END TABLE]
+[BEGIN TABLE]
+                      William l. roper, md, mph  
+ Interim President, The University of North Carolina System   
+ AGE: 70  
+ DIRECTOR SINCE: 2018              
+ COMMITTEES: Compliance (Chair), Executive, Finance  
+[END TABLE]
+[BEGIN TABLE]
+                      Eric C. Wiseman  
+ Former Executive Chairman, President and Chief Executive Officer of VF Corporation  
+ AGE: 63  
+ DIRECTOR SINCE: 2007              
+ COMMITTEES: Finance, People Resources  
+[END TABLE]
+[BEGIN TABLE]
+     Cigna 2019 Notice of Annual Meeting of Shareholders and Proxy Statement         17  
+[END TABLE]
+[BEGIN TABLE]
+ CORPORATE GOVERNANCE MATTERS        
+[END TABLE]
+[BEGIN TABLE]
+                      Donna F. Zarcone  
+ President and Chief Executive Officer of The Economic Club of Chicago  
+ AGE: 61  
+ DIRECTOR SINCE: 2005              
+ COMMITTEES: Corporate Governance (Chair), Compliance, Executive  
+[END TABLE]
+[BEGIN TABLE]
+                      William D. Zollars  
+ Former Chairman, President and Chief Executive Officer of YRC Worldwide, Inc.  
+ AGE: 71  
+ DIRECTOR SINCE: 2005              
+ COMMITTEES: People Resources (Chair), Executive, Corporate Governance  
+[END TABLE]
+[BEGIN TABLE]
+ 18         Cigna 2019                      Notice of Annual Meeting of Shareholders and Proxy Statement        
+[END TABLE]
+[BEGIN TABLE]
+ CORPORATE GOVERNANCE MATTERS        
+[END TABLE]
+[BEGIN TABLE]
+ Corporate Governance Highlights  
+• Independent board of directors with diversity in                        composition, skills and experience• Independent Chairman of the Board• Regular executive sessions of the Board and its                        committees without management present• Directors elected by majority voting• Annual election of all directors• Proxy access right for shareholders• Separate Code of Business Conduct and Ethics for                        the Board• Independent Audit, Compliance, Corporate                        Governance, Finance and People Resources                        Committees• Annual self-evaluations of the Board, its committees                        and individual directors, including periodic                        independent third party assessments• Majority of director compensation delivered in Cigna                        common stock• Meaningful stock ownership guidelines for                        directors• No supermajority vote provisions in our Certificate of                        Incorporation or By-Laws• No shareholder rights plan, or poison pill• Any pool from which the Corporate Governance                        Committee selects director candidates must include                        women and minority candidates  
+[END TABLE]
+[BEGIN TABLE]
+     Cigna 2019 Notice of Annual Meeting of Shareholders and Proxy Statement         19  
+[END TABLE]
+[BEGIN TABLE]
+ CORPORATE GOVERNANCE MATTERS        
+[END TABLE]
+Resources         Committees are independent and the members of the Audit Committee and the People Resources Committee meet the NYSE's heightened independence requirements for service on those committees. BOARD           LEADERSHIP STRUCTURE The Board is         committed to the long-term growth of the business and the successful execution of our mission to improve the health, well-being and peace of mind of those we serve around the globe. To fulfill its responsibilities to our shareholders, Cigna's         Board, both directly and through its committees, regularly engages with management, ensures management accountability and reviews critical issues that face Cigna. The Board is committed to meeting the dynamic needs of the Company and focusing on         the interests of its shareholders and, as a result, regularly evaluates and adapts its composition, role and relationship with management. Independent Chairman of the           Board We currently         separate the roles of the Chairman of the Board and Chief Executive Officer. Our CEO sets the strategic direction for the Company, working with the Board, and provides day-to-day leadership, while our Chairman leads the Board in the performance of         its duties and serves as the principal liaison between the independent directors and the CEO. We believe that having an independent Chairman assists the Board in ensuring independent oversight of the Company and the management team. The Board         regularly assesses the appropriateness of this leadership structure and has concluded that this structure best suits Cigna's needs at this time. In December         2018, the Board re-elected Isaiah Harris, Jr. to serve as our independent Chairman for a three-year term, subject to his annual election to the Board by shareholders. The full Board evaluates the Chairman's performance on an annual basis as part of         the annual Board evaluation.
+[BEGIN TABLE]
+ Chairman Responsibilities   
+• Serve as principal representative of the Board• Facilitate discussion among independent directors                        on key issues• Advise the CEO on issues of concern for the Board• Develop agenda for Board meetings, in                        consultation with the CEO and other directors• Act as liaison between Board and management• Lead the Board in CEO succession planning• Preside over Board and shareholder meetings• Engage in the director recruitment process• Represent the Company in interactions with external                        stakeholders, as appropriate  
+[END TABLE]
+Committees;         the General Counsel serves as the staff officer for the Compliance and Corporate Governance Committees; and the Executive Vice President — Human Resources and Services serves as the staff officer for the People Resources Committee. These executive         officers 
+[BEGIN TABLE]
+ 20         Cigna 2019                      Notice of Annual Meeting of Shareholders and Proxy Statement        
+[END TABLE]
+[BEGIN TABLE]
+ CORPORATE GOVERNANCE MATTERS        
+[END TABLE]
+The Chair of the         Corporate Governance Committee reviewed the feedback from the individual director interviews with the Chairman of the Board and each of the Committee Chairs. The Chair of the Corporate Governance Committee and the Chairman of the Board then led an         in-person discussion with the full Board, during which the Board discussed key areas of focus for the upcoming year, including the Express Scripts merger and business strategy. The chairs of each committee led a similar self-assessment discussion         for their particular committee. From time to         time, the Board has engaged an independent third party to conduct the Board evaluation, most recently in 2014. The Corporate Governance Committee and Board have agreed to use an independent third party to facilitate the Board evaluation process         approximately every three to five years, or on an as needed basis.The results of         the evaluation process support the Board's belief that the Board and committees are operating effectively. Board Succession Planning and           OrientationThe Corporate         Governance Committee is responsible for identifying new director candidates, reviewing the composition of the Board and its committees and for making recommendations to the full Board on these matters. When identifying new candidates for the Board,         the Committee focuses on identifying candidates that possess skills and qualifications that will support the Company's short- and long-term strategy, while being mindful of the ongoing significant complexity and uncertainty within the health         service industry, as well as upcoming planned retirements. The Committee's objective is to balance the knowledge and insights gained from long-term service on the Board with the new skills and experience that results from adding directors to the         Board, at a pace that allows the Board to maintain its high-performing and effective culture. In July 2018, the Board amended the Guidelines to require the Corporate Governance Committee, and any search firm it engages, to include women and         minority candidates in the pool from which the Committee selects director candidates. In 2018, the Board added five new directors — Mr. William DeLaney, General Elder Granger, Ms. Kathleen Mazzarella, Dr. Mark McClellan and Dr. William Roper. These         new directors bring a diversity of backgrounds, skills and experiences to the Board. For more information on our new directors, see "Election of Directors — 2018 Board Composition Developments" and " — Commitment to Board Diversity."New directors         undergo an extensive Board and committee orientation process, overseen by the Corporate Governance Committee. The orientation process is designed to enable new members of the Board to quickly become active, knowledgeable and effective Board         members. As part of this process, each new director receives a series of briefings designed to provide meaningful interactions with our executive officers and 
+[BEGIN TABLE]
+     Cigna 2019 Notice of Annual Meeting of Shareholders and Proxy Statement         21  
+[END TABLE]
+[BEGIN TABLE]
+ CORPORATE GOVERNANCE MATTERS        
+[END TABLE]
+[BEGIN TABLE]
+ 22         Cigna 2019                      Notice of Annual Meeting of Shareholders and Proxy Statement        
+[END TABLE]
+[BEGIN TABLE]
+ CORPORATE GOVERNANCE MATTERS        
+[END TABLE]
+the Board engages         with management regularly throughout the year. The Board expects         directors to attend the annual meeting of shareholders. All then-current directors attended the 2018 annual meeting and Mr. Harris chaired the meeting. All directors are expected to attend the Annual Meeting in 2019.The specific roles         and responsibilities of the Board's Executive, Audit, Compliance, Corporate Governance, Finance and People Resources Committees are delineated in written charters adopted by the Board. Complete copies of the committee charters are available on         Cigna's website at www.cigna.com/about-us/company-profile/corporate-governance/. Each member of the Audit, Compliance, Corporate Governance, Finance and People Resources Committees is independent under the terms of Cigna's         independence standards, which are detailed in the Guidelines and consistent with the independence standards set forth in the NYSE's listing standards. The Executive         Committee may exercise the power and authority of the Board as specifically delegated by the Board when convening a meeting of the full Board of Directors is impracticable. Mr. Harris is Chairman of the Executive Committee and Mr. Cordani, Mr.         Martinez, Mr. Partridge, Dr. Roper, Ms. Zarcone and Mr. Zollars serve on the Executive Committee. In 2018, the Board of Directors did not delegate any actions to the Executive Committee and, therefore, the Executive Committee did not meet in 2018.
+[BEGIN TABLE]
+     Cigna 2019 Notice of Annual Meeting of Shareholders and Proxy Statement         23  
+[END TABLE]
+[BEGIN TABLE]
+ CORPORATE GOVERNANCE MATTERS        
+[END TABLE]
+[BEGIN TABLE]
+ Audit Committee  
+ Current Members                      Mr. Martinez (Chair)                      Mr. DeLaney                      Dr. McClellan                      Mr. Partridge(1)                                         Met 12 times in 2018   Primary Responsibilities   
+• Assesses the qualification and independence of, appoints, compensates, oversees the work of and removes, if appropriate, Cigna's independent registered public accounting                  firm.  
+• Represents and assists the Board in fulfilling its oversight responsibilities regarding the adequacy and effectiveness of internal controls and the integrity of financial                  statements.  
+• Reviews annual and quarterly financial statements, earnings releases, earnings guidance and significant accounting policies with management and, if appropriate, the                  independent registered public accounting firm.  
+• Oversees material legal matters.  
+• Maintains procedures for and reviews the receipt, retention and treatment of complaints and concerns regarding accounting, controls, auditing, reporting and disclosure                  matters.  
+     Risk Oversight Focus Area  
+• Oversees the Company's enterprise risk management program and internal audit function.   
+• Oversees risks related to the Company's financial statements, the financial reporting process, accounting, and certain legal matters.   
+• Together with the Board, ensures that the Company has cyber risk management policies and processes in place.  
+ All members of the Audit Committee are financially literate within the meaning of the NYSE listing standards and Mr. Martinez, Mr. DeLaney and Mr. Partridge are designated                  "audit committee financial expert[s]" as defined in the SEC rules. For more information regarding the Audit Committee's activities see "Report of the Audit Committee" in the Audit Matters section of the Proxy Statement.  
+[END TABLE]
+[BEGIN TABLE]
+ Compliance Committee  
+ Current Members                      Dr. Roper (Chair)     Mr. Foss                      General Granger                      Ms. Zarcone   Primary Responsibilities   
+• Oversees the Company's key compliance programs, including but not limited to, those regulatory and legal requirements relating to data security, provision of healthcare                  and related services, operational effectiveness (including service requirements) and employment matters.  
+• Oversees the administration of the Company's Code of Ethics and Principles of Conduct.  
+ The Compliance Committee is a new committee and held its first meeting in 2019.   Risk Oversight Focus Area  
+• Oversees the Company's key compliance and ethics programs, including compliance with the laws and regulations that apply to business operations, such as data privacy and                  U.S. federal and state healthcare program requirements.  
+[END TABLE]
+[BEGIN TABLE]
+ 24         Cigna 2019                      Notice of Annual Meeting of Shareholders and Proxy Statement        
+[END TABLE]
+[BEGIN TABLE]
+ CORPORATE GOVERNANCE MATTERS        
+[END TABLE]
+[BEGIN TABLE]
+ Corporate Governance Committee  
+ Current Members                      Ms. Zarcone (Chair)                      Mr. DeLaney                      Mr. Foss                      General Granger                      Dr. McClellan                      Mr. Zollars                                            Met 5 times in 2018   Primary Responsibilities   
+• Reviews, advises and reports to the Board on the Board's membership, structure, organization, governance practices and performance, as well as shareholder engagement                  activities.  
+• Assists the Board in board refreshment planning.  
+• Reviews committee assignments and director independence.  
+• Oversees director nomination and compensation and develops specific director recruitment criteria.  
+• Oversees communications with external stakeholders, including shareholders.  
+• Oversees corporate political and charitable contributions and the Company's corporate responsibility and sustainability efforts.  
+     Risk Oversight Focus Area  
+• Oversees risks and exposures associated with director succession and refreshment planning, corporate governance and overall Board effectiveness. Also oversees the                  Company's risks related to political and charitable contributions. In exercising this oversight, the Corporate Governance Committee reviews and discusses financial contributions to such organizations.  
+[END TABLE]
+[BEGIN TABLE]
+ Finance Committee  
+ Current Members                      Mr. Partridge (Chair)                      Mr. Martinez                      Ms. Mazzarella                      Dr. Roper                      Mr. Wiseman                                            Met 5 times in 2018   Primary Responsibilities   
+• Oversees the structure and use of Cigna's capital.  
+• Oversees Cigna's long-term financial objectives and progress against those objectives.  
+• Reviews Cigna's strategic operating plan and budget.  
+• Oversees Cigna's investment strategy and sets investment policies and guidelines.  
+• Oversees information technology strategy and execution.  
+     Risk Oversight Focus Area  
+• Oversees the Company's deployment of capital, technology and investment-related initiatives. In exercising this oversight, the Finance Committee regularly reviews and                  discusses the technology, financial market and capital management risks that are monitored through the Company's ERM process.  
+[END TABLE]
+[BEGIN TABLE]
+     Cigna 2019 Notice of Annual Meeting of Shareholders and Proxy Statement         25  
+[END TABLE]
+[BEGIN TABLE]
+ CORPORATE GOVERNANCE MATTERS        
+[END TABLE]
+[BEGIN TABLE]
+ People Resources Committee  
+ Current Members                      Mr. Zollars (Chair)                      Ms. Mazzarella                      Mr. Wiseman                                         Met 9 times in 2018   Primary Responsibilities   
+• Oversees the policies and processes for people development and assists the Board in reviewing executive officer succession plans.  
+• Establishes company goals and objectives relevant to the CEO's compensation, evaluates the CEO's performance in light of those established goals and objectives, and based                  on this evaluation, recommends the CEO's compensation to the independent members of the Board for approval.  
+• Reviews and approves compensation targets, base salaries, cash and equity-based incentive compensation payments and arrangements, severance, and other compensation and                  benefits arrangements for any current or prospective executive officers other than the CEO, subject to required Board or shareholder approvals.  
+• Establishes performance measures and goals and assesses whether these goals are met for awards under short-term and long-term cash-based and equity-based compensation                  plans.  
+• Reviews and monitors the Company's diversity program.  
+ Risk Oversight Focus Area  
+• Oversees compensation related-risks and management succession planning. For additional information regarding the People Resources Committee's role in evaluating the                  impact of risk on executive compensation, see "Processes and Procedures for Determining Executive Compensation — Risk Oversight" in the CD&A.  
+ For more information regarding the responsibilities and activities of the People Resources Committee, including the Committee's processes for determining executive                  compensation, see the CD&A.  
+[END TABLE]
+on earning trust         through responsible business practices, corporate citizenship and providing services that meet our customers' individual needs. Inspired by our mission, Cigna works to positively impact the health of people, communities and the environment. As evidence of         this, in 2015, Cigna was the first U.S. health insurance company to sign on to the United Nations Global Compact (UNGC), a policy initiative for companies committed to areas such as human rights, labor standards, environmental responsibility and         business integrity in business operations. In 2017, Cigna became a member of the UNGC Health is Everyone's Business action platform, which is a coalition working to develop a global business agenda to address goals related to good health and         well-being. In 2017 and         again in 2018, Cigna was named to the Dow Jones Sustainability Index, a benchmark for investors who integrate sustainability considerations into their portfolios. Cigna is recognized in both the Dow Jones Sustainability World Index and the Dow         Jones Sustainability North America Index. The Corporate         Governance Committee is responsible for overseeing Cigna's positions on, and policies with respect to, Cigna's corporate responsibility efforts around the globe. To support the Corporate Governance Committee's responsibility, Cigna has established         the Cigna Connects Corporate Responsibility Governance Council to provide input on Cigna's policies, initiatives and reporting relative to corporate responsibility. This Council is a cross-
+[BEGIN TABLE]
+ 26         Cigna 2019                      Notice of Annual Meeting of Shareholders and Proxy Statement        
+[END TABLE]
+[BEGIN TABLE]
+ CORPORATE GOVERNANCE MATTERS        
+[END TABLE]
+Corporate         Responsibility section of www.cigna.com, outlines our environmental sustainability policies and practices.Ethical and           Inclusive Business Practices. We strive to foster relationships with various stakeholders to help us better understand their priorities and to further Cigna's goal of bringing positive changes in areas such as human capital, diversity and         inclusion, supply chain management, stakeholder engagement and human rights. Cigna seeks to partner with organizations that are guided by similar principles. We request that our suppliers act in an ethical and socially responsible manner in the         conduct of their business. As an example of our focus on inclusive business practices, in 2018, we continued our Supplier Mentor Protégé Program to proactively engage with businesses in the communities in which we live and work. This unique program         allows our suppliers to apply the skills and expertise of Cigna. This program, consisting of certified minority, veteran and LGBT business enterprises, provides one-on-one mentoring with Cigna management, and insights into growth strategies and         best practices to help grow their businesses.Commitment to Diversity and Inclusion and Equitable Pay We recognize         that our continued success depends on the collective strengths of our employees. At Cigna, individual differences represent a mosaic of opportunities, and diversity and inclusion as a long-term         business strategy will help drive the future success of the company. We take great pride in our diverse and talented workforce and are committed to being an employer of choice for diverse talent. This commitment is demonstrated through our programs         and practices to attract, retain and reward our employees. Our Board of Directors, or a committee of the Board, is updated routinely by management on our diversity and inclusion programs and progress.We recruit,         hire, train and promote persons in all job titles and work to ensure that all personnel actions are administered without regard to an employee's race, ethnicity, gender, sexual orientation, or any other such characteristics. We seek to recruit         diverse candidates at all stages of their careers and through a variety of venues and programs, including at national conferences for various diversity organizations. We push ourselves to increase representation of women and people of color         particularly in middle and senior management roles. In 2018, we developed and launched a virtual "Unconscious Bias" training to help ensure that decisions around hiring and promotions are focused on abilities and qualifications. Our ongoing         diversity and inclusion programs, which are detailed in our Corporate Responsibility Report, have been recognized by leading organizations. For additional information regarding our commitment to Board diversity, see "Election of Directors —         Commitment to Board Diversity."
+[BEGIN TABLE]
+     Cigna 2019 Notice of Annual Meeting of Shareholders and Proxy Statement         27  
+[END TABLE]
+[BEGIN TABLE]
+ CORPORATE GOVERNANCE MATTERS        
+[END TABLE]
+ANNUAL                   POLITICAL CONTRIBUTIONS AND LOBBYING ACTIVITY REPORT Cigna is committed         to transparency and strives to provide clarity about our goals and positions related to the Company's federal and state lobbying and advocacy efforts, as well as why we believe active engagement in the public policy arena is important to our         mission, business and customers. Cigna has engaged with shareholders to gain feedback regarding desired political contribution disclosure and published its first annual political contributions and lobbying activity report in 2011. Our report         provides information on our overall lobbying framework, including the areas in which we focus our advocacy efforts and why we believe active engagement in the public policy arena is necessary to support the achievement of our mission, the success         of our business and the well-being of our customers. The report also provides information about: (1) direct political contributions that Cigna makes at a corporate level; (2) contributions that Cigna makes through the Cigna Political Action         Committee; and (3) the total amount of dues paid to any industry trade association to which Cigna pays $50,000 or more in annual dues, as well as the portion of any such dues that such trade associations inform us are allocable to any         non-deductible lobbying expenses. The Corporate Governance Committee oversees Cigna's political and lobbying activities. The Company updates the report annually and we encourage you to review our 2018 report which is available on Cigna's website at         www.cigna.com/about-us/corporate-governance/. CERTAIN           TRANSACTIONS Transactions with Related Persons         Cigna has not         adopted a written policy concerning the review, approval or ratification of related person transactions. Cigna compiles information about transactions between Cigna and Cigna's directors, director nominees, executive officers and any immediate         family members and affiliated entities identified by directors, director nominees and executive officers as having any form of relationship with Cigna, as well as shareholders that identified themselves since the beginning of 2018 as beneficially         owning more than 5% of Cigna's common stock. Cigna's Office of the Corporate Secretary analyzes the nature of any transaction to determine whether the transaction may require disclosure under SEC rules as a related person transaction. On an annual         basis, the Corporate Governance Committee reviews the analysis prepared by the Company, and presents its assessment to the full Board of Directors. Based on this         review, there are no related person transactions in 2018 requiring disclosure under SEC rules.
+[BEGIN TABLE]
+ 28         Cigna 2019                      Notice of Annual Meeting of Shareholders and Proxy Statement        
+[END TABLE]
+[BEGIN TABLE]
+ CORPORATE GOVERNANCE MATTERS        
+[END TABLE]
+[BEGIN TABLE]
+ RETAINER TYPE   ANNUAL AMOUNT   METHOD OF PAYMENT  
+ Board (other than the Chairman of the Board)   $   180,000                        Cigna common stock                   
+ $   95,000       Cash   
+ Chairman of the Board   $   180,000       Cigna common stock  
+ $   320,000       Cash   
+ Committee chair   $   15,000       Cash  
+ Committee member   $   10,000       Cash  
+[END TABLE]
+[BEGIN TABLE]
+     Cigna 2019 Notice of Annual Meeting of Shareholders and Proxy Statement         29  
+[END TABLE]
+[BEGIN TABLE]
+ CORPORATE GOVERNANCE MATTERS        
+[END TABLE]
+[BEGIN TABLE]
+ RETAINER TYPE   ANNUAL AMOUNT   METHOD OF PAYMENT  
+ Board (other than the Chairman of the Board)   $   190,000       Cigna common stock  
+ $   120,000       Cash   
+ Chairman of the Board   $   230,000       Cigna common stock  
+ $   320,000       Cash  
+ Committee chair   $   25,000       Cash  
+[END TABLE]
+payments or         reimburse directors for financial planning services that are provided by firms designated by Cigna and for tax preparation services in the amount of up to $6,500 annually. Each director whose service started before 2006 and has at least nine years         of board service upon separation from service also is eligible for direct payments or reimbursement in the amount of up to $5,000 for financial planning and tax preparation services during the one-year period following separation from service. Directors also         may participate in the matching charitable gift program available to Cigna employees, under which Cigna will make a matching charitable gift of up to $5,000 annually. In addition, upon a director's retirement, in recognition of the retiring         director's service, the Board may make a donation in the amount of $10,000 to a charitable organization of the director's choice. Insurance Coverage Cigna provides         each director, on the same basis as employees and at no cost to the director, group term life insurance coverage equal to the annual Board retainer ($275,000 during 2018), and business travel accident insurance coverage equal to three times the         annual Board retainer ($825,000 during 2018). Beginning in 2018, Cigna provides $1 million of personal umbrella liability insurance coverage for directors. The Company did not provide personal umbrella liability insurance coverage for the five         directors that joined Cigna during 2018. Directors may purchase additional coverage at the group rate.Directors also         may purchase or participate in, by paying premiums on an after-tax basis, additional life insurance, medical care, long-term care, property/casualty personal lines and various other insurance programs available on a broad basis to Cigna employees.         Directors also may elect to purchase worldwide emergency assistance coverage. This program, which provides international emergency medical, personal, travel and security assistance, also is available to Cigna executive officers and certain other         Cigna employees who frequently travel abroad for business. Cigna provides         each retired director whose service started before 2006 and who has at least nine years of Board 
+[BEGIN TABLE]
+ 30         Cigna 2019                      Notice of Annual Meeting of Shareholders and Proxy Statement        
+[END TABLE]
+[BEGIN TABLE]
+ CORPORATE GOVERNANCE MATTERS        
+[END TABLE]
+care programs         currently offered by Cigna to retired employees, with premiums paid by the director on an after-tax basis. 
+[BEGIN TABLE]
+ Name   Fees Earned                     or Paid in Cash                     ($)   Stock  Awards                     ($)   All Other                     Compensation                     ($)   Total                     Compensation                     ($)  
+ (a)   (b)   (c)   (d)   (e)  
+ William J. DeLaney(1)       28,750           36,441           23           65,214      
+ Eric J. Foss       115,000           180,000           629           295,629      
+ Elder Granger, M.D.(1)       28,750           36,441           23           65,214      
+ Isaiah Harris, Jr.       320,000           180,000           1,183           501,183      
+ Jane E. Henney, M.D.(2)       60,000           90,000           5,914           155,914      
+ Roman Martinez IV       120,000           180,000           1,676           301,676      
+ Kathleen M. Mazzarella(1)       28,750           36,441           23           65,214      
+ Mark B. McClellan, M.D.(3)       28,750           45,000           63           73,813      
+ John M. Partridge       120,000           180,000           629           300,629      
+ James E. Rogers(4)       115,000           180,000           1,123           296,123      
+ William L. Roper, M.D.(1)       28,750           36,441           23           65,214      
+ Eric C. Wiseman       115,000           180,000           1,123           296,123      
+ Donna F. Zarcone       118,750           180,000           6,620           305,370      
+ William D. Zollars       120,000           180,000           1,281           301,281      
+[END TABLE]
+[BEGIN TABLE]
+     Cigna 2019 Notice of Annual Meeting of Shareholders and Proxy Statement         31  
+[END TABLE]
+[BEGIN TABLE]
+ CORPORATE GOVERNANCE MATTERS        
+[END TABLE]
+[BEGIN TABLE]
+ Name   Common                     Stock  (a)   Deferred                     Common                     Stock                     (b)   Restricted                     Stock                     Units                     (c)   Hypothetical                     Shares of                     Common                     Stock                     (d)   VESTED                   STOCK                   OPTIONS                   (e)   Total                     Ownership                     (f)   Total                     Ownership                     Value                     (g)  
+ William J. DeLaney       2,784           —           —           —           18,003           20,787       $   1,448,437      
+ Eric J. Foss       14,346           —           —           —           —           14,346       $   2,724,592      
+ Elder Granger, MD       522           201           —           —           8,767           9,490       $   534,496      
+ Isaiah Harris, Jr.       2,870           —           13,500           23,260           —           39,630       $   7,526,530      
+ Roman Martinez IV       9,496           23,713           13,500           15,426           —           62,135       $   11,800,679      
+ Kathleen M. Mazzarella       201           —           —           —           —           201       $   38,174      
+ Mark B. McClellan, MD       201           —           —           —           —           201       $   38,174      
+ John M. Partridge       34,200           —           —           —           —           34,200       $   6,495,264      
+ William L. Roper, MD       2,079           —           3,300           —           19,102           24,481       $   2,029,780      
+ Eric C. Wiseman       4,200           13,050           —           4,145           —           21,395       $   4,063,338      
+ Donna F. Zarcone       —           9,163           13,500           2,797           —           25,460       $   4,835,363      
+ William D. Zollars       —           —           13,500           9,787           —           23,287       $   4,422,667      
+[END TABLE]
+[BEGIN TABLE]
+ 32         Cigna 2019                      Notice of Annual Meeting of Shareholders and Proxy Statement        
+[END TABLE]
+[BEGIN TABLE]
+ COMPENSATION MATTERS        
+[END TABLE]
+[BEGIN TABLE]
+     Cigna 2019 Notice of Annual Meeting of Shareholders and Proxy Statement         33  
+[END TABLE]
+[BEGIN TABLE]
+ COMPENSATION MATTERS        
+[END TABLE]
+[BEGIN TABLE]
+ NAME   TITLE  
+ David M. Cordani   President and Chief Executive Officer  
+ Eric P. Palmer   Executive Vice President and Chief Financial Officer  
+ Nicole S. Jones   Executive Vice President and General Counsel  
+ Jason D. Sadler   President, International Markets  
+ Timothy C. Wentworth   President, Express Scripts and Cigna Services  
+[END TABLE]
+[BEGIN TABLE]
+ Executive Summary provides an overview of our compensation philosophy and our pay-for-performance                                    alignment.   Pages 35 — 37  
+[END TABLE]
+[BEGIN TABLE]
+ Executive Compensation Policies and Practices describes our compensation objectives and                    practices, as well as how we set target total direct compensation and target pay mix.   Pages 37 — 40  
+[END TABLE]
+[BEGIN TABLE]
+ Elements of Compensation describes each form of compensation we pay and how our executive                    compensation program is tied strongly to performance.   Pages 41 — 52  
+[END TABLE]
+[BEGIN TABLE]
+ Employment Arrangements and Post-Termination Payments summarizes any employment agreements,                    our severance and other post-termination arrangements, as well as our change of control arrangements.   Pages 52 — 55  
+[END TABLE]
+[BEGIN TABLE]
+ Processes and Procedures for Determining Executive Compensation provides an overview of the                    Committee's role in executive compensation, the process for determining executive officer compensation and the compensation consultant's role.   Pages 55 — 56  
+[END TABLE]
+[BEGIN TABLE]
+ Other Practices describes our stock ownership guidelines, our hedging and pledging restrictions and our clawback policy.   Pages 57 — 59  
+[END TABLE]
+[BEGIN TABLE]
+ 34         Cigna 2019                      Notice of Annual Meeting of Shareholders and Proxy Statement        
+[END TABLE]
+[BEGIN TABLE]
+ COMPENSATION MATTERS        
+[END TABLE]
+[BEGIN TABLE]
+ Motivate superior                   enterprise results                   with appropriate                   consideration of risk                   while maintaining a                   commitment to the Company's ethics and                   values.   Align the interests of                   the Company's                   executives with                   those of its                   shareholders and                   reward the creation                   of long-term value                   for Cigna                   shareholders.   Emphasize                   performance-based                   short-term and                   long-term compensation over                   fixed                   compensation.   Reward the                   achievement of                   favorable long-                   term financial                   results more                   heavily than the                   achievement of                   short-term results.   Provide market-                   competitive                   compensation                   opportunities                   designed to attract                   and retain highly                   qualified                   executives.  
+[END TABLE]
+[BEGIN TABLE]
+ Measure   Weighting   Result   Award  
+ Adjusted income from operations(1)(2)   50%   32.2% growth was above target range   Individual payouts ranged from 145% to 200% of target for each of the NEOs that received a MIP award.  
+ Revenue(2)   20%   9.6% growth was within target range  
+ Operating expense ratio improvement(2)   10%   2.7% improvement was within target range  
+ Strategic Priorities   20%   Target performance reflects:  
+• Strong and stable net promoter score  
+• Strong client retention; expanding and deepening relationships; and new business growth  
+• Strong employee engagement results and low employee turnover  
+• Advancement of enterprise compliance initiatives  
+[END TABLE]
+[BEGIN TABLE]
+     Cigna 2019 Notice of Annual Meeting of Shareholders and Proxy Statement         35  
+[END TABLE]
+[BEGIN TABLE]
+ COMPENSATION MATTERS        
+[END TABLE]
+[BEGIN TABLE]
+ Measure   Weighting   Result ($ in million)   Award  
+ Adjusted income from operations(1)(2)   50%   $8,357 (104.4% of target)   2016–2018 SPSs were paid out at 102.2% of target.  
+ Relative TSR(3)   50%   50th percentile (100% of target)  
+[END TABLE]
+[BEGIN TABLE]
+ 36         Cigna 2019                      Notice of Annual Meeting of Shareholders and Proxy Statement        
+[END TABLE]
+[BEGIN TABLE]
+ COMPENSATION MATTERS        
+[END TABLE]
+[BEGIN TABLE]
+     Cigna 2019 Notice of Annual Meeting of Shareholders and Proxy Statement         37  
+[END TABLE]
+[BEGIN TABLE]
+ COMPENSATION MATTERS        
+[END TABLE]
+[BEGIN TABLE]
+ What We Do   ✔   Strong alignment between pay and performance.  
+ ✔   "Double trigger" requirement for change of control benefits.   
+ ✔   Regular review of executive compensation governance market practices, particularly when considering the adoption of new practices or changes to existing programs or                  policies.  
+ ✔   Robust stock ownership guidelines and shareholding requirements for equity awards to align executives' interests with shareholders.  
+ ✔   A disgorgement of awards (clawback) policy beyond the mandates of Sarbanes-Oxley.  
+ ✔   Management of LTIP annual share usage (or burn rate) and total dilution by setting an annual share usage limit, which is below the maximum permitted under the plan.  
+ ✔   Oversight of people development policies and processes, including consideration of assessments of executive officers and key senior management.  
+ ✔   CEO and executive officer succession plans overseen by the Board of Directors, with assistance from the Committee.  
+ ✔   An annual assessment by the Committee of any potential risks and associated internal controls in our incentive compensation programs and policies.  
+ ✔   Minimum acceptable level of financial performance required in order for any payments to be made under the annual incentive plan.  
+ ✔   Approximately 90% of our CEO's target total direct compensation is performance-based.  
+[END TABLE]
+[BEGIN TABLE]
+ What We Don't                   Do• No excessive perquisites.  
+• No hedging of Cigna stock by any directors, executive officers or employees, and no pledging of Cigna stock by directors or Section 16 officers unless approved in limited                  circumstances.  
+• No discounting, reloading or repricing of stock options without shareholder approval.  
+• No payment of dividends on unvested shares.  
+[END TABLE]
+[BEGIN TABLE]
+ 38         Cigna 2019                      Notice of Annual Meeting of Shareholders and Proxy Statement        
+[END TABLE]
+[BEGIN TABLE]
+ COMPENSATION MATTERS        
+[END TABLE]
+[BEGIN TABLE]
+ 2018 Compensation Peer Group  
+ Aetna, Inc.   The Hartford Financial Services Group, Inc.  
+ Aflac Incorporated   Humana, Inc.  
+ American International Group, Inc.   Manulife Financial Corporation  
+ Anthem, Inc.   MetLife, Inc.  
+ Centene Corp.   Prudential Financial, Inc.  
+ Chubb Limited   Unum Group  
+[END TABLE]
+[BEGIN TABLE]
+ Post-Merger Compensation Peer Group  
+ Aetna, Inc.(1)   CVS Health Corporation  
+ AmerisourceBergen Corporation   Humana, Inc.  
+ Anthem, Inc.   McKesson Corporation  
+ Cardinal Health, Inc.,   UnitedHealth Group Incorporated  
+ Centene Corporation   Walgreens Boots Alliance, Inc.  
+[END TABLE]
+[BEGIN TABLE]
+     Cigna 2019 Notice of Annual Meeting of Shareholders and Proxy Statement         39  
+[END TABLE]
+[BEGIN TABLE]
+ COMPENSATION MATTERS        
+[END TABLE]
+[BEGIN TABLE]
+ 40         Cigna 2019                      Notice of Annual Meeting of Shareholders and Proxy Statement        
+[END TABLE]
+[BEGIN TABLE]
+ COMPENSATION MATTERS        
+[END TABLE]
+[BEGIN TABLE]
+ Element   PURPOSE  
+ Base salary   Fixed portion of total direct compensation, set with reference to competitive market data and individual performance and designed to attract and retain key talent.  
+ Management Incentive                   Plan (MIP)   Performance-based cash compensation designed to reward the achievement of annual enterprise results relative to pre-established goals, as well as individual performance,                  accomplishments and contributions.  
+ Long-Term                   Incentives (LTI)   Stock Options   Performance-based compensation, the potential realized value of which is determined by stock price appreciation from the date of grant through the date of exercise.  
+     Strategic Performance Shares   Performance-based compensation, the payout of which is based upon the achievement of a pre-determined financial goal and the Company's relative TSR over a three-year                  performance period.  
+ Retirement and Deferred Compensation   Savings-based component that is aligned to competitive market practice and includes 401(k) plans and voluntary non-qualified deferred compensation programs. U.S.-based                  NEOs hired before July 1, 2009 have accrued benefits from defined benefit pension plans that were frozen on July 1, 2009.  
+ Limited Perquisites and Other Benefits   Limited perquisites that are designed to attract and retain key talent or to provide for the safety and security of executive officers.  
+[END TABLE]
+[BEGIN TABLE]
+ NEO   2018 ANNUAL                   BASE SALARY ($)  
+ David M. Cordani       1,500,000      
+ Eric P. Palmer       705,000      
+ Nicole S. Jones       630,000      
+ Jason D. Sadler       650,000      
+ Timothy C. Wentworth       1,500,000      
+[END TABLE]
+[BEGIN TABLE]
+     Cigna 2019 Notice of Annual Meeting of Shareholders and Proxy Statement         41  
+[END TABLE]
+[BEGIN TABLE]
+ COMPENSATION MATTERS        
+[END TABLE]
+MIP Performance Measures and Goals       Each year, the         Committee sets enterprise performance measures, weightings and goals for annual incentive awards based on Cigna's business priorities and annual operating plan. The operating plan aligns with our strategy, long-term commitment to our customers,         clients, communities and shareholders and expected performance in the industry. The Committee works with its independent compensation consultant to evaluate the appropriateness of these measures and weightings and the degree of challenge in the MIP         performance goals. The measures are designed to align with, and drive execution of, the Company's business strategy. For 2018, performance measures included adjusted income from operations, revenue, operating expense ratio improvement and strategic         priorities. More detailed information on these measures is included in the 2018 Performance Goals, Measures and Actual Results table. For each MIP         goal other than strategic priorities, the Committee specifies certain below target, target and above target levels of performance. To aid the Committee in setting the financial performance targets, and to assess the reasonableness and rigor of         those targets, the Committee's compensation consultant annually presents a comprehensive report to the Committee that evaluates Cigna's historical relationship between pay and performance in comparison with Cigna's compensation peer group. The         compensation consultant also reviews performance goals determined by the Committee in the context of historical performance and analyst expectations of future performance for Cigna and Cigna's SPS performance peer group. The strategic         priorities measure emphasizes the importance of incentivizing and recognizing progress in certain areas beyond financial results that support our business strategy. For this measure, the Committee evaluates the Company's progress relative to key         strategic categories. For 2018, the key strategic categories are: (1) customer, client and reputational focus; (2) employee engagement; and (3) enterprise focus on compliance.
+[BEGIN TABLE]
+ 42         Cigna 2019                      Notice of Annual Meeting of Shareholders and Proxy Statement        
+[END TABLE]
+[BEGIN TABLE]
+ COMPENSATION MATTERS        
+[END TABLE]
+[BEGIN TABLE]
+ STEP 1                   Achieve Earnings Minimum  
+ The Committee believes that achieving Cigna's profitability goals is critically important to the long-term success of the business. In recognition of this importance,                  the Committee establishes a minimum level of adjusted income from operations that must be achieved for the year in order for any MIP award to be earned. If the Company does not meet that pre-defined minimum level, then no annual incentives                  will be paid to executive officers.   
+ STEP 2                   Company Performance Drives Funding Level  
+ If the Company achieves the earnings minimum, the Committee may fund the executive officer MIP pool from 0% to 200% of the aggregate targets for all executive officers                  based upon whether each performance measure is below target, at target, or above target. The following table sets forth the ranges between which the MIP pool may be funded for each performance measure, in each case, assuming the earnings                  minimum has been achieved:  
+[END TABLE]
+[BEGIN TABLE]
+     Measure   Performance   Funding Range      
+     Adjusted income from                   operations                   Revenue                   Operating expense ratio improvement   Above target range   120% to 200%      
+     Within target range   80% to 120%      
+     Below target range   Less than 80%      
+     Strategic Priorities   The Committee evaluates progress in the three key strategic                   categories year over year.      
+[END TABLE]
+[BEGIN TABLE]
+ The Company's actual performance relative to each measure determines which funding range applies for purposes of that measure. However, the Committee maintains the                  discretion to determine at which point within that range the actual funding of the MIP pool will be set. In setting the actual funding percentage for each measure, the Committee considers Cigna's performance as a whole (both in absolute                  terms and relative to competitors), as well as Cigna's achievement of the goals within the performance measure. The MIP funding mechanisms ensure that a minimum level of performance is achieved and that NEOs' MIP awards reflect the                  Company's performance.  
+ STEP 3                   Award Amounts Based on Individual Contributions to Company Performance  
+ Once MIP funding has been determined, the Committee (and for Mr. Cordani, the Board of Directors upon the recommendation of the Committee) assesses each NEO's                  individual contributions and how such contributions impacted the achievement of the MIP goals to determine the individual award amounts. Actual awards can range from 0% to 200% of a NEO's MIP target, allowing the Committee to differentiate                  payouts based on each individual's contributions.  
+[END TABLE]
+[BEGIN TABLE]
+     Cigna 2019 Notice of Annual Meeting of Shareholders and Proxy Statement         43  
+[END TABLE]
+[BEGIN TABLE]
+ COMPENSATION MATTERS        
+[END TABLE]
+[BEGIN TABLE]
+ Measure aLIGNMENT WITH  bUSINESS sTRATEGY Weighting  Target Performance Goals   Actual Result 
+ Measure aLIGNMENT WITH  bUSINESS sTRATEGY Weighting  Target Performance Goals   Actual Result 
+ Adjusted income from operations*   Reinforces the importance of profitable growth across the enterprise.   50%   14.5% to 22.5%                   growth   32.2% growth was above target range  
+ Revenue*   Focuses on enterprise                   growth, encourages                   business decisions that                   optimize results for the                   enterprise, promotes                   collaboration across                   business units and drives                   customer focus.   20%   6.0% to 12.0% growth   9.6% growth was within                   target range  
+ The target was set as a year-over-year growth goal for Cigna's business segments in place prior to the Express Scripts merger.  
+ Operating expense ratio improvement*   Drives continued focus on                   delivering ongoing                   expense efficiency while                   furthering investment                   capacity for ongoing                   innovation.   10%   3.0% to (2.0)%                   improvement   2.7% improvement was within target range  
+ The target was set as a composite objective, which measures operating expense improvement in Cigna's business segments in place prior to the Express Scripts merger.                  Operating expenses are expressed as a percent of revenue for each segment.   
+ Strategic Priorities*   Emphasizes the                   importance of recognizing                   progress in areas beyond                   financial results and of                   aligning our goals,                   contributions and rewards                   with our business                   strategy.   20%   The Committee evaluates progress in each category compared to 2017.   Target performance reflects:  
+• Strong and stable net promoter score  
+• Strong client retention; expanding and deepening relationships; and new business growth  
+• Strong employee engagement results and low employee turnover  
+• Advancement of enterprise compliance initiatives  
+ The categories for the strategic priorities measure for 2018 include (1) customer, client and reputational focus; (2) employee engagement; and (3) enterprise focus on                  compliance.  
+[END TABLE]
+[BEGIN TABLE]
+ 44         Cigna 2019                      Notice of Annual Meeting of Shareholders and Proxy Statement        
+[END TABLE]
+[BEGIN TABLE]
+ COMPENSATION MATTERS        
+[END TABLE]
+[BEGIN TABLE]
+ NEO   2018                   MIP                   Target                   ($)   Actual                   MIP                   Payout                   ($)   Payout                   as a Percent                   of Target                   (%)  
+ David M. Cordani       3,000,000           4,500,000           150      
+ Eric P. Palmer       825,000           1,650,000           200      
+ Nicole S. Jones       680,000           1,360,000           200      
+ Jason D. Sadler       650,000           942,500           145      
+ Timothy C. Wentworth       —   (1)        —   (1)        —   (1)   
+[END TABLE]
+[BEGIN TABLE]
+     Cigna 2019 Notice of Annual Meeting of Shareholders and Proxy Statement         45  
+[END TABLE]
+[BEGIN TABLE]
+ COMPENSATION MATTERS        
+[END TABLE]
+[BEGIN TABLE]
+ 46         Cigna 2019                      Notice of Annual Meeting of Shareholders and Proxy Statement        
+[END TABLE]
+[BEGIN TABLE]
+ COMPENSATION MATTERS        
+[END TABLE]
+2018 Individual LTI Targets and         Awards A NEO's LTI target         is expressed as a dollar value and is determined based on the compensation peer group and the general industry peer group market data for the officer's role. In December 2017, the Board, upon the recommendation of the Committee, set Mr. Cordani's         LTI target as a range. At that time, the Committee also approved market-based adjustments for the other NEOs then serving as executive officers of Cigna to maintain the competitive positions of their target total direct compensation. For those         executive officers, the Committee set the target as an absolute dollar value, with the primary consideration being the comparison to the 50th percentile LTI level of         the market data for both peer groups. The Board expects         that, for Mr. Cordani, LTI awards will fall within the target range, but the Board is not restricted to the range when determining Mr. Cordani's LTI award. For the other executive officers, for 2018, an executive could receive a grant between 0%         and 200% of his or her individual target value. Mr. Cordani's LTI award continues to be based primarily on his individual contributions and enterprise performance, as well as an assessment of then-current market data. In determining awards for the         other NEOs, the Committee primarily evaluates individual contributions, but also may take into consideration enterprise performance, succession planning needs and other factors as circumstances warrant. 2018 LTI awards were delivered 50% in stock         options and 50% in SPS awards having a 2018–2020 performance period. 
+[BEGIN TABLE]
+     Cigna 2019 Notice of Annual Meeting of Shareholders and Proxy Statement         47  
+[END TABLE]
+[BEGIN TABLE]
+ COMPENSATION MATTERS        
+[END TABLE]
+[BEGIN TABLE]
+ NEO   2018                   LTI                   Target                     ($)   ACTUAL                   LTI GRANT                   VALUE                   ($)(1)    LTI AWARD                   AS A PERCENT                   OF TARGET                   (%)   
+ David M. Cordani   9,000,000 to 13,000,000       12,000,000       Within target range  
+ Eric P. Palmer   2,500,000       2,250,000       90  
+ Nicole S. Jones   1,690,000       1,859,000       110  
+ Jason D. Sadler   1,500,000       1,575,000       105  
+ Timothy C. Wentworth(2)   N/A       N/A       N/A  
+[END TABLE]
+[BEGIN TABLE]
+ 48         Cigna 2019                      Notice of Annual Meeting of Shareholders and Proxy Statement        
+[END TABLE]
+[BEGIN TABLE]
+ COMPENSATION MATTERS        
+[END TABLE]
+[BEGIN TABLE]
+ Grants   
+ At the time of grant, a total LTI dollar value is approved for each named executive officer. The SPS portion of                   the award (50% of the total LTI value) is converted into a specific number of SPSs on the grant date based on                   Cigna's stock price on that date.   
+ Vesting   
+ SPSs vest in the first quarter of the year following the end of the three-year performance period.  
+ Payout Determination  
+ The Committee determines a performance factor of 0% to 200% based on Company achievement of two                   pre-established measures during the performance period, and that factor is multiplied by each SPS award to determine the number of shares to be paid in respect of vested awards.  
+ Measure: Relative TSR, compounded over the three-year performance period                                         Weighting: 50%                                         Alignment with Business Strategy: Rewards NEOs for stock performance relative to Cigna's applicable peer group at the time of the award                                         Comparator Group: The SPS performance peer group is used to measure relative TSR   Measure: Adjusted income from operations                                         Weighting: 50%                                         Alignment with Business Strategy: Reinforces the importance of sustained profitable growth across the enterprise                                         Threshold Performance: Performance that would result in funding of less than 35% of target yields no payment for this measure  
+ Final Payout  
+ SPS awards are ultimately settled in Cigna stock, so the actual value of the earned awards is based on                   Cigna's stock price at the time of payment.  
+[END TABLE]
+SPS awards         with a performance period that began prior to 2019 included as performance measures (1) relative TSR and (2) adjusted income from operations for Cigna's three business segments that were in place prior to the Express Scripts merger. For the SPS         programs for the 2017–2019 and 2018–2020 performance periods, the Committee approved changes to the adjusted income from operations performance targets for 2019 and 2020 in light of the merger. For performance periods beginning in 2019, this         measure will be determined on a consolidated, per share basis. No changes were made to the performance measures or targets for the 2016–2018 performance period.
+[BEGIN TABLE]
+     Cigna 2019 Notice of Annual Meeting of Shareholders and Proxy Statement         49  
+[END TABLE]
+[BEGIN TABLE]
+ COMPENSATION MATTERS        
+[END TABLE]
+[BEGIN TABLE]
+ PERFORMANCE                   PERIOD   PAYMENT DATE (IF                   EARNED)   SPS PERFORMANCE PEER GROUP  
+ 2016-2018   2019   Aflac Incorporated, Anthem, Inc., The Hartford Financial Services Group, Inc., Humana, Inc., Manulife Corporation, MetLife, Inc., UnitedHealth Group Incorporated and                  Unum Group(1)  
+ 2017-2019   2020   Aflac Incorporated, Anthem, Inc., Centene Corporation, The Hartford Financial Services Group, Inc., Humana, Inc., Manulife Corporation, MetLife, Inc., UnitedHealth Group                  Incorporated and Unum Group(1)  
+ 2018-2020   2021   Aflac Incorporated, Anthem, Inc., Centene Corporation, The Hartford Financial Services Group, Inc., Humana, Inc., Manulife Corporation, Prudential Financial, Inc.,                  UnitedHealth Group Incorporated and Unum Group(1)  
+[END TABLE]
+[BEGIN TABLE]
+ MEASURE   WEIGHTING    TARGET PERFORMANCE GOALS                   (DOLLARS IN MILLIONS)    ACTUAL RESULT                   (DOLLARS IN MILLIONS)   
+ Relative TSR   50%   50th Percentile   50th Percentile                   (100% of target)  
+ Adjusted income                   from operations(1)   50%   Cumulative adjusted income from operations of $7,782 to $8,725, calculated assuming a compound annual growth rate of 4.5%–10.5%   $8,357                   (104.4% of target)  
+[END TABLE]
+[BEGIN TABLE]
+ 50         Cigna 2019                      Notice of Annual Meeting of Shareholders and Proxy Statement        
+[END TABLE]
+[BEGIN TABLE]
+ COMPENSATION MATTERS        
+[END TABLE]
+Express         Scripts historically made contributions to senior executives' EDCP account in an amount equal to 6% of such senior executive's annual cash compensation, with the contributions subject to three-year cliff vesting. The Express Scripts board of         directors approved the contribution with respect to Mr. Wentworth's 2018 compensation in 2017. When an executive becomes eligible for retirement under the EDCP (minimum age of 55 and a combined age plus years of service with the company of 65), or         upon termination due to death or disability (as defined in the EDCP plan), all company-provided EDCP contributions vest in full. Upon termination for any reason other than death, disability or retirement, all unvested company-provided EDCP         contributions are forfeited. Withdrawals and distributions of vested amounts are made either upon termination or at a fixed time in a lump sum payment or pursuant to a previously specified fixed schedule. For information about the Company's         contribution to Mr. Wentworth's EDCP account in connection with the closing of the Express Scripts merger and the vesting of such contribution, see "Employment Arrangements and Post-Termination Payments —Retention Arrangements."Additional         information about deferred compensation can be found in the Nonqualified Deferred Compensation Table and accompanying narrative.Defined Benefit Pension Plans The Cigna         Pension Plan and the Cigna Supplemental Pension Plan were frozen on July 1, 2009. Benefits earned under these plans have been determined based on eligible earnings through July 1, 2009. The freeze did not affect benefits earned before July 1, 2009.         The Company's NEOs hired before July 1, 2009 participated in the Pension Plan and the Supplemental Pension Plan. Additional         information about pension benefits can be found in the Pension Benefits Table and accompanying narrative. Retirement Plans for         Non-U.S.-based Employees On July 1,         2018, Mr. Sadler relocated to the United Arab Emirates (UAE). Prior to that, he participated in the Mandatory Provident Fund program for Hong Kong employees. Hong Kong law requires employees to contribute 5% of their monthly salary up to a maximum         amount ($1,500 HKD or approximately $200 USD per month). Employers also are required to contribute 5% of the employee's monthly salary up to the same maximum amount. Employer contributions vest at a rate of 10% per year and are fully vested after         10 years of service. Participants may withdraw their lump sum benefit once they turn 60.As a citizen of         the United Kingdom working in Hong Kong and the UAE, Mr. Sadler also participates in Cigna's Third Country National Pension Plan. At the end of each 
+[BEGIN TABLE]
+     Cigna 2019 Notice of Annual Meeting of Shareholders and Proxy Statement         51  
+[END TABLE]
+[BEGIN TABLE]
+ COMPENSATION MATTERS        
+[END TABLE]
+$750,000 and         $2,500,000, respectively; and Mr. Sadler's 2019 LTI target was increased to $1,800,000. Changes to plan design for the MIP and LTI awards are described in "Annual Incentive — Annual Incentive Plan Changes for 2019," "Long-Term Incentives —         Strategic Performance Shares Program" and "Long-Term Incentives — LTI Changes for 2019."EMPLOYMENT                   ARRANGEMENTS AND          POST-TERMINATION PAYMENTS Employment Arrangements We typically do         not enter into individual employment contracts with our executive officers. Consistent with our approach of rewarding performance, employment is not guaranteed, and either Cigna or the executive officer may terminate the relationship at any time.         An executive officer receives an offer letter upon his or her hire or promotion that describes initial compensation terms, such as base salary, any sign-on or other cash bonus or equity awards, any relocation assistance and target opportunities for         annual cash incentive and long-term equity incentive compensation. Retention ArrangementsTimothy C.           Wentworth. To support the business integration and ongoing leadership of the Express Scripts business, we entered into a retention agreement with Mr. Wentworth. The retention agreement sets forth certain terms of his employment, as well as         specific compensation and benefits he is entitled to receive during the three-year retention period following the closing of the Express Scripts merger. In exchange for this agreement, Mr. Wentworth agreed to non-solicitation of customers and         employees and non-competition covenants applicable during his employment and for 24 months after his termination of employment for any reason, and perpetual confidentiality and non-disparagement covenants.During the         retention period, Mr. Wentworth will have an annual base salary of $1,500,000, a target annual incentive award opportunity of $2,625,000 (and a maximum potential award opportunity of 200% of such target opportunity), and an annual target long-term         incentive award opportunity of $6,000,000. These amounts were driven by his prior role as President and Chief Executive Officer of Express Scripts. If Mr. Wentworth is terminated without cause or terminates for good reason during the retention         period, he is entitled to receive a pro-rata bonus payment and a payment in respect of continuation of benefits.Under the         agreement, Mr. Wentworth was credited with a deferred compensation account balance of $8,250,000, which vests in equal monthly installments over the three-year period following the closing of the merger, subject to Mr. Wentworth's continued         employment through each monthly vesting date, or upon an earlier termination of 
+[BEGIN TABLE]
+ 52         Cigna 2019                      Notice of Annual Meeting of Shareholders and Proxy Statement        
+[END TABLE]
+[BEGIN TABLE]
+ COMPENSATION MATTERS        
+[END TABLE]
+February 2018, the         Committee awarded Mr. Hocevar an LTI award with a grant value of $1,760,000, 110% of his target as part of the Company's annual LTI grant practice.In September 2018,         the Company and Mr. Hocevar executed an Agreement and Release (an A&R) in connection with his separation. The A&R includes customary confidentiality, non-solicitation, non-competition, non-disparagement and release provisions. In addition,         the agreement provided for benefits consisting of: (1) a cash payment of $116,346, payable in installments through December 31, 2018; (2) a cash payment of $2,258,654, payable between January 1, 2019 and March 15, 2019; and (3) payout of previously         awarded SPSs for the 2016–2018, 2017–2019 and 2018–2020 performance periods. In total, the estimated aggregate value of these benefits in cash and stock is approximately $4.7 million, based on a stock price of $207.09 per share, the closing price         of Cigna's common stock on October 12, 2018. The percentage of actual shares earned and timing of the payment of the SPS awards will be based on Company performance and determined by the People Resources Committee of the Board of Directors in         accordance with the terms of the LTIP. Mr. Hocevar's A&R provides that these amounts must be returned to the Company in the event there is a violation of the non-competition and non-solicitation provisions of the A&R.Terms of Dr. Muney's Agreement           and ReleaseDr. Muney         retired effective December 21, 2018 upon the closing of the Express Scripts merger. The Committee had set Dr. Muney's base salary for 2018 at $625,000, his 2018 MIP target at $500,000 and his 2018 LTI target at $925,000. In February 2018, the         Committee awarded Dr. Muney an LTI award with a grant value of $925,000, 100% of his target as part of the Company's annual LTI grant practice.In January         2019, the Company and Dr. Muney executed an Agreement and Release in connection with his retirement. Dr. Muney's retirement constituted a termination upon a change of control under the Cigna Executive Severance Benefits Plan. Dr. Muney's A&R         provided for the following benefits: (1) a cash payment of $1,875,000 in the seventh calendar month after the retirement date (Basic Severance Pay under the Executive Severance Benefits Plan); (2) a cash payment of $1,833,000 in the seventh         calendar month after the retirement date (Supplemental Severance Pay under the Executive Severance Benefits Plan); (3) a cash payment of $500,000 payable between January 1, 2019 and March 15, 2019 as consideration for entering into the A&R; and         (4) payout of previously awarded SPSs for the 2016–2018, 2017–2019 and 2018–2020 performance periods. The A&R also provided that Dr. Muney's basic life insurance coverage would continue for one year following his retirement and that the Company         would provide reasonable outplacement services for six months. In addition, the agreement confirmed that, pursuant to the 
+[BEGIN TABLE]
+     Cigna 2019 Notice of Annual Meeting of Shareholders and Proxy Statement         53  
+[END TABLE]
+[BEGIN TABLE]
+ COMPENSATION MATTERS        
+[END TABLE]
+[BEGIN TABLE]
+ 54         Cigna 2019                      Notice of Annual Meeting of Shareholders and Proxy Statement        
+[END TABLE]
+[BEGIN TABLE]
+ COMPENSATION MATTERS        
+[END TABLE]
+his employment for         good reason within two years of the Express Scripts merger, all stock options and restricted stock units previously granted while employed by Express Scripts and converted into Cigna equity would vest. Equity awards granted by Cigna, including the         sign on equity awards granted on February 4, 2019, are governed by the terms of the Cigna LTIP.For more         information, see "Executive Compensation Tables — Potential Payments upon Termination or Change of Control." 
+[BEGIN TABLE]
+ The Committee and                   the independent members of the Board evaluate                   CEO performance and                   enterprise goals.   The Committee makes recommendations to the independent members of the Board about CEO performance and compensation.   The Board considers                   the Committee's recommendations as it reviews and determines the CEO's compensation.   The Chairman of the                   Board reviews the results                   of the performance evaluation with the CEO.  
+[END TABLE]
+[BEGIN TABLE]
+     Cigna 2019 Notice of Annual Meeting of Shareholders and Proxy Statement         55  
+[END TABLE]
+[BEGIN TABLE]
+ COMPENSATION MATTERS        
+[END TABLE]
+engages the         services of outside advisors for assistance. The Committee utilized Pay Governance as the Committee's independent compensation consultant throughout 2018 to provide independent, objective analysis, advice and information and to generally assist the         Committee in the performance of its duties. The Committee will typically request information and recommendations directly from the compensation consultant as it deems appropriate to structure and evaluate Cigna's compensation programs, practices         and plans. As part of its engagement, at the direction of the Committee, the compensation consultant will work with the Committee chair, the Executive Vice President, Human Resources and Services and Cigna's compensation department in their work on         the Committee's behalf. 
+[BEGIN TABLE]
+ ADVICE RECEIVED BY THE COMMITTEE FROM ITS COMPENSATION                   CONSULTANT FOR 2018 COMPENSATION DECISIONS   
+• Analyzed compensation levels and pay practices as compared to Cigna's compensation peer group to assess whether three- and five-year realizable pay were aligned with                  Cigna's performance and compensation philosophy  
+• Presented a comparison of competitive market data to the current compensation levels of each executive officer to assist in setting compensation targets  
+• Provided market research on incentive plans to assist in the design of short-term and long-term incentive compensation plans  
+• Reviewed incentive measures in the 2018 MIP and 2018–2020 SPS program to provide the Committee with objective reference points to consider when determining target goals  
+• Evaluated the effect of Cigna's equity programs on annual share use, burn rate and total overhang to provide the Committee with context for its determination of the                  maximum share limit for use in 2018  
+[END TABLE]
+[BEGIN TABLE]
+ 56         Cigna 2019                      Notice of Annual Meeting of Shareholders and Proxy Statement        
+[END TABLE]
+[BEGIN TABLE]
+ COMPENSATION MATTERS        
+[END TABLE]
+Stock Ownership Guidelines We believe that         the ownership of meaningful levels of Cigna stock by our executive officers is a critical factor in aligning the long-term interests of management and our shareholders. To promote this goal, we have adopted stock ownership guidelines that apply to         all of our executive officers, including our NEOs. As of December 31, 2018, all of our NEOs are in compliance with the stock ownership guidelines and each of our NEOs met or exceeded their ownership requirements, or are within the five-year share         accumulation period described below. The chart below shows the stock ownership requirements and actual value of holdings as a multiple of base salary as of December 31, 2018 for the CEO, the President, Express Scripts and Cigna Services and the         average of the other NEOs that served as executive officers at the end of 2018.
+[BEGIN TABLE]
+ Features of Our Stock Ownership Guidelines  
+• Wholly owned shares, restricted stock, restricted stock units, stock equivalents, and shares owned through benefit plans (such as investments in the Cigna stock fund of                  the Cigna 401(k) Plan or the deferred compensation plans) are counted toward meeting the guidelines. SPSs and stock options do not count toward meeting the ownership guidelines.  
+• Executive officers have five years from date of hire, promotion or any other event that changes their multiple of base salary to meet their applicable ownership                  requirement. Prior to meeting their stock ownership requirement, executives may only engage in transactions that increase their holdings. Once an executive attains his or her required holding level, the executive must maintain the                  requirement on a continuous basis, even if the requirement is met before the end of the five-year period.  
+[END TABLE]
+[BEGIN TABLE]
+ Share Retention Requirements Encourage a Long-Term Ownership Philosophy  
+• Once ownership requirements are met,   
+     ○   executive officers may not sell more than 50% of the shares held above their applicable guideline in any single open trading period; and  
+     ○   executive officers must retain, for at least one year, a minimum of 50% of the shares acquired upon exercise of any stock options and 50% of the shares acquired upon vesting                  of restricted stock or restricted stock unit grants, net of shares withheld for taxes or payment of exercise prices, fees and expenses.  
+[END TABLE]
+[BEGIN TABLE]
+     Cigna 2019 Notice of Annual Meeting of Shareholders and Proxy Statement         57  
+[END TABLE]
+[BEGIN TABLE]
+ COMPENSATION MATTERS        
+[END TABLE]
+[BEGIN TABLE]
+ Other Practices Regarding Transactions in Cigna Stock  
+• Executive officers may only transact in Cigna securities during approved open trading periods after satisfying mandatory clearance requirements or pursuant to Rule 10b5-1                  trading plans.  
+• CEO approval is required for all transactions in Cigna stock by executive officers.  
+• General Counsel approval is required for all transactions in Cigna stock by the CEO.  
+[END TABLE]
+[BEGIN TABLE]
+ 58         Cigna 2019                      Notice of Annual Meeting of Shareholders and Proxy Statement        
+[END TABLE]
+[BEGIN TABLE]
+ COMPENSATION MATTERS        
+[END TABLE]
+compensation         in excess of the $500,000 per person deduction limit. While the Committee considers the impact of Section 162(m)(6), it believes that shareholder interests are best served by not restricting the Committee's discretion and flexibility in crafting         the executive compensation program, even if non-deductible compensation expenses could result. Separately, the         Committee also considers the accounting consequences of its compensation decisions.
+[BEGIN TABLE]
+     Cigna 2019 Notice of Annual Meeting of Shareholders and Proxy Statement         59  
+[END TABLE]
+[BEGIN TABLE]
+ COMPENSATION MATTERS         
+[END TABLE]
+[BEGIN TABLE]
+ NAME AND PRINCIPAL                   POSITION                   (a)   YEAR                   (b)   SALARY                   ($)                   (c)   BONUS                   ($)                   (d)   STOCK                   AWARDS                   ($)                   (e)   OPTION                   AWARDS                   ($)                   (f)   NON-EQUITY                   INCENTIVE                   PLAN                   COMPENSATION                   ($)                   (g)   CHANGE IN                   PENSION                   VALUE AND                   NONQUALIFIED                   DEFERRED                   COMPENSATION                   EARNINGS                   ($)                   (h)   ALL OTHER                   COMPENSATION                   ($)                   (i)   TOTAL                   ($)                   (j)  
+ David M. Cordani                   President and Chief                   Executive Officer        2018           1,476,923           —           6,690,036           6,000,022           4,500,000           †           277,064           18,944,045      
+     2017           1,284,615           —           6,513,698           5,520,020           4,000,000           48,222           229,237           17,595,792      
+     2016           1,200,000           —           6,690,115           6,000,012           1,100,000           62,000           227,730           15,279,857      
+ Eric P. Palmer                   Executive Vice President                   and Chief Financial Officer        2018           701,981           —           1,254,478           1,125,044           1,650,000           †           38,905           4,770,408      
+     2017           594,769           —           1,161,994           281,581           975,000           12,950           33,624           3,059,918      
+ Nicole S. Jones                   Executive Vice President,                   General Counsel        2018           633,231           —           1,036,413           929,557           1,360,000           †           50,154           4,009,355      
+     2017           601,810           —           966,654           819,103           1,054,000           5,777           23,595           3,470,939      
+     2016           581,137           —           953,114           854,702           431,200           7,207           35,294           2,862,654      
+ Jason D. Sadler(1) President,                   International Markets        2018           649,084           —           878,201           787,531           942,500           —           268,692           3,526,008      
+     2017           611,832           —           678,576           575,032           908,371           —           222,623           2,996,434      
+     2016           589,463           —           641,256           575,039           399,796           —           239,383           2,444,937      
+ Timothy C. Wentworth(2) President,                   Express Scripts & Cigna Services        2018           57,692           —           —           —           —           —           8,817,654           8,875,346      
+ Christopher J. Hocevar(3) Former President,                   Strategy, Segments & Solutions        2018           452,774           —           3,885,029           880,012           —           †           134,521           5,352,336      
+     2017           534,458           —           737,529           625,015           775,000           14,035           22,506           2,708,543      
+ Alan M. Muney, M.D.(4)  Former Executive Vice President,                   Total Health Network & Chief Medical Officer       2018           644,231           —           515,786           462,532           —           —           4,240,110           5,862,659      
+[END TABLE]
+[BEGIN TABLE]
+ 60         Cigna 2019                      Notice of Annual Meeting of Shareholders and Proxy Statement        
+[END TABLE]
+[BEGIN TABLE]
+ COMPENSATION MATTERS         
+[END TABLE]
+[BEGIN TABLE]
+     VALUE OF 2018-2020 SPSs GRANTED IN FEBRUARY 2018  
+ NAME   GRANT DATE                   FAIR VALUE                   ($)    AT HIGHEST                   PERFORMANCE ACHIEVEMENT*                   ($)   
+ David M. Cordani       6,690,036           9,690,052      
+ Eric P. Palmer       1,254,478           1,817,024      
+ Nicole S. Jones       1,036,413           1,501,172      
+ Jason D. Sadler       878,201           1,272,013      
+ Timothy C. Wentworth       0           0      
+ Christopher J. Hocevar       2,015,343           1,421,492      
+ Alan M. Muney, M.D.       515,786           747,080      
+[END TABLE]
+[BEGIN TABLE]
+ NAME   NET CHANGE TO PRESENT                   VALUE($)  
+ David M. Cordani       (68,774)  
+ Eric P. Palmer       (23,049)  
+ Nicole S. Jones       (9,985)  
+ Christopher J. Hocevar       (45,851)  
+[END TABLE]
+[BEGIN TABLE]
+     Cigna 2019 Notice of Annual Meeting of Shareholders and Proxy Statement         61  
+[END TABLE]
+[BEGIN TABLE]
+ COMPENSATION MATTERS         
+[END TABLE]
+[BEGIN TABLE]
+ 62         Cigna 2019                      Notice of Annual Meeting of Shareholders and Proxy Statement        
+[END TABLE]
+[BEGIN TABLE]
+ COMPENSATION MATTERS         
+[END TABLE]
+[BEGIN TABLE]
+    NAME                     (a)       GRANT                     DATE                     (b)       COMMITTEE                     APPROVAL                     DATE                     (c)       ESTIMATED POSSIBLE PAYOUTS                   UNDER NON-EQUITY INCENTIVE                   PLAN AWARDS   ESTIMATED FUTURE PAYOUTS                   UNDER EQUITY INCENTIVE                   PLAN AWARDS                   ALL                     OTHER                     STOCK                     AWARDS:                     NUMBER                     OF                     SHARES                     OF                     STOCK                     OR UNITS                     (#)                     (k)                    ALL OTHER                     OPTION                     AWARDS:                     NUMBER OF                     SECURITIES                     UNDERLYING                     OPTIONS                     (#)                     (l)                    EXERCISE                     OR BASE                     PRICE OF                     OPTION                     AWARDS                     ($/Sh)                     (m)                    CLOSING                       MARKET                       PRICE                       ON                       DATE OF GRANT                       ($/Sh)                       (n)                   GRANT                     DATE                     FAIR                     MARKET                     VALUE                     OF                     STOCK                     AND                     OPTION                     AWARDS                     ($)                     (o)    
+       AWARD                     TYPE                     (d)    THRESHOLD                     ($)                     (e)    TARGET                     ($)                     (f)   MAXIMUM                     ($)                     (g)    THRESHOLD                     (#)                     (h)    TARGET                     (#)                     (i)   MAXIMUM                     (#)                     (j)    
+ David M. Cordani       —           —       MIP Target       —           3,000,000           6,000,000                                                                                                      
+     2/28/2018           2/28/2018       SPS                                           5,321           30,403           60,806                                                           6,690,036      
+     2/28/2018           2/28/2018       Option                                                                                           93,490           197.35           195.89           6,000,022      
+ Eric P. Palmer       —           —       MIP Target       —           825,000           1,650,000                                                                                                      
+     2/28/2018           2/28/2018       SPS                                           998           5,701           11,402                                                           1,254,478      
+     2/28/2018           2/28/2018       Option                                                                                           17,530           197.35           195.89           1,125,044      
+ Nicole S. Jones       —           —       MIP Target       —           680,000           1,360,000                                                                                                      
+     2/28/2018           2/28/2018       SPS                                           824           4,710           9,420                                                           1,036,413      
+     2/28/2018           2/28/2018       Option                                                                                           14,484           197.35           195.89           929,557      
+ Jason D. Sadler       —           —       MIP Target       —           650,000           1,300,000                                                                                                      
+     2/28/2018           2/28/2018       SPS                                           698           3,991           7,982                                                           878,201      
+     2/28/2018           2/28/2018       Option                                                                                           12,271           197.35           195.89           787,531      
+ Timothy C. Wentworth       —           —       MIP Target       —           —           —                                                                                                      
+                         SPS                                           —           —           —                                                           —      
+                         Option                                                                                           —           —           —           —      
+ Christopher J. Hocevar       —           —       MIP Target       —           500,000           1,000,000                                                                                                      
+     2/28/2018           2/28/2018       SPS                                           781           4,460           8,920                                                           981,402      
+     10/12/2018           9/5/2018       SPS                   Modification                                                                                                                               2,903,627      
+     2/28/2018           2/28/2018       Option                                                                                           13,712           197.35           195.89           880,012      
+ Alan M. Muney, M.D.       —           —       MIP Target       —           500,000           1,000,000                                                                                                      
+     2/28/2018           2/28/2018       SPS                                           410           2,344           4,688                                                           515,786      
+     2/28/2018           2/28/2018       Option                                                                                           7,207           197.35           195.89           462,532      
+[END TABLE]
+[BEGIN TABLE]
+     Cigna 2019 Notice of Annual Meeting of Shareholders and Proxy Statement         63  
+[END TABLE]
+[BEGIN TABLE]
+ COMPENSATION MATTERS         
+[END TABLE]
+[BEGIN TABLE]
+ 64         Cigna 2019                      Notice of Annual Meeting of Shareholders and Proxy Statement        
+[END TABLE]
+[BEGIN TABLE]
+ COMPENSATION MATTERS         
+[END TABLE]
+[BEGIN TABLE]
+  NAME                   (a)   NUMBER OF                   SECURITIES                   UNDERLYING                   UNEXERCISED                   OPTIONS                   (#)                   EXERCISABLE                   (b)   NUMBER OF                     SECURITIES                     UNDERLYING                     UNEXERCISED                     OPTIONS                     (#) (1)  UNEXERCISABLE                     (c)   OPTION                   EXERCISE                   PRICE                   ($)                   (d)   OPTION                   EXPIRATION                   DATE                   (e)   NUMBER                     OF                     SHARES                     OR UNITS                     OF                     STOCK                     THAT                     HAVE                     NOT                     VESTED                     (#)(1)  (f)   MARKET                     VALUE                     OF                     SHARES                     OR UNITS                     OF                     STOCK                     THAT                     HAVE                     NOT                     VESTED                     ($)(2)  (g)   EQUITY                     INCENTIVE                     PLAN                     AWARDS:                     NUMBER OF                     UNEARNED                     SHARES,                     UNITS OR                     OTHER                     RIGHTS                     THAT HAVE                     NOT                     VESTED                     (#)(1)  (h)   EQUITY                     INCENTIVE                     PLAN AWARDS:                     MARKET OR                     PAYOUT  VALUE OF                     UNEARNED                     SHARES,                     UNITS OR                     OTHER                     RIGHTS THAT                     HAVE NOT                     VESTED                     ($)(2)  (i)  
+ David M. Cordani       189,610                       42.1900           3/1/2021           44,046           8,365,216           67,417           12,803,837      
+     200,229                       44.4250           2/28/2022                                                      
+     206,843                       58.7300           3/5/2023                                                      
+     229,443                       78.0350           2/26/2024                                                      
+     159,388                       120.8950           2/25/2025                                                      
+     95,200           47,601           139.2200           3/1/2026                                                      
+     39,684           79,369           149.1350           2/28/2027                                                      
+                 93,490           197.3500           2/28/2028                                                      
+ Total       1,120,397           220,460                                   44,046           8,365,216           67,417           12,803,837      
+ Eric P.                   Palmer       7,967                       78.0350           2/26/2024           2,068           392,755           11,805           2,242,006      
+     6,417                       120.8950           2/25/2025                                                      
+     4,467           2,234           139.2200           3/1/2026                                                      
+     2,024           4,049           149.1350           2/28/2027                                                      
+                 17,530           197.3500           2/28/2028                                                      
+ Total       20,875           23,813                                   2,068           392,755           11,805           2,242,006      
+ Nicole S.                   Jones       17,163                       58.7300           3/5/2023           6,275           1,191,748           10,203           1,937,754      
+     36,316                       78.0350           2/26/2024                                                      
+     22,509                       120.8950           2/25/2025                                                      
+     13,561           6,781           139.2200           3/1/2026                                                      
+     5,888           11,778           149.1350           2/28/2027                                                      
+                 14,484           197.3500           2/28/2028                                                      
+ Total       95,437           33,043                                   6,275           1,191,748           10,203           1,937,754      
+ Jason D.                   Sadler                   4,562           139.2200           3/1/2026           4,222           801,842           7,847           1,490,302      
+     4,134           8,268           149.1350           2/28/2027                                                      
+                 12,271           197.3500           2/28/2028                                                      
+ Total       4,134           25,101                                   4,222           801,842           7,847           1,490,302      
+ Timothy C. Wentworth       15,879                       121.1371           3/6/2020           64,948           12,334,924                              
+     45,206                       160.6623           3/5/2021                                                      
+     20,687                       99.1462           2/24/2022                                                      
+     51,016                       176.6556           3/4/2025                                                      
+     44,855           22,428           144.8772           3/9/2026                                                      
+     39,396           19,699           151.4786           5/4/2026                                                      
+     43,492           86,985           140.8164           3/8/2027                                                      
+ Total       260,531           129,112                                   64,948           12,334,924           0           0      
+ Christopher J. Hocevar                                                       2,561           486,385           8,651           1,642,998      
+ Total       0           0                                   2,561           486,385           8,651           1,642,998      
+ Alan M. Muney, M.D.       13,054                       120.8950           3/21/2019                                                      
+     11,306                       139.2200           3/21/2019                                                      
+     10,461                       149.1350           3/21/2019                                                      
+     7,207                       197.3500           3/21/2019                                                      
+ Total       42,028           0                                   0           0           0           0      
+[END TABLE]
+[BEGIN TABLE]
+     Cigna 2019 Notice of Annual Meeting of Shareholders and Proxy Statement         65  
+[END TABLE]
+[BEGIN TABLE]
+ COMPENSATION MATTERS         
+[END TABLE]
+[BEGIN TABLE]
+   NUMBER OF                   STOCK                   OPTIONS THAT                   HAVE NOT                   VESTED                   (a)   VESTING                   DATE                   (b)   VESTING                   AMOUNT                   (c)   NUMBER OF                   SHARES                   OR UNITS                   THAT HAVE                   NOT                   VESTED (i)                   (d)   VESTING                   DATE (i)                   (e)   VESTING                   AMOUNT                   (f)   NUMBER OF                   EQUITY                   INCENTIVE                   PLAN                   AWARD                   SHARES OR UNITS                   THAT HAVE                   NOT                   VESTED (ii)                   (g)   VESTING                   DATE (ii)                   (h)   VESTING                   AMOUNT                   (i)  
+ David M. Cordani                                         47,601  
+                                            3/1/2019           47,601           44,046           3/1/2019           44,046           67,417           2020           37,014      
+ David M. Cordani                                         47,601  
+                                            3/1/2019           47,601           44,046           3/1/2019           44,046           67,417           2020           37,014      
+     79,369           2/28/2019           39,684                                                           2021           30,403      
+                 2/28/2020           39,685                                                                              
+     93,490           2/28/2019           31,163                                                                              
+                 2/28/2020           31,163                                                                              
+                 2/28/2021           31,164                                                                              
+ Total                               220,460                                   44,046                                   67,417      
+ Eric P.                   Palmer       2,234           3/1/2019           2,234           2,068           3/1/2019           2,068           11,805           2020           6,104      
+     4,049           2/28/2019           2,024                                                           2021           5,701      
+                 2/28/2020           2,025                                                                              
+     17,530           2/28/2019           5,843                                                                              
+                 2/28/2020           5,843                                                                              
+                 2/28/2021           5,844                                                                              
+ Total                               23,813                                   2,068                                   11,805      
+ Nicole S. Jones       6,781           3/1/2019           6,781           6,275           3/1/2019           6,275           10,203           2020           5,493      
+     11,778           2/28/2019           5,889                                                           2021           4,710      
+                 2/28/2020           5,889                                                                              
+     14,484           2/28/2019           4,828                                                                              
+                 2/28/2020           4,828                                                                              
+                 2/28/2021           4,828                                                                              
+ Total                               33,043                                   6,275                                   10,203      
+ Jason D. Sadler       4,562           3/1/2019           4,562           4,222           3/1/2019           4,222           7,847           2020           3,856      
+     8,268           2/28/2019           4,134                                                           2021           3,991      
+                 2/28/2020           4,134                                                                              
+     12,271           2/28/2019           4,090                                                                              
+                 2/28/2020           4,090                                                                              
+                 2/28/2021           4,091                                                                              
+ Total                               25,101                                   4,222                                   7,847      
+ Timothy C. Wentworth       22,428           2/28/2019           22,428           64,948           2/28/2019           4,410                                          
+     19,699           5/4/2019           19,699                       5/4/2019           3,851                                          
+     86,985           2/28/2019           43,492                       2/28/2019           9,074                                          
+                 2/28/2020           43,493                       2/28/2020           9,074                                          
+                                                     2/28/2019           12,846                                          
+                                                     2/28/2020           12,846                                          
+                                                     2/28/2021           12,847                                          
+ Total                               129,112                                   64,948                                   —      
+ Christopher J. Hocevar                                           2,561           3/1/2019           2,561           8,651           2020           4,191      
+                                                                                         2021           4,460      
+ Total                               —                                   2,561                                   8,651      
+ David M. Cordani       —           —           67,070(2)        12,906,951      
+ Eric P. Palmer       —           —           2,701(2)        519,780      
+ Nicole S. Jones       —           —           9,473(2)        1,822,984      
+ Jason D. Sadler       9,830           821,441           10,104(2)(3)        1,870,533      
+ Timothy C. Wentworth       —           —           —           —      
+ Christopher J. Hocevar       13,222           993,774           4,033(2)        776,111      
+ Alan M. Muney, M.D.       —           —           18,089(2)(4)        3,351,948      
+[END TABLE]
+[BEGIN TABLE]
+     Cigna 2019 Notice of Annual Meeting of Shareholders and Proxy Statement         67  
+[END TABLE]
+[BEGIN TABLE]
+ COMPENSATION MATTERS         
+[END TABLE]
+[BEGIN TABLE]
+ NAME                   (a)   PLAN NAME                   (b)   NUMBER OF                   YEARS                   CREDITED                   SERVICE                   (#) (c)(1)   PRESENT VALUE                   OF                   ACCUMULATED                   BENEFIT                   ($)                   (d)(2)   PAYMENTS                   DURING THE                   LAST                   FISCAL YEAR                   ($)                   (e)  
+ David M. Cordani   Cigna Pension Plan (Part B)       18           308,561           —      
+ Cigna Supplemental Pension Plan       18           177,751           —      
+ Cigna Supplemental Pension Plan of 2005       18           585,303           —      
+ Eric P. Palmer   Cigna Pension Plan (Part B)       11           150,855           —      
+ Cigna Supplemental Pension Plan of 2005       11           11,757           —      
+ Nicole S. Jones   Cigna Pension Plan (Part B)       3           51,623           —      
+ Cigna Supplemental Pension Plan of 2005       3           54,080           —      
+ Christopher J. Hocevar   Cigna Pension Plan (Part B)       8           —           121,392      
+ Cigna Supplemental Pension Plan       8           3,766           —      
+ Cigna Supplemental Pension Plan of 2005       8           77,143           —      
+[END TABLE]
+[BEGIN TABLE]
+ 68         Cigna 2019                      Notice of Annual Meeting of Shareholders and Proxy Statement        
+[END TABLE]
+[BEGIN TABLE]
+ COMPENSATION MATTERS         
+[END TABLE]
+[BEGIN TABLE]
+     Cigna 2019 Notice of Annual Meeting of Shareholders and Proxy Statement         69  
+[END TABLE]
+[BEGIN TABLE]
+ COMPENSATION MATTERS         
+[END TABLE]
+[BEGIN TABLE]
+  NAME                   (a)    PLAN NAME                    (b)                   EXECUTIVE                   CONTRIBUTIONS                   IN LAST FY                   ($)                   (c)                     REGISTRANT                     CONTRIBUTIONS                     IN LAST FY                     ($)(1)  (d)                   AGGREGATE                   EARNINGS                   IN LAST FY                   ($)                   (e)                   AGGREGATE                   WITHDRAWAL/                   DISTRIBUTIONS                   ($)                   (f)                     AGGREGATE                    BALANCE                    AT LAST FYE                    ($)                    (g)  
+ David M. Cordani                                  Cigna Deferred                   Compensation Plan     —         —           (40,950)       —           592,674(2)   
+ Supplemental 401(k)       —           78,029           10,712           —           472,245(2)(3)   
+ Eric P.                   Palmer   Cigna Deferred                   Compensation Plan       —           —           4,218           —           144,025(2)    
+ Supplemental 401(k)       —           21,030           1,075           —           64,913(2)(3)   
+ Nicole S. Jones   Supplemental 401(k)       —           21,183           2,244           —           107,822(2)(3)   
+ Jason D. Sadler   Mandatory Provident                   Fund       1,151           1,151           (6,011)       —           38,624(2)   
+ Third Country                   National                   Pension Plan       —           139,810           (21,852)       —           1,074,390(2)   
+ Timothy C. Wentworth   Express Scripts                   Executive Deferred                   Compensation Plan       —           8,817,654   (4)        81,264   (5)        —                9,680,653     
+ Christopher J. Hocevar   Cigna Deferred                   Compensation Plan       —           —           (14,741)       110,185           244,488(2)   
+ Supplemental 401(k)       —           —           1,636           —           64,540(2)(3)   
+ Alan M. Muney, M.D.   LTIP       —           2,198,122   (6)        93,263           —           2,291,385(7)   
+ Supplemental 401(k)       —           14,235           2,648           —           115,554(3)   
+[END TABLE]
+[BEGIN TABLE]
+ 70         Cigna 2019                      Notice of Annual Meeting of Shareholders and Proxy Statement        
+[END TABLE]
+[BEGIN TABLE]
+ COMPENSATION MATTERS         
+[END TABLE]
+[BEGIN TABLE]
+     Cigna 2019 Notice of Annual Meeting of Shareholders and Proxy Statement         71  
+[END TABLE]
+[BEGIN TABLE]
+ COMPENSATION MATTERS         
+[END TABLE]
+[BEGIN TABLE]
+ 72         Cigna 2019                      Notice of Annual Meeting of Shareholders and Proxy Statement        
+[END TABLE]
+[BEGIN TABLE]
+ COMPENSATION MATTERS         
+[END TABLE]
+[BEGIN TABLE]
+ CONTINGENT PAYMENTS                   All Actions Assume a December 31, 2018 Termination Date  
+     INVOLUNTARY                   TERMINATION                   NOT FOR                   CAUSE                   ($)                   (a)   TERMINATION                   UPON A                   CHANGE OF                   CONTROL                   ($)                   (b)   EARLY                   RETIREMENT                   OR                   RETIREMENT                   ($)                   (c)   TERMINATION                   UPON                   DEATH OR                   DISABILITY                   ($)                   (d)  
+[END TABLE]
+[BEGIN TABLE]
+ David M. Cordani                                                  
+ Severance       1,500,000           16,500,000           —           —      
+ Annual Incentive       3,000,000                       —           —      
+ Vesting of Previously Awarded Long-Term Incentives       14,796,287           34,993,075           —           26,639,444      
+ Other Benefits       29,670           19,670           —           —      
+ TOTAL       19,325,957           51,512,745           —           26,639,444      
+ Eric P. Palmer                                                  
+ Severance       850,000           5,475,000           —           —      
+ Annual Incentive       825,000           —           —           —      
+ Vesting of Previously Awarded Long-Term Incentives       1,518,031           3,949,746           —           2,904,616      
+ Other Benefits       26,202           16,202           —           —      
+ TOTAL       3,219,233           9,440,948           —           2,904,616      
+ Nicole S. Jones                                                  
+ Severance       750,000           5,412,000           —           —      
+ Annual Incentive       680,000           —           —           —      
+ Vesting of Previously Awarded Long-Term Incentives       2,159,770           5,163,455           —           3,928,025      
+ Other Benefits       26,564           16,564           —           —      
+ TOTAL       3,616,334           10,592,019           —           3,928,025      
+ Jason D. Sadler                                                  
+ Severance       650,000           4,675,113           —           —      
+ Annual Incentive       650,000           —           —           —      
+ Vesting of Previously Awarded Long-Term Incentives       1,525,437           3,748,714           —           2,843,366      
+ Other Benefits       25,000           15,000           —           —      
+ TOTAL       2,850,437           8,438,827           —           2,843,366      
+ Timothy C. Wentworth                                                  
+ Severance       —           —           —           —      
+ Annual Incentive       —           —           —           —      
+ Vesting of Previously Awarded Long-Term Incentives       18,373,678           32,761,678           13,474,024           27,084,365      
+ Other Benefits       8,334,000           8,334,000           —           8,334,000      
+ TOTAL       26,707,678           41,095,678           13,474,024           35,418,365      
+[END TABLE]
+[BEGIN TABLE]
+     Cigna 2019 Notice of Annual Meeting of Shareholders and Proxy Statement         73  
+[END TABLE]
+[BEGIN TABLE]
+ COMPENSATION MATTERS         
+[END TABLE]
+[BEGIN TABLE]
+ 74         Cigna 2019                      Notice of Annual Meeting of Shareholders and Proxy Statement        
+[END TABLE]
+[BEGIN TABLE]
+ COMPENSATION MATTERS         
+[END TABLE]
+[BEGIN TABLE]
+     Cigna 2019 Notice of Annual Meeting of Shareholders and Proxy Statement         75  
+[END TABLE]
+[BEGIN TABLE]
+ COMPENSATION MATTERS         
+[END TABLE]
+[BEGIN TABLE]
+ 76         Cigna 2019                      Notice of Annual Meeting of Shareholders and Proxy Statement        
+[END TABLE]
+[BEGIN TABLE]
+ AUDIT MATTERS        
+[END TABLE]
+[BEGIN TABLE]
+     Cigna 2019 Notice of Annual Meeting of Shareholders and Proxy Statement         77  
+[END TABLE]
+[BEGIN TABLE]
+ AUDIT MATTERS        
+[END TABLE]
+[BEGIN TABLE]
+ 78         Cigna 2019                      Notice of Annual Meeting of Shareholders and Proxy Statement        
+[END TABLE]
+[BEGIN TABLE]
+ AUDIT MATTERS        
+[END TABLE]
+[BEGIN TABLE]
+     2018   2017  
+ Audit Fees   $   17,931,399       $   12,388,000      
+ Audit-Related Fees       6,070,497           2,036,000      
+ Tax Fees       1,647,650           697,000      
+ All Other Fees       1,738,880           605,000      
+ TOTAL   $   27,388,426       $   15,726,000      
+[END TABLE]
+procedures; due         diligence; purchase accounting; pre- and post-close integration matters with respect to the Express Scripts merger; and regulatory examinations. Tax fees include tax recovery services, tax consulting, tax compliance services and services related to tax matters with respect to the Express Scripts merger. All other fees include professional services rendered by PricewaterhouseCoopers LLP not reported in any other category and include pre-approved business process advisory and other services that, for 2018, relate primarily to financial           and operational benchmarking, legal and regulatory integration and agile controls readiness assessment.
+[BEGIN TABLE]
+     Cigna 2019 Notice of Annual Meeting of Shareholders and Proxy Statement         79  
+[END TABLE]
+[BEGIN TABLE]
+ AUDIT MATTERS        
+[END TABLE]
+[BEGIN TABLE]
+ 80         Cigna 2019                      Notice of Annual Meeting of Shareholders and Proxy Statement        
+[END TABLE]
+[BEGIN TABLE]
+ SHAREHOLDER PROPOSALS        
+[END TABLE]
+[BEGIN TABLE]
+ Proposal 4 - Increase Shareholder Rights to Include Action by Written Consent  
+ Shareholders request that our board of directors undertake such steps as may be necessary to permit written consent by shareholders entitled to cast the minimum number of                  votes that would be necessary to authorize a specific action at a meeting at which all shareholders entitled to vote thereon were present and voting. This written consent is to be consistent with giving shareholders the fullest power to act                  by written consent according to applicable law. This includes shareholder ability to initiate any appropriate topic for written consent.  
+ This proposal topic won majority shareholder support at 13 major companies in a single year. This included 67%-support at both Allstate and Sprint. Hundreds of major                  companies enable shareholder action by written consent. This proposal topic might have received a still higher vote than 67% at Allstate and Sprint if small shareholders had the same access to independent corporate governance data on these                  companies as large shareholders.  
+ Taking action by written consent in place of a special meeting is a means shareholders can use to raise important matters outside the normal annual meeting cycle and avoid                  the cost of a special meeting.  
+ Shareholders can act by written consent to elect a new director. The following negative events indicate that director refreshment is needed:  
+ DOJ Investigation into alleged fraudulent Medicare payments.                   May 2018  
+ Consumer Fraud/Abuse – Class Action over alleged overcharged co-payment amounts of prescription drugs.                   May 2018  
+ Consumer Fraud/Abuse – Proposed Class Action suit over alleged failure to provide long-term and short-term disability claims, Pennsylvania.                   January 2018  
+ Class Action over calculation of plan benefits based on cash balance formula conversion; alleged ERISA violation, Amara lawsuit                   December 2017  
+ Consumer Fraud/Abuse – Litigation over alleged failure to reimburse out-of-network services.                   December 2017  
+ Consumer Fraud/Abuse – Purported Class Action over alleged over-charging and price fixing of home patient care and durable medical equipment, Texas.                   November 2017  
+ Investigation into policies of health insurers in prescribing opioid medications.                   November 2017  
+ The expectation of this written consent proposal is that shareholders will not need to make use of written consent because its mere existence will be an incentive factor                  that will help ensure that our company is well supervised by the Board of Directors and management.  
+ Please vote yes:                   Increase Shareholder Rights to Include Action by Written Consent - Proposal 4                        
+[END TABLE]
+[BEGIN TABLE]
+     Cigna 2019 Notice of Annual Meeting of Shareholders and Proxy Statement         81  
+[END TABLE]
+[BEGIN TABLE]
+ SHAREHOLDER PROPOSALS        
+[END TABLE]
+[BEGIN TABLE]
+ 82         Cigna 2019                      Notice of Annual Meeting of Shareholders and Proxy Statement        
+[END TABLE]
+[BEGIN TABLE]
+ SHAREHOLDER PROPOSALS        
+[END TABLE]
+[BEGIN TABLE]
+     Cigna 2019 Notice of Annual Meeting of Shareholders and Proxy Statement         83  
+[END TABLE]
+[BEGIN TABLE]
+ SHAREHOLDER PROPOSALS        
+[END TABLE]
+[BEGIN TABLE]
+ 84         Cigna 2019                      Notice of Annual Meeting of Shareholders and Proxy Statement        
+[END TABLE]
+[BEGIN TABLE]
+ SHAREHOLDER PROPOSALS        
+[END TABLE]
+[BEGIN TABLE]
+ Cyber Risk Report  
+ Prior to becoming the Chairman of the SEC, Jay Clayton wrote, "cyber-threats are among the most urgent risk to America's economic and national security and the personal                  safety of its citizens." In October 2017, the Co-Director of SEC Division of Enforcement identified cybersecurity disclosure as a priority and subject of potential enforcement "where there may be a cyber-related disclosure failure by a                  public company." Earlier this year the SEC updated its interpretive guidance on cybersecurity disclosure, further underlining its focus on this topic.  
+ A 2018 report sponsored by IBM and conducted by the Ponemon Institute, found that healthcare data breaches cost organizations $408 per compromised record, more than 2.5                  times the global average across for all industries. In 2017, the Healthcare Industry Cybersecurity Task Force noted the industry experienced more cyber incidents resulting in data breaches than any of the other 15 critical infrastructure                  sectors. According to a 2016 report by the Ponemon Institute, data breaches in healthcare are increasingly costly and frequent, and continue to put patient data at risk. The report estimates that data breaches could be costing the                  healthcare industry $6.2 billion.  
+ While Cigna Health Corporation's 2017 10-K gives a cursory description of cyber risks, we believe it does not adequately disclose the full extent of those risks and how they                  are mitigated. Given the magnitude of cyber risk in the healthcare industry, shareholders need a full report that includes policies, procedures, or other information concerning how it mitigates this risk.  
+ RESOLVED: The Company's shareholders ask the Board to review and publicly report (at reasonable cost, in a reasonable timeframe, and omitting proprietary and confidential                  information) on its cyber risk and actions taken to mitigate that risk. A report adequate for investors to assess practices should include:  
+ aspects of business or operations that give rise to material cyber risk;  
+ the extent to which the Company outsources functions that have material cyber risks, descriptions of those functions and how the Company addresses those risks;  
+ descriptions of cyber incidents experienced by the Company that individually or in the aggregate are material, including a description of costs and consequences;  
+ risks related to cyber incidents that remain undetected for an extended period;  
+ description of relevant insurance coverage;  
+ compliance, regulatory or contractual obligations related to cyber risk;  
+ certification to widely recognized standards; and how cyber risks and cyber incidents are reflected in financial statements.  
+ The report should also discuss the scope and frequency of the Board's oversight of cyber risks which may include review of relevant systems, policies, and procedures,                  related to:  
+• determining critical assets (e.g., customer information);  
+• employee training on data security and privacy-related risks;  
+• due diligence for third party vendors and potential acquisitions;  
+• data breach and incident response plans;  
+• minimization of data collection and retention; and  
+• security policies and audit frequency                        
+[END TABLE]
+[BEGIN TABLE]
+     Cigna 2019 Notice of Annual Meeting of Shareholders and Proxy Statement         85  
+[END TABLE]
+[BEGIN TABLE]
+ SHAREHOLDER PROPOSALS        
+[END TABLE]
+[BEGIN TABLE]
+ 86         Cigna 2019                      Notice of Annual Meeting of Shareholders and Proxy Statement        
+[END TABLE]
+[BEGIN TABLE]
+ SHAREHOLDER PROPOSALS        
+[END TABLE]
+[BEGIN TABLE]
+     Cigna 2019 Notice of Annual Meeting of Shareholders and Proxy Statement         87  
+[END TABLE]
+[BEGIN TABLE]
+ SHAREHOLDER PROPOSALS        
+[END TABLE]
+[BEGIN TABLE]
+ 88         Cigna 2019                      Notice of Annual Meeting of Shareholders and Proxy Statement        
+[END TABLE]
+[BEGIN TABLE]
+ SHAREHOLDER PROPOSALS        
+[END TABLE]
+[BEGIN TABLE]
+ Cigna                   Gender Pay Gap – 2019  
+ WHEREAS: The median income for women working full time in the United States is 80 percent of that of their male counterparts. The gap for African America and Latina women is                  60 percent and 55 percent. At the current rate, women will not reach pay parity until 2059.  
+ Mercer finds actively managing pay equity "is associated with higher current female representation at the professional through executive levels and a faster trajectory to                  improved representation." Research from Morgan Stanley, McKinsey, and Robeco Sam suggests more gender diverse leadership leads to superior stock price performance and return on equity. McKinsey states, "the                  business case for the advancement and promotion of women is compelling." Best practices include "tracking and eliminating gender pay gaps."  
+ Regulatory risks associated with pay equity exist. The Paycheck Fairness Act, introduced in Congress, would improve company-level transparency and strengthen penalties for                  equal pay violations. California, Massachusetts, New York and Maryland have enacted significant changes to their equal pay laws.  
+ In 2018 the United Kingdom required large businesses to provide annual gender pay gap reports. Cigna U.K. reported a 17 percent median pay gap and 38 percent median bonus                  pay gap between male and female employees. Women comprised 60.9 percent of the lower quartile of its employees but only 39 percent of the upper quartile.  
+ Cigna does not report on the gender pay gap for its U.S. employees yet Payscale shows Cigna's U.S. male employee's median pay is $14,906 more than its female employees - a                  nearly 20 percent difference. Cigna male employee median bonus is $2442 more than its female employees – a 33 percent difference.  
+ Leading large-cap companies across industry sectors including Apple, Starbucks and Bank of New York Mellon, among others, have publicly committed to pay equity and published                  the results of gender pay assessments.  
+ With evidence linking pay equity to greater diversity and strong links between management diversity, financial performance and more robust decision-making, companies would                  be well served by understanding the equity attributes of their pay, at all levels of the corporation, by gender as well as other facets of diversity, such as race and ethnicity. Amid increasing regulatory and investor interest, it is                  apparent that companies should understand, manage, and report on pay equity to shareholders.  
+ RESOLVED: Shareholders request that our company prepare a report (at reasonable cost, omitting proprietary and confidential information), identifying whether a gender                  pay gap exists among its employees, and if so, outline the steps being taken to reduce the gap. The Organization for Economic Cooperation and Development has defined the gender pay gap as the difference between male and female earnings                  expressed as a percentage of male earnings.  
+ Supporting Statement: A report adequate for investors to assess our company's strategy and performance would include the percentage pay gap between male and female employees                  (including base, bonus and equity compensation), a discussion of policies to address any gaps and quantitative reduction targets, and the methodology used to identify pay disparities.                        
+[END TABLE]
+[BEGIN TABLE]
+     Cigna 2019 Notice of Annual Meeting of Shareholders and Proxy Statement         89  
+[END TABLE]
+[BEGIN TABLE]
+ SHAREHOLDER PROPOSALS        
+[END TABLE]
+[BEGIN TABLE]
+ 90         Cigna 2019                      Notice of Annual Meeting of Shareholders and Proxy Statement        
+[END TABLE]
+[BEGIN TABLE]
+ SHAREHOLDER PROPOSALS        
+[END TABLE]
+[BEGIN TABLE]
+     Cigna 2019 Notice of Annual Meeting of Shareholders and Proxy Statement         91  
+[END TABLE]
+[BEGIN TABLE]
+ OWNERSHIP OF CIGNA COMMON STOCK        
+[END TABLE]
+[BEGIN TABLE]
+ NAME   AMOUNT AND NATURE OF                   BENEFICIAL OWNERSHIP(1)   PERCENT                   OF CLASS  
+ Directors and Nominees                          
+ William J. DeLaney       20,787               *  
+ Eric J. Foss       14,346               *  
+ Elder Granger, M.D. (2)       9,289               *  
+ Isaiah Harris, Jr. (2)       16,370               *  
+ Roman Martinez IV (2)       22,996               *  
+ Kathleen M. Mazzarella       201               *  
+ Mark B. McClellan, M.D.       201               *  
+ John M. Partridge       34,200               *  
+ William L. Roper, M.D. (2)       21,181               *  
+ Eric C. Wiseman (2)       4,200               *  
+ Donna F. Zarcone (2)       13,500               *  
+ William D. Zollars (2)       13,500               *  
+ Named Executive Officers                          
+ David M. Cordani       1,589,537               *  
+ Eric P. Palmer       42,993               *  
+ Nicole S. Jones       147,223               *  
+ Jason D. Sadler       46,481               *  
+ Timothy C. Wentworth       395,119               *  
+ Christopher J. Hocevar(3)       11,312               *  
+ Alan M. Muney, M.D.       64,500               *  
+ All Directors, Nominees and Executive Officers as a group including those named above (24 Persons)       3,038,447           0.8%  
+[END TABLE]
+[BEGIN TABLE]
+ 92         Cigna 2019                      Notice of Annual Meeting of Shareholders and Proxy Statement        
+[END TABLE]
+[BEGIN TABLE]
+ OWNERSHIP OF CIGNA COMMON STOCK        
+[END TABLE]
+[BEGIN TABLE]
+ Name   Deferred Common Stock   Restricted                     Stock Units   Hypothetical Shares of Common Stock  
+ Elder Granger, M.D.       201           —           —      
+ Isaiah Harris, Jr.       —           —           23,260      
+ Roman Martinez IV       23,713           _           15,426      
+ William L. Roper, M.D.       —           3,300           —      
+ Eric C. Wiseman       13,050           —           4,145      
+ Donna F. Zarcone       9,163           —           2,797      
+ William D. Zollars       —           —           9,787      
+[END TABLE]
+[BEGIN TABLE]
+     Cigna 2019 Notice of Annual Meeting of Shareholders and Proxy Statement         93  
+[END TABLE]
+[BEGIN TABLE]
+ OWNERSHIP OF CIGNA COMMON STOCK        
+[END TABLE]
+[BEGIN TABLE]
+ Name and Address                     of Beneficial Owner   Amount and Nature of                     Beneficial Ownership   Percent                     of Class  
+ The Vanguard Group                   100 Vanguard Blvd.                   Malvern, PA 19355       28,556,468(1)        7.5%  
+ T. Rowe Price Associates, Inc.                   100 E. Pratt Street                   Baltimore, MD 21202       27,433,436(2)        7.2%  
+ BlackRock, Inc.                   55 East 52nd Street                   New York, NY 10055       26,892,201(3)        7.1%  
+[END TABLE]
+[BEGIN TABLE]
+ 94         Cigna 2019                      Notice of Annual Meeting of Shareholders and Proxy Statement        
+[END TABLE]
+[BEGIN TABLE]
+ ANNUAL MEETING INFORMATION         
+[END TABLE]
+[BEGIN TABLE]
+     Cigna 2019 Notice of Annual Meeting of Shareholders and Proxy Statement         95  
+[END TABLE]
+[BEGIN TABLE]
+ ANNUAL MEETING INFORMATION         
+[END TABLE]
+[BEGIN TABLE]
+ MANAGEMENT                   PROPOSAL   ITEM   BOARD                   RECOMMENDATION   MORE                   INFORMATION  
+ 1                         Election of the thirteen director nominees named in this Proxy Statement                                          Vote FOR each of the nominees   Page 7  
+ 2                                            Advisory approval of executive compensation                         Vote FOR   Page 33  
+ 3   Ratification of the appointment of PricewaterhouseCoopers LLP as the Company's independent registered public accounting firm for 2019   Vote FOR   Page 77  
+[END TABLE]
+[BEGIN TABLE]
+ SHAREHOLDER PROPOSAL   ITEM   BOARD RECOMMENDATION   MORE INFORMATION  
+ 4   Increase shareholder rights to include action by written consent   Vote AGAINST   Page 81  
+ 5                         Cyber risk report                                          Vote AGAINST   Page 85  
+ 6                         Gender pay gap report                                          Vote AGAINST   Page 89  
+[END TABLE]
+[BEGIN TABLE]
+ MANAGEMENT PROPOSAL   ITEM   VOTE REQUIRED                   FOR APPROVAL   EFFECT OF ABSTENTIONS   EFFECT OF BROKER                   NON-VOTES  
+ 1   Election of the thirteen director nominees named in this Proxy Statement   Majority of votes cast   No effect   Not voted/No effect  
+ 2   Advisory approval of executive compensation   Majority of shares present and entitled to vote on the subject matter   Counted "against"   Not voted/No effect  
+[END TABLE]
+[BEGIN TABLE]
+ 96         Cigna 2019                      Notice of Annual Meeting of Shareholders and Proxy Statement        
+[END TABLE]
+[BEGIN TABLE]
+ ANNUAL MEETING INFORMATION         
+[END TABLE]
+[BEGIN TABLE]
+ MANAGEMENT PROPOSAL   ITEM   VOTE REQUIRED                   FOR APPROVAL   EFFECT OF ABSTENTIONS   EFFECT OF BROKER                   NON-VOTES  
+ 3   Ratification of the appointment of independent auditor   Majority of shares present and entitled to vote on the subject matter   Counted "against"   No broker non-votes; shares are voted by brokers in their discretion  
+[END TABLE]
+[BEGIN TABLE]
+ SHAREHOLDER PROPOSAL   ITEM   VOTE REQUIRED                   FOR APPROVAL   EFFECT OF ABSTENTIONS   EFFECT OF BROKER NON-VOTES  
+ 4   Increase shareholder rights to include action by written consent   Majority of shares present and entitled to vote on the subject matter   Counted "against"   Not voted/No effect  
+ 5   Cyber risk report   Majority of shares present and entitled to vote on the subject matter   Counted "against"   Not voted/No effect  
+ 6   Gender pay gap report   Majority of shares present and entitled to vote on the subject matter   Counted "against"   Not voted/No effect  
+[END TABLE]
+In person.           Attend the Annual Meeting, or send a personal representative with a valid legal proxy. Please note that         you cannot vote using the notice of internet availability of proxy materials. The notice identifies the items of business and describes how to vote, but you cannot vote by marking the notice and returning it. How do I vote         if my Cigna shares are held by a bank, broker or custodian (including a Fidelity brokerage account)? If your shares are         held by a bank, broker or other custodian (commonly referred to as shares held "in street name"), the holder of your shares will provide you with a copy of this Proxy Statement, a voting instruction form and directions on how to provide voting         instructions. These directions may allow you to vote over the internet or by telephone. Unless you provide voting instructions, your shares will not be voted on any matter except for the ratification of the appointment of our independent auditors         (Proposal 3). To ensure that your shares are counted in each of the other matters, we encourage you to provide instructions on how to vote your shares. If you hold shares         in street name and want to vote in person at the Annual Meeting, you will need to ask your bank, broker or custodian to provide you with a valid legal proxy. You will need to bring the proxy with you to the Annual Meeting in order to vote. Please         note that if you request a legal proxy from your bank, broker or custodian, any previously executed proxy will be revoked and your vote will not be counted unless you vote in person at the Annual Meeting or appoint another valid legal proxy to vote         on your behalf. 
+[BEGIN TABLE]
+     Cigna 2019 Notice of Annual Meeting of Shareholders and Proxy Statement         97  
+[END TABLE]
+[BEGIN TABLE]
+ ANNUAL MEETING INFORMATION         
+[END TABLE]
+[BEGIN TABLE]
+ 98         Cigna 2019                      Notice of Annual Meeting of Shareholders and Proxy Statement        
+[END TABLE]
+[BEGIN TABLE]
+ ANNUAL MEETING INFORMATION         
+[END TABLE]
+at least three         years to nominate and include in our proxy materials director nominees constituting up to 20% of the number of directors in office or two nominees, whichever is greater, provided the shareholder(s) and nominee(s) satisfy the requirements in our         By-Laws. If a shareholder or group of shareholders wishes to nominate one or more director candidates to be included in the Company's proxy statement for the 2020 annual meeting of shareholders pursuant to the proxy access provisions in Article II,         Section 13 of our By-Laws, we must receive proper written notice of any such nomination no earlier than October 17, 2019 and no later than the close of business on November 16, 2019, and the nomination must otherwise comply with our By-Laws. If,         however, the 2020 annual meeting is not within 30 days before or 60 days after the anniversary of this Annual Meeting, we must receive such notice no earlier than the close of business on the 120th day prior to such meeting and no later than the close of business on the later of the 90th day prior to such meeting and the 10th day following the public announcement of the meeting date.If you would         like to otherwise nominate a candidate for director at the 2020 annual meeting, the Corporate Secretary must receive your notice no earlier than the close of business on December 26, 2019 and no later than the close of business on January 25, 2020,         and it must satisfy the requirements set forth in Article II, Section 11 of Cigna's By-Laws. If, however, the 2020 annual meeting is not within 30 days before or 60 days after the anniversary of this Annual Meeting, we must receive such notice no         earlier than the close of business on the 120th day prior to such meeting and no later than the close of business on the later of the 90th day prior to such meeting and the 10th day following the public announcement of the meeting date.Correspondence         to the Corporate Secretary may be addressed to: Corporate Secretary, Cigna Corporation, Two Liberty Place, 7th Floor, 1601 Chestnut Street, Philadelphia, PA         19192-1550. How do I         obtain copies of Cigna's corporate governance and other company documents? The Guidelines,         committee charters and Cigna's Code of Ethics and the Director Code of Business Conduct and Ethics are posted at www.cigna.com/about-us/corporate-governance/. In addition, these documents are available in print to any shareholder who         submits a written request to the Corporate Secretary at the address listed above. The Company's         filings with the SEC, including its annual report on Form 10-K, are available through www.cigna.com/about-us/investors/. If you are a         shareholder and did not receive an individual copy of this year's Proxy Statement, annual report or notice of internet availability of proxy materials, we will send a copy to you if you address a written request to Shareholder Services, Cigna         Corporation, Two Liberty 
+[BEGIN TABLE]
+     Cigna 2019 Notice of Annual Meeting of Shareholders and Proxy Statement         99  
+[END TABLE]
+[BEGIN TABLE]
+ ANNUAL MEETING INFORMATION         
+[END TABLE]
+householding,         you may have been deemed to have consented to the process. Householding benefits both you and Cigna because it reduces the volume of duplicate information received at your household and helps Cigna reduce expenses and conserve natural resources. If you would         like to receive your own set of Cigna's proxy statement and annual report or your own notice of internet availability of proxy materials in the future, or if you share an address with another Cigna shareholder and together both of you would like to         receive only a single set of Cigna's proxy materials, please notify your broker or bank. If you are a record holder, please contact our transfer agent, Computershare, at P.O. Box 505000, Louisville, KY 40233-5000 or 1-800-952-9245. 
+[BEGIN TABLE]
+ 100         Cigna 2019                      Notice of Annual Meeting of Shareholders and Proxy Statement        
+[END TABLE]
+[BEGIN TABLE]
+ ANNEX A – NON – GAAP FINANCIAL INFORMATION             
+[END TABLE]
+[BEGIN TABLE]
+ CONSOLIDATED ADJUSTED INCOME FROM OPERATIONS RECONCILIATION                   (dollars in millions)  
+ Year Ended December 31,   2018  
+ Shareholders' net income   $   2,637      
+ After-tax adjustments to reconcile to adjusted income from operations:              
+ Adjustment for transitioning clients       (47)  
+ Net realized investment losses       104      
+ Amortization of other acquired intangible assets       177      
+ Special Items       686      
+ Adjusted income from operations   $   3,557      
+[END TABLE]
+[BEGIN TABLE]
+ CONSOLIDATED ADJUSTED INCOME FROM OPERATIONS PER SHARE RECONCILIATION  
+ Year Ended December 31,   2009   2018  
+ Shareholders' net income   $   4.69       $   10.54      
+ After-tax adjustments to reconcile to adjusted income from operations:                               
+ Results of guaranteed minimum income benefits       (0.76)       —      
+ Adjustment for transitioning clients       —           (0.19)  
+ Net realized investment losses       0.09           0.42      
+ Amortization of other acquired intangible assets       0.13           0.71      
+ Special Items       (0.08)       2.74      
+ Adjusted income from operations   $   4.07       $   14.22      
+[END TABLE]
+[BEGIN TABLE]
+ Annex A-1         Cigna                      2019 Notice of Annual Meeting of Shareholders and Proxy Statement        
+[END TABLE]
+[BEGIN TABLE]
+ ANNEX A – NON – GAAP FINANCIAL INFORMATION             
+[END TABLE]
+[BEGIN TABLE]
+ TOTAL REVENUES RECONCILIATION                   (dollars in millions)  
+ Year Ended December 31,   2018  
+ Total revenues   $   48,650      
+ Adjustment for transitioning clients       (459)  
+ Net realized investment losses from equity method investments       43      
+ Special Items       (123)  
+ Adjusted revenues   $   48,111      
+[END TABLE]
+[BEGIN TABLE]
+     Cigna 2019 Notice of Annual Meeting of Shareholders and Proxy Statement         Annex A-2  
+[END TABLE]
+[BEGIN TABLE]
+ ANNEX B – SURVEY DATA             
+[END TABLE]
+[BEGIN TABLE]
+ AFLAC Inc.   MetLife, Inc.  
+ Allianz Life Insurance Company   New York Life Insurance Company   
+ Anthem, Inc.   Northwestern Mutual Pacific Life  
+ Assurant, Inc.   Pacific Life Insurance Company  
+ AXA Group   Principal Financial Group, Inc.  
+ Brighthouse Financial, Inc.   Protective Life Corporation  
+ Chubb Limited   Prudential Financial, Inc.  
+ Genworth Financial, Inc.   Sun Life Financial, Inc.  
+ Great West Financial   The Allstate Corporation  
+ Humana Inc.   The Hartford Financial Services Group, Inc.  
+ Lincoln Financial Corporation   Transamerica Corp.  
+ Manulife Financial Corporation   UnitedHealth Group, Incorporated  
+ Marsh & McLennan Companies   Unum Group  
+ Massachusetts Mutual Life Insurance Company   Voya Financial  
+[END TABLE]
+[BEGIN TABLE]
+ Annex B-1         Cigna                      2019 Notice of Annual Meeting of Shareholders and Proxy Statement        
+[END TABLE]
+[BEGIN TABLE]
+ ANNEX C – 1 – 2018 GENERAL INDUSTRY PEER GROUP         
+[END TABLE]
+[BEGIN TABLE]
+ Abbott Laboratories   HCA Holdings, Inc.  
+ AbbVie Inc.   Humana Inc.  
+ Accenture plc   Kimberly-Clark Corporation  
+ Aetna Inc.   Medtronic, Inc.  
+ AFLAC Inc.   Merck & Co. Inc.  
+ American Express Company   MetLife, Inc.  
+ American International Group, Inc.   Progressive Corp.  
+ Amgen Inc.   Prudential Financial, Inc.  
+ Anthem, Inc.   Sprint Corporation  
+ Bristol-Myers Squibb Company   T-Mobile US, Inc.  
+ Capital One Financial Corporation   The Allstate Corporation  
+ Centene Corp.   The Bank of New York Mellon Corporation  
+ CenturyLink, Inc.   The Hartford Financial Services Group, Inc.  
+ Chubb Limited   The PNC Financial Services Group, Inc.  
+ Citigroup Inc.   The Travelers Companies, Inc.  
+ Colgate-Palmolive Co.   Thermo Fisher Scientific, Inc.  
+ Eli Lilly and Company   U.S. Bancorp  
+ Gilead Sciences Inc.      
+[END TABLE]
+[BEGIN TABLE]
+     Cigna 2019 Notice of Annual Meeting of Shareholders and Proxy Statement         Annex C-1-1  
+[END TABLE]
+[BEGIN TABLE]
+ ANNEX C – 2 – POST – MERGER GENERAL INDUSTRY PEER GROUP        
+[END TABLE]
+[BEGIN TABLE]
+ Abbott Laboratories   Oracle Corporation  
+ AbbVie Inc.   Pfizer Inc.  
+ AFLAC Inc.   Progressive Corp.  
+ American Airlines Group Inc.   Prudential Financial, Inc.  
+ American Express Company   Southwest Airlines Co.  
+ American International Group, Inc.   Sprint Corporation  
+ Amgen Inc.   Starbucks Corporation  
+ AT&T, Inc.   T-Mobile US, Inc.  
+ Bristol-Myers Squibb Company   The Allstate Corporation  
+ Chubb Limited   The Bank of New York Mellon Corporation  
+ Citigroup Inc.   The Proctor & Gamble Company  
+ Eli Lilly and Company   The Travelers Companies, Inc.  
+ Gilead Sciences Inc.   Thermo Fisher Scientific, Inc.  
+ HCA Healthcare, Inc.   U.S. Bancorp  
+ International Business Machines Corp.   United Continental Holdings, Inc.  
+ Merck & Co. Inc.   United Parcel Service, Inc.  
+ MetLife, Inc.   Verizon Communications Inc.  
+ NIKE, Inc.   Wells Fargo & Company  
+[END TABLE]
+[BEGIN TABLE]
+     Cigna 2019 Notice of Annual Meeting of Shareholders and Proxy Statement         Annex C-2-1  
+[END TABLE]
+[BEGIN TABLE]
+ In memoriam                                         James E. Rogers                                         1947 – 2018  
+ Jim Rogers, former Chairman, President and Chief Executive Officer of Duke Energy Corporation, served as a director of Cigna Corporation from 2007 until his passing in                  December 2018. Beyond his contributions to our Board, Jim was a champion for the good that companies can do to improve the world. His vision continues to inspire us at Cigna to put our resources to work for the greater societal good in all                  that we do.  
+ His collaborative spirit sparked his passion for clean, sustainable energy for everyone. In a similar way, Jim shared with us his leadership experience, deep understanding                  of commercial and consumer financial services, and keen insights on how to successfully navigate heavily regulated industries.  
+ During his tenure on the Cigna Board, Jim served on the Audit, Finance and People Resources Committees. Jim was a man of extraordinary character, a great leader, a valued                  board member and a trusted advisor.  
+[END TABLE]
+[BEGIN TABLE]
+     Your vote matters - here's how to vote!  
+     You may vote online or by phone instead of mailing this card.  
+       Votes submitted electronically must be received by 11:59 p.m., Eastern Time, on April 23, 2019.  
+       Online  
+       Go to www.envisionreports.com/ci or scan the QR code — login details are located in the shaded bar below.  
+      Phone Call toll free 1-800-652-VOTE (8683) within the USA, US territories and Canada 
+      Phone Call toll free 1-800-652-VOTE (8683) within the USA, US territories and Canada 
+ Using a black ink pen, mark your votes with an X as shown in this example.                     Please do not write outside the designated areas.       Save paper, time and money! Sign up for electronic delivery at www.envisionreports.com/ci  
+[END TABLE]
+[BEGIN TABLE]
+ Annual Meeting Proxy Card  
+[END TABLE]
+ IF VOTING BY MAIL, SIGN, DETACH AND RETURN THE BOTTOM PORTION IN THE ENCLOSED ENVELOPE.
+[BEGIN TABLE]
+ A   Proposals — The Board recommends a vote FOR each of the                    nominees named in Proposal 1, FOR Proposals 2 and 3, and AGAINST Proposals 4, 5 and 6.  
+[END TABLE]
+[BEGIN TABLE]
+ 1. Election of Directors:                            
+       For   Against   Abstain       For   Against   Abstain       For   Against   Abstain  
+   01 -   David M. Cordani   ☐   ☐   ☐   02 -   William J. DeLaney   ☐   ☐   ☐   03 -   Eric J. Foss   ☐   ☐   ☐  
+   04 -   Elder Granger, MD, MG, USA   ☐   ☐   ☐   05 -   Isaiah Harris, Jr.   ☐   ☐   ☐   06 -   Roman Martinez IV   ☐   ☐   ☐  
+   07 -   Kathleen M. Mazzarella   ☐   ☐   ☐   08 -   Mark B. McClellan, MD, PhD   ☐   ☐   ☐   09 -   John M. Partridge   ☐   ☐   ☐  
+   10 -   William L. Roper, MD, MPH   ☐   ☐   ☐   11 -   Eric C. Wiseman   ☐   ☐   ☐   12 -   Donna F. Zarcone   ☐   ☐   ☐  
+   13 -   William D. Zollars   ☐   ☐   ☐                                  
+[END TABLE]
+[BEGIN TABLE]
+   For   Against   Abstain         For   Against   Abstain  
+ 2. Advisory approval of Cigna's      executive compensation.   ☐   ☐   ☐     3.   Ratification of appointment of PricewaterhouseCoopers LLP as Cigna's independent registered public accounting firm for 2019.   ☐   ☐   ☐  
+ 4. Shareholder proposal - Increase shareholder rights to include action by written consent.   ☐   ☐   ☐     5.   Shareholder proposal - Cyber risk report   ☐   ☐   ☐  
+ 6. Shareholder proposal - Gender pay gap report   ☐   ☐   ☐       Note: Such other business as may properly come before the meeting or any postponements or adjournments thereof.  
+[END TABLE]
+Your vote is important. Please validate your vote by signing your proxy card on the reverse side.
+030B6E
+Admission Ticket
+Cigna Corporation 2019 Annual Meeting of Shareholders
+Wednesday, April 24, 2019
+8:00 a.m.
+Windsor Marriott Hotel, Ballroom IV
+28 Day Hill Road
+Windsor, Connecticut 06095
+Please bring a valid government issued photo ID to be admitted to the meeting. In addition, if you own shares in street name, bring your         most recent brokerage statement or a letter from your broker or other nominee with you to the meeting so that we can verify your ownership of common stock.
+Please note: no cameras, recording equipment, electronic devices, large bags, briefcases, signs or packages will be permitted. Mobile         phones will be permitted in the meeting venue but may not be used for any purpose at any time while in the meeting venue. Violation of this rule can result in removal from the meeting venue. Please note that due to security reasons, all bags may be         subject to search. Cigna will be unable to admit anyone who does not comply with these security procedures. No one will be admitted to the Cigna annual meeting once the meeting has commenced.
+[BEGIN TABLE]
+Small steps make an impact. 
+Help the environment by consenting to receive electronic delivery, sign up at www.envisionreports.com/ci
+ Small steps make an impact. 
+                    Help the environment by consenting to receive electronic delivery, sign up at www.envisionreports.com/ci  
+[END TABLE]
+Small steps make an impact.                    
+Help the environment by consenting to receive electronic delivery, sign up at www.envisionreports.com/ci
+IF VOTING BY MAIL, SIGN, DETACH AND RETURN THE BOTTOM PORTION IN THE ENCLOSED ENVELOPE.
+[BEGIN TABLE]
+ Proxy/Voting Instruction Card  
+[END TABLE]
+Cigna Corporation
+Annual Meeting of ShareholdersApril 24, 2019, 8:00 a.m.
+This proxy/voting instruction card is solicited by the Board of Directors
+The undersigned hereby constitutes and appoints Julia Brncic and Marguerite C. Geiger, or either of them, as proxies with full power of           substitution. Each of them is hereby authorized to represent the undersigned and vote all shares of the Corporation held of record by the undersigned on February 25, 2019 at the Annual Meeting of Shareholders, to be held at the Windsor Marriott           Hotel, Ballroom IV, 28 Day Hill Road, Windsor, Connecticut 06095, on Wednesday, April 24, 2019 at 8:00 a.m., or at any postponements or adjournments thereof, on all matters set forth on the reverse side and in the discretion of the proxies upon           such other matters as may properly come before the Annual Meeting.
+If the undersigned has voting rights with respect to shares of the Corporation's common stock under the Cigna 401(k) Plan, the undersigned           hereby directs the trustee of the Cigna 401(k) Plan to vote shares equal to the number of shares allocated to the undersigned's accounts under the plan in accordance with the instructions given herein. If the trustee does not receive instructions           by 11:59 p.m. Eastern time on Thursday, April 18, 2019, the trustee will vote such shares in the manner instructed by the Corporation's Retirement Plan Committee.
+You are encouraged to specify your choices by marking the appropriate selections (either on this card or electronically), but you need not           specify any choices if you wish to vote in accordance with the Board of Directors' recommendations, so long as you submit your proxy. If you use this card to vote, you must sign it on the reverse side for your vote to be counted.
+THE BOARD OF DIRECTORS RECOMMENDS THAT YOU VOTE "FOR" EACH OF THE NOMINEES NAMED IN PROPOSAL 1, "FOR" PROPOSALS 2 AND 3, AND "AGAINST" PROPOSALS 4, 5 AND 6.
+[BEGIN TABLE]
+B  Authorized Signatures — This section must be completed for your vote to be counted. Please date and sign below.  
+[END TABLE]
+The shares represented by this proxy will be voted as directed by the undersigned.  Where no         direction is given when a duly executed proxy is returned, such shares will be voted "For" each of the nominees named in Proposal 1, "For" Proposals 2 and 3, and "Against" Proposals 4, 5 and 6; and will grant authority to the proxy holder to vote         upon such other business as may properly come before the meeting or any postponements or adjournments thereof.
+THE UNDERSIGNED HEREBY ACKNOWLEDGES RECEIPT OF THE NOTICE OF ANNUAL MEETING, PROXY STATEMENT AND ANNUAL REPORT OF CIGNA         CORPORATION.
+Please sign exactly as name(s) appears hereon. Joint owners should each sign. When signing as attorney, executor,         administrator, corporate officer, trustee, guardian, or custodian, please give full title.
+[BEGIN TABLE]
+C     Non-Voting Items        
+  Change of Address — Please print new address below.     Comments — Please print your comments below.    Meeting Attendance Mark box to the right if you plan to attend the  Annual Meeting.  
+  Change of Address — Please print new address below.     Comments — Please print your comments below.    Meeting Attendance Mark box to the right if you plan to attend the  Annual Meeting.  

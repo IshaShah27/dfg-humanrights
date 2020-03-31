@@ -1,0 +1,313 @@
+
+[BEGIN TABLE]
+ Filed by the Registrant   ☒  
+ Filed by a Party other than the Registrant    o  
+[END TABLE]
+[BEGIN TABLE]
+  o   Preliminary Proxy Statement o   Confidential, for Use of the Commission Only (as permitted by Rule 14a-6(e)(2))  
+ ☒   Definitive Proxy Statement o   Definitive Additional Materials o   Soliciting Material Pursuant to § 240.14a-12  
+[END TABLE]
+[BEGIN TABLE]
+ ☒   No fee required.  
+  o   Fee computed on table below per Exchange Act Rules 14a-6(i)(1) and 0-11.  
+     1.   Title of each class of securities to which transaction applies:  
+     2.   Aggregate number of securities to which transaction applies:  
+     3.   Per unit price or other underlying value of transaction computed pursuant to Exchange Act Rule 0-11 (Set forth the amount on which the filing fee is calculated and state how it was determined):  
+     4.   Proposed maximum aggregate value of transaction:  
+     5.   Total fee paid:  
+  o   Fee paid previously with preliminary materials.  
+  o   Check box if any part of the fee is offset as provided by Exchange Act Rule 0-11(a)(2) and identify the filing for which the offsetting fee was paid previously. Identify the previous filing by registration statement number, or the Form or Schedule and the date of its filing.  
+     1.   Amount Previously Paid:  
+     2.   Form, Schedule or Registration Statement No.:  
+     3.   Filing Party:  
+     4.   Date Filed:  
+[END TABLE]
+[BEGIN TABLE]
+QUESTIONS AND ANSWERS ABOUT PROXY MATERIALS AND VOTING   2   
+CORPORATE GOVERNANCE AT NUTANIX   7   
+Board of Directors and Its Committees   7   
+Nominations Process and Director Qualifications   11   
+Proposal No. 1 Election of Directors   12   
+Director Compensation   15   
+Certain Relationships and Related Party Transactions   17   
+AUDIT COMMITTEE MATTERS   18   
+Proposal No. 2 Ratification of Independent Registered Public Accounting Firm   18   
+Report of the Audit Committee   20   
+OUR EXECUTIVE OFFICERS   21   
+EXECUTIVE COMPENSATION   22   
+Proposal No. 3 Advisory Vote on the Compensation of Our Named Executive Officers   22   
+Proposal No. 4 Advisory Vote on the Frequency of Advisory Votes on the Compensation of Our Named Executive Officers   23   
+Compensation Discussion and Analysis   24   
+Report of the Compensation Committee   39   
+Executive Compensation Tables   40   
+Employment Arrangements   43   
+Equity Compensation Plan Information   47   
+STOCK OWNERSHIP INFORMATION   48   
+Security Ownership of Certain Beneficial Owners and Management Executive Officers   48   
+Section 16(a) Beneficial Ownership Reporting Compliance   50   
+OTHER MATTERS   50   
+[END TABLE]
+i     6
+[BEGIN TABLE]
+ Name   Age   Position/Office  Held With  Nutanix   Audit  Committee   Compensation  Committee   Nominating and  Corporate  Governance  Committee   Independent   Tenure  
+ Class II directors for election at this annual meeting of stockholders  
+ Craig Conway   64   Director           Member   ✔   1 year  
+ Michael P. Scarpelli   51   Director   Chair           ✔   5 years  
+ Class III directors whose terms expire at the annual meeting of stockholders after the end of fiscal 2019  
+ John McAdam   67   Director       Member       ✔   3 years  
+ Ravi Mhatre   51   Lead  Independent  Director       Member   Chair   ✔   8 years  
+ Dheeraj Pandey   43   CEO and  Chairman                   9 years  
+ Class I directors whose terms expire at the annual meeting of stockholders after the end of fiscal 2020  
+ Susan L. Bostrom   58   Director       Member       ✔   1 year  
+ Steven J. Gomo   66   Director   Member       Member   ✔   3 years  
+ Jeffrey T. Parks   37   Director   Member   Chair       ✔   5 years  
+[END TABLE]
+      13
+[BEGIN TABLE]
+ Our board of directors recommends a vote FOR each Class II director nominee above.  
+[END TABLE]
+[BEGIN TABLE]
+Name Fees  Earned  or Paid  in Cash  ($) Stock  Awards(1)  ($) Option  Awards  ($) Non-Equity  Incentive Plan  Compensation  ($) Change in  Pension Value  and  Nonqualified  Deferred  Compensation  Earnings  ($) All Other  Compensation  ($) Total  ($) 
+Susan L. Bostrom(2)   —     777,218     —     —     —     —     777,218   
+Craig Conway(3)   —     777,218     —     —     —     —     777,218   
+Steven J. Gomo   —     293,145     —     —     —     —     293,145   
+John McAdam   —     285,027     —     —     —     —     285,027   
+Ravi Mhatre   —     295,888     —     —     —     —     295,888   
+Jeffrey T. Parks   —     304,006     —     —     —     —     304,006   
+Michael P. Scarpelli   —     298,594     —     —     —     —     298,594   
+[END TABLE]
+[BEGIN TABLE]
+Name # of Outstanding  Options  (in shares) # of Outstanding  RSUs  (in shares) 
+Susan L. Bostrom   —     25,511   
+Craig Conway   —     25,511   
+Steven J. Gomo   —     29,266   
+John McAdam   —     34,357   
+Ravi Mhatre   —     8,091   
+Jeffrey T. Parks   —     8,313   
+Michael P. Scarpelli   75,000     8,165   
+[END TABLE]
+[BEGIN TABLE]
+ Board Member   $330,000  
+ Lead Independent Director   $20,000  
+[END TABLE]
+[BEGIN TABLE]
+Committee Awards Chair Member 
+Audit $ 25,000   $ 12,500   
+Compensation $ 20,000   $ 10,000   
+Nominating and Corporate Governance $ 10,000   $ 5,000   
+[END TABLE]
+ 17
+[BEGIN TABLE]
+  Fiscal Year Ended July 31, 
+  2017 2018 
+Audit fees(1) $ 2,229,900   $ 3,597,500   
+Audit-related fees(2)   365,600     195,000   
+Tax fees(3)   411,135     703,234   
+Total fees $ 3,006,635   $ 4,495,734   
+[END TABLE]
+[BEGIN TABLE]
+ Our board of directors recommends a vote FOR the ratification of Deloitte & Touche LLP as  our independent registered public accounting firm for the fiscal year ending July 31, 2019.  
+[END TABLE]
+ 20
+[BEGIN TABLE]
+ Name   Age   Position/Office Held With Nutanix  
+ Dheeraj Pandey   43   Chief Executive Officer and Chairman  
+ Duston M. Williams   60   Chief Financial Officer  
+ Louis J. Attanasio   59   Chief Revenue Officer  
+ Sunil Potti   47   Chief Product and Development Officer  
+ David Sangster   54   Executive Vice President, Engineering & Operations  
+ Tyler Wall   52   Chief Legal Officer  
+[END TABLE]
+[BEGIN TABLE]
+ Our board of directors recommends a vote FOR the approval, on a non-binding advisory basis,  of the compensation of our Named Executive Officers, as disclosed in this proxy statement.  
+[END TABLE]
+[BEGIN TABLE]
+ Our board of directors recommends a vote to hold future stockholder advisory votes  on the compensation of our Named Executive Officers every "ONE YEAR"  
+[END TABLE]
+   26
+[BEGIN TABLE]
+ What We Do   What We Don't Do  
+ * Performance-based cash and equity incentives     * 100% independent compensation committee     * Independent compensation consultant engaged by    the compensation committee     * Annual executive compensation review of    compensation strategy and risks     * Equity-based executive and director compensation    to align with the interests of our stockholders     * Multi-year vesting requirements for performance-    based RSU, or PRSU, and RSU awards granted to    our executive officers     * Our executives participate in broad-based     company health and welfare benefits programs     alongside all other full-time salaried employees     * Our directors are compensated 100% with equity     to align our directors with the long-term interests     of our stockholders     * Director stock ownership guidelines       * No retirement or pension-type plans other than the    standard 401(k) offered to all employees     * No perquisites and other personal benefits, other    than standard benefits typically received by other    employees     * No tax gross-ups for change of control payments    and benefits     * No short sales, hedging, or pledging of stock    ownership positions and transactions involving    derivatives of our common stock     * No strict benchmarking of compensation to a    specific percentile of our peer group  
+[END TABLE]
+[BEGIN TABLE]
+ Arista Networks   Box   Cornerstone OnDemand  
+ F5 Networks   FireEye   Fortinet j2 Global   Palo Alto Networks   Proofpoint  
+ Pure Storage   Splunk   Tableau Software  
+ Twilio   Ultimate Software Group      
+[END TABLE]
+[BEGIN TABLE]
+ Arista Networks   F5 Networks   Fortinet   Guidewire Software  
+ New Relic   Okta   Palo Alto Networks   Pivotal Software  
+ Proofpoint   Pure Storage   Red Hat   ServiceNow  
+ Shopify   Splunk   Tableau Software   Twilio  
+ Veeva Systems   VMware   Workday      
+[END TABLE]
+ 31
+[BEGIN TABLE]
+ Name Executive Officer   Base Salary   Percentage Increase from  Fiscal 2017 Base Salary  
+ Dheeraj Pandey   $400,000   60%  
+ Duston Williams   $400,000   60%  
+ Louis J. Attanasio(1)   $775,000   0%  
+ Sunil Potti   $365,000   46%  
+ Tyler Wall(2)   $350,000   0%  
+[END TABLE]
+[BEGIN TABLE]
+ Name Executive Officer   Annual Bonus Target   Annual Bonus Target as a% of Base Salary   Change from Fiscal 2017 Bonus Target(1)  
+ Dheeraj Pandey   $400,000   100%   60%  
+ Duston Williams   $260,000   65%   73%  
+ Louis J. Attanasio(2)   —   —   —  
+ Sunil Potti   $235,000   64%   57%  
+ Tyler Wall(3)   $150,000   43%   (3)  
+[END TABLE]
+[BEGIN TABLE]
+ Performance Metric   Weighting   Plan Targets   Payout%  
+ Imputed Software Value  on Bookings   50%   Less than 87% of Target   0%  
+ Between 87% and 100% of Target   Between 0% and 100%  
+ 100% of Target   100%  
+ Between 100% and 107% of Target   Between 100 and 200%  
+ 107% or more of Target   200%  
+ Bookings from Global  2000 Customers   25%   Less than 26% of Total Bookings   0%  
+ Between 26% and 30% of Total  Bookings   Between 0% and 100%  
+ 30% of Total Bookings   100%  
+ Between 30% and 32% of Total  Bookings   Between 100% and 200%  
+ 32% or more of Total Bookings   200%  
+ New Customer Adds   25%   Less than 90% of Target   0%  
+ Between 90% and 100% of Target   Between 0% and 100%  
+ 100% of Target   100%  
+ Between 100% and 110% of Target   Between 100% and 200%  
+ 110% or more of Target   200%  
+[END TABLE]
+[BEGIN TABLE]
+ Performance Metric   Achievement of Plan Target   Payout%   Weighting   Weighted Total  
+ Imputed Software Value  on Bookings   101.1%   110.7%   50%   55.4%  
+ Bookings from Global  2000 Customers   106.9%   193.3%   25%   48.3%  
+ New Customer Adds   92.5%   24.5%   25%   6.1%  
+             Total   109.8%  
+[END TABLE]
+[BEGIN TABLE]
+ Name Executive Officer   Annual Bonus Target   Payout Amount for Fiscal 2018  
+ Dheeraj Pandey   $400,000   $439,225  
+ Duston Williams   $260,000   $285,496  
+ Louis J. Attanasio(1)   —   —  
+ Sunil Potti   $235,000   $258,044  
+ Tyler Wall(2)   $150,000   $111,895  
+[END TABLE]
+[BEGIN TABLE]
+ Period   Payout  Target   Quota Target Tiers   Commission  Payout% for Each Tier   Payouts at Each  Commission Tier   Total Payout  
+ First Half of Fiscal 2018   $191,597(1)   Tier 1: Up to 100% of quota   0.0511%   $191,597   $245,987(2)  
+ Tier 2: Over 100% up to  102% of quota   0.1022%   $7,664  
+ Tier 3: Above 102% of quota   0.1533%   $46,725  
+ Second Half of Fiscal 2018   $387,500   Tier 1: Up to 100% of quota   0.0625%   $387,500   $405,975(3)  
+ Tier 2: Over 100% up to  102% of quota   0.1251%   $15,500  
+ Tier 3: Above 102% of quota   0.1876%   $2,975  
+[END TABLE]
+[BEGIN TABLE]
+Name Executive Officer Number of  RSUs(1) Grant Date Fair  Value of RSUs(2) Number of  PRSUs Grant Date Fair  Value of PRSUs(3) 
+Dheeraj Pandey   200,000   $ 6,942,000     100,000(4)  $ 3,471,000   
+Duston Williams   120,000   $ 4,165,200     —     —   
+Louis J. Attanasio(5)   1,200,000   $ 41,556,000     —     —   
+Sunil Potti   100,000   $ 3,471,000     —     —   
+Tyler Wall(6)   300,000   $ 10,389,000     —     —   
+[END TABLE]
+   39
+[BEGIN TABLE]
+Name and Principal Position Fiscal  Year Salary  ($) Option  Awards(1)  ($) Stock  Awards(2)  ($) Non-Equity  Incentive Plan  Compensation(3)  ($) Total  ($) 
+Dheeraj Pandey  Chief Executive Officer and Chairman(4)   2018     350,000     —     10,413,000 (5)    439,225     11,202,225   
+  2017     250,000     6,350,000 (6)    —     80,700 (7)    6,680,700   
+  2016     250,000     —     —     198,258 (8)    448,258   
+Duston M. Williams  Chief Financial Officer   2018     350,000     —     4,165,200     285,496     4,800,696   
+  2017     250,000     —     3,660,000     80,700     3,990,700   
+  2016     250,000     —     —     198,259     448,259   
+Louis J. Attanasio  Chief Revenue Officer(9)   2018     578,314     —     41,556,000     651,901     42,786,215   
+  2017     —     —     —     —     —   
+  2016     —     —     —     —     —   
+Sunil Potti  Chief Product & Development Officer   2018     326,667     —     3,471,000     258,044     4,055,711   
+  2017     250,000     —     —     80,700     330,700   
+  2016     250,000     —     3,482,500     198,258     3,930,758   
+Tyler Wall  Chief Legal Officer(10)   2018     238,636     —     10,389,000     111,895     10,739,531   
+  2017     —     —     —     —     —   
+  2016     —     —     —     —     —   
+[END TABLE]
+[BEGIN TABLE]
+      Estimated Future Payouts Under  Equity Incentive Plan Awards All Other  Stock  Awards:  Number of  Shares of  Stock or  Units(1)  (#) All Other  Option  Awards:  Number of  Securities  Underlying  Options  (#) Exercise  or Base  Price of  Option  Awards  ($/sh) Grant Date Fair  Value of Stock  and Option  Awards(2)  ($) 
+Named  Executive  Officer Grant  Date Approval  Date Threshold Target Maximum 
+Dheeraj  Pandey   12/12/2017     12/12/2017     —     100,000 (3)    100,000 (3)                      3,471,000   
+  12/12/2017     12/12/2017                       200,000 (4)                6,942,000   
+Duston M.  Williams   12/12/2017     12/12/2017                       120,000 (5)                4,165,200   
+Louis J.  Attanasio   11/28/2017     11/28/2017                       1,000,000 (6)                34,630,000   
+  11/28/2017     11/28/2017                       200,000 (7)                6,926,000   
+Sunil Potti   12/12/2017     12/12/2017                       100,000 (8)                3,471,000   
+Tyler Wall   11/28/2017     11/28/2017                       300,000 (9)                10,389,000   
+[END TABLE]
+[BEGIN TABLE]
+    Option Awards Stock Awards 
+Named Executive Officer Grant Date Number of  Securities  Underlying  Unexercised  Options  Exercisable  (#) Number of  Securities  Underlying  Unexercised  Options  Unexercisable  (#) Option  Exercise  Price  ($) Option  Expiration  Date Number of  Shares or  Units of  Stock That  Have Not  Vested  (#) Market  Value of  Shares or  Units of  Stock That  Have Not  Vested(1)  ($) Equity  Incentive  Plan  Awards:  Number of  Unearned  Shares,  Units or  Other  Rights  That Have  Not Yet  Vested  (#) Equity  Incentive  Plan  Awards:  Market or  Payout  Value of  Unearned  Shares,  Units or  Other  Rights That  Have Not  Vested(1)  ($) 
+Dheeraj Pandey   3/28/2012     886,000 (2)    —   $ 0.49     3/27/2022                           
+  6/3/2012     705,000 (2)    —   $ 0.49     06/12/2022                           
+  9/16/2016     500,000 (3)    —   $ 12.00     09/15/2026                           
+  9/16/2016     —     500,000 (4)  $ 12.00     09/15/2026                           
+  12/12/2017                                         100,000 (4)    4,889,000   
+  12/12/2017                             175,000 (5)    8,555,750               
+Duston M. Williams   6/19/2014     450,000 (2)    —   $ 3.20     06/18/2024                           
+  6/19/2014     205,000 (2)    —   $ 3.20     06/18/2024                           
+  9/16/2016                             250,000 (6)    12,222,500               
+  12/12/2017                             105,000 (7)    5,133,450               
+Louis J. Attanasio   11/28/2017                             1,000,000 (8)    48,890,000               
+  11/28/2017                             200,000 (9)    9,778,000               
+Sunil Potti   1/26/2015                             87,500 (10)    4,277,875               
+  1/26/2015                             32,143 (11)    1,571,421               
+  1/26/2015                             40,625 (12)    1,986,156               
+  12/12/2017                             87,500 (13)    4,277,875               
+  4/27/2016                                         250,000 (4)    12,222,500   
+Tyler Wall   11/28/2017                             300,000 (14)     14,667,000               
+[END TABLE]
+[BEGIN TABLE]
+  Option Awards Stock Awards 
+Named Executive Officer Number of Shares  Acquired on  Exercise  (#) Value Realized on  Exercise(1)  ($) Number of Shares  Acquired on  Vesting  (#) Value Realized on  Vesting(2)  ($) 
+Dheeraj Pandey   —     —     25,000     1,453,750   
+Duston M. Williams   600,000     24,926,208     65,000     3,779,750   
+Louis J. Attanasio   —     —     —     —   
+Sunil Potti   —     —     211,161     9,365,279   
+Tyler Wall   —     —     —     —   
+[END TABLE]
+   46
+[BEGIN TABLE]
+  Upon Termination without Cause or Resignation for Good Reason During Change of Control Period 
+Named Executive Officer Salary  Severance(1) Bonus  Severance(2) Value of  Accelerated  Vesting(3) Continuation  of Medical  Benefits(4) Total 
+Dheeraj Pandey $ 400,000   $ 400,000   $ 18,546,816   $ 25,521   $ 19,372,337   
+Duston M. Williams $ 300,000   $ 195,000   $ 17,355,950   $ 19,140   $ 17,870,090   
+Louis J. Attanasio $ 581,250   $ 581,250   $ 58,668,000   $ 14,724   $ 59,845,224   
+Sunil Potti $ 273,750   $ 176,250   $ 12,113,378   $ 19,140   $ 12,582,518   
+Tyler Wall $ 262,500   $ 112,500   $ 14,667,000   $ 19,140   $ 15,061,140   
+[END TABLE]
+[BEGIN TABLE]
+Plan Category (a) Number of  Securities to be Issued  Upon Exercise of  Outstanding Options,  Warrants and Rights(1) (b) Weighted  Average Exercise Price  of Outstanding  Options, Warrants and  Rights(2) (c) Number of  Securities Remaining  Available for Future  Issuance Under Equity  Compensation Plans  (Excluding Securities  Reflected in Column (a))(3) 
+Equity plans approved by stockholders   34,964,233   $ 5.12     12,851,522   
+Equity plans not approved by stockholders   —     —     —   
+[END TABLE]
+[BEGIN TABLE]
+  Shares Beneficially Owned% of Total Voting Power(1) 
+  Class A Class B 
+Name of Beneficial Owner Shares% Shares% 
+5% Stockholders:                                
+Entities affiliated with Lightspeed Venture Partners(2)   190,363     *     11,441,783     30.3     22.1   
+Entities affiliated with Khosla Ventures(3)   326,698     *     9,274,060     24.6     18.0   
+Entities affiliated with Fidelity(4)   13,813,096     9.8     7,464,637     19.8     17.1   
+Ajeet Singh(5)   —     —     4,019,801     10.7     7.8   
+Entities affiliated with the Vanguard Group(6)   7,510,279     5.3     —     —     1.4   
+Named Executive Officers and  Directors:                               
+Dheeraj Pandey(7)   233,308     *     11,837,592     31.4     22.9   
+Duston M. Williams(8)   173,842     *     655,000     1.7     1.3   
+Louis J. Attanasio(9)   250,000     *     —     —     *   
+Sunil Potti(10)   179,051     *     —     —     *   
+Tyler Wall(11)   75,335     *     —     —     *   
+Susan L. Bostrom(12)   13,551     *     —     —     *   
+Craig Conway(13)   13,551     *     —     —     *   
+Steven J. Gomo(14)   77,079     *     —     —     *   
+Ravi Mhatre(15)   802,366     *     11,441,783     30.3     22.2   
+John McAdam(16)   61,856     *     —     —     *   
+Jeffrey T. Parks(17)   52,017     *     —     —     *   
+Michael P. Scarpelli(18)   8,165     *     75,000     *     *   
+All directors and executive officers as a group (13 persons)(19)   1,978,246     1.4     24,056,876     63.8%   46.8% 
+[END TABLE]
+ 

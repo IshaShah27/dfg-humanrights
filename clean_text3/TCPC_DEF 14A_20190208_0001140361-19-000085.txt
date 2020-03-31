@@ -1,0 +1,169 @@
+
+[BEGIN TABLE]
+ BLACKROCK TCP CAPITAL CORP.  
+ (Name of Registrant as Specified In Its Charter)  
+ (Name of Person(s) Filing Proxy Statement, if Other than the Registrant)  
+[END TABLE]
+[BEGIN TABLE]
+ Payment of Filing Fee (Check the appropriate box):  
+ ☒   No fee required.  
+  o   Fee computed on table below per Exchange Act Rules 14a-6(i)(4) and 0-11.  
+     (1)   Title of each class of securities to which transaction applies:  
+     (2)   Aggregate number of securities to which transaction applies:  
+     (3)   Per unit price or other underlying value of transaction computed pursuant to Exchange Act Rule 0-11 (set forth the amount on which the filing fee is calculated and state how it was determined):  
+     (4)   Proposed maximum aggregate value of transaction:  
+     (5)   Total fee paid:  
+  o   Fee paid previously with preliminary materials.  
+  o   Check box if any part of the fee is offset as provided by Exchange Act Rule 0-11(a)(2) and identify the filing for which the offsetting fee was paid previously. Identify the previous filing by registration statement number, or the Form or Schedule and the date of its filing.  
+     (1)   Amount Previously Paid:  
+     (2)   Form, Schedule or Registration Statement No.:  
+     (3)   Filing Party:  
+     (4)   Date Filed:  
+[END TABLE]
+[BEGIN TABLE]
+     Sincerely yours,  
+     Howard M. Levkowitz Chair of the Board of Directors and Chief Executive Officer of the Company  
+[END TABLE]
+[BEGIN TABLE]
+     By Order of the Board of Directors of the Company,  
+     Howard M. Levkowitz Chair of the Board of Directors and Chief Executive Officer of the Company  
+[END TABLE]
+[BEGIN TABLE]
+  Page 
+SECURITY OWNERSHIP OF CERTAIN BENEFICIAL OWNERS AND MANAGEMENT   4   
+PROPOSAL I   6   
+PROPOSAL II   18   
+OTHER BUSINESS   26   
+STOCKHOLDER NOMINATIONS AND PROPOSALS FOR THE 2019 ANNUAL MEETING   26   
+SHAREHOLDER COMMUNICATIONS   26   
+ANNUAL REPORT   27   
+PRIVACY PRINCIPLES OF THE COMPANY   27   
+HOUSEHOLDING OF PROXY MATERIALS   27   
+[END TABLE]
+i 3
+[BEGIN TABLE]
+Title of Class Name and Address of Beneficial Owner Amount and  Nature of  Beneficial  Ownership Percent of  Class 
+5% or more holders                    
+Common Stock Steelhead Partners, LLC(1)  333 108th Avenue NE, Suite 2010  Bellevue, WA 98004   3,308,420     5.33% 
+Common Stock Wells Fargo & Company(2)  420 Montgomery Street  San Francisco, California 94163   3,048,760     5.19% 
+Interested Directors                
+Common Stock Howard M. Levkowitz(3)   165,941       * 
+Common Stock Rajneesh Vig   39,750       * 
+Independent Directors                
+Common Stock Kathleen A. Corbet   9,000       * 
+Common Stock Eric J. Draut   51,532       * 
+Common Stock M. Freddie Reiss   25,000       * 
+Common Stock Peter E. Schwab   8,500       * 
+Common Stock Karyn L. Williams   725       * 
+Common Stock Brian F. Wruble   30,000       * 
+Executive Officers                
+Common Stock Paul L. Davis   13,000       * 
+Common Stock Elizabeth Greenwood   1,000       * 
+[END TABLE]
+[BEGIN TABLE]
+Name of Director Dollar Range of  Equity Securities in the Company(1)(2) 
+Interested Directors        
+Howard M. Levkowitz Over $100,000 
+Rajneesh Vig Over $100,000 
+Independent Directors    
+Kathleen A. Corbet Over $100,000 
+Eric J. Draut(2) Over $100,000 
+M. Freddie Reiss(2) Over $100,000 
+Peter E. Schwab(2) Over $100,000 
+Karyn L. Williams $10,001-$50,000 
+Brian F. Wruble(2) Over $100,000 
+[END TABLE]
+[BEGIN TABLE]
+Selected Consolidated  Financial Statement Data  (Unaudited)   Pro Forma Amounts  as of September 30, 2018  Assuming that the Company had incurred  the maximum amount of borrowings that could be incurred  by the Company 
+(dollar amounts in thousands) Actual Amounts  As of  September 30, 2018(1) Under the Current 200%  Minimum Asset Coverage  Ratio(2) Under a 150% Minimum  Asset Coverage Ratio(3) 
+Total Assets $ 1,685,209   $ 1,864,517   $ 2,717,530   
+Total Debt Outstanding $ 764,349   $ 943,657   $ 1,796,670   
+Net Assets $ 853,014   $ 853,014   $ 853,014   
+Asset Coverage Ratio(4)   226%   200%   150% 
+Leverage   0.79x     1.00x     2.00x   
+[END TABLE]
+[BEGIN TABLE]
+  Assumed Return on Portfolio (net of expenses) 
+  -10% -5% 0% 5% 10% 
+Corresponding return to stockholder, based on actual borrowings as of September 30, 2018(1)   (22.1)%   (13.0)%   (3.8)%   5.3%   14.5% 
+Corresponding return to stockholder, pro forma assuming the Company incurred the maximum amount of borrowings under the current 200% minimum asset coverage ratio(2)   (25.1)%   (14.9)%   (4.7)%   5.5%   15.7% 
+Corresponding return to stockholder, pro forma assuming the Company incurred the maximum amount of borrowings under a 150% minimum asset coverage ratio(3)   (39.4)%   (24.2)%   (9.0)%   6.2%   21.4% 
+[END TABLE]
+[BEGIN TABLE]
+    Pro Forma annualized expenses  assuming that the Company had  incurred the maximum amount of  borrowings that could be incurred  by the Company Pro Forma annualized  expenses assuming that:  (i) the Company had  incurred the maximum  amount of borrowings  that could be incurred  by the Company and  (ii) Proposal II is approved 
+Estimated annual expenses (as a  percentage of net assets attributable to  common stock)(1): Annualized expenses  based on actual  expenses for the nine  months ended  September 30, 2018(2) Under the  current 200%  minimum asset  coverage ratio(3) Under a 150%  minimum asset  coverage ratio(4) Under a 150%  minimum asset  coverage ratio(4) 
+Base Management Fees   2.76%(5)   3.05%(5)   4.51%(5)   4.02%(6) 
+Incentive Compensation Payable Under the Investment Management Agreement   2.61%(7)   2.90%(7)   3.87%(7)   3.39%(8) 
+Interest Payments on Borrowed Funds(9)   4.22%   5.10%   9.27%   9.27% 
+Other Expenses(10)   1.02%   1.02%   1.67%   1.67% 
+Total Annual Expenses   10.61%   12.07%   19.32%   18.35% 
+[END TABLE]
+ 10
+[BEGIN TABLE]
+  1 year 3 years 5 years 10 years 
+Based on the Actual Borrowings as of September 30, 2018 $ 79   $ 229   $ 371   $ 690   
+Pro Forma Assuming Maximum Borrowings Permitted Based on the Existing 200% Minimum Asset Coverage Ratio $ 90   $ 258   $ 413   $ 747   
+Pro Forma Assuming Maximum Borrowings Permitted Based on a 150% Minimum Asset Coverage Ratio $ 146   $ 395   $ 594   $ 937   
+Pro Forma Assuming Maximum Borrowings Permitted Based on a 150% Minimum Asset Coverage Ratio and Proposal II is approved $ 142   $ 385   $ 583   $ 927   
+[END TABLE]
+[BEGIN TABLE]
+Annual Investment Advisory Fees Existing  Agreement Amended  Agreement Difference 
+Base Management Fee assuming 200% asset coverage $ 25,753,720   $ 25,753,720     0% 
+Base Management Fee assuming 150% asset coverage $ 38,630,580   $ 34,338,294     (11.1)% 
+[END TABLE]
+[BEGIN TABLE]
+Annual Investment Advisory Fees Existing  Agreement Amended  Agreement Difference 
+Incentive Compensation(1) $ 22,680,323   $ 19,845,283     (12.5)% 
+Base Management Fees $ 21,560,868   $ 21,560,868     0% 
+Total Incentive Compensation and Base Management Fees(1) $ 44,241,191   $ 41,406,151     (6.4)% 
+Total Operating Expenses(2) $ 85,211,823   $ 82,376,783     (3.3)% 
+[END TABLE]
+[BEGIN TABLE]
+ Name   Position with the Company   Position with the Advisor  
+ Howard M. Levkowitz   Director and Chief Executive Officer   Managing Director  
+ Rajneesh Vig   Director, President and Chief Operating Officer   Managing Director  
+ Paul L. Davis   Chief Financial Officer   Managing Director  
+ Elizabeth Greenwood   General Counsel, Secretary and Chief Compliance Officer.   Managing Director  
+[END TABLE]
+ 26
+[BEGIN TABLE]
+     By Order of the Board of Directors,  
+     Howard M. Levkowitz Chair of the Board of Directors and Chief Executive Officer of the Company  
+[END TABLE]
+[BEGIN TABLE]
+ 1.    General Duties of the Investment Manager   A-1   
+ 2.    [Reserved]   A-2   
+ 3.    No Joint Venture    A-2   
+ 4.    Limitations Relating to Investments.    A-2   
+ 5.    Brokerage    A-3   
+ 6.    Compensation    A-3   
+ 7.    Expenses    A-5   
+ 8.    Services to Other Companies or Accounts    A-55   
+ 9.    Duty of Care and Loyalty    A-6   
+ 10.    Indemnification.    A-6   
+ 11.    Term of Agreement; Events Affecting the Investment Manager; Survival of Certain Terms   A-7   
+ 12.    Power of Attorney; Further Assurances.   A-8   
+ 13.    Amendment of this Agreement   A-8   
+ 14.    Notices    A-8   
+ 15.    Binding Nature of Agreement; Successors and Assigns   A-8   
+ 16.    Entire Agreement    A-8   
+ 17.    Costs and Expenses    A-9   
+ 18.    Books and Records    A-9   
+ 19.    Titles Not to Affect Interpretation    A-9   
+ 20.    Provisions Separable    A-9   
+ 21.    Governing Law    A-9   
+ 22.    Execution in Counterparts    A-9  
+[END TABLE]
+A-i
+A- A- A- A- A- A- A- A- A-9
+[BEGIN TABLE]
+     BLACKROCK TCP CAPITAL CORP.  
+     By:    /s/ Howard M. Levkowtiz  
+         Howard M. Levkowtiz, Chairman and CEO  
+[END TABLE]
+[BEGIN TABLE]
+     TENNENBAUM CAPITAL PARTNERS, LLC  
+     By:    /s/ Howard M. Levkowtiz  
+         Howard M. Levkowitz, Managing Director  
+[END TABLE]
+A- B-1- B-1- B-1- B-2- B-2- B-2-  

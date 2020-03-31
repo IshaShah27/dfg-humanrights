@@ -1,0 +1,528 @@
+UNITED STATES
+SECURITIES AND EXCHANGE COMMISSION
+Washington, D.C. 20549 
+SCHEDULE 14A
+(Rule 14a-101)
+SCHEDULE 14A INFORMATION
+Proxy Statement Pursuant to Section 14(a)
+of the Securities Exchange Act of 1934
+(Amendment No. )
+Filed by the Registrant ☒
+Filed by a Party other than the Registrant ☐
+Check the appropriate box:
+☐ Preliminary Proxy Statement
+☐ Confidential, for Use of the Commission Only (as permitted by Rule 14a-6(e)(2))
+☒ Definitive Proxy Statement
+☒ Definitive Additional Materials
+☐ Soliciting Material Pursuant to §240.14a-12
+Commission File No. 001-31990
+TEL-INSTRUMENT ELECTRONICS CORP.
+(Name of Registrant as specified in its charter)
+________________________________________________________________
+(Name of Person(s) Filing Proxy Statement, if other than the Registrant)
+Payment of Filing Fee (Check the appropriate box):
+☒ No fee required.
+☐ Fee computed on table below per Exchange Act Rules 14a-6 (i) (4) and 0-11.
+1) Title of each class of securities to which transaction applies:
+______________________________________________________________________________
+2) Aggregate number of securities to which transaction applies:
+______________________________________________________________________________
+3) Per unit price or other underlying value of transaction computed pursuant to Exchange Act Rule 0-11 (set forth the amount on which the filing fee is calculated and state how it was determined):
+______________________________________________________________________________
+4) Proposed maximum aggregate value of transaction:
+______________________________________________________________________________
+5) Total fee paid:
+______________________________________________________________________________
+☐ Fee paid previously with preliminary materials.
+☐ Check box if any part of the fee is offset as provided by Exchange Act Rule 0-11(a)(2) and identify the filing for which the offsetting fee was paid previously. Identify the previous filing by registration statement number, or the Form or Schedule and the date of its filing.
+1) Amount Previously Paid:
+               _______________________________________________________________________________
+2) Form, Schedule or Registration Statement No.:
+_______________________________________________________________________________
+3) Filing Party:
+_______________________________________________________________________________
+4) Date Filed:
+_______________________________________________________________________________
+Tel-Instrument Electronics Corp.
+One Branca Road
+East Rutherford, NJ 07073
+NOTICE
+OF
+ANNUAL MEETING OF SHAREHOLDERS
+TO BE HELD
+January 16, 2019
+The annual meeting of shareholders (the "Annual Meeting") of Tel-Instrument Electronics Corp. (the "Company") will be held at the Company's principal office, One Branca Road, East Rutherford, NJ 07073, on Wednesday, January 16, 2019 at 4:00 p.m. EST, for the following purposes, as more fully described in the accompanying Proxy Statement:
+[BEGIN TABLE]
+   1.     To elect five directors for one year terms.  
+[END TABLE]
+[BEGIN TABLE]
+   2.   To ratify the appointment of BDO USA, LLP as the Company's independent registered public accounting firm for the fiscal year ending March 31, 2019.  
+[END TABLE]
+[BEGIN TABLE]
+   3.   To consider and conduct a non-binding advisory vote on a proposal to approve the Company's executive compensation.  
+[END TABLE]
+[BEGIN TABLE]
+   4.   To consider and conduct a non-binding advisory vote on a proposal regarding the frequency of advisory votes on executive compensation.  
+[END TABLE]
+[BEGIN TABLE]
+   5.     To act upon such other business as may properly come before the meeting, or at any adjournment or postponement thereof.  
+[END TABLE]
+Shareholders of record at the close of business on December 14, 2018 (the "Record Date"), are entitled to notice of, and to vote at, the Annual Meeting, or at any adjournment thereof.  
+We hope that you are able to attend our Annual Meeting.
+Whether or not you plan to attend the meeting in person, please vote as soon as possible by marking, dating, and signing the enclosed Proxy Card exactly as your name appears thereon and promptly return it in the envelope provided, which requires no postage if mailed in the United States.  Proxies may be revoked at any time before they are exercised, in the manner set forth in the Proxy Statement, and, if you attend the meeting in person, you may withdraw your proxy and vote personally on any matter properly brought before the meeting.
+This Proxy Statement, the accompanying form of Proxy Card and President's Letter are being mailed on or about December 18, 2018 to shareholders entitled to vote.  The Company's Annual Report on Form 10-K for the fiscal year ended March 31, 2018, and Quarterly Report on Form 10-Q for the period ended September 30, 2018, which contain consolidated financial statements, are being mailed with this Proxy Statement, but are not a part of the proxy solicitation materials.
+Important Notice Regarding the Availability of Proxy Materials for the Annual Meeting of Shareholders to be held on January 16, 2019.
+This Proxy Statement, the Annual Report on Form 10-K for fiscal year ended March 31, 2018, and Quarterly Report on Form 10-Q for the period ended September 30, 2018 are available at our corporate website at www.telinstrument.com under "Company" and then go to "Investor Relations".
+BY ORDER OF THE BOARD OF DIRECTORS
+/s/ Jeffrey C. O'Hara                                                     
+     Jeffrey C. O'Hara
+     President and Chief Executive Officer
+TABLE OF CONTENTS
+[BEGIN TABLE]
+     Page  
+ INFORMATION CONCERNING SOLICITATION AND VOTING  1 
+ Proxies  1 
+ Record Date and Outstanding Common Stock  1 
+ Voting and Solicitation  2 
+ Revocability of Proxies  2 
+ Householding of Proxy Materials  2 
+ PROPOSAL NO. 1 – ELECTION OF DIRECTORS  3 
+ General  3 
+ Vote Required  3 
+ Information Regarding the Nominees  3 
+ CORPORATE GOVERNANCE BOARD MEETINGS AND COMMITTEES  5 
+ Code of Conduct  5 
+ Audit Committee  5 
+ Compensation Committee  6 
+ Nominating Committee  6 
+ Compensation of Independent Directors  7 
+ Compliance with Section 16(a) of the Exchange Act  7 
+ PROPOSAL NO. 2 – RATIFICATION OF BDO USA, LLP AS INDEPENDENT REGISTERED PUBLIC ACCOUNTING FIRM  8 
+ Fees Paid to BDO USA, LLP  8 
+ Audit Committee Pre-Approval Policy of Audit and Permissible Non-Audit Services  8 
+ SECURITY OWNERSHIP  9 
+ EXECUTIVE COMPENSATION  11 
+ Summary Compensation Table  11 
+ Processes and Procedures  11 
+ Incentive Plan  12 
+ Grants of Plan-Based Awards for Fiscal Year 2018  12 
+ Options Exercised and Stock Vested During Fiscal Year 2018  12 
+ Outstanding Equity Awards at Fiscal Year End Table  12 
+ Equity Compensation Plan Information  13 
+ CERTAIN RELATIONSHIPS AND RELATED TRANSACTIONS  14 
+ PROPOSAL NO. 3 – NON-BINDING ADVISORY VOTE APPROVING EXECUTIVE COMPENSATION  15 
+ PROPOSAL NO. 4 –NON-BINDING ADVISORY VOTE ON PROPOSAL REGARDING THE FREQUENCY OF ADVISRORY VOTES ON EXECUTIVE COMPENSATION.  15 
+ ANNUAL REPORT ON FORM 10-K AND QUARTERLY REPORT ON FORM 10-Q  16 
+ APPENDIX A – AUDIT COMMITTEE CHARTER  17 
+[END TABLE]
+Tel-Instrument Electronics Corp.
+One Branca Road
+East Rutherford, NJ 07073
+PROXY STATEMENT
+FOR
+ANNUAL MEETING OF SHAREHOLDERS
+TO BE HELD
+January 16, 2019
+INFORMATION CONCERNING SOLICITATION AND VOTING
+Proxies
+This Proxy Statement and Proxy Card are furnished in connection with the solicitation of proxies by Tel-Instrument Electronics Corp. (the "Company" or "Tel") for use at the annual meeting of shareholders to be held at 4:00 p.m. EST, on Wednesday, January 16, 2019 at the Company's facilities located at One Branca Road, East Rutherford, NJ 07073, or at any adjournment or postponement thereof (the "Annual Meeting").  The Company's Annual Report on Form 10-K, which includes our audited financial statements for the fiscal year ended March 31, 2018 (the "Annual Report"), and our Quarterly Report on Form 10-Q for the period ended September 30, 2018, have been mailed to you with this Proxy Statement, but are not part of the proxy soliciting material.
+You may vote at the meeting in person or by proxy.  We recommend that you vote, sign and date the enclosed Proxy Card, and return it promptly in the enclosed postage paid envelope, even if you plan to attend the meeting.  You can always change your vote at the meeting in the manner set forth below under "Revocability of Proxies."  Giving us your proxy means you authorize us to vote your shares at the meeting in the manner you direct.  You may vote for some, all, or none of the director candidates. You may also vote for or against the other proposals, or you may abstain from voting.
+All shares of common stock, Series A Convertible Preferred Stock and Series B Convertible Preferred Stock represented at the meeting by properly executed and returned proxies, unless such proxies have previously been revoked, will be voted at the Annual Meeting and, where the manner of voting is specified on the proxy, will be voted in accordance with such specifications.  Shares represented by properly executed and returned proxies, on which no specification has been made, will be voted: (1) for the election of the nominees for director named herein, (2) for the ratification of BDO USA, LLP as the Company's independent registered public accounting firm for the fiscal year ending March 31, 2019, (3) for the non-binding advisory vote on executive compensation, and (4) for the advisory vote on the frequency of the advisory vote on executive compensation for 1 year.
+If any other matters are properly presented at the Annual Meeting for action, including a question of adjourning or postponing the Annual Meeting from time to time, the persons named in the proxies and acting thereunder, will have discretion to vote on such matters in accordance with their best judgment.  The Company is unaware of any matters which will be submitted to shareholders for action, other than as stated in the Proxy Card.
+This Notice of Annual Meeting, this Proxy Statement, and the related Proxy Card are first being mailed to shareholders on or about December 18, 2018.
+Record Date and Outstanding Common Stock
+The Board of Directors (the "Board") has fixed the close of business on December 14, 2018, as the record date (the "Record Date") for determining the holders of outstanding shares of common stock entitled to notice of, and to vote at, the Annual Meeting.  As of the Record Date, there were 3,255,887 shares of common stock issued, outstanding, and entitled to vote. In addition, there are 500,000 shares of Series A Convertible Preferred Stock outstanding, with voting rights equivalent to 1,000,000 shares of common stock, and 166,667 shares of Series B Convertible Preferred Stock outstanding, with voting rights equal to 352,112 shares of common stock.
+Voting and Solicitation
+Each shareholder is entitled to one vote, exercisable in person or by proxy, for each share of common stock held of record on the Record Date.  Holders of Series A Convertible Preferred Stock and Series B Convertible Stock will vote on an as-converted basis with the holders of common stock. There are 500,000 shares of Series A Convertible Preferred Stock outstanding, with voting rights equivalent to 1,000,000 shares of common stock, and 166,667 shares of Series B Convertible Preferred Stock outstanding, with voting rights equal to 352,112 shares of common stock. Shareholders are entitled to vote their shares for each proposal and for each nominee, and cumulative voting is not permitted. Shareholders may vote separately for each nominee.  
+If your shares are held by a bank, brokerage firm or other nominee, you are considered the "beneficial owner" of those shares held in "street name". If your shares are held in street name, these proxy materials are being forwarded to you by your bank, brokerage firm or nominee (the "Record Holder"), along with a voting instruction card. As the beneficial owner, you have the right to direct the Record Holder how to vote your shares, and the Record Holder is required to follow your instructions. If you do not give instructions to your bank, broker or nominee, it will nevertheless be entitled to vote your shares in its discretion for the ratification of the independent auditors, but will not be permitted to vote on any other matters, including Proposal 1, Election of Directors, and any other matters which may be submitted properly at the meeting, and your shares will be considered broker non-votes on these matters, if any.   Broker non-votes on a proposal are shares held by brokers that do not have discretionary authority to vote on the matter, have not received voting instructions from their clients and do not vote on specific proposals.
+The presence in person or by proxy, of a majority of the shares of common stock outstanding and entitled to vote is necessary to constitute a quorum for the transaction of business at a meeting.  An affirmative vote of a majority of the shares of common stock present in person or by proxy, at a meeting where there is a duly constituted quorum is necessary to adopt any matter submitted for vote.  All votes will be tabulated by the inspector of election for the meeting appointed by the directors and who will separately tabulate affirmative and negative votes, abstentions, and broker non-votes.
+Proxies, properly executed by the beneficial owner of the shares, on which no specification has been made will be counted for quorum purposes and voted for the election of the nominees for director listed below, for ratification of the appointment of BDO USA, LLP as the Company's independent registered public accounting firm, for the non-binding advisory vote on executive compensation, for the advisory vote on the frequency of the advisory vote on executive compensation, and for other matters that are properly raised at the meeting, we will use our best judgment to vote your proxy.  As of the date of this Proxy Statement, we are unaware of any other matters to be voted on.  If you mark the Proxy Card indicating withholding of your vote, the equivalent to abstaining, your proxy will be counted in determining the quorum, but will not be a vote cast and, therefore, it will have the effect of a vote cast "against" the proposal.
+Tel will pay the expenses incurred in connection with the solicitation of proxies and we are soliciting proxies principally by mail.  In addition, directors, officers, and regular employees may solicit proxies, personally or by telephone, for which they will receive no consideration other than their regular compensation.  We will also request brokerage houses, nominees, custodians, and fiduciaries to forward soliciting material to the beneficial owners of shares of common stock held by them, as of the Record Date, and will reimburse such persons for their reasonable expenses so incurred.
+Revocability of Proxies
+Any shareholder who executes and returns a proxy may revoke it at any time before it is voted by; (a) executing a later-dated proxy relating to the same shares and meeting and delivering it to our Corporate Secretary before the vote at the meeting; (b) filing a written notice of revocation bearing a later date than his proxy, with our Corporate Secretary, before the vote at the meeting; or (c) appearing in person at the meeting, filing a written notice of revocation with the Corporate Secretary and voting in person the shares to which the proxy relates.  Any written notice or subsequent proxy should be delivered to Tel-Instrument Electronics Corp., One Branca Road, East Rutherford, NJ 07073; Attention:  Joseph P. Macaluso.
+Householding of Proxy Materials
+To reduce printing costs and postage fees of sending duplicate proxy materials, we have adopted a practice approved by the Securities and Exchange Commission ("SEC") called "householding."  Under this practice, shareholders who have the same address and last name and who do not participate in electronic delivery of proxy materials, will receive only one copy of our proxy materials unless one or more of these shareholders notifies us that they wish to continue receiving individual copies.  Shareholders who participate in householding will continue to receive separate proxy cards.
+If you share an address with another shareholder and receive only one set of proxy soliciting materials and would like to request a separate copy of these materials, please send your request to the Company, One Branca Road, East Rutherford, NJ 07073; Attention: Joseph P. Macaluso. We will deliver the requested documents promptly upon your request.
+PROPOSAL NO. 1:  ELECTION OF DIRECTORS
+General
+The Board currently consists of five directors elected annually.  Pursuant to the Company's By-Laws, the number of directors shall be not less than three and not more than nine directors, and the directors may elect a director to fill a term until the following annual meeting of shareholders, provided that there is an opening. The five director candidates named below have been nominated for one-year terms.  Please see "Nominating Committee" below for the Company's nominating procedures
+Each candidate currently serves as a director.  None of the candidates, except for Jeffrey O'Hara, who serves as President and Chief Executive Officer, are employed by the Company; Messrs. Leon, Rice, and Walker are independent as defined in the rules of the NYSE American.
+It is intended that votes will be cast pursuant to the enclosed proxy card for the election of the nominees listed in the table below, except for those proxies that expressly withhold such authority.  Shareholders do not have cumulative voting rights with respect to the election of directors, and each proxy will be voted for the number of shares held for each of the five nominees (unless authority is withheld).  If any of the nominees shall be unable or unwilling to serve as a director, it is intended that the proxy will be voted for the election of such other person or persons as the appointed proxies may recommend in the place of such nominee.  We have no reason to believe that any of the nominees will not be candidates or will be unable to serve.
+Vote Required
+The five nominees receiving the highest number of affirmative votes of the shares entitled to vote at the annual meeting, where a quorum is present, shall be elected to the Board for one year and until their successor is duly elected and qualified.  (The number of shares voted "For" a nominee must exceed the number of shares voted "Withhold Authority for that Nominee".)  The officers, directors, and affiliates, who own approximately 48% of the outstanding shares of common stock (See "Security Ownership" below), have stated that they will vote their shares for the five nominees listed below.  The Board recommends that shareholders vote FOR each of the nominees listed below.  Unless you indicate otherwise, your proxy will be voted for the election of the nominees listed below.
+Information Regarding the Nominees
+[BEGIN TABLE]
+ Robert H. Walker (1) (2) (5) (Age 82)       Director and Chairman of the Board       1984  
+ Robert H. Walker (1) (2) (5) (Age 82)       Director and Chairman of the Board       1984  
+ Jeffrey C. O'Hara, CPA (3) (4) (Age 60)       Director; President and Chief Executive Officer       1998  
+ Stephen A. Fletcher (3) (Age 58)       Director       2011  
+ George J. Leon (1) (2) (Age 75)       Director       1986  
+ Robert A. Rice (1) (2) (Age 63)       Director       2004  
+[END TABLE]
+[BEGIN TABLE]
+ (1)     Member of the Audit Committee.  
+ (2)     Member of the Compensation Committee.  
+ (3)   Mr. Fletcher is the son of Mr. Harold K. Fletcher, the former Chairman of the Company who passed away in 2011, and the brother-in-law of Jeffrey C. O'Hara, the Company's Chief Executive Officer.  
+ (4)   Mr. O'Hara has served as a member of the Board since 1998 and was appointed President of the Company in 2007, and as Chief Executive Officer in December 2010.  
+ (5)   Mr. Walker has served as a member of the Board since 1984 and was appointed Chairman of the Board in April 2011.  
+[END TABLE]
+Background of Directors
+Robert H. Walker has served as member of our Board since 1984 and was elected Chairman of the Board in April 2011. Mr. Walker, prior to his retirement in 1998, had served as Executive Vice President of Robotic Vision Systems, Inc., which designs, manufactures, markets and sells automated two-dimensional and three-dimensional machine vision-based products and systems for inspection, measurement and identification. Mr. Walker also served as Chief Financial Officer of that Company, whose shares were listed on the NASDAQ National Market. Mr. Walker qualifies as the Company's "Audit Committee Financial Expert" as defined in the regulations promulgated under the Securities Exchange Act.
+Mr. Walker's qualifications for serving on the Board include his experience and expertise in accounting and financial reporting, complex financial transactions and corporate governance, as well as operations and general manufacturing.
+Jeffrey C. O'Hara, CPA has served as a member of the Board since 1998, and was made a Vice President in 2005, COO in 2006, and has been President since 2007.  Mr. O'Hara was made CEO of the Company in December 2010. Prior to joining the Company, Mr. O'Hara held various management positions at General Motors, and other mid-sized private companies. Mr. O'Hara has extensive financial, marketing and operations experience and he has held executive positions as both a Chief Financial Officer and President. Mr. O'Hara has also served on several Boards of other companies.
+We believe that Mr. O'Hara's qualifications for serving on the board include his expertise in general management, finance, corporate governance and strategic planning, as well as his extensive experience in manufacturing and operations and M&A.
+Stephen A. Fletcher is the Chief Executive Officer of Rand McNally, where he is actively leading the transformation of this 160 year American company from mapmaker and publisher to digital electronics and telematics provider for automotive and heavy-duty truck industries, business that now comprises 70 percent of revenue. Prior to Rand McNally, Mr. Fletcher served as a WW general manager at Kodak for more than six years and led a far-reaching organization with operations around the globe.  Before Kodak, he was President and COO of Konica Minolta Printing Solutions in Ramsey, New Jersey.  Mr. Fletcher was also President and CEO of the Tally Printer Corporation in Seattle, Washington and held marketing management positions at Apple Computer and Hewlett Packard.
+We believe that Mr. Fletcher's qualifications to serve on the Board include: general management expertise, manufacturing and operations experience, strategic planning expertise, corporate governance expertise as well as marketing expertise
+George J. Leon has served as a member of the Board since 1986. Mr. Leon has substantial experience in finance and legal matters, and as an investment manager. He is and has been an investment manager and beneficiary of the George Leon Family Trust for more than five (5) years.
+Mr. Leon's qualifications for serving on the Board include his considerable expertise in finance, legal, corporate development and corporate governance.
+Robert A. Rice has served as a member of the Board since 2004. Mr. Rice is, and has been for more than 5 years, President and Owner of Spurwink Cordage, Inc. a textile manufacturing company located in New England, and is experienced in securities matters and business management.
+Mr. Rice's qualifications for serving on the Board include his in-depth expertise in finance and related functions as well as general management and business, and his extensive experience in operations.
+CORPORATE GOVERNANCE, BOARD MEETINGS AND COMMITTEES
+The Board is responsible for supervision of the overall affairs of the Company.  The Board held four meetings during the fiscal year 2018, and each of the nominee directors attended all of the meetings. The Company expects directors to attend all Board, committee, and shareholder meetings. Three of the members of the Board, Messrs. Leon, Rice and Walker, are independent under the Rules of the NYSE American.  
+Robert H. Walker was elected Chairman of the Board by the Board at its April 13, 2011 meeting of the Board upon the passing of Harold K. Fletcher who had been Chief Executive Officer and Chairman of the Board since 1982. Jeffrey C. O'Hara was elected the Chief Executive Officer in December 2010.
+The Board and, separately, the Audit Committee review and provide oversight of risks and potential risks involving the Company's operations.  The Board reviews and evaluates the process used to assess major risks facing the company and to periodically review assessments prepared by senior management of such risks, as well as options for their mitigation. Frequent interaction between the directors and members of senior management assists in this effort. The Board regularly reviews information regarding our liquidity and operations, as well as the risks associated with each. The Audit Committee is responsible for overseeing the management of financial and accounting risks. The Compensation Committee is responsible for overseeing the management of risk-taking relating to executive compensation plans and arrangements.
+To assist it in carrying out its duties, the Board has delegated certain authority to committees.  The Board has established standing Audit and Compensation Committees, and has delegated nominating responsibility to the three members of the Board who are independent under the Rules of the NYSE American ("NYSE American Rules").  Our Audit and Compensation Committees consist of only independent, non-employee directors.
+Code of Conduct
+The Company has had corporate governance standards and policies, regulating officer, director and employee conduct for many years.  In fiscal 2004, we reviewed our standards and policies and incorporated them into our Code of Business Conduct, which we believe satisfies the rules promulgated by the SEC and the NYSE American.  The Code of Business Conduct applies to all employees, including our Chief Executive Officer and our Principal Accounting Officer, and is available to any shareholder free of charge, by submitting a written request to the Company, One Branca Road, East Rutherford, NJ  07073: Attention: Joseph P. Macaluso.
+Audit Committee
+The Board established a separately designated standing Audit Committee in accordance with Section 3(a)(58)(A) of the Securities Exchange Act of 1934, as amended (the "Exchange Act") and the NYSE American Rules.  The Audit Committee is comprised of Messrs. Walker (Chairman), Leon, and Rice.  Messrs. Walker, Leon, and Rice are independent, as that term is defined under the Exchange Act, and Mr. Walker is a financial expert as defined in the rules promulgated by the SEC pursuant to the Exchange Act. Mr. Walker served as director and Executive Vice President of Robotic Vision Systems, Inc., a reporting company, and as its principal financial officer for over 15 years.
+The Audit Committee reviews the Company's financial statements, and oversees the Company's accounting, audits, internal controls, and adherence to its Business Conduct Guidelines.  The Committee also appoints and recommends to the Board the Company's independent registered public accounting firm and reviews, evaluates, and approves the independent registered public accountants' compensation, services performed, and procedures for ensuring its independence with respect to the Company.  The Board has adopted a written charter for the Audit Committee, a copy of which is attached to this Proxy Statement as Appendix A.
+During fiscal 2018, all three members of the Audit Committee attended all four (4) of the Audit Committee meetings.  In the opinion of the Board, and as defined under NYSE American Rules, Messrs. Walker, Leon and Rice are independent of management and free of any relationship which might interfere with their exercise of independent judgment as members of this committee.  
+The Audit Committee has: (i) reviewed and discussed with management, and with BDO USA, LLP, (the "Auditors") the Company's audited financial statements for the fiscal year ended March 31, 2018; (ii) discussed with the Auditors the matters required to be discussed by PCAOB Standard 16, as amended, as adopted by the Public Company Accounting Oversight Board; (iii) received the written disclosures and the letter from the Auditors required by applicable requirements of the Public Company Accounting Oversight Board regarding the Auditors' communications with the Audit Committee concerning independence; and (iv) discussed with the Auditors their independence from the Company.  The Audit Committee has also discussed with management of the Company and the Auditors such other matters and received such assurances from them as it deemed appropriate.  The Audit Committee meets regularly with management and the Auditors, and then with the Auditors without management present, to discuss the result of the Auditors examination, the evaluation of the Company's internal control over financial reporting and the overall quality of the Company's accounting.
+In reliance on the reviews and discussions referred to above, the Audit Committee recommended to the Board, and the Board approved, that the audited financial statements for the fiscal year ended March 31, 2018 be included in the Company's Annual Report for filing with the SEC.
+Audit Committee of the
+Board of Directors
+Robert H. Walker, Chairman
+George J. Leon
+Robert A. Rice
+Compensation Committee
+The Compensation Committee, consisting of George J. Leon, Chairman, Robert A. Rice and Robert H. Walker, is responsible for (i) reviewing and evaluating employee stock and other compensation programs and plans, (ii) determining the compensation of the Chief Executive Officer, and (iii) approving compensation arrangements, including keyman incentive compensation and stock option grants, for management and other employees.  The Board created the Compensation Committee by resolution giving it the foregoing authority, but the committee does not have a written charter.
+The Compensation Committee met once during the 2018 fiscal year; Messrs. Leon, Rice and Walker attended the meeting. Messrs. Leon, Rice and Walker are independent, as defined in the NYSE American Rules. See "Executive Compensation" below for a discussion of the Committee's processes and procedures for reviewing and determining compensation.
+Nominating Committee
+The Board designated George J. Leon, Robert A. Rice and Robert H. Walker, each of whom is not an employee of the Company, and is an independent director under NYSE American Rules, to act as a Nominating Committee of the Board pursuant to a "Procedures Resolution" adopted by the Board.  The Committee does not have a formal charter.
+The Board directed that candidates for director should have a commitment to enhancing long term shareholder value and possess a high level of personal and professional ethics and sound business judgment.  In addition, they should have (a) experience in business, finance, technology or administration, (b) familiarity with the Company, its technology, business and industry, and (c) appreciation of the relationship of the Company's business to changing needs in our society.  In order to identify director candidates, the Committee relies on its and the Board's personal business experience and contacts, and its evaluation of any recommended candidates.  The Committee does not intend to retain consultants to identify candidates.
+The Board unanimously concluded that it is not appropriate to have a specific policy with regard to shareholder communications to the Board related to the recommendations of director candidates, because (a) the officers, directors and one affiliate shareholder, collectively, own approximately 48% of the outstanding shares, (b) the remaining shares are relatively widely held, and (c) shareholders have not submitted recommendations or comments in the past.  The Nominating Committee will consider any shareholder communication and any recommendations, if made in accordance with the following paragraph, by shareholders owning more than 5% of the outstanding stock for over one year, and will make its recommendations for nominees based on the criteria set forth above.  No shareholder recommendations from shareholders owning more than 5% of the outstanding shares were received in connection with the Annual Meeting scheduled for January 16, 2019.
+If a shareholder (or shareholders), who has beneficially owned at least 5% of the outstanding common stock, for at least one (1) year, wishes to submit to the Nominating Committee a recommendation for a nominee as a director, for consideration in connection with the 2019 annual meeting, they may send their recommendation to the Company, Attention: Joseph P. Macaluso, by no later than August 16, 2019.  The written recommendation must (a) identify the nominee, (b) identify the shareholder or shareholders making the recommendation, (c) provide a written consent of both the recommending shareholder and the recommended nominee to be identified in the Proxy Statement, and (d) provide proof that the security holder or group satisfies the ownership and holding period specified above.  The Committee will consider shareholder recommendations, but is not obligated to submit any recommendations to the Board or the shareholders.  (See "Shareholder Proposals" below.)
+The five candidates for directors being submitted to shareholders pursuant to this Proxy Statement were recommended to the Board by the Nominating Committee.
+Compensation of Independent Directors
+Directors who are not employees or officers of the Company receive (a) $1,250 in cash and options, at the then market price, to purchase 1,000 shares of common stock for attendance at each in-person Board or standing committee meeting and (b) $625 in cash and options to purchase 500 shares for attendance at each formal telephonic meeting of the Board or of a standing committee.  Non-employee directors may elect annually to accept the foregoing compensation or waive the stock option element and receive $2,500 in cash for attendance at the in-person meeting and $1,250 in cash for each formal telephone meeting. During the fiscal year ended March 31, 2018, non-employee directors received the following compensation pursuant to this plan.
+[BEGIN TABLE]
+ Name     Cash Compensation       Option Awards ($)(1)       Total $    
+ George J. Leon    $ 10,000     $ -0-     $ 10,000   
+ Robert A. Rice    $ 10,000     $ -0-     $ 10,000   
+ Robert H. Walker (2)    $ 10,000     $ -0-     $ 10,000   
+ Stephen A. Fletcher    $ 5,000     $ -0-     $ 5,000   
+[END TABLE]
+[BEGIN TABLE]
+   (1)     Amounts in this column represent the fair value at date of grant required by Financial Accounting Standards Board ASC Topic 718 to be included in our financial statements for each option granted during fiscal year 2018. See Note 16 to Notes to the consolidated financial statements included in the Company's Annual Report on Form 10-K. No options were granted to directors during fiscal year 2018.  
+   (2)     In addition to the above compensation, Mr. Walker received a monthly stipend of $2,400 for his additional responsibility as Chairman of the Board.  
+[END TABLE]
+Section 16(a) Beneficial Ownership Reporting Compliance
+Section 16(a) of the Exchange Act requires reports to be filed with the SEC, relating to stock ownership of officers, directors, and beneficial owners of 10% or more of the Company stock.  For the fiscal year ended March 31, 2018, the Company believes, based on reports filed with it, that all required reports under Section 16(a) have been filed.
+PROPOSAL NO. 2: RATIFICATION OF APPOINTMENT OF BDO USA, LLP
+AS INDEPENDENT REGISTERED PUBLIC ACCOUNTING FIRM
+BDO USA, LLP currently serves as the Company's independent registered public accounting firm and conducted the audit of the Company's consolidated financial statements for the fiscal year ended March 31, 2018.  The Audit Committee has appointed BDO USA, LLP to serve as the Company's independent registered public accounting firm to audit the Company's consolidated financial statements for the fiscal year ending March 31, 2019 and recommended to the Board that its appointment be submitted to the shareholders for ratification.  The Board concurred with this appointment and recommendation.  Even if the appointment is ratified, the Audit Committee may, in its discretion, direct the appointment of different auditors at any time during the year if it determines that such a change would be in the best interests of the Company and its shareholders.
+A representative of BDO USA, LLP is expected to attend the meeting and will be available to answer shareholder questions, and will have the opportunity to make a statement, if he or she wishes to do so.
+Fees Paid to BDO USA, LLP
+For the fiscal years ended March 31, 2018 and 2017, professional services were performed by BDO USA, LLP, and fees were paid to it by the Company, as follows:
+[BEGIN TABLE]
+     2018       2017    
+ Audit Fees and Expenses    $ 145,100     $ 142,100   
+ Audit-Related Fees      -       -   
+ Total Audit and Audit-Related Fees      145,100       142,100   
+ Tax Fees      -       -   
+ All Other Fees      -       -   
+ Total    $ 145,100     $ 142,100   
+[END TABLE]
+Audit Fees.  This category includes the audit of the Company's consolidated financial statements and reviews of the financial statements included in the Company's Quarterly Reports on Form 10-Q.  It also includes advice on accounting matters which arose during, or as a result of, the audit or the review of interim financial statements, and services which are normally provided in connection with regulatory filings, or in an audit engagement.
+Audit Related Fees, Taxes and Other Fees.  No fees under these categories were paid to BDO USA, LLP in fiscal years ended March 31, 2018 and 2017.
+Audit Committee Pre-Approval Policy of Audit and Permissible Non-Audit Services
+The Audit Committee has established a policy which requires it to specifically pre-approve all audit and permissible non-audit services, including audit-related and tax services, if any, to be provided by the independent registered public accountant.  Preapproval is generally provided for up to one year and is detailed as to the particular service or category of service to be performed, and is subject to a detailed budget.  The auditor and management are required to report periodically to the Audit Committee regarding the extent and quality of services performed and the amount of fees paid to date, in accordance with the pre-approval.
+The Audit Committee pre-approved BDO USA, LLP's fees and services in fiscal years 2018 and 2017 described above.
+The officers, directors and one affiliate shareholder, who collectively own approximately 48% of the outstanding common stock, have stated that they will vote their shares for ratification of the appointment of BDO USA, LLP.
+THE BOARD RECOMMENDS THAT YOU VOTE TO RATIFY THE SELECTION OF BDO USA, LLP AS OUR INDEPENDENT REGISTERED PUBLIC ACCOUNTING FIRM FOR FISCAL YEAR 2019.  THE AFFIRMATIVE VOTE OF A MAJORITY OF THE SHARES PRESENT IN PERSON OR BY PROXY, PROVIDING THAT A QUORUM CONSISTING OF A MAJORITY OF OUTSTANDING SHARES IS PRESENT, WILL RATIFY THE APPOINTMENT OF BDO USA, LLP.
+SECURITY OWNERSHIP
+The following table sets forth information known to the Company with respect to the beneficial ownership as of December 13, 2018, of the Company's common stock, $.10 par value, of (i) all persons who are beneficial owners of five percent (5%) or more of the Company's common stock, (ii) each director and nominee, (iii) named executive officer (the "NEO"), and (iv) all current directors and executive officers as a group.
+[BEGIN TABLE]
+ Name and Address       Number of Shares Beneficially Owned       Percentage of Class (1)      
+ Name and Address       Number of Shares Beneficially Owned       Percentage of Class (1)      
+ Named Directors and Officers                          
+ Stephen A. Fletcher           3,200   (2)           0.1%  
+ 7378 E. Main Street                                  
+ Lima, NY 14485                                  
+ George J. Leon, Director           455,971   (3)           14.0%  
+ 168 Redpath Avenue                                  
+ Toronto, Ontario, Canada M4P2K6                                  
+ Jeffrey C. O'Hara, Director, CEO and President           256,356   (4)           7.8%  
+ 853 Turnbridge Circle                                  
+ Naperville, IL 60540                                  
+ Robert A. Rice, Director           114,000               3.5%  
+ 5 Roundabout Lane                                  
+ Cape Elizabeth, ME 04107                                  
+ Robert H. Walker, Director, Chairman           75,053               2.3%  
+ 27 Vantage Court                                  
+ Port Jefferson, NY 11777                                  
+ Joseph P. Macaluso, PAO           14,213   (5)           0.4%  
+ 167 Tennis Court                                  
+ Wall Township, New Jersey 07719                                  
+ All Officers and Directors           918,793   (6)           28.1%  
+ as a Group (6 persons)                                  
+ Vincent J. Dowling           1,389,216   (7)           32.3%  
+ 54 Ledyard Road                                  
+ West Hartford, CT 06117                                  
+ Mrs. Sadie Fletcher           640,907   (8)           19.7%  
+ 657 Downing Lane                                  
+ Williamsville, NY 14221                                  
+ Vincent J. Dowling, Sr.           500,000   (9)           13.3%  
+ 102 Island Creek Drive                                  
+ Indian River Shores, FL 32963                                  
+ (1)     The class includes 3,255,887 shares outstanding plus shares outstanding under Rule 13d-3(d) (1) under the Exchange Act.  The common stock, deemed to be owned by the named parties, includes stock which is not outstanding but is subject to currently exercisable options held by the individual named.  The foregoing information is based on reports made by the named individuals.  
+ (2)     Mr. Stephen A. Fletcher is the son of Mr. Harold K. Fletcher, former Chief Executive Officer and director of the Company.  Mr. Stephen A. Fletcher is the son of Mrs. Sadie Fletcher who beneficially owns 640,907 shares by virtue of the Estate of Harold K. Fletcher. Mr. Fletcher disclaims beneficial ownership of the shares owned by the Estate of Harold K. Fletcher.  
+[END TABLE]
+[BEGIN TABLE]
+ (3)     Includes 423,621 shares owned by the George Leon Family Trust, of which Mr. Leon is a beneficiary.  Mr. Leon acts as a manager of the trust assets pursuant to an informal family, oral arrangement and the filing of this statement shall not be construed as an admission that Mr. Leon is the beneficial owner of these shares.  
+[END TABLE]
+[BEGIN TABLE]
+ (4)     Includes 12,000 shares subject to currently exercisable stock options owned by Mr. O'Hara.  
+[END TABLE]
+[BEGIN TABLE]
+ (5)    Includes 1,200 shares subject to currently exercisable stock options owned by Mr. Macaluso.  
+[END TABLE]
+[BEGIN TABLE]
+ (6)     Includes 13,200 shares subject to currently exercisable options held by all executive officers and directors of the Company (including those individually named above).  
+[END TABLE]
+[BEGIN TABLE]
+ (7)     Based on Form 4 filed with the SEC on August 17, 2018 and furnished to the Company. Includes 50,000 shares subject to currently exercisable warrants. Also includes 1,000,000 shares of common stock that may be acquired upon conversion of the Series A Convertible Preferred Stock. The Holder(s) of the Series A Convertible Preferred Stock can vote together with the holders of the Company's common stock ("Common Stock") on an as-converted basis on each matter submitted to a vote of holders of Common Stock (whether at a meeting of shareholders or by written consent). In any such vote, the number of votes that may be cast by a Holder shall be equal to one (1) vote for each Conversion Share underlying such Holder's outstanding shares of Series A Convertible Preferred Stock, subject to adjustment based on the applicable Maximum Conversion Amount, as of the record date for such vote or written consent or, if there is no specified record date, as of the date of such vote or written consent. Mr. Dowling is the son of Vincent Dowling, Sr. who beneficially owns 500,000 shares by virtue of his ownership of the Series B Convertible Preferred Stock (see No. 9 below). Mr. Dowling disclaims beneficial ownership of the shares owned by the Vincent Dowling, Sr.  
+[END TABLE]
+[BEGIN TABLE]
+ (8)   Represents 640,907 shares owned by the Estate of Harold K. Fletcher, former Chief Executive Officer and director of the Company. Mrs. Fletcher is the mother of Stephen A. Fletcher, a director of the Company.  
+[END TABLE]
+[BEGIN TABLE]
+ (9)     Includes 500,000 shares of common stock that may be acquired upon conversion of the Series B Convertible Preferred Stock. The Holder(s) of the Series B Convertible Preferred Stock can vote together with the holders of the Company's common stock ("Common Stock") on an as-converted basis on each matter submitted to a vote of holders of Common Stock (whether at a meeting of shareholders or by written consent). In any such vote, the number of votes that may be cast by a Holder shall be equal to one (1) vote for each Conversion Share underlying such Holder's outstanding shares of Series B Convertible Preferred Stock, subject to adjustment based on the applicable Maximum Conversion Amount, as of the record date for such vote or written consent or, if there is no specified record date, as of the date of such vote or written consent.  
+[END TABLE]
+EXECUTIVE COMPENSATION
+The following table presents information regarding compensation of our principal executive officers for services rendered during fiscal years 2018 and 2017.
+Summary Compensation Table
+[BEGIN TABLE]
+   Name and Principal Position       Fiscal Year       Salary ($) (1)           Incentive ($) (2)           Option Awards ($) (3)           All Other Compensation ($) (4)           Total ($)      
+   Name and Principal Position       Fiscal Year       Salary ($) (1)           Incentive ($) (2)           Option Awards ($) (3)           All Other Compensation ($) (4)           Total ($)      
+ Jeffrey C. O'Hara, CEO President        2018           180,000               -               -               23,344               203,344      
+          2017           175,000               -               -               22,693               197,693      
+ Michael Schirmer, Vice President of Operations (5)       2018           170,000               -               -               21,794               191,794      
+         2017           167,500               -               -               21,794               189,294      
+ Joseph P. Macaluso PAO       2018           140,000               -               -               9,098               149,098      
+         2017           140,000               -               -               12,867               152,867      
+[END TABLE]
+The Compensation Committee independently evaluates the performance of the CEO and determines the CEO's salary, bonus and stock option grant.  The Compensation Committee sets qualitative objectives and responsibilities for the CEO consistent with the Company's business model.  These include creating shareholder value through a balanced focus on long-term returns on capital employed, earnings per share and total shareholder return; developing the long-term business strategy and assessing the effectiveness of the Company's management development and succession planning process across the organization; ensuring that the business develops and meets high standards of safety, health, environmental performance as well as high ethical standards and compliance with applicable legal requirements; stewardship and enforcement of internal business controls; communicating effectively with all the Company's shareholders; and working effectively with the Board in the pursuit of all these objectives.
+The Compensation Committee does not delegate any of its responsibility and uses consultants only as a source of information about compensation in comparable businesses.
+EXECUTIVE COMPENSATION (continued)
+Incentive Plan
+The Company has a key man incentive compensation program.  Each year the Compensation Committee determines a percentage of operating profits to be distributed among senior employees, including executive officers. The percentage determined is based on the general performance of the Company, and the amount of operating profits available for shareholders and for reinvestment in the business. This element of compensation provides an incentive for short-term performance.
+The percentage of operating profits so determined is then distributed to senior employees, including executive officers and to a category  entitled  "other",  based on: (a) the amount of the employee's base salary; (b) his contribution to the Company;  (c) the results of that contribution;  (d) an estimated amount of his  "special effort" on behalf of the Company; (e) his technical expertise, leadership, and management skills; and (f) the level of the overall  compensation paid employees performing similar work in competitive companies.
+Other Benefits
+The Company sponsors the Tel-Instrument Electronics Corp. 401(k) Plan (the "401k Plan"), a tax qualified Code Section 401(k) retirement savings plan, for the benefit of its employees, including its NEOs. The 401k Plan encourages savings for retirement by enabling participants to make contributions on a pre-tax basis and to defer taxation on earnings on funds contributed to the 401k Plan. The Company makes matching contributions to the 401k Plan. All NEOs can make contributions to the 401k Plan.  The NEOs also participate in group health and life benefits generally on the same terms and conditions that apply to other employees.
+Stock Option Plan
+The Compensation Committee also reviews management's plan for granting qualified stock options in accordance with the foregoing criteria and within the limits set by the Board that employee stock options outstanding do not exceed 10-15% of total shares outstanding.
+Grants of Plan-based Awards Table for Fiscal Year
+There were no stock options granted during or for the 2018 fiscal year to our named executive officers.
+Options Exercised and Stock Vested During Fiscal Year 2018
+None. 
+Outstanding Equity Awards at Fiscal Year End
+The following table sets forth the outstanding stock option grants held by named executive officers at the end of the 2018 fiscal year. The option exercise price set forth in the table is based on the closing market price on the date of grant.
+[BEGIN TABLE]
+   Name       Number of Securities  Underlying Unexercised  Options (#) Exercisable           Number of Securities  Underlying Unexercised  Options (#) Unexercisable (1)           Option Exercise Price ($)       Option Expiration Date  
+   Name       Number of Securities  Underlying Unexercised  Options (#) Exercisable           Number of Securities  Underlying Unexercised  Options (#) Unexercisable (1)           Option Exercise Price ($)       Option Expiration Date  
+ Joseph P. Macaluso           800               1,200           $   5.85       4/28/20  
+ Jeffrey C. O'Hara           8,000               12,000           $   5.85       4/28/20  
+ Michael Schirmer           10,000               -           $   4.22       11/01/18  
+             6,000               4,000           $   5.14       5/05/19  
+             4,000               6,000           $   5.85       4/28/20  
+[END TABLE]
+Employment Contracts and Termination of Employment and Change-in-Control
+There are no employment contracts, compensatory plans or arrangements, including payments to be received from the Company with respect to any executive officer of Tel which would in any way result in payments to any such person because of his or her resignation, retirement or other termination of employment with the Company, any change in control of the Company or a change in the person's responsibilities following a change in control of the Company. In July 2018, Mr. Schirmer left the Company as part of the Company's cost reduction program and there was no formal termination agreement
+Options Exercised and Stock Vested During Fiscal Year 2018
+No shares were acquired upon exercising options awards by our NEO's during fiscal year 2018.
+Options granted to NEOs are consistent with the terms of options granted to other employees pursuant to the Employee Stock Option Plans (see Note 15 of the Notes to the Consolidated Financial Statements in the Annual Report). Options granted to NEOs may be tax sheltered to the grantee, and their value constitutes a charge to the Company (see Notes 2 and 14 to the Consolidated Financial Statements in the Annual Report).
+Equity Compensation Plan Information
+In December 2016, the Board adopted the 2016 Stock Option Plan (the "2016 Plan") which reserved for issuance options to purchase up to 250,000 shares of its common stock.  The shareholders approved the 2016 Plan at the January 2017 annual meeting.
+Shareholders had previously adopted the 2006 Stock Option Plan, under which substantially all of the options have been granted. Therefore, the Board approved the 2016 Plan, and the terms are substantially the same as under the 2006 Employees Stock Option.
+The 2016 Plan reserves for issuance options to purchase up to 250,000 shares of its common stock. All employees, directors and consultants are eligible to receive stock option grants under this plan. The 2016 Plan, which has a term of ten years from the date of adoption, is administered by the Board or by a committee appointed by the Board. The selection of participants, allotment of shares, and other conditions related to the grant of options, to the extent not set forth in the 2016 Plan, are determined by the Board. Options granted under the 2016 Plan are exercisable up to a period of five years from the date of grant at an exercise price which is not less than the fair market value of the common stock at the date of grant, except to a shareholder owning 10% or more of the outstanding common stock of the Company, as to which the exercise price must be not less than 110% of the fair market value of the common stock at the date of grant. Options, for the most part, are exercisable on a cumulative basis, 20% at or after each of the first, second, and third anniversary of the grant and 40% after the fourth year anniversary. These terms can be modified based upon approval of the Board.
+The following table provides information as of March 31, 2018 regarding compensation plans under which equity securities of the Company are authorized for issuance.
+[BEGIN TABLE]
+ Plan category       Number of securities to be issued upon exercise of outstanding options           Weighted average exercise price of outstanding options           Number of options remaining available for future issuance under Equity Compensation Plans      
+ Equity Compensation Plans approved by shareholders           62,500           $   5.43               242,500      
+ Equity Compensation Plans not approved by shareholders           --               --               --      
+ Total           62,500           $   5.43               242,500      
+[END TABLE]
+* See discussion above and Note 15 of Notes to the Consolidated Financial Statements in the Annual Report.
+CERTAIN RELATIONSHIPS AND RELATED TRANSACTIONS
+Any corporate transaction which involves a related person, including transactions which would be required under Item 404 of Regulation S-K promulgated by the SEC, must be approved by the independent directors as being fair and reasonable to the Company and its shareholders. Any such approval would be included in the minutes of the Board.
+On February 22, 2010, the Company borrowed $250,000 in exchange for issuing subordinated notes to two executive officers and directors in the amount of $125,000 (individually, the "Subordinated Note" and collectively, the "Subordinated Notes"). The notes were to become due April 1, 2011 with an interest rate of 1% per month, payable on a monthly basis within 14 days of the end of each month. The holders of Subordinated Notes agreed that the Company's failure to pay the monthly interest amounts pursuant to the terms of the Subordinated Notes will not constitute an event of default on such notes. Upon payment in full of the loan to BCA Mezzanine Fund, LLP in November 2014, the Company was able to commence to pay down the principal balance of the Subordinated Notes. During fiscal year 2012, the Company's Chairman, at the time, passed away. His surviving spouse has retained this Subordinated Note and continues to acknowledge the terms. The remaining principal balances on the notes were fully paid during the year ended March 31, 2017. The Company continues to accrue interest. Total interest expense was $3,605 and $18,736 for the years ended March 31, 2018 and 2017, respectively. Accrued interest at March 31, 2018 and 2017 was $31,151 and $45,586, respectively.
+The Company has obtained marketing and sales services from a brother-in-law of the Company's CEO with the related fees and commissions amounting to $149,577 and $154,302 for the years ended March 31, 2018 and 2017, respectively.
+Director Independence
+The Company's common stock is currently quoted on the NYSE American.  On an annual basis, each director and executive officer will be obligated to disclose any transactions with the Company in which a director or executive officer, or any member of his or her immediate family, have a direct or indirect material interest in accordance with Item 407(a) of Regulation S-K. Following completion of these disclosures, the Board will make an annual determination as to the independence of each director pursuant to the Rules of the NYSE American.
+As of July 6, 2018, the Board determined that the following directors are independent under these standards:
+Robert Walker, George Leon and Robert Rice.
+PROPOSAL NO. 3:  NON-BINDING ADVISORY VOTE APPROVING EXECUTIVE COMPENSATION
+We are asking our shareholders to provide advisory approval of the compensation of the NEOs, as we have described it in the "Executive Compensation" section of this proxy statement. While this vote is advisory, and not binding on the Company, it will provide information to our Board and Compensation Committee regarding investor sentiment about our executive compensation policies and practices, which the Committee will be able to consider when determining future executive compensation.
+This proposal, commonly known as a "say-on-pay" proposal, gives the Company's shareholders the opportunity to endorse or not endorse our executive compensation program and policies through the following resolution:
+"Resolved, that the compensation of the Company's NEOs, as disclosed pursuant to compensation disclosure rules of the SEC located in the "Executive Compensation" section of this proxy statement, and the accompanying executive compensation table and narrative discussions, is hereby APPROVED."
+The vote on this Proposal No. 3 is advisory, and therefore not binding on the Company, the Compensation Committee, or the Board. The vote will not be construed to create or imply any change to the fiduciary duties of the Company or the Board, or to create or imply any additional fiduciary duties for the Company or the Board.  However, the Board and the Compensation Committee value input from shareholders and will consider the outcome of the vote when making future executive compensation decisions. The affirmative vote of a majority of the shares present or represented and entitled to vote either in person or by proxy is required to approve this Proposal 3.
+THE BOARD RECOMMENDS A VOTE "FOR" THE ADOPTION OF THE FOREGOING RESOLUTION APPROVING THE COMPANY'S EXECUTIVE COMPENSATION POLICIES AND PROCEDURES AND THE 2018 COMPENSATION PAID TO THE NEO's.
+PROPOSAL 4:  NON-BINDING ADVISORY VOTE REGARDING THE FREQUENCY OF ADVISORY VOTES ON EXECUTIVE COMPENSATION
+The Board of Directors and the Compensation Committee are seeking shareholder opinions on the frequency of future advisory votes regarding the Company's executive compensation. Consistent with the intent of the Dodd-Frank Act and SEC rules, the Board of Directors is providing shareholders with the opportunity to cast a non-binding advisory vote. The compensation of the Company's NEO is disclosed in the "Executive Compensation" section of this proxy statement, and the accompanying compensation tables and the related disclosures. The Board of Directors asks the shareholders to indicate the frequency with which they would like future votes. We are providing shareholders with the option of selecting a frequency of one, two or three years, or abstaining. The advisory vote on the frequency of the advisory vote on executive compensation that receives a plurality (that is, the largest number) of votes cast will be the preference selected by shareholders. Abstentions and broker non-votes are not considered to be votes cast and therefore will have no effect on the outcome of this advisory vote.  In the interests of transparency and recognizing the importance of shareholder involvement with the Company, we recommend that our shareholders select a frequency of voting on executive compensation every one year.
+THE BOARD OF DIRECTORS RECOMMENDS A VOTE OF "EVERY ONE YEAR" FOR FUTURE ADVISORY VOTES ON THE COMPANY'S EXECUTIVE COMPENSATION.
+SHAREHOLDER PROPOSALS
+Proxy Materials for the Fiscal Year 2019 Annual Meeting
+If a shareholder wishes to present a proposal for inclusion in the proxy materials for the 2019 annual meeting of shareholders, the proposal must be sent by certified mail, return receipt requested, and must be received at the executive officers of Tel-Instrument Electronics Corp., One Branca Road, East Rutherford, NJ 07073, Attn:  Joseph P. Macaluso, no later than October 1, 2019.  All proposals must conform to the rules and regulations of the Securities and Exchange Commission.  See "Nominating Committee" above.
+Fiscal Year 2019 Annual Meeting
+A shareholder must give written notice to the Company of a proposal, not subject to SEC Rule 14a-8, or of a nomination, which the shareholder intends to submit at the annual meeting, at least 45 days before the anniversary of the date on the prior year's Proxy Statement.  If the Company does not receive such written notice prior to such 45 day period, all proxy cards will be voted at the meeting, as directed by the Board, in respect of such proposal or nomination.
+To be timely for the 2019 Annual Meeting, written notice must be received by the Company at the above address, prior to October 1, 2019.
+No shareholder proposals or notices were received in connection with the 2018 Annual Meeting.
+Shareholder Communications
+Any shareholder wishing to communicate with the Board may send a written communication, stating their name, the amount and duration of their share ownership and the substance of their communication to the Company at the address stated above under "Proxy Materials" and the communication will be distributed to each director.
+ANNUAL REPORT ON FORM 10-K AND QUARTERLY REPORT ON FORM 10-Q
+A copy of our Annual Report on Form 10-K for the fiscal year ended March 31, 2018, and a copy of our quarterly report on Form 10-Q for the period ended September 30, 2018, as filed with the Securities and Exchange Commission, including the financial statements and financial statement schedules thereto, accompany the notice of this annual meeting, proxy statement and the related proxy card, but are not proxy solicitation material.  We will furnish to any person whose proxy is being solicited, any exhibit described in the exhibit index accompanying the Form 10-K, upon the payment, in advance, of fees based on our reasonable expenses in furnishing such exhibit.  Requests for copies of exhibits should be directed to Joseph P. Macaluso at the Company address at One Branca Road, East Rutherford, NJ 07073.
+[BEGIN TABLE]
+     TEL-INSTRUMENT ELECTRONICS CORP.      
+     By:   /s/ Jeffrey C. O'Hara                             
+         Jeffrey C. O'Hara      
+         Chief Executive Officer      
+[END TABLE]
+East Rutherford, New Jersey
+December 18, 2018
+APPENDIX A
+TEL-INSTRUMENT ELECTRONICS CORP.
+AUDIT COMMITTEE CHARTER
+This Charter shall be reviewed, updated and approved by the Board of Directors of Tel-Instrument Electronics Corp. (the "Company") on an annual basis or as the Board otherwise deems appropriate:
+Mandate
+The Audit Committee of the Board of Directors shall be responsible for assisting the Board in overseeing the Company's accounting and financial-reporting process, and the audits of its financial statements.  The Committee shall be directly responsible for the appointment, compensation and oversight of the independent public accountant employed by the Company (including resolution of disagreements between Management and the accountant regarding financial reporting) for the purpose of preparing and issuing an audit report and each such independent accountant shall report directly to the Audit Committee.
+1.  AUDIT COMMITTEE CHARTER
+The Audit Committee shall establish procedures for the receipt, retention and treatment of complaints received by the Company regarding accounting or auditing matters, including anonymous or otherwise, from employees.
+The Committee shall maintain free and open communication (including executive sessions at least annually) with the Company's independent accountants and Chief Executive Officer and Chief Financial Officer.
+In the exercise of its oversight, the Committee is not responsible for preparing the Company's financial statements, planning or conducting audits or determining that the Company's financial statements fairly present the Company's financial position and results of operation and are in accordance with generally accepted accounting principles.  Such duties remain the responsibility of Management and the Company's independent accountant.  In discharging its oversight role, the Committee is empowered to investigate any matter within its mandate, brought to its attention, with full power to retain outside counsel or other experts for this purpose.
+Membership
+The Audit Committee is a standing committee of the Board of Directors and shall consist of at least three directors, appointed annually by the Board, all of whom are "independent" as defined in the Sarbanes-Oxley Act of 2002 (the "Act") and are generally knowledgeable in financial, and accounting matters, including at least one member who shall be a "financial expert" as defined in Rules of the S.E.C. to be promulgated.  A member shall be deemed a "financial expert" if, through education and experience as a public accountant or accountant or a principal financial officer, controller, or principal accounting officer of an issuer, or from a position involving the performance of similar functions, he or she has:
+1)  an understanding of generally accepted accounting principles and financial statements
+2)  experience in –
+a. the preparation or auditing of financial statements of generally comparable issuers; and b.  the application of such principles in connection with the accounting for estimate, accruals, and reserves;
+3)  experience with internal accounting controls, and
+4)  an understanding of audit committee functions
+The Board shall appoint one member as Chair, who shall be responsible for leadership of the Committee, including preparing the agenda, presiding over the meetings, making assignments, and reporting to the full Board.
+Meetings
+Meetings shall be held at least once a year.  Special meetings may be convened as required.  Meetings shall be held at such time and place, and upon such notice, as the Chair may from time to time determine.  Meetings of the Audit Committee may be in person or by conference call in accordance with the By-Laws of the Company.  A quorum for any meeting will be a majority of its members, and action may be taken by approval of a majority of a quorum.  The secretary of the Audit Committee will be the Company secretary, or such other person as is appointed by the Audit Committee.  Except as specifically provided in the Charter, the provisions of the By-Laws with respect to Committees of the Board of Directors shall apply to the Audit Committee.
+Responsibilities
+To best carry out its responsibilities, the Committee's policies and procedures should remain flexible in order to address changing conditions and should take into account the size of the Company and the degree of complexity in its accounting policies and procedures.  Specific responsibilities of the Committee include;
+1.  Appointment of the independent accountant a. Select, evaluate and recommend the appointment of the independent accountant to be ratified by the shareholders to audit the Company's financial statements, or where appropriate, the replacement of the independent accountant, and approve the compensation of, and retention agreement with the independent accountant for audit services.
+b. Evaluate the independence of the independent accountant, including a review of non audit-related services provided by and related fees charged by the independent accountant.
+c. Obtain a formal written statement, as required by the Independence Standards Board, from the independent accountant delineating relationships between the accountant and the Company and actively engage in dialogue with the independent accountant regarding matters that might reasonably be expected to affect its independence.
+d. Pre-approve all audit and non-audit services to be provided by the independent accountant.  The Audit Committee may delegate the authority to grant such pre-approvals to one or more members of the Committee, provided that the pre-approval decision and related services are presented to the Audit Committee at its next regularly scheduled meeting.
+2. Review and approve the audit activities at the Company
+Meet with the independent accountant and financial management of the Company to review the scope of the proposed audit for the current year and the audit procedures to be utilized, and upon the completion thereof review.
+3. Review financial results
+Prior to the release of the Company's unaudited quarterly financial results, review the results with Management and the independent accountant. Ensure that the independent accountant conducts a SAS 71 ("Interim Financial Information") review prior to the filing of the Company's Form 10-Q. Prior to release of the Company's fiscal year end operating results, review and discuss with Company Management and the independent accountant the audited financial results for the fiscal year, including their judgment about the quality, not just acceptability, of accounting principles, the reasonableness of significant judgments and estimates, and the clarity of the disclosures in the financial statements. At least annually discuss with the independent accountant the matters described in ASA 61 ("Communication with Audit Committees"). Review with Management and the independent accountant the Company's critical accounting policies and the disclosure regarding those policies in the Company's periodic filings with the S.E.C.
+4. Review systems and reports
+Review with senior Management and the independent accountant the Company's accounting and financial system of internal controls, and their adequacy and effectiveness. Review and discuss the audited financial statements with management and, if appropriate, the independent accountant, prior to recommending the inclusion of the audited financial statements in the Company's Annual report on Form 10-K. Provide sufficient opportunity for the independent accountant to meet with the Audit Committee without members of Management present. Among the items to be discussed in these meetings are the independent accountant's evaluation of the Company's financial, accounting and auditing personnel and the cooperation that the independent accountant received during the course of the audit and quarterly reviews.
+5. Review corporate financial policies relating to compliance with laws and regulations, ethics, conflicts of interest and the investigation of misconduct and fraud.
+6. Regularly prepare minutes of all meetings and report its activities to the Board of Directors.
+7. Establish procedures to receive and process complaints regarding accounting, internal auditing controls or auditing matters and for employees to make confidential, anonymous complaints regarding questionable accounting or auditing matters.
+8. Perform such other specific functions within its mandate as the Board of Directors may from time to time direct, including reviewing and approving all transactions between the Company and any related party, and making such investigations and reviews of the Company and its operations as the Board of Directors may from time to time request.
+Resources
+The Company's Chief Financial Officer will be Management's primary liaison to the Committee. The Committee will have access to financial information and resources it deems necessary for it to properly carry out its duties.
+YOUR VOTE IS IMPORTANT. PLEASE VOTE TODAY.
+[BEGIN TABLE]
+   TEL-INSTRUMENT  ELECTRONICS CORP.     2018 Annual Meeting of  Stockholders   January 16, 2019 4:00 P.M. EST   This Proxy is Solicited On Behalf  of The Board of Directors  
+   TEL-INSTRUMENT  ELECTRONICS CORP.     2018 Annual Meeting of  Stockholders   January 16, 2019 4:00 P.M. EST   This Proxy is Solicited On Behalf  of The Board of Directors  
+   TEL-INSTRUMENT  ELECTRONICS CORP.     2018 Annual Meeting of  Stockholders   January 16, 2019 4:00 P.M. EST   This Proxy is Solicited On Behalf  of The Board of Directors  
+   TEL-INSTRUMENT  ELECTRONICS CORP.     2018 Annual Meeting of  Stockholders   January 16, 2019 4:00 P.M. EST   This Proxy is Solicited On Behalf  of The Board of Directors  
+   TEL-INSTRUMENT  ELECTRONICS CORP.     2018 Annual Meeting of  Stockholders   January 16, 2019 4:00 P.M. EST   This Proxy is Solicited On Behalf  of The Board of Directors  
+   TEL-INSTRUMENT  ELECTRONICS CORP.     2018 Annual Meeting of  Stockholders   January 16, 2019 4:00 P.M. EST   This Proxy is Solicited On Behalf  of The Board of Directors  
+[END TABLE]
+[BEGIN TABLE]
+ Please Be Sure To Mark, Sign, Date and Return Your Proxy Card  in the Envelope Provided  
+ Please Be Sure To Mark, Sign, Date and Return Your Proxy Card  in the Envelope Provided  
+[END TABLE]
+▲ FOLD AND DETACH HERE AND READ THE REVERSE SIDE▲
+[BEGIN TABLE]
+ PROXY   Please mark  your votes  like this    ☒  
+ PROXY   Please mark  your votes  like this    ☒  
+[END TABLE]
+THE BOARD OF DIRECTORS RECOMMENDS A VOTE "FOR" PROPOSALS 1, 2 AND 3. THE BOARD OF DIRECTORS RECOMMENDS A VOTE OF "1 YEAR" FOR PROPOSAL 4.
+[BEGIN TABLE]
+ 1.     Election of Directors (1)          Robert H. Walker (2)          Jeffrey C. O'Hara (3)          George J. Leon (4)          Robert A. Rice (5)          Stephen A. Fletcher   FOR all Nominees listed to the left ☐   WITHHOLD AUTHORITY  to vote (except as marked to the contrary for all nominees listed to the left) ☐       4.     To cast a non-binding advisory vote on a proposal regarding the frequency of advisory votes on executive compensation     ☐ 1 year     ☐ 2 years     ☐ 3 years     ☐ Abstain  
+ 1.     Election of Directors (1)          Robert H. Walker (2)          Jeffrey C. O'Hara (3)          George J. Leon (4)          Robert A. Rice (5)          Stephen A. Fletcher   FOR all Nominees listed to the left ☐   WITHHOLD AUTHORITY  to vote (except as marked to the contrary for all nominees listed to the left) ☐       4.     To cast a non-binding advisory vote on a proposal regarding the frequency of advisory votes on executive compensation     ☐ 1 year     ☐ 2 years     ☐ 3 years     ☐ Abstain  
+ 1.     Election of Directors (1)          Robert H. Walker (2)          Jeffrey C. O'Hara (3)          George J. Leon (4)          Robert A. Rice (5)          Stephen A. Fletcher   FOR all Nominees listed to the left ☐   WITHHOLD AUTHORITY  to vote (except as marked to the contrary for all nominees listed to the left) ☐       4.     To cast a non-binding advisory vote on a proposal regarding the frequency of advisory votes on executive compensation     ☐ 1 year     ☐ 2 years     ☐ 3 years     ☐ Abstain  
+ 1.     Election of Directors (1)          Robert H. Walker (2)          Jeffrey C. O'Hara (3)          George J. Leon (4)          Robert A. Rice (5)          Stephen A. Fletcher   FOR all Nominees listed to the left ☐   WITHHOLD AUTHORITY  to vote (except as marked to the contrary for all nominees listed to the left) ☐       4.     To cast a non-binding advisory vote on a proposal regarding the frequency of advisory votes on executive compensation     ☐ 1 year     ☐ 2 years     ☐ 3 years     ☐ Abstain  
+ (Instruction: To withhold authority to vote for any individual nominee, strike a line through that nominee's name in the list above)                              
+ 2.     Ratify appointment by the company of BDO USA, LLP as registered independent public accounting firm for the 2019 fiscal year.   FOR ☐   AGAINST ☐   ABSTAIN ☐                    
+ 2.     Ratify appointment by the company of BDO USA, LLP as registered independent public accounting firm for the 2019 fiscal year.   FOR ☐   AGAINST ☐   ABSTAIN ☐                    
+                         CONTROL NUMBER      
+ 3.     To cast a non-binding advisory vote on a proposal to approve the Company's executive compensation   FOR ☐   AGAINST ☐   ABSTAIN ☐                      
+ Signature       Signature, if held jointly       Date       , 2018/19  
+[END TABLE]
+Important Notice Regarding the Availability of Proxy Materials for the 
+Annual Meeting of Stockholders to be held January 16, 2019.
+The proxy statement, the Company's Annual Report on Form 10-K for the fiscal year ended March 31, 2018 and Quarterly Report on Form 10-Q 
+for the period ended September 30, 2018 accompany this proxy card.
+▲ FOLD AND DETACH HERE AND READ THE REVERSE SIDE▲
+PROXY
+THIS PROXY IS SOLICITED ON BEHALF OF THE BOARD OF DIRECTORS
+TEL-INSTRUMENT ELECTRONICS CORP.
+The undersigned hereby appoints Robert H. Walker and Jeffrey C. O'Hara each with full power to act without the other, and with full power of substitution as the attorneys and proxies of the undersigned and hereby authorizes them to represent and to vote, all the shares of common stock of Tel-Instrument Electronics Corp. that the undersigned would be entitled to vote, if personally present at the Annual Meeting for Stockholders to be held on January 16, 2019, upon such business as may properly come before the meeting, including any adjournment or postponement of the meeting.
+THIS PROXY WHEN PROPERLY EXECUTED WILL BE VOTED AS INDICATED. IF NO CONTRARY INDICATION IS MADE, THE PROXY WILL BE VOTED IN FAVOR OF ELECTING THE FIVE NOMINEES TO THE BOARD OF DIRECTORS, AND IN FAVOR OF PROPOSALS 2 AND 3, AND IN FAVOR OF "1 YEAR" FOR PROPOSAL 4, AND IN ACCORDANCE WITH THE JUDGMENT OF THE PERSONS NAMED AS PROXY HEREIN ON ANY OTHER MATTERS THAT MAY PROPERLY COME BEFORE THE ANNUAL MEETING. THIS PROXY HEREBY REVOKES ALL VOTING INSTRUCTIONS PREVIOUSLY GIVEN BY THE SIGNER TO VOTE AT SAID MEETING OR ANY POSTPONEMENT OR ADJOURNMENT THEREOF.
+(Continued and to be marked, dated and signed, on the other side)
+December 19, 2018
+To Our Shareholders:
+The Annual Shareholders Meeting for Tel-Instrument Electronics Corp. ("TIC" or the "Company") is scheduled to take place on Wednesday, January 16, 2019 at 4:00 p.m. at our facility located at One Branca Road, East Rutherford, New Jersey 07073. We encourage all shareholders to attend this meeting and complete and return the enclosed Proxy.
+General Overview
+After an extremely difficult two years, which entailed declining revenues and a $4.9 million adverse legal judgement, we are now poised for a strong rebound as we begin taking full advantage of the millions of dollars of investment in our industry-leading Mode 5 technology. The Company expects revenues and profitability to increase rapidly starting in the current fiscal quarter. This is the result of new bookings and pending contracts totaling over $10 million in the current fiscal quarter, with additional volume orders expected going forward as the international market finally begins to ramp-up to comply with the January 1, 2020 deadline for Mode 5 compliance. The international market has been estimated to be approximately $40 million and this continues to be the focus of our marketing efforts. We were excited to win the multi-year German solicitation for an upgraded version of the TS-4530A test sets, which had been delayed for several months due to a protest that was ultimately unsuccessful. This has a potential maximum value of almost $5 million and is expected to result in over $3 million of purchase orders for the 2019 calendar year. We have several other multi-million solicitations from key international markets, which are expected in the first quarter of next year, and we are optimistic on our prospects as most of these countries are specifying our products.
+The long-term growth potential for the Company lies in our new SDR/OMNI hand-held test set, which is scheduled to start shipping in the first half of calendar year 2019. This product competes against two Aeroflex products that have dominated the commercial avionics segment for the last 15 years, with thousands of these units sold to both commercial and military customers. This product provides us with the opportunity to expand out of our relatively narrow military avionics test market niche and enter the much larger secure communications radio test market. We are actively working to line up partners to enter this growth market, and we believe that our new hardware platform provides unmatched capabilities in a market-leading form factor. We are also working closely with our other military customers on new potential market opportunities, which will be needed to maintain our sales and profitability growth.
+The Company anticipates strong profitability starting this current fiscal quarter and expects to report profitable operations for the current fiscal year despite a disappointing first half. These strong results are expected to continue going forward due to a sharp improvement in revenues and improved gross margins as a result of much higher sales prices on our products which face limited competition. Our goal is to return to our traditional 50% gross margin level and we believe that this is achievable in the near term. These improved results would allow us to strengthen our financial position and allow us to pay the Aeroflex damages award if we were to be unsuccessful in our appeal of this adverse decision.
+Key Products
+The Company has a very strong position in both the Mode 5 IFF and TACAN test set markets. Some of the key TIC products are detailed below.
+[BEGIN TABLE]
+ ►   T-47/M5: This new test set recently received AIMS certification. This test set is designed to work with all three Mode 5 cryptographic solutions in use world-wide (e.g., KIV 77/KIV78/SIT2010) and can be used to upgrade the 2,000 AN/APM-480 and T-47 series Mode 4 IFF test sets that TIC has sold both domestically and overseas. Based upon customer input, we have added new test capabilities to perform the AIMS platform certification testing that is not available in our other Mode 5 test sets. This test set has been sold to eight different countries and is expected to be the test set of choice for several key international markets including Japan, South Korea, Australia, and Poland. Each of these markets represents several million dollars of potential near to medium-term revenues. We are also receiving orders from the U.S. Army for this test set to perform Mode 5 platform integration and certification. Other key markets for the T-47/M5 include Canada, Turkey, Israel, and the balance of the NATO countries.  
+[END TABLE]
+[BEGIN TABLE]
+ ►   TS-4530A: The U.S. Army contract ended last year with over 3,000 kits and sets delivered. This contract included a price of $11,312 for the TS-4530A sets. We are seeing continued demand from both the U.S. military and international customers with 235 test sets ordered thus far this fiscal year at a price of around $22k per unit (roughly $5 million in bookings YTD). In addition, we will be selling a modified version of the TS-4530A unit to the Germany military under a multi-year contract for up to 275 test sets. The maximum contract value is almost $5 million and the Company anticipates over $3 million in bookings for the 2019 calendar year. The U.K. is also planning a Mode 5 flight-line test set solicitation in early 2019 which should also entail a substantial number of test sets. This is likely to be a hotly contested competition as both Aeroflex and TIC have Mode 5 test sets in use in the U.K.  
+[END TABLE]
+[BEGIN TABLE]
+ ►   AN/USM-708/719 ("CRAFT"): The Navy has exhausted its available funding on its second IDIQ contact and TIC has shipped approximately $40 million of test sets to the Navy. We believe that the CRAFT test set also has significant potential for sales into the balance of the U.S. Military, NATO, and internationally, as the new Mode 5 IFF systems are installed in overseas aircraft platforms. Lockheed Martin recently awarded TIC an $810k contract for AN/USM-708 test sets for the F-35 program and we expect a larger follow-on order to be placed in the next few weeks. Sikorsky has also indicated that it will be ordering CRAFT test sets for its new helicopters that are entering service next year. We are also in very preliminary discussions with the U.S. Navy regarding their next generation test set. The U.S. Navy is tentatively planning on replacing the CRAFT test sets in the 2023 timeframe.  
+[END TABLE]
+SDR/OMNI
+[BEGIN TABLE]
+ ►   SDR/OMNI: TIC has continued development on its next generation modular hand-held test set although progress has been slower than expected due to the focus of our engineering staff on securing AIMS certification on the T-47/M5 test set. With this work completed, this program is now our primary engineering focus. The SDR/OMNI has very wide frequency to accommodate new commercial and military waveforms in an industry leading 4-pound package. This is half the weight of competitive test sets. It utilizes the latest touch screen technology and has the capability to replace all TIC commercial test sets and military flight-line test sets with one handheld product. The initial product will be a commercial avionics air traffic control test set which adds ADS-B UAT test capability for the large general aviation test market that is subject to the January 1, 2020 requirement for ADS-B out capability. This will compete with the Aeroflex IFR 6000 test set and will replace the TIC TR-220 product.  
+[END TABLE]
+The SDR/OMNI hardware design is finalized and we are currently conducting testing on the software which has been ported from our other avionic test sets. The current schedule is to finalize testing in the first quarter of 2019 and begin production deliveries next summer. We will then add software APPS to include Navigation/Communication test capability to compete with the IFR 4000 test tests for our commercial aviation and military customers. This combined air traffic control/Nav/Comm test set should be a game changer for our commercial avionics customers as they will be able to replace two test sets with one less expensive multi-purpose test set. Having said this, the much larger growth potential is in the secure military and homeland security radio test market which is many times the size of our existing avionics test market. The biggest medium term opportunity is for the Marine 3515 secure comm replacement program which is expected to occur in the next two years. This could represent a $40 million opportunity for the Company. We are currently in discussions with various companies about collaborating in these markets.
+Major Bookings/Expected Orders This Quarter
+Bookings and pending new contracts for the third quarter are estimated to exceed $10 million. This total does not include the large Lockheed Martin follow-on order (which is now in contracting). The following are a listing of some of the multi-unit orders received or in process for the third quarter of this fiscal year.
+[BEGIN TABLE]
+   ►   $4.3 million TS-4530A order for the U.S. DOD.  
+   ►   $206k TS-4530A order from a major defense contractor.  
+   ►   $810k CRAFT order from Lockheed Martin for the F-35 program.  
+   ►   $615k T-47/M5 follow-on order from the Asia Pacific region.  
+   ►   $290k T-47NH multi-purpose test set for the U.S. DOD.  
+   ►   $120k TR-100AF TACAN test set orders for the U.S. DOD.  
+   ►   $250k of commercial orders for TR-220 and TR-36 test sets.  
+   ►   $500k of repair and calibration purchase orders.  
+   ►   Over $3.0 million of expected orders from Germany for modified TS-4530A units. The multi-year contract has been issued to our U.K. distributor and the 2019 purchase order is expected to be issued in the next several weeks.  
+[END TABLE]
+Aeroflex Litigation
+The Company has established a $2 million cash bond and has filed an appeal on the $4.9 million in damages awarded by the court. The appeal brief is due to be filed in mid-January. We believe that the trial judge erred in his legal rulings on standing and other issues during the trial and that we have strong grounds for appeal. The cost for filing the appeal will be in the $100k range with almost all of this expense being incurred in the last two quarters. Our attorneys estimate that it will take several years for this appeal to work its way through the Kansas court system, but that ongoing future legal expenses will be nominal.
+Preferred Stock Investment
+To finance the current ramp-up in our business, the Company secured a $1 million follow-on preferred stock investment from a private investor. This funding was needed to strengthen our balance sheet and allow us to return to standard payment terms for our suppliers. It has also allowed us to finance the sharp growth in our accounts receivable over the last few months. Under the terms of this financing, the Company issued 166,667 shares of Series B Preferred Stock at $6 per share. These shares carry a dividend rate of 8% and can be converted into shares of common stock at a price of $2 per share. These preferred shares have voting rights based on the conversion number of common shares based on the market price at the time of issuance. The Company has the option of repurchasing these preferred shares after three years at face value plus accrued dividends.
+NYSE Listing
+The New York Stock Exchange had set a deadline of January 29, 2019 for the Company to meet its $4 million minimum net worth requirement. Despite the strong financial prospects for the Company, we expect the NYSE to issue a delisting notice this month. We plan to appeal this decision based upon the strong turn-around in our business prospects which we expect to resolve the minimum net worth requirement during calendar year 2019. In the event that delisting ultimately occurs, the Company's common stock would continue to trade on the OTC Markets. If we are not successful in our appeal, the Company will actively explore other trading platforms during calendar year 2019.
+2018 Fiscal Year Results 
+Enclosed is the Company's Annual Report on Form 10-K for the fiscal year ending March 31, 2018 ("FY18"), as filed with the Securities and Exchange Commission on July 16, 2018. For the 2018 FY, sales decreased to $10,024,588 as compared to $18,745,456 for the year ended March 31, 2017. Gross margin decreased to $3,129,809 for the 2018 FY as compared to $6,684,115 for the year ended March 31, 2017. The decreases in sales and gross margin were mostly attributed to the decrease in volume units associated with the military programs, which contracts had been mostly completed and unexpected delays in the commencement of international Mode 5 orders.
+The net loss for FY 2018 was $4,385,811 which compared to a net loss of $4,759,439 in fiscal year 2017. These totals were heavily impacted by litigation costs, legal damages and the elimination of our $2.6 million deferred tax asset in FY 2017. If these costs were eliminated, the Company would have reported a net loss of $1.53 million in FY 2018 as compared to a net profit of $1.93 million in FY 2017.
+Interim 2019 Fiscal Year Results
+For the six months ended September 30, 2018, total net sales decreased to $4,037,155 as compared to $5,329,242 for the six months ended September 30, 2017. For the six months ended September 30, 2018, total gross margin decreased to $1,480,526 as compared to $1,641,160 for the six months ended September 30, 2017 primarily as the lower volume was partially offset by the reduction in manufacturing overhead and improvement in manufacturing efficiencies as well as higher prices.
+For the six months ended September 30, 2018, the Company recorded a net loss of $937,483 as compared to a net loss of $3,206,680 for six months ended September 30, 2017. As discussed above, the Company anticipates a strong rebound in revenues and profitability for the second half of this current fiscal year based in part on the strong bookings recorded in the current fiscal quarter and continued improvement in our gross margin percentages. We expect to return to profitable operations for the full fiscal year and expect to report strong results for the 2020 fiscal year.
+Shareholder Relations
+The Company has continued to issue press releases covering quarterly earnings and other significant events. The Company currently trades on the NYSE MKT with symbol TIK. Closing prices during the last 12 months have ranged between $2.10 and $6.35 per share.
+  The Board of Directors and Company management appreciate your continued support and we hope to see you at the Annual Shareholder Meeting at Tel-Instrument's offices at 4:00 p.m. on January 16, 2019. Whether or not you are able to attend in person, we urge you to read the enclosed materials, sign and date the enclosed Proxy, and return it promptly in the enclosed envelope. If you do attend in person, you may withdraw your Proxy and vote personally on any matters properly brought before the annual meeting.
+Sincerely,
+     /s/ Robert H. Walker                                               /s/ Jeffrey C. O'Hara                 
+     Robert H. Walker, Chairman                                  Jeffrey C. O'Hara, President and CEO
+ 

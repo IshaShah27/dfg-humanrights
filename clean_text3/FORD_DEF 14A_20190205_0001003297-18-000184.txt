@@ -1,0 +1,456 @@
+UNITED STATES
+SECURITIES AND EXCHANGE COMMISSION
+Washington, D.C. 20549
+SCHEDULE 14A
+Proxy Statement Pursuant to Section 14(a) of the Securities
+Exchange Act of 1934 (Amendment No.)
+[BEGIN TABLE]
+  Filed by Registrant    ☑      
+  Filed by Party other than    Registrant    ☐      
+  Check the appropriate box:            
+[END TABLE]
+[BEGIN TABLE]
+   ☐   Preliminary Proxy Statement     ☐   Confidential, for Use of    the Commission 
+              Only (as permitted by    Rule 14a-6(e)(2)) 
+   ☑   Definitive Proxy Statement     ☐   Definitive Additional    Materials 
+   ☐   Soliciting Materials    Pursuant to §240.14a-12           
+[END TABLE]
+FORWARD INDUSTRIES, INC.
+(Name of Registrant as Specified In Its Charter)
+(Name of Person(s) Filing Proxy Statement, if other than the Registrant)
+[BEGIN TABLE]
+  Payment of Filing Fee    (Check the appropriate box): 
+   ☑   No fee required. 
+   ☐   Fee computed on table below    per Exchange Act Rules 14a-6(i)(1) and 0-11. 
+       (1)   Title of each class of    securities to which transaction applies: 
+       (2)   Aggregate number of    securities to which transaction applies: 
+       (3)   Per unit price or other    underlying value of transaction computed pursuant to Exchange Act    Rule 0-11 (Set forth the amount on which the filing fee is calculated    and state how it was determined): 
+            $_____ per share as    determined under Rule 0-11 under the Exchange Act. 
+       (4)   Proposed maximum aggregate    value of transaction: 
+       (5)   Total fee paid: 
+   ☐   Fee paid previously with    preliminary materials. 
+[END TABLE]
+[BEGIN TABLE]
+   ☐   Check box if any part of the    fee is offset as provided by Exchange Act Rule 0-11(a)(2) and identify    the filing for which the offsetting fee was paid previously. Identify the    previous filing by registration statement number, or the Form or    Schedule and the date of its filing. 
+[END TABLE]
+[BEGIN TABLE]
+       (1)   Amount previously paid: 
+       (2)   Form, Schedule or    Registration Statement No.: 
+       (3)   Filing Party: 
+       (4)   Date Filed: 
+[END TABLE]
+Forward Industries, Inc. 
+477 Rosemary Avenue 
+Suite 219 
+West Palm Beach, Florida 33401 
+(561) 465-0030
+To The Shareholders of Forward Industries, Inc.:
+We are pleased to invite you to attend the 2019 Annual Meeting of the shareholders of Forward Industries, Inc., which will be held at 10:00 a.m. on February 5, 2019 at 1301 Avenue of the Americas in New York, New York, for the following purposes:
+1.     To elect 4 members to our Board of Directors;
+2.     To ratify and approve the increase in the number of shares that may be issued pursuant to Full Value Awards under the 2011 Long Term Incentive Plan from 400,000 to 800,000 shares; 
+3.     To ratify the appointment of our independent registered public accounting firm for fiscal year 2019; and
+4.     For the transaction of such other matters as may properly come before the Annual Meeting.
+Forward's Board of Directors has fixed the close of business on December 10, 2018 as the record date for a determination of shareholders entitled to notice of, and to vote at, this Annual Meeting or any adjournment thereof.
+Important Notice Regarding the Availability of Proxy Materials for the Annual Meeting of Shareholders to Be Held on February 5, 2019: This Proxy Statement and Form 10-K are available at: https://www.proxyvote.com
+If You Plan to Attend
+Please note that space limitations make it necessary to limit attendance to shareholders. Registration and seating will begin at 9:00 a.m. Shares can be voted at the meeting only if the holder is present in person or by valid proxy.
+For admission to the meeting, each shareholder may be asked to present valid picture identification, such as a driver's license or passport, and proof of stock ownership as of the record date, such as the enclosed proxy card or a brokerage statement reflecting stock ownership. Cameras, recording devices and other electronic devices will not be permitted at the meeting.
+If you do not plan on attending the meeting, please vote your shares via the Internet, by phone or by signing and dating the enclosed proxy and return it in the business envelope provided. Your vote is very important.
+[BEGIN TABLE]
+ By the Order of the Board of Directors  
+ /s/ Terence Wise  
+ Terence Wise  
+ Chief Executive Officer  
+[END TABLE]
+Dated: December 20, 2018
+Whether or not you expect to attend in person, we urge you to vote your shares at your earliest convenience. This will ensure the presence of a quorum at the meeting. Promptly voting your shares via the Internet, by phone or by signing, dating, and returning the enclosed proxy card will save us the expenses and extra work of additional solicitation. An addressed envelope for which no postage is required if mailed in the United States is enclosed if you wish to vote by mail. Submitting your proxy now will not prevent you from voting your shares at the meeting if you desire to do so, as your proxy is revocable at your option. Your vote is important, so please act today!
+TABLE OF CONTENTS
+[BEGIN TABLE]
+  Questions and Answers Regarding    the Annual Meeting of Shareholders   1 
+  Proposal 1.  Election of    Directors   5 
+  Director Nominees   5 
+  Executive Officers   6 
+  Corporate Governance   6 
+  Transactions with Related    Persons   9 
+  Director Compensation   10 
+  Executive Compensation   11 
+  Outstanding Awards at Fiscal    Year End   12 
+  Risk Assessment Regarding    Compensation Policies and Practices as they Relate to Risk Management   13 
+  Proposal 2.  Ratification    and Approval of an Amendment to Increase the Shares Available for Issuance    Under Full Value Awards Under the 2011 Long Term Incentive Plan   14 
+  Proposal 3.  Ratification    of the Appointment of our Independent Registered Public Accounting Firm for    Fiscal Year 2019     19 
+  Audit Committee Report   19 
+  Other Matters   20 
+[END TABLE]
+Forward Industries, Inc. 
+477 Rosemary Avenue 
+Suite 219 
+West Palm Beach, Florida 33401 
+(561) 465-0030
+2019 ANNUAL MEETING OF SHAREHOLDERS  
+PROXY STATEMENT
+Why am I receiving these materials?
+These proxy materials are being sent to the holders of shares of the voting stock of Forward Industries, Inc., which we refer to as "Forward" or the "Company," in connection with the solicitation of proxies by our Board of Directors, which we refer to as the "Board," for use at the 2019 Annual Meeting of Shareholders to be held at 10:00 a.m. on February 5, 2019 at 1301 Avenue of the Americas in New York. The proxy materials relating to the Annual Meeting are first being mailed to shareholders entitled to vote at the meeting on or about December 21, 2018. A copy of our Form 10-K for the year ended September 30, 2018 is being mailed concurrently with this Proxy Statement.
+Who is Entitled to Vote?
+Our Board has fixed the close of business on December 10, 2018 as the record date for a determination of shareholders entitled to notice of, and to vote at, this Annual Meeting or any adjournment thereof. On the record date, there were 9,533,851 shares of common stock outstanding. Each share of Forward common stock represents one vote that may be voted on each matter that may come before the Annual Meeting. As of the record date, Forward has no outstanding preferred stock.
+What is the difference between holding shares as a record holder and as a beneficial owner?
+If your shares are registered in your name with our transfer agent, American Stock Transfer, you are the "record holder" of those shares. If you are a record holder, these proxy materials have been provided directly to you by Forward.
+If your shares are held in a stock brokerage account, a bank or other holder of record, you are considered the "beneficial owner" of those shares held in "street name." If your shares are held in street name, these proxy materials have been forwarded to you by that organization. As the beneficial owner, you have the right to instruct this organization on how to vote your shares.
+Who May Attend the Meeting?
+Record holders and beneficial owners may attend the Annual Meeting. If your shares are held in street name, you will need to bring a copy of a brokerage statement or other documentation reflecting your stock ownership as of the record date. Please see below for instructions on how to vote at the Annual Meeting if your shares are held in street name.
+How Do I Vote?
+Record Holder
+1. Vote by Internet. The website address for Internet voting is on your proxy card.
+2. Vote by phone. Call 1 (800) 690-6903 and follow the instructions on your proxy card.
+3. Vote by mail. Mark, date, sign and mail promptly the enclosed proxy card (a postage-paid envelope is provided for mailing in the United States).
+4. Vote in person. Attend and vote at the Annual Meeting.
+If you vote by Internet or phone, please DO NOT mail your proxy card. 
+Beneficial Owner (Holding Shares in Street Name)
+1. Vote by Internet. The website address for Internet voting is on your vote instruction form.  2. Vote by mail. Mark, date, sign and mail promptly the enclosed vote instruction form (a postage-paid envelope is provided for mailing in the United States).
+ 3. Vote in person. Obtain a valid legal proxy from the organization that holds your shares and attend and vote at the Annual Meeting.
+What Constitutes a Quorum?
+To carry on the business of the Annual Meeting, we must have a quorum. A quorum is present when a majority of the shares entitled to vote, as of the record date, are present in person or represented by proxy. Shares owned by Forward are not considered outstanding or considered to be present at the Annual Meeting. Broker non-votes (because there are routine matters presented at the Annual Meeting) and abstentions are counted as present for the purpose of determining the existence of a quorum.
+What happens if Forward is unable to obtain a Quorum?
+If a quorum is not present to transact business at the Annual Meeting or if we do not receive sufficient votes in favor of the proposals by the date of the Annual Meeting, the persons named as proxies may propose one or more adjournments of the Annual Meeting to permit solicitation of proxies.
+What is a broker non-vote?
+If your shares are held in street name, you must instruct the organization who holds your shares how to vote your shares. If you do not provide voting instructions, your shares will not be voted on any non-routine proposal. This vote is called a "broker non-vote." Broker non-votes do not count as a vote "FOR" or "AGAINST" any of the proposals.
+If you are the shareholder of record, and you sign and return a proxy card without giving specific voting instructions, then the proxy holders will vote your shares in the manner recommended by our Board on all matters presented in this Proxy Statement and as the proxy holders may determine in their discretion with respect to any other matters properly presented for a vote at the meeting. If your shares are held in street name and you do not provide specific voting instructions to the organization that holds your shares, the organization may generally vote at its discretion on routine matters, but not on non-routine matters. If you sign your vote instruction form but do not provide instructions on how your broker should vote, your broker will vote your shares as recommended by our Board on any non-routine matter. See the note below and the following question and answer.
+Important Rule Affecting Beneficial Owners Holding Shares In Street Name
+Brokers may no longer use discretionary authority to vote shares on the election of directors. Please submit your vote instruction form so your vote is counted.
+Which Proposals are Considered "Routine" or "Non-Routine"?
+Proposals 1 and 2 are non-routine and Proposal 3 is routine
+How are abstentions treated?
+Abstentions have no effect on the outcome of any matter being voted on.
+How Many Votes are Needed for Each Proposal to Pass, is Broker Discretionary Voting Allowed and what is the effect of an abstention?
+[BEGIN TABLE]
+  Proposals   Vote   Required   Broker Discretionary    Vote Allowed   Effect of Abstentions    on the Proposal 
+  Proposals   Vote   Required   Broker Discretionary    Vote Allowed   Effect of Abstentions    on the Proposal 
+ To elect the Board of Directors   Plurality  No  Not applicable 
+ To ratify and approve the increase in the    number of shares that may be issued pursuant to Full Value Awards under the    2011 Long Term Incentive Plan from 400,000 to 800,000 shares.  Majority of the shares present in person or    represented by proxy at the meeting and entitled to vote  No   No effect 
+ To ratify the appointment of our independent    registered public accounting firm for fiscal 2019  Majority of the shares present in person  		 or represented by proxy at the meeting and entitled to vote  Yes  No effect 
+[END TABLE]
+What Are the Voting Procedures?
+In voting by proxy with regard to the election of directors, you may vote in favor of all nominees, withhold your votes as to all nominees, or withhold your votes as to specific nominees. With regard to the remaining proposals, you may vote in favor of each proposal or against each proposal, or in favor of some proposals and against others, or you may abstain from voting on any of these proposals. You should specify your respective choices on the accompanying proxy card or your vote instruction form.
+Is My Proxy Revocable?
+You may revoke your proxy and reclaim your right to vote up to and including the day of the Annual Meeting by giving written notice to the Corporate Secretary of Forward, by delivering a proxy card dated after the date of the proxy or by voting in person at the Annual Meeting. All written notices of revocation and other communications with respect to revocations of proxies should be addressed to: Forward Industries, Inc., 477 S. Rosemary Avenue, Suite 219, West Palm Beach, Florida 33401, Attention: Corporate Secretary.
+Who is Paying for the Expenses Involved in Preparing and Mailing this Proxy Statement?
+All of the expenses involved in preparing, assembling and mailing these proxy materials and all costs of soliciting proxies will be paid by Forward. In addition to the solicitation by mail, proxies may be solicited by our officers and regular employees by telephone or in person. Such persons will receive no compensation for their services other than their regular salaries. Arrangements will also be made with brokerage houses and other custodians, nominees and fiduciaries to forward solicitation materials to the beneficial owners of the shares held of record by such persons, and we may reimburse such persons for reasonable out of pocket expenses incurred by them in so doing. We may hire an independent proxy solicitation firm.
+What Happens if Additional Matters are Presented at the Annual Meeting?
+Other than the items of business described in this Proxy Statement, we are not aware of any other business to be acted upon at the Annual Meeting. If you submit a signed proxy card, the persons named as proxy holders, Messrs. Terence Wise and Michael Matte, will have the discretion to vote your shares on any additional matters properly presented for a vote at the Annual Meeting. If for any reason any of our nominees is not available as a candidate for director, the persons named as proxy holders will vote your proxy for such other candidate or candidates as may be nominated by the Board.
+What is "householding" and how does it affect me?
+Record holders who have the same address and last name will receive only one copy of their proxy materials, unless we are notified that one or more of these record holders wishes to continue receiving individual copies. This procedure will reduce our printing costs and postage fees. Shareholders who participate in householding will continue to receive separate proxy cards.
+If you are eligible for householding, but you and other record holders with whom you share an address, receive multiple copies of these proxy materials, or if you hold Forward stock in more than one account, and in either case you wish to receive only a single copy of each of these documents for your household, please contact our Corporate Secretary at: Forward Industries, Inc., 477 Rosemary Avenue, Suite 219, West Palm Beach, Florida 33401, (561) 565-0030.
+If you participate in householding and wish to receive a separate copy of these proxy materials, or if you do not wish to continue to participate in householding and prefer to receive separate copies of these documents in the future, please contact our Corporate Secretary as indicated above. Beneficial owners can request information about householding from their brokers, banks or other holders of record.
+Do I Have Dissenters' (Appraisal) Rights?
+Appraisal rights are not available to Forward shareholders with any of the proposals brought before the Annual Meeting. Can a Shareholder Present a Proposal To Be Considered At the Next Annual Meeting?
+If you wish to submit a proposal to be considered at the 2020 Annual Meeting ("2020 Meeting"), the following is required:
+For a shareholder proposal to be considered for inclusion in Forward's Proxy Statement and proxy card for the 2020 Meeting pursuant to Rule 14a-8 under the Securities Exchange Act of 1934, which we refer to as the "Exchange Act," our Corporate Secretary must receive the written proposal no later than August 21, 2019, which is 120 calendar days prior to the anniversary date Forward's Proxy Statement was mailed to shareholders in connection with this Annual Meeting. Such proposals also must comply with SEC regulations under Rule 14a-8 regarding the inclusion of shareholder proposals in company sponsored materials.   
+Our Bylaws include advance notice provisions that require shareholders desiring to recommend or nominate individuals to the Board or who wish to present a proposal at the 2020 Meeting must do so in accordance with the terms of the advance notice provisions. For a shareholder proposal or a nomination that is not intended to be included in Forward's Proxy Statement and proxy card under Rule 14a-8, our Corporate Secretary must receive the written proposal no later than 120 calendar days nor more than 150 calendar days prior to the first anniversary of this years Annual Meeting; Provided, however, that in the event that the 2020 Meeting is changed more than 30 days before or after such anniversary date, the proposal must be received no earlier than the close of business on the 120th day prior to the 2020 Meeting and not later than the 90th date prior to the 2020 Meeting or the 10th day following the day on which public announcement of the date of such meeting is first made by the Company. If a shareholder fails to meet these deadlines and fails to satisfy the requirements of Rule 14a-8 under the Exchange Act, we may exercise discretionary voting authority under proxies we solicit to vote on any such proposal as we determine appropriate. Your notice must contain the specific information set forth in our Bylaws.   
+Additionally, you must be a record holder at the time you deliver your notice to the Corporate Secretary and are entitled to vote at the 2020 Meeting and meet the ownership requirements contained in Section 208 of our Bylaws.
+A nomination or other proposal will be disregarded if it does not comply with the above procedures. All proposals and nominations should be sent to Forward Industries, Inc., 477 S. Rosemary Avenue, Suite 219, West Palm Beach, Florida 33401, Attention: Corporate Secretary.
+We reserve the right to amend our Bylaws and any change will apply to the 2020 Meeting unless otherwise specified in the amendment. 
+Interest of Officers and Directors in Matters to Be Acted Upon
+Except in the election to our board of nominees set forth herein, none of the officers or directors have any interest in any of the matters to be acted upon at the Annual Meeting.
+The Board unanimously recommends that stockholders vote "For" the election to the Board of each of the nominees in Proposal 1, "For" Proposal 2, and "For" Proposal 3. PROPOSAL 1. ELECTION OF DIRECTORS
+We currently have four members of our Board, all of whose terms will expire at this Annual Meeting. The Board proposes the election of the following nominees as directors:
+Howard Morgan
+Sangita Shah 
+Terence Wise
+James Ziglar
+All of the nominees listed above are  currently  directors of Forward, have been nominated for election at the 2019 Annual Meeting, and have agreed to serve if elected. The four persons who receive the most votes cast will be elected and will serve as directors until the next Annual Meeting. If a nominee becomes unavailable for election before this Annual Meeting, the Board can name a substitute nominee and proxies will be voted for such substitute nominee unless an instruction to the contrary is written on the proxy card. Furthermore, we may appoint an additional person to our Board before the Annual Meeting. The principal occupation and certain other information about the nominees and our executive officers are set forth on the following pages.
+The Board recommends a vote "For" the election of the nominated slate of directors.
+DIRECTORS AND EXECUTIVE OFFICERS
+The following table represents our Board as of the record date (all of which are Board nominees)
+[BEGIN TABLE]
+ Name  Age  Appointed 
+ Howard Morgan  58  February    2012 
+ Sangita Shah  52  February    2015 
+ Terence Wise  71  February    2012 
+ James Ziglar   73  October    2018 
+[END TABLE]
+Nominee Biographies
+Howard Morgan. Mr. Morgan has been the Managing Director of The Justwise Group Limited ("Justwise"), a company that specializes in the procurement of consumer durable products from Asia and is an established supplier to a list of major U.K. multi-channel retailers, since 1997. Since 2013, Mr. Morgan has served as the Chief Executive Officer and a board member of EuroFresh Ltd., a wholesale distributor of fresh produce in the United Kingdom and Europe. Mr. Morgan was selected as a director as a result of his significant business management and operational skills as well as his knowledge of foreign sourcing and developing products for large multiple organizations.
+Sangita Shah. Ms. Shah currently serves as director and owner of Odyssean Enterprises Limited, a private advisory and investment company, in addition to serving as non-executive chairman of Bilby PLC and as a director of Swindon Town Football Club. Ms. Shah is also a board advisor to Global Reach Technology, a Fast Track WiFi SME, and a non-executive director for Zypha Technologies Inc. Ms. Shah previously worked in seed/mezzanine financing and strategic investments within the environmental and technology sectors following a number of senior roles held at KPMG and Ernst & Young. Ms. Shah was selected as a director for her board and accounting experience, and she also serves as our Lead Director.
+Terence Wise. Mr. Wise serves as principal and Chairman of Justwise which he founded in 1977. Mr. Wise also serves as a principal and owner of Forward Industries Asia-Pacific Corporation (f/k/a Seaton Global Corporation) ("Forward China"), a buying and supplier agent in the Asia-Pacific region and has significant shareholdings in two furniture manufacturing plants in China. See the section titled "Related Person Transactions" below. Mr. Wise was selected as a director for his extensive experience in the Asian markets.
+James Ziglar. Mr. Ziglar has over 50 years of experience in law, finance, management, and public policy. Since 2009, Mr. Ziglar has served as Senior Counsel to the law firm of Van Ness Feldman LLP, advising clients on a broad range of business and public policy issues. From 2005 until 2008, Mr. Ziglar was the President and Chief Executive Officer of Cross Match Technologies, Inc., a leading provider of biometric technologies.    Mr. Ziglar has 18 years of experience in investment banking and before joining Cross Match Technologies in 2005, Mr. Ziglar was a Managing Director and Chief Business Strategist at UBS Financial Services, Inc. in New York. Mr. Ziglar serves on the Board of Integrated Biometrics, Inc., and has had extensive experience in the U.S. government, having served as a Law Clerk to Supreme Court Justice Harry Blackmun, as Assistant Secretary of the Interior, as Commissioner of the Immigration and Naturlization Service, and as Sergeant at Arms of the U.S. Senate.  Mr. Ziglar was chosen as a director for his experience and expertise in management, business, legal, and policy and regulatory related issues. Executive Officers
+[BEGIN TABLE]
+ Name  Age  Position  Appointed 
+ Terence    Wise  71  Chief    Executive Officer  July 2015 
+ Michael    Matte  59  Chief    Financial Officer  June 2015 
+[END TABLE]
+See above for Mr. Terence Wise's biography.
+Michael Matte. Mr. Matte has served as Chief Financial Officer of Forward since June 2015. From May 2013 until March 2014, Mr. Matte served as the Chief Financial Officer and Chief Accounting Officer of Aspen Group, Inc., an education technology company. Mr. Matte also served as an Executive Vice President of Finance and Chief Financial Officer of MeetMe, Inc., a social discovery website, from October 2007 to March 2013.
+Executive Officers of IPS
+[BEGIN TABLE]
+  Name   Age   Position   Appointed 
+ Mitchell Maiman   66   President of IPS   2008  
+ Paul Severino   59   Chief Operating Officer of IPS   2008  
+[END TABLE]
+Mitchell Maiman.  Mr. Maiman has served as the President of Intelligent Product Solutions, Inc. ("IPS"), the Company's wholly-owned subsidiary, since co-founding it in 2008.  
+Paul Severino. Mr. Severino has served as the Chief Operating Officer of IPS, since co-founding it in 2008.  
+There are no family relationships between any of the executive officers and directors. Our Bylaws require that each director is elected at our annual meeting of shareholders and holds office until the next annual meeting of shareholders, or until his successor is elected and qualified. See the section titled "Related Person Transactions".
+Corporate Governance
+Board Responsibilities
+The Board oversees, counsels, and directs management in the long-term interest of Forward and its shareholders. The Board's responsibilities include establishing broad corporate policies and reviewing the overall performance of Forward. The Board is not, however, involved in the operating details on a day-to-day basis.
+Board Committees and Charters
+The Board and its Committees meet throughout the year and act by written consent from time-to-time as appropriate. The Board delegates various responsibilities and authority to different Board Committees. Committees regularly report on their activities and actions to the Board.
+The Board currently has and appoints the members of: the Audit Committee, the Compensation Committee, the Nominating and Corporate Governance Committee. Each of these Committees has a written charter which may be accessed through Forward's website at:  http://www.forwardindustries.com/corporate-governance.html.  Additionally, the Board also appoints members to the Business Development Committee and the Acquisition Committee.   The following table identifies the independent and non-independent Board nominees and committee members:
+[BEGIN TABLE]
+  Name       Independent       Audit       Compensation       Nominating and    		Corporate    		Governance          Acquisition                Business   		Development 
+  Name       Independent       Audit       Compensation       Nominating and    		Corporate    		Governance          Acquisition                Business   		Development 
+  Howard    Morgan       ×       ×               Chair      		       Chair 
+  Sangita    Shah       ×       Chair       ×       ×      Chair      		  
+  Terence    Wise                                      		       		  
+  James    Ziglar       ×       ×       Chair       ×      ×      × 
+[END TABLE]
+There were eight Board meetings held in fiscal 2018. All of the directors attended over 75% of the applicable Board and Committee meetings held in fiscal 2018. The Company does not have a policy regarding Board members attending annual meetings.
+Director Independence
+Our Board has determined that Howard Morgan, Sangita Shah and James Ziglar are independent in accordance with standards under the Nasdaq Listing Rules. Our Board determined that as a result of being employed as an executive officer, Mr. Wise was not independent under the Nasdaq Listing Rules.
+Our Board has also determined that Howard Morgan, Sangita Shah and James Ziglar are independent under the Nasdaq Listing Rules independence standards for Audit Committee members and Compensation Committee members.
+Committees of the Board of Directors
+Audit Committee
+The Audit Committee reviews our financial reporting process on behalf of the Board and administers our engagement of the independent registered public accounting firm. The Audit Committee meets with the independent registered public accounting firm, with and without management present, to discuss the results of its examinations, the evaluations of our internal controls, and the overall quality of our financial reporting. Management has the primary responsibility for the financial statements and the reporting process, including the system of internal controls. The Audit Committee held four meetings in fiscal 2018.
+Audit Committee Financial Expert
+Our Board has determined that Ms. Shah is qualified as an Audit Committee Financial Expert, as that term is defined by the rules of the SEC and in compliance with the Sarbanes-Oxley Act of 2002.
+Compensation Committee
+                The function of the Compensation Committee is to make recommendations to the Board concerning Board and committee compensation.  The Compensation Committee is also responsible for oversight of our overall compensation plans and benefit programs, as well as the approval of all employment, severance and change of control agreements and plans applicable to our executive officers.  The Compensation Committee is also responsible for determining the compensation of and compensation structure for all of the Company's executive officers.  The Compensation Committee  reviews and approves equity-based compensation grants to our officers, directors, employees and consultants. The Compensation Committee held five meetings in fiscal 2018.
+Nominating and Corporate Governance Committee
+The responsibilities of the Nominating Committee include the identification of individuals qualified to become Board members, establishing the procedures for the nomination process and the selection of nominees to stand for election as directors, the oversight of the selection and composition of committees of the Board, oversight of possible conflicts of interests involving the Board and its members, developing policies and procedures for related party transactions, developing corporate governance principles, and the oversight of the evaluations of the Board and management specifically with respect to Corporate Governance. The Nominating Committee has not established a policy with regard to the consideration of any candidates recommended by shareholders. If we receive any shareholder recommended nominations, the Nominating Committee will carefully review the recommendation(s) and consider such recommendation(s) in good faith. The Nominating and Corporate Governance held three meetings in fiscal 2018.
+Acquisition Committee
+The responsibilities of the Acquisition Committee are  to review and recommend merger and acquisition opportunities and transactions proposed by the Company's management team, and to review and monitor progress on such acquisitions and other transactions.   Business Development Committee
+The Business Development Committee works with the Company's management team to assess potential strategic opportunities, as well as to provide guidance for the enhancement of the Company's revenues. 
+Board Diversity
+While we do not have a formal policy on diversity, our Board considers diversity to include the skill set, background, reputation, type and length of business experience of our board members, as well as a particular nominee's contribution to that mix. Although there are many other factors, the board seeks individuals with experience in the sourcing industry and Asian markets, sales and marketing, legal and accounting skills. and board experience.
+Board Leadership Structure
+Our Board has determined that its current structure, with combined Chairman and Chief Executive Officer roles and an independent Lead Director (Sangita Shah), is in the best interests of Forward and its shareholders at this time. A number of factors support the leadership structure chosen by the Board, including, among others:
+The Chief Executive Officer is intimately involved in the day-to-day operations of Forward and is best positioned to elevate the most critical business issues for consideration by the Board.   
+The Board believes that having the Chief Executive Officer serve in both capacities allows him to more effectively execute Forward's strategic initiatives and business plans and confront its challenges. A combined Chairman and Chief Executive Officer structure provides us with decisive and effective leadership with clearer accountability to our shareholders. The combined role is both counterbalanced and enhanced by the effective oversight and independence of our Board and the independent leadership provided by our Lead Director. The Board believes that the appointment of a strong independent Lead Director and the use of regular executive sessions of the non-management directors, along with the Boards strong committee system, allow it to maintain effective oversight of management.
+Role of Board in Risk Oversight
+Our risk management function is overseen by our Board. Our management keeps the Board apprised of material risks and provides directors access to all information necessary for them to understand and evaluate how these risks interrelate, how they affect us, and how management addresses those risks. Terence Wise, as our Chief Executive Officer and Chairman of the Board, and Michael Matte, our Chief Financial Officer, work closely together with the Board and our Lead Director, on how to best address identified risks. If the identified risk poses an actual or potential conflict with management, our independent directors may conduct the assessment. Presently, the primary risks affecting us are: (i) our ability to grow our business, (ii) increase our customer base, (iii) diversify our sales outside of the medical industry and (iv) obtaining the benefits that we anticipate from the acquisition of IPS.
+Code of Business Conduct and Ethics
+Our Board has adopted a Code of Business Conduct and Ethics ("Code of Ethics") that applies to all of our employees, including our Chief Executive Officer and Chief Financial Officer. Although not required, the Code of Ethics also applies to our Board. The Code of Ethics provides written standards that we believe are reasonably designed to deter wrongdoing and promote honest and ethical conduct, including the ethical handling of actual or apparent conflicts of interest between personal and professional relationships, full, fair, accurate, timely and understandable disclosure, and compliance with laws, rules and regulations, including insider trading, corporate opportunities and whistle-blowing or the prompt reporting of illegal or unethical behavior. A copy of our Code of Ethics may be accessed athttp://forwardindustries.com/corporate-governance.html.  
+Communication with our Board of Directors
+Although we do not have a formal policy regarding communications with the Board, shareholders may communicate with the Board by writing to us at Forward Industries, Inc., 477 S. Rosemary Avenue, Suite 219, West Palm Beach, Florida 33401, Attention: Corporate Secretary, or by facsimile (561) 465-0074. Shareholders who would like their submission directed to a member of the Board may so specify, and the communication will be forwarded, as appropriate. Related Person Transactions
+On March 12, 2012, the Company entered into a Buying Agency and Supply Agreement (the "First Sourcing Agreement") with Forward China.  Terence Wise, the Company's Chairman, Chief Executive Officer and largest shareholder, is the owner of Forward China. In addition, Jenny P. Yu, a Managing Director of Forward China, owns more than 5% of the Company's common stock.  On March 13, 2014, the Company entered into Amendment No. 1 to the First Sourcing Agreement with Forward China, dated as of March 11, 2014. The First Sourcing Agreement, as amended, provided that Forward China would act as the Company's exclusive buying agent and supplier of products in the Asia Pacific region. The Company will purchase products at Forward China's cost and pay Forward China a monthly fee for services it provides under the First Sourcing Agreement.
+On September 9, 2015, the Company entered into a Buying Agency and Supply Agreement (the "Second Sourcing Agreement") with Forward China  on substantially the same terms as the First Sourcing Agreement, which was due to expire on September 11, 2015. The Second Sourcing Agreement provides that Forward China will act as the Company's exclusive buying agent of carry and protective solutions in the APAC Region. Forward China also arranges for sourcing, manufacture and exportation of such products. The Company purchases products at cost and pays a service fee to Forward China. The service fee is calculated at $100,000 monthly plus 4% of "Adjusted Gross Profit." "Adjusted Gross Profit" is defined as the selling price less the cost from Forward China. The Company recognized approximately $1,425,000 and $1,435,000 (inclusive of the extension fee below) during the fiscal years ended September 30, 2018 and 2017, respectively, in service fees paid to Forward China.  As a result of the continued decrease in the Company's net revenues, Forward China agreed to forgo its rights to the 4% portion of the service fee under the Supply Agreement beginning with the third fiscal quarter through the end of fiscal year 2017. On September 19, 2017, the Supply Agreement was amended whereby the Company agreed to pay Forward China $70,000 in order to extend the Supply Agreement for an additional six months to March 8, 2019. In addition, the 4% of Adjusted Gross Profit was reinstated for the fourth quarter of fiscal 2017.
+The sister of Paul Severino, the Chief Operator of IPS, is employed by IPS as its Chief Marketing Officer and receives an annual salary of $156,500 per year.  
+In order to fund the acquisition of IPS, the Company issued a $1.6 million promissory note to Forward China in consideration for a one-year loan (due January 18, 2019).   The note bears an interest rate of 8% and pays monthly interest.  
+Section 16(a) Beneficial Ownership Reporting Compliance
+ Section 16(a) of the Exchange Act requires our directors, executive officers, and persons who own more than 10% of our common stock to file with the SEC initial reports of ownership and changes in ownership of our common stock and other equity securities. These individuals are required by the regulations of the SEC to furnish us with copies of all Section 16(a) forms they file. Except as described below, based solely on a review of the copies of the forms furnished to us, and written representations from reporting persons that no Forms 5 were required to report delinquent filings, we believe that all filing requirements applicable to our officers, directors and 10% beneficial owners were complied with during fiscal year 2018.  Ms. Jenny Yu, a 10% shareholder, failed to file 18 Form 4s and a Form 5 which should have reported 18 transactions.
+Voting Securities and Principal Holders Thereof
+The following table sets forth the number of shares of our common stock beneficially owned as of the record date by (i) those persons known by us to be owners of more than 5% of our common stock, (ii) each director, (iii) our Named Executive Officers, and (iv) all of our executive officers and directors  as a group. Unless otherwise specified in the notes to this table, the address for each person is: c/o Forward Industries, Inc., 477 Rosemary Avenue, Suite 219, West Palm Beach, Florida 33401.  
+[BEGIN TABLE]
+  Title of Class    Beneficial  Owner   Amount of  Beneficial  Ownership (1)   Percent  Beneficially  Owned (1) 
+  Title of Class    Beneficial  Owner   Amount of  Beneficial  Ownership (1)   Percent  Beneficially  Owned (1) 
+  Title of Class    Beneficial  Owner   Amount of  Beneficial  Ownership (1)   Percent  Beneficially  Owned (1) 
+  Directors and Named Executive    		Officers:              
+  Common    Stock   Terence    Wise (2)   1,618,541   17.0% 
+  Common    Stock   Michael    Matte (3)     100,000   *  
+  Common    Stock   Mitch    Maiman (4)   200,918   2.1% 
+  Common    Stock   Paul    Severino (5)   200,918   2.1% 
+  Common    Stock   Howard    Morgan (6)   130,000   1.4% 
+  Common    Stock   Sangita    Shah (7)   319,000   3.3% 
+  Common    Stock   James    Ziglar (8)   10,000   *  
+  Common    Stock   All    directors and executive officers as a group (7 persons)    2,579,377   26.3% 
+  5% Shareholders:               
+  Common    Stock   Terence    Wise (2)   1,618,541   17.0% 
+  Common    Stock   Jenny    Yu (9)     		1,110,563    		11.6% 
+  Common    Stock   Renaissance    Technologies, LLC (10)   656,700   6.9% 
+(1)   Applicable percentages  are based on 9,533,851 shares outstanding as of the record date, adjusted as  required by rules of the SEC. Beneficial ownership is determined under the  rules of the SEC and generally includes voting or investment power with respect  to securities. Shares of common stock underlying options and warrants and  convertible notes currently exercisable or convertible, or exercisable or convertible  within 60 days are deemed outstanding for computing the percentage of the  person holding such securities but are not deemed outstanding for computing the  percentage of any other person. Unless otherwise indicated in the footnotes to  this table, Forward believes that each of the shareholders named in the table  has sole voting and investment power with respect to the shares of common stock  indicated as beneficially owned by them. The table includes only vested  options, and warrants or options and warrants that have or will vest and become  exercisable within 60 days.  
+(2)   Wise.   Mr.  Wise is a director and executive officer. Includes 10,000 vested stock options.  
+(3)   Matte.   Mr.  Matte is an executive officer. Includes 50,000 vested stock options.  
+(4)   Maiman.  Mr. Maiman is an  executive officer of the Company's wholly-owned subsidiary.    
+(5)   Severino.  Mr. Severino is an  executive officer of the Company's wholly-owned subsidiary.  
+(6)   Morgan. Mr. Morgan is a  director. Includes 10,000 vested stock options.  
+(7)   Shah. Ms. Shah is a director.  Includes 214,000 vested stock options.  
+(8)   Ziglar. Mr. Ziglar is a director.     
+(9)   Yu. Address is 9255 Doheny Rd., Apartment  2905, West Hollywood, California, 90069.    
+(10)      Renaissance.  Based on a Schedule 13G/A filed on  February 14, 2018.  Address is 800 Third Avenue, New York, NY 10022.      
+[END TABLE]
+Compensation of Directors
+In fiscal 2018, the Company paid annual cash compensation of $35,000 to its non-employee directors as well as additional fees for service on the Acquisition Committee and Business Development Committee ($20,000 for service as a chairperson of these committees and $15,000 for non-chairperson members).  In fiscal 2018, non-employee directors were compensated for as follows:
+[BEGIN TABLE]
+  Name (a)   Fees Earned or  Paid in  Cash   ($)(b)   Stock  Awards  ($)(c)(1)   Option  Awards  ($)(d)(1)   Non-Equity  Incentive  Plan  Compensation  ($)(e)   Change in  Pension  Value and  Nonqualified  Deferred  Compensation  Earnings  ($)(f)   All  Other  Compensation  ($)(g)   Total  ($)(j) 
+  Name (a)   Fees Earned or  Paid in  Cash   ($)(b)   Stock  Awards  ($)(c)(1)   Option  Awards  ($)(d)(1)   Non-Equity  Incentive  Plan  Compensation  ($)(e)   Change in  Pension  Value and  Nonqualified  Deferred  Compensation  Earnings  ($)(f)   All  Other  Compensation  ($)(g)   Total  ($)(j) 
+  Name (a)   Fees Earned or  Paid in  Cash   ($)(b)   Stock  Awards  ($)(c)(1)   Option  Awards  ($)(d)(1)   Non-Equity  Incentive  Plan  Compensation  ($)(e)   Change in  Pension  Value and  Nonqualified  Deferred  Compensation  Earnings  ($)(f)   All  Other  Compensation  ($)(g)   Total  ($)(j) 
+  Name (a)   Fees Earned or  Paid in  Cash   ($)(b)   Stock  Awards  ($)(c)(1)   Option  Awards  ($)(d)(1)   Non-Equity  Incentive  Plan  Compensation  ($)(e)   Change in  Pension  Value and  Nonqualified  Deferred  Compensation  Earnings  ($)(f)   All  Other  Compensation  ($)(g)   Total  ($)(j) 
+  Howard Morgan   64,375   0   0   0   0   0   64,375 
+  Sangita Shah   64,375   0   150,876   0   0   0   215,251 
+  Terence Wise   0   0   0   0   0   0   0 
+  James Frost (2)   17,500   0   0   0   0   0   17,500 
+[END TABLE]
+(2)   Resigned during Fiscal 2018. 
+Executive Compensation
+                The following information is related to the compensation paid, distributed or accrued by us for fiscal 2018 and 2017 to all Chief Executive Officers (principal executive officers) serving during the last fiscal year and the two other most highly compensated executive officers serving at the end of the last fiscal year whose compensation exceeded $100,000. We refer to these individuals as our "Named Executive Officers." 
+2018 Summary Compensation Table
+[BEGIN TABLE]
+  Name and Principal Position (a)        Year (b)   Salary  ($)(c)    Bonus  ($)(d)    Stock  Awards  ($)(e)    Option Awards  ($)(f)    All Other Compensation ($)(i)(1)    Total  ($)(j)  
+  Name and Principal Position (a)        Year (b)   Salary  ($)(c)    Bonus  ($)(d)    Stock  Awards  ($)(e)    Option Awards  ($)(f)    All Other Compensation ($)(i)(1)    Total  ($)(j)  
+  Terence Wise       2018  300,000  0  0  0  0  300,000 
+     Chief Executive Officer        2017  300,000  0  0  0  0  300,000 
+  Michael Matte       2018  200,000  0  0  0  16,699  216,699 
+      Chief Financial Officer        2017  150,000  0  0  0  16,290  166,290 
+  Mitch Maiman (2)       2018  190,482  8,820  0  0  8,100  207,402 
+      Executive Officer of    IPS                           
+  Paul Severino (2)       2018  190,482  8,820  0  0  8,100  207,402 
+      Executive Officer of    IPS                           
+[END TABLE]
+Michael Matte.   Effective May 16, 2018, the Company and Michael Matte entered into a three year Employment Agreement.  Pursuant to his Employment Agreement, Mr. Matte shall receive an annual base salary of $225,000. Under his prior Employment Agreement, Mr. Matte was to be paid $225,000 per year and was issued 50,000 shares of common stock and 50,000 stock options. On November 1, 2015, Mr. Matte agreed to reduce his annual base salary to $150,000.  Effective February 1, 2018, Mr. Matte's annual salary reverted back to $225,000.  
+Maiman and Severino.  In connection with the acquisition of IPS, the Company entered into three year employment agreements with Mitch Maiman and Paul Severino.  Under the Employment Agreements, each of Messrs. Maiman and Severino receive an annual base salary of $256,000 and $900 per month for auto and cell phone allowance. 
+Bonus
+Under his Employment Agreement, Mr. Wise is eligible to receive for each full fiscal year a bonus in the amount of up to 25% of his base salary to be paid in restricted stock or other equity, the combination and vesting of which shall be determined by the Compensation Committee in its sole discretion.   
+Under his Employment Agreement, Mr. Matte is eligible to receive for each full fiscal year a bonus in the amount of up to 25% of his base salary to be paid in cash and/or restricted stock or other equity, the combination and vesting of which shall be determined by the Compensation Committee in its sole discretion. 
+Each of the Named Executive Officers is entitled to receive discretionary bonuses under their Employment Agreements at the discretion of the Compensation Committee. 
+Termination Provisions  
+Pursuant to Messrs. Wise's and Matte's Employment Agreements, in the event they terminate their employment for Good Reason, or the Company terminates their employment without Cause, they shall be entitled, subject to execution and effectiveness of a general release, to receive a lump-sum payment in the amount equal to  six month of their then base salary.
+Pursuant to Mr. Wise's Employment Agreement, Good Reason is defined as (i) the assignment to the executive without his consent of duties materially inconsistent with his position as contemplated by the Employment Agreement, (ii) a decrease in annual base salary, other than an across the board decrease in salary applicable to all senior executives of the Company of not more than 10%, (iii) any failure by the Company to perform any material obligation under, or its breach of a material provision of, the Employment Agreement, and (iv) failure of any Company successor to expressly assume and agree to perform the Employment Agreement in the same manner and to the same extent as the Company would have had there been no successor.  Good Reason in Mr. Matte's Employment Agreement also includes the relocation of his principal place of business more than 30 miles from West Palm Beach, Florida. Cause is defined as willful misconduct in connection with the performance of, or willful failure, neglect or refusal to perform, any duties or services under the Employment Agreement, or commission of, conviction of, or nolo contendere or guilty plea in connection with, a felony or a crime of moral turpitude. 
+In the event Messrs. Maiman's and Severino's employment is terminated without Cause, they are entitled to receive, in a lump sum payment, one year's base salary. Additionally, they shall receive one year of benefits.  Cause is generally defined as (i) gross misconduct, (ii) committing a felony, (iii) death or disability, (iv) failure to perform his duties and (v) material breach of the Employment Agreement.  
+Retirement Plans
+The Company has a Section 401(k) plan and provides an employer matching contribution, for all of its employees, including Named Executive Officers. The Company does not offer any nonqualified pension plans, supplemental executive retirement plans, or other plans that provide for the payment of retirement benefits.
+Outstanding Awards at Fiscal Year End
+Listed below is information with respect to unexercised options, stock that has not vested, and equity incentive plan awards for each Named Executive Officer outstanding as of September 30, 2018: Outstanding Equity Awards At Fiscal Year-End 2018
+[BEGIN TABLE]
+  Name  (a)       Number of  Securities Underlying Unexercised Options (#) Exercisable (b)        Number of  Securities  Underlying  		 Unexercised  Options  (#)  Unexercisable  (c)       Equity  Incentive Plan  Awards: Number of  		 Securities Underlying  Unexercised Unearned  Options (#) (d)        Option Exercise  Price ($)(e)        Option Expiration  Date (f)        Number of  Shares or  Units of  		 Stock That  Have Not  Vested (#)  (g)       Market  Value of  Shares or  Units of  Stock That  		 Have Not  Vested  ($)(h)       Equity  Incentive  Plan  Awards:  		 Number of  Unearned  Shares,  Units or  Other  Rights That  		 Have Not  Vested (#)  (i)       Equity  Incentive  Plan  Awards:  		 Market or  Payout  Value of  Unearned  Shares,  Units or  		 Other  Rights  That  Have Not  Vested (#)  (j) 
+  Name  (a)       Number of  Securities Underlying Unexercised Options (#) Exercisable (b)        Number of  Securities  Underlying  		 Unexercised  Options  (#)  Unexercisable  (c)       Equity  Incentive Plan  Awards: Number of  		 Securities Underlying  Unexercised Unearned  Options (#) (d)        Option Exercise  Price ($)(e)        Option Expiration  Date (f)        Number of  Shares or  Units of  		 Stock That  Have Not  Vested (#)  (g)       Market  Value of  Shares or  Units of  Stock That  		 Have Not  Vested  ($)(h)       Equity  Incentive  Plan  Awards:  		 Number of  Unearned  Shares,  Units or  Other  Rights That  		 Have Not  Vested (#)  (i)       Equity  Incentive  Plan  Awards:  		 Market or  Payout  Value of  Unearned  Shares,  Units or  		 Other  Rights  That  Have Not  Vested (#)  (j) 
+ Michael    Matte   		    50,000   		    		-   		    		-   		    0.64   		    6/25/25   		   -     -     -     - 
+ Mitch    Maiman   		   -   		   -   		   -   		   -   		   -   		   -   		   -   		   -   		   - 
+ Paul Severino   		   -   		   -   		   -   		   -   		   -   		   -   		   -   		   -   		   - 
+[END TABLE]
+Risk Assessment Regarding Compensation Policies and Practices as they Relate to Risk Management
+Our compensation program for employees does not create incentives for excessive risk taking by our employees or involve risks that are reasonably likely to have a material adverse effect on us. Our compensation has the following risk-limiting characteristics:
+Our base pay programs consisting of competitive salary rates provide a reliable level of income on a regular basis, which decreases incentive on the part of our executives to take unnecessary or imprudent risks;
+Awards are not tied to formulas that could focus executives on specific short-term outcomes;
+Equity awards may be recovered by us should a restatement of earnings occur upon which incentive compensation awards were based, or in the event of other wrongdoing by the recipient; and
+Equity awards, generally, have multi-year vesting which aligns the long-term interests of our executives with those of our shareholders and, again, discourages the taking of short- term risk at the expense of long-term performance. PROPOSAL 2.  RATIFICATION AND APPROVAL OF AN AMENDMENT  
+TO INCREASE THE SHARES AVAILABLE FOR ISSUANCE UNDER FULL VALUE AWARDS   UNDER THE 2011 LONG TERM INCENTIVE PLAN
+Our Board has adopted a resolution declaring it advisable and in the best interests of Forward and its shareholders to approve an increase in the number of shares available for issuance under Full Value Awards under the 2011 Long Term Incentive Plan ("2011 Plan") from 400,000 shares to 800,000 shares.  Full Value Awards are defined as an Award other than in the form of a stock option or a stock appreciation right ("SAR"), and is settled in the issuance of Common Stock.  As of the record date, there are only 31,019 shares available for issuance under Full Value Awards.    
+Summary of the 2011 Plan
+Purpose of the 2011 Plan
+The purposes of the 2011 Plan are to enable Forward to attract, motivate, and retain employees, directors, consultants and other independent contractors, upon whose judgment, initiative, and efforts the financial success and growth of the business of the Company largely depend, and to provide an additional incentive for such individuals through stock ownership and other rights that promote and recognize the financial success and growth of the Company and create value for shareholders.
+Administration of the 2011 Plan
+The 2011 Plan is administered by the Compensation Committee consisting of two or more directors who are "non-employee directors" within the meaning of Rule 16b-3 and, "outside directors" within the meaning of Section 162(m) of the Internal Revenue Code of 1986 (the "Tax Code"). In the event that for any reason the Committee is unable to act or if the Committee at the time of any grant, award or other acquisition under the 2011 Plan does not consist of two or more "non-employee directors," or if there is no such Committee, then the 2011 Plan will be administered by the Board (such administrative body, for the purposes of this Proposal 2 only, the "Committee").
+Subject to the other provisions of the 2011 Plan, the Committee has the authority, in its discretion: (i) to grant cash-based awards, nonqualified stock options, incentive stock options, SARs, restricted stock, restricted stock units, performance shares, performance units and other stock-based awards, all of which are referred to collectively as "Awards"; (ii) to determine the terms and conditions of each Award granted (which need not be identical); (iii) to interpret the 2011 Plan and all awards granted thereunder; and (iv) to make all other determinations necessary or advisable for the administration of the 2011 Plan.
+Eligibility
+ The persons eligible for participation in the 2011 Plan as recipients of Awards include employees, directors, consultants and other independent contractors to the Company or any subsidiary or affiliate of the Company, except that only employees of the Company and certain corporate subsidiaries may receive incentive stock options. In selecting participants, and determining the number of shares of common stock covered by each Award, the Committee may consider any factors that it deems relevant.
+Shares Subject to the 2011 Plan
+Subject to the conditions outlined below, the total number of shares of Common Stock which may be issued pursuant to Awards granted under the 2011 Plan may not exceed 1,850,000 shares of Common Stock. There are currently 1,021,453 shares of Common Stock available under the 2011 Plan.
+In the event of certain corporate events or transactions (including, but not limited to, unusual or nonrecurring events or a change in the shares of the Company or the capitalization of the Company), the Committee, in its sole discretion, in order to prevent dilution or enlargement of a participant's rights under the 2011 Plan, shall substitute or adjust, as applicable, the number and kind of shares of Common Stock that may be issued under the 2011 Plan or under particular forms of Awards, the number and kind of shares of Common Stock subject to outstanding Awards, the exercise price applicable to outstanding Awards, the annual Award limits, and other value determinations applicable to outstanding Awards.
+Options
+An option granted under the 2011 Plan is designated at the time of grant as either an incentive stock option or as a non-qualified stock option. Upon the grant of an option to purchase shares of Common Stock, the Committee will specify the option exercise price, the maximum duration of the option, the number of shares of Common Stock to which the option pertains, the conditions upon which an option shall become vested and exercisable, and such other provisions as the Committee shall determine which are not inconsistent with the terms of the 2011 Plan.  The exercise price of an option will be determined by the Committee at the time of grant, but may not be less than 100% of the fair market value of a share of Common Stock on the date the option is granted.  However, if the grantee of an incentive stock option is a person who owns, or who is deemed to own under Section 424(d) of the Tax Code, stock possessing more than 10% of the total combined voting power of the Company or any subsidiary (a "Ten Percent Shareholder"), then the exercise price of the option shall be at least 110% of the fair market value of such shares of Common Stock on the date the option is granted.  No option shall be exercisable later than the tenth anniversary date of its grant, provided, that incentive stock options granted to Ten Percent Shareholders may not be exercisable later than the fifth anniversary of the grant.  SARs
+SARs will be exercisable at such time or times and subject to such terms and conditions as determined by the Committee. The term of SARs granted under the 2011 Plan shall be determined by the Committee, in its sole discretion, and except as determined otherwise by the Committee, no SAR shall be exercisable later than the tenth anniversary date of its grant.  SARs may be settled in stock, cash, or a combination of both.
+Restricted Stock and Restricted Stock Units
+Shares of restricted stock and/or restricted stock units may be granted under the 2011 Plan aside from, or in association with, any other Award and will be subject to certain conditions and contain such additional terms and conditions, not inconsistent with the terms of the 2011 Plan, as the Committee deems desirable. Except with respect to a maximum of 50% of the shares authorized under the 2011 Plan, any Awards of restricted stock and/or restricted stock units which vest on the basis of the participant's continued employment with or provision of service to the Company shall not provide for vesting which is any more rapid than annual pro rata vesting over a three year period and any Awards of restricted stock and/or restricted stock units which vest upon the attainment of performance goals shall provide for a performance period of at least three months.  The receipt of dividends on account of shares of restricted stock or restricted stock units shall be determined by the Committee.
+Performance Units/Performance Shares
+Subject to the terms and provisions of the 2011 Plan, the Committee may grant performance units and/or performance shares to participants in such amounts and upon such terms as the Committee shall determine. Each performance unit shall have an initial value that is established by the Committee at the time of grant. Each performance share shall have an initial value equal to the fair market value of a share of Common Stock on the date of grant. The Committee shall set performance goals in its discretion which, depending on the extent to which they are met, will determine the value and/or number of performance units/performance shares that will be paid out to the participant.
+Limits on Awards
+Subject to the restrictions on the number of shares issuable pursuant to Full Value Awards mentioned above, the maximum number of shares of Common Stock that may be issued to any one participant in the 2011 Plan in a fiscal year is 300,000. 
+Restrictions on Transferability
+Except as otherwise provided in an Award or as determined from time to time by the Compensation Committee, the Awards granted under the 2011 Plan are not transferable and may be exercised solely by a participant during his lifetime or after his death by the person or persons entitled thereto under his will or the laws of descent and distribution or as otherwise required by law. Any attempt to transfer, assign, pledge or otherwise dispose of, or to subject to execution, attachment or similar process, any Award contrary to the provisions set forth in the 2011 Plan will be void and ineffective and will give no right to the purported transferee.
+Termination of the 2011 Plan
+Unless sooner terminated as provided therein, the 2011 Plan shall terminate in March 2021.
+Amendments to the 2011 Plan
+The Committee may at any time alter, amend, modify, accelerate, suspend, or terminate the 2011 Plan or any evidence of Award in whole or in part. However, options issued under the 2011 Plan may not be re-priced, replaced, or re-granted through cancellation without the prior approval of the Company's shareholders, and no amendment of the 2011 Plan shall be made without shareholder approval if shareholder approval is required by law, regulation, or stock exchange rule.  Furthermore, no such alteration, amendment, modification, suspension or amendment shall adversely affect in any material way any Award previously granted, without the grantee's written consent, except as required under tax laws.  The 2011 Plan can be amended from time to time to ensure continued compliance with Tax Code Section 409A. The Committee may specify any conditions or events that may cause an Award to be forfeited, reduced, cancelled or be subject to recoupment.  The Committee may provide for accelerated vesting of any Award based on the achievement of performance goals pursuant to certain performance measures.  In addition, the Committee may accelerate the vesting and exercisability of outstanding options, freestanding SARs, restricted stock or restricted stock units in the event of a change in control of the Company. A change in control is defined under the 2011 Plan as (i) an acquisition by any person or a group of persons of all or substantially all of the assets of the Company (meaning assets with a total gross fair market value of at least 50.1% of the total gross fair market value of all of Forward's assets immediately before such acquisition or acquisitions); or (ii) a merger, consolidation, or reorganization of Forward into or with another corporation or entity resulting in less than 50.1% of the outstanding securities entitled to vote generally in the election of directors or other capital interests of the surviving or acquiring corporation being beneficially owned by the shareholders of Forward immediately prior to the completion of the transaction, in each case during a 12-month period.
+Forfeiture
+The 2011 Plan provides that any current or former executive officer who received any Awards within a 36-month period prior to the date the Company is required to prepare an accounting restatement due to the material noncompliance of the Company with any financial reporting requirement under the securities laws shall return such Award to the Company upon demand by the Company. The amount to be recovered shall be the amount of incentive-based Awards, including equity awards, in excess of what would have been paid without the restated results. The operation of these provisions of the 2011 Plan shall be in accordance with the provisions of Section 954 of the Dodd-Frank Wall Street Reform and Consumer Protection Act and any applicable guidance.
+Federal Income Tax Consequences
+Incentive Options
+Options that are granted under the 2011 Plan and that are intended to qualify as incentive stock options must comply with the requirements of Section 422 of the Tax Code. An option holder is not taxed upon the grant or exercise of an incentive stock option; however, the difference between the fair market value of the shares of Common Stock on the exercise date and the option price will be an item of adjustment for purposes of the alternative minimum tax (unless the stock acquired through the exercise of the incentive stock option is disposed of in the same tax year). If an option holder holds shares of Common Stock acquired upon the exercise of an incentive stock option for at least two years following the date of the grant of the option and at least one year following the exercise of the option, the option holder's gain, if any, upon a subsequent disposition of such shares will be treated as long-term capital gain for federal income tax purposes. The measure of the gain is the difference between the proceeds received on disposition and the option holder's basis in the shares (which generally would equal the exercise price). If the option holder disposes of shares of Common Stock acquired pursuant to exercise of an incentive stock option before satisfying the one-and-two year holding periods described above, the option holder may recognize both ordinary income and capital gain in the year of disposition. The amount of the ordinary income will be the lesser of (i) the amount realized on disposition less the option holder's adjusted basis in the shares (generally the option exercise price); or (ii) the difference between the fair market value of the shares on the exercise date and the option price. The balance of the consideration received on such disposition will be long-term capital gain if the shares had been held for at least one year following exercise of the incentive stock option.
+The Company is not entitled to an income tax deduction on the grant or the exercise of an incentive stock option or on the option holder's disposition of the shares of Common Stock after satisfying the holding period requirement described above. If the holding periods are not satisfied, the Company generally will be entitled to an income tax deduction in the year the option holder disposes of the shares, in an amount equal to the ordinary income recognized by the option holder.
+Nonqualified Options
+In the case of a non-qualified stock option, an option holder is not taxed on the grant of such option. Upon exercise, however, the participant recognizes ordinary income equal to the difference between the option price and the fair market value of the shares of Common Stock on the date of the exercise. The Company generally is entitled to an income tax deduction in the year of exercise in the amount of the ordinary income recognized by the option holder. Any gain on subsequent disposition of the shares of Common Stock is long-term capital gain if the shares are held for at least one year following the exercise. The Company does not receive an income tax deduction for this gain. SARs
+No taxable income will be recognized by the participant upon receipt of a SAR and the Company will not be entitled to a tax deduction upon the grant of such right.
+Upon the exercise of a SAR, the holder will include in taxable income, for federal income tax purposes, the fair market value of the cash and other property received with respect to the SAR and the Company generally wil  be entitled to a corresponding tax deduction. 
+Other Awards
+A recipient of restricted stock, restricted stock units, performance shares and performance units will not have taxable income upon grant, but will have ordinary income at the time of vesting. The amount of income will equal the fair market value on the vesting date of the shares and/or cash received minus the amount, if any, paid by the recipient. A recipient of restricted stock may instead, however, elect to be taxed at the time of grant. The Company will generally be entitled to an income tax deduction for the taxable year for which the recipient includes the amount in income.
+The 2011 Plan originally was intended to satisfy the performance-based compensation exception to the limitation on the Company's tax deductions imposed by Section 162(m) of the Tax Code with respect to those grants for which such qualification as available and for such exception is intended.  Effective January 1, 2018, the performance-based compensation exemption and the exemption of the chief financial officer from Section 162(m)'s deduction limit have been repealed, such that awards paid to the Company's covered executive officers (including chief executive officer) in excess of $1 million will not be deductible in future years, unless it qualifies for transition relief applicable to certain grandfathered arrangements. The 2011 Plan is also intended to be exempt from Tax Code Section 409A or to comply with Tax Code Section 401A to the extent it is applicable.
+Equity Compensation Plan Information
+The following chart reflects the number of awards granted under equity compensation plans approved and not approved by shareholders and the weighted average exercise price for such plans as of September 30, 2018.
+[BEGIN TABLE]
+  Name Of Plan       Number of securities to be issued upon exercise of  		 outstanding options, warrants  and rights (a)        Weighted average exercise price of outstanding options, warrants  		 and rights (b)($)       Number of  securities  remaining  		 available for  future issuance  under equity  compensation  		 plans (excluding  securities reflected  in column (a)) (c)  
+ Equity compensation plans approved by    security holders:                          
+  2007 Equity Incentive Plan          85,000        2.48        - 
+  2011 Long Term Incentive Plan         457,566        1.64        1,021,453 
+ Equity compensation plans not approved    by security holders:        -             -        - 
+      Total         545,066        1.78        1,021,453 
+[END TABLE]
+Prior Plans
+There are no shares of common stock reserved for issuance under the Company's 2007 Equity Incentive Plan (the "Prior Plan"). Forward will not issue any more awards under the Prior Plan.
+New Plan Benefits
+Because future grants of awards under the 2011 Plan are subject to the discretion of the Board and the Administrator, the future awards that may be granted to participants cannot be determined at this time.  There are no grants that have been previously made which are contingent upon receiving shareholder approval of the grant.
+The Board recommends a vote "For" this Proposal No. 2. PROPOSAL 3. RATIFICATION OF THE APPOINTMENT OF OUR INDEPENDENT REGISTERED PUBLIC ACCOUNTING FIRM FOR FISCAL YEAR 2019
+Our Board has appointed CohnReznick LLP to serve as our independent registered public accounting firm for the fiscal year ending September 30, 2019. CohnReznick LLP has been Forward's independent registered public accounting firm since 2010. Selection of Forward's independent registered public accounting firm is not required to be submitted to a vote of the shareholders of Forward for ratification. However, Forward is submitting this matter to the shareholders as a matter of good corporate governance. Even if the appointment is ratified, the Board may, in its discretion, appoint a different independent registered public accounting firm at any time during the year if they determine that such a change would be in the best interests of Forward and its shareholders. If the appointment is not ratified, the Board will consider its options.
+A representative of CohnReznick LLP is expected to be present at the Annual Meeting.
+The Board recommends a vote "For" this Proposal No. 3
+The Audit Committee, which currently consists of Sangita Shah, James Ziglar, and Howard Morgan, reviews Forward's financial reporting process on behalf of the Board and administers our engagement of the independent registered public accounting firm. The Audit Committee meets with the independent registered public accounting firm, with and without management present, to discuss the results of its examinations, the evaluations of our internal controls, and the overall quality of our financial reporting. Management has the primary responsibility for the financial statements and the reporting process, including the system of internal controls.
+The Audit Committee has met and held discussions with management and CohnReznick. Management represented to the Audit Committee that our financial statements were prepared in accordance with generally accepted accounting principles and the Audit Committee has reviewed and discussed the financial statements with management and CohnReznick. The Audit Committee reviewed with CohnReznick its judgments as to the quality, not just the acceptability, of our accounting principles and such other matters as are required to be discussed with the Audit Committee in accordance with the standards of the Public Company Accounting Oversight Board, which we refer to as the "PCAOB."
+Audit Committee Report  
+The Audit Committee has:
+reviewed and discussed the audited financial statements with management;   
+met privately with the independent registered public accounting firm and discussed matters required by Auditing Standard 1301, Communications with Audit Committees, as adopted by the PCAOB;   
+received the written disclosures and the letter from the independent registered public accounting firm, as required by the applicable requirements of the PCAOB regarding the independent registered public accounting firm's communications with the Audit Committee concerning independence, and has discussed with its independent registered public accounting firm its independence from us; and in reliance on the review and discussions referred to above, the Audit Committee recommended to the Board that the audited financial statements be included in the Annual Report on Form 10-K for the fiscal year ended September 30, 2018 filed with the SEC.
+This report is submitted by the Audit Committee:
+ Sangita Shah 
+Howard Morgan
+James Ziglar
+The above Audit Committee Report is not deemed to be "soliciting material," is not "filed" with the SEC and is not to be incorporated by reference in any filings that Forward files with the SEC. It is not the duty of the Audit Committee to determine that Forward's financial statements and disclosures are complete and accurate and in accordance with generally accepted accounting principles or to plan or conduct audits. Those are the responsibilities of management and Forward's independent registered public accounting firm. In giving its recommendation to the Board, the Audit Committee has relied on: (1) management's representations that such financial statements have been prepared with integrity and objectivity and in conformity with GAAP; and (2) the report of Forward independent registered public accounting firm with respect to such financial statements.
+Audit Committee's Pre-Approval Policy
+The Audit Committee pre-approves all audit and permissible non-audit services on a case-by-case basis. In its review of non-audit services, the Audit Committee considers whether the engagement could compromise the independence of our independent registered public accounting firm, and whether the reasons of efficiency or convenience is in our best interest to engage our independent registered public accounting firm to perform the services.
+Principal Accountant Fees and Services
+The following table sets forth the aggregate fees for audit and other services provided by CohnReznick LLP for the fiscal years ended 2018 and 2017:
+[BEGIN TABLE]
+      2018  ($)           2017  ($) 
+      2018  ($)           2017  ($) 
+  Audit    Fees (1)       196,130               166,590 
+  Audit    Related Fees (2)       125,160               - 
+  Tax    Fees       -               - 
+  All    Other Fees       -               -  
+          Total       321,290               166,590 
+  (1)   Audit fees - these fees    relate to the annual audits and quarterly reviews of our financial statements    and registration statements as well as services that are normally provided by    the independent registered public accounting firm in connection with statutory    and regulatory filings or engagements.    
+  (2)     Audit Related Fees -    these relate to the audit fees incurred in connection with the acquisition of    IPS.    
+[END TABLE]
+OTHER MATTERS
+The Company has no knowledge of any other matters that may come before the Annual Meeting and does not intend to present any other matters. However, if any other matters shall properly come before the Meeting or any adjournment, the persons soliciting proxies will have the discretion to vote as they see fit unless directed otherwise.
+If you do not plan to attend the Annual Meeting, in order that your shares may be represented and in order to assure the required quorum, please sign, date and return your proxy promptly. In the event you are able to attend the Annual Meeting, at your request, the Company will cancel your previously submitted proxy. 
+[BEGIN TABLE]
+  FORWARD INDUSTRIES, INC.  THIS PROXY IS SOLICITED ON BEHALF OF THE BOARD OF    DIRECTORS  ANNUAL MEETING OF SHAREHOLDERS - FEBRUARY 5, 2019 AT    10:00 AM 
+  FORWARD INDUSTRIES, INC.  THIS PROXY IS SOLICITED ON BEHALF OF THE BOARD OF    DIRECTORS  ANNUAL MEETING OF SHAREHOLDERS - FEBRUARY 5, 2019 AT    10:00 AM 
+  FORWARD INDUSTRIES, INC.  THIS PROXY IS SOLICITED ON BEHALF OF THE BOARD OF    DIRECTORS  ANNUAL MEETING OF SHAREHOLDERS - FEBRUARY 5, 2019 AT    10:00 AM 
+[END TABLE]
+VOTING INSTRUCTIONS
+If you vote by phone or internet, please DO NOT mail   your proxy card.
+[BEGIN TABLE]
+  MAIL:   Please    mark, sign, date, and return this Proxy Card promptly using the enclosed    envelope. 
+  PHONE:   Call    1 (800) 690-6903 
+  INTERNET:   https://www.proxyvote.com  
+[END TABLE]
+Control ID:
+Proxy ID:
+Password:
+[BEGIN TABLE]
+  MARK "X" HERE IF YOU PLAN TO ATTEND THE MEETING:  			☐ 
+  MARK HERE FOR ADDRESS CHANGE  ☐ New Address (if    applicable):  ____________________________  ____________________________  ____________________________     IMPORTANT:    Please sign exactly as your name or    names appear on this Proxy. When shares are held jointly, each holder should    sign. When signing as executor, administrator, attorney, trustee or guardian,    please give full title as such. If the signer is a corporation, please sign    full corporate name by duly authorized officer, giving full title as such. If    signer is a partnership, please sign in partnership name by authorized    person.     Dated:    ________________________, 201___ 
+  MARK HERE FOR ADDRESS CHANGE  ☐ New Address (if    applicable):  ____________________________  ____________________________  ____________________________     IMPORTANT:    Please sign exactly as your name or    names appear on this Proxy. When shares are held jointly, each holder should    sign. When signing as executor, administrator, attorney, trustee or guardian,    please give full title as such. If the signer is a corporation, please sign    full corporate name by duly authorized officer, giving full title as such. If    signer is a partnership, please sign in partnership name by authorized    person.     Dated:    ________________________, 201___ 
+  MARK HERE FOR ADDRESS CHANGE  ☐ New Address (if    applicable):  ____________________________  ____________________________  ____________________________     IMPORTANT:    Please sign exactly as your name or    names appear on this Proxy. When shares are held jointly, each holder should    sign. When signing as executor, administrator, attorney, trustee or guardian,    please give full title as such. If the signer is a corporation, please sign    full corporate name by duly authorized officer, giving full title as such. If    signer is a partnership, please sign in partnership name by authorized    person.     Dated:    ________________________, 201___ 
+  MARK HERE FOR ADDRESS CHANGE  ☐ New Address (if    applicable):  ____________________________  ____________________________  ____________________________     IMPORTANT:    Please sign exactly as your name or    names appear on this Proxy. When shares are held jointly, each holder should    sign. When signing as executor, administrator, attorney, trustee or guardian,    please give full title as such. If the signer is a corporation, please sign    full corporate name by duly authorized officer, giving full title as such. If    signer is a partnership, please sign in partnership name by authorized    person.     Dated:    ________________________, 201___ 
+  MARK HERE FOR ADDRESS CHANGE  ☐ New Address (if    applicable):  ____________________________  ____________________________  ____________________________     IMPORTANT:    Please sign exactly as your name or    names appear on this Proxy. When shares are held jointly, each holder should    sign. When signing as executor, administrator, attorney, trustee or guardian,    please give full title as such. If the signer is a corporation, please sign    full corporate name by duly authorized officer, giving full title as such. If    signer is a partnership, please sign in partnership name by authorized    person.     Dated:    ________________________, 201___ 
+  MARK HERE FOR ADDRESS CHANGE  ☐ New Address (if    applicable):  ____________________________  ____________________________  ____________________________     IMPORTANT:    Please sign exactly as your name or    names appear on this Proxy. When shares are held jointly, each holder should    sign. When signing as executor, administrator, attorney, trustee or guardian,    please give full title as such. If the signer is a corporation, please sign    full corporate name by duly authorized officer, giving full title as such. If    signer is a partnership, please sign in partnership name by authorized    person.     Dated:    ________________________, 201___ 
+  MARK HERE FOR ADDRESS CHANGE  ☐ New Address (if    applicable):  ____________________________  ____________________________  ____________________________     IMPORTANT:    Please sign exactly as your name or    names appear on this Proxy. When shares are held jointly, each holder should    sign. When signing as executor, administrator, attorney, trustee or guardian,    please give full title as such. If the signer is a corporation, please sign    full corporate name by duly authorized officer, giving full title as such. If    signer is a partnership, please sign in partnership name by authorized    person.     Dated:    ________________________, 201___ 
+  MARK HERE FOR ADDRESS CHANGE  ☐ New Address (if    applicable):  ____________________________  ____________________________  ____________________________     IMPORTANT:    Please sign exactly as your name or    names appear on this Proxy. When shares are held jointly, each holder should    sign. When signing as executor, administrator, attorney, trustee or guardian,    please give full title as such. If the signer is a corporation, please sign    full corporate name by duly authorized officer, giving full title as such. If    signer is a partnership, please sign in partnership name by authorized    person.     Dated:    ________________________, 201___ 
+  (Print Name of Shareholder and/or Joint Tenant)  
+  (Signature of Shareholder)  
+  (Second Signature if held jointly)  
+[END TABLE]
+ The shareholder(s) hereby appoints Terence Wise and Michael Matte, or either of them, as proxies, each with the power to appoint his substitute, and hereby authorizes them to represent and to vote, as designated on the reverse side of this ballot, all of the shares of voting stock of FORWARD INDUSTRIES, INC. that the shareholder(s) is/are entitled to vote at the Annual Meeting of Shareholder(s) to be held at 10:00 a.m., New York time on February 5, 2019, at 1301 Avenue of the Americas in New York, New York, and any adjournment or postponement thereof.
+This proxy, when properly executed, will be voted in the manner directed herein. If no such direction is made, this proxy will be voted "FOR" all of the nominees in Proposal 1 and "FOR" Proposals 2 and 3.  If any other business is presented at the meeting, this proxy will be voted by the above-named proxies at the direction of the Board of Directors. At the present time, the Board of Directors knows of no other business to be presented at the meeting.
+Proposal:
+1. To elect members to Forward's Board of Directors.
+[BEGIN TABLE]
+  Terence    Wise   FOR    ☐   WITHHELD ☐   Sangita    Shah   FOR    ☐   WITHHELD    ☐ 
+  Howard    Morgan   FOR    ☐   WITHHELD    ☐   James    Ziglar   FOR    ☐   WITHHELD    ☐ 
+[END TABLE]
+[BEGIN TABLE]
+  2.    To ratify and approve the    increase in the number of shares that may be issued pursuant to Full Value    Awards under the 2011 Long Term Incentive Plan from 400,000 to 800,000    shares.   FOR    ☐   AGAINST  		☐      ABSTAIN ☐ 
+  3.    To ratify the appointment of Forward's independent registered public    accounting firm for fiscal 2019.   FOR    ☐   AGAINST  		☐      ABSTAIN ☐ 
+[END TABLE]
+Control ID:
+Proxy ID:
+Password:  

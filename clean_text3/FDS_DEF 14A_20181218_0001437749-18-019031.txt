@@ -1,0 +1,980 @@
+ 
+UNITED STATES 
+SECURITIES AND EXCHANGE COMMISSION 
+WASHINGTON, D.C. 20549 
+SCHEDULE 14A
+Proxy Statement Pursuant to Section 14(a) of the Securities
+Exchange Act of 1934 (Amendment No.   )
+[BEGIN TABLE]
+ Filed by the Registrant       ☒  
+[END TABLE]
+[BEGIN TABLE]
+ Filed by a Party other than the Registrant        ☐  
+[END TABLE]
+Check the appropriate box:
+[BEGIN TABLE]
+ ☐   Preliminary Proxy Statement  
+ ☐   Confidential, for Use of the Commission Only (as permitted by Rule 14a-6(e)(2))  
+ ☐   Definitive Additional Materials  
+ ☐   Soliciting Material Pursuant to §240.14a-12  
+[END TABLE]
+FACTSET RESEARCH SYSTEMS INC. 
+[BEGIN TABLE]
+ (Name of Registrant as Specified in its Charter)  
+[END TABLE]
+[BEGIN TABLE]
+ (Name of Person(s) Filing Proxy Statement, if other than the Registrant)  
+[END TABLE]
+Payment of Filing Fee (Check the appropriate box):
+[BEGIN TABLE]
+ ☐   Fee computed on table below per Exchange Act Rules 14a-6(i)(1) and 0-11.  
+[END TABLE]
+[BEGIN TABLE]
+   1.   Title of each class of securities to which transaction applies:  
+   2.   Aggregate number of securities to which transaction applies:  
+   3.   Per unit price or other underlying value of transaction computed pursuant to Exchange Act Rule 0-11 (set forth the amount on which the filing fee is calculated and state how it was determined):  
+   4.   Proposed maximum aggregate value of transaction:  
+   5.   Total fee paid:  
+[END TABLE]
+[BEGIN TABLE]
+ ☐   Check box if any part of the fee is offset as provided by Exchange Act Rule 0-11(a)(2) and identify the filing for which the offsetting fee was paid previously. Identify the previous filing by registration statement number, or the Form or Schedule and the date of its filing.  
+[END TABLE]
+[BEGIN TABLE]
+   1.   Amount Previously Paid:  
+   2.   Form, Schedule or Registration Statement No.:  
+   3.   Filing Party:  
+   4.   Date Filed:  
+[END TABLE]
+October 30, 2018
+Dear FactSet Stockholder:
+         You are cordially invited to attend the 2018 Annual Meeting of Stockholders of FactSet Research Systems Inc., which will be held at our corporate headquarters at 601 Merritt 7, Norwalk, Connecticut 06851 on Tuesday, December 18, 2018, at 3:00 p.m. (Eastern Time).
+         Details of the business to be conducted at the Annual Meeting are given in the attached Notice of Annual Meeting and Proxy Statement. Your vote is important. Whether or not you plan to attend the meeting in person, you are requested to complete, sign, date and promptly return the enclosed proxy card in the envelope provided or through Internet voting. Your proxy will be voted at the Annual Meeting in accordance with your instructions. If you do not specify a choice on one of the proposals described in this Proxy Statement, your proxy will be voted as recommended by the Board of Directors. If you hold your shares through an account with a brokerage firm or other nominee or fiduciary such as a bank, please follow the instructions you receive from such brokerage firm or other nominee or fiduciary to vote your shares.
+If you plan to attend the meeting in person, please respond affirmatively to the request by marking the box on the proxy card. You will be asked to present valid picture identification. No recordings or photography will not be permitted at the meeting.
+         On behalf of the Board of Directors, I would like to express our appreciation for your continued support and loyalty.
+FACTSET RESEARCH SYSTEMS INC.  NOTICE OF ANNUAL MEETING OF STOCKHOLDERS
+December 18, 2018  3:00 p.m. Eastern Time
+Dear Stockholder:
+The 2018 Annual Meeting of Stockholders of FactSet Research Systems Inc. ("FactSet" or the "Company"), a Delaware corporation, will be held at the Company's corporate headquarters at 601 Merritt 7, Norwalk, Connecticut 06851, on Tuesday, December 18, 2018, at 3:00 p.m. (Eastern Time) for the following purposes:
+[BEGIN TABLE]
+   1.   To elect three directors to the Board of Directors.  
+[END TABLE]
+[BEGIN TABLE]
+   2.   To ratify the appointment of the accounting firm of Ernst & Young LLP as FactSet's independent registered accounting firm for the fiscal year ending August 31, 2019.  
+[END TABLE]
+[BEGIN TABLE]
+   3.   To approve, by non-binding vote, the compensation of the Company's named executive officers.  
+[END TABLE]
+To act upon such other business as may properly come before the Annual Meeting or any adjournment or postponement of the Annual Meeting.
+These items are more fully described in the following pages, which are made part of this notice. Only stockholders of record at the close of business on October 24, 2018, are entitled notice of, and to vote at, this meeting.
+The Company is pleased to take advantage of the Securities and Exchange Commission rules again this year that allow FactSet to furnish these proxy materials, including its Annual Report on Form 10-K, to stockholders on the Internet. The Company believes that posting these materials on the Internet expedites stockholders' receipt of the information that they need, while lowering the costs of printing and delivery and reducing the environmental impact of its Annual Meeting. The Company mailed to its stockholders of record and beneficial owners the Notice of Internet Availability of Proxy Materials containing instructions on how to access these proxy materials, including FactSet's Annual Report on Form 10-K, on the Internet, as well as how to vote by Internet and mail.
+To request and receive a free paper copy of the Proxy materials, please call 1-866-641-4276 and follow the instructions to log in and order the materials by mail, or you may request a copy by email at investorvote@computershare.com with "Proxy Materials FactSet Research Systems Inc." in the subject line, or by logging onto www.envisionreports.com/FDS and click "Cast Your Vote" or "Request Materials." FactSet encourages you to record your vote via the Internet as it is convenient and saves on printing costs.
+As a stockholder of FactSet, your vote is important. Whether or not you plan to attend the Annual Meeting in person, it is important that you vote as soon as possible to ensure that your shares are represented.
+TABLE OF CONTENTS
+[BEGIN TABLE]
+ Annual Meeting Overview   1  
+ Voting Information   2  
+ Corporate Governance    
+ Board Leadership Structure   5  
+ Director Independence   5  
+ Business Experience and Qualifications of Board Members   6  
+ Legal Proceedings   9  
+ Board Responsibilities   9  
+ Board Meetings   10  
+ Board Committees   10  
+ Additional Corporate Governance Information   11  
+ Director Compensation Program   11  
+ Director Compensation Table   12  
+ Director Nominations   13  
+ Proposal 1: Election of Directors   14  
+ Audit Committee Report   15  
+ Proposal 2: Ratification of Independent Registered Public Accounting Firm   16  
+ Compensation Discussion and Analysis   17  
+ Compensation and Talent Committee Report   29  
+ Executive Compensation   30  
+ Summary Compensation Table   30  
+ Grants of Plan-Based Awards   31  
+ Outstanding Equity Awards (Restricted Stock) at Fiscal Year-End   32  
+ Outstanding Equity Awards (Stock Options) at Fiscal Year-End   32  
+ Option Exercises and Stock Vested   33  
+ Nonqualified Deferred Compensation   33  
+ Pension Benefits   33  
+ Potential Payments upon Termination or Change in Control   33  
+ CEO Pay Ratio   34  
+ Compensation Risk Assessment   35  
+ Proposal 3: Advisory Vote on Executive Compensation   36  
+ Security Ownership of Certain Beneficial Owners and Management   37  
+ Equity Compensation Plan Information   39  
+ Certain Relationships and Related Transactions   39  
+ Other Matters   40  
+[END TABLE]
+FACTSET RESEARCH SYSTEMS INC.  601 Merritt 7  Norwalk, Connecticut 06851
+PROXY STATEMENT FOR THE 2018 ANNUAL MEETING
+ANNUAL MEETING OVERVIEW
+Purpose of Meeting
+The Board of Directors of FactSet Research Systems Inc. ("FactSet" or the "Company") delivers this Proxy Statement and voting instructions in connection with the solicitation of proxies, which will be voted at the Annual Meeting of Stockholders of FactSet (the "Meeting"). The Meeting will be held at 3:00 p.m. (Eastern Time) on Tuesday, December 18, 2018, at 601 Merritt 7, Norwalk, Connecticut 06851, and any adjournment or postponement thereof, for the purposes set forth in the accompanying Notice of Annual Meeting of Stockholders (the "Notice"). The Proxy Statement was made available to FactSet's stockholders on October 30, 2018. The specific proposals to be considered and acted upon at the Meeting are summarized in the accompanying Notice. Each proposal is described in more detail in this Proxy Statement.
+Record Date and Share Ownership
+The only outstanding voting security of FactSet is its common stock, $0.01 par value per share. Stockholders of record at the close of business on October 24, 2018, will be entitled to vote at the Meeting on the basis of one vote for each share of FactSet common stock held. On October 24, 2018, there were 38,037,295 shares of FactSet common stock outstanding.
+Submitting and Revoking Your Proxy
+If you complete and submit your proxy, the persons named as proxies will follow your instructions. If you submit a proxy card but do not fill out the voting instructions on the proxy card, the persons named as proxies will vote your shares as follows:
+[BEGIN TABLE]
+   1.   To elect three directors to the Board of Directors.  
+[END TABLE]
+[BEGIN TABLE]
+   2.   To ratify the appointment of the accounting firm of Ernst & Young LLP as FactSet's independent registered accounting firm for the fiscal year ending August 31, 2019.  
+[END TABLE]
+[BEGIN TABLE]
+   3.   To approve, by non-binding vote, the compensation of the Company's named executive officers.  
+[END TABLE]
+In addition, if other matters are properly presented for voting at the Meeting, the persons named as proxies will vote on such matters in accordance with their best judgment. FactSet has not received notice of other matters that may be properly presented for vote at the Meeting. Your stockholder vote is important. Stockholders of record may vote their proxies by Internet, telephone or mail. Stockholders who execute proxies may revoke them at any time before they are exercised by written notice to the Secretary of the Company at or prior to the Meeting by timely delivery of a valid, later-dated proxy or by voting by ballot at the Meeting. The cost of the solicitation of proxies will be borne by FactSet.
+Expenses of Solicitation
+FactSet will bear the entire cost of preparing, printing and mailing this Notice and Proxy Statement, its proxy card, the Company's 2018 Annual Report on Form 10-K (the "Annual Report") and any additional solicitation material that FactSet may provide to stockholders, which is estimated to be approximately $200,000. The solicitation of proxies will be conducted primarily by mail, but may also include internet, telephone, facsimile or oral communications by directors, officers or regular employees of the Company acting without special compensation. If you hold your shares through a bank, broker or other holder of record and share a single address and same last name with another stockholder, you may have received notice that only one Proxy Statement and Annual Report will be sent to your address unless you instructed the holder of record to the contrary. This practice, known as "householding", reduces multiple mailings to your household and also reduces the Company's printing and postage costs. If you have any questions or wish to receive additional copies of FactSet's 2018 Proxy Statement or Annual Report, please contact the Company's Investor Relations Department at 1-203-810-1000. The mailing address is 601 Merritt 7, Norwalk, Connecticut 06851 and its website address is https://investor.factset.com.
+Availability of FactSet's Fiscal 2018 Annual Report on Form 10-K
+FactSet will mail, upon written request and without charge, a copy of the Fiscal 2018 Annual Report, including the consolidated financial statements, schedule and list of exhibits. Requests should be sent to: FactSet Research Systems Inc., 601 Merritt 7, Norwalk, Connecticut 06851, Attn: Investor Relations. The Company's Annual Report is also available at https://investor.factset.com.
+VOTING INFORMATION
+Why am I receiving these proxy materials? 
+The Board of Directors of the Company (the "Board") is asking for your proxy for use at the Meeting, to be held at its corporate headquarters at 601 Merritt 7 Norwalk, Connecticut 06851 on Tuesday, December 18, 2018 at 3:00 p.m. (Eastern Time), and at any adjournment or postponement of the Meeting. As a stockholder, you are invited to attend the Meeting and are entitled to and requested to vote on the items of business described in this Proxy Statement.
+What is a proxy? 
+A proxy is another person you authorize to vote on your behalf. FactSet asks stockholders to instruct the proxy how to vote so that all common shares may be voted at the Meeting even if the holders do not attend the Meeting.
+Who is soliciting my vote? 
+The Board of Directors of the Company is soliciting your vote.
+When were the enclosed solicitation materials first given to stockholders? 
+FactSet is initially mailing to stockholders the Proxy Statement, proxy card and Notice on November 5, 2018.
+What is the purpose of the Meeting?
+The Meeting will be held for the following purposes:
+[BEGIN TABLE]
+● To elect three directors to the Board of Directors;  
+[END TABLE]
+[BEGIN TABLE]
+● To ratify the appointment of the accounting firm of Ernst & Young LLP as FactSet's independent registered public accounting firm for the fiscal year ending August 31, 2019; and  
+[END TABLE]
+[BEGIN TABLE]
+● To vote on a non-binding advisory resolution to approve the compensation of the Company's named executive officers.  
+[END TABLE]
+What are the Board of Director's recommendations? 
+FactSet's Board of Directors recommends that you vote:
+[BEGIN TABLE]
+● FOR the election of each director nominee named in this Proxy Statement (Proposal 1);  
+[END TABLE]
+[BEGIN TABLE]
+● FOR the ratification of the appointment of Ernst & Young LLP as FactSet's independent registered accounting firm for the fiscal year ending August 31, 2019 (Proposal 2); and  
+[END TABLE]
+[BEGIN TABLE]
+● FOR the approval, on a non-binding basis, of the compensation awarded to the Company's named executive officers (Proposal 3);  
+[END TABLE]
+How do I vote? 
+For stockholders whose shares are registered in their own names, as an alternative to voting in person at the Meeting, you may vote via the Internet, by telephone, or for those stockholders who receive a paper proxy card in the mail, by mailing a completed proxy card. For those stockholders who receive a Notice of Internet Availability of Proxy Materials, it provides information on how to access your proxy card, which contains instructions on how to vote via the Internet or by telephone. For those stockholders who receive a paper proxy card, instructions for voting via the Internet or by telephone are set forth on the proxy card. Those stockholders who receive a paper proxy card and voting instructions by mail, and who elect to vote by mail, should sign and return the mailed proxy card in the prepaid and addressed envelope that was enclosed with the proxy materials, and your shares will be voted at the Meeting in the manner you direct. If your proxy card is properly completed and received, and if it is not revoked, before the Meeting, your shares will be voted at the Meeting according to the instructions indicated on your proxy card. In the event that you return a signed proxy card on which no directions are specified, your shares will be voted FOR the election of each of the director nominees listed (Proposal 1), FOR the ratification of Ernst & Young LLP as FactSet's independent registered public accounting firm for the fiscal year ending August 31, 2019 (Proposal 2), and FOR the approval, on a non-binding basis, of the compensation awarded to the Company's named executive officers (Proposal 3). To the Company's knowledge, no other matters will be presented at the Meeting. However, if any other matters of business are properly presented, the proxy holders named on the proxy card are authorized to vote the shares represented by proxies according to their judgment.
+If your shares are held in a brokerage account, you should receive instructions from your record holder that must be followed in order for your record holder to vote your shares per your instructions. Many banks and brokerage firms have a process for their beneficial holders to provide instructions via the Internet or over the telephone. If Internet or telephone voting is unavailable from your bank or brokerage firm, please complete and return the enclosed voting instruction card. If you are the beneficial owner of shares held in "street name" and you do not give instructions as to how to vote, your broker may have authority to vote your shares on certain discretionary items, but not other, non-discretionary items, as determined by the New York Stock Exchange ("NYSE"). Proposal 1 (election of directors) and Proposal 3 (approval of compensation) are considered non-discretionary items and thus brokers are not permitted to vote your shares in these matters unless you provide instructions to your broker on how to vote your shares. In other words, if you have not given your broker voting instructions, your broker will not be able to vote your shares with respect to any matter other than ratification of the appointment of Proposal 2 (FactSet's independent registered public accounting firm).
+How many votes does it take to pass each matter? 
+If a quorum is present at the meeting, the approval of each proposal requires the number of votes described below:
+[BEGIN TABLE]
+● Under FactSet's amended by-laws, the nominees for election as directors of the Company are elected by majority vote, meaning that in an uncontested director election when the number of votes cast "for" a director exceeds the number of votes cast "against" that director, the nominee will be elected as a director. If a director does not receive a majority vote in an uncontested election, the director shall not be elected and shall submit his or her offer of resignation for consideration by the Nominating and Corporate Governance Committee within 90 days from the date of the election. That committee will then consider all of the relevant facts and circumstances and recommend to the Board the action to be taken with respect to such offer of resignation and in determining whether to accept such offer. An incumbent director who does not receive a majority vote will continue to serve as a director until the earlier of 1) a period of 90 days from the date of the election, 2) the date upon which the Board of Directors appoints an individual to fill the office held by that director, or 3) the date of that director's resignation.  
+[END TABLE]
+[BEGIN TABLE]
+● The ratification of Ernst & Young LLP as the Company's independent registered public accounting firm for the fiscal year ended August 31, 2019, requires that a majority of the votes cast at the Meeting (either in person or by proxy) be voted "for" this proposal.  
+[END TABLE]
+[BEGIN TABLE]
+● The approval of a resolution approving the compensation of FactSet's named executive officers as disclosed in this Proxy Statement is an advisory vote. However, the Company values the opinions of its stockholders and will take into account the outcome of this vote in considering future compensation arrangements.  
+[END TABLE]
+Who is entitled to vote at the Meeting and how many votes do they have? 
+Only holders of record of FactSet common stock at the close of business on October 24, 2018, will be entitled to vote at the Meeting. Each share has one vote.
+Who can attend the Meeting? 
+All stockholders as of October 24, 2018, or their duly appointed proxies, may attend the Meeting. In order to be admitted to the Meeting, a stockholder must own Company stock on the Record Date. If your shares are held in the name of a broker, bank, custodian, nominee or other record holder ("street name"), you must obtain a proxy, executed in your favor, from the holder of record (that is, your broker, bank, custodian, or nominee) to be able to vote at the Meeting.
+What is a quorum of stockholders? 
+If a majority of the shares outstanding and entitled to vote on the Record Date are present, either in person or by proxy, the Company will have a quorum at the Meeting. Any shares represented by proxies that are marked for, against, withhold, or abstain from voting on a proposal will be counted as present in determining whether there is a quorum. If a broker, bank, custodian, nominee, or other record holder of the Company's common stock indicates on a proxy card that it does not have discretionary authority to vote certain shares on a particular matter, and if it has not received instructions from the beneficial owners of such shares as to how to vote on such matters, the shares held by that record holder will not be voted on such matter (referred to as "broker non-votes") but will be counted as present for purposes of determining whether there is a quorum. Since there were 38,037,295 shares of common stock outstanding on October 24, 2018, the presence of holders of 19,018,648 shares is a quorum. FactSet must have a quorum to conduct the Meeting.
+Vote Tabulation
+The appointed inspector of elections from Computershare will tabulate votes cast by proxy or in person at the Meeting. If you abstain from voting on any or all proposals you will be included in the number of stockholders present at the Meeting for the purposes of determining the presence of a quorum.
+What are broker non-votes?
+If you hold shares beneficially in street name and do not provide your broker with voting instructions, your shares may constitute broker non-votes. Broker non-votes occur on a matter when a broker is not permitted to vote on that matter without instructions from the beneficial owner and instructions are not given. These matters are referred to as non-discretionary matters.
+How are abstentions and broker non-votes treated? 
+Abstentions and broker non-votes count for purposes of determining the presence of a quorum. Abstentions and broker non-votes have no effect on the determination of whether a nominee or any of the proposals have received the vote of a majority of the shares of common stock present or represented by proxy and voting at the Meeting. However, abstentions and broker non-votes could prevent the approval of a proposal where the number of affirmative votes, though a majority of the votes represented and cast, does not constitute a majority of the required quorum.
+What does it mean if I receive more than one proxy card or instruction form? 
+If you receive more than one proxy card or instruction form, it means that you have multiple accounts with FactSet's transfer agent and/or a broker or other nominee or fiduciary or you may hold your shares in different ways or in multiple names (e.g., joint tenancy, trusts, and custodial accounts). Please vote all your shares.
+How do I revoke my proxy and change my vote prior to the Meeting? 
+If you submit the enclosed proxy card by voting using the mail, Internet or telephone procedures, you may change your vote before the Meeting. You may change your vote in one of four ways: (1) you may deliver prior to the Meeting to the Secretary of FactSet Research Systems Inc., Rachel R. Stern, 601 Merritt 7, Norwalk, Connecticut 06851, a written notice dated later than the proxy you want to revoke, stating that the proxy is revoked, (2) you may complete and send in another proxy card with a later date using the mail, Internet or telephone procedures, subject to the voting deadlines set forth on the proxy card  or (3) you may attend the Meeting and vote in person. For shares you hold beneficially or in street name, you may change your vote by submitting a later dated voting instruction form to your broker or other nominee or fiduciary in accordance with its procedures, or if you obtained a legal proxy form giving you the right to vote your shares, by attending the Meeting and voting in person.
+Why did I receive a one-page notice in the mail regarding the Internet availability of proxy materials instead of a full set of printed proxy materials? 
+Pursuant to the notice and access rules adopted by the Securities and Exchange Commission ("SEC"), the Company is making this Proxy Statement and its Annual Report available to its stockholders over the Internet. As a result, unless you have previously requested electronic access to FactSet's proxy materials or the receipt of paper proxy materials, you will receive a Notice of Internet Availability of Proxy Materials containing instructions on how to access this Proxy Statement and Annual Report over the Internet, how to request a printed or e-mail copy of these materials and how to vote by Internet and mail. The Company will mail the Notice of Internet Availability of Proxy Materials on or about November 5, 2018. The Notice of Internet Availability of Proxy Materials is not a proxy card and cannot be used to vote your shares. In addition, if you are voting online, you will be prompted to consent to receiving proxy materials electronically in future years. Choosing to receive your future proxy materials electronically will save the Company the cost of printing and mailing documents to you and will reduce the impact of its annual meetings on the environment. If you choose to receive future proxy materials electronically, you will receive an e-mail next year with instructions containing a link to those materials and a link to the proxy voting site. Your election to receive proxy materials electronically will remain in effect until you terminate it.
+What is the difference between holding shares as a stockholder of record and as a beneficial owner? 
+Most FactSet stockholders hold their shares as a beneficial owner through a broker or other nominee rather than directly in their own name. As summarized below, there are some distinctions between shares held of record and those owned beneficially.
+Stockholder of Record
+If your shares are registered directly in your name with the Company's transfer agent, Computershare Shareowner Services, you are considered, with respect to those shares, the stockholder of record, and the Notice was sent directly to you by FactSet. As the stockholder of record, you have the right to grant your voting proxy directly to FactSet or to vote in person at the Meeting. If you requested to receive printed proxy materials, FactSet has enclosed or sent a proxy card for you to use. You may also vote on the Internet or by telephone.
+Beneficial Owner
+If your shares are held in an account at a brokerage firm, bank, broker-dealer, trust, or other similar organization, like the vast majority of the Company's stockholders, you are considered the beneficial owner of shares held in street name, and the Notice was forwarded to you by that organization. As the beneficial owner, you have the right to direct your broker, bank, trustee, or nominee how to vote your shares, and you are also invited to attend the Meeting. Since a beneficial owner is not the stockholder of record, you may not vote your shares in person unless you obtain a "legal proxy" from the broker, bank, trustee or nominee that holds your shares giving you the right to vote the shares at the Meeting.
+CORPORATE GOVERNANCE
+Board Leadership Structure
+The Board believes that the Company's stockholders are best served if the Board retains the flexibility to adapt its leadership structure to applicable facts and circumstances, which necessarily change over time. Accordingly, the Company's Corporate Governance Guidelines provide that the Board may combine or separate the roles of the Chairman of the Board of Directors ("Chairman") and Chief Executive Officer ("CEO"), as it deems advisable. Philip A. Hadley has served as Chairman since his unanimous appointment on September 5, 2000. Mr. Hadley stepped down from his role as CEO of FactSet on July 1, 2015 but continues to be an employee of the Company through November 1, 2018.
+F. Philip Snow assumed the role of CEO on July 1, 2015, having been an employee of FactSet since 1996. The Board believes Mr. Snow's leadership acumen combines a deep knowledge of FactSet clients, a commitment to its employees and a vision for the Company's continued growth. The Board has determined that this leadership structure, under which the roles of Chairman and CEO are separate, is currently in the best interest of the Company's stockholders. This structure permits Mr. Snow to focus on the management of the Company's day-to-day operations, while continuing to benefit from the knowledge and experience of Mr. Hadley. Meanwhile, Mr. Hadley, as Chairman, focuses on developing agendas that ensure that the Board's time and attention are focused on the most critical matters.
+Director Independence
+Each of the directors other than Mr. Hadley and Mr. Snow, are independent, and the Board believes that the independent directors provide effective oversight of management. The Board appointed James J. McGonigle as the Company's Lead Independent Director. Mr. McGonigle has served in this position since September 2005. As Lead Independent Director, Mr. McGonigle's responsibilities include:
+[BEGIN TABLE]
+● Coordinating and moderating executive sessions of the Board's independent directors.  
+[END TABLE]
+[BEGIN TABLE]
+● Advising the Chairman as to the quality, quantity and timeliness of the flow of information from management that is necessary for the independent directors to effectively and responsibly perform their duties.  
+[END TABLE]
+[BEGIN TABLE]
+● Holding regular update sessions with both the CEO and the Chairman.  
+[END TABLE]
+[BEGIN TABLE]
+● Acting as the principal liaison between the independent directors and the Chairman on sensitive issues.  
+[END TABLE]
+[BEGIN TABLE]
+● Performing such other duties as the Board may from time to time delegate to the Lead Independent Director to assist the Board in the fulfillment of its responsibilities.  
+[END TABLE]
+The independent directors, who constitute seven of the nine members, and a majority of the directors of the Company, meet at least four times annually after the end of each scheduled quarterly meeting of the Board. On October 23, 2018, the Company's Board reviewed the independence of its directors under the applicable standards of the NYSE and the NASDAQ Stock Market ("NASDAQ"). The Board determined that each director, other than Messrs. Hadley and Snow, qualifies as "independent" in accordance with those published listing requirements.
+Business Experience and Qualifications of Board Members
+The following discussion presents information about the persons who comprise FactSet's Board of Directors, including the three nominees for election.
+[BEGIN TABLE]
+   Robin A. Abrams 
+[END TABLE]
+Ms. Abrams, age 67, is a financial consultant who currently serves as a member of the Board of Directors of: HCL Technologies Ltd., a global offshore IT and software development company; Sierra Wireless, Inc., a leader in the design and delivery of customized connected lifestyle devices and services; and Lattice Semiconductor Corporation, a global leader in smart connectivity solutions. She also serves on the Board of Directors of the privately held company Zephyr Sleep Technologies of Canada, a developer of sleep technology. In addition, Ms. Abrams serves on the board of trustees for the Anita Borg Institute for Women and Technology. From August 2006 to January 2007, Ms. Abrams served as Interim CEO of ZILOG, Inc., a provider of integrated microcontroller products, where she also served as a director from 2004 to 2010. From July 2004 to July 2006, she served as CEO of Firefly Communications, Inc., a company with a range of mobile products that address the youth market. She received her B.A. in political science and history and her J.D. from the University of Nebraska.
+Ms. Abrams brings to the Board a wealth of experience at technology companies, which FactSet seeks to leverage to enhance its own development processes. She has seen how several highly successful technology companies stay ahead of their competition through properly planning their product development strategies. Her previous experiences as an executive officer at several technology companies makes Ms. Abrams an important resource for the Board as it assesses financial and strategic decisions.
+Mr. Billeadeau, age 57, is a Partner of Walrus Partners LLC, and Lead portfolio manager of the firm's Micro-cap Special Situations (S2) strategy. Mr. Billeadeau was a Managing Director of Small-cap and Mid-cap Growth Strategies at Fifth Third Asset Management ("Fifth Third"). Prior to working at Fifth Third, he was a Principal, Founder and Senior Portfolio Manager with Paladin Investment Associates, LLC ("Paladin") between March 2003 and October 2012, where he spent eight years managing over $2 billion in small-cap and mid-cap assets for Bank of America and Nations Bank. Mr. Billeadeau received a B.A. in Economics from Princeton University and has earned the right to use the Chartered Financial Analyst designation and is a member of the CFA Institute.
+Mr. Billeadeau provides to the Board expertise in corporate finance, accounting and strategy, including experience gained as a Managing Director of Fifth Third, a public company, and Paladin. Through this experience, he has developed expertise in several valued areas including strategic development, business development and finance. Mr. Billeadeau also brings a background in organizational leadership and management, and experience serving as a director for privately held companies. His involvement in the financial industry has provided him experience as an outside board member and audit committee member. Mr. Billeadeau serves as the Financial Expert of the Audit Committee.
+Mr. Frank, age 52, currently serves as Executive Vice President, Chief Strategy Officer and Chief Marketing Officer at Cognizant Technology Solutions Corp. ("Cognizant"), a provider of custom information technology, consulting and business process outsourcing services. Prior to joining Cognizant in 2005, he was co-founder, President and CEO of CXO systems, an independent software vendor providing dashboard solutions for senior managers. In addition, he was the founder, President, CEO and chairman of Nervewire Inc., a leading management consulting and systems integration firm. Prior to founding Nervewire, Mr. Frank was a co-founder, executive officer and Senior Vice President at Cambridge Technology Partners, where he ran Worldwide Marketing, Business Development and several business units. Mr. Frank is a graduate of Yale University with a degree in Economics.
+Mr. Frank provides to the Board more than two decades of experience in the information technology industry as well as expertise in corporate strategy and marketing. Mr. Frank is a recognized industry thought leader and is a frequent speaker on key issues of IT management. In addition, Mr. Frank is also on the Board of Directors of the U.S. India Strategic Partnership Forum.
+Mr. Hadley, age 56, served as FactSet's CEO from 2000 until stepping down on July 1, 2015. He remains an employee of the Company, serving in a senior advisory role to management through November 1, 2018. He joined FactSet in 1985 as a consultant and was the Company's Vice President, Sales from 1986 to 1989, and Senior Vice President and Director of Sales and Marketing from 1989 to 2000. Prior to joining the Company, Mr. Hadley was employed by Cargill Corporation. He currently serves as a member of the board of advisors of RS Energy Group and another private company. Mr. Hadley received a B.B.A. in Accounting from the University of Iowa, has earned the right to use the Chartered Financial Analyst designation and is a member of the CFA Institute.
+As Chairman and former CEO, Mr. Hadley brings to the Board his thorough knowledge of FactSet's business, strategy, people, operations, competition and financial position. He provides recognized executive leadership and vision. In addition, Mr. Hadley brings with him a global network of client and industry relationships.
+Ms. Jordan, age 54, is Senior Vice President and Chief Information Officer at Symantec, a global cybersecurity company. Ms. Jordan is responsible for driving Symantec's information technology strategy and operations, ensuring that the company has the right talent, stays ahead of technology trends and maximizes the value of technology investments. Prior to joining Symantec, Ms. Jordan served as Senior Vice President of Communication and Collaboration IT for nine years at Cisco Systems where she was responsible for collaboration platforms, user experience and support, communications and mobility services. Earlier in her career Ms. Jordan worked at Walt Disney World in Orlando, Florida, where she was Senior Vice President for Destination Disney and Vice President of Marketing and Sales Finance. Ms. Jordan holds a B.A. in accounting from the University of Central Florida and an M.B.A. from Florida Institute of Technology.
+Ms. Jordan brings to the Board extensive expertise in strategy, information technology and driving enterprise collaboration across multiple channels including various mobile platforms. During her career, Ms. Jordan has been recognized with numerous industry affiliations awards including Top 10 women CIO's changing the global through tech (2018), CIO of the Year for Innovation and Transformation (June 2015), Transformational CIO (2015) and 100 Leaders in STEM (2015).
+Mr. McGonigle, age 55, currently serves as an Entrepreneur Advisor at Summit Partners and Equality Asset Management, and as an angel investor and advisor to a variety of small companies in the business services and software industries. He has been on FactSet's Board of Directors since 2002, and has served as the Lead Independent Director since 2005 and as the Chairman of the Nominating and Governance Committee since 2004. Mr. McGonigle is the former Chairman and CEO of The Corporate Executive Board Company ("CEB"). During his tenure at CEB he held a variety of positions including: special advisor to the Board of Directors from July 2007 until April 2009; Director and Chairman of the Board from July 2005 until July 2007; CEO from July 1998 until July 2005; and General Manager from October 1997 until July 1998. From 1995 until October 1997 Mr. McGonigle was the General Manager of the corporate division of The Advisory Board Company. Mr. McGonigle spent his early career as a consultant at McKinsey and Co. He had also created and taught an M.B.A. course in management consulting at Georgetown University's McDonough School of Business in Washington D.C. and at Escuela Superior de Administración y Dirección de Empresas (ESADE) in Barcelona Spain. He received a B.A. from the Woodrow Wilson School at Princeton University in 1985 and a J.D. from Harvard Law School in 1990.
+Mr. McGonigle brings to the Board leadership experience, including service as the CEO of a public company for over seven years. This role required industry knowledge combined with operational and management expertise. In addition, Mr. McGonigle brings to the Board market and corporate governance insights from his experience as an outside public company board member.
+Ms. Siegel, age 62, is the President of LAS Advisory Services with a background in business and human resources consulting. She currently serves as a member of the Board of Directors of CenturyLink, Inc. ("CenturyLink"), a global broadband telecommunications and data hosting company; Volt Information Sciences, Inc. ("Volt"), a provider of global infrastructure solutions in technology, information services and staffing acquisition; and California Resources Corporation, an oil and natural gas exploration and production company. In addition, she serves as a member of the Board of Directors of Junior Achievement of New Jersey and the Morristown Festival of Books. She retired in September 2012 from Tyco International Ltd., a diversified manufacturing and service company, where she had served as Senior Vice President of Human Resources and Internal Communications since 2003. From 1994 to 2002, she held various positions with Honeywell International Inc., including Vice President of Human Resources – Specialty Materials. Ms. Siegel currently serves as an advisor to the G100 Network and chairs the G100 Talent Consortium. Ms. Siegel received an M.B.A. and a M.A. degree in City and Regional Planning, both from Harvard University. She completed her B.A. at the University of Michigan.
+Ms. Siegel's key qualifications, experiences and skills include executive experience with multi-national companies, as well as human resources and executive compensation expertise. She serves as the Compensation Chair of both the CenturyLink and Volt boards. She also serves as a member of the Nominating/Corporate Governance Committee of the Volt board. Ms. Siegel brings to FactSet's Board substantial experience as a human resources executive with large global enterprises as well as substantial public company board experience.
+Mr. Snow, age 54, was named CEO of FactSet on July 1, 2015, having served as President since July 1, 2014. Mr. Snow joined FactSet in 1996 as a Consultant before moving to the Asia Pacific region to hold positions in the Tokyo and Sydney offices. Following his move back to the U.S. in 2000, Mr. Snow held various sales leadership roles prior to assuming the role of Senior Vice President, Director of U.S. Investment Management Sales in 2013. Mr. Snow received a B.A. in Chemistry from the University of California at Berkeley and a Master of International Management from the Thunderbird School of Global Management. He has earned the right to use the Chartered Financial Analyst designation.
+Mr. Zimmel, age 65, is a financial consultant and retired Managing Director of Goldman, Sachs & Co. From December 2001 until November 2002, Mr. Zimmel served as an Advisory Director to the Goldman Sachs Group. In the investment banking division at Goldman, Sachs & Co., Mr. Zimmel held the position of Managing Director of the Communications, Media & Entertainment Group for the Americas from 1999 to 2001, after acting as a Managing Director and a co-head of the group from 1992 to 1999. In addition to his appointment to FactSet's Board, Mr. Zimmel is also a Member of the Board of Directors of NuTravel, Synchrodyne Networks, APCO Worldwide, Prizmalite Industries Inc., Pureti, and Burbio.
+Mr. Zimmel's background in finance and advisory roles is complemented by his knowledge of FactSet and its industry. His contributions are augmented by his experience serving as an outside director of a public company and multiple private companies. In addition, Mr. Zimmel's employment at Goldman, Sachs & Co., including service in senior leadership positions, brings a valued perspective to the Board and to the Audit Committee.
+Legal Proceedings
+Over the past ten years, no director or nominee has been involved in:
+[BEGIN TABLE]
+● Legal proceedings, such as SEC securities fraud enforcement actions against any director or nominee;  
+[END TABLE]
+[BEGIN TABLE]
+● Judicial or administrative proceedings resulting from involvement in mail or wire fraud or fraud in connection with any business activity;  
+[END TABLE]
+[BEGIN TABLE]
+● Judicial or administrative proceedings based on violations of federal or state securities, commodities, banking or insurance laws and regulations, or any settlement to such actions; and  
+[END TABLE]
+[BEGIN TABLE]
+● Disciplinary sanctions or orders imposed by a stock, commodities, or exchange or other self-regulatory organization.  
+[END TABLE]
+Board Responsibilities
+The Board has adopted corporate governance guidelines which help govern the Company. You can access these corporate governance guidelines, along with each of its Board Committee charters, at the Leadership & Corporate Governance page of the Company's Investor Relations website at https://investor.factset.com or request a free copy by contacting Investor Relations at FactSet Research Systems Inc., 601 Merritt 7, Norwalk, Connecticut 06851. Directors owe a duty of care to the Company and must act on an informed basis, in good faith and in the honest belief that the action they take is in the best interests of FactSet. Directors are expected to attend all Board meetings and participate actively, offering their candid views and their well-informed, deliberate judgment. Directors should inform themselves using all material information reasonably available to them prior to making a business decision. Whenever a director is unable to attend a meeting, he or she should contact the Chairman or Secretary promptly after the meeting to become informed on the subjects discussed, views expressed and actions taken, if any. Directors should have a full understanding of the Company's business and the issues relevant to it. Directors are expected to be prepared to discuss matters listed on the agenda for each meeting, should review materials sent in advance of such meetings and, when appropriate, ask questions of management. The Company does not have a policy with regard to directors' attendance at annual stockholder meetings, but FactSet does expect each director to attend all Board meetings. Two directors (Mr. Snow, our CEO, and Mr. Hadley, the Chairman of the Board) attended the 2017 Annual Meeting of Stockholders.
+Board Meetings
+The Board is comprised of nine members, seven of whom are independent directors. The Company's Board of Directors has the following three standing committees: (1) an Audit Committee, (2) a Compensation and Talent Committee and (3) a Nominating and Corporate Governance Committee. Each of the committees operates under a written charter adopted by the Board. All the committee charters are available on FactSet's Investor Relations website at https://investor.factset.com. The Board delegates various responsibilities and authority to different Board Committees. Committees regularly report on their activities and actions to the full Board. The Board met seven times during fiscal 2018, four of which were regularly scheduled quarterly meetings. No one director attended fewer than 75% of the Board and committee meetings in the aggregate during fiscal 2018.
+Board Committees
+The following table identifies the committee members as of October 30, 2018:
+[BEGIN TABLE]
+   Committee Name  
+ Independent Directors   Audit     Compensation and Talent     Nominating and Corporate Governance  
+ Independent Directors   Audit     Compensation and Talent     Nominating and Corporate Governance  
+ Robin A. Abrams   Member         Member  
+ Malcolm Frank       Member     Member  
+ Sheila B. Jordan   Member          
+ James J. McGonigle(2)           Chair  
+ Laurie Siegel       Chair      
+ Joseph R. Zimmel   Member     Member      
+[END TABLE]
+[BEGIN TABLE]
+   (1)   Financial Expert   
+[END TABLE]
+[BEGIN TABLE]
+   (2)   Lead Independent Director  
+[END TABLE]
+Audit Committee 
+The Audit Committee assists the Board in fulfilling its oversight review of FactSet's internal and external financial reporting processes. Its primary responsibilities include: meeting with financial management and the independent auditors to review FactSet's system of internal controls; assessing the quality of FactSet's accounting principles and financial reporting; reviewing the external audit process as conducted by FactSet's independent auditors; reviewing the financial information provided to stockholders and other external parties; and preparing the report of the Audit Committee included in the Proxy Statement on a yearly basis. The Board has determined that Mr. Billeadeau qualifies as the "audit committee financial expert" as defined in Item 407(d) of Regulation S-K of the Securities Exchange Act of 1934, as amended. The Board has also determined that each member of the Audit Committee is independent under the listing standards of the NYSE and NASDAQ and has sufficient knowledge in reading and understanding the Company's financial statements to serve on the Audit Committee. The Audit Committee met seven times during fiscal 2018.
+Under the Audit and Non-Audit Service Pre-Approval Policy adopted by the Audit Committee, all audit and non-audit services to be performed by the independent registered public accounting firm for the Company require pre-approval by the Audit Committee. In some cases, pre-approval relates to audit or non-audit services that fall within certain established buckets, and in other cases a particular defined task or scope of work may be pre-approved subject to a specific budget. Pre-approvals may be granted by either the full Audit Committee or the Chair of the Audit Committee. The Audit Committee may not delegate pre-approval authority to management.
+Compensation and Talent Committee
+The primary responsibilities of the Compensation and Talent Committee are to review and approve the compensation policies for the CEO, named executive officers (NEOs) and other direct reports to the CEO of the Company, oversee the Company's administration of its equity-based compensation policies, approve grants of share-based awards to officers and employees of the Company under its option plans (individually or in the aggregate), and review annual performance goals for the Company's principal executive officers in conjunction with assessing the quality of the performance of those executive officers. The Compensation and Talent Committee also assists in all matters relating to recruiting, hiring, and retaining the Company's directors, officers and employees. During fiscal 2018 and 2017, FactSet management retained Korn Ferry Hay Group, Inc. for compensation consulting services. These services included executive compensation structure design, executive search services, and assistance with compensation proxy statement disclosures. The consultant did not provide services with respect to the individual compensation amounts to be paid to individual executives. During this period, FactSet paid the consultant $215,000 for executive compensation structure design and for all other consulting services, $716,726. The Compensation and Talent Committee met nine times during fiscal 2018.
+Nominating and Corporate Governance Committee 
+The Nominating and Corporate Governance Committee reviews the qualifications of candidates for nomination as directors, makes recommendations to the Board regarding prospective nominees to the Board, issues recommendations to the Board regarding corporate governance issues and, as appropriate, assists in succession planning for senior management of FactSet. The Committee also develops and recommends to the Board for its approval an annual evaluation process of the effectiveness of the Board and its committees. The Committee oversees the annual evaluations. The members of the Nominating and Corporate Governance Committee are independent under the listing standards of the NYSE and NASDAQ. The Nominating and Corporate Governance Committee met once during fiscal 2018.
+Additional Corporate Governance Information
+FactSet is committed to maintaining the highest standards of business conduct and corporate governance, which the Company believes are essential to running its business efficiently, serving its stockholders well and maintaining integrity in the marketplace.
+Code of Business Conduct 
+The Company has adopted a Code of Business Conduct and Ethics (the "Ethics Code") that applies to all of the Company's employees, including the Company's principal executive officer, principal financial officer and principal accounting officer, all other officers and the Company's directors. A copy of the Ethics Code is available on the Company's website at https://investor.factset.com on the Leadership and Corporate Governance page of the Investor Relations section. You may also request a copy of the Ethics Code by writing to Investor Relations, FactSet Research Systems Inc., 601 Merritt 7, Norwalk, Connecticut 06851. Any amendment to the Ethics Code (other than technical, administrative or non-substantive amendments) and any waiver of a provision of the Ethics Code that applies to a member of FactSet's Board or one of its executive officers will be promptly disclosed on the Leadership & Corporate Governance page of Company's Investor Relations website at https://investor.factset.com.
+Contacting the Board
+Stockholders and other interested parties may contact the Board, the Lead Independent Director or non-management directors as a group by sending their correspondence to: Board of Directors (or other appropriate group), c/o Corporate Secretary, FactSet Research Systems Inc., 601 Merritt 7, Norwalk, Connecticut 06851; email address: Board@factset.com. The Corporate Secretary will review all communications and forward them to the Chairman or the Lead Independent Director, as appropriate. The Corporate Secretary may, however, filter out communications that do not relate to the Company's business activities, operations or its public disclosures, but will maintain a record of these communications and make them available to the Chairman or the Lead Independent Director (solicitations will not be recorded or forwarded). Any communications received by the Chairman or Lead Independent Director regarding concerns relating to accounting, internal accounting controls or auditing matters will be immediately brought to the attention of the Audit Committee and will be handled in accordance with the procedures established by the Audit Committee to address these matters.
+Director Compensation Program
+The general policy of the Board is that compensation for independent directors should be a mix of cash and equity-based compensation. FactSet does not pay management directors for Board service in addition to their regular employee compensation. The Compensation and Talent Committee, which consists solely of independent directors, has the primary responsibility for reviewing and considering any revisions to director compensation. The Board reviews the committee's recommendations and determines the amount of director compensation. Each director is provided access to the FactSet service, at no charge, which allows them to utilize the Company's suite of products.
+For fiscal 2018, non-employee Director compensation consisted of:
+[BEGIN TABLE]
+● An annual retainer of $35,000. Each director may choose to receive the retainer as a quarterly cash payment, or receive the equivalent value in non-qualified stock options.  
+[END TABLE]
+[BEGIN TABLE]
+● An equity grant having an intended grant date fair value of $75,000.  
+[END TABLE]
+The Chairman, Mr. Hadley, is an employee of the Company and received no compensation for his service as Chairman and as a Director during fiscal 2018.
+Equity Compensation
+The FactSet Research Systems Inc. Non-Employee Directors' Stock Option and Award Plan as Amended and Restated (the "Director Plan") provides for the grant of share-based awards, including stock options, to non-employee directors of FactSet.
+Annual Grant
+Under the existing Director Plan, the Compensation and Talent Committee may award an annual equity grant to each non-employee director on or around January 15th of each year. The number of option shares to be granted in order to deliver the intended value will be determined on the grant date using an option-pricing model. As such, the Compensation and Talent Committee recommended and the Board approved an annual equity grant of 1,935 non-qualified stock options to each of the then seven non-employee directors on January 12, 2018. Additionally, each non-employee director was given an award of $35,000 with the option to receive the value in either a cash retainer or non-qualified stock options. All directors with the exception of Ms. Jordan opted for the equity grant of 903 non-qualified stock options. The strike price for all non-qualified stock options was $197.75 per share, being equal to the closing price of the Company's common stock on January 12, 2018. The grant date fair value for all non-qualified stock options was $38.76. The non-qualified stock options granted to directors vest 100% after three years on the anniversary date of the grant and expire seven years from the date the options were granted. The Company does not have stock ownership guidelines that require directors to own Company stock.
+Expenses  
+The Company pays or reimburses directors for travel, lodging and related expenses incurred in connection with attending Board, Committee and stockholder meetings and other Company business related events. From time to time, the Company may reimburse a director's expenses for their participation in third party-supplied continuing education related to the director's Board or Committee service. Director expense reimbursements for such participation during fiscal 2018 totaled less than $5,000 per director and less than $10,000 in the aggregate.
+Director Compensation Table
+The following table provides information as to compensation for services of the non-employee directors and Philip Hadley, Chairman of the Board of Directors, during fiscal 2018.
+[BEGIN TABLE]
+ Name     Fees Earned or Paid in Cash(1)       Stock Awards       Option Awards(3)       Non-Equity Incentive Plan Compensation       Change in Pension Value and Non- Qualified Deferred Compensation Earnings       All Other Compensation       Total    
+ Name     Fees Earned or Paid in Cash(1)       Stock Awards       Option Awards(3)       Non-Equity Incentive Plan Compensation       Change in Pension Value and Non- Qualified Deferred Compensation Earnings       All Other Compensation       Total    
+ Name     Fees Earned or Paid in Cash(1)       Stock Awards       Option Awards(3)       Non-Equity Incentive Plan Compensation       Change in Pension Value and Non- Qualified Deferred Compensation Earnings       All Other Compensation       Total    
+ Joseph R. Zimmel    $ --     $ --     $ 110,000     $ --     $ --     $ --     $ 110,000   
+[END TABLE]
+[BEGIN TABLE]
+   (1)   On January 12, 2016, the Compensation and Talent Committee approved a compensation policy for non-employee directors, whereby each non-employee director receives an annual retainer of $35,000 and an equity grant having an intended value of $75,000 for a calendar year of service from January through December. Each director may choose to receive the retainer as a quarterly cash payment, or receive the equivalent annual value in non-qualified stock options each January. For calendar year 2018, all directors with the exception of Ms. Jordan chose to receive the $35,000 annual retainer in non-qualified stock options.   
+[END TABLE]
+[BEGIN TABLE]
+   (2)   Philip Hadley was an employee of the Company during fiscal 2018 with an annual salary of $200,000 for his employee services. He did not receive any compensation for his Board service and duties as Chairman, including the annual retainer and option awards. Amounts in the All Other Compensation column reflect employer matching contributions to the FactSet 401(k) Plan made on behalf of Mr. Hadley, the use of a Company automobile and the fair market value of the Company automobile transferred to him during fiscal 2018 upon termination of the Company-owned car program. At the time of the title transfer, the car had a fair market value of $47,223 and the book value was $0.  
+[END TABLE]
+[BEGIN TABLE]
+   (3)   The amounts in the Option Awards column represent the aggregate grant date fair values, computed in accordance with Financial Accounting Standards Board Accounting Standards Codification Topic 718, Share-Based Payment, ("ASC Topic 718"), of stock option awards issued during fiscal 2018 pursuant to the existing Director Plan. For information on the valuation assumptions with respect to stock option grants, refer to the notes to the consolidated financial statements contained in FactSet's Annual Report on Form 10-K. There can be no assurance that these grant date fair values will be realized by the non-employee directors. The actual gain that a non-employee director may receive from exercising an option sometime in the future may be higher or lower than these reported amounts, and these options have value only if the price of the Company's stock increases above the option's exercise price. On January 12, 2018, FactSet granted 1,935 stock options to each of the non-employee directors representing a grant-date fair value of $75,000. Additionally, each non-employee director was given an award of $35,000 with the option to receive the value in either a cash retainer or non-qualified stock options. All directors with the exception of Ms. Jordan, chose to receive the $35,000 award in equity, thus received a grant of 903 non-qualified stock options. The exercise price for all non-qualified stock options was $197.75 per share, being equal to the closing price of the Company's common stock on January 12, 2018. The grant date fair value for all non-qualified stock options was $38.76. At August 31, 2018, the non-employee directors had the following outstanding stock option awards, some of which were not fully or partially vested: Robin A. Abrams, 22,107 options; Scott A. Billeadeau, 19,485 options; Malcolm Frank, 7,046 options; Sheila B. Jordan, 6,143 options; James J. McGonigle, 19,485 options; Laurie Siegel, 10,758 options; and Joseph R. Zimmel, 19,485 options.  
+[END TABLE]
+[BEGIN TABLE]
+   (4)   The fees earned or paid in cash to Mr. Frank during fiscal 2018 of $11,667 represent four months (September through December 2017) of his annual retainer fee, which he had elected to receive in cash for the 2017 calendar year. In December 2017, Mr. Frank elected to receive his calendar year 2018 annual retainer fee of $35,000 in equity, thus was granted non-qualified stock options having a grant-date fair value of $35,000 in January 2018. This change in election from receiving quarterly cash payments for the 2017 calendar year to a January 2018 equity award for the 2018 calendar year resulted in his receiving total compensation of $121,667 in FactSet's 2018 fiscal year (September 2017 to August 2018). Had the value paid to Mr. Frank been allocated on a monthly basis over the fiscal 2018 year, his total compensation would have been $110,000.  
+[END TABLE]
+Director Nominations
+The Nominating and Corporate Governance Committee is responsible for the nomination of directors and making recommendations to the Board regarding prospective nominees. The Nominating and Corporate Governance Committee from time to time reviews the appropriate skills and characteristics required of board members, including factors that it seeks in board members such as diversity of business experience, viewpoints, personal background and diversity of skills in finance, technology, marketing, international business and other areas that are expected to contribute to an effective Board. In evaluating potential candidates for the Board, the Nominating and Corporate Governance Committee considers these factors in the light of the specific needs of the Board at that time. The description of each nominee set forth in the "Business Experience and Qualification of Board Members" section includes the primary individual experience, qualifications, attributes and skills of each of the Company's directors that led to the conclusion that each director should serve as a member of the Board at this time. Nominees for the Board should be committed to enhancing long-term stockholder value, must possess a high level of personal and professional ethics, and must demonstrate strength of character, independent thought, sound judgment, integrity, professionalism, leadership, meaningful business accomplishments and business knowledge, and English proficiency. The Board is composed of a diverse group of leaders. The Board encourages selection of directors who will, in addition to fulfilling the Company's responsibility to its stockholders, contribute to FactSet's overall corporate goals: providing technology leadership, effective execution, high client satisfaction and superior employee working environment.
+The Nominating and Corporate Governance Committee will consider director nominees recommended by stockholders in written communications to FactSet's Secretary prior to August 1 for the ensuing election. Any such communication must follow the guidelines set forth in the FactSet Research Systems Inc. Director Nominee Selection Policy, a copy of which may be found on the Company's Investor Relations website at https://investor.factset.com. The policy lists selection criteria including integrity, professionalism and sound business judgment. The Nominating and Corporate Governance Committee will consider any nominee recommended by a stockholder in accordance with its policy under the same criteria as any other potential nominee.
+The Nominating and Corporate Governance Committee will select nominees for directors pursuant to the following process:
+[BEGIN TABLE]
+● Identification of director candidates based upon suggestions from directors and senior management, recommendations by stockholders and potentially a director search firm.  
+● Review of each candidate's qualifications by the Nominating and Corporate Governance Committee to determine which candidates best meet the Board's required and desired criteria. The review of the nominee's qualifications includes capabilities, availability to serve, conflicts of interest and other relevant factors. The Committee shall search for individuals as nominees with the highest personal and professional integrity, who shall have demonstrated strong ability and judgment and who shall be effective in serving the long-term interest of stockholders.  
+● Interviews of an interested candidate by the Chair of the Nominating and Corporate Governance Committee, at least one other committee member and the CEO.  
+● Report to the Board by the Nominating and Corporate Governance Committee on the selection process.  
+● Recommendation by the Nominating and Corporate Governance Committee of a nominee to the Board.  
+● Formal nomination of the candidate by the Board for inclusion in the slate of directors for the Meeting or appointment by the Board to fill a vacancy between stockholder meetings.  
+[END TABLE]
+For candidates proposed to it, the Nominating and Corporate Governance Committee requires: (i) the candidate's full name, address, email and phone number; (ii) a verbal statement by the candidate that he or she wishes to be nominated and is willing and able to serve as a director; (iii) a verbal statement of the good faith belief by the proposing stockholder that the candidate meets the Company's criteria, and (iv) such other written documentation as the Committee may request to permit a determination by the Board as to whether such candidate meets the required and desired director selection criteria set forth in the FactSet By-laws, Corporate Governance Guidelines and the FactSet Research Systems Inc. Director Nominee Selection Policy.
+Proposal 1: Election of Directors
+Stockholders will elect three directors at the Meeting. If elected, the directors will hold office for a term not exceeding three years or until a successor is elected and qualified. Your proxy will be voted in favor of those persons to serve as directors, unless you indicate to the contrary on the proxy.
+Management expects that the nominees will be available for election. However, if a nominee is not a candidate when the election occurs, your proxy will be voted to elect another nominee to be designated by the Nominating and Corporate Governance Committee of the Board to fill any vacancy. Business experience and qualifications on these nominees and the other members of the Board is presented in this Proxy Statement under the caption "Business Experience and Qualifications of Board Members."
+Vote Required: The three nominees for election as directors of the Company who receive a majority number of "FOR" votes cast at the meeting (either in person or by proxy) will be elected as directors.
+AUDIT COMMITTEE REPORT
+The Board has charged the Audit Committee with a number of responsibilities, including review of the adequacy of FactSet's financial reporting, accounting systems and controls. The Board has reviewed independence for audit committee members as defined in both the NYSE and NASDAQ and has determined that each member of the Audit Committee met each listing's standard. The Audit Committee has a direct line of communication with FactSet's independent public accountants.
+The responsibilities of the Audit Committee are set forth in its charter, which is available on the Company's website at https://investor.factset.com.
+In fulfilling its responsibility, the Audit Committee discusses with the Company's independent public auditors the overall scope and specific plans for their audit. The Audit Committee has reviewed and discussed with FactSet's management and Ernst & Young LLP the audited consolidated financial statements contained in the Company's Fiscal 2018 Annual Report on Form 10-K. The Audit Committee has also discussed with Ernst & Young LLP the matters required to be discussed by Auditing Standard No. 1301, Communications with Audit Committees. Such review included discussions concerning the quality of accounting principles as applied and significant judgments affecting FactSet's consolidated financial statements. Lastly, the Audit Committee has received and reviewed the written disclosures and the letter from Ernst & Young LLP concerning such auditors' independence from FactSet and has discussed with Ernst & Young LLP its independence, as required by the Public Company Accounting Oversight Board.
+In reliance on the reviews and discussions conducted with management and the independent public auditors, the Audit Committee has recommended to the Board and the Board has approved the inclusion of the audited consolidated financial statements for fiscal year ended August 31, 2018, in FactSet's Fiscal 2018 Annual Report on Form 10-K, for filing with the SEC.
+SUBMITTED BY THE AUDIT COMMITTEE OF THE BOARD OF DIRECTORS
+Scott A. Billeadeau, Chair         
+Robin A. Abrams
+Sheila B. Jordan
+Joseph R. Zimmel
+Proposal 2: Ratification of Independent Registered Public Accounting Firm
+Beginning with the audit of FactSet's 2014 fiscal year, Ernst & Young LLP has served as FactSet's independent registered public accounting firm. Their initial appointment was ratified by stockholders at the 2013 Annual Meeting. The Audit Committee has again appointed Ernst & Young LLP as FactSet's independent registered public accounting firm for the fiscal year ending August 31, 2019, and the Board has recommended ratification of that appointment to the stockholders of the Company. A representative from Ernst & Young LLP will attend the Meeting to respond to appropriate questions and make a statement should they desire to do so.
+Independent Registered Public Accounting Firm's Fees and Services
+The following table shows the total fees billed or accrued for professional services provided to FactSet by Ernst & Young LLP, for fiscal years ended 2018 and 2017.
+[BEGIN TABLE]
+     Fiscal 2018       Fiscal 2017    
+ Audit fees(1)    $ 1,147,978     $ 799,700   
+ Audit-related fees(2)      5,000       25,000   
+ Tax fees(3)      94,029       60,000   
+ All other fees(4)      1,737       1,853   
+ Total    $ 1,248,744     $ 886,553   
+[END TABLE]
+[BEGIN TABLE]
+   (1)   Represents fees for professional services rendered for the integrated audit of FactSet's annual consolidated financial statements and of its internal control over financial reporting, for review of the interim consolidated financial statements included in quarterly reports on Form 10-Q and for services that are normally provided by in connection with statutory and regulatory filings or engagements.   
+   (2)   Represents fees for assurance and related services that are reasonably related to the performance of the audit or review of FactSet's consolidated financial statements and are not reported under "Audit Fees."   
+   (3)   Tax fees were for services related to tax consulting services.  
+   (4)   All other fees represent fees for professional services other than the services reported above, including permissible consulting services and subscriptions to accounting research software.   
+[END TABLE]
+Policy on Audit Committee Pre-Approval of Audit and Permissible Non-Audit Services
+The Audit Committee's policy is to pre-approve all audit and permissible non-audit services to be provided by the independent registered public accounting firm. These services may include audit services, audit-related services, tax services and other services. Pre-approval is detailed as to the particular service or category of services and is generally subject to a specific budget. The independent registered public accounting firm and management are required to report periodically to the Audit Committee regarding the extent of services provided by the independent registered public accounting firm in accordance with this pre-approval, and the fees for the services performed to date. The Audit Committee may also pre-approve particular services on a case-by-case basis. During fiscal 2018 and 2017, 100% of the services provided by Ernst & Young LLP were pre-approved by the Audit Committee in accordance with this policy.
+The Audit Committee has determined that the provision of non-audit services by Ernst & Young LLP during fiscal 2018 and 2017, respectively, was compatible with maintaining the independence of each firm.
+Audit Partner and Audit Firm Rotation
+The Audit Committee's policy is that the audit engagement partner should rotate off the Company's account no less frequently than every five years. With respect to audit firm rotation, the Audit Committee believes that it is inappropriate to establish a fixed limit on the tenure of the independent auditor. Continuity and the resulting in-depth knowledge of the Company strengthen the audit. Moreover, the mandatory partner rotation policy expressed above, normal turnover of audit personnel, the Audit Committee's policy regarding the hiring of auditor personnel and the Audit Committee's practices restricting non-audit engagements of the independent auditor, all mitigates against any loss of objectivity that theoretically could arise from a long-term relationship. As a result of the policy, the partner who had served as the lead engagement partner on the FactSet account for the past five fiscal years will be rotating off for fiscal 2019 and replaced by a new Ernst & Young LLP partner. As provided in the Audit Committee's charter and as further described below, the Audit Committee regularly evaluates its independent registered public accounting firm. The Audit Committee will periodically consider alternatives to ensure that the Audit Committee and the Company's stockholders are receiving the best audit services available.
+Auditor Independence
+As noted in the Audit Committee charter and in the Audit Committee Report, the independent auditor reports directly to the Audit Committee and the Audit Committee is charged with evaluating its independence.
+COMPENSATION DISCUSSION AND ANALYSIS
+This Compensation Discussion and Analysis ("CD&A") section describes the general objectives, principles and philosophy of our executive compensation program, focused primarily on the compensation during fiscal 2018 of the Named Executive Officers ("NEOs") who are listed as follows:
+[BEGIN TABLE]
+   ■   F. Philip Snow – Chief Executive Officer  
+[END TABLE]
+[BEGIN TABLE]
+   ■   John W. Wiseman – Executive Vice President, Global Head of Sales and Client Solutions  
+[END TABLE]
+[BEGIN TABLE]
+   ■   Gene Fernandez – Executive Vice President, Chief Technology and Product Officer  
+[END TABLE]
+[BEGIN TABLE]
+   ■   Maurizio Nicolelli – Senior Vice President, Chief Financial Officer  
+[END TABLE]
+[BEGIN TABLE]
+   ■   Edward Baker-Greene – Senior Vice President, Chief Human Resources Officer  
+[END TABLE]
+On May 8, 2018, FactSet announced that Mr. Nicolelli would be separating from the Company but would remain Chief Financial Officer ("CFO") until his successor was appointed and would remain an employee of FactSet until December 31, 2018. Mr. Nicolelli ceased to be CFO on August 31, 2018.
+On July 5, 2018, FactSet entered into a separation agreement with Mr. Baker-Greene whereby he would be separating from the Company, but remain Chief Human Resources Officer ("CHRO") until his successor was appointed and would remain an employee of FactSet until November 30, 2018.
+Executive Summary
+Our Business and Strategic Overview
+Our talent is focused on solving our clients' greatest challenges with the power of collaboration. Our goals include establishing FactSet as the premier technology partner for the investment community, setting the standard for world class enterprise solutions and being the career destination for the best and the brightest. We believe strongly that maintaining a culture of accountability and transparency is the best way to achieve our ultimate objective: serving the long-term best interests of our employees, clients and stockholders. Our vision and strategy are centered on consistent long-term growth. Our performance over time combined with our balanced capital allocation framework has resulted in long term value creation for our shareholders.
+Performance Highlights for Fiscal 2018
+In fiscal 2018, FactSet had the following accomplishments:
+[BEGIN TABLE]
+   ■   Revenues increased 10.6% to $1.35 billion, up 5.6%* organically.  
+[END TABLE]
+[BEGIN TABLE]
+   ■   Annual Subscription Value ("ASV") was $1.39 billion, up 5.7% organically.  
+[END TABLE]
+[BEGIN TABLE]
+   ■   Organic ASV plus professional services resulted in a growth rate of 5.9%.  
+[END TABLE]
+[BEGIN TABLE]
+   ■   Diluted EPS increased 4.1% to $6.78. Adjusted diluted EPS increased 16.7% to $8.53*.  
+[END TABLE]
+[BEGIN TABLE]
+   ■   Client count increased by 8.4% or 398 during the year, while users grew by 3.4% or 3,051 from the prior year.  
+[END TABLE]
+[BEGIN TABLE]
+   ■   In May 2018, FactSet increased its quarterly dividend by $0.08 or 14.3% per share to $0.64, marking the thirteenth consecutive year the Company has increased dividends, highlighting its continued commitment to returning value to shareholders.  
+[END TABLE]
+[BEGIN TABLE]
+   ■   FactSet returned $393.4 million to stockholders in the form of share repurchases and dividends during the fiscal year. This return represents an average cash return of 91%, as a percentage of free cash flow and proceeds from employee stock plans.  
+[END TABLE]
+[BEGIN TABLE]
+   ■   FactSet was selected to be the primary market data provider for Merrill Lynch Wealth Management, which we result in the deployment of our market data solution to more than 15,000 wealth management professionals across Merrill Lynch.  
+[END TABLE]
+[BEGIN TABLE]
+   ■   FactSet won numerous awards including Excellence in Asset Management and Servicing, Data and Technology at the CIO Industry Innovation Awards, Best Overall Technology Provider at the Buy-Side Technology Awards from Waters Technology and Data Vendor of the Year at the Risk.Net Market Technology Awards.  
+[END TABLE]
+[BEGIN TABLE]
+   ■   FactSet expanded its Multi-Asset Class (MAC) risk models, leading to several global client wins and strengthening its position in the analytics market.  
+[END TABLE]
+[BEGIN TABLE]
+   ■   FactSet launched Open: FactSet Marketplace, a new online platform that offers both financial and alternative data such as satellite, sentiment, and environmental, social, and governance (ESG) data to address the growing demand for integrated data.  
+[END TABLE]
+[BEGIN TABLE]
+   ■   The Company released its first annual Corporate Social Responsibility Report, which covered the fiscal year ending August 31, 2017. The report highlights FactSet's recent achievements and sets a trajectory for future CSR goals.  
+[END TABLE]
+* For a reconciliation to the corresponding GAAP figure, see page 33 of the Company's Fiscal 2018 Annual Report on Form 10-K.
+Our Solid Execution Has Led to Consistent Growth and Returns to Stockholders
+FactSet has had solid execution and consistent growth for stockholders, which have been driven in part by the following:
+[BEGIN TABLE]
+      Leveraging acquisitions (nine acquisitions completed in the last five years)  
+[END TABLE]
+[BEGIN TABLE]
+      Minimizing the effective tax rate (reduced from over 30% in 2014 to 18% by the end of fiscal 2018)  
+[END TABLE]
+[BEGIN TABLE]
+      Increasing our quarterly dividend by 14% per share, marking the thirteenth consecutive year we have increased dividends  
+[END TABLE]
+[BEGIN TABLE]
+      Repurchasing over 10 million shares in the last five fiscal years and returning an approximate $1.7 billion to stockholders under our share repurchase program  
+[END TABLE]
+[BEGIN TABLE]
+      Management of operating margins and operating expenses  
+[END TABLE]
+ASV is used as the primary metric in our annual incentive plan. As illustrated in the graph below, ASV has grown by 62% since 2013 and has been strongly correlated with stock price growth.
+Compensation Philosophy
+FactSet's executive compensation is structured to encourage management decisions and behaviors that align with the long-term interests of our stockholders. To achieve our strategic goals, we designed our compensation program to attract, motivate and retain employees who can successfully execute our strategy.
+The Compensation and Talent Committee of the Board oversees our executive compensation program, including the evaluation and approval of compensation plans, policies and programs offered to our CEO, NEOs and the CEO's other direct reports. The Compensation and Talent Committee operates under a written charter adopted by the Board, and is comprised entirely of independent, non-employee directors.
+Our Compensation Principles
+At the heart of the compensation program are six principles that govern its design. In designing our compensation program, the Compensation and Talent Committee works to embed these principles across the various elements of executive compensation.
+[BEGIN TABLE]
+1)  The overall employee value proposition transcends compensation, including our work environment, employee well-being, flexibility, and personal development.  
+2)  We pay for performance as measured by our collective operating performance as a company and individual performance toward executing our strategy, accelerating growth, and contributing to company-wide results.  
+3)  Performance is evaluated, not only on what goals are achieved over the short and long term, but also on how they are achieved, specifically to maintain the strong culture and the collaborative mindset that continues to be critical to our success.  
+4)  We believe in paying not only for our operating results but also for progress in building our foundation in ways that position FactSet for future growth.  
+5)  We believe our compensation program promotes a long-term ownership mindset and attracts, motivates and retains our talent who drive stockholder value over time.  
+6)  We establish total compensation packages for different roles that balance external market pay competitiveness with an internal framework considering the contribution within our organization. Compensation includes cash elements which are targeted to be in line with the market, and equity opportunities that can be worth substantially more as our Company grows and achieves targets in line with our strategic plans.  
+[END TABLE]
+2018 Compensation Structure and Incentive Program Changes
+During fiscal 2018 and 2017, FactSet management engaged Korn Ferry Hay Group, Inc. ("Hay Group" or the "consultant") to conduct a comprehensive total compensation market review. This review included an analysis of compensation levels (e.g., competitiveness of base salary, annual incentive, long-term incentives) as well as incentive program design (e.g., annual incentive program targets and measures, long-term incentive plan targets, vehicles, performance measures) relative to our peer group. The Compensation and Talent Committee considered analyses and recommendations presented by FactSet management and Hay Group. Several meetings and discussions were held with the Compensation and Talent Committee and management to develop future compensation plan designs.
+The purpose of the competitive review and discussions were two-fold: 1) to ensure alignment with competitive market practices; and 2) to ensure that FactSet's compensation programs were appropriately aligned with FactSet's go-forward business strategy and compensation philosophy.
+The information below summarizes the key changes made in 2018 to the NEO level, along with the supporting business rationale.
+[BEGIN TABLE]
+ Change     Business Rationale    
+■  Establishment of discrete annual and long-term incentive plan targets for each plan participant    ■  FactSet had historically utilized a broad approach to determine annual incentive payments and long-term incentive plan grant levels, which included assessments of job level, performance, and internal equity; in 2018, discrete target opportunities were developed to align with market practices and provide more clear and consistent messages to plan participants on performance expectations and resulting payout levels    
+■  Establishment of financial guidelines for the annual incentive, with specified threshold, target, and stretch levels of performance    ■  The revised annual incentive program structure provides for pre-established financial guidelines on a company-wide or "corporate" level; this program enables a greater line-of-sight to financial performance and payout levels among executives    
+■  For fiscal 2018, the financial measures selected were ASV Growth and Adjusted Operating Margin    ■  Although FactSet management, the Committee, and the consultant evaluated several potential measures used by peers and considered by investors, ASV Growth and Adjusted Operating Margin were deemed to have the greatest degree of correlation with stockholder value creation    
+■  NEOs to be measured on company-wide financial results    ■  NEOs can often have the greatest impact on company-wide results    
+[END TABLE]
+Elements of Total Direct Compensation
+In making compensation decisions, the Compensation and Talent Committee has sought to reinforce the correlation between the Company's performance and executive compensation. The Compensation and Talent Committee has designed the executive compensation program to motivate, retain, engage and appropriately reward our executive officers. Individual compensation levels for NEOs are based on the collective Company operating performance, including ASV and Adjusted Operating Margin, and individual performance toward executing FactSet's strategy, accelerating growth, and contributing to company-wide results. By encouraging NEOs to strive for outstanding individual and team performances, they are expected in turn to drive the positive performance of the Company as a whole.
+The core elements of our NEOs' compensation package consist of base salary, annual incentive and long-term incentive, which we refer to as Total Direct Compensation. Incentive awards are composed of a mix of annual incentive in the form of cash and equity grants in the form of stock options. Taken together, Total Direct Compensation is tied to performance and closely linked to long-term growth, financial objectives, and stock price appreciation. The goal is to ensure that Total Direct Compensation packages generally remain competitive with the 50th percentile when compared to peer group companies.
+[BEGIN TABLE]
+ Total Compensation Element   Pay Element     Performance Measure     Strategy & Performance Alignment  
+ Total Compensation Element   Pay Element     Performance Measure     Strategy & Performance Alignment  
+ Base Salary   Cash  ■  Base salaries are intended to be competitive to attract and retain key employees  ■  The Compensation and Talent Committee reviews salaries on an annual basis and makes periodic adjustments to base salary based on individual performance and contributions, market trends, and competitive position. The Compensation and Talent Committee does not use a formula to review base salaries, and no one factor was weighted more heavily than another  
+           Company Performance (80%)  ■  Rewards and recognizes annual accomplishment of key financial objectives  
+ Long-Term Incentives   Stock Options  ■  Stock price  ■  Promotes an ownership mindset  
+[END TABLE]
+Significant Percentage of Executive Pay is at Risk
+Since executive compensation is delivered principally in the form of annual and long-term incentive awards, a significant portion of executive pay is at risk and dependent on future Company performance. All the long-term incentive awards derive value directly from the Company's common stock price appreciation, which is, in most respects, a reflection of Company performance and directly linked to stockholder returns. The stock option awards have no value if our common stock price does not appreciate prior to expiration of the stock options.
+The below pay mix charts represent the proportion of target total direct compensation attributed to base salary, target annual incentive opportunity, and target long-term incentives. The pay mix chart for NEOs represents the average pay mix for the NEOs reported in the summary compensation table who were employed for the full fiscal year.
+Compensation Governance Features
+We employ several best practice sound compensation governance policies and practices. Below is a summary of "what we do" and "what we don't do" in terms of compensation governance.
+2018 Policies and Practices
+[BEGIN TABLE]
+ What we do:   What we don't do:  
+■  Significant alignment between pay and performance  ■  No employment contracts for NEOs  
+[END TABLE]
+Pay-for-Performance Alignment
+[BEGIN TABLE]
+   ■   Average NEO Total Compensation represents average total compensation as reported in the Summary Compensation Table for all NEOs that were designated as NEOs in each of the 2016, 2017, and 2018 fiscal years and were employed by FactSet for each of these full fiscal years (this includes Messrs. Snow, Nicolelli, and Baker-Greene).  
+   ■   Average Growth in NEO Total Compensation represents the compound annual growth rate ("CAGR").  
+   ■   Total Shareholder Return is calculated as of FactSet's fiscal year ended August 31, 2018 and represents the CAGR.  
+[END TABLE]
+Pay not only based on current operating results, but also rewards for progress towards future growth.
+A substantial portion of NEO compensation is subject to achieving both short-term and long-term performance objectives that enhance stockholder value. Cash incentive compensation rewards annual (short-term) performance, while equity-based compensation promotes an ownership mindset (long-term). Equity-based compensation, specifically stock options, represents a significant portion of total compensation. With stock options, NEOs only benefit if our stock price appreciates from the date of grant of the award. The Compensation and Talent Committee has viewed options as a method, not only of encouraging the NEOs to drive Company performance in the long-term, but also of encouraging the retention of officers through an option vesting schedule. While there are currently no minimum stock ownership requirements for any NEO, NEOs' interests as stockholders and option holders have been aligned in the past with those of stockholders due in part to the large share ownership such officers have an opportunity to build or have maintained. The allocation between annual incentive compensation and long-term equity compensation is based primarily on an evaluation of an executive's overall role and contributions to the Company, taking into account competitive practices. 
+Total compensation packages for different roles that balance external market pay with an internal framework.
+Total compensation packages are established by balancing external market pay with an internal framework considering each employee's contribution. The Compensation and Talent Committee determines compensation and stock-based incentive awards for the NEOs at the same time as it approves pools for the Company as a whole. For NEOs, compensation includes cash elements, which are targeted to be in line with the market, and equity opportunities that can be worth substantially more as we grow and outperform the competition or internal plans.
+Defined qualitative factors beyond the quantitative financial metrics.
+The Compensation and Talent Committee reviews the individual goals of each NEO at the end of each fiscal year to determine the executive's performance relative to stated objectives, which include qualitative factors in addition to quantitative metrics. These objectives may include special assignments, project management, governance objectives, visibility and engagement in global offices, and exposure to employees, key clients, investors and analysts. The NEO's achievement of certain goal levels as well as other accomplishments made during the year guide and influence, with the application of some discretion by the Compensation and Talent Committee, that NEO's annual incentive and equity award for the fiscal year just completed, and salary levels for the coming fiscal year.
+Attract and retain talented personnel.
+We operate in several highly competitive labor markets and must ensure that total compensation compares well with that offered by competitors in those markets. The Compensation and Talent Committee has designed executive compensation bearing in mind the compensation offered by other companies in the technology and financial information industry, to the extent such information is publicly available.
+Elements of Compensation
+Our executive compensation program works to embed the goals and principles explained above across the various elements of compensation. The three major elements of executive officer compensation in fiscal 2018 continued to be:
+[BEGIN TABLE]
+   ■   Base salary;  
+[END TABLE]
+[BEGIN TABLE]
+   ■   Variable cash incentive awards (annual incentive); and  
+[END TABLE]
+[BEGIN TABLE]
+   ■   Long-term, equity-based incentive awards.  
+[END TABLE]
+Base Salary
+Base salaries are intended to be sufficiently competitive to attract and retain key employees. The Compensation and Talent Committee reviews salaries on an annual basis and makes periodic adjustments to base salary based on individual performance and contributions, market trends, competitive position, recommendations of the CEO for his direct reports, and FactSet's financial situation. The Compensation and Talent Committee did not use a fixed formula to review base salaries. The goal is to ensure that total cash compensation packages (including base salaries and annual incentives of the NEOs) generally remain competitive with the 50th percentile when compared to peer group companies.
+Annual Incentive
+The Compensation and Talent Committee has designed an annual cash incentive program to stimulate and support a high-performance environment by focusing such incentive compensation on the attainment of qualitative and quantitative guidelines and by recognizing superior performance. Each NEO had objectives that were established during the year (or near the date of beginning in the current role) and reviewed with the NEO. Annual Company-level performance goals serve both to motivate executives as well as to increase stockholder returns, by focusing executive performance on those measures identified as having a positive impact on our short and long-term business results. For fiscal 2018, 80% of the NEO's annual incentive was focused on two financial targets, Organic ASV Growth and Adjusted Operating Margin, with specific weightings for each as shown in the table below.
+2018 Annual Incentive Program Guidelines – NEOs
+[BEGIN TABLE]
+   Measures       Weighting       Base Performance       Target Performance       Stretch Performance    
+   Measures       Weighting       Base Performance       Target Performance       Stretch Performance    
+ Organic ASV Growth      50%     $ 60M     $ 75M     $ 90M   
+ Adjusted Operating Margin      30%       31.5%       32.0%       32.5%   
+ Key Goals (Individual)      20%      Base Rating       Target Rating       Stretch Rating    
+[END TABLE]
+Annual incentive program was funded by a minimum level of FactSet ASV Growth performance of $60 million. The program specified that if ASV did not grow by $60 million, there would be no incentive payment based on the financial component of the incentive program unless the Committee exercises its discretion to award one. In fiscal 2018, the $60 million threshold was met as the Company achieved Organic ASV growth of $74.4 million.
+ASV at any given point in time represents the forward-looking revenues for the next twelve months from all subscription services currently supplied to clients and excludes professional services fees billed in the last 12 months, which are not subscription-based. ASV growth is the difference between ASV at fiscal 2017 year end and ASV at fiscal 2018 year end. Adjusted Operating Margin is calculated as adjusted operating income divided by GAAP revenues plus the deferred revenue fair value adjustment. These measures are publicly reported in our financial results.
+The annual incentive based on the financial guidelines would have been 0% if the minimum level had not been met (absent a decision otherwise by the Compensation and Talent Committee). If the minimum is met, the guidelines would indicate a total annual incentive award range of 50% to 150% in the case of Mr. Snow, from 60% to 165% in the case of Mr. Wiseman, and from 80% to 125% in the case of Messrs. Fernandez, Baker-Greene and Nicolelli. The variance in the ranges among the NEOs reflect the differences among their individual job functions, with those having roles that could have greater impact on Company-wide results having greater variance compared to those serving in a corporate function with relatively less ability to impact overall financial results significantly. The goals are guidelines to help guide the Compensation and Talent Committee in determining the NEO's cash incentive award for the fiscal 2018. The amount of the annual incentive based on the financial guidelines represents 80% of the total target bonus opportunity. The remaining balance of 20% is based on the achievement of the NEO's key individual goals that are proposed by the CEO and approved by the Committee.
+Long-term, Equity-based Incentive Awards
+A significant portion of total compensation to each NEO is long-term incentive compensation, which consists of stock options. The Compensation and Talent Committee determines the size of the long-term, equity-based incentives according to each NEO's position within FactSet, competitive benchmarking, performance and contributions to the Company. Our philosophy is built on the principles that equity compensation should seek to align employees' actions with stockholder interests; attract, retain, and motivate highly qualified executives; and balance the focus on short and longer-term performance objectives. The Compensation and Talent Committee believes that it has been successful in achieving this alignment through the use of stock options for NEOs. The Compensation and Talent Committee takes into account each NEO's performance history, his or her potential for future advancement, the CEO's recommendations for awards (other than his own) and the value of existing vested and unvested outstanding equity awards. The relative weight given to each of these factors varies among individuals at the Compensation and Talent Committee's discretion. The equity-based plan awards are typically granted after the end of each fiscal year in order to be synchronized with the year-end performance review process and the timing of the annual incentive payments. For fiscal 2018, the following values were established for grants of stock options for the NEOs:
+[BEGIN TABLE]
+ Name     Stock Options Grant Value    
+ Name     Stock Options Grant Value    
+ Gene Fernandez    $ 750,000   
+ John W. Wiseman    $ 375,000   
+ Maurizio Nicolelli    $ 375,000   
+ Edward Baker-Greene    $ 300,000   
+[END TABLE]
+The exercise price for all options granted was the closing price of our common stock on the date of grant.
+Tax Considerations
+In establishing individual executives' compensation levels, the Company does not explicitly consider accounting and tax issues. The Company's tax deduction for compensation paid to each of the NEOs who are subject to the compensation limits of Section 162(m) of the Internal Revenue Code is capped at $1 million per NEO. Section 162(m) provided an exemption from the $1 million cap for compensation that qualified as "performance-based." The intention was for our long-term incentive award programs for NEOs to qualify for that exemption. For the fiscal years presented in this Proxy Statement, FactSet believed that the stock-based awards granted under our stock option and award plan met the requirements for "performance-based" compensation under Section 162(m) at the time of grant. Our annual incentive cash award did not meet the requirements. However, on December 20, 2017, Congress passed the Tax Cuts and Jobs Act, which repealed the exception for performance-based compensation from the Section 162(m) limitation. This repeal is effective for tax years beginning after December 31, 2017. Thus, compensation paid to our NEOs in excess of $1.0 million in fiscal year 2019 will not be deductible unless it qualifies for transition relief applicable to certain arrangements in place as of November 2, 2017. The repeal means that even performance-based compensation will be subject to the Section 162(m) limitation. Due to some uncertainties around the application and interpretation of the repeal of the performance-based exception of Section 162(m) to current awards, certain amounts of compensation may fail to be deductible under Section 162(m), even if such compensation was intended to satisfy the requirements for deductibility. This change to the tax law will have an impact on Section 162(m) going forward, and we will monitor the impact of these changes. The Compensation and Talent Committee has in the past reserved the right to provide compensation that does not qualify for deduction under Section 162(m). We will continue to maintain flexibility and the ability to pay competitive compensation by not requiring all compensation to be deductible.
+Forfeiture of Prior Compensation
+On October 24, 2017, the Board adopted an Incentive Compensation Clawback Policy applicable, at the Board's discretion, to our Section 16 filers in the event of a material restatement of our financial statements due to willful misconduct. Prior to that adoption, other than a provision in its existing FactSet Research Systems Inc. Stock Option and Award Plan, as Amended and Restated allowing for clawback rights in accordance with listing requirements and award agreements, we did not have any additional clawback or reimbursement provisions in effect related to any bonus, incentive payment or other compensation received by an officer in the event of a restatement, fraud or other misconduct.
+Additionally, the FactSet Research Systems Inc. Stock Option and Award Plan, as Amended and Restated, authorizes the Board to recover, or "clawback," equity compensation from an NEO based on their engagement in any competitive activities or acts of solicitation during their period of employment and for two years thereafter, including:
+[BEGIN TABLE]
+   ■   Own, manage, operate, join or control, be employed by or participate in the ownership, management, operation or control of, or be a consultant to or connected in any other manner with, any business, firm or corporation which is similar to or competes with a principal business of FactSet or its subsidiaries (Competitive Activity) or  
+[END TABLE]
+[BEGIN TABLE]
+   ■   For themselves or any person or business entity, induce or attempt to induce any employee of FactSet or its subsidiaries to terminate employment with the Company or its subsidiaries or solicit, entice, take away or employ any person employed by the Company or its subsidiaries (Solicitation).  
+[END TABLE]
+For these purposes, the officer's ownership of securities of a public company not in excess of one percent of any class of such securities shall not be considered to be in competition with the Company or its subsidiaries. If the officer engages in a competitive activity or solicitation, as determined by the Board in good faith, the plan's options then held by the officer would expire as of the date that the officer first engaged in such activity and the Company would have the right to acquire any shares of stock then owned by the officer as the result of the exercise of an award at a price equal to the lesser of the fair market value of such shares or the aggregate exercise price paid therefore by the officer. The Company would also have the right to require the officer to return to the Company any other gain (whether or not realized) the officer had on the exercise of any awards granted.
+Process of Determining Annual Executive Compensation
+The Compensation and Talent Committee reviews and makes decisions about executive policies and plans, including the amount of base salary, annual incentive and long-term incentive awarded to the NEOs. To achieve the objectives and principles of its executive compensation program, the Compensation and Talent Committee reviewed the results of 2018 relative to ASV, operating margin, and individual goals established earlier in the year. The CEO and other executives assisted the Compensation and Talent Committee from time to time in its evaluation of compensation elements or program design by providing historical information, year-over-year comparisons and clarifications regarding job duties and performance.
+The Compensation and Talent Committee did not consider any forms of compensation other than salary, annual incentive and equity awards. FactSet has not entered into any employment agreements with any of its NEOs and as such, FactSet is not bound by any contractual salary, incentive grants or other compensation requirements for the NEOs except for the separation agreements relating to the two departing NEOs as noted below. Perquisites have historically constituted 5% or less of each NEO's total compensation and represent the dollar value of matching contributions to the FactSet 401(k) Plan made by FactSet on behalf of each NEO, and the use and transfer of Company automobiles to each NEO as part of the elimination of the Company automobile perquisite.
+In fiscal 2018, the Compensation and Talent Committee worked with management in the compensation review process as follows:
+Performance Evaluation - The CEO's performance is reviewed by the Compensation and Talent Committee. The CEO annually reviews the performance of each executive officer who reports to him, including the NEOs listed in the Summary Compensation Table. The Compensation and Talent Committee and Mr. Snow identified appropriate performance measures and proposed performance objectives that were used in determining annual and long-term awards. More specifically, the Compensation and Talent Committee reviewed materials outlining the individual performance of each NEO with respect to their goals and objectives for the past year, measured against financial goals for the Company's performance as well as quantitative performance in the individual executive's functional area. Management also provided the Compensation and Talent Committee with materials regarding the overall financial performance of the Company as well as operational and strategic accomplishments during the past fiscal year. These materials included ASV metrics, professional services growth and adjusted operating margin analysis that were all evaluated to determine the amount of the annual incentive awarded.
+Compiled Benchmark Data – Management prepared benchmarking and competitive data with respect to historical compensation and its defined peer group. The Compensation and Talent Committee utilized this information in connection with establishing NEO compensation programs and parameters at its meetings.
+Compensation Approvals - The Compensation and Talent Committee reviewed materials detailing the historical salary, annual incentive, total cash, equity awards and total compensation levels of the NEOs and other senior members of management. The conclusions reached and recommendations made were based on performance reviews, including with respect to salary adjustments and annual and long-term incentive awards that were presented to the Compensation and Talent Committee for approval.
+The Compensation and Talent Committee members then made their determinations as to the annual incentive and equity awards for the recently completed fiscal year and base salary for the upcoming year for each NEO. Management did not participate in this deliberation and the CEO was not present for discussions regarding his own compensation. At the same meeting, the Compensation and Talent Committee approved the total annual incentive and equity award pools for the Company's operational areas as a whole, so that compensation to the NEOs was made in the larger context of compensation for all the Company's employees.
+Use of Performance Targets to Derive Compensation - In fiscal 2018, corporate financial guidelines related to ASV growth and Adjusted Operating Margin were agreed with management and approved by the Committee for the annual incentive program. In prior years, we did not establish financial guidelines for the annual incentive program. In addition, individual objectives were established for each NEO relating to the executive's job responsibilities and other Company projects and initiatives. At the end of the fiscal year, the CEO used his judgment to evaluate the performance of the other NEOs against the financial guidelines, their personal objectives and other personal accomplishments and contributions to the organization and made recommendations to the Compensation and Talent Committee regarding the payout for both the 80% attributed to the financial guidelines and the 20% of the annual incentive target that was based on the achievement of the individual goals. The Compensation and Talent Committee took such recommendation and performance into account when deciding on the payout of the total annual incentive.
+2018 Performance
+Goals and Objectives
+The Compensation and Talent Committee agreed on the NEOs' performance and related compensation through conversation and discussion. In conjunction with its review of the performance of the Company as a whole, the Compensation and Talent Committee determined the actual size of annual incentive payments and equity-based grants awarded to each of the NEOs. With respect to the 80% percent of the annual incentive award that was attributed to ASV and Adjusted Operating Margin, the 2018 financial results for those measures were compared against the guidelines. However, in that comparison, the Compensation and Talent Committee included the Company's actual 2018 professional services revenues increase of $4.4 million in measuring ASV growth for each NEO's performance versus the guidelines. The 20% of the annual incentive award was based on the Compensation and Talent Committee's subjective evaluation of the executives' achievement of qualitative individual goals and other personal accomplishments set out in materials provided to the Compensation and Talent Committee by management or otherwise provided to the Committee at its meeting. The fiscal 2018 individual goals of each NEO were as follows:
+[BEGIN TABLE]
+  ■  Mr. Snow's goals were to ensure the further development of various workflow solutions, promote innovation in the Company's data and solutions exchange (Open:FactSet), and strengthen relationships with strategic accounts. He was also tasked with implementing key organizational changes to enable future growth and overall executive capability and accountability, as well as launching several diversity, inclusion and CSR initiatives, while enhancing an energetic, ethical and high-performance culture.  
+[END TABLE]
+[BEGIN TABLE]
+  ■  Mr. Wiseman's goals were to improve the efficiency and performance of the client solutions group, increase the number of long term contracts and improve alignment of headcount with regard to real estate and revenue opportunities within budgetary targets.  
+[END TABLE]
+[BEGIN TABLE]
+  ■  Mr. Fernandez's goals were to improve systems stability, improve systems architecture, develop products more efficiently and innovate new ways to compensate and retain top technology and product talent.  
+[END TABLE]
+[BEGIN TABLE]
+  ■  Mr. Nicolelli's goals were to develop the financial planning and analysis function, to plan the implementation of the Workday system from a finance perspective, develop the investor relations infrastructure, and develop the business development function.  
+[END TABLE]
+[BEGIN TABLE]
+  ■  Mr. Baker-Greene's goals were to plan the implementation of the Workday system from a human resources perspective, improve workforce efficiency, advance diversity and inclusion and corporate social responsibility initiatives, create a talent development program, and design and implement a global compensation structure.  
+[END TABLE]
+Base Salary
+Based on the review described above under "Base Salary," the Compensation and Talent Committee did not increase the base salary of any NEO for fiscal 2018 other than the salary of Mr. Snow, who received an increase of 12.5% because of competitive market rebalancing. The Compensation and Talent Committee did not to give salary increases to the other NEOs during fiscal 2018.
+Annual Incentive
+For fiscal 2018, 80% of the annual incentive guidelines were as follows:
+[BEGIN TABLE]
+ Measures       Weighting       Base Performance       Target Performance       Stretch Performance    
+ Measures       Weighting       Base Performance       Target Performance       Stretch Performance    
+ Adjusted Operating Margin      30%       31.5%       32.0%       32.5%   
+[END TABLE]
+For fiscal 2018, the Company achieved Organic ASV growth of $74.4 million and Adjusted Operating Margin of 31.3%. Organic ASV growth combined with the $4.4 million increase in professional services totaled $78.8 million during fiscal 2018, which was the figure used for the evaluation. The Compensation and Talent Committee reviewed the 2018 financial results for Organic ASV growth, Organic ASV growth plus professional services and Adjusted Operating Margin and compared them to the guidelines. The Compensation and Talent Committee exercised its discretion on the Adjusted Operating Margin measure and elected to award the minimum base performance payout for each NEO for that measure. The Committee also reviewed the personal goals for each NEO as outlined above under 2018 Performance- Goals and Objectives, as well as individual accomplishments of each NEO in determining the annual incentive.
+The Compensation and Talent Committee considered all the above, including the financial results for the target measures, the financial guidelines, the recommendations and evaluation by the CEO of the other NEOs, the achievement of individual goals and other personal accomplishments, overall Company performance for the fiscal year and, using this total mix of information, exercised its subjective judgment for each NEO and made the following awards for the NEOs for fiscal 2018:
+[BEGIN TABLE]
+ NEO     Total Annual  Incentive Opportunity       Total Annual  Incentive Percentage Awarded       Total Annual Incentive Paid    
+ NEO     Total Annual  Incentive Opportunity       Total Annual  Incentive Percentage Awarded       Total Annual Incentive Paid    
+ John Wiseman    $ 600,000       121%   $ 725,000   
+ Gene Fernandez    $ 450,000       100%   $ 450,000   
+ Maurizio Nicolelli    $ 550,000       100%   $ 550,000   
+ Edward Baker-Greene    $ 350,000       93%   $ 325,000   
+[END TABLE]
+In particular, for Mr. Snow, the Compensation and Talent Committee's decision was based on its view of the Company's financial performance, including ASV Growth together with professional services fee results compared to the measure. The Committee also considered strategic outcomes with particular emphasis on significant progress made in the Company's data and solutions exchange (Open:FactSet) and strategic accounts. In addition, the Committee factored into the decision Mr. Snow's overall leadership of the organization. It noted that he had led and successfully implemented several key organizational changes which helped to position the Company for future growth and improved overall executive capability and accountability. The Committee also recognized his efforts to launch successfully several diversity, inclusion and CSR initiatives and his reinforcement and enhancement of an energetic, ethical and high-performance culture.
+Stock Option Awards
+For fiscal 2018, the NEOs received equity awards that are comprised of 100% service-based stock options. These grants vest 20% per year on the anniversary date of the grant over a five-year period. The Compensation and Talent Committee believed this was the most effective way to promote equity ownership by the executives, reward them for solid operating performance and provide a retention incentive. Stock options have been intended to align incentives with long-term stock performance and the interests of stockholders and act as a motivational and retention tool. All NEOs (other than Mr. Fernandez) received an annual grant on November 2, 2017. Mr. Fernandez joined FactSet on November 27, 2017 and received a one-time grant of stock options on December 22, 2017 as part of his hiring package. The dollar value of each award was converted on the grant date to a fixed number of options for each NEO using an option pricing formula.
+Peer Group Executive Compensation Review
+The Compensation and Talent Committee is provided executive compensation data of similarly situated NEOs at companies determined to be comparable by the Compensation and Talent Committee. The peer group consists of CoStar Group, Inc., IHS Markit Ltd, Morningstar, Inc., MSCI Inc., SS&C Technologies, T. Rowe Price and Verint Systems Inc. Three peer group companies were removed from the list. The Advisory Board and Corporate Executive Board ("CEB") were removed as they were acquired by larger organizations, and Solera Holdings was removed as the company is no longer publicly-held and as such compensation data will no longer be available.
+In addition to that of the identified peer group, the compensation provided to NEOs at the following companies was reviewed by the Compensation and Talent Committee: Federated Investors, Janus Capital Group, Inc., NASDAQ OMX, Verisk Analytics and Waddell & Reed Financial, Inc. The materials presented to the Compensation and Talent Committee detailed the compensation by type, including salary, annual incentive and equity awards. The Compensation and Talent Committee believes that its total target compensation for NEOs is competitive. When considering peer compensation levels, the Compensation and Talent Committee focuses on total compensation comparisons, as we have, and will continue to emphasize long-term equity more prominently than peer companies. The Committee believes that the Company's pay mix is reflective of the goals of retaining top talent and aligning executives with stockholder returns.
+Separation Agreements with Messrs. Nicolelli and Baker-Greene
+On May 8, 2018, FactSet entered into a separation of employment and general release agreement with Mr. Nicolelli (the "Nicolelli Agreement"), pursuant to which Mr. Nicolelli would remain in his position as CFO until his successor was appointed, participate in an orderly transition of duties to the new CFO and remain an employee of FactSet until his effective termination date of December 31, 2018. In exchange for fulfilling these obligations to the Company, Mr. Nicolelli would receive, under the terms of his agreement, the following: (i) a lump sum separation payment of $483,333 within 15 days after expiration of the revocation period as defined in the agreement; (ii) continued base salary of $300,000 through December 31, 2018; and (iii) the acceleration of the vesting of certain outstanding stock options. In addition, the Nicolelli Agreement provides for a release of claims by Mr. Nicolelli and the Company and other terms and conditions customary for agreements of this nature. Mr. Nicolelli ceased to be the CFO on August 31, 2018, shortly after which his successor joined the Company.
+On July 5, 2018, FactSet entered into a separation of employment and general release agreement with Mr. Baker-Greene (the "Baker-Greene Agreement"), pursuant to which Mr. Baker-Greene will remain in his current position as CHRO until his successor is appointed, participate in an orderly transition of duties to the new CHRO and remain an employee of FactSet until November 30, 2018. In exchange for fulfilling these obligations to the Company, Mr. Baker-Greene will receive, under the terms of the agreement, the following: (i) a lump sum separation payment of $387,500 on the first scheduled payroll after December 1, 2018; (ii) continued base salary of $300,000 through November 30, 2018; (iii) the acceleration of the vesting of certain outstanding stock options; and (iv) certain other ancillary benefits. In addition, the Baker-Greene Agreement provides for a release of claims by Mr. Baker-Greene and the Company and other terms and conditions customary for agreements of this nature.
+The Compensation and Talent Committee provided these arrangements to these two officers to provide transitional services and to help ensure a successful transition to a replacement.
+COMPENSATION AND TALENT COMMITTEE REPORT
+The Compensation and Talent Committee (the "Committee") is responsible for administering FactSet's executive compensation policies and practices. The Committee is comprised solely of independent directors and reports regularly to the Board. Independent directors are not eligible to participate in any of the plans or programs the Committee administers. In fiscal 2018, the Committee reviewed compensation, including equity-based awards, for each NEO and the CEO's direct reports. The Committee reviews and approves the aggregate number of equity-based awards granted to all employees of FactSet. The Committee also reviews the compensation, including stock and option-based awards, for each member of senior management including those employees who report directly to the CEO. The Committee believes that the fiscal 2018 compensation of the NEOs was aligned with FactSet's performance and returns to stockholders and provided a balanced mix between base pay and incentive compensation.
+The Compensation and Talent Committee reviewed and discussed with management the "Compensation Discussion and Analysis" above and recommended to the Board that it be included in this Proxy Statement. The Compensation and Talent Committee has represented to management that, to the extent that the "Compensation Discussion and Analysis" purports to disclose the Compensation and Talent Committee's deliberations and philosophy in making executive compensation decisions and policy, it is accurate and materially complete.
+SUBMITTED BY THE COMPENSATION AND TALENT COMMITTEE OF THE BOARD OF DIRECTORS
+Laurie Siegel, Chair
+Malcolm Frank
+Joseph R. Zimmel
+EXECUTIVE COMPENSATION 
+The tables below present compensation information for each NEO followed by a narrative discussion of compensation that each NEO could receive when their employment with the Company terminates under various circumstances or upon a change in control of the Company. The tables include footnotes and other narrative explanations important for your understanding of the compensation information in each table.
+The first table below, the Summary Compensation Table, sets forth the compensation earned by the NEOs for services rendered in all capacities to FactSet for each respective fiscal year. The Company's NEOs include FactSet's Principal Executive Officer ("PEO"), Principal Financial Officer ("PFO") and the three most highly compensated executive officers (other than the PEO and PFO) during fiscal 2018.
+Summary Compensation Table
+The following table summarizes the compensation earned or awarded to each NEO for fiscal years 2018, 2017 and 2016.
+[BEGIN TABLE]
+                       Stock       Option       All Other            
+       Salary       Bonus(1)       Awards(2)       Awards(3)       Compensation(4)       Total    
+ Name and Principal Position   Year     ($)       ($)       ($)       ($)       ($)       ($)    
+ F. Philip Snow(5)   2018    $ 445,833     $ 1,150,000     $ —     $ 1,500,000     $ 33,676     $ 3,129,509   
+ Chief Executive Officer   2017    $ 400,000     $ 850,000     $ —     $ 1,300,000     $ 41,694     $ 2,591,694   
+   2016    $ 350,000     $ 800,000     $ —     $ —     $ 49,576     $ 1,199,576   
+ Gene Fernandez(6)(7)   2018    $ 225,000     $ 450,000     $ —     $ 750,000     $ 7,846     $ 1,432,846   
+ Executive Vice President                                                    
+ Chief Technology and Product Officer                                                    
+ John W. Wiseman(6)   2018    $ 300,000     $ 725,000     $ —     $ 375,000     $ 8,139     $ 1,408,139   
+ Executive Vice President, Global   2017    $ 256,000     $ 475,000     $ —     $ 930,0000     $ 34,273     $ 1,695,273   
+ Head of Sales and Client Solutions                                                    
+ Maurizio Nicolelli(8)(9)   2018    $ 300,000     $ 550,000     $ —     $ 375,000     $ 526,444     $ 1,751,444   
+ Senior Vice President   2017    $ 300,000     $ 500,000     $ —     $ 700,000     $ 36,271     $ 1,536,271   
+ Former Chief Financial Officer   2016    $ 275,000     $ 450,000     $ —     $ 300,000     $ 47,241     $ 1,072,241   
+ Edward Baker-Greene(10)   2018    $ 300,000     $ 325,000     $ —     $ 300,000     $ 453,937     $ 1,378,937   
+ Senior Vice President   2017    $ 300,000     $ 325,000     $ —     $ 325,000     $ 53,307     $ 1,003,307   
+ Chief Human Resources Officer   2016    $ 275,000     $ 350,000     $ —     $ 800,000     $ 53,802     $ 1,478,802   
+[END TABLE]
+[BEGIN TABLE]
+   (1)   The Bonus column lists discretionary cash bonuses awarded for services rendered during the applicable fiscal year. Annual variable compensation payments are made within two months following the end of each fiscal year. See the detailed description of the annual incentive in the preceding CD&A.   
+[END TABLE]
+[BEGIN TABLE]
+   (2)   The amounts set forth in the Stock Awards column represent the aggregate grant date fair value, computed in accordance with ASC Topic 718.   
+[END TABLE]
+[BEGIN TABLE]
+   (3)   The amounts set forth in the Option Awards column represent the aggregate grant date fair value computed in accordance with ASC Topic 718. The Company utilizes a lattice-binomial model to estimate the fair value of new stock options on the date of grant. The assumptions made for the valuation of option awards are disclosed in the Notes to Consolidated Financial Statements included in the Company's fiscal 2018 Annual Report on Form 10-K. A stock option has value only if the Company's stock price increases above the option exercise price (an "in-the-money" option). If an NEO exercises an in-the-money option, they would then realize an actual gain. Any gain actually realized for options exercised in fiscal 2018 is reported in the "Option Exercises and Stock Vested" table.   
+[END TABLE]
+[BEGIN TABLE]
+   (4)   Amounts in the All Other Compensation column reflect employer matching contributions to the FactSet 401(k) Plan, the use of Company-owned automobiles and the fair market value of each Company automobile transferred from FactSet to certain NEOs during fiscal 2018 upon termination of the Company-owned car program. The fair market value at the time of the title transfers were as follows: Mr. Snow $24,459; Mr. Nicolelli $20,846; and Mr. Baker-Greene $38,819. The net book value at the time of the title transfers were as follows: Mr. Snow $0; Mr. Nicolelli $0; and Mr. Baker-Greene $35,166.   
+[END TABLE]
+[BEGIN TABLE]
+   (5)   Mr. Snow received no additional compensation for serving on the Company's Board of Directors during any of the years presented.  
+[END TABLE]
+[BEGIN TABLE]
+   (6)   For Messrs. Wiseman and Fernandez, compensation is shown only for the years that they were NEOs.  
+[END TABLE]
+[BEGIN TABLE]
+   (7)   Upon joining FactSet on November 27, 2017, Mr. Fernandez was hired with an annual base salary of $300,000 and a target annual performance bonus of $450,000. Salary amount shown is pro rata for fiscal 2018 based on his start date.  
+[END TABLE]
+[BEGIN TABLE]
+   (8)   Mr. Nicolelli received a retirement gift during fiscal 2018 with a fair market value of $11,645. This gift is reported within the All Other Compensation column.      
+[END TABLE]
+[BEGIN TABLE]
+   (9)   On May 8, 2018, FactSet entered into a separation of employment and general release agreement with Mr. Nicolelli, pursuant to which he would remain as Chief Financial Officer ("CFO") until his successor was appointed, participate in an orderly transition of duties to the new CFO and remain an employee of FactSet until his effective separation date of December 31, 2018. In exchange for fulfilling these obligations to the Company, Mr. Nicolelli will receive a lump sum separation payment of $483,333 within 15 days after expiration of the revocation period, continued annual base salary of $300,000 through December 31, 2018; and the acceleration of the vesting of certain outstanding stock options. The lump sum separation payment is included in Mr. Nicolelli's All Other Compensation column.  
+[END TABLE]
+[BEGIN TABLE]
+   (10)   On July 5, 2018, FactSet entered into a separation of employment and general release agreement with Mr. Baker-Greene, pursuant to which he will remain as Chief Human Resources Officer ("CHRO") until his successor is appointed, participate in an orderly transition of duties to the new CHRO and remain an employee of FactSet until his effective termination date of November 30, 2018. In exchange for fulfilling these obligations to the Company, Mr. Baker-Greene will receive a lump sum separation payment of $387,500 within 15 days after expiration of the revocation period, continued annual base salary of $300,000 through November 30, 2018; and the acceleration of the vesting of certain outstanding stock options. The lump sum separation payment is included in Mr. Baker-Greene's All Other Compensation column.  
+[END TABLE]
+Grants of Plan-Based Awards
+Non-Equity Incentive Compensation. The Company did not award non-equity incentive compensation during fiscal 2018 to any of its NEOs.
+Stock Awards. For fiscal 2018, the Compensation and Talent Committee believes that the most effective way to promote equity ownership for each NEO is to reward them for solid operating performance and the best way to retain them is to award service-based stock options as the vehicles for equity-based compensation. As a result, the Company granted service-based stock option awards to its NEOs during fiscal 2018 instead of restricted stock awards.
+Option Awards. The Compensation and Talent Committee approved the issuance of option awards during fiscal 2018. In November 2017 (but in the case of Mr. Fernandez, in December 2017), the NEOs were granted service-based stock option awards.
+Service-based stock option grant. Stock options have been intended to align incentives with long-term stock performance and the interests of stockholders and act as a motivation and retention tool. The service-based stock options granted in fiscal 2018 to the NEOs vest 20% on each anniversary date of the grant over a five-year period.
+The following table provides information on all option awards granted during fiscal 2018 to each NEO. There can be no assurance that the grant date fair value, as listed in this table, of the option awards will ever be realized. The grant date fair value of these awards are included in the "Option Awards" column of the Summary Compensation Table.
+[BEGIN TABLE]
+ Name   Grant Date(1)(2)     Threshold       Target(2)        Maximum(2)        All Option Awards: Number of Securities Underlying Options        Exercise Price ($)       Grant Date Fair Value of Option Awards ($)(3)    
+ Name   Grant Date(1)(2)     Threshold       Target(2)        Maximum(2)        All Option Awards: Number of Securities Underlying Options        Exercise Price ($)       Grant Date Fair Value of Option Awards ($)(3)    
+ Gene Fernandez   12/22/17      —       15,363       15,363       15,363     $ 192.11     $ 750,000   
+ John W. Wiseman   11/2/17      —       7,769       7,769       7,769     $ 189.98     $ 375,000   
+ Maurizio Nicolelli   11/2/17      —       7,769       7,769       7,769     $ 189.98     $ 375,000   
+ Edward Baker-Greene   11/2/17      —       6,215       6,215       6,215     $ 189.98     $ 300,000   
+[END TABLE]
+[BEGIN TABLE]
+   (1)   On September 24, 2017, the Compensation and Talent Committee approved the total number of option awards to be allocated among all eligible employees and specifically approved the option awards to be granted to each NEO. The Compensation and Talent Committee designated November 2, 2017 as the actual grant date for the annual equity grant, at an option exercise price equal to 100% of the closing price of the Company's common stock on the NYSE on that date. Mr. Fernandez did not receive the annual equity grant on November 2, 2017 as he was not an employee of the Company on such date. He received a one-time grant in conjunction with his employment on December 22, 2017, which was approved by the Compensation and Talent Committee on November 6, 2017.  
+[END TABLE]
+[BEGIN TABLE]
+   (2)   Options granted vest 20% on each anniversary date of the grant over a five-year period. The option awards are service-based and do not contain performance criteria.  
+[END TABLE]
+[BEGIN TABLE]
+   (3)   The amounts set forth in the Grant Date Fair Value of Option Awards column represent the aggregate grant date fair value computed in accordance with ASC Topic 718. The Company utilizes a lattice-binomial model to estimate the fair value of new stock options on the date of grant. The assumptions made for the valuation of option awards are disclosed in the Notes to Consolidated Financial Statements included in the Company's fiscal 2018 Annual Report on Form 10-K. A stock option has value only if the Company's stock price increases above the option exercise price (an "in-the-money" option). If an NEO exercises an in-the-money option, he would then realize an actual gain. Any gain actually realized for options exercised in fiscal 2018 is reported in the "Option Exercises and Stock Vested" table below.   
+[END TABLE]
+Outstanding Equity Awards (Restricted Stock) at Fiscal Year-end
+The following table sets forth information regarding the number of shares and the value of unvested restricted stock awards held by the NEOs at August 31, 2018.
+[BEGIN TABLE]
+ Name     Grant Date       Number of Shares of Stock That Have Not Vested(1)       Market Value of  Shares of Stock That  Have Not Vested(2)    
+ Name     Grant Date       Number of Shares of Stock That Have Not Vested(1)       Market Value of  Shares of Stock That  Have Not Vested(2)    
+ F. Philip Snow     11/1/13        783     $ 179,612   
+ Gene Fernandez    —       —     $ —   
+ John W. Wiseman     11/1/13        392     $ 89,921   
+ Maurizio Nicolelli     11/1/13        979     $ 224,573   
+ Edward Baker-Greene    —       —     $ —   
+[END TABLE]
+[BEGIN TABLE]
+   (1)   The stock awards granted on November 1, 2013 cliff vested 60% on November 1, 2016 and the remaining 40% will vest on November 1, 2018. The awards previously granted to Messrs. Snow and Wiseman were granted when they were employees but not executive officers of the Company.  
+[END TABLE]
+[BEGIN TABLE]
+   (2)   The market value of the restricted stock awards that have not vested is calculated by multiplying the number of shares that have not vested by the closing price of FactSet common stock on August 31, 2018, which was $229.39.  
+[END TABLE]
+Outstanding Equity Awards (Stock Options) at Fiscal Year-end 
+The table below shows each NEO's outstanding option grants at August 31, 2018. For each outstanding option grant, the table shows the stock options that have vested (or that are "Exercisable") and those not yet vested (or that are "Unexercisable"). One option is the right to buy one share of common stock.
+[BEGIN TABLE]
+         Number of Options       Exercise      
+ Name      Grant Date     Exercisable       Unexercisable       Price     Expiration Date  
+ F. Philip Snow     11/1/11      4,729 (1)     —     $ 94.84    11/1/21  
+     11/1/12      9,488 (2)     —     $ 92.22    11/1/22  
+     11/3/14      12,742 (3)     8,495     $ 131.31    11/3/24  
+     7/1/15      40,000 (4)     80,000     $ 164.90    7/1/25  
+     11/1/16      6,592 (6)     26,369     $ 152.28    11/1/26  
+     11/2/17      — (6)     31,075     $ 189.98    11/2/27  
+ Gene Fernandez     12/22/17      —       15,363 (6)   $ 192.11    12/22/27  
+ John W. Wiseman     11/1/11      72 (1)     —     $ 94.84    11/1/21  
+     11/1/12      822 (2)     —     $ 92.22    11/1/22  
+     11/3/14      1,990 (3)     1,328     $ 131.31    11/3/24  
+     5/1/15      800 (5)     534     $ 159.14    5/1/25  
+     11/2/15      892 (6)     1,339     $ 175.20    11/2/25  
+     11/1/16      915 (6)     3,649     $ 152.28    11/1/26  
+     7/6/17      3,608 (6)     14,425     $ 160.58    7/6/27  
+     11/2/17      — (6)     7,769     $ 189.98    11/2/27  
+ Maurizio Nicolelli(7)     11/3/14      3,982 (3)     2,655     $ 131.31    11/3/24  
+     11/2/15      2,550 (6)     3,825     $ 175.20    11/2/25  
+     11/1/16      3,551 (6)     14,197     $ 152.28    11/1/26  
+     11/2/17      — (6)     7,769     $ 189.98    11/2/27  
+ Edward Baker-Greene(8)     6/1/15      2,912 (5)     1,942     $ 166.74    6/1/25  
+     11/2/15      6,800 (6)     10,200     $ 175.20    11/2/25  
+     11/1/16      1,648 (6)     6,592     $ 152.28    11/1/26  
+     11/2/17      — (6)     6,215     $ 189.98    11/2/27  
+[END TABLE]
+[BEGIN TABLE]
+   (1)   These options vested 20% one year after the grant date, with the remainder vesting at a rate of 1.67% per month.  
+[END TABLE]
+[BEGIN TABLE]
+   (2)   Included in the options granted on November 1, 2012 are performance-based options. These performance-based options vested 40% on November 1, 2014 and then 1.67% per month thereafter. The remaining performance-based options that did not become eligible to vest (representing 80% of the original grant) were recorded as pre-vesting forfeitures as of August 31, 2014.  
+[END TABLE]
+[BEGIN TABLE]
+   (3)   Options granted on November 3, 2014, cliff vested 60% after three years of service (on November 3, 2017) and the remaining 40% will vest after five years (on November 3, 2019).  
+[END TABLE]
+[BEGIN TABLE]
+   (4)   These options vest 11.11% upon each anniversary date of the grant and will be fully vested after nine years (on July 1, 2024).   
+[END TABLE]
+[BEGIN TABLE]
+   (5)   These options cliff vest 60% on the third anniversary date of the award and the remaining 40% cliff vest after the fifth anniversary date of the award.   
+[END TABLE]
+[BEGIN TABLE]
+   (6)   These options vest 20% on each anniversary date of the award over a five-year period.   
+[END TABLE]
+[BEGIN TABLE]
+   (7)   In accordance with Mr. Nicolelli's separation agreement, the Company accelerated the vesting of certain of his outstanding options effective upon his separation on December 31, 2018. In total, 12,582 of his outstanding grants were accelerated to vest as of his effective date of departure, with the remaining unvested options forfeited. In accordance with the terms of the FactSet Research Systems Inc. Stock Option and Award Plan, as Amended and Restated, Mr. Nicolelli will have 90 days in which to exercise these options after his separation. Any options not exercised at the end of this period will be forfeited.   
+[END TABLE]
+[BEGIN TABLE]
+   (8)   In accordance with Mr. Baker-Greene's separation agreement, the Company will accelerate the vesting of certain of his outstanding options effective upon his separation on November 30, 2018. In total, 7,261 of his outstanding grants were accelerated to vest as of his effective date of departure, with the remaining unvested options forfeited. In accordance with the terms of the FactSet Research Systems Inc. Stock Option and Award Plan, as Amended and Restated, Mr. Baker-Greene will have 90 days in which to exercise these options after his separation. Any options not exercised at the end of this period will be forfeited.   
+[END TABLE]
+Option Exercises and Stock Vested 
+The following table sets forth information regarding the number and value of stock options exercised and stock awards vested for each NEO during fiscal 2018. Exercised options and restricted stock are not required to be held for a specified period.
+[BEGIN TABLE]
+     Option Awards       Stock Awards    
+ Name     Number of Shares Acquired on Exercise       Value Realized on Exercise(1)       Number of Shares Acquired on Vesting       Value Realized on Vesting    
+ Name     Number of Shares Acquired on Exercise       Value Realized on Exercise(1)       Number of Shares Acquired on Vesting       Value Realized on Vesting    
+ Name     Number of Shares Acquired on Exercise       Value Realized on Exercise(1)       Number of Shares Acquired on Vesting       Value Realized on Vesting    
+ Edward Baker-Greene      —     $ —       —     $ —   
+[END TABLE]
+[BEGIN TABLE]
+   (1)   Based upon the market price of the purchased shares on the exercise date less the option exercise price paid for such shares.  
+[END TABLE]
+Nonqualified Deferred Compensation 
+The Company does not have a Compensation Deferral Program for NEOs, thus the nonqualified deferred compensation table has been omitted for fiscal 2018.
+Pension Benefits
+The Company does not have a pension program; thus, no pension retirement benefits were paid to executives in fiscal 2018.
+Potential Payments upon Termination or Change in Control
+At the end of fiscal 2018, the Company did not have employment agreements with any of the NEOs. The Company sponsors equity incentive compensation plans that provide the NEOs with accelerated compensation in connection with a termination of employment and/or change of control under the following circumstances.
+Change in Control
+The FactSet Research Systems Inc. Stock Option and Award Plan, as Amended and Restated was adopted by stockholder vote on December 19, 2017. This Plan has a "double trigger" vesting provision so that awards will vest only if (i) the awards are not assumed, continued or substituted by an acquirer in a transaction, or (ii) the awards are assumed, continued or substituted by an acquirer in a transaction but the grantee's service is involuntarily terminated within the 24-month period after the transaction, and, in the case of performance awards, the acceleration is limited to either (a) assumed achievement of the applicable performance goals at 100% of target with the result prorated based on the period of the grantee's actual service during the applicable full performance period, or (b) actual achievement of the applicable performance goals, as determined by the Compensation and Talent Committee. The prior plan under which options were granted before December 19, 2017 has an automatic full vesting upon a change in control of the Company. The change in beneficial ownership trigger in each case is more-than-50% change in ownership.
+Death or Disability
+Upon the NEO's death, any unexercised option award to the extent exercisable on the date of the NEO's death may be exercised in whole or in part, at any time within one year after the NEO's death, by a beneficiary or an estate. If a NEO becomes disabled, any unexercised option award to the extent exercisable at the date of such termination of employment due to disability may be exercised in whole or in part, at any time within one year after the date of termination.
+Termination without Cause
+If the Company terminates the NEO for any reason other than cause, death or disability, then any unexercised option award, to the extent exercisable at the date of such termination of employment, may be exercised, in whole or in part, at any time within three months after such termination of employment; provided, however, that if the NEO dies within the three-month period following such termination of employment, the option award may be exercised by the deceased NEO's personal representative or by the person to whom the option award is transferred by will or the applicable laws of descent and distribution within 180 days of the NEO's death, but in no event beyond the scheduled expiration of the option award.
+Termination with Cause
+Upon termination with cause, all unexercised awards terminate immediately.
+Employee Stock Purchase Plan 
+Upon termination of employment, all amounts in the participant's account are paid to the participant.
+Potential Payments upon Termination of Employment or a Change in Control Table
+The information in the table below summarizes the compensation that would be paid under plans and contractual arrangements in effect as of August 31, 2018 to each of the NEOs in the event of termination of such executive's employment with the Company and/or change of control of the Company as of that date. The amounts assume that the listed officer left FactSet effective August 31, 2018, and that the price per share of FactSet common stock on that date was $229.39. The amounts are based upon the difference between $229.39 and the exercise price of the unvested awards held by the NEO at August 31, 2018.
+[BEGIN TABLE]
+ Name     Death or Disability       Termination Without Cause       Termination With Cause       Change in Control(1)    
+ Name     Death or Disability       Termination Without Cause       Termination With Cause       Change in Control(1)    
+ Gene Fernandez    $ -     $ -     $ -     $ 572,733   
+ John W. Wiseman    $ -     $ -     $ -     $ 1,910,380   
+ Maurizio Nicolelli(2)    $ -     $ -     $ -     $ 2,093,159   
+ Edward Baker-Greene(3)    $ -     $ -     $ -     $ 1,427,647   
+[END TABLE]
+[BEGIN TABLE]
+   (1)   The Change in Control payout is applicable to (a) all option awards granted to Company employees that have not been exercised, that have not expired by their terms, or for which restrictions have not yet lapsed shall immediately be fully exercisable and (b) all stock awards granted to Company employees that have not vested or for which restrictions have not yet lapsed shall immediately be fully vested.  
+[END TABLE]
+[BEGIN TABLE]
+   (2)   For information regarding Mr. Nicolelli's separation agreement, see footnote 9 to the Summary Compensation Table.   
+[END TABLE]
+[BEGIN TABLE]
+   (3)   For information regarding Mr. Baker-Greene's separation agreement, see footnote 10 to the Summary Compensation Table.  
+[END TABLE]
+CEO Pay Ratio
+As required by the Dodd-Frank Wall Street Reform and Consumer Protection Act, and SEC rules and regulations, FactSet is providing the following information about the relationship of the annual total compensation of its employees and the annual total compensation of Mr. Snow.
+For the fiscal year completed August 31, 2018, the median of the annual total compensation of all employees at FactSet (other than its CEO), was $15,331, and the annual total compensation of its CEO, as reported in the Summary Compensation Table of this Proxy Statement, was $3,129,509. Based on this information, for 2018 a reasonable estimate, calculated in a manner consistent with SEC regulations, of the ratio of the annual total compensation of its CEO, to the median of the annual total compensation of all employees was 204 to 1. Given the differences in their particular facts and circumstances, and the various methodologies that public companies may use to determine their pay ratio, the ratio should not be used as a basis for comparison between companies.
+For purposes of the above disclosure, FactSet is required to identify its median employee based on its global workforce, without regard to their location, compensation arrangements, or employment status (full-time versus part-time). As such, to identify the median of the annual total compensation of all employees, as well as to determine the annual total compensation of the "median employee," the methodology and the material assumptions that the Company used were as follows:
+[BEGIN TABLE]
+   ■   Selected August 31, 2018 as the date upon which the Company would identify the "median employee" as it corresponds to its fiscal year end  
+[END TABLE]
+[BEGIN TABLE]
+   ■   Provided annualized compensation of all permanent employees who were new-hires in 2018  
+[END TABLE]
+[BEGIN TABLE]
+   ■   No cost-of-living adjustments in identifying the "median employee"  
+[END TABLE]
+[BEGIN TABLE]
+   ■   Applied the local currency to U.S. dollar exchange spot rate as of August 31, 2018, to the compensation paid to non-U.S. associates to facilitate comparison of all associates in U.S. dollars.  
+[END TABLE]
+For purposes of measuring the compensation of the Company's employees, FactSet selected base salary or wages plus overtime pay, plus annual cash incentive bonuses, plus allowances, plus equity grants, as the most appropriate measures of compensation. Using this methodology, FactSet determined that the "median employee" was a full-time, salaried employee located in the Company's Hyderabad, India office, where 34% of FactSet's employees are based, or 3,297 of the Company's 9,571 employees worldwide at August 31, 2018.
+With respect to the annual total compensation of the "median employee," FactSet identified and calculated the elements of such employee's compensation for 2018 in accordance with the requirements of Item 402(c)(2)(x) of Regulation S-K, resulting in annual total compensation in the amount of $15,331. With respect to the annual total compensation of its CEO, FactSet used the amount reported in the "Total" column of the 2018 Summary Compensation Table included in this Proxy Statement.
+Compensation Risk Assessment
+The Compensation and Talent Committee assessed, with the assistance of management, the Company's compensation policies and practices to determine whether they create risks that are reasonably likely to have a material adverse effect on the Company.
+We believe that risks arising from our compensation policies and practices for our employees are not reasonably likely to have a material adverse effect on the Company. In reaching this determination, we have taken into account the design elements of our compensation policies and practices, including a mixture of cash and equity-based compensation, multi-year vesting of equity awards, a claw back policy for senior executives, the use of multiple financial performance measures and internal controls over financial reporting, reasonable performance goals, and oversight by the Compensation and Talent Committee. Based on this analysis, the Compensation and Talent Committee concluded that our compensation programs, both executive and broad-based, provide multiple effective safeguards to protect against unnecessary risk-taking, effectively balancing risk and reward in the best interest of our stockholders.
+Proposal 3: Advisory Vote on Executive Compensation
+As required by Section 14A of the Securities and Exchange Act of 1934, FactSet seeks an advisory, non-binding stockholder vote with respect to compensation awarded to its NEOs. FactSet provides this vote on an annual basis.
+As previously discussed in the CD&A, FactSet designs its compensation programs to maintain a performance and achievement-oriented environment throughout the Company. FactSet's executive compensation program is overseen by the Company's Compensation and Talent Committee to encourage decisions and behaviors that align with the long-term interests of the Company's stockholders. The Compensation and Talent Committee has designed the executive compensation policies for the Company's NEOs to meet the following goals and principles:
+[BEGIN TABLE]
+● Ensure executive compensation is aligned with FactSet's corporate strategies and business objectives.  
+[END TABLE]
+[BEGIN TABLE]
+● Balance an executive officer's compensation between short-term and long-term performance objectives that enhance stockholder value by linking rewards to measurable corporate and individual performance.  
+[END TABLE]
+[BEGIN TABLE]
+● Maintain executive compensation at levels commensurate with relative contributions of other members of senior management.  
+[END TABLE]
+[BEGIN TABLE]
+● Reflect qualitative factors beyond the quantitative financial guidelines as key considerations in the determination of individual executive compensation payments.  
+[END TABLE]
+[BEGIN TABLE]
+● Attract and retain talented personnel by considering compensation offered for similar positions by other companies in the technology and financial information industries.  
+[END TABLE]
+Required Vote
+FactSet asks its stockholders to indicate their support for the compensation awarded to its NEOs as described in this Proxy Statement. This proposal, commonly known as a "say-on-pay" proposal, gives the Company's stockholders the opportunity to express their views on FactSet's NEO compensation. This vote is not intended to address any specific item of compensation, but rather the overall compensation of the NEOs and the philosophy, policies and practices described in this Proxy Statement. Accordingly, the Company asks its stockholders to vote "FOR" the following resolution at the meeting:
+"RESOLVED, that the Company's stockholders approve, on an advisory basis, the compensation of the named executive officers, as disclosed in the Company's Proxy Statement for the 2018 Annual Meeting of Stockholders pursuant to the compensation disclosure rules of the SEC, including the Compensation Discussion and Analysis, the compensation tables and related notes and narrative."
+The say-on-pay vote is advisory, and therefore not binding on the Company, the Compensation and Talent Committee, or its Board. The Company's Board and its Compensation and Talent Committee value the opinions of the stockholders and will take into account the outcome of this vote in considering future compensation arrangements.
+SECURITY OWNERSHIP OF CERTAIN BENEFICIAL OWNERS AND MANAGEMENT
+The following tables set forth information known to FactSet with respect to beneficial ownership of the Company's common stock as of October 24, 2018 for (i) each director and nominee, (ii) each holder of more than 5% of FactSet common stock, (iii) FactSet's Principal Executive Officer, Principal Financial Officer and the three most highly compensated executive officers (other than the Principal Executive Officer and Principal Financial Officer) named in the table entitled "Summary Compensation Table" and (iv) all executive officers and directors as a group.
+Beneficial ownership is determined under the rules of the SEC and generally includes voting or investment power with respect to securities. Except as indicated in the footnotes to the tables and pursuant to applicable community property laws, to FactSet's knowledge, the persons named in the table below have sole voting and investment power with respect to all shares of FactSet common stock beneficially owned. The number of shares beneficially owned by each person or group as of October 24, 2018, includes shares of FactSet common stock that such person or group had the right to acquire on or within 60 days after October 24, 2018, including upon the exercise of stock options and the vesting of restricted stock awards.
+For each beneficial owner and individual included in the tables below, percentage ownership of common stock is calculated by dividing the number of shares beneficially owned by the 38,037,295 shares of FactSet common stock outstanding as of October 24, 2018. Any securities that were not outstanding but subject to options exercisable or the vesting of restricted stock awards within 60 days after October 24, 2018, were deemed to be outstanding in determining the percentage owned by such person, but were not deemed to be outstanding in determining the percentage owned by any other person.
+Beneficial Owners
+Based on filings made under Sections 13(d) and 13(g) of the Securities Exchange Act of 1934, as amended, as of October 24, 2018, the only persons or entities known by the Company to be a beneficial owner of more than 5% of FactSet's common stock were as follows:
+[BEGIN TABLE]
+ The Vanguard Group, Inc.      3,652,096 (1)     9.6% 
+ 100 Vanguard Boulevard Malvern, PA 19355(1)                  
+ 100 Vanguard Boulevard Malvern, PA 19355(1)                  
+ Loomis, Sayles & Company, L.P.      3,297,694 (2)     8.7% 
+ One Financial Center Boston, MA 02111(2)                  
+ One Financial Center Boston, MA 02111(2)                  
+ BlackRock Fund Advisors      3,251,657 (3)     8.5% 
+ 400 Howard Street San Francisco, CA 94105(3)                  
+ 400 Howard Street San Francisco, CA 94105(3)                  
+ BAMCO, Inc.      2,862,047 (4)     7.5% 
+ 767 Fifth Avenue 49th Floor New York, NY 10153(4)                  
+ 767 Fifth Avenue 49th Floor New York, NY 10153(4)                  
+ 767 Fifth Avenue 49th Floor New York, NY 10153(4)                  
+ Wells Fargo & Company      2,152,841 (5)     5.7% 
+ 420 Montgomery Street San Francisco, CA 94163(5)                  
+ 420 Montgomery Street San Francisco, CA 94163(5)                  
+[END TABLE]
+[BEGIN TABLE]
+   (1)   The information regarding The Vanguard Group, Inc. is based solely on a Schedule 13G/A filed by The Vanguard Group, Inc. with the SEC on February 9, 2018 (the "Vanguard Group 13G/A"). According to the Vanguard Group 13G/A, the figure includes sole voting power with respect to 21,892 shares, shared voting power with respect to 4,721 shares, sole dispositive power with respect to 3,628,610 shares, and shared dispositive power with respect to 23,486 shares.   
+[END TABLE]
+[BEGIN TABLE]
+   (2)   The information regarding Loomis, Sayles & Company, L.P. is based solely on a Schedule 13G/A filed by Loomis, Sayles & Company, L.P. with the SEC on February 14, 2018 (the "Loomis 13G/A"). According to the Loomis 13G/A, the figure includes sole voting power with respect to 2,367,207 shares, shared voting power with respect to 0 shares, sole dispositive power with respect to 3,297,694 shares, and shared dispositive power with respect to 0 shares.   
+[END TABLE]
+[BEGIN TABLE]
+   (3)   The information regarding BlackRock Fund Advisors is based solely on a Schedule 13G/A filed by BlackRock Fund Advisors with the SEC on January 29, 2018 (the "BlackRock 13G/A"). According to the BlackRock 13G/A, the figure includes sole voting power with respect to 3,103,802 shares, shared voting power with respect to 0 shares, sole dispositive power with respect to 3,251,657 shares, and shared dispositive power with respect to 0 shares.   
+[END TABLE]
+[BEGIN TABLE]
+   (4)   The information regarding BAMCO, Inc. is based solely on a Schedule 13G/A filed by BAMCO, Inc. with the SEC on February 14, 2018 (the "BAMCO 13G/A"). According to the BAMCO 13G/A, the figure includes sole voting power with respect to 0 shares, shared voting power with respect to 2,712,901 shares, sole dispositive power with respect to 0 shares, and shared dispositive power with respect to 2,862,047 shares.  
+[END TABLE]
+[BEGIN TABLE]
+   (5)   The information regarding Wells Fargo & Company is based solely on a Schedule 13G/A filed by Wells Fargo & Company with the SEC on January 29, 2018 (the "Wells Fargo 13G/A"). According to the Wells Fargo 13G/A, the figure includes sole voting power with respect to 18,497 shares, shared voting power with respect to 2,108,307 shares, sole dispositive power with respect to 18,497 shares, and shared dispositive power with respect to 2,134,094 shares.  
+[END TABLE]
+Directors and NEOs
+The table below sets forth, as of October 24, 2018, information regarding the beneficial ownership of the Company's common stock by (1) each director and each NEO of the Company and (2) by all of the Company's directors and executive officers as a group (16 persons). Percentage of share ownership amounts are based on 38,037,295 shares of FactSet common stock outstanding as of October 24, 2018.
+** Percentage of FactSet common stock is less than 1%.
+[BEGIN TABLE]
+   (1)   The address for each of these beneficial owners is FactSet Research Systems Inc., 601 Merritt 7, Norwalk, Connecticut 06851.  
+[END TABLE]
+[BEGIN TABLE]
+   (2)   Beneficial ownership includes shares that can be acquired upon the exercise of stock options or the vesting of restricted stock awards within 60 days of October 24, 2018.  
+[END TABLE]
+[BEGIN TABLE]
+   (3)   To the Company's knowledge, each executive officer and director, as of October 24, 2018, had sole voting and sole investment power with respect to his or her shares of common stock.   
+[END TABLE]
+[BEGIN TABLE]
+   (4)   Includes 87,141 shares of FactSet common stock issuable upon the exercise of stock options and the vesting of restricted stock awards. Mr. Snow is also a director of the Company.  
+[END TABLE]
+[BEGIN TABLE]
+   (5)   Includes 3,073 shares of FactSet common stock issuable upon the exercise of stock options.  
+[END TABLE]
+[BEGIN TABLE]
+   (6)   Includes 12,404 shares of FactSet common stock issuable upon the exercise of stock options and the vesting of restricted stock awards.  
+[END TABLE]
+[BEGIN TABLE]
+   (7)   Includes 17,440 shares of FactSet common stock issuable upon the exercise of stock options and the vesting of restricted stock awards.   
+[END TABLE]
+[BEGIN TABLE]
+   (8)   Includes 17,651 shares of FactSet common stock issuable upon the exercise of stock options.  
+[END TABLE]
+[BEGIN TABLE]
+   (9)   Includes 11,234 shares of FactSet common stock issuable upon the exercise of stock options.  
+[END TABLE]
+[BEGIN TABLE]
+   (10)   Includes 8,612 shares of FactSet common stock issuable upon the exercise of stock options.  
+[END TABLE]
+[BEGIN TABLE]
+   (11)   Includes 25,633 shares of FactSet common stock issuable upon the vesting of restricted stock awards.  
+[END TABLE]
+Section 16(a) Beneficial Ownership Reporting Compliance
+Section 16(a) of the Securities Exchange Act of 1934, as amended, requires the Company's executive officers, directors and persons who own more than 10% of FactSet's common stock to file reports of ownership and changes in ownership with the SEC. These persons are required to provide FactSet with copies of all Section 16(a) forms that they file. Based solely upon a review of SEC Forms 3, 4 and 5 furnished to the Company and written representations from the Company's executive officers and directors, the Company believes that those persons complied with all Section 16(a) filing requirements during fiscal 2018 with respect to transactions in the Company's stock except as follows: one Form 4 was filed on July 18, 2018  on behalf of Philip Hadley,  a director, reflecting his sale of 70,000 shares of FactSet common stock over a two-day period (July 12, 2018 and July 13, 2018). These transactions should have been reported no later than two business days of the date of the transaction but were not reported in time due to the Company's inadvertent error. Upon discovery of this oversight, FactSet immediately rectified the situation by filing a Form 4 for these transactions on July 18, 2018, two days late for the July 12 transactions and one day late for the July 13 transactions.
+EQUITY COMPENSATION PLAN INFORMATION
+The following table summarizes as of August 31, 2018, the number of outstanding equity awards granted to employees and non-employee directors, as well as the number of equity awards remaining available for future issuance, under FactSet's equity compensation plans:
+[BEGIN TABLE]
+ (In thousands, except per share data)                          
+     (a)                (c)    
+     Number of securities       (b)        Number of securities remaining to be issued upon exercise       Weighted-average       available for future issuances under of outstanding options and       exercise price of       equity compensation plans (excluding    
+ Plan category     restricted stock vesting       outstanding options       securities reflected in column (a))    
+ Equity compensation plans approved by security holders      3,286 (1)   $ 153.05 (2)     6,850 (3) 
+ Equity compensation plans not approved by security holders      —       —       —   
+ Total      3,286 (1)   $ 153.05 (2)     6,850 (3) 
+[END TABLE]
+[BEGIN TABLE]
+   (1)   Includes shares of FactSet common stock subject to outstanding restricted stock that will entitle each holder to the issuance of one share of common stock as they vest.  
+[END TABLE]
+[BEGIN TABLE]
+   (2)   Calculated without taking into account shares of FactSet common stock subject to outstanding restricted stock that will become issuable as they vest, without any cash consideration or other payment required for such shares.   
+[END TABLE]
+[BEGIN TABLE]
+   (3)   Includes 282,398 shares available for future issuance under the FactSet Research Systems Inc. Non-Employee Directors' Stock Option and Award Plan, as Amended and Restated and 268,942 shares available for purchase under the FactSet Research Systems Inc. 2008 Employee Stock Purchase Plan, as Amended and Restated.  
+[END TABLE]
+CERTAIN RELATIONSHIPS AND RELATED TRANSACTIONS
+The Board is committed to upholding the highest legal and ethical conduct in fulfilling its responsibilities and recognizes that related party transactions can present a heightened risk of potential or actual conflicts of interest. Accordingly, as a general matter, it is FactSet's preference to avoid related party transactions. FactSet's Audit Committee charter requires that members of the Audit Committee, all of whom are independent directors, review and approve all related party transactions for which such approval is required under applicable law, including SEC, NYSE and NASDAQ rules. For purposes of this section, "related person" and "transaction" have the meanings contained in Item 404 of Regulation S-K. Under these rules, a related person is a director, executive officer, nominee for director, or more than 5% stockholder of the company since the beginning of the last fiscal year and their immediate family members. The Company monitors any transaction or series of transactions in which the Company is a participant, the amount involved exceeds $120,000, and a related person has a direct or indirect material interest. The Audit Committee would determine whether the related person has a material interest in a transaction and would approve, ratify, rescind, or take other action with respect to the transaction in its discretion. In accordance with listing requirements, the Company does not have relationships with any non-employee directors in which the director is compensated in excess of $120,000, excluding fees for board service.
+In fiscal 2018, there were no related-person transactions under the relevant standards. In addition, the Audit Committee is responsible for reviewing and investigating any matters pertaining to the integrity of management, including conflicts of interest and adherence to FactSet's Code of Business Conduct and Ethics. Under the Code of Business Conduct and Ethics, directors, officers and all other members of the workforce are expected to avoid any relationship, influence or activity that would cause or even appear to cause a conflict of interest. FactSet's Corporate Governance Guidelines require a director to promptly disclose to the Board any potential or actual conflict of interest involving him or her. Under the Guidelines, the Board will determine an appropriate resolution on a case-by-case basis. All directors must excuse themselves from any discussion or decision affecting their personal, business or professional interests. All related party transactions shall be disclosed in FactSet's applicable filings with the SEC as required under the applicable rules.
+OTHER MATTERS
+Stockholder Proposals and Stockholder Nomination of Directors 
+Stockholders who wish to present proposals for inclusion in the proxy materials to be distributed by the Company in connection with its 2019 Annual Meeting of Stockholders must submit their proposals as provided in the By-laws to the Company's Secretary, Rachel R. Stern, at FactSet's principal executive officers so they are received no earlier than August 20, 2019 and no later than September 19, 2019 (or such other dates as determined in accordance with the Company's By-laws as applicable). Any such proposals must also comply with applicable SEC rules to be included in proxy materials distributed by the Company. Stockholders who intend to nominate persons for election to the Board at the 2019 Annual Meeting of Stockholders must submit nominations as provided in the Company's By-laws to FactSet's Secretary within the same time periods as noted previously in this paragraph. Stockholders may also submit names of persons for consideration by the Nominating and Corporate Governance Committee for a directorship as discussed under the "Director Nominations" section appearing earlier in this Proxy Statement.
+Delivery of Documents to Stockholders Sharing an Address 
+If you are a beneficial owner, but not the record holder, of shares, your broker, bank or other nominee may deliver only one copy of the Company's Proxy Statement and Annual Report to multiple stockholders who share an address unless that nominee has received contrary instructions from one or more of the stockholders. The Company will deliver promptly, upon written or oral request, a separate copy of the Proxy Statement and Annual Report to a stockholder at a shared address to which a single copy of the documents were delivered. A stockholder who wishes to receive a separate copy of the Proxy Statement and Annual Report, now or in the future, should submit their request to the Company's Investor Relations Department at 1-203-810-1000 or by submitting a written request to Rachel R. Stern, Secretary, 601 Merritt 7, Norwalk, Connecticut 06851. Beneficial owners sharing an address who are receiving multiple copies of proxy materials and Annual Reports and wish to receive a single copy of such materials in the future will need to contact your broker, bank or other nominee to request that only a single copy of each document be mailed to all stockholders at the shared address in the future.
+Other Business
+The Board does not intend to bring any other business before the Meeting and so far as is known to the Board, no matters are to be brought before the Meeting except as specified in the Notice of the Meeting. However, as to any other business, which may properly come before the Meeting, it is intended that proxies, in the form enclosed, will be voted in respect thereof in accordance with the judgment of the persons voting such proxies.
+Rachel R. Stern  Executive Vice President, General Counsel and Secretary  Norwalk, Connecticut
+October 30, 2018
+ 
