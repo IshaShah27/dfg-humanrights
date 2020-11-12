@@ -1,2 +1,2 @@
 # dfg-humanrights
-Data For Good - Cost of Human Rights 
+Data For Good - Cost of Human Rights Violations
